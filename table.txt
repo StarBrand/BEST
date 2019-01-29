@@ -1,0 +1,2 @@
+EC Number	Systematic Name	Recommended Name	UniProt	Organism	Organism Commentary	Organism Literature (Pubmed ID)	Molecular Weight Literature (Pubmed ID)	Molecular Weight value	Molecular Weight Commentary
+6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase	P29933 AND P29934 AND Q9HZQ3 AND P29929  	Pseudomonas denitrificans (nomen rejiciendum)		1429466; 1429466; 	1429466; 	258000.0	gel filtration
