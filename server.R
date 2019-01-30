@@ -11,10 +11,13 @@ library(shiny)
 library(DT)
 library(rJava)
 .jinit('BrendaSOAP.jar')
-user <- .jnew("client.User","juan.saez.hidalgo@gmail.com", "BrendaUser32")
 
 # Define server logic required to draw a histogram
 shinyServer(function(input, output, session) {
+  
+  user <- eventReactive(input$logIn, {
+    .jnew("client.User",input$mail, input$pass)
+  })
   
   encoder_param<-function(){
     cond <- 0
@@ -65,22 +68,26 @@ shinyServer(function(input, output, session) {
     cond
   }
   
+  observeEvent(input$logIn, {
+    updateTabsetPanel(session, "inTabset",
+                      selected = "proteinSearch")
+  })
+  
   observeEvent(input$ecNumber, {
-    updateTabsetPanel(session, "tabs",
-                      selected = "proteinPanel")
+    updateTabsetPanel(session, "protein",
+                      selected = "proteinTable")
   })
   
   observeEvent(input$parameters, {
-    updateTabsetPanel(session, "tabs",
-                      selected = "parameterPanel")
+    updateTabsetPanel(session, "protein",
+                      selected = "parameterTable")
   })
   
   output$distProteinTable <- DT::renderDT({
-    input$ecNumber
-    main <- .jnew('main.BrendaSOAP', input$ec_number, user, as.integer(0), as.integer(0))
+    main <- .jnew('main.BrendaSOAP', input$ec_number, user(), as.integer(0), as.integer(0))
     main$getProtein()
     table <- read.table("table.txt", sep = '\t', na.strings = 'null', header = TRUE)
-    })
+  })
   
   output$proteinTable <- downloadHandler(
     filename <- 'protein_table.csv',
@@ -89,15 +96,28 @@ shinyServer(function(input, output, session) {
       }
   )
   
+  fasta <- function(){
+    main <- .jnew('main.BrendaSOAP', input$ec_number, user(), as.integer(0), as.integer(0))
+    main$getProtein()
+    main$getFastaSequence()
+    read.table("fasta_output.txt", sep = '\t');
+  }
+  
+  output$fasta <- downloadHandler(
+    filename <- 'fasta.txt',
+    content <- function(name){
+      write.table(fasta(), name)
+    }
+  )
+  
   output$distParameterTable <- renderTable({
-    input$parameters
-    main <- .jnew('main.BrendaSOAP', input$ec_number, user,
+    main <- .jnew('main.BrendaSOAP', input$ec_number, user(),
                   as.integer(encoder_param()),
                   as.integer(encoder_filter()) )
     main$getProtein()
     main$getParameters()
     table <- read.table("table.txt", sep = '\t', na.strings = 'null', header = TRUE)
-    })
+  })
   
   output$parameterTable <- downloadHandler(
     filename <- 'parameter_table.csv',
