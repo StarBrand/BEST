@@ -1,0 +1,488 @@
+EC_Number	Organism	PDB	link
+3.2.1.8	Aegilops	5ay7	https://www.rcsb.org/structure/5ay7
+3.2.1.8	Aspergillus	1bk1	https://www.rcsb.org/structure/1bk1
+3.2.1.8	Aspergillus	1ukr	https://www.rcsb.org/structure/1ukr
+3.2.1.8	Aspergillus	2qz2	https://www.rcsb.org/structure/2qz2
+3.2.1.8	Aspergillus	3ri8	https://www.rcsb.org/structure/3ri8
+3.2.1.8	Aspergillus	3ri9	https://www.rcsb.org/structure/3ri9
+3.2.1.8	Aspergillus	4xuy	https://www.rcsb.org/structure/4xuy
+3.2.1.8	Aspergillus kawachii	1bk1	https://www.rcsb.org/structure/1bk1
+3.2.1.8	Aspergillus kawachii	3ri8	https://www.rcsb.org/structure/3ri8
+3.2.1.8	Aspergillus kawachii	3ri9	https://www.rcsb.org/structure/3ri9
+3.2.1.8	Aspergillus niger	1ukr	https://www.rcsb.org/structure/1ukr
+3.2.1.8	Aspergillus niger	2qz2	https://www.rcsb.org/structure/2qz2
+3.2.1.8	Aspergillus niger	4xuy	https://www.rcsb.org/structure/4xuy
+3.2.1.8	Bacillus	1bcx	https://www.rcsb.org/structure/1bcx
+3.2.1.8	Bacillus	1bvv	https://www.rcsb.org/structure/1bvv
+3.2.1.8	Bacillus	1c5h	https://www.rcsb.org/structure/1c5h
+3.2.1.8	Bacillus	1c5i	https://www.rcsb.org/structure/1c5i
+3.2.1.8	Bacillus	1h4g	https://www.rcsb.org/structure/1h4g
+3.2.1.8	Bacillus	1h4h	https://www.rcsb.org/structure/1h4h
+3.2.1.8	Bacillus	1hv0	https://www.rcsb.org/structure/1hv0
+3.2.1.8	Bacillus	1hv1	https://www.rcsb.org/structure/1hv1
+3.2.1.8	Bacillus	1igo	https://www.rcsb.org/structure/1igo
+3.2.1.8	Bacillus	1qh6	https://www.rcsb.org/structure/1qh6
+3.2.1.8	Bacillus	1qh7	https://www.rcsb.org/structure/1qh7
+3.2.1.8	Bacillus	1xnb	https://www.rcsb.org/structure/1xnb
+3.2.1.8	Bacillus	1xnc	https://www.rcsb.org/structure/1xnc
+3.2.1.8	Bacillus	1xxn	https://www.rcsb.org/structure/1xxn
+3.2.1.8	Bacillus	2b45	https://www.rcsb.org/structure/2b45
+3.2.1.8	Bacillus	2b46	https://www.rcsb.org/structure/2b46
+3.2.1.8	Bacillus	2bvv	https://www.rcsb.org/structure/2bvv
+3.2.1.8	Bacillus	2dcj	https://www.rcsb.org/structure/2dcj
+3.2.1.8	Bacillus	2dck	https://www.rcsb.org/structure/2dck
+3.2.1.8	Bacillus	2dcy	https://www.rcsb.org/structure/2dcy
+3.2.1.8	Bacillus	2dcz	https://www.rcsb.org/structure/2dcz
+3.2.1.8	Bacillus	2f6b	https://www.rcsb.org/structure/2f6b
+3.2.1.8	Bacillus	2f8q	https://www.rcsb.org/structure/2f8q
+3.2.1.8	Bacillus	2fgl	https://www.rcsb.org/structure/2fgl
+3.2.1.8	Bacillus	2nqy	https://www.rcsb.org/structure/2nqy
+3.2.1.8	Bacillus	2qz3	https://www.rcsb.org/structure/2qz3
+3.2.1.8	Bacillus	2uwf	https://www.rcsb.org/structure/2uwf
+3.2.1.8	Bacillus	2z79	https://www.rcsb.org/structure/2z79
+3.2.1.8	Bacillus	3exu	https://www.rcsb.org/structure/3exu
+3.2.1.8	Bacillus	3lb9	https://www.rcsb.org/structure/3lb9
+3.2.1.8	Bacillus	3vzj	https://www.rcsb.org/structure/3vzj
+3.2.1.8	Bacillus	3vzk	https://www.rcsb.org/structure/3vzk
+3.2.1.8	Bacillus	3vzl	https://www.rcsb.org/structure/3vzl
+3.2.1.8	Bacillus	3vzm	https://www.rcsb.org/structure/3vzm
+3.2.1.8	Bacillus	3vzn	https://www.rcsb.org/structure/3vzn
+3.2.1.8	Bacillus	3vzo	https://www.rcsb.org/structure/3vzo
+3.2.1.8	Bacillus	4ixl	https://www.rcsb.org/structure/4ixl
+3.2.1.8	Bacillus	4qce	https://www.rcsb.org/structure/4qce
+3.2.1.8	Bacillus	4qcf	https://www.rcsb.org/structure/4qcf
+3.2.1.8	Bacillus	4qdm	https://www.rcsb.org/structure/4qdm
+3.2.1.8	Bacillus	5eb8	https://www.rcsb.org/structure/5eb8
+3.2.1.8	Bacillus	5eba	https://www.rcsb.org/structure/5eba
+3.2.1.8	Bacillus	5efd	https://www.rcsb.org/structure/5efd
+3.2.1.8	Bacillus	5eff	https://www.rcsb.org/structure/5eff
+3.2.1.8	Bacillus	5k9y	https://www.rcsb.org/structure/5k9y
+3.2.1.8	Bacillus	5tvv	https://www.rcsb.org/structure/5tvv
+3.2.1.8	Bacillus	5tvy	https://www.rcsb.org/structure/5tvy
+3.2.1.8	Bacillus	5tzo	https://www.rcsb.org/structure/5tzo
+3.2.1.8	Bacillus circulans	1bcx	https://www.rcsb.org/structure/1bcx
+3.2.1.8	Bacillus circulans	1bvv	https://www.rcsb.org/structure/1bvv
+3.2.1.8	Bacillus circulans	1c5h	https://www.rcsb.org/structure/1c5h
+3.2.1.8	Bacillus circulans	1c5i	https://www.rcsb.org/structure/1c5i
+3.2.1.8	Bacillus circulans	1hv0	https://www.rcsb.org/structure/1hv0
+3.2.1.8	Bacillus circulans	1hv1	https://www.rcsb.org/structure/1hv1
+3.2.1.8	Bacillus circulans	1xnb	https://www.rcsb.org/structure/1xnb
+3.2.1.8	Bacillus circulans	1xnc	https://www.rcsb.org/structure/1xnc
+3.2.1.8	Bacillus circulans	2bvv	https://www.rcsb.org/structure/2bvv
+3.2.1.8	Bacillus circulans	3lb9	https://www.rcsb.org/structure/3lb9
+3.2.1.8	Bacillus circulans	3vzj	https://www.rcsb.org/structure/3vzj
+3.2.1.8	Bacillus circulans	3vzk	https://www.rcsb.org/structure/3vzk
+3.2.1.8	Bacillus circulans	3vzl	https://www.rcsb.org/structure/3vzl
+3.2.1.8	Bacillus circulans	3vzm	https://www.rcsb.org/structure/3vzm
+3.2.1.8	Bacillus circulans	3vzn	https://www.rcsb.org/structure/3vzn
+3.2.1.8	Bacillus circulans	3vzo	https://www.rcsb.org/structure/3vzo
+3.2.1.8	Bacillus halodurans	2uwf	https://www.rcsb.org/structure/2uwf
+3.2.1.8	Bacillus sp.	2dcj	https://www.rcsb.org/structure/2dcj
+3.2.1.8	Bacillus sp.	2dck	https://www.rcsb.org/structure/2dck
+3.2.1.8	Bacillus sp.	2f8q	https://www.rcsb.org/structure/2f8q
+3.2.1.8	Bacillus sp.	2fgl	https://www.rcsb.org/structure/2fgl
+3.2.1.8	Bacillus sp.	4qce	https://www.rcsb.org/structure/4qce
+3.2.1.8	Bacillus sp.	4qcf	https://www.rcsb.org/structure/4qcf
+3.2.1.8	Bacillus sp.	4qdm	https://www.rcsb.org/structure/4qdm
+3.2.1.8	Bacillus sp.	5eb8	https://www.rcsb.org/structure/5eb8
+3.2.1.8	Bacillus sp.	5eba	https://www.rcsb.org/structure/5eba
+3.2.1.8	Bacillus sp.	5efd	https://www.rcsb.org/structure/5efd
+3.2.1.8	Bacillus sp.	5eff	https://www.rcsb.org/structure/5eff
+3.2.1.8	Bacillus sp. 41M-1	2dcj	https://www.rcsb.org/structure/2dcj
+3.2.1.8	Bacillus sp. 41M-1	2dck	https://www.rcsb.org/structure/2dck
+3.2.1.8	Bacillus sp. NG-27	2f8q	https://www.rcsb.org/structure/2f8q
+3.2.1.8	Bacillus sp. NG-27	2fgl	https://www.rcsb.org/structure/2fgl
+3.2.1.8	Bacillus sp. NG-27	4qce	https://www.rcsb.org/structure/4qce
+3.2.1.8	Bacillus sp. NG-27	4qcf	https://www.rcsb.org/structure/4qcf
+3.2.1.8	Bacillus sp. NG-27	4qdm	https://www.rcsb.org/structure/4qdm
+3.2.1.8	Bacillus sp. NG-27	5eb8	https://www.rcsb.org/structure/5eb8
+3.2.1.8	Bacillus sp. NG-27	5eba	https://www.rcsb.org/structure/5eba
+3.2.1.8	Bacillus sp. NG-27	5efd	https://www.rcsb.org/structure/5efd
+3.2.1.8	Bacillus sp. NG-27	5eff	https://www.rcsb.org/structure/5eff
+3.2.1.8	Bacillus subtilis	1igo	https://www.rcsb.org/structure/1igo
+3.2.1.8	Bacillus subtilis	1xxn	https://www.rcsb.org/structure/1xxn
+3.2.1.8	Bacillus subtilis	2b45	https://www.rcsb.org/structure/2b45
+3.2.1.8	Bacillus subtilis	2b46	https://www.rcsb.org/structure/2b46
+3.2.1.8	Bacillus subtilis	2dcy	https://www.rcsb.org/structure/2dcy
+3.2.1.8	Bacillus subtilis	2dcz	https://www.rcsb.org/structure/2dcz
+3.2.1.8	Bacillus subtilis	2qz3	https://www.rcsb.org/structure/2qz3
+3.2.1.8	Bacillus subtilis	2z79	https://www.rcsb.org/structure/2z79
+3.2.1.8	Bacillus subtilis	3exu	https://www.rcsb.org/structure/3exu
+3.2.1.8	Bacillus subtilis	5k9y	https://www.rcsb.org/structure/5k9y
+3.2.1.8	Bacillus subtilis	5tvv	https://www.rcsb.org/structure/5tvv
+3.2.1.8	Bacillus subtilis	5tvy	https://www.rcsb.org/structure/5tvy
+3.2.1.8	Bacillus subtilis	5tzo	https://www.rcsb.org/structure/5tzo
+3.2.1.8	Byssochlamys spectabilis	1pvx	https://www.rcsb.org/structure/1pvx
+3.2.1.8	Caldicellulosiruptor	4l4o	https://www.rcsb.org/structure/4l4o
+3.2.1.8	Caldicellulosiruptor	4l4p	https://www.rcsb.org/structure/4l4p
+3.2.1.8	Caldicellulosiruptor	4pmd	https://www.rcsb.org/structure/4pmd
+3.2.1.8	Caldicellulosiruptor bescii	4l4o	https://www.rcsb.org/structure/4l4o
+3.2.1.8	Caldicellulosiruptor bescii	4l4p	https://www.rcsb.org/structure/4l4p
+3.2.1.8	Caldicellulosiruptor bescii	4pmd	https://www.rcsb.org/structure/4pmd
+3.2.1.8	Cellulomonas	1e5b	https://www.rcsb.org/structure/1e5b
+3.2.1.8	Cellulomonas	1e5c	https://www.rcsb.org/structure/1e5c
+3.2.1.8	Cellulomonas	1exp	https://www.rcsb.org/structure/1exp
+3.2.1.8	Cellulomonas	1heh	https://www.rcsb.org/structure/1heh
+3.2.1.8	Cellulomonas	1hej	https://www.rcsb.org/structure/1hej
+3.2.1.8	Cellulomonas	1xbd	https://www.rcsb.org/structure/1xbd
+3.2.1.8	Cellulomonas	2xbd	https://www.rcsb.org/structure/2xbd
+3.2.1.8	Cellulomonas fimi	1e5b	https://www.rcsb.org/structure/1e5b
+3.2.1.8	Cellulomonas fimi	1e5c	https://www.rcsb.org/structure/1e5c
+3.2.1.8	Cellulomonas fimi	1exp	https://www.rcsb.org/structure/1exp
+3.2.1.8	Cellulomonas fimi	1heh	https://www.rcsb.org/structure/1heh
+3.2.1.8	Cellulomonas fimi	1hej	https://www.rcsb.org/structure/1hej
+3.2.1.8	Cellulomonas fimi	1xbd	https://www.rcsb.org/structure/1xbd
+3.2.1.8	Cellulomonas fimi	2xbd	https://www.rcsb.org/structure/2xbd
+3.2.1.8	Cellvibrio japonicus	1clx	https://www.rcsb.org/structure/1clx
+3.2.1.8	Cellvibrio japonicus	1e5n	https://www.rcsb.org/structure/1e5n
+3.2.1.8	Cellvibrio japonicus	1e8r	https://www.rcsb.org/structure/1e8r
+3.2.1.8	Cellvibrio japonicus	1gny	https://www.rcsb.org/structure/1gny
+3.2.1.8	Cellvibrio japonicus	1qld	https://www.rcsb.org/structure/1qld
+3.2.1.8	Cellvibrio japonicus	1us2	https://www.rcsb.org/structure/1us2
+3.2.1.8	Cellvibrio japonicus	1us3	https://www.rcsb.org/structure/1us3
+3.2.1.8	Cellvibrio japonicus	1w2p	https://www.rcsb.org/structure/1w2p
+3.2.1.8	Cellvibrio japonicus	1w2v	https://www.rcsb.org/structure/1w2v
+3.2.1.8	Cellvibrio japonicus	1w32	https://www.rcsb.org/structure/1w32
+3.2.1.8	Cellvibrio japonicus	1w3h	https://www.rcsb.org/structure/1w3h
+3.2.1.8	Cellvibrio japonicus	1xys	https://www.rcsb.org/structure/1xys
+3.2.1.8	Cellvibrio mixtus	1uqy	https://www.rcsb.org/structure/1uqy
+3.2.1.8	Cellvibrio mixtus	1uqz	https://www.rcsb.org/structure/1uqz
+3.2.1.8	Cellvibrio mixtus	1ur1	https://www.rcsb.org/structure/1ur1
+3.2.1.8	Cellvibrio mixtus	1ur2	https://www.rcsb.org/structure/1ur2
+3.2.1.8	Cellvibrio mixtus	2cnc	https://www.rcsb.org/structure/2cnc
+3.2.1.8	Chaetomium	1h1a	https://www.rcsb.org/structure/1h1a
+3.2.1.8	Chaetomium	1xnk	https://www.rcsb.org/structure/1xnk
+3.2.1.8	Chaetomium thermophilum	1h1a	https://www.rcsb.org/structure/1h1a
+3.2.1.8	Chaetomium thermophilum	1xnk	https://www.rcsb.org/structure/1xnk
+3.2.1.8	Clostridium	1dyo	https://www.rcsb.org/structure/1dyo
+3.2.1.8	Clostridium	1gkk	https://www.rcsb.org/structure/1gkk
+3.2.1.8	Clostridium	1gkl	https://www.rcsb.org/structure/1gkl
+3.2.1.8	Clostridium	1gmm	https://www.rcsb.org/structure/1gmm
+3.2.1.8	Clostridium	1h6x	https://www.rcsb.org/structure/1h6x
+3.2.1.8	Clostridium	1h6y	https://www.rcsb.org/structure/1h6y
+3.2.1.8	Clostridium	1jjf	https://www.rcsb.org/structure/1jjf
+3.2.1.8	Clostridium	1jt2	https://www.rcsb.org/structure/1jt2
+3.2.1.8	Clostridium	1nae	https://www.rcsb.org/structure/1nae
+3.2.1.8	Clostridium	1o8p	https://www.rcsb.org/structure/1o8p
+3.2.1.8	Clostridium	1o8s	https://www.rcsb.org/structure/1o8s
+3.2.1.8	Clostridium	1od3	https://www.rcsb.org/structure/1od3
+3.2.1.8	Clostridium	1ohz	https://www.rcsb.org/structure/1ohz
+3.2.1.8	Clostridium	1uxx	https://www.rcsb.org/structure/1uxx
+3.2.1.8	Clostridium	1uy1	https://www.rcsb.org/structure/1uy1
+3.2.1.8	Clostridium	1uy2	https://www.rcsb.org/structure/1uy2
+3.2.1.8	Clostridium	1uy3	https://www.rcsb.org/structure/1uy3
+3.2.1.8	Clostridium	1uy4	https://www.rcsb.org/structure/1uy4
+3.2.1.8	Clostridium	1wb4	https://www.rcsb.org/structure/1wb4
+3.2.1.8	Clostridium	1wb5	https://www.rcsb.org/structure/1wb5
+3.2.1.8	Clostridium	1wb6	https://www.rcsb.org/structure/1wb6
+3.2.1.8	Clostridium	1xyz	https://www.rcsb.org/structure/1xyz
+3.2.1.8	Clostridium	2ccl	https://www.rcsb.org/structure/2ccl
+3.2.1.8	Clostridium	2w5f	https://www.rcsb.org/structure/2w5f
+3.2.1.8	Clostridium	2wys	https://www.rcsb.org/structure/2wys
+3.2.1.8	Clostridium	2wze	https://www.rcsb.org/structure/2wze
+3.2.1.8	Clostridium	3zi7	https://www.rcsb.org/structure/3zi7
+3.2.1.8	Clostridium	4bag	https://www.rcsb.org/structure/4bag
+3.2.1.8	Clostridium	4ckq	https://www.rcsb.org/structure/4ckq
+3.2.1.8	Clostridium	4h35	https://www.rcsb.org/structure/4h35
+3.2.1.8	Clostridium	4uq9	https://www.rcsb.org/structure/4uq9
+3.2.1.8	Clostridium	4uqa	https://www.rcsb.org/structure/4uqa
+3.2.1.8	Clostridium	4uqb	https://www.rcsb.org/structure/4uqb
+3.2.1.8	Clostridium	4uqc	https://www.rcsb.org/structure/4uqc
+3.2.1.8	Clostridium	4uqd	https://www.rcsb.org/structure/4uqd
+3.2.1.8	Clostridium	4uqe	https://www.rcsb.org/structure/4uqe
+3.2.1.8	Clostridium	5a6l	https://www.rcsb.org/structure/5a6l
+3.2.1.8	Clostridium	5a6m	https://www.rcsb.org/structure/5a6m
+3.2.1.8	Clostridium	5fxm	https://www.rcsb.org/structure/5fxm
+3.2.1.8	Clostridium stercorarium	1nae	https://www.rcsb.org/structure/1nae
+3.2.1.8	Clostridium stercorarium	1o8p	https://www.rcsb.org/structure/1o8p
+3.2.1.8	Clostridium stercorarium	1o8s	https://www.rcsb.org/structure/1o8s
+3.2.1.8	Clostridium stercorarium	1od3	https://www.rcsb.org/structure/1od3
+3.2.1.8	Clostridium stercorarium	1uy1	https://www.rcsb.org/structure/1uy1
+3.2.1.8	Clostridium stercorarium	1uy2	https://www.rcsb.org/structure/1uy2
+3.2.1.8	Clostridium stercorarium	1uy3	https://www.rcsb.org/structure/1uy3
+3.2.1.8	Clostridium stercorarium	1uy4	https://www.rcsb.org/structure/1uy4
+3.2.1.8	Dickeya chrysanthemi	1nof	https://www.rcsb.org/structure/1nof
+3.2.1.8	Dictyoglomus	1f5j	https://www.rcsb.org/structure/1f5j
+3.2.1.8	Dictyoglomus thermophilum	1f5j	https://www.rcsb.org/structure/1f5j
+3.2.1.8	Fusarium	3u7b	https://www.rcsb.org/structure/3u7b
+3.2.1.8	Fusarium	5jrm	https://www.rcsb.org/structure/5jrm
+3.2.1.8	Fusarium	5jrn	https://www.rcsb.org/structure/5jrn
+3.2.1.8	Fusarium oxysporum	3u7b	https://www.rcsb.org/structure/3u7b
+3.2.1.8	Fusarium oxysporum	5jrm	https://www.rcsb.org/structure/5jrm
+3.2.1.8	Fusarium oxysporum	5jrn	https://www.rcsb.org/structure/5jrn
+3.2.1.8	Fusarium oxysporum f. sp. vasinfectum	5jrm	https://www.rcsb.org/structure/5jrm
+3.2.1.8	Fusarium oxysporum f. sp. vasinfectum	5jrn	https://www.rcsb.org/structure/5jrn
+3.2.1.8	Fusarium oxysporum f. sp. vasinfectum 25433	5jrm	https://www.rcsb.org/structure/5jrm
+3.2.1.8	Fusarium oxysporum f. sp. vasinfectum 25433	5jrn	https://www.rcsb.org/structure/5jrn
+3.2.1.8	Geobacillus	1hiz	https://www.rcsb.org/structure/1hiz
+3.2.1.8	Geobacillus	1n82	https://www.rcsb.org/structure/1n82
+3.2.1.8	Geobacillus	1r85	https://www.rcsb.org/structure/1r85
+3.2.1.8	Geobacillus	1r86	https://www.rcsb.org/structure/1r86
+3.2.1.8	Geobacillus	1r87	https://www.rcsb.org/structure/1r87
+3.2.1.8	Geobacillus	2q8x	https://www.rcsb.org/structure/2q8x
+3.2.1.8	Geobacillus	3mmd	https://www.rcsb.org/structure/3mmd
+3.2.1.8	Geobacillus	3ms8	https://www.rcsb.org/structure/3ms8
+3.2.1.8	Geobacillus	3msd	https://www.rcsb.org/structure/3msd
+3.2.1.8	Geobacillus	3msg	https://www.rcsb.org/structure/3msg
+3.2.1.8	Geobacillus	3mua	https://www.rcsb.org/structure/3mua
+3.2.1.8	Geobacillus	3mui	https://www.rcsb.org/structure/3mui
+3.2.1.8	Geobacillus	4prw	https://www.rcsb.org/structure/4prw
+3.2.1.8	Geobacillus	4pud	https://www.rcsb.org/structure/4pud
+3.2.1.8	Geobacillus	4pue	https://www.rcsb.org/structure/4pue
+3.2.1.8	Geobacillus stearothermophilus	1hiz	https://www.rcsb.org/structure/1hiz
+3.2.1.8	Geobacillus stearothermophilus	1n82	https://www.rcsb.org/structure/1n82
+3.2.1.8	Geobacillus stearothermophilus	1r85	https://www.rcsb.org/structure/1r85
+3.2.1.8	Geobacillus stearothermophilus	1r86	https://www.rcsb.org/structure/1r86
+3.2.1.8	Geobacillus stearothermophilus	1r87	https://www.rcsb.org/structure/1r87
+3.2.1.8	Geobacillus stearothermophilus	2q8x	https://www.rcsb.org/structure/2q8x
+3.2.1.8	Geobacillus stearothermophilus	3mmd	https://www.rcsb.org/structure/3mmd
+3.2.1.8	Geobacillus stearothermophilus	3ms8	https://www.rcsb.org/structure/3ms8
+3.2.1.8	Geobacillus stearothermophilus	3msd	https://www.rcsb.org/structure/3msd
+3.2.1.8	Geobacillus stearothermophilus	3msg	https://www.rcsb.org/structure/3msg
+3.2.1.8	Geobacillus stearothermophilus	3mua	https://www.rcsb.org/structure/3mua
+3.2.1.8	Geobacillus stearothermophilus	3mui	https://www.rcsb.org/structure/3mui
+3.2.1.8	Geobacillus stearothermophilus	4prw	https://www.rcsb.org/structure/4prw
+3.2.1.8	Geobacillus stearothermophilus	4pud	https://www.rcsb.org/structure/4pud
+3.2.1.8	Geobacillus stearothermophilus	4pue	https://www.rcsb.org/structure/4pue
+3.2.1.8	Hypocrea	1enx	https://www.rcsb.org/structure/1enx
+3.2.1.8	Hypocrea	1red	https://www.rcsb.org/structure/1red
+3.2.1.8	Hypocrea	1ree	https://www.rcsb.org/structure/1ree
+3.2.1.8	Hypocrea	1ref	https://www.rcsb.org/structure/1ref
+3.2.1.8	Hypocrea	1xyn	https://www.rcsb.org/structure/1xyn
+3.2.1.8	Hypocrea	1xyo	https://www.rcsb.org/structure/1xyo
+3.2.1.8	Hypocrea	1xyp	https://www.rcsb.org/structure/1xyp
+3.2.1.8	Hypocrea	2d97	https://www.rcsb.org/structure/2d97
+3.2.1.8	Hypocrea	2d98	https://www.rcsb.org/structure/2d98
+3.2.1.8	Hypocrea	2dfb	https://www.rcsb.org/structure/2dfb
+3.2.1.8	Hypocrea	2dfc	https://www.rcsb.org/structure/2dfc
+3.2.1.8	Hypocrea	3lgr	https://www.rcsb.org/structure/3lgr
+3.2.1.8	Hypocrea	4hk8	https://www.rcsb.org/structure/4hk8
+3.2.1.8	Hypocrea	4hk9	https://www.rcsb.org/structure/4hk9
+3.2.1.8	Hypocrea	4hkl	https://www.rcsb.org/structure/4hkl
+3.2.1.8	Hypocrea	4hko	https://www.rcsb.org/structure/4hko
+3.2.1.8	Hypocrea	4hkw	https://www.rcsb.org/structure/4hkw
+3.2.1.8	Hypocrea	4s2d	https://www.rcsb.org/structure/4s2d
+3.2.1.8	Hypocrea	4s2f	https://www.rcsb.org/structure/4s2f
+3.2.1.8	Hypocrea	4s2g	https://www.rcsb.org/structure/4s2g
+3.2.1.8	Hypocrea	4s2h	https://www.rcsb.org/structure/4s2h
+3.2.1.8	Hypocrea	4xpv	https://www.rcsb.org/structure/4xpv
+3.2.1.8	Hypocrea	4xq4	https://www.rcsb.org/structure/4xq4
+3.2.1.8	Hypocrea	4xqd	https://www.rcsb.org/structure/4xqd
+3.2.1.8	Hypocrea	4xqw	https://www.rcsb.org/structure/4xqw
+3.2.1.8	Hypocrea	4xv0	https://www.rcsb.org/structure/4xv0
+3.2.1.8	Hypocrea	5k7p	https://www.rcsb.org/structure/5k7p
+3.2.1.8	Neocallimastix	2c1f	https://www.rcsb.org/structure/2c1f
+3.2.1.8	Neocallimastix	2vg9	https://www.rcsb.org/structure/2vg9
+3.2.1.8	Neocallimastix	3wp4	https://www.rcsb.org/structure/3wp4
+3.2.1.8	Neocallimastix	3wp5	https://www.rcsb.org/structure/3wp5
+3.2.1.8	Neocallimastix	3wp6	https://www.rcsb.org/structure/3wp6
+3.2.1.8	Neocallimastix patriciarum	2c1f	https://www.rcsb.org/structure/2c1f
+3.2.1.8	Neocallimastix patriciarum	2vg9	https://www.rcsb.org/structure/2vg9
+3.2.1.8	Neocallimastix patriciarum	3wp4	https://www.rcsb.org/structure/3wp4
+3.2.1.8	Neocallimastix patriciarum	3wp5	https://www.rcsb.org/structure/3wp5
+3.2.1.8	Neocallimastix patriciarum	3wp6	https://www.rcsb.org/structure/3wp6
+3.2.1.8	Paenibacillus	3emc	https://www.rcsb.org/structure/3emc
+3.2.1.8	Paenibacillus	3emq	https://www.rcsb.org/structure/3emq
+3.2.1.8	Paenibacillus	3emz	https://www.rcsb.org/structure/3emz
+3.2.1.8	Paenibacillus	3rdk	https://www.rcsb.org/structure/3rdk
+3.2.1.8	Paenibacillus	3ro8	https://www.rcsb.org/structure/3ro8
+3.2.1.8	Paenibacillus	4e4p	https://www.rcsb.org/structure/4e4p
+3.2.1.8	Paenibacillus	4qaw	https://www.rcsb.org/structure/4qaw
+3.2.1.8	Paenibacillus	4qb1	https://www.rcsb.org/structure/4qb1
+3.2.1.8	Paenibacillus	4qb2	https://www.rcsb.org/structure/4qb2
+3.2.1.8	Paenibacillus	4qb6	https://www.rcsb.org/structure/4qb6
+3.2.1.8	Paenibacillus	4w8l	https://www.rcsb.org/structure/4w8l
+3.2.1.8	Paenibacillus	4xun	https://www.rcsb.org/structure/4xun
+3.2.1.8	Paenibacillus	4xuo	https://www.rcsb.org/structure/4xuo
+3.2.1.8	Paenibacillus	4xup	https://www.rcsb.org/structure/4xup
+3.2.1.8	Paenibacillus	4xuq	https://www.rcsb.org/structure/4xuq
+3.2.1.8	Paenibacillus	4xur	https://www.rcsb.org/structure/4xur
+3.2.1.8	Paenibacillus	4xut	https://www.rcsb.org/structure/4xut
+3.2.1.8	Paenibacillus barcinonensis	3emc	https://www.rcsb.org/structure/3emc
+3.2.1.8	Paenibacillus barcinonensis	3emq	https://www.rcsb.org/structure/3emq
+3.2.1.8	Paenibacillus barcinonensis	3emz	https://www.rcsb.org/structure/3emz
+3.2.1.8	Paenibacillus barcinonensis	4qaw	https://www.rcsb.org/structure/4qaw
+3.2.1.8	Paenibacillus barcinonensis	4qb1	https://www.rcsb.org/structure/4qb1
+3.2.1.8	Paenibacillus barcinonensis	4qb2	https://www.rcsb.org/structure/4qb2
+3.2.1.8	Paenibacillus barcinonensis	4qb6	https://www.rcsb.org/structure/4qb6
+3.2.1.8	Paenibacillus barcinonensis	4w8l	https://www.rcsb.org/structure/4w8l
+3.2.1.8	Paenibacillus barcinonensis	4xun	https://www.rcsb.org/structure/4xun
+3.2.1.8	Paenibacillus barcinonensis	4xuo	https://www.rcsb.org/structure/4xuo
+3.2.1.8	Paenibacillus barcinonensis	4xup	https://www.rcsb.org/structure/4xup
+3.2.1.8	Paenibacillus barcinonensis	4xuq	https://www.rcsb.org/structure/4xuq
+3.2.1.8	Paenibacillus barcinonensis	4xur	https://www.rcsb.org/structure/4xur
+3.2.1.8	Paenibacillus barcinonensis	4xut	https://www.rcsb.org/structure/4xut
+3.2.1.8	Paenibacillus sp.	3rdk	https://www.rcsb.org/structure/3rdk
+3.2.1.8	Paenibacillus sp.	3ro8	https://www.rcsb.org/structure/3ro8
+3.2.1.8	Paenibacillus sp.	4e4p	https://www.rcsb.org/structure/4e4p
+3.2.1.8	Penicillium	1b30	https://www.rcsb.org/structure/1b30
+3.2.1.8	Penicillium	1b31	https://www.rcsb.org/structure/1b31
+3.2.1.8	Penicillium	1b3v	https://www.rcsb.org/structure/1b3v
+3.2.1.8	Penicillium	1b3w	https://www.rcsb.org/structure/1b3w
+3.2.1.8	Penicillium	1b3x	https://www.rcsb.org/structure/1b3x
+3.2.1.8	Penicillium	1b3y	https://www.rcsb.org/structure/1b3y
+3.2.1.8	Penicillium	1b3z	https://www.rcsb.org/structure/1b3z
+3.2.1.8	Penicillium	1bg4	https://www.rcsb.org/structure/1bg4
+3.2.1.8	Penicillium	4f8x	https://www.rcsb.org/structure/4f8x
+3.2.1.8	Penicillium canescens	4f8x	https://www.rcsb.org/structure/4f8x
+3.2.1.8	Pseudoalteromonas haloplanktis	1h12	https://www.rcsb.org/structure/1h12
+3.2.1.8	Pseudoalteromonas haloplanktis	1h13	https://www.rcsb.org/structure/1h13
+3.2.1.8	Pseudoalteromonas haloplanktis	1h14	https://www.rcsb.org/structure/1h14
+3.2.1.8	Pseudoalteromonas haloplanktis	1xw2	https://www.rcsb.org/structure/1xw2
+3.2.1.8	Pseudoalteromonas haloplanktis	1xwq	https://www.rcsb.org/structure/1xwq
+3.2.1.8	Pseudoalteromonas haloplanktis	1xwt	https://www.rcsb.org/structure/1xwt
+3.2.1.8	Pseudoalteromonas haloplanktis	2a8z	https://www.rcsb.org/structure/2a8z
+3.2.1.8	Pseudoalteromonas haloplanktis	2b4f	https://www.rcsb.org/structure/2b4f
+3.2.1.8	Rhodothermus marinus	1k42	https://www.rcsb.org/structure/1k42
+3.2.1.8	Rhodothermus marinus	1k45	https://www.rcsb.org/structure/1k45
+3.2.1.8	Rhodothermus marinus	2y64	https://www.rcsb.org/structure/2y64
+3.2.1.8	Rhodothermus marinus	2y6g	https://www.rcsb.org/structure/2y6g
+3.2.1.8	Rhodothermus marinus	2y6h	https://www.rcsb.org/structure/2y6h
+3.2.1.8	Rhodothermus marinus	2y6j	https://www.rcsb.org/structure/2y6j
+3.2.1.8	Rhodothermus marinus	2y6k	https://www.rcsb.org/structure/2y6k
+3.2.1.8	Rhodothermus marinus	2y6l	https://www.rcsb.org/structure/2y6l
+3.2.1.8	Rhodothermus marinus	4bj0	https://www.rcsb.org/structure/4bj0
+3.2.1.8	Streptomyces	1e0v	https://www.rcsb.org/structure/1e0v
+3.2.1.8	Streptomyces	1e0w	https://www.rcsb.org/structure/1e0w
+3.2.1.8	Streptomyces	1e0x	https://www.rcsb.org/structure/1e0x
+3.2.1.8	Streptomyces	1hix	https://www.rcsb.org/structure/1hix
+3.2.1.8	Streptomyces	1isv	https://www.rcsb.org/structure/1isv
+3.2.1.8	Streptomyces	1isw	https://www.rcsb.org/structure/1isw
+3.2.1.8	Streptomyces	1isx	https://www.rcsb.org/structure/1isx
+3.2.1.8	Streptomyces	1isy	https://www.rcsb.org/structure/1isy
+3.2.1.8	Streptomyces	1isz	https://www.rcsb.org/structure/1isz
+3.2.1.8	Streptomyces	1it0	https://www.rcsb.org/structure/1it0
+3.2.1.8	Streptomyces	1knl	https://www.rcsb.org/structure/1knl
+3.2.1.8	Streptomyces	1knm	https://www.rcsb.org/structure/1knm
+3.2.1.8	Streptomyces	1mc9	https://www.rcsb.org/structure/1mc9
+3.2.1.8	Streptomyces	1nq6	https://www.rcsb.org/structure/1nq6
+3.2.1.8	Streptomyces	1od8	https://www.rcsb.org/structure/1od8
+3.2.1.8	Streptomyces	1v0k	https://www.rcsb.org/structure/1v0k
+3.2.1.8	Streptomyces	1v0l	https://www.rcsb.org/structure/1v0l
+3.2.1.8	Streptomyces	1v0m	https://www.rcsb.org/structure/1v0m
+3.2.1.8	Streptomyces	1v0n	https://www.rcsb.org/structure/1v0n
+3.2.1.8	Streptomyces	1v6u	https://www.rcsb.org/structure/1v6u
+3.2.1.8	Streptomyces	1v6v	https://www.rcsb.org/structure/1v6v
+3.2.1.8	Streptomyces	1v6w	https://www.rcsb.org/structure/1v6w
+3.2.1.8	Streptomyces	1v6x	https://www.rcsb.org/structure/1v6x
+3.2.1.8	Streptomyces	1v6y	https://www.rcsb.org/structure/1v6y
+3.2.1.8	Streptomyces	1xas	https://www.rcsb.org/structure/1xas
+3.2.1.8	Streptomyces	1xyf	https://www.rcsb.org/structure/1xyf
+3.2.1.8	Streptomyces	2d1z	https://www.rcsb.org/structure/2d1z
+3.2.1.8	Streptomyces	2d20	https://www.rcsb.org/structure/2d20
+3.2.1.8	Streptomyces	2d22	https://www.rcsb.org/structure/2d22
+3.2.1.8	Streptomyces	2d23	https://www.rcsb.org/structure/2d23
+3.2.1.8	Streptomyces	2d24	https://www.rcsb.org/structure/2d24
+3.2.1.8	Streptomyces	2g3i	https://www.rcsb.org/structure/2g3i
+3.2.1.8	Streptomyces	2g3j	https://www.rcsb.org/structure/2g3j
+3.2.1.8	Streptomyces	2g4f	https://www.rcsb.org/structure/2g4f
+3.2.1.8	Streptomyces	3wub	https://www.rcsb.org/structure/3wub
+3.2.1.8	Streptomyces	3wue	https://www.rcsb.org/structure/3wue
+3.2.1.8	Streptomyces	3wuf	https://www.rcsb.org/structure/3wuf
+3.2.1.8	Streptomyces	3wug	https://www.rcsb.org/structure/3wug
+3.2.1.8	Streptomyces	5ej3	https://www.rcsb.org/structure/5ej3
+3.2.1.8	Streptomyces	5gqd	https://www.rcsb.org/structure/5gqd
+3.2.1.8	Streptomyces	5gqe	https://www.rcsb.org/structure/5gqe
+3.2.1.8	Streptomyces halstedii	1nq6	https://www.rcsb.org/structure/1nq6
+3.2.1.8	Streptomyces lividans	1e0v	https://www.rcsb.org/structure/1e0v
+3.2.1.8	Streptomyces lividans	1e0w	https://www.rcsb.org/structure/1e0w
+3.2.1.8	Streptomyces lividans	1e0x	https://www.rcsb.org/structure/1e0x
+3.2.1.8	Streptomyces lividans	1knl	https://www.rcsb.org/structure/1knl
+3.2.1.8	Streptomyces lividans	1knm	https://www.rcsb.org/structure/1knm
+3.2.1.8	Streptomyces lividans	1mc9	https://www.rcsb.org/structure/1mc9
+3.2.1.8	Streptomyces lividans	1od8	https://www.rcsb.org/structure/1od8
+3.2.1.8	Streptomyces lividans	1v0k	https://www.rcsb.org/structure/1v0k
+3.2.1.8	Streptomyces lividans	1v0l	https://www.rcsb.org/structure/1v0l
+3.2.1.8	Streptomyces lividans	1v0m	https://www.rcsb.org/structure/1v0m
+3.2.1.8	Streptomyces lividans	1v0n	https://www.rcsb.org/structure/1v0n
+3.2.1.8	Streptomyces lividans	1xas	https://www.rcsb.org/structure/1xas
+3.2.1.8	Streptomyces lividans	5ej3	https://www.rcsb.org/structure/5ej3
+3.2.1.8	Streptomyces olivaceoviridis	1isv	https://www.rcsb.org/structure/1isv
+3.2.1.8	Streptomyces olivaceoviridis	1isw	https://www.rcsb.org/structure/1isw
+3.2.1.8	Streptomyces olivaceoviridis	1isx	https://www.rcsb.org/structure/1isx
+3.2.1.8	Streptomyces olivaceoviridis	1isy	https://www.rcsb.org/structure/1isy
+3.2.1.8	Streptomyces olivaceoviridis	1isz	https://www.rcsb.org/structure/1isz
+3.2.1.8	Streptomyces olivaceoviridis	1it0	https://www.rcsb.org/structure/1it0
+3.2.1.8	Streptomyces olivaceoviridis	1v6u	https://www.rcsb.org/structure/1v6u
+3.2.1.8	Streptomyces olivaceoviridis	1v6v	https://www.rcsb.org/structure/1v6v
+3.2.1.8	Streptomyces olivaceoviridis	1v6w	https://www.rcsb.org/structure/1v6w
+3.2.1.8	Streptomyces olivaceoviridis	1v6x	https://www.rcsb.org/structure/1v6x
+3.2.1.8	Streptomyces olivaceoviridis	1v6y	https://www.rcsb.org/structure/1v6y
+3.2.1.8	Streptomyces olivaceoviridis	1xyf	https://www.rcsb.org/structure/1xyf
+3.2.1.8	Streptomyces olivaceoviridis	2d1z	https://www.rcsb.org/structure/2d1z
+3.2.1.8	Streptomyces olivaceoviridis	2d20	https://www.rcsb.org/structure/2d20
+3.2.1.8	Streptomyces olivaceoviridis	2d22	https://www.rcsb.org/structure/2d22
+3.2.1.8	Streptomyces olivaceoviridis	2d23	https://www.rcsb.org/structure/2d23
+3.2.1.8	Streptomyces olivaceoviridis	2d24	https://www.rcsb.org/structure/2d24
+3.2.1.8	Streptomyces olivaceoviridis	2g3i	https://www.rcsb.org/structure/2g3i
+3.2.1.8	Streptomyces olivaceoviridis	2g3j	https://www.rcsb.org/structure/2g3j
+3.2.1.8	Streptomyces olivaceoviridis	2g4f	https://www.rcsb.org/structure/2g4f
+3.2.1.8	Streptomyces olivaceoviridis	5gqd	https://www.rcsb.org/structure/5gqd
+3.2.1.8	Streptomyces olivaceoviridis	5gqe	https://www.rcsb.org/structure/5gqe
+3.2.1.8	Streptomyces sp.	1hix	https://www.rcsb.org/structure/1hix
+3.2.1.8	Streptomyces sp. S38	1hix	https://www.rcsb.org/structure/1hix
+3.2.1.8	Talaromyces cellulolyticus	5hxv	https://www.rcsb.org/structure/5hxv
+3.2.1.8	Talaromyces cellulolyticus CF-2612	5hxv	https://www.rcsb.org/structure/5hxv
+3.2.1.8	Talaromyces funiculosus	3wp3	https://www.rcsb.org/structure/3wp3
+3.2.1.8	Thermoanaerobacterium saccharolyticum	3w24	https://www.rcsb.org/structure/3w24
+3.2.1.8	Thermoanaerobacterium saccharolyticum	3w25	https://www.rcsb.org/structure/3w25
+3.2.1.8	Thermoanaerobacterium saccharolyticum	3w26	https://www.rcsb.org/structure/3w26
+3.2.1.8	Thermoanaerobacterium saccharolyticum	3w27	https://www.rcsb.org/structure/3w27
+3.2.1.8	Thermoanaerobacterium saccharolyticum	3w28	https://www.rcsb.org/structure/3w28
+3.2.1.8	Thermoanaerobacterium saccharolyticum	3w29	https://www.rcsb.org/structure/3w29
+3.2.1.8	Thermoascus aurantiacus	1gok	https://www.rcsb.org/structure/1gok
+3.2.1.8	Thermoascus aurantiacus	1gom	https://www.rcsb.org/structure/1gom
+3.2.1.8	Thermoascus aurantiacus	1goo	https://www.rcsb.org/structure/1goo
+3.2.1.8	Thermoascus aurantiacus	1goq	https://www.rcsb.org/structure/1goq
+3.2.1.8	Thermoascus aurantiacus	1gor	https://www.rcsb.org/structure/1gor
+3.2.1.8	Thermoascus aurantiacus	1i1w	https://www.rcsb.org/structure/1i1w
+3.2.1.8	Thermoascus aurantiacus	1i1x	https://www.rcsb.org/structure/1i1x
+3.2.1.8	Thermoascus aurantiacus	1k6a	https://www.rcsb.org/structure/1k6a
+3.2.1.8	Thermoascus aurantiacus	1tux	https://www.rcsb.org/structure/1tux
+3.2.1.8	Thermoascus aurantiacus	2bnj	https://www.rcsb.org/structure/2bnj
+3.2.1.8	Thermoascus aurantiacus	3nyd	https://www.rcsb.org/structure/3nyd
+3.2.1.8	Thermoascus aurantiacus	3o2l	https://www.rcsb.org/structure/3o2l
+3.2.1.8	Thermoascus aurantiacus	4bs0	https://www.rcsb.org/structure/4bs0
+3.2.1.8	Thermobifida fusca	3zse	https://www.rcsb.org/structure/3zse
+3.2.1.8	Thermomyces	1yna	https://www.rcsb.org/structure/1yna
+3.2.1.8	Thermomyces lanuginosus	1yna	https://www.rcsb.org/structure/1yna
+3.2.1.8	Thermopolyspora flexuosa	1m4w	https://www.rcsb.org/structure/1m4w
+3.2.1.8	Thermopolyspora flexuosa	3b5l	https://www.rcsb.org/structure/3b5l
+3.2.1.8	Thermopolyspora flexuosa	3mf6	https://www.rcsb.org/structure/3mf6
+3.2.1.8	Thermopolyspora flexuosa	3mf9	https://www.rcsb.org/structure/3mf9
+3.2.1.8	Thermopolyspora flexuosa	3mfa	https://www.rcsb.org/structure/3mfa
+3.2.1.8	Thermopolyspora flexuosa	3mfc	https://www.rcsb.org/structure/3mfc
+3.2.1.8	Thermotoga	1i82	https://www.rcsb.org/structure/1i82
+3.2.1.8	Thermotoga	1i8a	https://www.rcsb.org/structure/1i8a
+3.2.1.8	Thermotoga	1i8u	https://www.rcsb.org/structure/1i8u
+3.2.1.8	Thermotoga	1vbr	https://www.rcsb.org/structure/1vbr
+3.2.1.8	Thermotoga	1vbu	https://www.rcsb.org/structure/1vbu
+3.2.1.8	Thermotoga	3niy	https://www.rcsb.org/structure/3niy
+3.2.1.8	Thermotoga	3nj3	https://www.rcsb.org/structure/3nj3
+3.2.1.8	Thermotoga maritima	1i82	https://www.rcsb.org/structure/1i82
+3.2.1.8	Thermotoga maritima	1i8a	https://www.rcsb.org/structure/1i8a
+3.2.1.8	Thermotoga maritima	1i8u	https://www.rcsb.org/structure/1i8u
+3.2.1.8	Thermotoga maritima	1vbr	https://www.rcsb.org/structure/1vbr
+3.2.1.8	Thermotoga maritima	1vbu	https://www.rcsb.org/structure/1vbu
+3.2.1.8	Trichoderma	1xnd	https://www.rcsb.org/structure/1xnd
+3.2.1.8	Trichoderma	2jic	https://www.rcsb.org/structure/2jic
+3.2.1.8	Trichoderma	3akp	https://www.rcsb.org/structure/3akp
+3.2.1.8	Trichoderma	3akq	https://www.rcsb.org/structure/3akq
+3.2.1.8	Trichoderma	3akr	https://www.rcsb.org/structure/3akr
+3.2.1.8	Trichoderma	3aks	https://www.rcsb.org/structure/3aks
+3.2.1.8	Trichoderma	3akt	https://www.rcsb.org/structure/3akt
+3.2.1.8	Trichoderma harzianum	1xnd	https://www.rcsb.org/structure/1xnd
+3.2.1.8	Trichoderma longibrachiatum	2jic	https://www.rcsb.org/structure/2jic
+3.2.1.8	Trichoderma longibrachiatum	3akp	https://www.rcsb.org/structure/3akp
+3.2.1.8	Trichoderma longibrachiatum	3akq	https://www.rcsb.org/structure/3akq
+3.2.1.8	Trichoderma longibrachiatum	3akr	https://www.rcsb.org/structure/3akr
+3.2.1.8	Trichoderma longibrachiatum	3aks	https://www.rcsb.org/structure/3aks
+3.2.1.8	Trichoderma longibrachiatum	3akt	https://www.rcsb.org/structure/3akt
+3.2.1.8	Triticum aestivum	1t6e	https://www.rcsb.org/structure/1t6e
+3.2.1.8	Triticum aestivum	1t6g	https://www.rcsb.org/structure/1t6g
+3.2.1.8	Triticum aestivum	1ta3	https://www.rcsb.org/structure/1ta3
+3.2.1.8	Triticum aestivum	1te1	https://www.rcsb.org/structure/1te1
+3.2.1.8	Triticum aestivum	2b42	https://www.rcsb.org/structure/2b42
+3.2.1.8	Triticum aestivum	3hd8	https://www.rcsb.org/structure/3hd8
+3.2.1.8	uncultured bacterium	2vul	https://www.rcsb.org/structure/2vul
+3.2.1.8	uncultured bacterium	4hu8	https://www.rcsb.org/structure/4hu8

@@ -8,19 +8,53 @@
 #
 
 library(shiny)
+library(shinydashboard)
 library(DT)
 library(rJava)
 library(stringr)
 library(ggplot2)
+library(shinyjs)
+library(data.table)
+library(shinyWidgets)
 .jinit('BrendaSOAP.jar')
 
-# Define server logic required to draw a histogram
+# Define server logic
 shinyServer(function(input, output, session) {
   
+  # Create user
   user <- eventReactive(input$logIn, {
-    #.jnew("client.User",input$mail, input$pass)
+    .jnew("client.User",input$mail, input$pass)
   })
   
+  
+  # Disable user
+  observeEvent(input$logIn, {
+    show("logOut")
+    disable("mail")
+    hide("pass")
+    hide("logIn")
+  })
+  
+  # Enable user
+  observeEvent(input$logOut, {
+    show("logIn")
+    enable("mail")
+    show("pass")
+    hide("logOut")
+    updateTextInput(session, "mail", value = "")
+    updateTextInput(session, "pass", value = "")
+  })
+  
+  # Folder
+  folder <- reactiveVal("_results\\")
+  
+  # Set folder
+  observeEvent(input$logIn, {
+    new_folder <- paste(input$mail, folder(), sep = "")
+    folder(new_folder)
+  })
+  
+  # Endoder function for Parameter Query
   encoder_param<-function(){
     cond <- 0
     if(input$mw){
@@ -62,6 +96,7 @@ shinyServer(function(input, output, session) {
     cond
   }
   
+  # Endoder function for Parameter Query
   encoder_filter<-function(){
     cond <- 0
     if(input$up){
@@ -70,178 +105,54 @@ shinyServer(function(input, output, session) {
     cond
   }
   
+  # Change to enzyme
   observeEvent(input$logIn, {
-    updateTabsetPanel(session, "inTabset",
-                      selected = "proteinSearch")
+    updateTabItems(session, "inTabset", "enzyme")
   })
   
+  # Change to Protein Table
   observeEvent(input$ecNumber, {
-    updateTabsetPanel(session, "protein",
-                      selected = "proteinTable")
+    updateTabItems(session, "inTabset", "proteinTable")
   })
   
-  observeEvent(input$parameters, {
-    updateTabsetPanel(session, "protein",
-                      selected = "parameterTable")
-  })
-  
-  observeEvent(input$sequence, {
-    updateTabsetPanel(session, "protein",
-                      selected = "uniprot")
-  })
-  
+  # Protein Table
   output$distProteinTable <- DT::renderDT({
-    # main <- .jnew('main.BrendaSOAP', input$ec_number, user(), as.integer(0), as.integer(0))
-    # main$getProtein()
-    DT::datatable(table <- read.table("table.txt", sep = '\t', na.strings = 'null', header = TRUE),
-    options = list(lengthMenu = c(6, 10, 50, 100), pageLength = 6))
+    main <- .jnew("main.BrendaSOAP", input$ec_number, user(), as.integer(0), as.integer(0))
+    main$getProtein()
+    DT::datatable(table <- read.table(paste(folder(), "table.txt", sep = ""), sep = '\t', na.strings = 'null', header = TRUE),
+                  options = list(scrollX = TRUE, lengthMenu = c(5, 10, 50, 100), pageLength = 5))
   })
   
-  output$proteinTable <- downloadHandler(
-    filename <- 'protein_table.csv',
-    content <- function(name){
-      write.csv(table, name)
-      }
-  )
-  
-  time <- function(){
-    param <- 1
-    if(input$mw){
-      param <- param + 1
-    }
-    if(input$ic50){
-      param <- param + 1
-    }
-    if(input$kc){
-      param <- param + 1
-    }
-    if(input$ki){
-      param <- param + 1
-    }
-    if(input$km){
-      param <- param + 1
-    }
-    if(input$pho){
-      param <- param + 1
-    }
-    if(input$phr){
-      param <- param + 1
-    }
-    if(input$pi){
-      param <- param + 1
-    }
-    if(input$sa){
-      param <- param + 1
-    }
-    if(input$to){
-      param <- param + 1
-    }
-    if(input$tr){
-      param <- param + 1
-    }
-    if(input$ton){
-      param <- param + 1
-    }
-    n_protein <- nrow(read.table("table.txt", sep = '\t', na.strings = 'null', header = TRUE))
-    if(input$up){
-      n_protein <- (n_protein %/% 10) + 1
-    }
-    queries <- param * n_protein
-    time <- ( (queries * 2) %/% 60 ) + 1
-  }
-  
-  output$timeSearch <- renderText({
-    if( time() == 60 ){
-      out <- paste("1 hour.", sep="")
-    }
-    else if( time() > 60 ){
-      out <- paste( (time()%/%60) + 1, " hours.", sep="" )
-    }
-    else{
-      out <- paste( time(), " minutes.", sep = "" )
-    }
-    out <- paste("The query is goint to take: ", out, sep ="")
+  # Change to Parameter Table
+  observeEvent(input$parameters, {
+    updateTabItems(session, "inTabset", "parameterTable")
   })
   
-  output$longTimeSearch <- renderText({
-    if( time() >= 60 ){
-      out <- "Warning: This search is going to take more than an hour."
-    }
-    else{
-      out <- ""
-    }
+  # Collapse table
+  # With Molecule
+  attr_collapse_mol <- function(name, table, molecule){
+    out <- table[,c("Ref", "value", molecule, "Commentary", "Literature.PubmedID.")]
+    attributes(out)$names <- paste(name, attributes(out)$names, sep ="_")
+    attributes(out)$names[1] <- "Ref"
+    out <- aggregate(out[,2:5], by=list(table$Ref), paste, collapse=";")
+    attributes(out)$names[1] <- "Ref"
     out
-  })
-  
-  fasta <- function(){
-    # main <- .jnew('main.BrendaSOAP', input$ec_number, user(), as.integer(0), as.integer(0))
-    # main$getProtein()
-    # main$getFastaSequence()
-    read.table("fasta_output.txt", sep = '\t', header = FALSE);
   }
   
-  output$distProteinSequence <- DT::renderDT({
-    table <- data.frame(Enzyme = c(), Organism = c(), UniProt = c(), Found_with_Brenda = c())
-    for( line in 1:nrow( fasta() ) ){
-      if(startsWith(as.vector(fasta()[line, 1]), prefix = '>')){
-        toAdd<-strsplit(as.vector(fasta()[line, 1]), ' ')[[1]]
-        UniProt <- c(toAdd[1])
-        Enzyme <- c(toAdd[2])
-        organism <- ""
-        for(i in 3:length(toAdd)){
-          organism <- paste(organism, toAdd[i], sep = '')
-        }
-        Organism <- c(organism)
-        if(startsWith(as.vector(fasta()[line+1,1]), prefix = '>')){
-          Found_with_Brenda <- c(FALSE)
-        }
-        else{
-          Found_with_Brenda <- c(TRUE)
-        }
-        table <- rbind(table, data.frame(Enzyme, Organism, UniProt, Found_with_Brenda))
-      }
-    }
-    table
-  })
+  # Without Molecule
+  attr_collapse <- function(name, table){
+    out <- table[,c("Ref", "value", "Commentary", "Literature.PubmedID.")]
+    attributes(out)$names <- paste(name, attributes(out)$names, sep ="_")
+    attributes(out)$names[1] <- "Ref"
+    out <- aggregate(out[,2:4], by=list(table$Ref), paste, collapse=";")
+    attributes(out)$names[1] <- "Ref"
+    out
+  }
   
-  output$fasta <- downloadHandler(
-    filename <- 'fasta.txt',
-    content <- function(name){
-      if(input$no_filter){
-        write.table(fasta(), name, quote = FALSE, row.names = FALSE)
-      }
-      else{
-        table <- data.frame(c=c())
-        s <- input$distProteinSequence_rows_selected
-        if(length(s)){
-          table <- rbind(table, data.frame(c=c(s)))
-        }
-        write.table(table, name, quote = FALSE, row.names = FALSE)
-      }
-    }
-  )
-  
-  output$distParameterTable <- renderDT({
-    #main <- .jnew('main.BrendaSOAP', input$ec_number, user(),
-                  #as.integer(encoder_param()),
-                  #as.integer(encoder_filter()) )
-    #main$getProtein()
-    #main$getParameters()
-    table2 <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
-    DT::datatable(table2 <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE),
-                  options = list(lengthMenu = c(6, 10, 50, 100), pageLength = 6))
-  })
-  
-  
-  output$parameterTable <- downloadHandler(
-    filename <- 'parameter_table.csv',
-    content <- function(name){
-      write.csv(table2, name)
-    }
-  )
-  
+  # Calculate the min max
   min_max <- function(vectorIn){
-    use <- str_split(vectorIn, ";")
+    use <- gsub("-999", NA, vectorIn)
+    use <- str_split(use, ";")
     use <- unlist(use, recursive = TRUE)
     use <- str_split(use, "-")
     use <- unlist(use, recursive = TRUE)
@@ -249,133 +160,309 @@ shinyServer(function(input, output, session) {
     a <- c(min(use, na.rm = TRUE), max(use, na.rm = TRUE))
   }
   
-  observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+  # Parameter Table
+  output$distParameterTable <- DT::renderDT({
+    main <- .jnew("main.BrendaSOAP", input$ec_number, user(), as.integer(encoder_param()), as.integer(encoder_filter()))
+    main$getProtein()
+    int <- input$distProteinTable_rows_selected - 1
+    int <- as.integer(int)
+    int <- .jarray(int)
+    main$getParameters(int, input$allProteins)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
+    table2 <- read.table(
+      paste(folder(),"table.txt", sep = ""),
+      sep = '\t',
+      na.strings = 'null',
+      header = TRUE)
     if(input$mw){
-      a <- min_max(calc$Molecular.Weight.value)
+      table1 <- attr_collapse(
+        "Molecular_Weight",
+        read.table(
+          paste(attr_folder, "Molecular Weight.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ))
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    if(input$ic50){
+      table1 <- attr_collapse_mol(
+        "IC50",
+        read.table(
+          paste(attr_folder, "IC50.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ),
+        "Inhibitor")
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    if(input$kc){
+      table1 <- attr_collapse_mol(
+        "Kcat_Km",
+        read.table(
+          paste(attr_folder, "Kcat_Km.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ),
+        "Substrate")
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    if(input$ki){
+      table1 <- attr_collapse_mol(
+        "Ki",
+        read.table(
+          paste(attr_folder, "Ki.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ),
+        "Inhibitor")
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    if(input$km){
+      table1 <- attr_collapse_mol(
+        "Km",
+        read.table(
+          paste(attr_folder, "Km.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ),
+        "Substrate")
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+      table2$Km_Substrate <- gsub("more", "1,4-beta-D-xylan", table2$Km_Substrate)
+    }
+    if(input$pho){
+      table1 <- attr_collapse(
+        "pH_Optimum",
+        read.table(
+          paste(attr_folder, "pH Optimum.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ))
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    if(input$phr){
+      table1 <- attr_collapse(
+        "pH Range",
+        read.table(
+          paste(attr_folder, "pH Range.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ))
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    if(input$pi){
+      table1 <- attr_collapse(
+        "pI",
+        read.table(
+          paste(attr_folder, "pI.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ))
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    if(input$sa){
+      table1 <- attr_collapse(
+        "Specific_Activity",
+        read.table(
+          paste(attr_folder, "Specific Activity.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ))
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    if(input$to){
+      table1 <- attr_collapse(
+        "Temperature_Optimum",
+        read.table(
+          paste(attr_folder, "Temperature Optimum.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ))
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    if(input$tr){
+      table1 <- attr_collapse(
+        "Temperature_Range",
+        read.table(
+          paste(attr_folder, "Temperature Range.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ))
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    if(input$ton){
+      table1 <- attr_collapse_mol(
+        "Turnover_Number",
+        read.table(
+          paste(attr_folder, "Turnover Number.txt", sep = ""),
+          header = TRUE,
+          na.strings = "null",
+          sep = "\t"
+        ),
+        "Substrate")
+      table2 <- merge(table2, table1, by="Ref", all = TRUE)
+    }
+    table2 <- table2[sort(table2$Ref, decreasing = FALSE),]
+    table2 <- data.frame(lapply(table2, function(i){
+      gsub("-999", "Aditional Information", i)}))
+    table2$Ref <- NULL
+    DT::datatable(table2, options = list(scrollX = TRUE, lengthMenu = c(5, 10, 50, 100), pageLength = 5))
+  })
+  
+  # Update slider to filter parameter table
+  observe({
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
+    if(input$mw){
+      calc <- read.table(
+        paste(attr_folder, "Molecular Weight.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "mwFilter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
     if(input$ic50){
-      a <- min_max(calc$IC50.value)
+      calc <- read.table(
+        paste(attr_folder, "IC50.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "ic50Filter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
     if(input$kc){
-      a <- min_max(calc$Kcat.Km.value)
+      calc <- read.table(
+        paste(attr_folder, "Kcat_Km.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "kcFilter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
     if(input$ki){
-      a <- min_max(calc$Ki.value)
+      calc <- read.table(
+        paste(attr_folder, "Ki.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "kiFilter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
     if(input$km){
-      a <- min_max(calc$Km.value)
+      calc <- read.table(
+        paste(attr_folder, "Km.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "kmFilter", value = a,
-                      min = a[1], max = a[2])
+                        min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
     if(input$pho){
-      a <- min_max(calc$pH.Optimum.value)
+      calc <- read.table(
+        paste(attr_folder, "pH Optimum.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "phoFilter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
     if(input$phr){
-      a <- min_max(calc$pH.Range.value)
+      calc <- read.table(
+        paste(attr_folder, "pH Range.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "phrFilter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
     if(input$pi){
-      a <- min_max(calc$pI.value)
+      calc <- read.table(
+        paste(attr_folder, "pI.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "piFilter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
     if(input$sa){
-      a <- min_max(calc$Specific.Activity.value)
+      calc <- read.table(
+        paste(attr_folder, "Specific Activity.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "saFilter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
     if(input$to){
-      a <- min_max(calc$Temperature.Optimum.value)
+      calc <- read.table(
+        paste(attr_folder, "Temperature Optimum", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "toFilter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
     if(input$tr){
-      a <- min_max(calc$Temperature.Range.value)
+      calc <- read.table(
+        paste(attr_folder, "Temperature Range.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "trFilter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
   observe({
-    calc <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE)    if(input$ton){
-      a <- min_max(calc$Turnover.Number.value)
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
+    if(input$ton){
+      calc <- read.table(
+        paste(attr_folder, "Turnover Number.txt", sep = ""),
+        sep = '\t', na.strings = 'null', header = TRUE)
+      a <- min_max(calc$value)
       updateSliderInput(session, "tonFilter", value = a,
                         min = a[1], max = a[2])
     }
   })
   
-  
-  output$histogram <- renderPlot({
-    a <- table2[grepl('value' , apply(data.frame(attributes(table2)[1]), 2, identity))]
-    data <- data.frame(attribute = c(), mark = c(), ndata = c())
-    j <- 1
-    for(i in attributes(a)$names){
-      data <- rbind(
-        data,
-        data.frame(attribute = i,
-                   mark = j,
-                   ndata = sum(str_count(a[, i], ";") + 1, na.rm = TRUE))
-      )
-      j <- j + 1
-    }
-    ggplot(data, aes(x=mark,y =ndata, fill=attribute )) +
-      geom_bar(stat = 'identity') +
-      xlab("Parameter") + 
-      ylab("Count") +
-      scale_fill_brewer(palette = "Set3")
-      
-  })
   
 })

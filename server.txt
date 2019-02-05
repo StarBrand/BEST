@@ -1,0 +1,176 @@
+#
+# This is the server logic of a Shiny web application. You can run the 
+# application by clicking 'Run App' above.
+#
+# Find out more about building applications with Shiny here:
+# 
+#    http://shiny.rstudio.com/
+#
+
+library(shiny)
+library(DT)
+library(rJava)
+library(stringr)
+library(ggplot2)
+.jinit('BrendaSOAP.jar')
+
+# Define server logic required to draw a histogram
+shinyServer(function(input, output, session) {
+  
+  user <- eventReactive(input$logIn, {
+    .jnew("client.User",input$mail, input$pass)
+  })
+  
+  folder <- function(){
+    "juan.saez.hidalgo@gmail.com_results\\"
+  }
+  
+  encoder_param<-function(){
+    cond <- 0
+    if(input$mw){
+      cond <- cond + 1
+    }
+    if(input$ic50){
+      cond <- cond + 2
+    }
+    if(input$kc){
+      cond <- cond + 4
+    }
+    if(input$ki){
+      cond <- cond + 8
+    }
+    if(input$km){
+      cond <- cond + 16
+    }
+    if(input$pho){
+      cond <- cond + 32
+    }
+    if(input$phr){
+      cond <- cond + 64
+    }
+    if(input$pi){
+      cond <- cond + 128
+    }
+    if(input$sa){
+      cond <- cond + 256
+    }
+    if(input$to){
+      cond <- cond + 512
+    }
+    if(input$tr){
+      cond <- cond + 1024
+    }
+    if(input$ton){
+      cond <- cond + 2048
+    }
+    cond
+  }
+  
+  encoder_filter<-function(){
+    cond <- 0
+    if(input$up){
+      cond <- cond + 1
+    }
+    cond
+  }
+  
+  observeEvent(input$logIn, {
+    updateTabsetPanel(session, "inTabset",
+                      selected = "proteinSearch")
+  })
+  
+  observeEvent(input$ecNumber, {
+    updateTabsetPanel(session, "protein",
+                      selected = "proteinTable")
+  })
+  
+  observeEvent(input$parameters, {
+    updateTabsetPanel(session, "protein",
+                      selected = "parameterTable")
+  })
+  
+  observeEvent(input$sequence, {
+    updateTabsetPanel(session, "protein",
+                      selected = "uniprot")
+  })
+  
+  output$distProteinTable <- DT::renderDT({
+    main <- .jnew('main.BrendaSOAP', input$ec_number, user(), as.integer(1073), as.integer(0))
+    a <- as.numeric(format(Sys.time(), "%OS3")) * 1000
+    main$getProtein()
+    b <- as.numeric(format(Sys.time(), "%OS3")) * 1000
+    print(b-a)
+
+    c <- as.numeric(format(Sys.time(), "%OS3")) * 1000
+    main$getFastaSequence()
+    b <- as.numeric(format(Sys.time(), "%OS3")) * 1000
+    print(b-c)
+    
+    c <- as.numeric(format(Sys.time(), "%OS3")) * 1000
+    main$getPDB()
+    b <- as.numeric(format(Sys.time(), "%OS3")) * 1000
+    print(b-c)
+    
+    int <- c(as.integer(1))
+    int <- .jarray(int)
+    
+    c <- as.numeric(format(Sys.time(), "%OS3")) * 1000
+    main$getParameters(int, TRUE)
+    b <- as.numeric(format(Sys.time(), "%OS3")) * 1000
+    print(b-c)
+    
+    print(b-a)
+    DT::datatable(table <- read.table(paste(folder(), "table.txt", sep = ""), sep = '\t', na.strings = 'null', header = TRUE),
+    options = list(lengthMenu = c(6, 10, 50, 100), pageLength = 6))
+  })
+  
+  output$proteinTable <- downloadHandler(
+    filename <- 'protein_table.csv',
+    content <- function(name){
+      write.csv(table, name)
+      }
+  )
+
+  
+  output$distProteinSequence <- DT::renderDT({
+    main <- .jnew('main.BrendaSOAP', input$ec_number, user(), as.integer(0), as.integer(0))
+    main$getProtein()
+    main$getFastaSequence()
+    read.table(paste(folder(), "fasta_output.txt", sep = ""), sep = '\t', header = FALSE);
+    fasta_table <- read.table(paste(folder(), "report_fasta.txt", sep = ""), sep = "\t", header = TRUE)
+  })
+  
+  output$fasta <- downloadHandler({
+    filename <- 'fasta.txt'
+    content <- function(name){
+      table <- data.frame(c=c())
+      s <- input$distProteinSequence_rows_selected
+      if(length(s)){
+        table <- rbind(table, data.frame(c=c(s)))
+      }
+      }
+    write.table(table, name, quote = FALSE, row.names = FALSE)
+    })
+  
+  output$distParameterTable <- renderDT({
+    main <- .jnew('main.BrendaSOAP', input$ec_number, user(),
+                  as.integer(encoder_param()),
+                  as.integer(encoder_filter()) )
+    main$getProtein()
+    i <- c(as.integer(0))
+    i <- .jarray(i)
+    main$getParameters(i, TRUE)
+    table2 <- read.table(paste(folder(), "table.txt", sep =""), sep = '\t', na.strings = 'null', header = TRUE)
+    DT::datatable(table2 <- read.table("table2.txt", sep = '\t', na.strings = 'null', header = TRUE),
+                  options = list(lengthMenu = c(6, 10, 50, 100), pageLength = 6))
+  })
+  
+  
+  output$parameterTable <- downloadHandler(
+    filename <- 'parameter_table.csv',
+    content <- function(name){
+      write.csv(table2, name)
+    }
+  )
+  
+})
