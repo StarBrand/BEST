@@ -1,0 +1,2952 @@
+Synonyms	EC_Number	Recommended_name
+Racemase, alanine	5.1.1.1	alanine racemase
+L-Alanine racemase	5.1.1.1	alanine racemase
+L-Alanine:D-alanine racemase	5.1.1.1	alanine racemase
+DadB	5.1.1.1	alanine racemase
+ALR	5.1.1.1	alanine racemase
+tAlaRac	5.1.1.1	alanine racemase
+alanine	5.1.1.1	alanine racemase
+AlrA	5.1.1.1	alanine racemase
+EcAlr	5.1.1.1	alanine racemase
+BA0252	5.1.1.1	alanine racemase
+BAS0238	5.1.1.1	alanine racemase
+AlrBax	5.1.1.1	alanine racemase
+dal1	5.1.1.1	alanine racemase
+dadXOF4	5.1.1.1	alanine racemase
+EfAlaR	5.1.1.1	alanine racemase
+D-alanine racemase	5.1.1.1	alanine racemase
+OEOE_1641	5.1.1.1	alanine racemase
+MBAlr2	5.1.1.1	alanine racemase
+PDB	5.1.1.1	alanine racemase
+1SFT	5.1.1.1	alanine racemase
+AlaR	5.1.1.1	alanine racemase
+DadX	5.1.1.1	alanine racemase
+Racemase, amino acid	5.1.1.10	amino-acid racemase
+L-Amino acid racemase	5.1.1.10	amino-acid racemase
+broad specificity amino acid racemase	5.1.1.10	amino-acid racemase
+amino-acid racemase	5.1.1.10	amino-acid racemase
+amino acid racemase	5.1.1.10	amino-acid racemase
+DAR1	5.1.1.10	amino-acid racemase
+D-amino acid racemase 1	5.1.1.10	amino-acid racemase
+N-succinylamino acid racemase	5.1.1.10	amino-acid racemase
+NSAR	5.1.1.10	amino-acid racemase
+GkNSAAR	5.1.1.10	amino-acid racemase
+ArgR	5.1.1.10	amino-acid racemase
+Racemase, phenylalanine	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+Phenylalanine racemase	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+Phenylalanine racemase	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+Phenylalanine racemase	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+GS I	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+PheATE	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+Gramicidin S synthetase I	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+GrsA	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+Racemase, ornithine	5.1.1.12	ornithine racemase
+L-ornithine racemase	5.1.1.12	ornithine racemase
+or-5	5.1.1.12	ornithine racemase
+Racemase, aspartate	5.1.1.13	aspartate racemase
+Aspartate racemase	5.1.1.13	aspartate racemase
+AspR	5.1.1.13	aspartate racemase
+P. AspR	5.1.1.13	aspartate racemase
+PhAspR	5.1.1.13	aspartate racemase
+D-Aspartate racemase	5.1.1.13	aspartate racemase
+D-Asp racemase	5.1.1.13	aspartate racemase
+Asp racemase	5.1.1.13	aspartate racemase
+Epimerase, isonocardicin A	5.1.1.14	nocardicin A epimerase
+nocardicin C-9'epimerase	5.1.1.14	nocardicin A epimerase
+NocJ	5.1.1.14	nocardicin A epimerase
+Racemase, alpha-amino-epsilon-caprolactam	5.1.1.15	2-aminohexano-6-lactam racemase
+Racemase, alpha-amino-epsilon-caprolactam	5.1.1.15	2-aminohexano-6-lactam racemase
+Aminocaprolactam racemase	5.1.1.15	2-aminohexano-6-lactam racemase
+alpha-Amino-delta-valerolactam racemase	5.1.1.15	2-aminohexano-6-lactam racemase
+ACL racemase	5.1.1.15	2-aminohexano-6-lactam racemase
+alpha-Amino-epsilon-caprolactam racemase	5.1.1.15	2-aminohexano-6-lactam racemase
+ACLR	5.1.1.15	2-aminohexano-6-lactam racemase
+Protein-serine racemase	5.1.1.16	protein-serine epimerase
+Isomerase, peptide serine	5.1.1.16	protein-serine epimerase
+Peptide D-serine-L-serine isomerase	5.1.1.16	protein-serine epimerase
+Peptide serine isomerase	5.1.1.16	protein-serine epimerase
+Serine isomerase	5.1.1.16	protein-serine epimerase
+Peptidyl-prolyl cis-trans isomerase	5.1.1.16	protein-serine epimerase
+isopenicillin N-CoA epimerase	5.1.1.17	isopenicillin-N epimerase
+IPN epimerase	5.1.1.17	isopenicillin-N epimerase
+isopenecillin N-CoA epimerase	5.1.1.17	isopenicillin-N epimerase
+cefD2	5.1.1.17	isopenicillin-N epimerase
+isopenicillin N epimerase	5.1.1.17	isopenicillin-N epimerase
+PenN epimerase	5.1.1.17	isopenicillin-N epimerase
+SRR	5.1.1.18	serine racemase
+SRace	5.1.1.18	serine racemase
+SerR	5.1.1.18	serine racemase
+DcsC	5.1.1.19	O-ureido-serine racemase
+Racemase, methionine	5.1.1.2	methionine racemase
+AEE	5.1.1.20	L-Ala-D/L-Glu epimerase
+YkfB	5.1.1.20	L-Ala-D/L-Glu epimerase
+AE epimerase	5.1.1.20	L-Ala-D/L-Glu epimerase
+YcjG	5.1.1.20	L-Ala-D/L-Glu epimerase
+BCAA racemase	5.1.1.21	isoleucine 2-epimerase
+Hyp-B 2-epimerase	5.1.1.22	4-hydroxyproline betaine 2-epimerase
+hpbD	5.1.1.22	4-hydroxyproline betaine 2-epimerase
+Racemase, glutamate	5.1.1.3	glutamate racemase
+GluR	5.1.1.3	glutamate racemase
+HpMurI	5.1.1.3	glutamate racemase
+MurI	5.1.1.3	glutamate racemase
+glutamate racemase	5.1.1.3	glutamate racemase
+RacE1	5.1.1.3	glutamate racemase
+RacE2	5.1.1.3	glutamate racemase
+BsGR	5.1.1.3	glutamate racemase
+BsRacE	5.1.1.3	glutamate racemase
+RACE	5.1.1.3	glutamate racemase
+FnGR	5.1.1.3	glutamate racemase
+glutamic acid racemases	5.1.1.3	glutamate racemase
+Racemase, proline	5.1.1.4	proline racemase
+TcPA45	5.1.1.4	proline racemase
+ProR	5.1.1.4	proline racemase
+PRAC	5.1.1.4	proline racemase
+TcPRACB	5.1.1.4	proline racemase
+TcPRAC	5.1.1.4	proline racemase
+proline racemase	5.1.1.4	proline racemase
+TcPRACA	5.1.1.4	proline racemase
+proline racemase/hydroxyproline epimerase	5.1.1.4	proline racemase
+ProR/HypE	5.1.1.4	proline racemase
+HjProR	5.1.1.4	proline racemase
+FaProR	5.1.1.4	proline racemase
+CdPRAC	5.1.1.4	proline racemase
+PrdF	5.1.1.4	proline racemase
+CdProR	5.1.1.4	proline racemase
+TvPRAC	5.1.1.4	proline racemase
+TvHYP1	5.1.1.4	proline racemase
+Racemase, lysine	5.1.1.5	lysine racemase
+lysine racemase	5.1.1.5	lysine racemase
+lyr	5.1.1.5	lysine racemase
+Racemase, threonine	5.1.1.6	threonine racemase
+Threonine alpha-epimerase	5.1.1.6	threonine racemase
+Epimerase, diaminopimelate	5.1.1.7	diaminopimelate epimerase
+LL-Diaminopimelate epimerase	5.1.1.7	diaminopimelate epimerase
+Diaminopimelic epimerase	5.1.1.7	diaminopimelate epimerase
+MtDapF	5.1.1.7	diaminopimelate epimerase
+DAP-epimerase	5.1.1.7	diaminopimelate epimerase
+DAP	5.1.1.7	diaminopimelate epimerase
+Diaminopimelic acid epimerase	5.1.1.7	diaminopimelate epimerase
+DapF	5.1.1.7	diaminopimelate epimerase
+diaminopimelate epimerase	5.1.1.7	diaminopimelate epimerase
+DAP epimerase	5.1.1.7	diaminopimelate epimerase
+YddE	5.1.1.7	diaminopimelate epimerase
+Epimerase, hydroxyproline	5.1.1.8	4-hydroxyproline epimerase
+Hydroxyproline epimerase	5.1.1.8	4-hydroxyproline epimerase
+Hydroxyproline 2-epimerase	5.1.1.8	4-hydroxyproline epimerase
+L-Hydroxyproline epimerase	5.1.1.8	4-hydroxyproline epimerase
+4-hydroxyproline 2-epimerase	5.1.1.8	4-hydroxyproline epimerase
+Smb20268	5.1.1.8	4-hydroxyproline epimerase
+HyPRE	5.1.1.8	4-hydroxyproline epimerase
+proline racemase/hydroxyproline epimerase	5.1.1.8	4-hydroxyproline epimerase
+ProR/HypE	5.1.1.8	4-hydroxyproline epimerase
+FaProR	5.1.1.8	4-hydroxyproline epimerase
+4-hydroxyproline-2-epimerase	5.1.1.8	4-hydroxyproline epimerase
+PrpA	5.1.1.8	4-hydroxyproline epimerase
+Racemase, arginine	5.1.1.9	arginine racemase
+arginine racemase	5.1.1.9	arginine racemase
+ArgR	5.1.1.9	arginine racemase
+Racemase, lactate	5.1.2.1	lactate racemase
+Lacticoracemase	5.1.2.1	lactate racemase
+Hydroxyacid racemase	5.1.2.1	lactate racemase
+Lactic acid racemase	5.1.2.1	lactate racemase
+LAR	5.1.2.1	lactate racemase
+lactate racemase	5.1.2.1	lactate racemase
+racemase, mandelate	5.1.2.2	mandelate racemase
+mandelic acid racemase	5.1.2.2	mandelate racemase
+MR	5.1.2.2	mandelate racemase
+mandelate racemase	5.1.2.2	mandelate racemase
+Epimerase, 3-hydroxybutyryl coenzyme A	5.1.2.3	3-hydroxybutyryl-CoA epimerase
+3-Hydroxybutyryl coenzyme A epimerase	5.1.2.3	3-hydroxybutyryl-CoA epimerase
+3-Hydroxyacyl-coenzyme A epimerase	5.1.2.3	3-hydroxybutyryl-CoA epimerase
+TFP	5.1.2.3	3-hydroxybutyryl-CoA epimerase
+Acetylmethylcarbinol racemase	5.1.2.4	acetoin racemase
+Racemase, acetoin	5.1.2.4	acetoin racemase
+Tartaric racemase	5.1.2.5	tartrate epimerase
+Epimerase, tartrate	5.1.2.5	tartrate epimerase
+Epimerase, isocitrate	5.1.2.6	isocitrate epimerase
+fructuronate epimerase	5.1.2.7	tagaturonate epimerase
+tagaturonate/fructuronate epimerase	5.1.2.7	tagaturonate epimerase
+UxaE	5.1.2.7	tagaturonate epimerase
+Tm0440	5.1.2.7	tagaturonate epimerase
+Epimerase, ribulose phosphate 3-	5.1.3.1	ribulose-phosphate 3-epimerase
+Phosphoribulose epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Phosphoketopentose 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Xylulose phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Ribulose phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Phosphoketopentose epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Ribulose 5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+D-Ribulose phosphate-3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+D-Ribulose-5-phosphate epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+D-Xylulose-5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+R5P3E	5.1.3.1	ribulose-phosphate 3-epimerase
+PPE	5.1.3.1	ribulose-phosphate 3-epimerase
+ribulose-5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+RPE	5.1.3.1	ribulose-phosphate 3-epimerase
+D-Ribulose-5-P 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+RPEase	5.1.3.1	ribulose-phosphate 3-epimerase
+Ru5Pepimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Pentose-5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+slr1622	5.1.3.1	ribulose-phosphate 3-epimerase
+D-ribulose 5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+D-ribulose-5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+cyt-RPEase	5.1.3.1	ribulose-phosphate 3-epimerase
+Ru5P rpimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Ru5P epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+xylulose-5-P 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Epimerase, cytidine diphosphoabequose	5.1.3.10	CDP-paratose 2-epimerase
+CDP abequose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+CDP paratose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+Cytidine diphosphoabequose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+Cytidine diphosphodideoxyglucose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+Cytidine diphosphoparatose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+Cytidine diphosphate paratose-2-epimerase	5.1.3.10	CDP-paratose 2-epimerase
+CDP-abequose 2-epimerase	5.1.3.10	CDP-paratose 2-epimerase
+CDPabequose 2-epimerase	5.1.3.10	CDP-paratose 2-epimerase
+CDP-abequose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+CDP-D-abequose 2-epimerase	5.1.3.10	CDP-paratose 2-epimerase
+Epimerase, cellobiose	5.1.3.11	cellobiose epimerase
+cellobiose 2-epimerase	5.1.3.11	cellobiose epimerase
+CE-NE1	5.1.3.11	cellobiose epimerase
+Epimerase, uridine diphosphoglucuronate 5'	5.1.3.12	UDP-glucuronate 5'-epimerase
+UDP glucuronate 5'-epimerase	5.1.3.12	UDP-glucuronate 5'-epimerase
+Uridine diphosphoglucuronate 5'-epimerase	5.1.3.12	UDP-glucuronate 5'-epimerase
+UDP-glucuronic acid 5'-epimerase	5.1.3.12	UDP-glucuronate 5'-epimerase
+C-5-Uronosylepimerase	5.1.3.12	UDP-glucuronate 5'-epimerase
+UDP-glucuronic acid epimerase	5.1.3.12	UDP-glucuronate 5'-epimerase
+dTDP-L-rhamnose synthetase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+Thymidine diphospho-4-ketorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+TDP-4-ketorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+Epimerase, thymidine diphospho-4-ketorhamnose 3,5-	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+dTDP-4-keto-L-rhamnose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+TDP-4-keto-L-rhamnose-3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+bifunctional UDP-4-keto-6-deoxy-D-glucose epimerase/reductase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+UGER	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+TDP-4-keto-6-deoxy-D-glucose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+RmbC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+dTDP-4-keto-6-deoxyglucose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+deoxythymidine diphospho-4-keto-6-deoxyglucose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+DnmU	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+dTDP-4-keto-6-deoxy-D-hexulose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+dTDP-6-deoxy-D-xylo-4-hexulose 3',5'-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+TDP-6-deoxy-D-xylo-4-hexopyranosid-4-ulose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+RmlC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+deoxythymidine diphosphate-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+dTDP-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+NovW gene product	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+UDP-N-acetylglucosamine 2'-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+Uridine diphosphoacetylglucosamine 2'-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+Uridine diphospho-N-acetylglucosamine 2'-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+Uridine diphosphate-N-acetylglucosamine-2'-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+Epimerase, uridine diphosphoacetylglucosamine 2-	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc-2-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc 2'-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+GNE2	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+GNE1	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-N-acetylglucosamine-2-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc 2-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-N-acetylglucosamine-2-epimerase/N-acetylmannosamine kinase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc 2-epimerase/ManNAc kinase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+GNE	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+NeuC protein	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+non-hydrolyzing UDP-N-acetylglucosamine 2-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-N-acetylglucosamine 2-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc 2-epimerase/ManAc kinase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+GNE/MNK	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc 2-epimerase/ManNAc kinase gene	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+More	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+His-rGNE	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+Epimerase, glucose 6-phosphate 1-	5.1.3.15	glucose-6-phosphate 1-epimerase
+Glucose 6-phosphate 1-epimerase	5.1.3.15	glucose-6-phosphate 1-epimerase
+G6P-1-epimerase	5.1.3.15	glucose-6-phosphate 1-epimerase
+UDPGal-4-epimerase	5.1.3.16	UDP-glucosamine 4-epimerase
+Uridine diphosphogalactose-4-epimerase	5.1.3.16	UDP-glucosamine 4-epimerase
+Epimerase, polyglucuronate	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Heparosan-N-sulfate-D-glucuronosyl-5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+C5 uronosyl epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Heparosan N-sulfate D-glucuronosyl 5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+D-Glucuronyl C-5 epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+glucuronyl C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+GlceA	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+HS glucuronyl C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Heparan sulfate C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Glce	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Hsepi	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+GlceB	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+3,4,7,8,9,10,11,12,13,15,16,17,18,21,22,23,24,25,26,27,28,29,30,31,32	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+HS C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+C5-epi	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+RED-C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+glucuronosyl C-5 epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Epimerase, guanosine diphosphomannose	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-D-mannose:GDP-L-galactose epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-D-mannose 3',5'-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-mannose 3",5"-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-mannose-3',5'-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GME	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-D-mannose 3,5-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-D-mannose-3',5'-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-D-mannose 3'',5''-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+OsGME	5.1.3.18	GDP-mannose 3,5-epimerase
+GME2	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-mannose 3',5'-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GME1	5.1.3.18	GDP-mannose 3,5-epimerase
+Polyglucuronate 5-epimerase	5.1.3.19	chondroitin-glucuronate 5-epimerase
+Dermatan-sulfate 5-epimerase	5.1.3.19	chondroitin-glucuronate 5-epimerase
+Epimerase, chondroitin glucuronate 5-	5.1.3.19	chondroitin-glucuronate 5-epimerase
+Chondroitin D-glucuronosyl 5-epimerase	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DS-epi1	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DS-epi2	5.1.3.19	chondroitin-glucuronate 5-epimerase
+dermatan sulfate epimerase 1	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DS-epimerase 1	5.1.3.19	chondroitin-glucuronate 5-epimerase
+dermatan sulfate epimerase	5.1.3.19	chondroitin-glucuronate 5-epimerase
+chondroitin-glucuronate C5-epimerase	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DS epimerase 1	5.1.3.19	chondroitin-glucuronate 5-epimerase
+dermatan sulfate epimerase 2	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DS epimerase 2	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DSE	5.1.3.19	chondroitin-glucuronate 5-epimerase
+SART2	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DSEL	5.1.3.19	chondroitin-glucuronate 5-epimerase
+dermatan sulfate epimerase like	5.1.3.19	chondroitin-glucuronate 5-epimerase
+4-Epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Epimerase, uridine diphosphoglucose	5.1.3.2	UDP-glucose 4-epimerase
+Galactowaldenase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-glucose epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-D-galactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDPG-4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDPgalactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphosphoglucose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphosphoglucose epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphosphate galactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphospho-galactose-4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphosphate glucose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UgeA	5.1.3.2	UDP-glucose 4-epimerase
+UDP-glucose-4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+HvUGE2	5.1.3.2	UDP-glucose 4-epimerase
+HvUGE3	5.1.3.2	UDP-glucose 4-epimerase
+UGE	5.1.3.2	UDP-glucose 4-epimerase
+UDP-Gal 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+HvUGE1	5.1.3.2	UDP-glucose 4-epimerase
+Rdh1	5.1.3.2	UDP-glucose 4-epimerase
+UDP-D-glucose/UDP-D-galactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UGE2	5.1.3.2	UDP-glucose 4-epimerase
+UGE4	5.1.3.2	UDP-glucose 4-epimerase
+UGE1:GUS	5.1.3.2	UDP-glucose 4-epimerase
+UGE3:GUS	5.1.3.2	UDP-glucose 4-epimerase
+UGE3	5.1.3.2	UDP-glucose 4-epimerase
+UGE5	5.1.3.2	UDP-glucose 4-epimerase
+UDP-glucose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UGE1	5.1.3.2	UDP-glucose 4-epimerase
+TbGalE	5.1.3.2	UDP-glucose 4-epimerase
+UDP-glucose 4'-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+CaGAL10	5.1.3.2	UDP-glucose 4-epimerase
+6xHis-rGalE	5.1.3.2	UDP-glucose 4-epimerase
+rGalE	5.1.3.2	UDP-glucose 4-epimerase
+uridine diphosphate-galactose-4'-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+GalE	5.1.3.2	UDP-glucose 4-epimerase
+UDP-galactose-4'-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+MdUGE1	5.1.3.2	UDP-glucose 4-epimerase
+CapD	5.1.3.2	UDP-glucose 4-epimerase
+AtUGE1	5.1.3.2	UDP-glucose 4-epimerase
+AtUGE2	5.1.3.2	UDP-glucose 4-epimerase
+AtUGE3	5.1.3.2	UDP-glucose 4-epimerase
+AtUGE4	5.1.3.2	UDP-glucose 4-epimerase
+AtUGE5	5.1.3.2	UDP-glucose 4-epimerase
+UDP-GlcNAc 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+More	5.1.3.2	UDP-glucose 4-epimerase
+UDP-xylose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-Xyl 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+PsUGE1	5.1.3.2	UDP-glucose 4-epimerase
+UDP-glucose/-galactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uge1p	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphosphogalactose-4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-Glc	5.1.3.2	UDP-glucose 4-epimerase
+GNE2	5.1.3.2	UDP-glucose 4-epimerase
+UDP-hexose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+GNE	5.1.3.2	UDP-glucose 4-epimerase
+UDP-GlcNAc/Glc 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-galactose 4'-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-galactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-Glc 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-galactose-4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Gal10p	5.1.3.2	UDP-glucose 4-epimerase
+GAL10	5.1.3.2	UDP-glucose 4-epimerase
+Epimerase, adenosine diphosphoglyceromannoheptose 6-	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+Adenosine diphosphoglyceromannoheptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-manno-heptose-epimerase, Aquifex aelicis gene rfaD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+GenBank AE000684-derived protein GI 2983012	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+Epimerase, adenosine diphosphoglyceromannoheptose 6-	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-mannoheptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+Epimerase, adenosine diphosphoglyceromannoheptose 6-	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-mannoheptose-6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+Genbank AE000440-derived protein GI 1790049	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-mannoheptose-6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-glyceromanno-heptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-mannoheptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+RfaD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+hldD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L,D-hep 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+AGME	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-manno-heptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-glycero-manno-heptose-6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+GmhD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-manno-heptose-6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+HP0859	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+UlaE	5.1.3.22	L-ribulose-5-phosphate 3-epimerase
+L-xylulose 5-phosphate 3-epimerase	5.1.3.22	L-ribulose-5-phosphate 3-epimerase
+SgaU	5.1.3.22	L-ribulose-5-phosphate 3-epimerase
+WbpI	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+UDP-GlcNAc3NAcA 2-epimerase	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+UDP-alpha-D-GlcNAc3NAcA 2-epimerase	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronic acid 2-epimerase	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronic acid	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+WlbD	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+sialic acid epimerase	5.1.3.24	N-acetylneuraminate epimerase
+N-acetylneuraminate mutarotase	5.1.3.24	N-acetylneuraminate epimerase
+YjhT	5.1.3.24	N-acetylneuraminate epimerase
+dTDP-4-L-rhamnose 4-epimerase	5.1.3.25	dTDP-L-rhamnose 4-epimerase
+wbiB	5.1.3.25	dTDP-L-rhamnose 4-epimerase
+dTDP-L-rhamnose 4-epimerase	5.1.3.25	dTDP-L-rhamnose 4-epimerase
+dTDP-Rha 4-epimerase	5.1.3.25	dTDP-L-rhamnose 4-epimerase
+dTDP-6-deoxysugar 4-epimerase	5.1.3.25	dTDP-L-rhamnose 4-epimerase
+GlcNAc-P-P-Und epimerase	5.1.3.26	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+GlcNAc-P-P-Und 4-epimerase	5.1.3.26	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+dTDP-deoxyglucose 3-epimerase	5.1.3.27	dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase
+dTDP-4-keto-6-deoxy-D-glucose 3-epimerase	5.1.3.27	dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase
+GerF	5.1.3.27	dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase
+dTDP-4-keto-6-deoxyglucose 3-epimerase	5.1.3.27	dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase
+Cap5G	5.1.3.28	UDP-N-acetyl-L-fucosamine synthase
+WbjD	5.1.3.28	UDP-N-acetyl-L-fucosamine synthase
+FucM	5.1.3.29	L-fucose mutarotase
+SpFcsU	5.1.3.29	L-fucose mutarotase
+eFucU	5.1.3.29	L-fucose mutarotase
+FucU	5.1.3.29	L-fucose mutarotase
+mFucU	5.1.3.29	L-fucose mutarotase
+Epimerase, aldose-1	5.1.3.3	Aldose 1-epimerase
+aldose mutarotase	5.1.3.3	Aldose 1-epimerase
+stYeaD	5.1.3.3	Aldose 1-epimerase
+mutarotase YeaD	5.1.3.3	Aldose 1-epimerase
+aldose 1-epimerase	5.1.3.3	Aldose 1-epimerase
+Mutarotase	5.1.3.3	Aldose 1-epimerase
+aldose-l-epimerase	5.1.3.3	Aldose 1-epimerase
+aldose-1-epimerase	5.1.3.3	Aldose 1-epimerase
+YeaD	5.1.3.3	Aldose 1-epimerase
+CLOSCI_02528	5.1.3.30	D-psicose 3-epimerase
+Ccel_0941	5.1.3.30	D-psicose 3-epimerase
+ACL75304 protein	5.1.3.30	D-psicose 3-epimerase
+DPEase	5.1.3.30	D-psicose 3-epimerase
+Clo1100_1157	5.1.3.30	D-psicose 3-epimerase
+CLOBOL_00069	5.1.3.30	D-psicose 3-epimerase
+DTEase	5.1.3.30	D-psicose 3-epimerase
+D-TE	5.1.3.31	D-tagatose 3-epimerase
+L-TE	5.1.3.31	D-tagatose 3-epimerase
+ketose 3-epimerase	5.1.3.31	D-tagatose 3-epimerase
+L-ribulose 3-epimerase	5.1.3.31	D-tagatose 3-epimerase
+L-RE	5.1.3.31	D-tagatose 3-epimerase
+rhamnose 1-epimerase	5.1.3.32	L-rhamnose mutarotase
+type-3 mutarotase	5.1.3.32	L-rhamnose mutarotase
+YiiL	5.1.3.32	L-rhamnose mutarotase
+RhaU	5.1.3.32	L-rhamnose mutarotase
+CetB	5.1.3.33	2-epi-5-epi-valiolone epimerase
+EVE	5.1.3.33	2-epi-5-epi-valiolone epimerase
+glucolipid epimerase	5.1.3.34	monoglucosyldiacylglycerol epimerase
+mgdE	5.1.3.34	monoglucosyldiacylglycerol epimerase
+GlcDG epimerase	5.1.3.34	monoglucosyldiacylglycerol epimerase
+MgdE protein	5.1.3.34	monoglucosyldiacylglycerol epimerase
+AcbO	5.1.3.35	2-epi-5-epi-valiolone 7-phosphate 2-epimerase
+HG-5epi	5.1.3.36	heparosan-glucuronate 5-epimerase
+alginate epimerase	5.1.3.37	mannuronan 5-epimerase
+C5-mannuronan epimerase	5.1.3.37	mannuronan 5-epimerase
+AlgE7	5.1.3.37	mannuronan 5-epimerase
+AlgE4	5.1.3.37	mannuronan 5-epimerase
+poly	5.1.3.37	mannuronan 5-epimerase
+AlgE6	5.1.3.37	mannuronan 5-epimerase
+AlgE1	5.1.3.37	mannuronan 5-epimerase
+AlgE3	5.1.3.37	mannuronan 5-epimerase
+algG	5.1.3.37	mannuronan 5-epimerase
+eryC	5.1.3.38	D-erythrulose 1-phosphate 3-epimerase
+lerI	5.1.3.39	L-erythrulose 4-phosphate epimerase
+Epimerase, L-ribulose phosphate 4-	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+L-Ribulose phosphate 4-epimerase	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+Phosphoribulose isomerase	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+Ribulose phosphate 4-epimerase	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+L-Ribulose-5-phosphate 4-epimerase	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+araD	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+rlC	5.1.3.41	fructoselysine 3-epimerase
+FrlC	5.1.3.41	fructoselysine 3-epimerase
+Epimerase, uridine diphosphoarabinose	5.1.3.5	UDP-arabinose 4-epimerase
+Uridine diphosphoarabinose epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+UDP arabinose epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+Uridine 5'-diphosphate-D-xylose 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+UDP-D-xylose 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+UDP-arabinose 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+AtUGE2	5.1.3.5	UDP-arabinose 4-epimerase
+AtUGE3	5.1.3.5	UDP-arabinose 4-epimerase
+AtUGE4	5.1.3.5	UDP-arabinose 4-epimerase
+AtUGE5	5.1.3.5	UDP-arabinose 4-epimerase
+UDP xylose-4-epimerase 1	5.1.3.5	UDP-arabinose 4-epimerase
+PsUGE1	5.1.3.5	UDP-arabinose 4-epimerase
+Uxe	5.1.3.5	UDP-arabinose 4-epimerase
+UXE3	5.1.3.5	UDP-arabinose 4-epimerase
+UDP-alpha-D-xylose 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+UXE1	5.1.3.5	UDP-arabinose 4-epimerase
+UXE2	5.1.3.5	UDP-arabinose 4-epimerase
+AtUGE1	5.1.3.5	UDP-arabinose 4-epimerase
+UDP-Xyl 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+UDP-xylose 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+Epimerase, uridine diphosphoglucuronate	5.1.3.6	UDP-glucuronate 4-epimerase
+Uridine diphospho-D-galacturonic acid 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP glucuronic epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+Uridine diphosphoglucuronic epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-galacturonate 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+Uridine diphosphoglucuronate epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-D-galacturonic acid 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-D-glucuronate-4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+AtUGlcAE3	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-glucuronic acid 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-GlcA 4-epimerase3	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-GlcA 4-epimerase1	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE5	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-GlcA 4-epimerase2	5.1.3.6	UDP-glucuronate 4-epimerase
+AtUGlcAE2	5.1.3.6	UDP-glucuronate 4-epimerase
+UGlcAE	5.1.3.6	UDP-glucuronate 4-epimerase
+ZmUGlcAE	5.1.3.6	UDP-glucuronate 4-epimerase
+OsUGlcAE3	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE1	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE2	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE4	5.1.3.6	UDP-glucuronate 4-epimerase
+AtUGlcAE1	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE6	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-GlcA 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-D-glucuronic acid 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE3	5.1.3.6	UDP-glucuronate 4-epimerase
+uridine diphosphate galacturonate 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDPGLE	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP acetylglucosamine epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Uridine diphosphoacetylglucosamine epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Uridine diphosphate N-acetylglucosamine-4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Uridine 5'-diphospho-N-acetylglucosamine-4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Epimerase, uridine diphosphoacetylglucosamine	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+WbPP	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-GlcNAc/Glc 4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-N-acetylglucosamine 4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-hexose 4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-Glc	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-N-acetylglucosamine-4'-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+GalE	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-GlcNAc epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Gne epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+GNE	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-GalNAc 4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+WbgU	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-N-acetylglucosamine 4'-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UAE	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Acylglucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+Epimerase, acylglucosamine 2-	5.1.3.8	N-Acylglucosamine 2-epimerase
+N-acetyl-D-glucosamine-2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+N-acylglucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+bGlcNAc 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+AGE2	5.1.3.8	N-Acylglucosamine 2-epimerase
+Renin-binding protein	5.1.3.8	N-Acylglucosamine 2-epimerase
+RNBP	5.1.3.8	N-Acylglucosamine 2-epimerase
+renin binding protein	5.1.3.8	N-Acylglucosamine 2-epimerase
+GlcNAc 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+AGE	5.1.3.8	N-Acylglucosamine 2-epimerase
+N-acyl-D-glucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+N-Acetylglucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+N-acetyl-D-glucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+Epimerase, acylglucosamine phosphate 2-	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+Acylglucosamine-6-phosphate 2-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+Acylglucosamine phosphate 2-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+chondroitin-glucuronate C5-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+DS epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+GlcNAc-6P-2-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+Methylmalonyl-CoA racemase	5.1.99.1	Methylmalonyl-CoA epimerase
+Racemase, methylmalonyl coenzyme A	5.1.99.1	Methylmalonyl-CoA epimerase
+Methylmalonyl coenzyme A racemase	5.1.99.1	Methylmalonyl-CoA epimerase
+DL-Methylmalonyl-CoA racemase	5.1.99.1	Methylmalonyl-CoA epimerase
+DL-Methylmalonyl-coenzyme A racemase	5.1.99.1	Methylmalonyl-CoA epimerase
+TTE0360	5.1.99.1	Methylmalonyl-CoA epimerase
+methylmalonyl-coenzyme A epimerase	5.1.99.1	Methylmalonyl-CoA epimerase
+Msed_0639	5.1.99.1	Methylmalonyl-CoA epimerase
+MCE-1	5.1.99.1	Methylmalonyl-CoA epimerase
+methylmalonyl-CoA 2-epimerase	5.1.99.1	Methylmalonyl-CoA epimerase
+methylmalonyl-CoA epimerase	5.1.99.1	Methylmalonyl-CoA epimerase
+MCEE	5.1.99.1	Methylmalonyl-CoA epimerase
+MMCE	5.1.99.1	Methylmalonyl-CoA epimerase
+mm-CoA epimerase	5.1.99.1	Methylmalonyl-CoA epimerase
+MCE	5.1.99.1	Methylmalonyl-CoA epimerase
+methylmalonyl-CoA 2-racemase	5.1.99.1	Methylmalonyl-CoA epimerase
+Epimerase, 16-hydroxy steroid	5.1.99.2	16-Hydroxysteroid epimerase
+16-Hydroxy steroid epimerase	5.1.99.2	16-Hydroxysteroid epimerase
+Racemase, allantoin	5.1.99.3	Allantoin racemase
+HpxA	5.1.99.3	Allantoin racemase
+allantoin racemase	5.1.99.3	Allantoin racemase
+HpxA enzyme	5.1.99.3	Allantoin racemase
+Racemase, alpha-methylacyl coenzyme A	5.1.99.4	alpha-Methylacyl-CoA racemase
+Racemase, alpha-methylacyl coenzyme A	5.1.99.4	alpha-Methylacyl-CoA racemase
+GenBank U89906-derived protein GI 2145186	5.1.99.4	alpha-Methylacyl-CoA racemase
+Racemase, alpha-methylacyl coenzyme A	5.1.99.4	alpha-Methylacyl-CoA racemase
+GenBank U89905-derived protein GI2145184	5.1.99.4	alpha-Methylacyl-CoA racemase
+2-arylpropionyl-CoA epimerase	5.1.99.4	alpha-Methylacyl-CoA racemase
+2-methylacyl-CoA racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+amacr/P504S	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-methyl CoA racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-methylacyl-CoA racemase 1A	5.1.99.4	alpha-Methylacyl-CoA racemase
+AMACR 1A	5.1.99.4	alpha-Methylacyl-CoA racemase
+ibuprofenoyl-CoA epimerase	5.1.99.4	alpha-Methylacyl-CoA racemase
+AMACR	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-methylacyl-CoA racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-methylacyl-coenzyme A racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-methylacyl coenzyme A racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-Methylacyl CoA racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+P504S	5.1.99.4	alpha-Methylacyl-CoA racemase
+MCR	5.1.99.4	alpha-Methylacyl-CoA racemase
+AMACR IA	5.1.99.4	alpha-Methylacyl-CoA racemase
+5'-monosubstituted-hydantoin racemase	5.1.99.5	hydantoin racemase
+hydantoin racemase	5.1.99.5	hydantoin racemase
+HyuA	5.1.99.5	hydantoin racemase
+HyuE	5.1.99.5	hydantoin racemase
+apolipoprotein A-1-binding protein	5.1.99.6	NAD(P)H-hydrate epimerase
+NAD	5.1.99.6	NAD(P)H-hydrate epimerase
+AIBP	5.1.99.6	NAD(P)H-hydrate epimerase
+YNL200C	5.1.99.6	NAD(P)H-hydrate epimerase
+epimerase-PPOX	5.1.99.6	NAD(P)H-hydrate epimerase
+D-erythro-7,8-dihydroneopterin triphosphate epimerase	5.1.99.7	dihydroneopterin triphosphate 2'-epimerase
+dihydroneopterin-triphosphate epimerase	5.1.99.7	dihydroneopterin triphosphate 2'-epimerase
+dihydroneopterin triphosphate epimerase	5.1.99.7	dihydroneopterin triphosphate 2'-epimerase
+folX	5.1.99.7	dihydroneopterin triphosphate 2'-epimerase
+H2NTP 2'-epimerase	5.1.99.7	dihydroneopterin triphosphate 2'-epimerase
+FolB1	5.1.99.8	7,8-dihydroneopterin epimerase
+At3g11750	5.1.99.8	7,8-dihydroneopterin epimerase
+FolB	5.1.99.8	7,8-dihydroneopterin epimerase
+FolB2	5.1.99.8	7,8-dihydroneopterin epimerase
+At5g62980	5.1.99.8	7,8-dihydroneopterin epimerase
+folX	5.1.99.8	7,8-dihydroneopterin epimerase
+dihydroneopterin triphosphate 2'-epimerase	5.1.99.8	7,8-dihydroneopterin epimerase
+Isomerase, maleate	5.2.1.1	Maleate isomerase
+MaiA	5.2.1.1	Maleate isomerase
+Pp-Iso	5.2.1.1	Maleate isomerase
+maleate cis-trans isomerase	5.2.1.1	Maleate isomerase
+Isomerase, 2-chlorocarboxymethylenebutenolide	5.2.1.10	2-Chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase
+2-Chlorocarboxymethylenebutenolide isomerase	5.2.1.10	2-Chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase
+Chlorodienelactone isomerase	5.2.1.10	2-Chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase
+Z-ISO	5.2.1.12	zeta-carotene isomerase
+15-cis-zeta-carotene isomerase	5.2.1.12	zeta-carotene isomerase
+At1g10830	5.2.1.12	zeta-carotene isomerase
+carotene cis-trans isomerase	5.2.1.13	prolycopene isomerase
+CRTISO	5.2.1.13	prolycopene isomerase
+Zmcrtiso1	5.2.1.13	prolycopene isomerase
+carotenoid isomerase	5.2.1.13	prolycopene isomerase
+ZEBRA2	5.2.1.13	prolycopene isomerase
+CoCRTISO1-ORa	5.2.1.13	prolycopene isomerase
+CoCRTISO1Y	5.2.1.13	prolycopene isomerase
+CoCRTISO2	5.2.1.13	prolycopene isomerase
+CoCRTISO3	5.2.1.13	prolycopene isomerase
+CoCRTISO4	5.2.1.13	prolycopene isomerase
+CoCRTISO1-ORb	5.2.1.13	prolycopene isomerase
+D27	5.2.1.14	beta-carotene isomerase
+DWARF27	5.2.1.14	beta-carotene isomerase
+beta-carotene isomerase	5.2.1.14	beta-carotene isomerase
+D27 protein	5.2.1.14	beta-carotene isomerase
+Isomerase, maleylacetoacetate	5.2.1.2	Maleylacetoacetate isomerase
+Maleylacetoacetic isomerase	5.2.1.2	Maleylacetoacetate isomerase
+Maleylacetone isomerase	5.2.1.2	Maleylacetoacetate isomerase
+Maleylacetone cis-trans-isomerase	5.2.1.2	Maleylacetoacetate isomerase
+MAc-tI	5.2.1.2	Maleylacetoacetate isomerase
+glutathione S-transferase zeta-class 1	5.2.1.2	Maleylacetoacetate isomerase
+AtGSTZ1	5.2.1.2	Maleylacetoacetate isomerase
+AtMAAI	5.2.1.2	Maleylacetoacetate isomerase
+glutathione transferase zeta	5.2.1.2	Maleylacetoacetate isomerase
+glutathione S-transferase zeta/maleylacetoacetate isomerase	5.2.1.2	Maleylacetoacetate isomerase
+GSTzeta/MAAI	5.2.1.2	Maleylacetoacetate isomerase
+maleylacetoacetate isomerase	5.2.1.2	Maleylacetoacetate isomerase
+GSTZ1-1	5.2.1.2	Maleylacetoacetate isomerase
+glutathione S-transferase Zeta 1-1	5.2.1.2	Maleylacetoacetate isomerase
+glutathione transferase zeta 1/maleylacetoacetate isomerase	5.2.1.2	Maleylacetoacetate isomerase
+GSTz1/MAAI	5.2.1.2	Maleylacetoacetate isomerase
+MAAI	5.2.1.2	Maleylacetoacetate isomerase
+Isomerase, maleylpyruvate	5.2.1.4	Maleylpyruvate isomerase
+MPI	5.2.1.4	Maleylpyruvate isomerase
+NarL	5.2.1.4	Maleylpyruvate isomerase
+mycothiol-dependent maleylpyruvate isomerase	5.2.1.4	Maleylpyruvate isomerase
+NagL	5.2.1.4	Maleylpyruvate isomerase
+3-maleylpyruvate cis-trans-isomerase	5.2.1.4	Maleylpyruvate isomerase
+MDMPI	5.2.1.4	Maleylpyruvate isomerase
+msh gene	5.2.1.4	Maleylpyruvate isomerase
+ncgl2918 gene	5.2.1.4	Maleylpyruvate isomerase
+thiol-dependent maleylpyruvate isomerase	5.2.1.4	Maleylpyruvate isomerase
+BagL	5.2.1.4	Maleylpyruvate isomerase
+maleylpyruvate isomerase	5.2.1.4	Maleylpyruvate isomerase
+Isomerase, linoleate	5.2.1.5	Linoleate isomerase
+Linoleate DELTA12-cis,DELTA11-trans isomerase	5.2.1.5	Linoleate isomerase
+Linoleic acid isomerase	5.2.1.5	Linoleate isomerase
+LA-I	5.2.1.5	Linoleate isomerase
+C12 isomerase	5.2.1.5	Linoleate isomerase
+LA isomerase	5.2.1.5	Linoleate isomerase
+LAI	5.2.1.5	Linoleate isomerase
+linoleic acid DELTA12-cis,DELTA11-trans-isomerase	5.2.1.5	Linoleate isomerase
+Isomerase, furylfuramide	5.2.1.6	Furylfuramide isomerase
+Isomerase, peptidylprolyl cis-trans	5.2.1.8	Peptidylprolyl isomerase
+Proteins, cyclophilins	5.2.1.8	Peptidylprolyl isomerase
+Proteins, specific or class, cyclophilins	5.2.1.8	Peptidylprolyl isomerase
+Peptide bond isomerase	5.2.1.8	Peptidylprolyl isomerase
+FKBP65	5.2.1.8	Peptidylprolyl isomerase
+CPH	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin 18	5.2.1.8	Peptidylprolyl isomerase
+Cyp3 PPIase	5.2.1.8	Peptidylprolyl isomerase
+PfCyP	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin C	5.2.1.8	Peptidylprolyl isomerase
+SmCYP A	5.2.1.8	Peptidylprolyl isomerase
+SmCYP B	5.2.1.8	Peptidylprolyl isomerase
+P31	5.2.1.8	Peptidylprolyl isomerase
+12 kDa FKBP	5.2.1.8	Peptidylprolyl isomerase
+12.6 kDa FKBP	5.2.1.8	Peptidylprolyl isomerase
+13 kDa FKBP	5.2.1.8	Peptidylprolyl isomerase
+15 kDa FKBP	5.2.1.8	Peptidylprolyl isomerase
+19 kDa FK506-binding protein	5.2.1.8	Peptidylprolyl isomerase
+22 kDa FK506-binding protein	5.2.1.8	Peptidylprolyl isomerase
+25 kDa FKBP	5.2.1.8	Peptidylprolyl isomerase
+27 kDa membrane protein	5.2.1.8	Peptidylprolyl isomerase
+36 kDa FK506 binding protein	5.2.1.8	Peptidylprolyl isomerase
+40 kDa thylakoid lumen PPIase	5.2.1.8	Peptidylprolyl isomerase
+40 kDa thylakoid lumen rotamase	5.2.1.8	Peptidylprolyl isomerase
+51 kDa FK506-binding protein	5.2.1.8	Peptidylprolyl isomerase
+52 kDa FK506 binding protein	5.2.1.8	Peptidylprolyl isomerase
+54 kDa progesterone receptor-associated immunophilin	5.2.1.8	Peptidylprolyl isomerase
+65 kDa FK506-binding protein	5.2.1.8	Peptidylprolyl isomerase
+CGI-124	5.2.1.8	Peptidylprolyl isomerase
+Chl-Mip	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin 33	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin cyp2	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin homolog	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin ScCypA	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin ScCypB	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin-10	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin-11	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin-40	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin-60	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin-like protein Cyp-60	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin-related protein	5.2.1.8	Peptidylprolyl isomerase
+Cyclosporin A-binding protein	5.2.1.8	Peptidylprolyl isomerase
+CYP-40	5.2.1.8	Peptidylprolyl isomerase
+CYP-S1	5.2.1.8	Peptidylprolyl isomerase
+Estrogen receptor binding cyclophilin	5.2.1.8	Peptidylprolyl isomerase
+FF1 antigen	5.2.1.8	Peptidylprolyl isomerase
+FKBP	5.2.1.8	Peptidylprolyl isomerase
+FKBP-12	5.2.1.8	Peptidylprolyl isomerase
+FKBP-12.6	5.2.1.8	Peptidylprolyl isomerase
+FKBP-13	5.2.1.8	Peptidylprolyl isomerase
+FKBP-15	5.2.1.8	Peptidylprolyl isomerase
+FKBP-19	5.2.1.8	Peptidylprolyl isomerase
+FKBP-21	5.2.1.8	Peptidylprolyl isomerase
+FKBP-22	5.2.1.8	Peptidylprolyl isomerase
+FKBP-23	5.2.1.8	Peptidylprolyl isomerase
+FKBP-25	5.2.1.8	Peptidylprolyl isomerase
+FKBP-36	5.2.1.8	Peptidylprolyl isomerase
+FKBP-51	5.2.1.8	Peptidylprolyl isomerase
+FKBP-70	5.2.1.8	Peptidylprolyl isomerase
+FKBP52 protein	5.2.1.8	Peptidylprolyl isomerase
+FKBP54	5.2.1.8	Peptidylprolyl isomerase
+FKBP59	5.2.1.8	Peptidylprolyl isomerase
+FKBP65RS	5.2.1.8	Peptidylprolyl isomerase
+HBI	5.2.1.8	Peptidylprolyl isomerase
+Histidine rich protein	5.2.1.8	Peptidylprolyl isomerase
+HSP binding immunophilin	5.2.1.8	Peptidylprolyl isomerase
+HSP90-binding immunophilin	5.2.1.8	Peptidylprolyl isomerase
+Immunophilin FKBP12	5.2.1.8	Peptidylprolyl isomerase
+Immunophilin FKBP12.6	5.2.1.8	Peptidylprolyl isomerase
+Immunophilin FKBP36	5.2.1.8	Peptidylprolyl isomerase
+Immunophilin FKBP65	5.2.1.8	Peptidylprolyl isomerase
+Macrolide binding protein	5.2.1.8	Peptidylprolyl isomerase
+Macrophage infectivity potentiator	5.2.1.8	Peptidylprolyl isomerase
+Nucleolar proline isomerase	5.2.1.8	Peptidylprolyl isomerase
+p17.7	5.2.1.8	Peptidylprolyl isomerase
+P54	5.2.1.8	Peptidylprolyl isomerase
+p59 protein	5.2.1.8	Peptidylprolyl isomerase
+Parvulin 14	5.2.1.8	Peptidylprolyl isomerase
+Peptidyl-prolyl cis-trans isomerase plp	5.2.1.8	Peptidylprolyl isomerase
+Peptidyl-prolyl cis-trans isomerase surA	5.2.1.8	Peptidylprolyl isomerase
+Peptidyl-prolyl cis/trans isomerase EPVH	5.2.1.8	Peptidylprolyl isomerase
+Planta-induced rust protein 28	5.2.1.8	Peptidylprolyl isomerase
+PPIase Pin1	5.2.1.8	Peptidylprolyl isomerase
+PPIase Pin4	5.2.1.8	Peptidylprolyl isomerase
+Proline rotamase	5.2.1.8	Peptidylprolyl isomerase
+Rapamycin-binding protein	5.2.1.8	Peptidylprolyl isomerase
+Rapamycin-selective 25 kDa immunophilin	5.2.1.8	Peptidylprolyl isomerase
+Rotamase Pin1	5.2.1.8	Peptidylprolyl isomerase
+Rotamase Pin4	5.2.1.8	Peptidylprolyl isomerase
+Rotamase plp	5.2.1.8	Peptidylprolyl isomerase
+S-cyclophilin	5.2.1.8	Peptidylprolyl isomerase
+S1205-06	5.2.1.8	Peptidylprolyl isomerase
+SCYLP	5.2.1.8	Peptidylprolyl isomerase
+Smp17.7	5.2.1.8	Peptidylprolyl isomerase
+SP18	5.2.1.8	Peptidylprolyl isomerase
+WHP	5.2.1.8	Peptidylprolyl isomerase
+TLP20	5.2.1.8	Peptidylprolyl isomerase
+peptidyl-prolyl	5.2.1.8	Peptidylprolyl isomerase
+FkpA	5.2.1.8	Peptidylprolyl isomerase
+SurA	5.2.1.8	Peptidylprolyl isomerase
+cyclophilin-D	5.2.1.8	Peptidylprolyl isomerase
+Ptf1/Ess1	5.2.1.8	Peptidylprolyl isomerase
+Ypa	5.2.1.8	Peptidylprolyl isomerase
+FKBP77	5.2.1.8	Peptidylprolyl isomerase
+PP2A phosphatase activator	5.2.1.8	Peptidylprolyl isomerase
+cyclophilin-A	5.2.1.8	Peptidylprolyl isomerase
+cyp-A	5.2.1.8	Peptidylprolyl isomerase
+peptidylprolyl cis,trans-isomerase	5.2.1.8	Peptidylprolyl isomerase
+mzFKBP-66	5.2.1.8	Peptidylprolyl isomerase
+Rotamase	5.2.1.8	Peptidylprolyl isomerase
+PIN1At	5.2.1.8	Peptidylprolyl isomerase
+PIN1-type parvulin 1	5.2.1.8	Peptidylprolyl isomerase
+CYP20-3	5.2.1.8	Peptidylprolyl isomerase
+Ng-MIP	5.2.1.8	Peptidylprolyl isomerase
+SlrA	5.2.1.8	Peptidylprolyl isomerase
+FKBP1B	5.2.1.8	Peptidylprolyl isomerase
+CYP-5	5.2.1.8	Peptidylprolyl isomerase
+CYP-6	5.2.1.8	Peptidylprolyl isomerase
+cyclophilin 3	5.2.1.8	Peptidylprolyl isomerase
+CYP-3	5.2.1.8	Peptidylprolyl isomerase
+MtFKBP17	5.2.1.8	Peptidylprolyl isomerase
+L.p.Cyp18	5.2.1.8	Peptidylprolyl isomerase
+MIP	5.2.1.8	Peptidylprolyl isomerase
+PpiB	5.2.1.8	Peptidylprolyl isomerase
+FKBP35	5.2.1.8	Peptidylprolyl isomerase
+TcFKBP18	5.2.1.8	Peptidylprolyl isomerase
+Par27	5.2.1.8	Peptidylprolyl isomerase
+peptidyl prolyl cis-trans isomerase	5.2.1.8	Peptidylprolyl isomerase
+Cj0596	5.2.1.8	Peptidylprolyl isomerase
+OvCYP-16	5.2.1.8	Peptidylprolyl isomerase
+CeCYP-16	5.2.1.8	Peptidylprolyl isomerase
+Cyp	5.2.1.8	Peptidylprolyl isomerase
+Cyp1	5.2.1.8	Peptidylprolyl isomerase
+pCYP B	5.2.1.8	Peptidylprolyl isomerase
+Cyp2	5.2.1.8	Peptidylprolyl isomerase
+MtFK	5.2.1.8	Peptidylprolyl isomerase
+parvulin-like protein	5.2.1.8	Peptidylprolyl isomerase
+Plp	5.2.1.8	Peptidylprolyl isomerase
+Par10	5.2.1.8	Peptidylprolyl isomerase
+HcCYP	5.2.1.8	Peptidylprolyl isomerase
+PpiA	5.2.1.8	Peptidylprolyl isomerase
+NIMA-1	5.2.1.8	Peptidylprolyl isomerase
+trigger factor	5.2.1.8	Peptidylprolyl isomerase
+mimicyp	5.2.1.8	Peptidylprolyl isomerase
+PrsA	5.2.1.8	Peptidylprolyl isomerase
+6,7,8,9,10,18,28,34,60,61,62,63,64,65,66,67,68,69,70,71,72,73,82,83,84	5.2.1.8	Peptidylprolyl isomerase
+Peptidyl-prolyl cis-trans isomerase	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin	5.2.1.8	Peptidylprolyl isomerase
+FKBP12	5.2.1.8	Peptidylprolyl isomerase
+FKBP13	5.2.1.8	Peptidylprolyl isomerase
+CYP20-2	5.2.1.8	Peptidylprolyl isomerase
+SDCCAG-10	5.2.1.8	Peptidylprolyl isomerase
+PPIC	5.2.1.8	Peptidylprolyl isomerase
+PPIE	5.2.1.8	Peptidylprolyl isomerase
+Parvulin	5.2.1.8	Peptidylprolyl isomerase
+Par14	5.2.1.8	Peptidylprolyl isomerase
+peptidyl-prolyl cis/trans isomerase NIMA-interacting 1	5.2.1.8	Peptidylprolyl isomerase
+Pin1	5.2.1.8	Peptidylprolyl isomerase
+PPIF	5.2.1.8	Peptidylprolyl isomerase
+PPIG	5.2.1.8	Peptidylprolyl isomerase
+PPIH	5.2.1.8	Peptidylprolyl isomerase
+Par45	5.2.1.8	Peptidylprolyl isomerase
+TF	5.2.1.8	Peptidylprolyl isomerase
+sFkpA	5.2.1.8	Peptidylprolyl isomerase
+SLyD	5.2.1.8	Peptidylprolyl isomerase
+prolyl cis-trans isomerase	5.2.1.8	Peptidylprolyl isomerase
+mip-like peptidyl-prolyl cis-trans isomerase	5.2.1.8	Peptidylprolyl isomerase
+PpiD	5.2.1.8	Peptidylprolyl isomerase
+FKBP22	5.2.1.8	Peptidylprolyl isomerase
+FKBP33	5.2.1.8	Peptidylprolyl isomerase
+parvulin-type peptidyl-prolyl isomerase	5.2.1.8	Peptidylprolyl isomerase
+EF1534	5.2.1.8	Peptidylprolyl isomerase
+peptidylprolyl cis/trans isomerase	5.2.1.8	Peptidylprolyl isomerase
+EF2898	5.2.1.8	Peptidylprolyl isomerase
+Peptidylprolyl cis-trans isomerase	5.2.1.8	Peptidylprolyl isomerase
+PvFKBP35	5.2.1.8	Peptidylprolyl isomerase
+FK506 binding protein 35	5.2.1.8	Peptidylprolyl isomerase
+EF0685	5.2.1.8	Peptidylprolyl isomerase
+ROF2	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin B	5.2.1.8	Peptidylprolyl isomerase
+CyPB	5.2.1.8	Peptidylprolyl isomerase
+CyPA	5.2.1.8	Peptidylprolyl isomerase
+hPar14	5.2.1.8	Peptidylprolyl isomerase
+hPin1	5.2.1.8	Peptidylprolyl isomerase
+Cyp18	5.2.1.8	Peptidylprolyl isomerase
+cyclophilin H	5.2.1.8	Peptidylprolyl isomerase
+cyclophilin hCyp-18	5.2.1.8	Peptidylprolyl isomerase
+parvulin1 4	5.2.1.8	Peptidylprolyl isomerase
+h Par14	5.2.1.8	Peptidylprolyl isomerase
+FKBP51	5.2.1.8	Peptidylprolyl isomerase
+Cyp40	5.2.1.8	Peptidylprolyl isomerase
+cyclophilin J	5.2.1.8	Peptidylprolyl isomerase
+CyPJ	5.2.1.8	Peptidylprolyl isomerase
+hCyP33	5.2.1.8	Peptidylprolyl isomerase
+protein phosphatase 2A phosphatase activator	5.2.1.8	Peptidylprolyl isomerase
+FKBP38	5.2.1.8	Peptidylprolyl isomerase
+PPIL1	5.2.1.8	Peptidylprolyl isomerase
+peptidyl prolyl isomerase-like protein 1	5.2.1.8	Peptidylprolyl isomerase
+PPWD1	5.2.1.8	Peptidylprolyl isomerase
+prolyl-peptidyl isomerase	5.2.1.8	Peptidylprolyl isomerase
+peptidylproline cis-trans-isomerase	5.2.1.8	Peptidylprolyl isomerase
+peptidyl-prolyl cis-trans isomerase NIMA-interacting 1	5.2.1.8	Peptidylprolyl isomerase
+FK506 binding protein 12	5.2.1.8	Peptidylprolyl isomerase
+FKBP 12	5.2.1.8	Peptidylprolyl isomerase
+peptidyl-prolyl isomerase 1	5.2.1.8	Peptidylprolyl isomerase
+More	5.2.1.8	Peptidylprolyl isomerase
+Cyclophilin A	5.2.1.8	Peptidylprolyl isomerase
+PtpA	5.2.1.8	Peptidylprolyl isomerase
+peptidyl-prolyl cis/trans isomerase	5.2.1.8	Peptidylprolyl isomerase
+FKBP52	5.2.1.8	Peptidylprolyl isomerase
+peptidylprolyl isomerase	5.2.1.8	Peptidylprolyl isomerase
+Isomerase, farnesol	5.2.1.9	farnesol 2-isomerase
+Isomerase, triose phosphate	5.3.1.1	triose-phosphate isomerase
+Phosphotriose isomerase	5.3.1.1	triose-phosphate isomerase
+Triose phosphoisomerase	5.3.1.1	triose-phosphate isomerase
+Triose phosphate mutase	5.3.1.1	triose-phosphate isomerase
+vTIM	5.3.1.1	triose-phosphate isomerase
+Triosephosphate mutase	5.3.1.1	triose-phosphate isomerase
+monoTIM	5.3.1.1	triose-phosphate isomerase
+CP 25	5.3.1.1	triose-phosphate isomerase
+Lactacin B inducer protein	5.3.1.1	triose-phosphate isomerase
+D-glyceraldehyde-3-phosphate ketol-isomerase	5.3.1.1	triose-phosphate isomerase
+1,3,6,7,13,17,22,23,24,36,40,41,47,48,49,50,51,53,54,55,56,57,58,59,60	5.3.1.1	triose-phosphate isomerase
+1,6,7,9,13,17,22,23,24,36,37,41,48,49,50,51,53,54,55,56,57,58,59,60,61	5.3.1.1	triose-phosphate isomerase
+PfuTIM	5.3.1.1	triose-phosphate isomerase
+GlTIM	5.3.1.1	triose-phosphate isomerase
+TcTIM	5.3.1.1	triose-phosphate isomerase
+PfTIM	5.3.1.1	triose-phosphate isomerase
+TpI	5.3.1.1	triose-phosphate isomerase
+cytoplasmic TPI	5.3.1.1	triose-phosphate isomerase
+cTPI	5.3.1.1	triose-phosphate isomerase
+cytoplasmic triosephosphate isomerase	5.3.1.1	triose-phosphate isomerase
+plastidic triosephosphate isomerase	5.3.1.1	triose-phosphate isomerase
+plastidic TPI	5.3.1.1	triose-phosphate isomerase
+pTPI	5.3.1.1	triose-phosphate isomerase
+cytoTPI	5.3.1.1	triose-phosphate isomerase
+SSO2592	5.3.1.1	triose-phosphate isomerase
+TonTIM	5.3.1.1	triose-phosphate isomerase
+Triose phosphate isomerase	5.3.1.1	triose-phosphate isomerase
+Uronic isomerase	5.3.1.12	glucuronate isomerase
+Isomerase, glucuronate	5.3.1.12	glucuronate isomerase
+D-Glucuronate isomerase	5.3.1.12	glucuronate isomerase
+D-glucuronate ketol-isomerase	5.3.1.12	glucuronate isomerase
+Uronate isomerase	5.3.1.12	glucuronate isomerase
+Bh0493	5.3.1.12	glucuronate isomerase
+More	5.3.1.12	glucuronate isomerase
+URI	5.3.1.12	glucuronate isomerase
+Glucuronate isomerase	5.3.1.12	glucuronate isomerase
+UxaC	5.3.1.12	glucuronate isomerase
+Arabinose phosphate isomerase, arabinose phosphate	5.3.1.13	arabinose-5-phosphate isomerase
+Arabinose phosphate isomerase	5.3.1.13	arabinose-5-phosphate isomerase
+Isomerase, arabinose phosphate	5.3.1.13	arabinose-5-phosphate isomerase
+Phosphoarabinoisomerase	5.3.1.13	arabinose-5-phosphate isomerase
+D-arabinose-5-phosphate ketol-isomerase	5.3.1.13	arabinose-5-phosphate isomerase
+GutQ	5.3.1.13	arabinose-5-phosphate isomerase
+arabinose 5-phosphate isomerase	5.3.1.13	arabinose-5-phosphate isomerase
+c3406 protein	5.3.1.13	arabinose-5-phosphate isomerase
+A5P isomerase	5.3.1.13	arabinose-5-phosphate isomerase
+API	5.3.1.13	arabinose-5-phosphate isomerase
+KdsD	5.3.1.13	arabinose-5-phosphate isomerase
+YrbH	5.3.1.13	arabinose-5-phosphate isomerase
+D-Arabinose 5-phosphate isomerase	5.3.1.13	arabinose-5-phosphate isomerase
+D-arabinose-5P isomerase	5.3.1.13	arabinose-5-phosphate isomerase
+KpsF	5.3.1.13	arabinose-5-phosphate isomerase
+arabinose-5-phosphate isomerase	5.3.1.13	arabinose-5-phosphate isomerase
+D-arabinose-5-phosphate isomerase	5.3.1.13	arabinose-5-phosphate isomerase
+A5PI	5.3.1.13	arabinose-5-phosphate isomerase
+K-API	5.3.1.13	arabinose-5-phosphate isomerase
+KPSF protein	5.3.1.13	arabinose-5-phosphate isomerase
+L-API	5.3.1.13	arabinose-5-phosphate isomerase
+G-API	5.3.1.13	arabinose-5-phosphate isomerase
+Isomerase, L-rhamnose	5.3.1.14	L-rhamnose isomerase
+RhaI	5.3.1.14	L-rhamnose isomerase
+L-RI	5.3.1.14	L-rhamnose isomerase
+L-rhamnose ketol-isomerase	5.3.1.14	L-rhamnose isomerase
+RhaA	5.3.1.14	L-rhamnose isomerase
+Rhamnose isomerase	5.3.1.14	L-rhamnose isomerase
+L-rhamnose isomerase	5.3.1.14	L-rhamnose isomerase
+L-RhI	5.3.1.14	L-rhamnose isomerase
+Isomerase, D-lyxose	5.3.1.15	D-lyxose ketol-isomerase
+D-lyxose ketol-isomerase	5.3.1.15	D-lyxose ketol-isomerase
+D-Lyxose isomerase	5.3.1.15	D-lyxose ketol-isomerase
+CLRI	5.3.1.15	D-lyxose ketol-isomerase
+CLLI	5.3.1.15	D-lyxose ketol-isomerase
+YdaE	5.3.1.15	D-lyxose ketol-isomerase
+Isomerase,	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+Isomerase, N-	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+BBM II ketolisomerase	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+Phosphoribosylformimino-5-aminoimidazole carboxamide ribotide isomerase	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+1-	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+N'-[	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+BBM II isomerase	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+eHisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+HisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+ProFAR isomerase	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+tHisA	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+BBMII isomerase	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+phosphoribosyl-5-amino-1-phosphoribosyl-4-imidazolecarboxamide	5.3.1.16	1-(5-phosphoribosyl)-5-[(5
+Isomerase, 4-deoxy-L-threo-5-hexulose uronate	5.3.1.17	5-dehydro-4-deoxy-D-glucuronate isomerase
+4-Deoxy-L-threo-5-hexosulose uronic acid isomerase	5.3.1.17	5-dehydro-4-deoxy-D-glucuronate isomerase
+DKI isomerase	5.3.1.17	5-dehydro-4-deoxy-D-glucuronate isomerase
+4-deoxy-L-threo-5-hexosulose-uronate ketol-isomerase	5.3.1.17	5-dehydro-4-deoxy-D-glucuronate isomerase
+5-keto 4-deoxyuronate isomerase	5.3.1.17	5-dehydro-4-deoxy-D-glucuronate isomerase
+5-keto-4-deoxyuronate isomerase	5.3.1.17	5-dehydro-4-deoxy-D-glucuronate isomerase
+KduI	5.3.1.17	5-dehydro-4-deoxy-D-glucuronate isomerase
+Isomerase, ribose	5.3.1.20	ribose isomerase
+D-Ribose isomerase	5.3.1.20	ribose isomerase
+D-ribose ketol-isomerase	5.3.1.20	ribose isomerase
+Isomerase, corticosteroid sidechain	5.3.1.21	corticosteroid side-chain-isomerase
+Corticosteroid side chain isomerase	5.3.1.21	corticosteroid side-chain-isomerase
+CSC isomerase	5.3.1.21	corticosteroid side-chain-isomerase
+11-deoxycorticosterone ketol-isomerase	5.3.1.21	corticosteroid side-chain-isomerase
+hydroxypyruvate ketol-isomerase	5.3.1.22	Hydroxypyruvate isomerase
+hydroxypyruvate isomerase	5.3.1.22	Hydroxypyruvate isomerase
+hyi	5.3.1.22	Hydroxypyruvate isomerase
+Isomerase, methylthioribose 1-phosphate	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+1-PMTR isomerase	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+5-methylthioribose-1-phosphate isomerase	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+5-methylthio-5-deoxy-D-ribose-1-phosphate ketol-isomerase	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+5-methylthioribose 1-phosphate isomerase	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+M1Pi	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+mtnA	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+methylthioribose-1-phosphate isomerase	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+MTR-1-P	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+MTR-1-P isomerase	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+5'-methylthioribose-1-phosphate isomerase	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+MRDI	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+Ypr118w	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+MRI1	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+Mri1p	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+Meu1p	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+Ypr118wp	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+PH0702	5.3.1.23	S-methyl-5-thioribose-1-phosphate isomerase
+N-	5.3.1.24	phosphoribosylanthranilate isomerase
+IGPS:PRAI	5.3.1.24	phosphoribosylanthranilate isomerase
+isomerase, phosphoribosylanthranilate	5.3.1.24	phosphoribosylanthranilate isomerase
+N-5’-phosphoribosylanthranilate isomerase	5.3.1.24	phosphoribosylanthranilate isomerase
+PAI	5.3.1.24	phosphoribosylanthranilate isomerase
+TtPRAI	5.3.1.24	phosphoribosylanthranilate isomerase
+More	5.3.1.24	phosphoribosylanthranilate isomerase
+phosphoribosyl anthranilate isomerase	5.3.1.24	phosphoribosylanthranilate isomerase
+phosphoribosyl isomerase A	5.3.1.24	phosphoribosylanthranilate isomerase
+PriA	5.3.1.24	phosphoribosylanthranilate isomerase
+PurF	5.3.1.24	phosphoribosylanthranilate isomerase
+PRAI-LoxP	5.3.1.24	phosphoribosylanthranilate isomerase
+TrpF	5.3.1.24	phosphoribosylanthranilate isomerase
+phosphoribosylanthranilate isomerase	5.3.1.24	phosphoribosylanthranilate isomerase
+PRA isomerase	5.3.1.24	phosphoribosylanthranilate isomerase
+PRAI	5.3.1.24	phosphoribosylanthranilate isomerase
+PRAI[ML256-452]	5.3.1.24	phosphoribosylanthranilate isomerase
+N-	5.3.1.24	phosphoribosylanthranilate isomerase
+PfTrpF	5.3.1.24	phosphoribosylanthranilate isomerase
+TrpFCtL2	5.3.1.24	phosphoribosylanthranilate isomerase
+N-	5.3.1.24	phosphoribosylanthranilate isomerase
+xPRAI	5.3.1.24	phosphoribosylanthranilate isomerase
+Trp1p	5.3.1.24	phosphoribosylanthranilate isomerase
+Isomerase, L-fucose	5.3.1.25	L-fucose isomerase
+Fucose isomerase	5.3.1.25	L-fucose isomerase
+D-Arabinose isomerase	5.3.1.25	L-fucose isomerase
+D-Arabinose	5.3.1.25	L-fucose isomerase
+EC 5.3.1.3	5.3.1.25	L-fucose isomerase
+L-fucose ketol-isomerase	5.3.1.25	L-fucose isomerase
+L-Fucose isomerase	5.3.1.25	L-fucose isomerase
+Isomerase, galactose 6-phosphate	5.3.1.26	galactose-6-phosphate isomerase
+D-galactose 6-phosphate isomerase	5.3.1.26	galactose-6-phosphate isomerase
+D-galactose-6-phosphate ketol-isomerase	5.3.1.26	galactose-6-phosphate isomerase
+tagatose-6-phosphate isomerase	5.3.1.26	galactose-6-phosphate isomerase
+GPI	5.3.1.26	galactose-6-phosphate isomerase
+galactose-6-phosphate isomerase	5.3.1.26	galactose-6-phosphate isomerase
+LacAB	5.3.1.26	galactose-6-phosphate isomerase
+D-galactose-6-phosphate isomerase	5.3.1.26	galactose-6-phosphate isomerase
+3-hexulose-6-phosphate isomerase	5.3.1.27	6-phospho-3-hexuloisomerase
+phospho-3-hexuloisomerase	5.3.1.27	6-phospho-3-hexuloisomerase
+[acyl-carrier protein]:acetate ligase	5.3.1.27	6-phospho-3-hexuloisomerase
+PHI	5.3.1.27	6-phospho-3-hexuloisomerase
+6-phospho-3-hexuloisomerase	5.3.1.27	6-phospho-3-hexuloisomerase
+YckF	5.3.1.27	6-phospho-3-hexuloisomerase
+GmhA	5.3.1.28	D-sedoheptulose 7-phosphate isomerase
+sedoheptulose-7-phosphate isomerase	5.3.1.28	D-sedoheptulose 7-phosphate isomerase
+sedoheptulose 7-phosphate isomerase	5.3.1.28	D-sedoheptulose 7-phosphate isomerase
+S7P isomerase	5.3.1.28	D-sedoheptulose 7-phosphate isomerase
+phosphoheptose isomerase	5.3.1.28	D-sedoheptulose 7-phosphate isomerase
+ibulose 1,5-bisphosphate synthase	5.3.1.29	ribose 1,5-bisphosphate isomerase
+RuBP synthase	5.3.1.29	ribose 1,5-bisphosphate isomerase
+R15P isomerase	5.3.1.29	ribose 1,5-bisphosphate isomerase
+Tk-E2b2	5.3.1.29	ribose 1,5-bisphosphate isomerase
+R15Pi	5.3.1.29	ribose 1,5-bisphosphate isomerase
+PH0208	5.3.1.29	ribose 1,5-bisphosphate isomerase
+Isomerase, arabinose	5.3.1.3	D-arabinose isomerase
+D-Arabinose	5.3.1.3	D-arabinose isomerase
+L-Fucose isomerase	5.3.1.3	D-arabinose isomerase
+EC 5.1.3.25	5.3.1.3	D-arabinose isomerase
+D-arabinose ketol-isomerase	5.3.1.3	D-arabinose isomerase
+D-arabinose aldose-ketose-isomerase	5.3.1.3	D-arabinose isomerase
+D-Arabinose isomerase	5.3.1.3	D-arabinose isomerase
+D-AI	5.3.1.3	D-arabinose isomerase
+5DG isomerase	5.3.1.30	5-deoxy-glucuronate isomerase
+IolB	5.3.1.30	5-deoxy-glucuronate isomerase
+yihS	5.3.1.31	sulfoquinovose isomerase
+SQ isomerase	5.3.1.31	sulfoquinovose isomerase
+lsrG	5.3.1.32	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase
+phospho-AI-2 isomerase	5.3.1.32	(4S)-4-hydroxy-5-phosphonooxypentane-2,3-dione isomerase
+eryH	5.3.1.33	L-erythrulose 1-phosphate isomerase
+TpiA2	5.3.1.33	L-erythrulose 1-phosphate isomerase
+D-3-tetrulose-4-phosphate isomerase	5.3.1.33	L-erythrulose 1-phosphate isomerase
+RpiB	5.3.1.34	D-erythrulose 4-phosphate isomerase
+eryI	5.3.1.34	D-erythrulose 4-phosphate isomerase
+otnl	5.3.1.35	2-dehydrotetronate isomerase
+OtnI	5.3.1.35	2-dehydrotetronate isomerase
+2-oxo-tetronate isomerase	5.3.1.35	2-dehydrotetronate isomerase
+Isomerase, L-arabinose	5.3.1.4	L-arabinose isomerase
+L-arabinose ketol-isomerase	5.3.1.4	L-arabinose isomerase
+TNAI	5.3.1.4	L-arabinose isomerase
+AraA	5.3.1.4	L-arabinose isomerase
+D-galactose isomerase	5.3.1.4	L-arabinose isomerase
+L-arabinose aldose-ketose-isomerase	5.3.1.4	L-arabinose isomerase
+2,6,7,12,14,15,16,17,20,21,22,23,24,25,26,27,29,30,31,32,33,34,36,37	5.3.1.4	L-arabinose isomerase
+arabinose isomerase	5.3.1.4	L-arabinose isomerase
+L-arabinose isomerase 1	5.3.1.4	L-arabinose isomerase
+L-AI	5.3.1.4	L-arabinose isomerase
+ECAI	5.3.1.4	L-arabinose isomerase
+L-arabinose isomerase 2	5.3.1.4	L-arabinose isomerase
+L-AI US100	5.3.1.4	L-arabinose isomerase
+pL151	5.3.1.4	L-arabinose isomerase
+gali 152	5.3.1.4	L-arabinose isomerase
+gali 153	5.3.1.4	L-arabinose isomerase
+GSAI	5.3.1.4	L-arabinose isomerase
+GSAI 152	5.3.1.4	L-arabinose isomerase
+GSAI 153	5.3.1.4	L-arabinose isomerase
+L-AI NC8	5.3.1.4	L-arabinose isomerase
+6,7,12,14,15,16,17,20,22,23,24,25,26,27,28,29,30,31,33,34,35,36,37,38	5.3.1.4	L-arabinose isomerase
+More	5.3.1.40	
+Tag6PK	5.3.1.40	
+Isomerase, xylose	5.3.1.5	xylose isomerase
+Swetase	5.3.1.5	xylose isomerase
+D-xylulose keto-isomerase	5.3.1.5	xylose isomerase
+xylose	5.3.1.5	xylose isomerase
+T80 xylose isomerase	5.3.1.5	xylose isomerase
+Sweetzyme	5.3.1.5	xylose isomerase
+Sweetzyme Q	5.3.1.5	xylose isomerase
+glucose/xylose isomerase	5.3.1.5	xylose isomerase
+GXI	5.3.1.5	xylose isomerase
+TthXI	5.3.1.5	xylose isomerase
+D-xylose ketol isomerase	5.3.1.5	xylose isomerase
+xylose	5.3.1.5	xylose isomerase
+XI	5.3.1.5	xylose isomerase
+Optisweet	5.3.1.5	xylose isomerase
+Spezyme	5.3.1.5	xylose isomerase
+glucose isomerase	5.3.1.5	xylose isomerase
+D-Xylose isomerase	5.3.1.5	xylose isomerase
+D-xylose ketol-isomerase	5.3.1.5	xylose isomerase
+Maxazyme	5.3.1.5	xylose isomerase
+XYLA	5.3.1.5	xylose isomerase
+Sweetase	5.3.1.5	xylose isomerase
+D-xylose: ketol-isomerase	5.3.1.5	xylose isomerase
+D-XI	5.3.1.5	xylose isomerase
+D-Xylose ketoisomerase	5.3.1.5	xylose isomerase
+TcaXI	5.3.1.5	xylose isomerase
+SDXyI	5.3.1.5	xylose isomerase
+Isomerase, ribose phosphate	5.3.1.6	ribose-5-phosphate isomerase
+Phosphopentoisomerase	5.3.1.6	ribose-5-phosphate isomerase
+Phosphopentose isomerase	5.3.1.6	ribose-5-phosphate isomerase
+Ribose phosphate isomerase	5.3.1.6	ribose-5-phosphate isomerase
+5-Phosphoribose isomerase	5.3.1.6	ribose-5-phosphate isomerase
+Ribose-5-P isomerase	5.3.1.6	ribose-5-phosphate isomerase
+Ribosephosphate isomerase A	5.3.1.6	ribose-5-phosphate isomerase
+Ribosephosphate isomerase B	5.3.1.6	ribose-5-phosphate isomerase
+D-ribose-5-phosphate ketol-isomerase	5.3.1.6	ribose-5-phosphate isomerase
+D-xylose ketol-isomerase	5.3.1.6	ribose-5-phosphate isomerase
+Phosphoriboisomerase	5.3.1.6	ribose-5-phosphate isomerase
+type B ribose-5-phosphate isomerase	5.3.1.6	ribose-5-phosphate isomerase
+ribose-5-phosphate isomerase	5.3.1.6	ribose-5-phosphate isomerase
+MtRpiB	5.3.1.6	ribose-5-phosphate isomerase
+ribose-5-phosphate isomerase B	5.3.1.6	ribose-5-phosphate isomerase
+ribose-5-phosphate isomerase type B	5.3.1.6	ribose-5-phosphate isomerase
+D-ribose-5-phosphate isomerase	5.3.1.6	ribose-5-phosphate isomerase
+D-ribose-5-phosphate isomerase B	5.3.1.6	ribose-5-phosphate isomerase
+RPI	5.3.1.6	ribose-5-phosphate isomerase
+CTRPI	5.3.1.6	ribose-5-phosphate isomerase
+MJ1603	5.3.1.6	ribose-5-phosphate isomerase
+ribose 5-phosphate isomerase A	5.3.1.6	ribose-5-phosphate isomerase
+RPI2 protein	5.3.1.6	ribose-5-phosphate isomerase
+CTRpiB	5.3.1.6	ribose-5-phosphate isomerase
+SMU2142	5.3.1.6	ribose-5-phosphate isomerase
+D-ribose-5-phosphate isomerase A	5.3.1.6	ribose-5-phosphate isomerase
+EcRpiB	5.3.1.6	ribose-5-phosphate isomerase
+RpiB	5.3.1.6	ribose-5-phosphate isomerase
+D-Ribose 5-phosphate isomerase	5.3.1.6	ribose-5-phosphate isomerase
+type B Rpi	5.3.1.6	ribose-5-phosphate isomerase
+type B ribose 5-phosphate isomerase	5.3.1.6	ribose-5-phosphate isomerase
+RpiA	5.3.1.6	ribose-5-phosphate isomerase
+SMU1234	5.3.1.6	ribose-5-phosphate isomerase
+5-phosphate ketol-isomerase	5.3.1.6	ribose-5-phosphate isomerase
+Isomerase, mannose	5.3.1.7	mannose isomerase
+D-mannose ketol-isomerase	5.3.1.7	mannose isomerase
+D-Mannose isomerase	5.3.1.7	mannose isomerase
+Fmi	5.3.1.7	mannose isomerase
+Phosphphexomutase	5.3.1.8	mannose-6-phosphate isomerase
+Phosphohexoisomerase	5.3.1.8	mannose-6-phosphate isomerase
+Isomerase, mannose phosphate	5.3.1.8	mannose-6-phosphate isomerase
+Mannose phosphate isomerase	5.3.1.8	mannose-6-phosphate isomerase
+Phosphomannoisomerase	5.3.1.8	mannose-6-phosphate isomerase
+Phosphohexomutase	5.3.1.8	mannose-6-phosphate isomerase
+D-mannose-6-phosphate ketol-isomerase	5.3.1.8	mannose-6-phosphate isomerase
+ManA	5.3.1.8	mannose-6-phosphate isomerase
+PslB	5.3.1.8	mannose-6-phosphate isomerase
+phosphomannose-isomerase	5.3.1.8	mannose-6-phosphate isomerase
+GTMpi	5.3.1.8	mannose-6-phosphate isomerase
+PH0925	5.3.1.8	mannose-6-phosphate isomerase
+BceAJ	5.3.1.8	mannose-6-phosphate isomerase
+MPI	5.3.1.8	mannose-6-phosphate isomerase
+becA	5.3.1.8	mannose-6-phosphate isomerase
+PMI/GMP	5.3.1.8	mannose-6-phosphate isomerase
+Pmi1	5.3.1.8	mannose-6-phosphate isomerase
+mannose-6-phosphate isomerase	5.3.1.8	mannose-6-phosphate isomerase
+PMI2	5.3.1.8	mannose-6-phosphate isomerase
+type I phosphomannose isomerase	5.3.1.8	mannose-6-phosphate isomerase
+Phosphomannose isomerase	5.3.1.8	mannose-6-phosphate isomerase
+PMI	5.3.1.8	mannose-6-phosphate isomerase
+type I PMI	5.3.1.8	mannose-6-phosphate isomerase
+type I phosphomannose isomerases	5.3.1.8	mannose-6-phosphate isomerase
+Phosphohexoisomerase	5.3.1.9	glucose-6-phosphate isomerase
+D-Glucose-6-phosphate isomerase	5.3.1.9	glucose-6-phosphate isomerase
+Glucose phosphate isomerase	5.3.1.9	glucose-6-phosphate isomerase
+Glucose phosphoisomerase	5.3.1.9	glucose-6-phosphate isomerase
+Hexose isomerase	5.3.1.9	glucose-6-phosphate isomerase
+Hexose monophosphate isomerase	5.3.1.9	glucose-6-phosphate isomerase
+Hexose 6-phosphate isomerase	5.3.1.9	glucose-6-phosphate isomerase
+Hexose phosphate isomerase	5.3.1.9	glucose-6-phosphate isomerase
+Hexosephosphate isomerase	5.3.1.9	glucose-6-phosphate isomerase
+Isomerase, glucose phosphate	5.3.1.9	glucose-6-phosphate isomerase
+Oxoisomerase	5.3.1.9	glucose-6-phosphate isomerase
+Phosphoglucoisomerase	5.3.1.9	glucose-6-phosphate isomerase
+Phosphohexomutase	5.3.1.9	glucose-6-phosphate isomerase
+Phosphosaccharomutase	5.3.1.9	glucose-6-phosphate isomerase
+6-Phosphoglucose isomerase	5.3.1.9	glucose-6-phosphate isomerase
+Glucosephosphate isomerase 2	5.3.1.9	glucose-6-phosphate isomerase
+NLK	5.3.1.9	glucose-6-phosphate isomerase
+PGI2	5.3.1.9	glucose-6-phosphate isomerase
+PGI3	5.3.1.9	glucose-6-phosphate isomerase
+SA-36	5.3.1.9	glucose-6-phosphate isomerase
+Sperm antigen-36	5.3.1.9	glucose-6-phosphate isomerase
+VEG54	5.3.1.9	glucose-6-phosphate isomerase
+Vegetative protein 54	5.3.1.9	glucose-6-phosphate isomerase
+D-glucose-6-phosphate ketol-isomerase	5.3.1.9	glucose-6-phosphate isomerase
+Neuroleukin	5.3.1.9	glucose-6-phosphate isomerase
+SwoM	5.3.1.9	glucose-6-phosphate isomerase
+Cupin-PGI	5.3.1.9	glucose-6-phosphate isomerase
+Glucose 6-phosphate isomerase	5.3.1.9	glucose-6-phosphate isomerase
+Phosphohexose isomerase	5.3.1.9	glucose-6-phosphate isomerase
+PHI	5.3.1.9	glucose-6-phosphate isomerase
+GPI	5.3.1.9	glucose-6-phosphate isomerase
+glucose-6-phosphate isomerase	5.3.1.9	glucose-6-phosphate isomerase
+autocrine motility factor/phosphoglucose isomerase	5.3.1.9	glucose-6-phosphate isomerase
+AMF/PGI	5.3.1.9	glucose-6-phosphate isomerase
+TK1111	5.3.1.9	glucose-6-phosphate isomerase
+glucose-6-phosphate isomerase, cytosolic	5.3.1.9	glucose-6-phosphate isomerase
+G6-PI	5.3.1.9	glucose-6-phosphate isomerase
+phosphoglucose isomerase/autocrine motility factor	5.3.1.9	glucose-6-phosphate isomerase
+PGI/AMF	5.3.1.9	glucose-6-phosphate isomerase
+autocrine motility factor	5.3.1.9	glucose-6-phosphate isomerase
+AMF	5.3.1.9	glucose-6-phosphate isomerase
+Phosphoglucose	5.3.1.9	glucose-6-phosphate isomerase
+PGI	5.3.1.9	glucose-6-phosphate isomerase
+pgiA	5.3.1.9	glucose-6-phosphate isomerase
+AfcPGI	5.3.1.9	glucose-6-phosphate isomerase
+Tautomerase, phenylpyruvate	5.3.2.1	phenylpyruvate tautomerase
+Phenylpyruvic keto-enol isomerase	5.3.2.1	phenylpyruvate tautomerase
+Phenylpyruvate keto-enol tautomerase	5.3.2.1	phenylpyruvate tautomerase
+Macrophage migration inhibitory factor	5.3.2.1	phenylpyruvate tautomerase
+MIF	5.3.2.1	phenylpyruvate tautomerase
+MIF tautomerase	5.3.2.1	phenylpyruvate tautomerase
+macrophage migration inhibitory factor tautomerase	5.3.2.1	phenylpyruvate tautomerase
+phenyl	5.3.2.1	phenylpyruvate tautomerase
+cis-3-chloroacrylic acid dehalogenase	5.3.2.1	phenylpyruvate tautomerase
+cis-CaaD	5.3.2.1	phenylpyruvate tautomerase
+CCH2	5.3.2.1	phenylpyruvate tautomerase
+trans-3-chloroacrylic acid dehalogenase	5.3.2.1	phenylpyruvate tautomerase
+PPT	5.3.2.1	phenylpyruvate tautomerase
+CaaD	5.3.2.1	phenylpyruvate tautomerase
+Tautomerase, oxalacetate	5.3.2.2	oxaloacetate tautomerase
+Oxalacetic keto-enol isomerase	5.3.2.2	oxaloacetate tautomerase
+Oxaloacetate keto-enol tautomerase	5.3.2.2	oxaloacetate tautomerase
+OAA tautomerase	5.3.2.2	oxaloacetate tautomerase
+OAT	5.3.2.2	oxaloacetate tautomerase
+OAT-1	5.3.2.2	oxaloacetate tautomerase
+OAT-2	5.3.2.2	oxaloacetate tautomerase
+Oxaloacetate tautomerase-1	5.3.2.2	oxaloacetate tautomerase
+Oxaloacetate tautomerase-2	5.3.2.2	oxaloacetate tautomerase
+High-molecular mass oxalacetate tautomerase	5.3.2.2	oxaloacetate tautomerase
+TDP-4-keto-6-deoxy-D-glucose-3,4-ketoisomerase	5.3.2.3	TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+RavIM	5.3.2.3	TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+FdtA	5.3.2.3	TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+TDP-4-keto-6-deoxy-D-glucose-3,4-ketoisomerase	5.3.2.4	TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+Tyl1a	5.3.2.4	TDP-4-oxo-6-deoxy-alpha-D-glucose-3,4-oxoisomerase
+YkrW	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+DKMTP-1P enolase	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+ribulose-1,5-bisphosphate carboxylase/oxygenase-like protein	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+RuBisCO-like protein	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+RLP	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+DK-MTP-1-P enolase	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+2,3-diketo-5-methylthiopentane 1-phosphate enolase	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+DK-MTP 1-P enolase	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+MtnW	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+DKMTP-1-P enolase	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+MtnBD	5.3.2.5	2,3-diketo-5-methylthiopentyl-1-phosphate enolase
+YwhB	5.3.2.6	2-hydroxymuconate tautomerase
+4-oxalocrotonate tautomerase	5.3.2.6	2-hydroxymuconate tautomerase
+4-OT	5.3.2.6	2-hydroxymuconate tautomerase
+4-oxalocrotonate tautomerase I	5.3.2.6	2-hydroxymuconate tautomerase
+4-oxalocrotonate tautomerase II	5.3.2.6	2-hydroxymuconate tautomerase
+L-4-oxalocrotonate tautomerase	5.3.2.6	2-hydroxymuconate tautomerase
+D-4-oxalocrotonate tautomerase	5.3.2.6	2-hydroxymuconate tautomerase
+4OT	5.3.2.6	2-hydroxymuconate tautomerase
+xylH	5.3.2.6	2-hydroxymuconate tautomerase
+TomN	5.3.2.6	2-hydroxymuconate tautomerase
+HpDmpI	5.3.2.6	2-hydroxymuconate tautomerase
+PRAC	5.3.2.6	2-hydroxymuconate tautomerase
+OCA	5.3.2.6	2-hydroxymuconate tautomerase
+AfDmpI	5.3.2.6	2-hydroxymuconate tautomerase
+ascopyrone isomerase	5.3.2.7	ascopyrone tautomerase
+ascopyrone intramolecular oxidoreductase	5.3.2.7	ascopyrone tautomerase
+1,5-anhydro-D-glycero-hex-3-en-2-ulose tautomerase	5.3.2.7	ascopyrone tautomerase
+APM tautomerase	5.3.2.7	ascopyrone tautomerase
+ascopyrone P tautomerase	5.3.2.7	ascopyrone tautomerase
+ascopyrone tautomerase	5.3.2.7	ascopyrone tautomerase
+APTM	5.3.2.7	ascopyrone tautomerase
+APTM1	5.3.2.7	ascopyrone tautomerase
+APTM2	5.3.2.7	ascopyrone tautomerase
+AUDH	5.3.2.7	ascopyrone tautomerase
+4-oxalomesaconic acid tautomerase	5.3.2.8	4-oxalomesaconate tautomerase
+OMA tautomerase	5.3.2.8	4-oxalomesaconate tautomerase
+pmdU	5.3.2.8	4-oxalomesaconate tautomerase
+3-Oxosteroid isomerase	5.3.3.1	steroid DELTA-isomerase
+3-Oxo-delta5 steroid isomerase	5.3.3.1	steroid DELTA-isomerase
+3-Ketosteroid DELTA5-->DELTA4-isomerase	5.3.3.1	steroid DELTA-isomerase
+3-Oxosteroid DELTA4-DELTA5-isomerase	5.3.3.1	steroid DELTA-isomerase
+5-Pregnene-3,20-dione isomerase	5.3.3.1	steroid DELTA-isomerase
+DELTA5-3-oxosteroid isomerase	5.3.3.1	steroid DELTA-isomerase
+DELTA5-steroid isomerase	5.3.3.1	steroid DELTA-isomerase
+DELTA5	5.3.3.1	steroid DELTA-isomerase
+Hydroxysteroid isomerase	5.3.3.1	steroid DELTA-isomerase
+Isomerase, steroid DELTA	5.3.3.1	steroid DELTA-isomerase
+Steroid isomerase	5.3.3.1	steroid DELTA-isomerase
+Steroid 5-->4-isomerase	5.3.3.1	steroid DELTA-isomerase
+5-Ene-4-ene isomerase	5.3.3.1	steroid DELTA-isomerase
+3-Oxo steroid DELTA4-DELTA5-isomerase	5.3.3.1	steroid DELTA-isomerase
+delta 5-3-ketosteroid isomerase	5.3.3.1	steroid DELTA-isomerase
+DELTA-3-ketosteroid isomerase	5.3.3.1	steroid DELTA-isomerase
+3-Keto-DELTA5-steroid isomerase	5.3.3.1	steroid DELTA-isomerase
+Delta-5-3-ketosteroid isomerase	5.3.3.1	steroid DELTA-isomerase
+type I 3beta-hydroxysteroid dehydrogenase/isomerase	5.3.3.1	steroid DELTA-isomerase
+3beta-HSD/isomerase	5.3.3.1	steroid DELTA-isomerase
+More	5.3.3.1	steroid DELTA-isomerase
+3beta-hydroxysteroid dehydrogenase/isomerase	5.3.3.1	steroid DELTA-isomerase
+3beta-hydroxysteroid dehydrogenase/5-ene-4-ene isomerase	5.3.3.1	steroid DELTA-isomerase
+3beta-hydroxysteroid dehydrogenase/isomerase type 1	5.3.3.1	steroid DELTA-isomerase
+3beta-hydroxysteroid dehydrogenase/isomerase type 2	5.3.3.1	steroid DELTA-isomerase
+3-Oxosteroid DELTA5-DELTA4-isomerase	5.3.3.1	steroid DELTA-isomerase
+GST A3-3	5.3.3.1	steroid DELTA-isomerase
+glutathione transferase A3-3	5.3.3.1	steroid DELTA-isomerase
+3beta-hydroxysteroid dehydrogenase/DELTA5-DELTA4 isomerase	5.3.3.1	steroid DELTA-isomerase
+3beta-HSD	5.3.3.1	steroid DELTA-isomerase
+DELTA5-3-ketosteroid isomerase	5.3.3.1	steroid DELTA-isomerase
+KSI	5.3.3.1	steroid DELTA-isomerase
+DELTA5-ketosteroid isomerase	5.3.3.1	steroid DELTA-isomerase
+DELTA5-3-keto steroid isomerase	5.3.3.1	steroid DELTA-isomerase
+ketosteroid isomerase	5.3.3.1	steroid DELTA-isomerase
+TI	5.3.3.1	steroid DELTA-isomerase
+TI-WT	5.3.3.1	steroid DELTA-isomerase
+3-oxo-DELTA5-steroid isomerase	5.3.3.1	steroid DELTA-isomerase
+Isomerase, 5-carboxymethyl-2-hydroxymuconate	5.3.3.10	5-carboxymethyl-2-hydroxymuconate DELTA-isomerase
+5-Carboxymethyl-2-hydroxymuconate isomerase	5.3.3.10	5-carboxymethyl-2-hydroxymuconate DELTA-isomerase
+CMH isomerase	5.3.3.10	5-carboxymethyl-2-hydroxymuconate DELTA-isomerase
+5-carboxymethyl-2-hydroxymuconic acid isomerase	5.3.3.10	5-carboxymethyl-2-hydroxymuconate DELTA-isomerase
+CHM isomerase	5.3.3.10	5-carboxymethyl-2-hydroxymuconate DELTA-isomerase
+5-	5.3.3.10	5-carboxymethyl-2-hydroxymuconate DELTA-isomerase
+CHMI	5.3.3.10	5-carboxymethyl-2-hydroxymuconate DELTA-isomerase
+Isomerase, isopiperitenone	5.3.3.11	isopiperitenone DELTA-isomerase
+Isopiperitenone isomerase	5.3.3.11	isopiperitenone DELTA-isomerase
+brown	5.3.3.12	L-dopachrome isomerase
+DCF	5.3.3.12	L-dopachrome isomerase
+dopachrome conversion factor	5.3.3.12	L-dopachrome isomerase
+dopachrome DELTA7-DELTA2-isomerase	5.3.3.12	L-dopachrome isomerase
+dopachrome delta-isomerase	5.3.3.12	L-dopachrome isomerase
+dopachrome oxidoreductase	5.3.3.12	L-dopachrome isomerase
+dopachrome-rearranging enzyme	5.3.3.12	L-dopachrome isomerase
+isomerase, dopachrome DELTA-	5.3.3.12	L-dopachrome isomerase
+SLATY locus protein	5.3.3.12	L-dopachrome isomerase
+TRP2	5.3.3.12	L-dopachrome isomerase
+tyrosine-related protein 2	5.3.3.12	L-dopachrome isomerase
+L-dopachchrome-methyl ester tautomerase	5.3.3.12	L-dopachrome isomerase
+macrophage migration-inhibitory factor	5.3.3.12	L-dopachrome isomerase
+macrophage inhibitory factor	5.3.3.12	L-dopachrome isomerase
+DCT	5.3.3.12	L-dopachrome isomerase
+D-dopachrome tautomerase	5.3.3.12	L-dopachrome isomerase
+MIF	5.3.3.12	L-dopachrome isomerase
+dopachrome tautomerase	5.3.3.12	L-dopachrome isomerase
+Macrophage migration inhibitory factor	5.3.3.12	L-dopachrome isomerase
+TRP-2	5.3.3.12	L-dopachrome isomerase
+DDT	5.3.3.12	L-dopachrome isomerase
+PFI	5.3.3.13	polyenoic fatty acid isomerase
+eicosapentaenoate cis-DELTA5,8,11,14,17-eicosapentaenoate	5.3.3.13	polyenoic fatty acid isomerase
+PAI	5.3.3.13	polyenoic fatty acid isomerase
+polyunsaturated fatty acid double bond isomerase	5.3.3.13	polyenoic fatty acid isomerase
+polyunsaturated fatty acid isomerase	5.3.3.13	polyenoic fatty acid isomerase
+PUFA double bond isomerases	5.3.3.13	polyenoic fatty acid isomerase
+FabM	5.3.3.14	trans-2-decenoyl-[acyl-carrier protein] isomerase
+OMA tautomerase	5.3.3.16 (transferred, now EC 5	4-oxalomesaconate tautomerase 
+4-oxalomesaconic acid tautomerase	5.3.3.16 (transferred, now EC 5	4-oxalomesaconate tautomerase 
+phzF	5.3.3.17	trans-2,3-dihydro-3-hydroxyanthranilate isomerase
+paaG	5.3.3.18	2-(1,2-epoxy-1,2-dihydrophenyl)acetyl-CoA isomerase
+BacB	5.3.3.19	3-[(4R)-4-hydroxycyclohexa-1,5-dien-1-yl]-2-oxopropanoate isomerase
+Isomerase, isopentenylpyrophosphate DELTA-	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+Methylbutenylpyrophosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+Isopentenylpyrophosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+Isopentenyl pyrophosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IPP-isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+Isopentenyldiphosphate DELTA-isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+Isopententenyl diphosphate:dimethylallyl diphosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+Isopentenyl pyrophosphate isomerase:dimethylallyl pyrophosphate	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IPPI1	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IPPI2	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+type II isopentenyl diphosphate:dimethylallyl diphosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+Idi-2	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+type-2 isopentenyl diphosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+type 2 isopentenyl diphosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IDI	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+isopentenyl diphosphate:dimethylallyl diphosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+isopentenyl diphosphate isomerase 1	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IDI1	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IDP isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+type 2 isopentenyl-diphosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IPP isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+type II isopentenyl diphosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+isopentenyl diphosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+type 1 IPP isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+isopentenyl-diphosphate delta-isomerase 1	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IPPISOM	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IPI	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+SlIPI	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IPP:DMAPP	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+type I isopentenyl diphosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IDI-1	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+IPPI	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+Isomerase, vinylacetyl coenzyme ADELTA-	5.3.3.3	vinylacetyl-CoA DELTA-isomerase
+Vinylacetyl coenzyme A isomerase	5.3.3.3	vinylacetyl-CoA DELTA-isomerase
+DELTA3-cis-DELTA2-trans-enoyl-CoA isomerase	5.3.3.3	vinylacetyl-CoA DELTA-isomerase
+cis-3,trans-2-Enoyl-CoA-isomerase	5.3.3.3	vinylacetyl-CoA DELTA-isomerase
+Isomerase, muconolactoneDELTA-	5.3.3.4	muconolactone DELTA-isomerase
+MI	5.3.3.4	muconolactone DELTA-isomerase
+Muconolactone DELTA-isomerase	5.3.3.4	muconolactone DELTA-isomerase
+MIase	5.3.3.4	muconolactone DELTA-isomerase
+MLI	5.3.3.4	muconolactone DELTA-isomerase
+CATC	5.3.3.4	muconolactone DELTA-isomerase
+Muconolactone isomerase	5.3.3.4	muconolactone DELTA-isomerase
+Methylmuconolactone isomerase	5.3.3.4	muconolactone DELTA-isomerase
+MmlJ	5.3.3.4	muconolactone DELTA-isomerase
+Isomerase, cholestenol DELTA-	5.3.3.5	cholestenol DELTA-isomerase
+DELTA8-Cholestenol-DELTA7-cholestenol isomerase	5.3.3.5	cholestenol DELTA-isomerase
+Cholestenol delta-isomerase	5.3.3.5	cholestenol DELTA-isomerase
+D8-D7 sterol isomerase	5.3.3.5	cholestenol DELTA-isomerase
+Delta8-delta7 sterol isomerase	5.3.3.5	cholestenol DELTA-isomerase
+D8D7I	5.3.3.5	cholestenol DELTA-isomerase
+3beta-hydroxysteroid DELTA8-DELTA7 isomerase	5.3.3.5	cholestenol DELTA-isomerase
+HSI	5.3.3.5	cholestenol DELTA-isomerase
+DELTA8,7-isomerase	5.3.3.5	cholestenol DELTA-isomerase
+3beta-hydroxysteroid DELTA8,7-sterol isomerase	5.3.3.5	cholestenol DELTA-isomerase
+DELTA8-DELTA7 isomerase	5.3.3.5	cholestenol DELTA-isomerase
+EBP	5.3.3.5	cholestenol DELTA-isomerase
+DELTA8,7-sterol isomerase	5.3.3.5	cholestenol DELTA-isomerase
+emopamil-binding protein	5.3.3.5	cholestenol DELTA-isomerase
+Emopamil binding protein	5.3.3.5	cholestenol DELTA-isomerase
+sterol DELTA8 isomerase	5.3.3.5	cholestenol DELTA-isomerase
+SI	5.3.3.5	cholestenol DELTA-isomerase
+DELTA8-SI	5.3.3.5	cholestenol DELTA-isomerase
+ERG2p	5.3.3.5	cholestenol DELTA-isomerase
+sterol 8,7-isomerase	5.3.3.5	cholestenol DELTA-isomerase
+8,7SI	5.3.3.5	cholestenol DELTA-isomerase
+C-8,7 sterol isomerase	5.3.3.5	cholestenol DELTA-isomerase
+SI1	5.3.3.5	cholestenol DELTA-isomerase
+Isomerase, methylitaconate DELTA-	5.3.3.6	methylitaconate DELTA-isomerase
+Isomerase, methylitaconate	5.3.3.6	methylitaconate DELTA-isomerase
+Methylitaconate isomerase	5.3.3.6	methylitaconate DELTA-isomerase
+MeIT isomerase	5.3.3.6	methylitaconate DELTA-isomerase
+MII	5.3.3.6	methylitaconate DELTA-isomerase
+3-methylitaconate-DELTA-isomerase	5.3.3.6	methylitaconate DELTA-isomerase
+Isomerase, aconitate DELTA-	5.3.3.7	aconitate DELTA-isomerase
+Aconitate isomerase	5.3.3.7	aconitate DELTA-isomerase
+AI	5.3.3.7	aconitate DELTA-isomerase
+DELTA3-cis-DELTA2-trans-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+Isomerase, dodecenoyl coenzyme A Delta-	5.3.3.8	dodecenoyl-CoA isomerase
+Acetylene-allene isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+DELTA3-cis,DELTA2-trans-Enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+3-cis-2-trans-Enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+2,3-Enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+3-2trans-Enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+Long-chain DELTA3,DELTA2-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+Short chain DELTA3,DELTA2-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+D3,D2-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+Dodecenoyl-CoA delta-isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+Hepatocellular carcinoma-associated antigen 88	5.3.3.8	dodecenoyl-CoA isomerase
+dodecenoyl-CoA DELTA3-cis-DELTA2-trans-isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+DELTA3,DELTA2-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+PECI	5.3.3.8	dodecenoyl-CoA isomerase
+DCI	5.3.3.8	dodecenoyl-CoA isomerase
+dodecenoyl coenzyme A DELTA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+3,2-trans-Enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+dodecenoyl-coenzyme A DELTA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+3,2-trans-enoyl-coenzyme A isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+2,3-trans-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+MECI	5.3.3.8	dodecenoyl-CoA isomerase
+MFE1	5.3.3.8	dodecenoyl-CoA isomerase
+Delta3-Delta2-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+ECI	5.3.3.8	dodecenoyl-CoA isomerase
+Eci1p	5.3.3.8	dodecenoyl-CoA isomerase
+ECI1	5.3.3.8	dodecenoyl-CoA isomerase
+DELTA3,DELTA2-enoyl CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
+AtECI1	5.3.3.8	dodecenoyl-CoA isomerase
+AtECI2	5.3.3.8	dodecenoyl-CoA isomerase
+AtECI3	5.3.3.8	dodecenoyl-CoA isomerase
+Isomerase, prostaglandin A1DELTA-	5.3.3.9	prostaglandin-A1 DELTA-isomerase
+Prostaglandin A isomerase	5.3.3.9	prostaglandin-A1 DELTA-isomerase
+PGA isomerase	5.3.3.9	prostaglandin-A1 DELTA-isomerase
+S-S rearrangase	5.3.4.1	protein disulfide-isomerase
+Reduced ribonuclease reactivating enzyme	5.3.4.1	protein disulfide-isomerase
+Disulfide interchange enzyme	5.3.4.1	protein disulfide-isomerase
+Rearrangease	5.3.4.1	protein disulfide-isomerase
+P58	5.3.4.1	protein disulfide-isomerase
+Thyroid hormone-binding protein	5.3.4.1	protein disulfide-isomerase
+DsbD	5.3.4.1	protein disulfide-isomerase
+5'-MD	5.3.4.1	protein disulfide-isomerase
+58 kDa glucose regulated protein	5.3.4.1	protein disulfide-isomerase
+58 kDa microsomal protein	5.3.4.1	protein disulfide-isomerase
+CaBP1	5.3.4.1	protein disulfide-isomerase
+Cellular thyroid hormone binding protein	5.3.4.1	protein disulfide-isomerase
+Disulfide isomerase ER-60	5.3.4.1	protein disulfide-isomerase
+Endoplasmic reticulum protein EUG1	5.3.4.1	protein disulfide-isomerase
+ER58	5.3.4.1	protein disulfide-isomerase
+ERp-72 homolog	5.3.4.1	protein disulfide-isomerase
+ERP59	5.3.4.1	protein disulfide-isomerase
+ERP60	5.3.4.1	protein disulfide-isomerase
+HIP-70	5.3.4.1	protein disulfide-isomerase
+Iodothyronine 5'-monodeiodinase	5.3.4.1	protein disulfide-isomerase
+P55	5.3.4.1	protein disulfide-isomerase
+Protein disulfide isomerase P5	5.3.4.1	protein disulfide-isomerase
+Protein disulfide isomerase-related protein	5.3.4.1	protein disulfide-isomerase
+Protein ERp-72	5.3.4.1	protein disulfide-isomerase
+R-cognin	5.3.4.1	protein disulfide-isomerase
+Retina cognin	5.3.4.1	protein disulfide-isomerase
+Thyroxine deiodinase	5.3.4.1	protein disulfide-isomerase
+More	5.3.4.1	protein disulfide-isomerase
+PDI I	5.3.4.1	protein disulfide-isomerase
+PDI II	5.3.4.1	protein disulfide-isomerase
+ERp18	5.3.4.1	protein disulfide-isomerase
+fibronectin	5.3.4.1	protein disulfide-isomerase
+P5	5.3.4.1	protein disulfide-isomerase
+ERp28	5.3.4.1	protein disulfide-isomerase
+ER protein 57	5.3.4.1	protein disulfide-isomerase
+ERP-57	5.3.4.1	protein disulfide-isomerase
+PDIr	5.3.4.1	protein disulfide-isomerase
+ERp44	5.3.4.1	protein disulfide-isomerase
+ER60	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomaerase	5.3.4.1	protein disulfide-isomerase
+protein-disulfide isomerase	5.3.4.1	protein disulfide-isomerase
+Protein disulphide isomerase	5.3.4.1	protein disulfide-isomerase
+ERcalcistorin/protein-disulfide isomerase	5.3.4.1	protein disulfide-isomerase
+ERp72	5.3.4.1	protein disulfide-isomerase
+PDIA1	5.3.4.1	protein disulfide-isomerase
+PDIA3	5.3.4.1	protein disulfide-isomerase
+Erp46	5.3.4.1	protein disulfide-isomerase
+BPA-binding protein	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase A1	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase A3	5.3.4.1	protein disulfide-isomerase
+yPDI	5.3.4.1	protein disulfide-isomerase
+PDI1	5.3.4.1	protein disulfide-isomerase
+Eug1p	5.3.4.1	protein disulfide-isomerase
+Mpd1p	5.3.4.1	protein disulfide-isomerase
+Mpd2p	5.3.4.1	protein disulfide-isomerase
+Eps1p	5.3.4.1	protein disulfide-isomerase
+ECaSt/PDI	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase::	5.3.4.1	protein disulfide-isomerase
+2,3,7,8,9,10,11,12,13,14,17,20,21,23,30,32,33,36,39,41,42,46,48,49,52	5.3.4.1	protein disulfide-isomerase
+2,3,7,8,9,10,11,13,14,17,20,21,23,30,32,33,36,39,41,42,46,47,48,49,52	5.3.4.1	protein disulfide-isomerase
+PDIL-1	5.3.4.1	protein disulfide-isomerase
+PDIL-2	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase-2	5.3.4.1	protein disulfide-isomerase
+protein disulfide oxidoreductase	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase-related chaperone Wind	5.3.4.1	protein disulfide-isomerase
+Erp	5.3.4.1	protein disulfide-isomerase
+gPDI-2	5.3.4.1	protein disulfide-isomerase
+gPDI-3	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase 3	5.3.4.1	protein disulfide-isomerase
+gPDI-1	5.3.4.1	protein disulfide-isomerase
+multifunctional protein disulfide isomerase	5.3.4.1	protein disulfide-isomerase
+PDIA2	5.3.4.1	protein disulfide-isomerase
+PDIA4	5.3.4.1	protein disulfide-isomerase
+PDI A4	5.3.4.1	protein disulfide-isomerase
+CaBP2	5.3.4.1	protein disulfide-isomerase
+thiol-protein oxidoreductase	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase-1	5.3.4.1	protein disulfide-isomerase
+HlPDI-1	5.3.4.1	protein disulfide-isomerase
+HlPDI-2	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase-3	5.3.4.1	protein disulfide-isomerase
+HlPDI-3	5.3.4.1	protein disulfide-isomerase
+ERp27	5.3.4.1	protein disulfide-isomerase
+pdi-15	5.3.4.1	protein disulfide-isomerase
+pdi-40	5.3.4.1	protein disulfide-isomerase
+pdi-47	5.3.4.1	protein disulfide-isomerase
+pdi-52	5.3.4.1	protein disulfide-isomerase
+RB60	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase 2	5.3.4.1	protein disulfide-isomerase
+PDI2	5.3.4.1	protein disulfide-isomerase
+cotyledon-specific chloroplast biogenesis factor CYO1	5.3.4.1	protein disulfide-isomerase
+CYO1	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase-P5	5.3.4.1	protein disulfide-isomerase
+PDI-P5	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase associated 3	5.3.4.1	protein disulfide-isomerase
+protein disulfide-isomerase A4	5.3.4.1	protein disulfide-isomerase
+PDILT	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase-like protein of the testis	5.3.4.1	protein disulfide-isomerase
+PDI-related protein	5.3.4.1	protein disulfide-isomerase
+anterior gradient homolog 2	5.3.4.1	protein disulfide-isomerase
+AGR2	5.3.4.1	protein disulfide-isomerase
+PDIp	5.3.4.1	protein disulfide-isomerase
+ERp57	5.3.4.1	protein disulfide-isomerase
+pancreas-specific protein disulfide isomerase	5.3.4.1	protein disulfide-isomerase
+PDIL2-3	5.3.4.1	protein disulfide-isomerase
+PDIL1-1	5.3.4.1	protein disulfide-isomerase
+SSO0192	5.3.4.1	protein disulfide-isomerase
+SsPDO	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase A5	5.3.4.1	protein disulfide-isomerase
+TXNDC5	5.3.4.1	protein disulfide-isomerase
+protein disulfide isomerase A6	5.3.4.1	protein disulfide-isomerase
+PDIA6	5.3.4.1	protein disulfide-isomerase
+DsbG	5.3.4.1	protein disulfide-isomerase
+disulfide-bond isomerase	5.3.4.1	protein disulfide-isomerase
+disulfide isomerase	5.3.4.1	protein disulfide-isomerase
+disulfide bond isomerase	5.3.4.1	protein disulfide-isomerase
+DbsG	5.3.4.1	protein disulfide-isomerase
+DsbB	5.3.4.1	protein disulfide-isomerase
+disulfide bond-forming enzyme	5.3.4.1	protein disulfide-isomerase
+Dsb	5.3.4.1	protein disulfide-isomerase
+DsbC	5.3.4.1	protein disulfide-isomerase
+DsbA	5.3.4.1	protein disulfide-isomerase
+tenI	5.3.99.10	thiazole tautomerase
+IolI	5.3.99.11	2-keto-myo-inositol isomerase
+inosose isomerase	5.3.99.11	2-keto-myo-inositol isomerase
+2KMI isomerase	5.3.99.11	2-keto-myo-inositol isomerase
+Isomerase, prostaglanin R2 D-	5.3.99.2	Prostaglandin-D synthase
+Prostaglandin-R-prostaglandin D isomerase	5.3.99.2	Prostaglandin-D synthase
+PGH-PGD isomerase	5.3.99.2	Prostaglandin-D synthase
+PGD synthase	5.3.99.2	Prostaglandin-D synthase
+beta-Trace	5.3.99.2	Prostaglandin-D synthase
+Glutathione-dependent PGD synthetase	5.3.99.2	Prostaglandin-D synthase
+Glutathione-independent PGD synthetase	5.3.99.2	Prostaglandin-D synthase
+PGD2 synthase	5.3.99.2	Prostaglandin-D synthase
+PGDS2	5.3.99.2	Prostaglandin-D synthase
+Prostaglandin-D synthase	5.3.99.2	Prostaglandin-D synthase
+prostaglandin synthase	5.3.99.2	Prostaglandin-D synthase
+lipocalin-type Pgds	5.3.99.2	Prostaglandin-D synthase
+Prostaglandin-H2 D-isomerase	5.3.99.2	Prostaglandin-D synthase
+lipocalin-type PGD synthase	5.3.99.2	Prostaglandin-D synthase
+glutathione dependent prostaglandine D2 synthase	5.3.99.2	Prostaglandin-D synthase
+Beta-trace protein	5.3.99.2	Prostaglandin-D synthase
+PTGDS	5.3.99.2	Prostaglandin-D synthase
+lipocalin-type PG D synthase	5.3.99.2	Prostaglandin-D synthase
+Hematopoietic prostaglandin D synthase	5.3.99.2	Prostaglandin-D synthase
+H-PGDS	5.3.99.2	Prostaglandin-D synthase
+lipocalin-prostaglandin D synthase	5.3.99.2	Prostaglandin-D synthase
+HPGDS	5.3.99.2	Prostaglandin-D synthase
+lipocalin type prostaglandin D synthase	5.3.99.2	Prostaglandin-D synthase
+lipocalin prostaglandin D synthase	5.3.99.2	Prostaglandin-D synthase
+L-type prostaglandin synthase	5.3.99.2	Prostaglandin-D synthase
+L-prostaglandin D synthase	5.3.99.2	Prostaglandin-D synthase
+hematopoietic prostaglandin D2 synthase	5.3.99.2	Prostaglandin-D synthase
+lipocalin-type prostaglandin d synthase	5.3.99.2	Prostaglandin-D synthase
+L-PGDS	5.3.99.2	Prostaglandin-D synthase
+haematopoietic prostaglandin D synthase	5.3.99.2	Prostaglandin-D synthase
+haematopoietic PGD synthase	5.3.99.2	Prostaglandin-D synthase
+PGDS	5.3.99.2	Prostaglandin-D synthase
+Prostaglandin D synthase	5.3.99.2	Prostaglandin-D synthase
+glutathione-dependent prostaglandin D2 synthase	5.3.99.2	Prostaglandin-D synthase
+Prostaglandin D2 synthase	5.3.99.2	Prostaglandin-D synthase
+prostaglandin D2 synthetase	5.3.99.2	Prostaglandin-D synthase
+PGD2 synthetase	5.3.99.2	Prostaglandin-D synthase
+PGD-S	5.3.99.2	Prostaglandin-D synthase
+PGH2 D-isomerase	5.3.99.2	Prostaglandin-D synthase
+lipocaline-type prostaglandin D synthase	5.3.99.2	Prostaglandin-D synthase
+lipocalin-type prostaglandin D2 synthase	5.3.99.2	Prostaglandin-D synthase
+Isomerase, prostaglandin R2 E-	5.3.99.3	prostaglandin-E synthase
+Prostaglandin-H2 E-isomerase	5.3.99.3	prostaglandin-E synthase
+Endoperoxide isomerase	5.3.99.3	prostaglandin-E synthase
+Prostaglandin R-prostaglandin E isomerase	5.3.99.3	prostaglandin-E synthase
+Prostaglandin endoperoxide E isomerase	5.3.99.3	prostaglandin-E synthase
+PGE isomerase	5.3.99.3	prostaglandin-E synthase
+PGH-PGE isomerase	5.3.99.3	prostaglandin-E synthase
+PGE2 isomerase	5.3.99.3	prostaglandin-E synthase
+Prostaglandin endoperoxide E2 isomerase	5.3.99.3	prostaglandin-E synthase
+Prostaglandin H-E isomerase	5.3.99.3	prostaglandin-E synthase
+Prostaglandin H-prostaglandin E isomerase	5.3.99.3	prostaglandin-E synthase
+Prostaglandin E2 isomerase	5.3.99.3	prostaglandin-E synthase
+Prostaglandin endoperoxide-E isomerase	5.3.99.3	prostaglandin-E synthase
+PGH2/PGE2 isomerase	5.3.99.3	prostaglandin-E synthase
+prostagandin-E synthetase	5.3.99.3	prostaglandin-E synthase
+membrane-associated prostaglandin E	5.3.99.3	prostaglandin-E synthase
+membrane-associated prostaglandin E	5.3.99.3	prostaglandin-E synthase
+prostaglandin-E synthase	5.3.99.3	prostaglandin-E synthase
+prostaglandin synthase-1	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin synthase-1	5.3.99.3	prostaglandin-E synthase
+microsomal PG synthase-1	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin E synthase	5.3.99.3	prostaglandin-E synthase
+cytosolic prostaglandin E	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin E synthase-2	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin E synthase 1	5.3.99.3	prostaglandin-E synthase
+mPGES-2	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin E synthase-1	5.3.99.3	prostaglandin-E synthase
+CPGES	5.3.99.3	prostaglandin-E synthase
+mPGES	5.3.99.3	prostaglandin-E synthase
+mPGES-1	5.3.99.3	prostaglandin-E synthase
+MPGES1	5.3.99.3	prostaglandin-E synthase
+Prostaglandin E synthase	5.3.99.3	prostaglandin-E synthase
+PGES	5.3.99.3	prostaglandin-E synthase
+p23	5.3.99.3	prostaglandin-E synthase
+microsomal PGE2 synthase-1	5.3.99.3	prostaglandin-E synthase
+prostaglandin E synthase type 2	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin E synthase type 2	5.3.99.3	prostaglandin-E synthase
+PGE synthase	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin E synthase type 1	5.3.99.3	prostaglandin-E synthase
+cytosolic prostaglandin E synthase	5.3.99.3	prostaglandin-E synthase
+PGE synthase-1	5.3.99.3	prostaglandin-E synthase
+PGES-1	5.3.99.3	prostaglandin-E synthase
+MPGES2	5.3.99.3	prostaglandin-E synthase
+PGE	5.3.99.3	prostaglandin-E synthase
+prostaglandin E2 synthase-I	5.3.99.3	prostaglandin-E synthase
+prostaglandin E synthase 1	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin E2 synthase-1	5.3.99.3	prostaglandin-E synthase
+microsomal PGE2 synthase	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin-E synthase-1	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin E synthase type-2	5.3.99.3	prostaglandin-E synthase
+prostaglandin E2 synthase-1	5.3.99.3	prostaglandin-E synthase
+PTGES	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin E	5.3.99.3	prostaglandin-E synthase
+microsomal prostaglandin E	5.3.99.3	prostaglandin-E synthase
+prostaglandin E2 synthase	5.3.99.3	prostaglandin-E synthase
+cytosolic prostaglandin E	5.3.99.3	prostaglandin-E synthase
+membrane-associated prostaglandin E synthase-2	5.3.99.3	prostaglandin-E synthase
+membrane-associated PGE2 synthase	5.3.99.3	prostaglandin-E synthase
+microsomal PGE synthase-1	5.3.99.3	prostaglandin-E synthase
+PGE2	5.3.99.3	prostaglandin-E synthase
+prostaglandin E synthase-1	5.3.99.3	prostaglandin-E synthase
+prostaglandin E synthase-2	5.3.99.3	prostaglandin-E synthase
+mPGE synthase-2	5.3.99.3	prostaglandin-E synthase
+Aortic cytochrom P450	5.3.99.4	prostaglandin-I synthase
+PGI2 synthetase	5.3.99.4	prostaglandin-I synthase
+Prostaglandin I2 synthetase	5.3.99.4	prostaglandin-I synthase
+Prostacycline synthetase	5.3.99.4	prostaglandin-I synthase
+Prostacyclin synthetase	5.3.99.4	prostaglandin-I synthase
+Synthetase, prostacyclin	5.3.99.4	prostaglandin-I synthase
+prostacyclin synthase	5.3.99.4	prostaglandin-I synthase
+PGIS	5.3.99.4	prostaglandin-I synthase
+prostaglandin I synthase	5.3.99.4	prostaglandin-I synthase
+CYP8A1	5.3.99.4	prostaglandin-I synthase
+Prostaglandin I2 synthase	5.3.99.4	prostaglandin-I synthase
+PGI2 synthase	5.3.99.4	prostaglandin-I synthase
+prostacyclin/PGI2 synthase	5.3.99.4	prostaglandin-I synthase
+PGI2-S	5.3.99.4	prostaglandin-I synthase
+Ptgis	5.3.99.4	prostaglandin-I synthase
+PGI synthase	5.3.99.4	prostaglandin-I synthase
+Synthetase, thromboxane	5.3.99.5	thromboxane-A synthase
+Thromboxane synthetase	5.3.99.5	thromboxane-A synthase
+Thromboxan synthetase	5.3.99.5	thromboxane-A synthase
+Thromboxane A2 synthetase	5.3.99.5	thromboxane-A synthase
+TXA synthase	5.3.99.5	thromboxane-A synthase
+TXAS	5.3.99.5	thromboxane-A synthase
+TXS	5.3.99.5	thromboxane-A synthase
+thromboxane synthase	5.3.99.5	thromboxane-A synthase
+TxSI	5.3.99.5	thromboxane-A synthase
+TBXAS1	5.3.99.5	thromboxane-A synthase
+CYP5A1	5.3.99.5	thromboxane-A synthase
+TXSA	5.3.99.5	thromboxane-A synthase
+TxA-synthase	5.3.99.5	thromboxane-A synthase
+thromboxane A-synthase	5.3.99.5	thromboxane-A synthase
+thromboxane A synthase 1	5.3.99.5	thromboxane-A synthase
+thromboxane A2 synthase 1	5.3.99.5	thromboxane-A synthase
+TXA2 synthase	5.3.99.5	thromboxane-A synthase
+thromboxane A2 synthase	5.3.99.5	thromboxane-A synthase
+Cyclase, allene oxide	5.3.99.6	allene-oxide cyclase
+EC 5.3.99.1	5.3.99.6	allene-oxide cyclase
+AOC3	5.3.99.6	allene-oxide cyclase
+AOC1	5.3.99.6	allene-oxide cyclase
+AOC2	5.3.99.6	allene-oxide cyclase
+AaAOC	5.3.99.6	allene-oxide cyclase
+Allene oxide cyclase	5.3.99.6	allene-oxide cyclase
+OsAOC	5.3.99.6	allene-oxide cyclase
+PnAOC	5.3.99.6	allene-oxide cyclase
+JcAOC	5.3.99.6	allene-oxide cyclase
+AOC	5.3.99.6	allene-oxide cyclase
+isomerase, styrene oxide	5.3.99.7	styrene-oxide isomerase
+SOI	5.3.99.7	styrene-oxide isomerase
+StyC	5.3.99.7	styrene-oxide isomerase
+SOOI	5.3.99.7	styrene-oxide isomerase
+styrene oxide isomerase	5.3.99.7	styrene-oxide isomerase
+CCS ketoxanthophyll synthase	5.3.99.8	capsanthin/capsorubin synthase
+capsanthin-capsorubin synthase	5.3.99.8	capsanthin/capsorubin synthase
+CCS	5.3.99.8	capsanthin/capsorubin synthase
+Llccs	5.3.99.8	capsanthin/capsorubin synthase
+NXS	5.3.99.9	neoxanthin synthase
+VmNSY	5.3.99.9	neoxanthin synthase
+NSY	5.3.99.9	neoxanthin synthase
+ABA4	5.3.99.9	neoxanthin synthase
+Mutase, lysolecithin acyl-	5.4.1.1	Lysolecithin acylmutase
+Lysolecithin migratase	5.4.1.1	Lysolecithin acylmutase
+MCT	5.4.1.3	2-methylfumaryl-CoA isomerase
+mesaconyl-CoA C1-C4 CoA transferase	5.4.1.3	2-methylfumaryl-CoA isomerase
+GLI	5.4.1.4	D-galactarolactone isomerase
+DPGM	5.4.2.1 (transferred to EC 5	phosphoglycerate mutase
+PGM	5.4.2.1 (transferred to EC 5	phosphoglycerate mutase
+iPGM	5.4.2.1 (transferred to EC 5	phosphoglycerate mutase
+independent PGM	5.4.2.1 (transferred to EC 5	phosphoglycerate mutase
+glucosamine phosphomutase	5.4.2.10	phosphoglucosamine mutase
+aminodeoxyglucose phosphate phosphomutase	5.4.2.10	phosphoglucosamine mutase
+PNGM	5.4.2.10	phosphoglucosamine mutase
+GlmM	5.4.2.10	phosphoglucosamine mutase
+phosphoglucosamine mutase	5.4.2.10	phosphoglucosamine mutase
+MMP1077	5.4.2.10	phosphoglucosamine mutase
+Rv3214	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+EntD	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+PGAM2	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+Sts-1	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+phosphoglycerate mutase 1	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+PGAM1	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+2,3-bisphosphoglycerate-dependent PGAM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+SSO2236	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+dPGAM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+cofactor-dependent phosphoglycerate mutase	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+DPGM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+B-type PGM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+dPGM-B	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+phosphoglycerate mutase	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+PGM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+phosphoglycerate mutase type B	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+ScPGM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+PGAM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+2,3-diphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+cofactor-independent phosphoglycerate mutase 1	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+PGM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+PGAM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+3-phosphoglycerate mutase	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+2,3BPG-independent PGAM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+PH0037	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+cofactor-independent phosphoglycerate mutase	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+independent PGAM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+iPGAM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+independent PGM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+SSO0417	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+apgM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+MJ0010	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+MJ1612	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+2,3-biphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+iPGM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+Glucose phosphomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+Phosphomutase, glucose	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+Phosphoglucose mutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+EC 2.7.5.1	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+phosphoglucomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+phosphomannomutase/phosphoglucomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PMM/PGM	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+alpha-Pgm	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+alpha-phosphoglucomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PgmA	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+alpha-phosphoglucose mutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+SpgM	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+SP-1	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+phospho-glucomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+YMR278w protein	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PGM3	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PGM1	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PGM2	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PGM	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PGM-II	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PGM-I	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PGM/PMM	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+phosphoglucomutase/phosphomannomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PgmG	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+alpha phosphoglucomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+Phosphohexomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+SSO0207	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+Acetylglucosamine phosphomutase	5.4.2.3	phosphoacetylglucosamine mutase
+Phosphomutase, acetylglucosamine	5.4.2.3	phosphoacetylglucosamine mutase
+Acetylaminodeoxyglucose phosphomutase	5.4.2.3	phosphoacetylglucosamine mutase
+Phospho-N-acetylglucosamine mutase	5.4.2.3	phosphoacetylglucosamine mutase
+PGlcNAc mutase	5.4.2.3	phosphoacetylglucosamine mutase
+2-Acetamido-2-deoxy-D-glucose-1	5.4.2.3	phosphoacetylglucosamine mutase
+EC 2.7.5.2.	5.4.2.3	phosphoacetylglucosamine mutase
+DNA-damage-repair/toleration protein DRT101	5.4.2.3	phosphoacetylglucosamine mutase
+N-acetylglucosamine-phosphate mutase	5.4.2.3	phosphoacetylglucosamine mutase
+CaAGM1	5.4.2.3	phosphoacetylglucosamine mutase
+PAGM	5.4.2.3	phosphoacetylglucosamine mutase
+PGM3	5.4.2.3	phosphoacetylglucosamine mutase
+AGM1	5.4.2.3	phosphoacetylglucosamine mutase
+HsAGM1	5.4.2.3	phosphoacetylglucosamine mutase
+Phosphomutase, glycerate	5.4.2.4	Bisphosphoglycerate mutase
+Diphosphoglycerate mutase	5.4.2.4	Bisphosphoglycerate mutase
+Glycerate phosphomutase	5.4.2.4	Bisphosphoglycerate mutase
+Bisphosphoglyceromutase	5.4.2.4	Bisphosphoglycerate mutase
+Biphosphoglycerate synthase	5.4.2.4	Bisphosphoglycerate mutase
+Diphosphoglyceric mutase	5.4.2.4	Bisphosphoglycerate mutase
+2,3-Diphosphoglycerate mutase	5.4.2.4	Bisphosphoglycerate mutase
+2,3-Bisphosphoglycerate mutase	5.4.2.4	Bisphosphoglycerate mutase
+2,3-Diphosphoglyceromutase	5.4.2.4	Bisphosphoglycerate mutase
+Diphosphoglyceromutase	5.4.2.4	Bisphosphoglycerate mutase
+EC 2.7.5.4	5.4.2.4	Bisphosphoglycerate mutase
+2,3-Diphosphoglycerate synthase	5.4.2.4	Bisphosphoglycerate mutase
+DPGM	5.4.2.4	Bisphosphoglycerate mutase
+BPG-dependent PGAM	5.4.2.4	Bisphosphoglycerate mutase
+2,3-bisphosphoglycerate mutase, erythrocyte	5.4.2.4	Bisphosphoglycerate mutase
+2,3-bisphosphoglycerate synthase	5.4.2.4	Bisphosphoglycerate mutase
+2,3 bisphosphoglycerate mutase	5.4.2.4	Bisphosphoglycerate mutase
+BPGM	5.4.2.4	Bisphosphoglycerate mutase
+BPG synthase	5.4.2.4	Bisphosphoglycerate mutase
+bisphosphoglycerate mutase	5.4.2.4	Bisphosphoglycerate mutase
+BPGAM	5.4.2.4	Bisphosphoglycerate mutase
+Glucose phosphomutase	5.4.2.5	phosphoglucomutase (glucose-cofactor)
+Phosphomutase, glucose	5.4.2.5	phosphoglucomutase (glucose-cofactor)
+Glucose-1-phosphate phosphotransferase	5.4.2.5	phosphoglucomutase (glucose-cofactor)
+EC 2.7.5.5	5.4.2.5	phosphoglucomutase (glucose-cofactor)
+D-Glucose-1-phosphate:D-glucose-6-phosphotransferase	5.4.2.5	phosphoglucomutase (glucose-cofactor)
+Phosphomutase, beta-glucose	5.4.2.6	beta-Phosphoglucomutase
+PgcM	5.4.2.6	beta-Phosphoglucomutase
+beta-phosphoglucomutase	5.4.2.6	beta-Phosphoglucomutase
+PsPGM	5.4.2.6	beta-Phosphoglucomutase
+Py04_1503	5.4.2.6	beta-Phosphoglucomutase
+betaPGM	5.4.2.6	beta-Phosphoglucomutase
+beta-PGM	5.4.2.6	beta-Phosphoglucomutase
+TM1254	5.4.2.6	beta-Phosphoglucomutase
+Phosphodeoxyribomutase	5.4.2.7	phosphopentomutase
+Phosphomutase, deoxyribose	5.4.2.7	phosphopentomutase
+Deoxyribose phosphomutase	5.4.2.7	phosphopentomutase
+Deoxyribomutase	5.4.2.7	phosphopentomutase
+alpha-D-Glucose-1,6-bisphosphate:deoxy-D-ribose-1-phosphate	5.4.2.7	phosphopentomutase
+EC 2.7.5.6	5.4.2.7	phosphopentomutase
+PPM	5.4.2.7	phosphopentomutase
+Phosphoribomutase	5.4.2.7	phosphopentomutase
+PGM3	5.4.2.7	phosphopentomutase
+phosphopentomutase	5.4.2.7	phosphopentomutase
+PPMase	5.4.2.7	phosphopentomutase
+Phosphomutase, mannose	5.4.2.8	phosphomannomutase
+Phosphomannose mutase	5.4.2.8	phosphomannomutase
+EC 2.7.5.7	5.4.2.8	phosphomannomutase
+ORF17	5.4.2.8	phosphomannomutase
+PMMH-22	5.4.2.8	phosphomannomutase
+PGM2	5.4.2.8	phosphomannomutase
+phosphomannomutase/phosphoglucomutase	5.4.2.8	phosphomannomutase
+PMM/PGM	5.4.2.8	phosphomannomutase
+PMM1	5.4.2.8	phosphomannomutase
+IMP-sensitive glucose-1,6-bisphosphatase	5.4.2.8	phosphomannomutase
+phosphomannomutase 1	5.4.2.8	phosphomannomutase
+phosphomannomutase	5.4.2.8	phosphomannomutase
+PMM	5.4.2.8	phosphomannomutase
+PMM-A2	5.4.2.8	phosphomannomutase
+PMM-A1	5.4.2.8	phosphomannomutase
+PMM-2	5.4.2.8	phosphomannomutase
+phosphomannomutase 2	5.4.2.8	phosphomannomutase
+alpha-phosphomannomutase1	5.4.2.8	phosphomannomutase
+SP-2	5.4.2.8	phosphomannomutase
+PGM/PMM	5.4.2.8	phosphomannomutase
+ManB	5.4.2.8	phosphomannomutase
+PMM2	5.4.2.8	phosphomannomutase
+PMM-D1	5.4.2.8	phosphomannomutase
+PMM-B2	5.4.2.8	phosphomannomutase
+PMM-D2	5.4.2.8	phosphomannomutase
+PMM-B1	5.4.2.8	phosphomannomutase
+phosphoglucomutase/phosphomannomutase	5.4.2.8	phosphomannomutase
+PgmG	5.4.2.8	phosphomannomutase
+Phosphohexomutase	5.4.2.8	phosphomannomutase
+SSO0207	5.4.2.8	phosphomannomutase
+PMM-1	5.4.2.8	phosphomannomutase
+CPEP phosphonomutase	5.4.2.9	phosphoenolpyruvate mutase
+carboxyphosphoenolpyruvate phosphonomutase	5.4.2.9	phosphoenolpyruvate mutase
+PEP phosphomutase	5.4.2.9	phosphoenolpyruvate mutase
+PEPPM	5.4.2.9	phosphoenolpyruvate mutase
+phosphoenolpyruvate phosphomutase	5.4.2.9	phosphoenolpyruvate mutase
+phosphomutase, phosphoenolpyruvate-phosphonopyruvate	5.4.2.9	phosphoenolpyruvate mutase
+More	5.4.2.9	phosphoenolpyruvate mutase
+PEP mutase	5.4.2.9	phosphoenolpyruvate mutase
+phosphoenolpyruvate mutase	5.4.2.9	phosphoenolpyruvate mutase
+admH	5.4.3.10	phenylalanine aminomutase (L-beta-phenylalanine forming)
+admH	5.4.3.11	phenylalanine aminomutase (D-beta-phenylalanine forming)
+PAM	5.4.3.11	phenylalanine aminomutase (D-beta-phenylalanine forming)
+EncP	5.4.3.11	phenylalanine aminomutase (D-beta-phenylalanine forming)
+Aminomutase, lysine 2,3-	5.4.3.2	lysine 2,3-aminomutase
+Mutase, lysine 2,3-amino-	5.4.3.2	lysine 2,3-aminomutase
+L-Lysine-2,3-aminomutase	5.4.3.2	lysine 2,3-aminomutase
+YjeK	5.4.3.2	lysine 2,3-aminomutase
+LAM	5.4.3.2	lysine 2,3-aminomutase
+KAM	5.4.3.2	lysine 2,3-aminomutase
+lysine 2,3-aminomutase	5.4.3.2	lysine 2,3-aminomutase
+lysine-2,3-aminomutase	5.4.3.2	lysine 2,3-aminomutase
+AblA	5.4.3.2	lysine 2,3-aminomutase
+KamDE	5.4.3.3	lysine 5,6-aminomutase
+5,6-LAM	5.4.3.3	lysine 5,6-aminomutase
+lysine 5,6-aminomutase	5.4.3.3	lysine 5,6-aminomutase
+beta-Lysine mutase	5.4.3.3	lysine 5,6-aminomutase
+5,6-LAM	5.4.3.4 (transferred to EC 5	D-lysine 5,6-aminomutase
+lysine 5,6-aminomutase	5.4.3.4 (transferred to EC 5	D-lysine 5,6-aminomutase
+Aminomutase, D-ornithine 4,5-	5.4.3.5	D-ornithine 4,5-aminomutase
+4,5-OAM	5.4.3.5	D-ornithine 4,5-aminomutase
+D-ornithine aminomutase	5.4.3.5	D-ornithine 4,5-aminomutase
+oraE	5.4.3.5	D-ornithine 4,5-aminomutase
+oraS	5.4.3.5	D-ornithine 4,5-aminomutase
+ornithine 4,5-aminomutase	5.4.3.5	D-ornithine 4,5-aminomutase
+OAM	5.4.3.5	D-ornithine 4,5-aminomutase
+adenosylcobalamin-dependent ornithine 4,5-aminomutase	5.4.3.5	D-ornithine 4,5-aminomutase
+Aminomutase, tyrosine 2,3-	5.4.3.6	tyrosine 2,3-aminomutase
+Tyrosine alpha,beta-mutase	5.4.3.6	tyrosine 2,3-aminomutase
+Tyrosine alpha,beta-amino mutase	5.4.3.6	tyrosine 2,3-aminomutase
+SgcC4	5.4.3.6	tyrosine 2,3-aminomutase
+tyrosine aminomutase	5.4.3.6	tyrosine 2,3-aminomutase
+TAM	5.4.3.6	tyrosine 2,3-aminomutase
+CmdF	5.4.3.6	tyrosine 2,3-aminomutase
+MfTAM	5.4.3.6	tyrosine 2,3-aminomutase
+MxTAM	5.4.3.6	tyrosine 2,3-aminomutase
+Aminomutase, leucine 2,3-	5.4.3.7	leucine 2,3-aminomutase
+LAM	5.4.3.7	leucine 2,3-aminomutase
+Aminotransferase, glutamate semialdehyde	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+Glutamate 1-semialdehyde aminotransferase	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+GSA aminotransferase	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+GSA	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+HemL	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+Glutamate-1-semialdehyde aminotransferase	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+GSA-AT	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+GSAT	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+glutamate-1-semialdehyde aminomutase	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+GSAM	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+HAB mutase	5.4.4.1	(hydroxyamino)benzene mutase
+hydroxylaminobenzene hydroxymutase	5.4.4.1	(hydroxyamino)benzene mutase
+hydroxylaminobenzene mutase	5.4.4.1	(hydroxyamino)benzene mutase
+CnbB	5.4.4.1	(hydroxyamino)benzene mutase
+Synthase, isochorismate	5.4.4.2	isochorismate synthase
+Isochorismic synthase	5.4.4.2	isochorismate synthase
+Amonabactin	5.4.4.2	isochorismate synthase
+Eds16	5.4.4.2	isochorismate synthase
+IcsI	5.4.4.2	isochorismate synthase
+isochorismate mutase	5.4.4.2	isochorismate synthase
+Sid2	5.4.4.2	isochorismate synthase
+EC 5.4.99.6	5.4.4.2	isochorismate synthase
+ICS1 gene product	5.4.4.2	isochorismate synthase
+ICS	5.4.4.2	isochorismate synthase
+isochorismate synthase	5.4.4.2	isochorismate synthase
+menaquinone-specific isochorismate synthase	5.4.4.2	isochorismate synthase
+EntC	5.4.4.2	isochorismate synthase
+DhbC	5.4.4.2	isochorismate synthase
+MenF	5.4.4.2	isochorismate synthase
+isochorismate synthase 1	5.4.4.2	isochorismate synthase
+ICS1	5.4.4.2	isochorismate synthase
+ICS2	5.4.4.2	isochorismate synthase
+PchA	5.4.4.2	isochorismate synthase
+MbtI	5.4.4.2	isochorismate synthase
+3-hydroxylaminophenol mutase	5.4.4.3	3-(hydroxyamino)phenol mutase
+3HAP mutase	5.4.4.3	3-(hydroxyamino)phenol mutase
+5,8-linoleate diol synthases	5.4.4.5	9,12-octadecadienoate 8-hydroperoxide 8R-isomerase
+5,8-LDS	5.4.4.5	9,12-octadecadienoate 8-hydroperoxide 8R-isomerase
+PpoA	5.4.4.5	9,12-octadecadienoate 8-hydroperoxide 8R-isomerase
+5,8-linoleate diol synthase	5.4.4.5	9,12-octadecadienoate 8-hydroperoxide 8R-isomerase
+7,8-linoleate diol synthase	5.4.4.6	9,12-octadecadienoate 8-hydroperoxide 8S-isomerase
+7,8-LDS	5.4.4.6	9,12-octadecadienoate 8-hydroperoxide 8S-isomerase
+eLOX3	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+epidermal lipoxygenase-3	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+epidermal LOX type 3	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+hepoxilin synthase	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+ALOXE3	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+Mutase, methylaspartate	5.4.99.1	Methylaspartate mutase
+Glutamic mutase	5.4.99.1	Methylaspartate mutase
+Glutamic isomerase	5.4.99.1	Methylaspartate mutase
+Glutamic acid mutase	5.4.99.1	Methylaspartate mutase
+Glutamic acid isomerase	5.4.99.1	Methylaspartate mutase
+Methylaspartic acid mutase	5.4.99.1	Methylaspartate mutase
+Glutamate isomerase	5.4.99.1	Methylaspartate mutase
+Glutamate mutase	5.4.99.1	Methylaspartate mutase
+AdoCbl-dependent glutamate mutase	5.4.99.1	Methylaspartate mutase
+SanU	5.4.99.1	Methylaspartate mutase
+SanV	5.4.99.1	Methylaspartate mutase
+GlmS	5.4.99.1	Methylaspartate mutase
+Glm	5.4.99.1	Methylaspartate mutase
+Synthase, isomaltulose	5.4.99.11	Isomaltulose synthase
+Isomaltulose synthetase	5.4.99.11	Isomaltulose synthase
+Sucrose alpha-glucosyltransferase	5.4.99.11	Isomaltulose synthase
+alpha-Glucosyltransferase	5.4.99.11	Isomaltulose synthase
+Sucrose 6-glucosylmutase	5.4.99.11	Isomaltulose synthase
+Sucrose mutase	5.4.99.11	Isomaltulose synthase
+Trehalulose synthase	5.4.99.11	Isomaltulose synthase
+MutB	5.4.99.11	Isomaltulose synthase
+SmuA	5.4.99.11	Isomaltulose synthase
+alpha-glycosyl transferase	5.4.99.11	Isomaltulose synthase
+NX-5	5.4.99.11	Isomaltulose synthase
+SIase	5.4.99.11	Isomaltulose synthase
+sucrose isomerase	5.4.99.11	Isomaltulose synthase
+isomaltulose synthase	5.4.99.11	Isomaltulose synthase
+PalI	5.4.99.11	Isomaltulose synthase
+hisT	5.4.99.12	tRNA pseudouridine38-40 synthase
+pseudouridine synthase	5.4.99.12	tRNA pseudouridine38-40 synthase
+PSUI	5.4.99.12	tRNA pseudouridine38-40 synthase
+pseudouridine synthase I	5.4.99.12	tRNA pseudouridine38-40 synthase
+tRNA pseudouridine synthase I	5.4.99.12	tRNA pseudouridine38-40 synthase
+TruA	5.4.99.12	tRNA pseudouridine38-40 synthase
+PUS3	5.4.99.12	tRNA pseudouridine38-40 synthase
+tRNA pseudouridine synthase 3	5.4.99.12	tRNA pseudouridine38-40 synthase
+Deg1p	5.4.99.12	tRNA pseudouridine38-40 synthase
+Pus3p	5.4.99.12	tRNA pseudouridine38-40 synthase
+Deg1	5.4.99.12	tRNA pseudouridine38-40 synthase
+mPus3p	5.4.99.12	tRNA pseudouridine38-40 synthase
+pseudouridine synthase 3	5.4.99.12	tRNA pseudouridine38-40 synthase
+isobutyryl coenzyme A mutase	5.4.99.13	isobutyryl-CoA mutase
+butyryl-CoA:isobutyryl-CoA mutase	5.4.99.13	isobutyryl-CoA mutase
+ICM	5.4.99.13	isobutyryl-CoA mutase
+IcmF	5.4.99.13	isobutyryl-CoA mutase
+isobutyryl-CoA mutase fused	5.4.99.13	isobutyryl-CoA mutase
+Isomerase, 4-methyl-2-enelactone	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+4-Methyl-3-enelactone methyl isomerase	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+MmlJ	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+methymuconolactone isomerase	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+4-Methylmuconolactone methylisomerase	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+MLMI	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+Malto-oligosyltrehalose synthase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Maltodextrin alpha-D-glucosyltransferase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Cellulase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Sythase, maltooligosyltrehalose	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Cellulase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Maltooligosyl trehalose synthase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Synthase, maltooligosyltrehalose	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Synthase, maltooligosyltrehalose	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+MOTS	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+maltooligosyltrehalose synthase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+protein ST0929	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+TDFE	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+SSO2095	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+MTSase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+maltooligosyl trehalose synthase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+MTSH	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+MTS	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+TreY	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+maltooligosyl-trehalose synthase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+SsTDFE	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+trehalosyl dextrin-forming enzyme	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Maltose glucosylmutase	5.4.99.16	maltose alpha-D-glucosyltransferase
+Maltose alpha-D-glucosylmutase	5.4.99.16	maltose alpha-D-glucosyltransferase
+Synthase, trehalose	5.4.99.16	maltose alpha-D-glucosyltransferase
+Trehalose synthetase	5.4.99.16	maltose alpha-D-glucosyltransferase
+Synthase, trehalose	5.4.99.16	maltose alpha-D-glucosyltransferase
+Trehalose synthase	5.4.99.16	maltose alpha-D-glucosyltransferase
+Protein	5.4.99.16	maltose alpha-D-glucosyltransferase
+57-KDa trehalose synthase	5.4.99.16	maltose alpha-D-glucosyltransferase
+Protein	5.4.99.16	maltose alpha-D-glucosyltransferase
+Synthase, trehalose	5.4.99.16	maltose alpha-D-glucosyltransferase
+Synthase, trehalose	5.4.99.16	maltose alpha-D-glucosyltransferase
+Synthase, trehalose	5.4.99.16	maltose alpha-D-glucosyltransferase
+Maltose alpha-D-glucosyltransferase	5.4.99.16	maltose alpha-D-glucosyltransferase
+PTTS	5.4.99.16	maltose alpha-D-glucosyltransferase
+TSase	5.4.99.16	maltose alpha-D-glucosyltransferase
+Trehalose synthase	5.4.99.16	maltose alpha-D-glucosyltransferase
+TreS	5.4.99.16	maltose alpha-D-glucosyltransferase
+MTase	5.4.99.16	maltose alpha-D-glucosyltransferase
+cyclase, squalene-hopanoid	5.4.99.17	squalene-hopene cyclase
+SHC	5.4.99.17	squalene-hopene cyclase
+squalene-hopene cyclase	5.4.99.17	squalene-hopene cyclase
+ZmSHC1	5.4.99.17	squalene-hopene cyclase
+SHC1	5.4.99.17	squalene-hopene cyclase
+SHC2	5.4.99.17	squalene-hopene cyclase
+ZmoSHC1	5.4.99.17	squalene-hopene cyclase
+AacSHC	5.4.99.17	squalene-hopene cyclase
+squalene hopene cyclase	5.4.99.17	squalene-hopene cyclase
+Spterp25	5.4.99.17	squalene-hopene cyclase
+PurE	5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase
+N5-CAIR mutase	5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase
+N5-carboxyaminoimidazole ribonucleotide mutase	5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase
+N5-carboxyaminoimidazole ribonucleotide synthetase	5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase
+RsuA	5.4.99.19	16S rRNA pseudouridine516 synthase
+16S RNA pseudouridine 516 synthase	5.4.99.19	16S rRNA pseudouridine516 synthase
+16S PSI516 synthase	5.4.99.19	16S rRNA pseudouridine516 synthase
+16S RNA PSI516 synthase	5.4.99.19	16S rRNA pseudouridine516 synthase
+RNA pseudouridine synthase RsuA	5.4.99.19	16S rRNA pseudouridine516 synthase
+PSI-synthase RsuA	5.4.99.19	16S rRNA pseudouridine516 synthase
+Mutase, methylmalonyl coenzyme A	5.4.99.2	Methylmalonyl-CoA mutase
+Methylmalonyl CoA mutase	5.4.99.2	Methylmalonyl-CoA mutase
+Methylmalonyl coenzyme A carbonylmutase	5.4.99.2	Methylmalonyl-CoA mutase
+Methylmalonyl-CoA-carbonyl mutase	5.4.99.2	Methylmalonyl-CoA mutase
+MCB-beta	5.4.99.2	Methylmalonyl-CoA mutase
+MCM-alpha	5.4.99.2	Methylmalonyl-CoA mutase
+MCM-beta	5.4.99.2	Methylmalonyl-CoA mutase
+mmcm-1	5.4.99.2	Methylmalonyl-CoA mutase
+Methylmalonyl coenzyme A mutase	5.4.99.2	Methylmalonyl-CoA mutase
+methylmalonyl-CoA mutase	5.4.99.2	Methylmalonyl-CoA mutase
+MCM	5.4.99.2	Methylmalonyl-CoA mutase
+mcmB	5.4.99.2	Methylmalonyl-CoA mutase
+MuT	5.4.99.2	Methylmalonyl-CoA mutase
+Msed_0638	5.4.99.2	Methylmalonyl-CoA mutase
+Msed_2055	5.4.99.2	Methylmalonyl-CoA mutase
+sleeping beauty mutase	5.4.99.2	Methylmalonyl-CoA mutase
+Sbm	5.4.99.2	Methylmalonyl-CoA mutase
+L-methylmalonyl-co-enzyme-A mutase	5.4.99.2	Methylmalonyl-CoA mutase
+L-methylmalonyl-CoA mutase	5.4.99.2	Methylmalonyl-CoA mutase
+pseudouridine synthase	5.4.99.20	23S rRNA pseudouridine2457 synthase
+RluE	5.4.99.20	23S rRNA pseudouridine2457 synthase
+YmfC	5.4.99.20	23S rRNA pseudouridine2457 synthase
+RluF	5.4.99.21	23S rRNA pseudouridine2604 synthase
+YjbC	5.4.99.21	23S rRNA pseudouridine2604 synthase
+RluB	5.4.99.22	23S rRNA pseudouridine2605 synthase
+YciL	5.4.99.22	23S rRNA pseudouridine2605 synthase
+pseudouridine synthase RluD	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+YfiI	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+RluD	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+RluD pseudouridine synthase	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+YfiL	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+sfhB	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+pseudouridine synthases RluD	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+RLuc	5.4.99.24	23S rRNA pseudouridine955/2504/2580 synthase
+YceC	5.4.99.24	23S rRNA pseudouridine955/2504/2580 synthase
+pseudouridine synthases RluC	5.4.99.24	23S rRNA pseudouridine955/2504/2580 synthase
+psi55 tRNA pseudouridine synthase	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA pseudouridine 55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+TruB	5.4.99.25	tRNA pseudouridine55 synthase
+psi55S	5.4.99.25	tRNA pseudouridine55 synthase
+pseudouridine 55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+MjPus10	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA pseudouridine synthase	5.4.99.25	tRNA pseudouridine55 synthase
+PSI55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+Cbf5	5.4.99.25	tRNA pseudouridine55 synthase
+pfuCbf5	5.4.99.25	tRNA pseudouridine55 synthase
+Pus10	5.4.99.25	tRNA pseudouridine55 synthase
+Mj-Pus10	5.4.99.25	tRNA pseudouridine55 synthase
+aCBF5	5.4.99.25	tRNA pseudouridine55 synthase
+TR	5.4.99.25	tRNA pseudouridine55 synthase
+pseudouridine synthase TruB	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA PSI 55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+PSI synthase TruB	5.4.99.25	tRNA pseudouridine55 synthase
+pseuduridine-55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+PSI55 synthaseuB	5.4.99.25	tRNA pseudouridine55 synthase
+RNA pseudouridine synthase TruB	5.4.99.25	tRNA pseudouridine55 synthase
+YNL292w	5.4.99.25	tRNA pseudouridine55 synthase
+Pus4	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA:pseudouridine-55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA:PSI55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA:PSI55-synthase	5.4.99.25	tRNA pseudouridine55 synthase
+TruC	5.4.99.26	tRNA pseudouridine65 synthase
+YqcB	5.4.99.26	tRNA pseudouridine65 synthase
+Pus7p	5.4.99.27	tRNA pseudouridine13 synthase
+Sso aPus7	5.4.99.27	tRNA pseudouridine13 synthase
+Pab aPus7	5.4.99.27	tRNA pseudouridine13 synthase
+TruD	5.4.99.27	tRNA pseudouridine13 synthase
+YgbO	5.4.99.27	tRNA pseudouridine13 synthase
+tRNA PSI13 synthase	5.4.99.27	tRNA pseudouridine13 synthase
+RNA:PSI-synthase Pus7p	5.4.99.27	tRNA pseudouridine13 synthase
+RNA:pseudouridine-synthase Pus7p	5.4.99.27	tRNA pseudouridine13 synthase
+Pus7 protein	5.4.99.27	tRNA pseudouridine13 synthase
+RluA	5.4.99.28	tRNA pseudouridine32 synthase
+pseudouridine synthase RluA	5.4.99.28	tRNA pseudouridine32 synthase
+Rib2/Pus8p	5.4.99.28	tRNA pseudouridine32 synthase
+tRNA:Psi32-synthase	5.4.99.28	tRNA pseudouridine32 synthase
+Pus9	5.4.99.28	tRNA pseudouridine32 synthase
+RluA	5.4.99.29	23S rRNA pseudouridine746 synthase
+pseudouridine synthase RluA	5.4.99.29	23S rRNA pseudouridine746 synthase
+23S RNA PSI746 synthase	5.4.99.29	23S rRNA pseudouridine746 synthase
+Mutase, acetolactate	5.4.99.3	2-Acetolactate mutase
+Acetolactate mutase	5.4.99.3	2-Acetolactate mutase
+Acetohydroxy acid isomerase	5.4.99.3	2-Acetolactate mutase
+2-acetolactate mutase	5.4.99.3	2-Acetolactate mutase
+UDP-arabinopyranose mutase	5.4.99.30	UDP-arabinopyranose mutase
+CrUAM	5.4.99.30	UDP-arabinopyranose mutase
+OsUAM	5.4.99.30	UDP-arabinopyranose mutase
+OsUAM1	5.4.99.30	UDP-arabinopyranose mutase
+Os03g0599800 protein	5.4.99.30	UDP-arabinopyranose mutase
+UAM1	5.4.99.30	UDP-arabinopyranose mutase
+Os03g40270 protein	5.4.99.30	UDP-arabinopyranose mutase
+RGP1	5.4.99.30	UDP-arabinopyranose mutase
+Os07g41360 protein	5.4.99.30	UDP-arabinopyranose mutase
+UAMs3	5.4.99.30	UDP-arabinopyranose mutase
+RGPs3	5.4.99.30	UDP-arabinopyranose mutase
+OsUAM3	5.4.99.30	UDP-arabinopyranose mutase
+Os07g0604800 protein	5.4.99.30	UDP-arabinopyranose mutase
+UAM3	5.4.99.30	UDP-arabinopyranose mutase
+RGP2	5.4.99.30	UDP-arabinopyranose mutase
+RGP3	5.4.99.30	UDP-arabinopyranose mutase
+THAS1	5.4.99.31	thalianol synthase
+OSC3	5.4.99.32	protostadienol synthase
+PdsA	5.4.99.32	protostadienol synthase
+OSPC	5.4.99.32	protostadienol synthase
+oxidosqualene:protostadienol cyclase	5.4.99.32	protostadienol synthase
+CPQ	5.4.99.33	cucurbitadienol synthase
+multifunctional triterpene synthase	5.4.99.34	germanicol synthase
+RsM1	5.4.99.34	germanicol synthase
+multifunctional triterpene synthase	5.4.99.35	taraxerol synthase
+RsM2	5.4.99.35	taraxerol synthase
+LcIMS1	5.4.99.36	isomultiflorenol synthase
+isomultiflorenol synthase	5.4.99.36	isomultiflorenol synthase
+IMS1	5.4.99.36	isomultiflorenol synthase
+DCD	5.4.99.37	dammaradiene synthase
+CAMS1	5.4.99.38	camelliol C synthase
+LUP3	5.4.99.38	camelliol C synthase
+At1g78955	5.4.99.38	camelliol C synthase
+BPY	5.4.99.39	beta-amyrin synthase
+PSY	5.4.99.39	beta-amyrin synthase
+betaAS	5.4.99.39	beta-amyrin synthase
+SvBS	5.4.99.39	beta-amyrin synthase
+EtAS	5.4.99.39	beta-amyrin synthase
+MtAMY1	5.4.99.39	beta-amyrin synthase
+GmAMS1	5.4.99.39	beta-amyrin synthase
+PNY	5.4.99.39	beta-amyrin synthase
+OXA1	5.4.99.39	beta-amyrin synthase
+bAS	5.4.99.39	beta-amyrin synthase
+BAS1	5.4.99.39	beta-amyrin synthase
+BAS2	5.4.99.39	beta-amyrin synthase
+BAS-like 2	5.4.99.39	beta-amyrin synthase
+OSC2	5.4.99.39	beta-amyrin synthase
+SITTS1	5.4.99.39	beta-amyrin synthase
+PtBS	5.4.99.39	beta-amyrin synthase
+Oxidosqualene cyclase	5.4.99.39	beta-amyrin synthase
+ObAS1	5.4.99.39	beta-amyrin synthase
+beta-amyrin synthase	5.4.99.39	beta-amyrin synthase
+OSC1	5.4.99.39	beta-amyrin synthase
+multifunctional OSC	5.4.99.39	beta-amyrin synthase
+SlTTS1	5.4.99.39	beta-amyrin synthase
+CrAS	5.4.99.39	beta-amyrin synthase
+amyrin synthase	5.4.99.39	beta-amyrin synthase
+B-AS	5.4.99.39	beta-amyrin synthase
+Mutase, 2-methyleneglutarate	5.4.99.4	2-Methyleneglutarate mutase
+alpha-Methyleneglutarate mutase	5.4.99.4	2-Methyleneglutarate mutase
+alpha-MG mutase	5.4.99.4	2-Methyleneglutarate mutase
+oxidosqualene cyclases	5.4.99.40	alpha-amyrin synthase
+ObAS2	5.4.99.40	alpha-amyrin synthase
+alpha amyrin synthase	5.4.99.40	alpha-amyrin synthase
+multifunctional OSC	5.4.99.40	alpha-amyrin synthase
+SlTTS1	5.4.99.40	alpha-amyrin synthase
+PSM	5.4.99.40	alpha-amyrin synthase
+2,3-oxidosqualene alpha-amyrin cyclase	5.4.99.40	alpha-amyrin synthase
+OSCPSM	5.4.99.40	alpha-amyrin synthase
+mixed amyrin synthase	5.4.99.40	alpha-amyrin synthase
+alpha/beta amyrin synthase	5.4.99.40	alpha-amyrin synthase
+MdOSC1	5.4.99.40	alpha-amyrin synthase
+Oxidosqualene cyclase	5.4.99.40	alpha-amyrin synthase
+OSC	5.4.99.40	alpha-amyrin synthase
+BmOSC	5.4.99.40	alpha-amyrin synthase
+lueol synthase	5.4.99.41	lupeol synthase
+OSC3	5.4.99.41	lupeol synthase
+OEW	5.4.99.41	lupeol synthase
+BPY	5.4.99.41	lupeol synthase
+LUS	5.4.99.41	lupeol synthase
+lupeol synthase	5.4.99.41	lupeol synthase
+AtLUP1	5.4.99.41	lupeol synthase
+2,3-oxidosqualene-triterpenoid cyclase	5.4.99.41	lupeol synthase
+RcLUS	5.4.99.41	lupeol synthase
+TRW	5.4.99.41	lupeol synthase
+tRNA:Psi31-synthase	5.4.99.42	tRNA pseudouridine31 synthase
+Pus6p	5.4.99.42	tRNA pseudouridine31 synthase
+pseudouridylate synthase 6	5.4.99.42	tRNA pseudouridine31 synthase
+Pus5p	5.4.99.43	21S rRNA pseudouridine2819 synthase
+PUS5	5.4.99.43	21S rRNA pseudouridine2819 synthase
+tRNA:PSI27/28-synthase	5.4.99.44	mitochondrial tRNA pseudouridine27/28 synthase
+Pus2p	5.4.99.44	mitochondrial tRNA pseudouridine27/28 synthase
+Pus2 protein	5.4.99.44	mitochondrial tRNA pseudouridine27/28 synthase
+mitochondrial-specific tRNA:Psi-synthase	5.4.99.44	mitochondrial tRNA pseudouridine27/28 synthase
+Deg1p	5.4.99.45	tRNA pseudouridine38/39 synthase
+Pus3p	5.4.99.45	tRNA pseudouridine38/39 synthase
+Deg1	5.4.99.45	tRNA pseudouridine38/39 synthase
+mPus3p	5.4.99.45	tRNA pseudouridine38/39 synthase
+pseudouridine synthase 3	5.4.99.45	tRNA pseudouridine38/39 synthase
+Oxidosqualene cyclase	5.4.99.46	shionone synthase
+OSC	5.4.99.46	shionone synthase
+SHS	5.4.99.46	shionone synthase
+shionone synthase	5.4.99.46	shionone synthase
+Oxidosqualene-lanosterol cyclase	5.4.99.47	parkeol synthase
+lanosterol-synthase mutant T384Y	5.4.99.47	parkeol synthase
+lanosterol-synthase mutant T384Y/V454I	5.4.99.47	parkeol synthase
+lanosterol-synthase mutant T384Y/V454L	5.4.99.47	parkeol synthase
+oxidosqualene-lanosterol cyclase mutant H234Y	5.4.99.47	parkeol synthase
+ERG7H234Y	5.4.99.47	parkeol synthase
+CAS1Ile481Val	5.4.99.47	parkeol synthase
+cycloartenol synthase 1 mutant I481V	5.4.99.47	parkeol synthase
+ERG7	5.4.99.47	parkeol synthase
+cycloartenol synthase mutant H477N	5.4.99.47	parkeol synthase
+cycloartenol synthase mutant H477Q	5.4.99.47	parkeol synthase
+oxidosqualene cyclase 7 mutant N478H/V482I	5.4.99.47	parkeol synthase
+AK066327	5.4.99.47	parkeol synthase
+oxidosqualene:lanosterol cyclase	5.4.99.47	parkeol synthase
+OSLC	5.4.99.47	parkeol synthase
+OSPC	5.4.99.47	parkeol synthase
+AK070534	5.4.99.48	achilleol B synthase
+GLS	5.4.99.49	glutinol synthase
+Mutase, chorismate	5.4.99.5	Chorismate mutase
+4-Amino-4-deoxychorismate mutase	5.4.99.5	Chorismate mutase
+P protein	5.4.99.5	Chorismate mutase
+CM0819	5.4.99.5	Chorismate mutase
+MtCM	5.4.99.5	Chorismate mutase
+Mycobacterium tuberculosis H37Rv chorismate mutase	5.4.99.5	Chorismate mutase
+Mycobacterium tuberculosis chorismate mutase	5.4.99.5	Chorismate mutase
+MtbCM	5.4.99.5	Chorismate mutase
+Rv0948c	5.4.99.5	Chorismate mutase
+BsCM	5.4.99.5	Chorismate mutase
+Bacillus subtilis chorismate mutase	5.4.99.5	Chorismate mutase
+CM	5.4.99.5	Chorismate mutase
+chorismate mutase	5.4.99.5	Chorismate mutase
+MjCM	5.4.99.5	Chorismate mutase
+TtCM	5.4.99.5	Chorismate mutase
+MI-CM-1	5.4.99.5	Chorismate mutase
+MI-CM-2	5.4.99.5	Chorismate mutase
+AroQ	5.4.99.5	Chorismate mutase
+CM/PDT/PDHG	5.4.99.5	Chorismate mutase
+90-MtCM	5.4.99.5	Chorismate mutase
+105-MtCM	5.4.99.5	Chorismate mutase
+Chorismate mutase/prephenate dehydratase	5.4.99.5	Chorismate mutase
+P-protein	5.4.99.5	Chorismate mutase
+EcCM	5.4.99.5	Chorismate mutase
+EcCM-R	5.4.99.5	Chorismate mutase
+PheA	5.4.99.5	Chorismate mutase
+CM-TyrAp	5.4.99.5	Chorismate mutase
+chorismate mutase-prephenate dehydrogenase	5.4.99.5	Chorismate mutase
+CM-prephenate dehydratase	5.4.99.5	Chorismate mutase
+CM/PDT	5.4.99.5	Chorismate mutase
+y2828	5.4.99.5	Chorismate mutase
+CM-1	5.4.99.5	Chorismate mutase
+CM2	5.4.99.5	Chorismate mutase
+YCM	5.4.99.5	Chorismate mutase
+chorismate mutase 1	5.4.99.5	Chorismate mutase
+CM1	5.4.99.5	Chorismate mutase
+OSC	5.4.99.50	friedelin synthase
+BOS	5.4.99.51	baccharis oxide synthase
+At1g78500	5.4.99.52	alpha-seco-amyrin synthase
+At5g42600	5.4.99.53	marneral synthase
+MRN1	5.4.99.53	marneral synthase
+marneral synthase 1	5.4.99.53	marneral synthase
+At1g78500	5.4.99.54	beta-seco-amyrin synthase
+SlTTS2	5.4.99.55	delta-amyrin synthase
+PEN3	5.4.99.56	tirucalladienol synthase
+At5g36150	5.4.99.56	tirucalladienol synthase
+LUP5	5.4.99.56	tirucalladienol synthase
+tirucalla-7,24-dien-3beta-ol synthase	5.4.99.56	tirucalladienol synthase
+BARS1	5.4.99.57	baruol synthase
+PEN2	5.4.99.57	baruol synthase
+PylB	5.4.99.58	methylornithine synthase
+methylornithine synthase	5.4.99.58	methylornithine synthase
+Fcf2	5.4.99.59	dTDP-fucopyranose mutase
+CbiC	5.4.99.60	cobalt-precorrin-8 methylmutase
+Precorrin isomerase	5.4.99.60	cobalt-precorrin-8 methylmutase
+cobalt-precorrin 8 isomerase	5.4.99.60	cobalt-precorrin-8 methylmutase
+Precorrin isomerase	5.4.99.61	precorrin-8X methylmutase
+Hydrogenobyrinic acid-binding protein	5.4.99.61	precorrin-8X methylmutase
+Gene cbiC precorrin-8x isomerase	5.4.99.61	precorrin-8X methylmutase
+Gene cobH precorrin-8x isomerase	5.4.99.61	precorrin-8X methylmutase
+Mutase, precorrin 8x	5.4.99.61	precorrin-8X methylmutase
+Isomerase, precorrin	5.4.99.61	precorrin-8X methylmutase
+GenBank AE000809-derived protein GI 2621284	5.4.99.61	precorrin-8X methylmutase
+Isomerase, precorrin	5.4.99.61	precorrin-8X methylmutase
+GenBank U67537-derived protein GI 1499765	5.4.99.61	precorrin-8X methylmutase
+CoBH	5.4.99.61	precorrin-8X methylmutase
+RbsD	5.4.99.62	D-ribose pyranase
+FucU	5.4.99.62	D-ribose pyranase
+meaA	5.4.99.63	ethylmalonyl-CoA mutase
+ethylmalonyl-CoA mutase	5.4.99.63	ethylmalonyl-CoA mutase
+Ecm	5.4.99.63	ethylmalonyl-CoA mutase
+ethylmalonyl coenzyme A mutase	5.4.99.63	ethylmalonyl-CoA mutase
+hcmAB	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+2-hydroxyisobutyryl-CoA mutase	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+HcmA	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+HcmB	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+HCM	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+RcmA	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+RcmB	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+Btus_0469	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+Btus_0470	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+2,3-Epoxysqualene-lanosterol cyclase	5.4.99.7	Lanosterol synthase
+2,3-Oxidosqualene-lanosterol cyclase	5.4.99.7	Lanosterol synthase
+2,3-Epoxysqualene lanosterol-cyclase	5.4.99.7	Lanosterol synthase
+2,3-Oxidosqualene sterol cyclase	5.4.99.7	Lanosterol synthase
+Cyclase, 2,3-oxidosqualene-lanosterol	5.4.99.7	Lanosterol synthase
+Lanosterol 2,3-oxidosqualene cyclase	5.4.99.7	Lanosterol synthase
+Squalene 2,3-oxide-lanosterol cyclase	5.4.99.7	Lanosterol synthase
+Squalene epoxidase-cyclase	5.4.99.7	Lanosterol synthase
+Squalene-2,3-oxide-lanosterol cyclase	5.4.99.7	Lanosterol synthase
+Squalene 2,3-epoxide:lanosterol cyclase	5.4.99.7	Lanosterol synthase
+2,3-epoxysqualene--lanosterol cyclase	5.4.99.7	Lanosterol synthase
+Oxidosqualene--lanosterol cyclase	5.4.99.7	Lanosterol synthase
+2,3-Oxidosqualene cyclase	5.4.99.7	Lanosterol synthase
+OSC	5.4.99.7	Lanosterol synthase
+2,3 oxidosqualene:lanosterol cyclase	5.4.99.7	Lanosterol synthase
+OSLC	5.4.99.7	Lanosterol synthase
+hOSC	5.4.99.7	Lanosterol synthase
+2,3-oxidosqualene:lanosterol cyclase	5.4.99.7	Lanosterol synthase
+2,3-oxidosqualene cyclase-lanosterol synthase	5.4.99.7	Lanosterol synthase
+oxidosqualene:lanosterol cyclase	5.4.99.7	Lanosterol synthase
+lanosterol synthase	5.4.99.7	Lanosterol synthase
+Oxidosqualene cyclase	5.4.99.7	Lanosterol synthase
+Erg7p	5.4.99.7	Lanosterol synthase
+Oxidosqualene-lanosterol cyclase	5.4.99.7	Lanosterol synthase
+SceOSC	5.4.99.7	Lanosterol synthase
+oxidosqualene cyclase/lanosterol synthase	5.4.99.7	Lanosterol synthase
+ERG7	5.4.99.7	Lanosterol synthase
+LAS1	5.4.99.7	Lanosterol synthase
+LAS	5.4.99.7	Lanosterol synthase
+2,3-Epoxysqualene cycloartenol-cyclase	5.4.99.8	Cycloartenol synthase
+Cyclase, 2,3-oxidosqualene-cycloartenol	5.4.99.8	Cycloartenol synthase
+2,3-Epoxysqualene-cycloartenol cyclase	5.4.99.8	Cycloartenol synthase
+2,3-Oxidosqualene-cycloartenol cyclase	5.4.99.8	Cycloartenol synthase
+2,3-Oxidosqualene cycloartenol cyclase	5.4.99.8	Cycloartenol synthase
+2,3-Oxidosqualene:cycloartenol cyclase	5.4.99.8	Cycloartenol synthase
+2,3-epoxysqualene--cycloartenol cyclase	5.4.99.8	Cycloartenol synthase
+Oxidosqualene cyclase	5.4.99.8	Cycloartenol synthase
+OSC	5.4.99.8	Cycloartenol synthase
+CaCYS	5.4.99.8	Cycloartenol synthase
+ACX	5.4.99.8	Cycloartenol synthase
+PNX	5.4.99.8	Cycloartenol synthase
+OSC/CS	5.4.99.8	Cycloartenol synthase
+CAS1	5.4.99.8	Cycloartenol synthase
+AthCAS1	5.4.99.8	Cycloartenol synthase
+AtCAS1	5.4.99.8	Cycloartenol synthase
+cycloartenol synthase 1	5.4.99.8	Cycloartenol synthase
+CAS	5.4.99.8	Cycloartenol synthase
+cycloartenol synthase	5.4.99.8	Cycloartenol synthase
+Mutase, uridine diphosphogalactopyranose	5.4.99.9	UDP-galactopyranose mutase
+UDP-Gal mutase	5.4.99.9	UDP-galactopyranose mutase
+UGM	5.4.99.9	UDP-galactopyranose mutase
+UDP-galactopyranose mutase	5.4.99.9	UDP-galactopyranose mutase
+mutase	5.4.99.9	UDP-galactopyranose mutase
+UNGM	5.4.99.9	UDP-galactopyranose mutase
+uridine 5'-diphosphate galactopyranose mutase	5.4.99.9	UDP-galactopyranose mutase
+uridine 5'-diphosphate galactopyranosemutase	5.4.99.9	UDP-galactopyranose mutase
+UgmA	5.4.99.9	UDP-galactopyranose mutase
+GLF-1	5.4.99.9	UDP-galactopyranose mutase
+GLF gene product	5.4.99.9	UDP-galactopyranose mutase
+UDP-Galp mutase	5.4.99.9	UDP-galactopyranose mutase
+UDP-D-galactopyranose mutase	5.4.99.9	UDP-galactopyranose mutase
+Glf	5.4.99.9	UDP-galactopyranose mutase
+galactopyranose mutase	5.4.99.9	UDP-galactopyranose mutase
+Muconate cycloisomerase I	5.5.1.1	Muconate cycloisomerase
+Isomerase, muconate cyclo-	5.5.1.1	Muconate cycloisomerase
+cis,cis-Muconate-lactonizing enzyme	5.5.1.1	Muconate cycloisomerase
+cis,cis-Muconate cycloisomerase	5.5.1.1	Muconate cycloisomerase
+Enzymes, muconate-lactonizing	5.5.1.1	Muconate cycloisomerase
+TcMLE	5.5.1.1	Muconate cycloisomerase
+MC	5.5.1.1	Muconate cycloisomerase
+MLEI	5.5.1.1	Muconate cycloisomerase
+MLE-2	5.5.1.1	Muconate cycloisomerase
+anti-MLE	5.5.1.1	Muconate cycloisomerase
+cis,cis-muconate lactonizing enzyme	5.5.1.1	Muconate cycloisomerase
+MLE	5.5.1.1	Muconate cycloisomerase
+Muconate lactonizing enzyme	5.5.1.1	Muconate cycloisomerase
+2-chloromuconate cycloisomerase	5.5.1.1	Muconate cycloisomerase
+Rho-2-CMCI	5.5.1.1	Muconate cycloisomerase
+MC O	5.5.1.1	Muconate cycloisomerase
+MC II	5.5.1.1	Muconate cycloisomerase
+MLE-1	5.5.1.1	Muconate cycloisomerase
+syn-MLE	5.5.1.1	Muconate cycloisomerase
+MCIccaB	5.5.1.1	Muconate cycloisomerase
+muconate cycloisomerase	5.5.1.1	Muconate cycloisomerase
+MCI	5.5.1.1	Muconate cycloisomerase
+MCIase	5.5.1.1	Muconate cycloisomerase
+ADP1	5.5.1.1	Muconate cycloisomerase
+lyase, alpha-pinene oxide	5.5.1.10	alpha-pinene-oxide decyclase
+alpha-pinene oxide lyase	5.5.1.10	alpha-pinene-oxide decyclase
+isomerase, dichloromuconate cyclo-	5.5.1.11	dichloromuconate cycloisomerase
+dichloromuconate cycloisomerase	5.5.1.11	dichloromuconate cycloisomerase
+more	5.5.1.11	dichloromuconate cycloisomerase
+cyclase, abietadiene	5.5.1.12	copalyl diphosphate synthase
+abietadiene cyclase	5.5.1.12	copalyl diphosphate synthase
+AGAS	5.5.1.12	copalyl diphosphate synthase
+abietadiene synthase	5.5.1.12	copalyl diphosphate synthase
+bifunctional diterpene cyclase	5.5.1.12	copalyl diphosphate synthase
+BDTC	5.5.1.12	copalyl diphosphate synthase
+LAS1	5.5.1.12	copalyl diphosphate synthase
+LAS	5.5.1.12	copalyl diphosphate synthase
+class II diTPS	5.5.1.12	copalyl diphosphate synthase
+class II diterpene synthase	5.5.1.12	copalyl diphosphate synthase
+bifunctional LAS-type diTPS	5.5.1.12	copalyl diphosphate synthase
+levopimaradiene/abietadiene synthase-type diTPS	5.5.1.12	copalyl diphosphate synthase
+isopimaradiene synthase-type diTPS	5.5.1.12	copalyl diphosphate synthase
+ISO	5.5.1.12	copalyl diphosphate synthase
+TPS2	5.5.1.12	copalyl diphosphate synthase
+ent-kaurene synthase A	5.5.1.13	ent-copalyl diphosphate synthase
+ent-kaurene synthetase A	5.5.1.13	ent-copalyl diphosphate synthase
+CPS2	5.5.1.13	ent-copalyl diphosphate synthase
+CPS3	5.5.1.13	ent-copalyl diphosphate synthase
+CPS1	5.5.1.13	ent-copalyl diphosphate synthase
+OsCPS1ent	5.5.1.13	ent-copalyl diphosphate synthase
+OsCPS1	5.5.1.13	ent-copalyl diphosphate synthase
+CPS2/Cyc2	5.5.1.13	ent-copalyl diphosphate synthase
+copalyl diphosphate synthase/ent-kaurene synthase	5.5.1.13	ent-copalyl diphosphate synthase
+copalyl synthase/kaurene synthase	5.5.1.13	ent-copalyl diphosphate synthase
+CPS/KS	5.5.1.13	ent-copalyl diphosphate synthase
+GfCPS/KS	5.5.1.13	ent-copalyl diphosphate synthase
+ent-copylyl diphosphate synthase/ent-kaurene synthase	5.5.1.13	ent-copalyl diphosphate synthase
+OsCPS2ent	5.5.1.13	ent-copalyl diphosphate synthase
+OsCyc2	5.5.1.13	ent-copalyl diphosphate synthase
+ent-copalyl/ent-kaurene synthase	5.5.1.13	ent-copalyl diphosphate synthase
+ent-CPS	5.5.1.13	ent-copalyl diphosphate synthase
+CPS	5.5.1.13	ent-copalyl diphosphate synthase
+syn-copalyl diphosphate lyase	5.5.1.14	syn-copalyl-diphosphate synthase
+OsCPSsyn	5.5.1.14	syn-copalyl-diphosphate synthase
+syn-copalyl diphosphate synthase	5.5.1.14	syn-copalyl-diphosphate synthase
+syn-CDP synthase	5.5.1.14	syn-copalyl-diphosphate synthase
+OsCyc1	5.5.1.14	syn-copalyl-diphosphate synthase
+Cyc1	5.5.1.15	terpentedienyl-diphosphate synthase
+HPS	5.5.1.16	halimadienyl-diphosphate synthase
+TPS6	5.5.1.17	(S)-beta-macrocarpene synthase
+terpene synthase 6	5.5.1.17	(S)-beta-macrocarpene synthase
+TPS11	5.5.1.17	(S)-beta-macrocarpene synthase
+terpene synthase 11	5.5.1.17	(S)-beta-macrocarpene synthase
+lycopene epsilon cyclase	5.5.1.18	lycopene epsilon-cyclase
+LCY-E	5.5.1.18	lycopene epsilon-cyclase
+CrtL-e	5.5.1.18	lycopene epsilon-cyclase
+lycopene bi-epsilon-cyclase	5.5.1.18	lycopene epsilon-cyclase
+LCYe	5.5.1.18	lycopene epsilon-cyclase
+epsilon lycopene cyclase	5.5.1.18	lycopene epsilon-cyclase
+epsilon-LCY	5.5.1.18	lycopene epsilon-cyclase
+epsilon-ionone-forming lycopene cyclase	5.5.1.18	lycopene epsilon-cyclase
+OsLCYe	5.5.1.18	lycopene epsilon-cyclase
+CrtL-b	5.5.1.19	lycopene beta-cyclase
+lycopene beta cyclase	5.5.1.19	lycopene beta-cyclase
+LCY-B	5.5.1.19	lycopene beta-cyclase
+beta-LCY	5.5.1.19	lycopene beta-cyclase
+CrtL	5.5.1.19	lycopene beta-cyclase
+CruA	5.5.1.19	lycopene beta-cyclase
+SSO2904	5.5.1.19	lycopene beta-cyclase
+lycopene cyclase	5.5.1.19	lycopene beta-cyclase
+LCYb	5.5.1.19	lycopene beta-cyclase
+LYCB	5.5.1.19	lycopene beta-cyclase
+lycopene beta-cyclase 1	5.5.1.19	lycopene beta-cyclase
+DcLCYB1	5.5.1.19	lycopene beta-cyclase
+CrtY	5.5.1.19	lycopene beta-cyclase
+CrtL-e	5.5.1.19	lycopene beta-cyclase
+capsanthin-capsorubin synthase	5.5.1.19	lycopene beta-cyclase
+CCS	5.5.1.19	lycopene beta-cyclase
+CruP	5.5.1.19	lycopene beta-cyclase
+LCY	5.5.1.19	lycopene beta-cyclase
+Isomerase, 3-carboxy-cis, cis-muconate cyclo-	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+beta-Carboxymuconate lactonizing enzyme	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+3-Carboxymuconolactone hydrolase	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+beta-Carboxy-cis,cis-muconate lactonizing enzyme	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+3-Carboxy-cis-cis-muconate cycloisomerase	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+3-carboxymuconate lactonizing enzyme	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+2-chloromuconate cycloisomerase	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+MLE	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+3-Carboxy-cis,cis-muconate lactonizing enzyme	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+PpgL	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+PA4204 protein	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+CMLE	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+PpCMLE	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+SPS	5.5.1.20	prosolanapyrone-III cycloisomerase
+Sol5	5.5.1.20	prosolanapyrone-III cycloisomerase
+solanapyrone synthase	5.5.1.20	prosolanapyrone-III cycloisomerase
+SpnF	5.5.1.20	prosolanapyrone-III cycloisomerase
+bornyl pyrophosphate synthase	5.5.1.22	(-)-bornyl diphosphate synthase
+bornyl pyrophosphate synthetase	5.5.1.22	(-)-bornyl diphosphate synthase
+DnrD	5.5.1.23	aklanonic acid methyl ester cyclase
+AAMEcyclase	5.5.1.23	aklanonic acid methyl ester cyclase
+DauD	5.5.1.23	aklanonic acid methyl ester cyclase
+AAME cyclase	5.5.1.23	aklanonic acid methyl ester cyclase
+methyl aklanonate cyclase	5.5.1.23	aklanonic acid methyl ester cyclase
+AcmA	5.5.1.23	aklanonic acid methyl ester cyclase
+AknH	5.5.1.23	aklanonic acid methyl ester cyclase
+TC/VTE1	5.5.1.24	tocopherol cyclase
+VTE1	5.5.1.24	tocopherol cyclase
+slr1737	5.5.1.24	tocopherol cyclase
+SXD1	5.5.1.24	tocopherol cyclase
+DMPQ cyclase	5.5.1.24	tocopherol cyclase
+2,3-dimethyl-5-phytyl-1,4-hydroquinone cyclase	5.5.1.24	tocopherol cyclase
+AHGA cycloisomerase	5.5.1.25	3,6-anhydro-L-galactonate cycloisomerase
+3,6-anhydrogalactonate cycloisomerase	5.5.1.25	3,6-anhydro-L-galactonate cycloisomerase
+VejACI	5.5.1.25	3,6-anhydro-L-galactonate cycloisomerase
+SnoaL	5.5.1.26	nogalonic acid methyl ester cyclase
+methyl nogalonate cyclase	5.5.1.26	nogalonic acid methyl ester cyclase
+GCI	5.5.1.27	D-galactarolactone cycloisomerase
+galactarolactone cycloisomerase	5.5.1.27	D-galactarolactone cycloisomerase
+Isomerase, tetrahydroxypteridine cyclo-	5.5.1.3	Tetrahydroxypteridine cycloisomerase
+D-Glucose 6-phosphate cycloaldolase	5.5.1.4	inositol-3-phosphate synthase
+D-Glucose 6-phosphate-1L-myoinositol 1-phosphate cycloaldolase	5.5.1.4	inositol-3-phosphate synthase
+D-Glucose 6-phosphate-1L-myoinositol 1-phosphate cyclase	5.5.1.4	inositol-3-phosphate synthase
+D-Glucose 6-phosphate-L-myo-inositol 1-phosphate cyclase	5.5.1.4	inositol-3-phosphate synthase
+D-Glucose-6-phosphate,L-myo-inositol-1-phosphate cycloaldolase	5.5.1.4	inositol-3-phosphate synthase
+Glucocycloaldolase	5.5.1.4	inositol-3-phosphate synthase
+Glucose 6-phosphate cyclase	5.5.1.4	inositol-3-phosphate synthase
+Glucose-6-phosphate inositol monophosphate cycloaldolase	5.5.1.4	inositol-3-phosphate synthase
+Inositol 1-phosphate synthetase	5.5.1.4	inositol-3-phosphate synthase
+INPS1	5.5.1.4	inositol-3-phosphate synthase
+L-myo-Inositol 1-phosphate synthetase	5.5.1.4	inositol-3-phosphate synthase
+MI-1-P synthase	5.5.1.4	inositol-3-phosphate synthase
+Synthase, myo-inositol 1-phosphate	5.5.1.4	inositol-3-phosphate synthase
+myo-Inositol-1-P synthase	5.5.1.4	inositol-3-phosphate synthase
+1,9,12,13,14,15,16,17,18,20,23,29,30,35,38,39,41,43,44,46,54,56,57,58	5.5.1.4	inositol-3-phosphate synthase
+myo-inositol	5.5.1.4	inositol-3-phosphate synthase
+Inositol 1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+INS	5.5.1.4	inositol-3-phosphate synthase
+SaINO1	5.5.1.4	inositol-3-phosphate synthase
+AtMIPS1	5.5.1.4	inositol-3-phosphate synthase
+L-myo-inositol 1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+iNOS	5.5.1.4	inositol-3-phosphate synthase
+Myo-inositol-1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+tbINO	5.5.1.4	inositol-3-phosphate synthase
+[Ins	5.5.1.4	inositol-3-phosphate synthase
+OsMIPS1	5.5.1.4	inositol-3-phosphate synthase
+OsMIPS1-3	5.5.1.4	inositol-3-phosphate synthase
+RINO1 protein	5.5.1.4	inositol-3-phosphate synthase
+sll1981	5.5.1.4	inositol-3-phosphate synthase
+IPS	5.5.1.4	inositol-3-phosphate synthase
+inositol-1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+IP synthase	5.5.1.4	inositol-3-phosphate synthase
+myo-inositol 1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+MIP synthase	5.5.1.4	inositol-3-phosphate synthase
+1D-myo-inositol 3-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+PcINO1	5.5.1.4	inositol-3-phosphate synthase
+inositol-3-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+L-myo-Inositol-1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+PINO1 protein	5.5.1.4	inositol-3-phosphate synthase
+OsMIPS1-1	5.5.1.4	inositol-3-phosphate synthase
+OsMIPS1-2	5.5.1.4	inositol-3-phosphate synthase
+OsMIPS2	5.5.1.4	inositol-3-phosphate synthase
+INO-1	5.5.1.4	inositol-3-phosphate synthase
+INPS	5.5.1.4	inositol-3-phosphate synthase
+myo-inositol-3-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+MIPS2	5.5.1.4	inositol-3-phosphate synthase
+CaMIPS2	5.5.1.4	inositol-3-phosphate synthase
+CaMIPS1	5.5.1.4	inositol-3-phosphate synthase
+MIPS1	5.5.1.4	inositol-3-phosphate synthase
+AtMIPS2-1	5.5.1.4	inositol-3-phosphate synthase
+inositol phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+D-myo-inositol-3-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+AtMIPS3	5.5.1.4	inositol-3-phosphate synthase
+INO-2	5.5.1.4	inositol-3-phosphate synthase
+1L-myo-Inositol-1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+yMIP synthase	5.5.1.4	inositol-3-phosphate synthase
+INO1	5.5.1.4	inositol-3-phosphate synthase
+inositol 3-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+Ino1p	5.5.1.4	inositol-3-phosphate synthase
+TaMIPS2	5.5.1.4	inositol-3-phosphate synthase
+TaMIPS1	5.5.1.4	inositol-3-phosphate synthase
+Cyclase, carboxy-cis,cis-muconate-	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+3-Carboxymuconate cyclase	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+3-Carboxy-cis-cis-muconate cyclase	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+3-carboxy-5-oxo-2,5-dihydrofuran-2-acetate	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+3-Carboxy-cis,cis-muconate lactonizing enzyme	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+CMLE	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+Isomerase, chalcone	5.5.1.6	chalcone isomerase
+Chalcone-flavanone isomerase	5.5.1.6	chalcone isomerase
+TRANSPARENT TESTA 5 protein	5.5.1.6	chalcone isomerase
+SlCHI1	5.5.1.6	chalcone isomerase
+Chi-1	5.5.1.6	chalcone isomerase
+2,3,4,5,11,12,13,18,33,34,35,36,38,39,41,49,50,51,52,53,54,55,56,57	5.5.1.6	chalcone isomerase
+MpCHI	5.5.1.6	chalcone isomerase
+Chalcone isomerase	5.5.1.6	chalcone isomerase
+CHI1A	5.5.1.6	chalcone isomerase
+CHI1B2	5.5.1.6	chalcone isomerase
+CHI2	5.5.1.6	chalcone isomerase
+Muconate cycloisomerase II	5.5.1.7	Chloromuconate cycloisomerase
+Isomerase, chloromuconate cyclo-	5.5.1.7	Chloromuconate cycloisomerase
+2CMA-cycloisomerase	5.5.1.7	Chloromuconate cycloisomerase
+MLE II	5.5.1.7	Chloromuconate cycloisomerase
+CMC	5.5.1.7	Chloromuconate cycloisomerase
+2-chloro-5-oxo-2,5-dihydrofuran-2-acetate lyase	5.5.1.7	Chloromuconate cycloisomerase
+2-chloromuconate cycloisomerase	5.5.1.7	Chloromuconate cycloisomerase
+Rho-2-CMCl	5.5.1.7	Chloromuconate cycloisomerase
+CMCI	5.5.1.7	Chloromuconate cycloisomerase
+Synthetase, bornyl pyrophosphate	5.5.1.8	(+)-bornyl diphosphate synthase
+bornyl pyrophosphate synthase	5.5.1.8	(+)-bornyl diphosphate synthase
+bornyl pyrophosphate synthetase	5.5.1.8	(+)-bornyl diphosphate synthase
+Geranyl pyrophosphate:	5.5.1.8	(+)-bornyl diphosphate synthase
+Geranyl pyrophosphate:	5.5.1.8	(+)-bornyl diphosphate synthase
+geranyl-diphosphate cyclase	5.5.1.8	(+)-bornyl diphosphate synthase
+BPS	5.5.1.8	(+)-bornyl diphosphate synthase
+BPPS	5.5.1.8	(+)-bornyl diphosphate synthase
+Cycloeucalenol-obtusifoliol isomerase	5.5.1.9	Cycloeucalenol cycloisomerase
+Isomerase, cycloeucalenol-obtusifoliol	5.5.1.9	Cycloeucalenol cycloisomerase
+Cycloeucalenol isomerase	5.5.1.9	Cycloeucalenol cycloisomerase
+Cycloeucalenol--obtusifoliol isomerase	5.5.1.9	Cycloeucalenol cycloisomerase
+Cyclopropyl sterol isomerase	5.5.1.9	Cycloeucalenol cycloisomerase
+Atcpi	5.5.1.9	Cycloeucalenol cycloisomerase
+Isomerase, thiocyanate	5.99.1.1	Thiocyanate isomerase
+Isothiocyanic isomerase	5.99.1.1	Thiocyanate isomerase
+Isomerase, deoxiribonucleate topo-	5.99.1.2	DNA topoisomerase
+Topoisomerase	5.99.1.2	DNA topoisomerase
+Swivelase	5.99.1.2	DNA topoisomerase
+Untwisting enzyme	5.99.1.2	DNA topoisomerase
+Relaxing enzyme	5.99.1.2	DNA topoisomerase
+Nicking-closing enzyme	5.99.1.2	DNA topoisomerase
+omega-Protein	5.99.1.2	DNA topoisomerase
+Deoxiribonucleate topoisomerase	5.99.1.2	DNA topoisomerase
+Deoxiribonucleic topoisomerase	5.99.1.2	DNA topoisomerase
+TpI	5.99.1.2	DNA topoisomerase
+Late protein H6	5.99.1.2	DNA topoisomerase
+TOP1mt	5.99.1.2	DNA topoisomerase
+Top1p	5.99.1.2	DNA topoisomerase
+yeastTop1	5.99.1.2	DNA topoisomerase
+yeast DNA topoisomerase I	5.99.1.2	DNA topoisomerase
+DNA topoisomerase I-B	5.99.1.2	DNA topoisomerase
+topo IB	5.99.1.2	DNA topoisomerase
+type I topoisomerase	5.99.1.2	DNA topoisomerase
+MsTopA	5.99.1.2	DNA topoisomerase
+bcTopo I	5.99.1.2	DNA topoisomerase
+MtbTopA	5.99.1.2	DNA topoisomerase
+MtTOP1	5.99.1.2	DNA topoisomerase
+LdTOP1L	5.99.1.2	DNA topoisomerase
+LdTOP1S	5.99.1.2	DNA topoisomerase
+bi-subunit topoisomerase I	5.99.1.2	DNA topoisomerase
+LdTOP1LS	5.99.1.2	DNA topoisomerase
+LdTop1	5.99.1.2	DNA topoisomerase
+Type I DNA topoisomerase	5.99.1.2	DNA topoisomerase
+Topo I	5.99.1.2	DNA topoisomerase
+DNA topoisomerase	5.99.1.2	DNA topoisomerase
+vTopo	5.99.1.2	DNA topoisomerase
+type IB topoisomerase	5.99.1.2	DNA topoisomerase
+Vaccinia DNA topoisomerase I	5.99.1.2	DNA topoisomerase
+DNA topoisomerase type I	5.99.1.2	DNA topoisomerase
+PfTopI	5.99.1.2	DNA topoisomerase
+PfTopoI	5.99.1.2	DNA topoisomerase
+YTOP	5.99.1.2	DNA topoisomerase
+Reverse gyrase	5.99.1.2	DNA topoisomerase
+TopR1	5.99.1.2	DNA topoisomerase
+SsTop3	5.99.1.2	DNA topoisomerase
+topoisomerase V	5.99.1.2	DNA topoisomerase
+topo V	5.99.1.2	DNA topoisomerase
+type IB topoisomerase V	5.99.1.2	DNA topoisomerase
+CrTop1	5.99.1.2	DNA topoisomerase
+Bi-subunit topoisomerase IB	5.99.1.2	DNA topoisomerase
+Dam DNA topoisomerase III	5.99.1.2	DNA topoisomerase
+ATP-independent type I topoisomerase	5.99.1.2	DNA topoisomerase
+OpTop1	5.99.1.2	DNA topoisomerase
+Ca-Top1	5.99.1.2	DNA topoisomerase
+MimiTopIB	5.99.1.2	DNA topoisomerase
+variola topoisomerase IB	5.99.1.2	DNA topoisomerase
+Poxviridae topoisomerase IB	5.99.1.2	DNA topoisomerase
+topoisomerase IIIbeta	5.99.1.2	DNA topoisomerase
+bcTopo IIIbeta	5.99.1.2	DNA topoisomerase
+mTopoI	5.99.1.2	DNA topoisomerase
+YpTOP	5.99.1.2	DNA topoisomerase
+OlTop1	5.99.1.2	DNA topoisomerase
+topoisomerase 1	5.99.1.2	DNA topoisomerase
+Top1	5.99.1.2	DNA topoisomerase
+OjTop1	5.99.1.2	DNA topoisomerase
+AtTop1	5.99.1.2	DNA topoisomerase
+type IA DNA topoisomerase	5.99.1.2	DNA topoisomerase
+LdTopIIIbeta	5.99.1.2	DNA topoisomerase
+DNA topoisomerase III	5.99.1.2	DNA topoisomerase
+topoisomerase IV	5.99.1.2	DNA topoisomerase
+topoIV	5.99.1.2	DNA topoisomerase
+EcTOP	5.99.1.2	DNA topoisomerase
+ETOP	5.99.1.2	DNA topoisomerase
+topoisomerase I homolog	5.99.1.2	DNA topoisomerase
+YrdD	5.99.1.2	DNA topoisomerase
+TopA	5.99.1.2	DNA topoisomerase
+type IA topoisomerase	5.99.1.2	DNA topoisomerase
+topoisomerase III	5.99.1.2	DNA topoisomerase
+MttopoI	5.99.1.2	DNA topoisomerase
+SiRe_1176	5.99.1.2	DNA topoisomerase
+htopo I	5.99.1.2	DNA topoisomerase
+DNA topoisomerase IIIalpha	5.99.1.2	DNA topoisomerase
+topoisomerase IIIalpha	5.99.1.2	DNA topoisomerase
+hTopo IIIalpha	5.99.1.2	DNA topoisomerase
+hTopoI	5.99.1.2	DNA topoisomerase
+TopI	5.99.1.2	DNA topoisomerase
+hTopo	5.99.1.2	DNA topoisomerase
+top I	5.99.1.2	DNA topoisomerase
+human topoisomerase I	5.99.1.2	DNA topoisomerase
+hTop1p	5.99.1.2	DNA topoisomerase
+human DNA topoisomerase I	5.99.1.2	DNA topoisomerase
+HsTop1	5.99.1.2	DNA topoisomerase
+human topo I	5.99.1.2	DNA topoisomerase
+topo 1	5.99.1.2	DNA topoisomerase
+DNA topo I	5.99.1.2	DNA topoisomerase
+HssTopoI	5.99.1.2	DNA topoisomerase
+hTopI	5.99.1.2	DNA topoisomerase
+DNA Top IB	5.99.1.2	DNA topoisomerase
+DNA topoisomerase 1	5.99.1.2	DNA topoisomerase
+topoI	5.99.1.2	DNA topoisomerase
+topoisomerase IB	5.99.1.2	DNA topoisomerase
+DNA topoisomerase	5.99.1.2	DNA topoisomerase
+DNA topoisomerase IB	5.99.1.2	DNA topoisomerase
+TopIB	5.99.1.2	DNA topoisomerase
+human Top1	5.99.1.2	DNA topoisomerase
+Isomerase, deoxyribonucleate topo-, II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA topoisomerase type II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Topoisomerase type II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Type II-DNA-topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+NP170 proteins	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Nuclear proteins 170,000-mol.wt.	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Proteins , NP170	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Protein Gp39	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Protein Gp52	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Protein Gp60	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+PsTopII	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topo II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Topoisomerase II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoisomerase IV	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topo IV	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+MmT6	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoVI	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoisomerase VI	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoVI-B	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+top6B	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topR	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+More	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA topoisomerases II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+toposiomerase II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topo II alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA topoisomerase IIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA Topo II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoisomerase 2 alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topIIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA-topoisomerase II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topo-IIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA topo IIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA topoisomerase II alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA topoisomerase II beta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+type IIalpha DNA topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA-topoisomerase II-alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topo II-alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNATop2A	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+deoxyribonucleic acid topoisomerase IIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+TOPOII	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Top2alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+type II topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+type II DNA topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoisomerase II alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+type IIA topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+TopoNM	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoisomerase IIA	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Topo IIA	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA topoisomerase II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+TOP2mt	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoisomerase-II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Reverse gyrase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+type I topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+TopII	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+TopR1	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+TopR2	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topo VI	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA topoisomerase VI	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoIV	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA topoisomerase IV	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+5,7,10,19,21,23,25,26,27,28,29,32,33,34,35,37,44,51,52,54,55,56,61,62	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA gyrase-B	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+ATP-dependent type I 5'-topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+top2a	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Top2b	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+GyrA	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+ATP-dependent topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+hTopoIIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topo2alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+SsT6	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoIIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Topo IIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoIIbeta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA topoisomerase IIbeta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA Top IIbeta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Topo IIbeta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoisomerase IIbeta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoisomerase IIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Top2	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+2HC2CA isomerase	5.99.1.4	2-hydroxychromene-2-carboxylate isomerase
+2HCCAI	5.99.1.4	2-hydroxychromene-2-carboxylate isomerase
+2-hydroxychromene-2-carboxylate isomerase	5.99.1.4	2-hydroxychromene-2-carboxylate isomerase
+nsaD	5.99.1.4	2-hydroxychromene-2-carboxylate isomerase
+2-hydroxychromene-2-carboxylic acid isomerase	5.99.1.4	2-hydroxychromene-2-carboxylate isomerase
+HCCA isomerase	5.99.1.4	2-hydroxychromene-2-carboxylate isomerase

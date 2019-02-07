@@ -12,6 +12,8 @@ library(shinydashboard)
 library(DT)
 library(shinyjs)
 library(shinyWidgets)
+library(shinyalert)
+library(plotly)
 
 dashboardPage(skin = "green",
   dashboardHeader(title = "Title"),
@@ -19,7 +21,7 @@ dashboardPage(skin = "green",
     sidebarMenu(
       id = "inTabset",
       useShinyjs(),
-      menuItem("Home", tabName = "home", icon = icon("home"),
+      menuItem("Home", tabName = "home", icon = icon("home"), startExpanded = FALSE,
                menuSubItem("Account", tabName = "account", icon = icon("user")),
                menuSubItem("Tutorial", tabName = "help", icon = icon("graduation-cap"))
                ),
@@ -31,18 +33,24 @@ dashboardPage(skin = "green",
                menuSubItem("Parameter Table", tabName = "parameterTable"),
                menuSubItem("Information Available", tabName = "info")
                ),
-      menuItem("Visualization", tabName = "visualization", icon = icon("chart-area"), startExpanded = FALSE,
+      menuItem("Visualization", tabName = "visualization", icon = icon("chart-area"), startExpanded = TRUE,
                menuSubItem("Parameters Found", tabName = "histogram"),
                menuSubItem("Distribution", tabName = "distribution"),
                menuSubItem("Correlation", tabName = "correlation")
                ),
       menuItem("Acknowledgments", tabName = "acknowledgments", icon = icon("award")),
-      menuItem("FAQ", tabName = "faq", icon = icon("question"))
-      
+      menuItem("FAQ", tabName = "faq", icon = icon("question")),
+      tags$hr(),
+      div(style="text-align:center",
+      h3("First time?"),
+      helpText("You can always read"),
+      helpText("the turorial section "),
+      actionLink("help", "here"))
     )
   ),
   dashboardBody(
     useShinyjs(),
+    useShinyalert(),
     tabItems(
       # Log in
       tabItem(tabName = "account",
@@ -61,6 +69,11 @@ dashboardPage(skin = "green",
                    actionButton(inputId = "logOut",
                                 label = "log out",
                                 class = "btn-danger"))
+              ),
+              box(width = 9, height = '70vh',
+                img(src = 'Referential.jpg',
+                    height = '350vh',
+                    style = "display: block; margin-left: auto; margin-right: auto;")
               )
       ),
       
@@ -73,14 +86,57 @@ dashboardPage(skin = "green",
       # Enzyme
       tabItem(tabName = "enzyme",
               box( title = "Select Enzyme", width = 4,
+                   div(style='height:70vh; overflow-y: scroll',
                    h3("Chooce an input"),
                    helpText("The ... app allows multiple type of",
                             "inputs. Such as enter the ec number, ",
                             "write the name of the enzyme or ",
                             "upload a .txt file with UniProt code",
                             "of your enzymes of interest"),
-                   textInput("ec_number", "Enter EC Number"),
-                   actionButton("ecNumber", "Enter", class = "btn-primary")
+                   tags$br(),
+                   h4("Enter EC Number"),
+                   div(style="display: inline-block;vertical-align:top;width: 50px;",
+                   selectizeInput("ec_number1", "",
+                                  choices = read.table("ecNumber\\select.txt",
+                                                       sep = "\t", header = FALSE,
+                                                       col.names = "1")
+                                  )),
+                   div(style="display: inline-block;vertical-align:bottom;width: 2px;",
+                       p(".")),
+                   div(style="display: inline-block;vertical-align:top;width: 50px;",
+                   selectizeInput("ec_number2", "", choices = NULL)),
+                   div(style="display: inline-block;vertical-align:bottom;width: 2px;",
+                       p(".")),
+                   div(style="display: inline-block;vertical-align:top;width: 50px;",
+                   selectizeInput("ec_number3", "", choices = NULL)),
+                   div(style="display: inline-block;vertical-align:bottom;width: 2px;",
+                       p(".")),
+                   div(style="display: inline-block;vertical-align:top;width: 50px;",
+                   selectizeInput("ec_number4", "", choices = NULL)),
+                   tags$br(),
+                   div(style = "float:right",
+                   actionButton("ecNumber", "Enter", class = "btn-primary")),
+                   tags$hr(),
+                   selectInput("subclass", "Now the subclass of the enzyme type?",
+                                  choices = list("Oxidoreductases" = "1",
+                                                 "Transferases" = "2",
+                                                 "Hydrolases" = "3",
+                                                 "Lyases" = "4",
+                                                 "Isomerases" = "5",
+                                                 "Ligases" = "6")),
+                   selectizeInput("enzyme_name", "Select a Name of an Enzyme", choices = NULL),
+                   div(style = "float:right",
+                   actionButton("enzymeName", "Search", class = "btn-primary")),
+                   shinyjs::hidden(
+                     radioButtons("pick", "Which one of these?",
+                                  choices = list("..."))),
+                   div(style = "float:right",
+                   shinyjs::hidden(
+                     actionButton("enzymeNameFinal", "Go", class = "btn-success")
+                   )),
+                   tags$br(),
+                   tags$hr(),
+                   fileInput("uniprot_file", "Upload your uniprot file"))
               )
       ),
       
@@ -88,7 +144,7 @@ dashboardPage(skin = "green",
       tabItem(tabName = "proteinTable",
                 box(title = "Select Parameters", width = 3, height = '80vh',
                     div(style='height:70vh; overflow-y: scroll',
-                    h4('Parameters to be looked up:'),
+                    h4('Parameters to be look up'),
                     div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'mw', label = 'Molecular Weight')),
                     div(style="display: inline-block;vertical-align:top;width: 2vh;", HTML("<br>")),
                     div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'ic50', label = 'IC50 Value')),
@@ -112,15 +168,18 @@ dashboardPage(skin = "green",
                     checkboxInput(inputId = 'up',
                                   label = 'Look up just for the proteins that has UniProt code'
                                   ),
-                    actionButton("parameters", "Search for parameters", class = "btn-primary"),
+                    actionButton("parameters", "Search for parameters", class = "btn-success"),
                     tags$br(),
                     helpText("Here you can obtain numerical parameters",
                              "of the enzymes you want to."))
                 ),
                 box(
                   title = "Protein Table", width = 9,
+                  div(style="display: inline-block;", materialSwitch("allProteins", "Serch for all the list", right = TRUE, value = TRUE, status = "primary")),
+                  div(style="display: inline-block;vertical-align:top;width: 5vh;", HTML("<br>")),
+                  div(style="display: inline-block;",actionButton("toFasta", "Get sequence", class = "btn-success")),
+                  div(style="display: inline-block;",actionButton("toPDB", "Get PDB", class = "btn-success")),
                   tags$br(),
-                  materialSwitch("allProteins", "Serch for all the list", right = TRUE, value = TRUE),
                   tags$br(),
                   div(style='height:60vh; overflow-y: scroll',
                   DTOutput("distProteinTable", height = '60vh'))
@@ -129,21 +188,47 @@ dashboardPage(skin = "green",
       
       # FASTA sequence
       tabItem(tabName = "fasta",
-              h1("FASTA")
+              box(title = "Options", width = 3,
+                  div(style='height:70vh; overflow-y: scroll',
+                      p("Select the proteins you want to download"),
+                      p("or"),
+                      materialSwitch("no_filter", "Download all the list", right = TRUE, value = TRUE),
+                      tags$hr(),
+                      p("There are some sequence that couldn't ",
+                        "find using Brenda",
+                        "What do you want to do about it?"),
+                      tags$br(),
+                      radioButtons("searchFasta", "Search for other database?",
+                                   choices = list("Uniprot from Rcpi" = 1,
+                                                  "Leave it blank" = 0)))
+              ),
+              
+              box(title = "FASTA Sequence", width = 9,
+                  tags$br(),
+                  downloadButton("downloadFASTA", "Download sequence in FASTA format", class = "btn-success"),
+                  tags$br(),
+                  div(style='height:70vh; overflow-y: scroll',
+                  DTOutput("fastaTable"))
+              )
+      
       ),
       
       # PDB
       tabItem(tabName = "pdb",
-              h1("PDB")
+              box(title = "PDB Table", width = 12,
+                  tags$br(),
+                  div(style='height:70vh; overflow-y: scroll',
+                  DTOutput("pdbTable"))
+              )
       ),
       
       # Parameter Table
       tabItem(tabName = "parameterTable",
               box(
-                title = "Filters", width = 3, height = '80vh',
+                title = "Filters", width = 4, height = '80vh',
                 div(style='height:70vh; overflow-y: scroll',
                 conditionalPanel(condition = "input.mw",
-                                 sliderInput("mwFilter", h4("Filter Molecular Weight"),
+                                 sliderInput("mwFilter", h5("Filter Molecular Weight"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -154,7 +239,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.ic50",
-                                 sliderInput("ic50Filter", h4("Filter IC50 Value"),
+                                 sliderInput("ic50Filter", h5("Filter IC50 Value"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -165,7 +250,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.kc",
-                                 sliderInput("kcFilter", h4("Filter Kcat/Km value"),
+                                 sliderInput("kcFilter", h5("Filter Kcat/Km value"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -176,7 +261,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.ki",
-                                 sliderInput("kiFilter", h4("Filter Ki value"),
+                                 sliderInput("kiFilter", h5("Filter Ki value"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -187,7 +272,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.km",
-                                 sliderInput("kmFilter", h4("Filter Km value"),
+                                 sliderInput("kmFilter", h5("Filter Km value"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -198,7 +283,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.pho",
-                                 sliderInput("phoFilter", h4("Filter pH Optimum value"),
+                                 sliderInput("phoFilter", h5("Filter pH Optimum value"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -209,7 +294,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.phr",
-                                 sliderInput("phrFilter", h4("Filter pH Range value"),
+                                 sliderInput("phrFilter", h5("Filter pH Range value"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -220,7 +305,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.pi",
-                                 sliderInput("piFilter", h4("Filter pI value"),
+                                 sliderInput("piFilter", h5("Filter pI value"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -231,7 +316,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.sa",
-                                 sliderInput("saFilter", h4("Filter Specific Activity"),
+                                 sliderInput("saFilter", h5("Filter Specific Activity"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -242,7 +327,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.to",
-                                 sliderInput("toFilter", h4("Filter Temperature Optimum value"),
+                                 sliderInput("toFilter", h5("Filter Temperature Optimum value"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -253,7 +338,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.tr",
-                                 sliderInput("trFilter", h4("Filter Temperature Range value"),
+                                 sliderInput("trFilter", h5("Filter Temperature Range value"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -264,7 +349,7 @@ dashboardPage(skin = "green",
                 ),
                 
                 conditionalPanel(condition = "input.ton",
-                                 sliderInput("tonFilter", h4("Filter TurnOver number"),
+                                 sliderInput("tonFilter", h5("Filter TurnOver number"),
                                              min = 0,
                                              max = 100,
                                              value = c(
@@ -275,7 +360,7 @@ dashboardPage(skin = "green",
                 ))
               ),
               box(
-                title = "Parameter Table", width = 9, height = '80vh',
+                title = "Parameter Table", width = 8, height = '80vh',
                 div(style='height:60vh; overflow-y: scroll',
                 DTOutput("distParameterTable"), height = '60vh')
               )
@@ -288,7 +373,10 @@ dashboardPage(skin = "green",
       
       # Parameters Found show with an Histogram
       tabItem(tabName = "histogram",
-              h1("Parameters Found")
+              box(title = "Parameters Found", width = '100vh',
+                  height = '70vh',
+                  plotlyOutput("histogram")
+              )
       ),
       
       # Distribution
