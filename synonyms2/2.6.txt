@@ -1,0 +1,1083 @@
+synonyms	ec_number	recommended_name
+glutamic-oxaloacetic transaminase	2.6.1.1	aspartate transaminase
+glutamic-aspartic transaminase	2.6.1.1	aspartate transaminase
+transaminase A	2.6.1.1	aspartate transaminase
+AspT	2.6.1.1	aspartate transaminase
+aminotransferase, aspartate	2.6.1.1	aspartate transaminase
+2-oxoglutarate-glutamate aminotransferase	2.6.1.1	aspartate transaminase
+aspartate alpha-ketoglutarate transaminase	2.6.1.1	aspartate transaminase
+aspartate-2-oxoglutarate transaminase	2.6.1.1	aspartate transaminase
+aspartic acid aminotransferase	2.6.1.1	aspartate transaminase
+aspartic aminotransferase	2.6.1.1	aspartate transaminase
+aspartyl aminotransferase	2.6.1.1	aspartate transaminase
+glutamate-oxalacetate aminotransferase	2.6.1.1	aspartate transaminase
+glutamate-oxalate transaminase	2.6.1.1	aspartate transaminase
+glutamic-aspartic aminotransferase	2.6.1.1	aspartate transaminase
+glutamic-oxalacetic transaminase	2.6.1.1	aspartate transaminase
+glutamic oxalic transaminase	2.6.1.1	aspartate transaminase
+GOT	2.6.1.1	aspartate transaminase
+L-aspartate transaminase	2.6.1.1	aspartate transaminase
+L-aspartate-alpha-ketoglutarate transaminase	2.6.1.1	aspartate transaminase
+L-aspartate-2-ketoglutarate aminotransferase	2.6.1.1	aspartate transaminase
+L-aspartate-2-oxoglutarate aminotransferase	2.6.1.1	aspartate transaminase
+L-aspartate-2-oxoglutarate-transaminase	2.6.1.1	aspartate transaminase
+L-aspartic aminotransferase	2.6.1.1	aspartate transaminase
+oxaloacetate-aspartate aminotransferase	2.6.1.1	aspartate transaminase
+oxaloacetate transferase	2.6.1.1	aspartate transaminase
+aspartate:2-oxoglutarate aminotransferase	2.6.1.1	aspartate transaminase
+glutamate oxaloacetate transaminase	2.6.1.1	aspartate transaminase
+AspAT	2.6.1.1	aspartate transaminase
+plastid aspartate aminotransferase	2.6.1.1	aspartate transaminase
+AAT3	2.6.1.1	aspartate transaminase
+Sar2028	2.6.1.1	aspartate transaminase
+aspartate/tyrosine/phenylalanine pyridoxal-5'-phosphate-dependent	2.6.1.1	aspartate transaminase
+aspB	2.6.1.1	aspartate transaminase
+aspartate/	2.6.1.1	aspartate transaminase
+aoa/coa	2.6.1.1	aspartate transaminase
+PfAspAT	2.6.1.1	aspartate transaminase
+AspATSs	2.6.1.1	aspartate transaminase
+SsAspAT	2.6.1.1	aspartate transaminase
+C-S lyase	2.6.1.1	aspartate transaminase
+aspartate	2.6.1.1	aspartate transaminase
+AAT	2.6.1.1	aspartate transaminase
+mitAAT	2.6.1.1	aspartate transaminase
+AST	2.6.1.1	aspartate transaminase
+GOT	2.6.1.1	aspartate transaminase
+AST-Bb	2.6.1.1	aspartate transaminase
+protein TT0402	2.6.1.1	aspartate transaminase
+More	2.6.1.1	aspartate transaminase
+L-aspartateartate aminotransferase	2.6.1.1	aspartate transaminase
+EcAspAT	2.6.1.1	aspartate transaminase
+aspartate:2-oxoglutarate amino-transferase	2.6.1.1	aspartate transaminase
+L-aspartate aminotransferase	2.6.1.1	aspartate transaminase
+aspartate, 2-oxoglutarate aminotransferase	2.6.1.1	aspartate transaminase
+AATase	2.6.1.1	aspartate transaminase
+L-AspAT	2.6.1.1	aspartate transaminase
+aatB3	2.6.1.1	aspartate transaminase
+aspartate transaminase	2.6.1.1	aspartate transaminase
+AsAT	2.6.1.1	aspartate transaminase
+GOT1L1	2.6.1.1	aspartate transaminase
+GOT2	2.6.1.1	aspartate transaminase
+alr1039	2.6.1.1	aspartate transaminase
+all2340	2.6.1.1	aspartate transaminase
+alr2765	2.6.1.1	aspartate transaminase
+alr4853	2.6.1.1	aspartate transaminase
+Cgl0240	2.6.1.1	aspartate transaminase
+aatA	2.6.1.1	aspartate transaminase
+aspartate aminotransferase A	2.6.1.1	aspartate transaminase
+KAT IV	2.6.1.1	aspartate transaminase
+L-aspartate:2-oxoglutarate aminotransferase	2.6.1.1	aspartate transaminase
+Tb11.02.2740	2.6.1.1	aspartate transaminase
+GL50803_91056	2.6.1.1	aspartate transaminase
+GOT1	2.6.1.1	aspartate transaminase
+AAT-2	2.6.1.1	aspartate transaminase
+AAT-3	2.6.1.1	aspartate transaminase
+glutamic oxaloacetic transaminase	2.6.1.1	aspartate transaminase
+neo-6	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+kanB	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+neoB	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+BtrS	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+btrR	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+Neo6	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+L-glutamine:DOI aminotransferase	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+tbmB	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+2-deoxy-scyllo-inosose aminotransferase	2.6.1.100	L-glutamine:2-deoxy-scyllo-inosose aminotransferase
+neo-6	2.6.1.101	L-glutamine:3-amino-2,3-dideoxy-scyllo-inosose aminotransferase
+neoB	2.6.1.101	L-glutamine:3-amino-2,3-dideoxy-scyllo-inosose aminotransferase
+BtrS	2.6.1.101	L-glutamine:3-amino-2,3-dideoxy-scyllo-inosose aminotransferase
+L-glutamine:DOI aminotransferase	2.6.1.101	L-glutamine:3-amino-2,3-dideoxy-scyllo-inosose aminotransferase
+Neo6	2.6.1.101	L-glutamine:3-amino-2,3-dideoxy-scyllo-inosose aminotransferase
+Gln:DOI aminotransferase	2.6.1.101	L-glutamine:3-amino-2,3-dideoxy-scyllo-inosose aminotransferase
+L-glutamine: 2-deoxy-scyllo-inosamine aminotransferase	2.6.1.101	L-glutamine:3-amino-2,3-dideoxy-scyllo-inosose aminotransferase
+btrR	2.6.1.101	L-glutamine:3-amino-2,3-dideoxy-scyllo-inosose aminotransferase
+PerA	2.6.1.102	GDP-perosamine synthase
+GDP-4-keto-6-deoxy-D-mannose-4-aminotransferase	2.6.1.102	GDP-perosamine synthase
+GDP-perosamine synthase	2.6.1.102	GDP-perosamine synthase
+RfbE	2.6.1.102	GDP-perosamine synthase
+HpgT	2.6.1.103	(S)-3,5-dihydroxyphenylglycine transaminase
+3-oxo-glucose-6-phosphate:glutamate aminotransferase	2.6.1.104	3-dehydro-glucose-6-phosphate-glutamate transaminase
+ntdA	2.6.1.104	3-dehydro-glucose-6-phosphate-glutamate transaminase
+DAPA aminotransferase	2.6.1.105	lysine-8-amino-7-oxononanoate transaminase
+bioA	2.6.1.105	lysine-8-amino-7-oxononanoate transaminase
+bioK	2.6.1.105	lysine-8-amino-7-oxononanoate transaminase
+DesV	2.6.1.106	dTDP-3-amino-3,4,6-trideoxy-alpha-D-glucose transaminase
+TyrB	2.6.1.107	beta-methylphenylalanine transaminase
+4-	2.6.1.108	(5-formylfuran-3-yl)methyl phosphate transaminase
+mfnC	2.6.1.108	(5-formylfuran-3-yl)methyl phosphate transaminase
+MJ0684	2.6.1.108	(5-formylfuran-3-yl)methyl phosphate transaminase
+4-HFC-P:alanine aminotransferase	2.6.1.108	(5-formylfuran-3-yl)methyl phosphate transaminase
+kdnA	2.6.1.109	8-amino-3,8-dideoxy-alpha-D-manno-octulosonate transaminase
+acetylornithine delta-transaminase	2.6.1.11	acetylornithine transaminase
+acetylornithine 5-aminotransferase	2.6.1.11	acetylornithine transaminase
+N-acetylornithine-delta-transaminase	2.6.1.11	acetylornithine transaminase
+AOTA	2.6.1.11	acetylornithine transaminase
+DapATase	2.6.1.11	acetylornithine transaminase
+SOAT	2.6.1.11	acetylornithine transaminase
+succinyldiaminopimelate transferase	2.6.1.11	acetylornithine transaminase
+succinylornithine aminotransferase	2.6.1.11	acetylornithine transaminase
+acetylornithine transaminase	2.6.1.11	acetylornithine transaminase
+aminotransferase, acetylornithine	2.6.1.11	acetylornithine transaminase
+N2-acetyl-L-ornithine:2-oxoglutarate 5-aminotransferase	2.6.1.11	acetylornithine transaminase
+N2-acetylornithine 5-transaminase	2.6.1.11	acetylornithine transaminase
+N2-acetylornithine 5-aminotransferase	2.6.1.11	acetylornithine transaminase
+EC 2.6.1.69	2.6.1.11	acetylornithine transaminase
+ACOAT	2.6.1.11	acetylornithine transaminase
+N-acetylornithine aminotransferase	2.6.1.11	acetylornithine transaminase
+acetylornithine aminotransferase	2.6.1.11	acetylornithine transaminase
+TUMOR PRONE5	2.6.1.11	acetylornithine transaminase
+TUP5	2.6.1.11	acetylornithine transaminase
+argD	2.6.1.11	acetylornithine transaminase
+NAOAT	2.6.1.11	acetylornithine transaminase
+ARG9 protein	2.6.1.11	acetylornithine transaminase
+SpnR	2.6.1.110	dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase
+TDP-4-keto-2,3,6-trideoxy-D-glucose 4-aminotransferase	2.6.1.110	dTDP-4-dehydro-2,3,6-trideoxy-D-glucose 4-aminotransferase
+KAT	2.6.1.111	3-aminobutanoyl-CoA transaminase
+acyl-CoA beta-transaminase	2.6.1.111	3-aminobutanoyl-CoA transaminase
+3-aminobutyryl-CoA aminotransferase	2.6.1.111	3-aminobutanoyl-CoA transaminase
+UGXT	2.6.1.112	(S)-ureidoglycine-glyoxylate transaminase
+PucG	2.6.1.112	(S)-ureidoglycine-glyoxylate transaminase
+aminotransferase V	2.6.1.112	(S)-ureidoglycine-glyoxylate transaminase
+SpuC	2.6.1.113	putrescine-pyruvate transaminase
+L-alanine-alpha-keto acid aminotransferase	2.6.1.12	alanine-oxo-acid transaminase
+leucine-alanine transaminase	2.6.1.12	alanine-oxo-acid transaminase
+aminotransferase, alanine-keto acid	2.6.1.12	alanine-oxo-acid transaminase
+alanine-keto acid aminotransferase	2.6.1.12	alanine-oxo-acid transaminase
+alanine-oxo acid aminotransferase	2.6.1.12	alanine-oxo-acid transaminase
+ornithine delta-transaminase	2.6.1.13	ornithine aminotransferase
+L-ornithine:alpha-ketoglutarate delta-aminotransferase	2.6.1.13	ornithine aminotransferase
+aminotransferase, ornithine-keto acid	2.6.1.13	ornithine aminotransferase
+L-ornithine 5-aminotransferase	2.6.1.13	ornithine aminotransferase
+L-ornithine aminotransferase	2.6.1.13	ornithine aminotransferase
+ornithine 5-aminotransferase	2.6.1.13	ornithine aminotransferase
+ornithine-alpha-ketoglutarate aminotransferase	2.6.1.13	ornithine aminotransferase
+ornithine-2-oxoacid aminotransferase	2.6.1.13	ornithine aminotransferase
+ornithine-keto acid aminotransferase	2.6.1.13	ornithine aminotransferase
+ornithine-keto acid transaminase	2.6.1.13	ornithine aminotransferase
+ornithine-ketoglutarate aminotransferase	2.6.1.13	ornithine aminotransferase
+ornithine-oxo acid aminotransferase	2.6.1.13	ornithine aminotransferase
+ornithine:alpha-oxoglutarate transaminase	2.6.1.13	ornithine aminotransferase
+ornithine-oxo-acid transaminase	2.6.1.13	ornithine aminotransferase
+ornithine-delta-aminotransferase	2.6.1.13	ornithine aminotransferase
+PsOAT	2.6.1.13	ornithine aminotransferase
+delta-OAT	2.6.1.13	ornithine aminotransferase
+delta OAT	2.6.1.13	ornithine aminotransferase
+RocD	2.6.1.13	ornithine aminotransferase
+ornithine transaminase	2.6.1.13	ornithine aminotransferase
+ornithine aminotransferase	2.6.1.13	ornithine aminotransferase
+OAT	2.6.1.13	ornithine aminotransferase
+Orn-AT	2.6.1.13	ornithine aminotransferase
+ornithine amino transferase	2.6.1.13	ornithine aminotransferase
+ornithine delta-aminotransferase	2.6.1.13	ornithine aminotransferase
+ornithine delta-amino transferase	2.6.1.13	ornithine aminotransferase
+L-ornithine:2-oxoacid aminotransferase	2.6.1.13	ornithine aminotransferase
+aminotransferase, asparagine-keto acid	2.6.1.14	asparagine-oxo-acid transaminase
+asparagine oxoacid aminotransferase	2.6.1.14	asparagine-oxo-acid transaminase
+asparagine keto-acid transaminase	2.6.1.14	asparagine-oxo-acid transaminase
+asparagine-pyruvate transaminase	2.6.1.14	asparagine-oxo-acid transaminase
+glutamine transaminase L	2.6.1.15	glutamine-pyruvate transaminase
+glutamine-oxo-acid transaminase	2.6.1.15	glutamine-pyruvate transaminase
+aminotransferase, glutamine-keto acid	2.6.1.15	glutamine-pyruvate transaminase
+gamma-glutaminyltransferase	2.6.1.15	glutamine-pyruvate transaminase
+glutaminase II	2.6.1.15	glutamine-pyruvate transaminase
+glutamine transaminase	2.6.1.15	glutamine-pyruvate transaminase
+glutamine-alpha-keto acid transaminase	2.6.1.15	glutamine-pyruvate transaminase
+glutamine-keto acid aminotransferase	2.6.1.15	glutamine-pyruvate transaminase
+glutamine-alpha-keto acid transamidase	2.6.1.15	glutamine-pyruvate transaminase
+glutamine-oxo acid aminotransferase	2.6.1.15	glutamine-pyruvate transaminase
+KATI	2.6.1.15	glutamine-pyruvate transaminase
+hexosephosphate aminotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glucosamine-6-phosphate isomerase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+2-amino-2-deoxy-D-glucose-6-phosphate ketol-isomerase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+isomerase, glucosamine phosphate	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glucosamine 6-phosphate synthase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glucosamine 6-phosphate synthetase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glucosamine phosphate isomerase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glutamine-fructose 6-phosphate amidotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glutamine-fructose 6-phosphate aminotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+L-glutamine fructose 6-phosphate transamidase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glutamine:fructose-6-phosphate aminotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+EC 5.3.1.19	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glucosamine:fructose-6-phosphate aminotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+L-glutamine: D-fructose-6-phosphate amidotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+L-glutamine:D-fructose-6-phosphate amidotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+L-glutamine:D-fructose-6-phosphate amidotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+Gfa1p	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glmS ribozyme	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glutamine: fructose-6-phosphate aminotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+L-glutamine D-fructose 6-phosphate amidotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+L-glutamine:D-fructose-6-phosphate amidotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glutamine-fructose-6-phosphate transaminase 1	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glucosamine-6-phosphate synthetase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glutamine: fructose-6-phosphate amidotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+GFAT	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glucosamine synthase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glucosamine-6P synthase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glucosamine-6-P synthase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+L-glutamine:L-fructose-6-phosphate amidotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+GlmS	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glucosamine-6-phosphate synthase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+Gfa1	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+L-glutamine: L-fructose-6-phosphate amidotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glutamine: fructose-6-phosphate amidotransferase 1	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glutamine:fructose-6-phosphate amidotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+GlcN-6-P synthase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+GFPT1	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+glutamine-fructose-6-phosphate aminotransferase	2.6.1.16	glutamine-fructose-6-phosphate transaminase (isomerizing)
+DAP-AT	2.6.1.17	succinyldiaminopimelate transaminase
+aminotransferase, succinyldiaminopimelate	2.6.1.17	succinyldiaminopimelate transaminase
+succinyldiaminopimelate aminotransferase	2.6.1.17	succinyldiaminopimelate transaminase
+N-succinyl-L-diaminopimelic-glutamic transaminase	2.6.1.17	succinyldiaminopimelate transaminase
+Rv0858c	2.6.1.17	succinyldiaminopimelate transaminase
+DapC	2.6.1.17	succinyldiaminopimelate transaminase
+AspB2	2.6.1.17	succinyldiaminopimelate transaminase
+SDAT-AT	2.6.1.17	succinyldiaminopimelate transaminase
+aminotransferase, beta-alanine-pyruvate	2.6.1.18	beta-alanine-pyruvate transaminase
+beta-alanine-pyruvate aminotransferase	2.6.1.18	beta-alanine-pyruvate transaminase
+omega-TA	2.6.1.18	beta-alanine-pyruvate transaminase
+AptA	2.6.1.18	beta-alanine-pyruvate transaminase
+FG99_15380	2.6.1.18	beta-alanine-pyruvate transaminase
+Sthe_0848	2.6.1.18	beta-alanine-pyruvate transaminase
+omega-transaminase	2.6.1.18	beta-alanine-pyruvate transaminase
+beta-alanine-alpha-alanine transaminase	2.6.1.18	beta-alanine-pyruvate transaminase
+beta-alanine:pyruvate transaminase	2.6.1.18	beta-alanine-pyruvate transaminase
+beta-A:P TAm	2.6.1.18	beta-alanine-pyruvate transaminase
+PAO2	2.6.1.18	beta-alanine-pyruvate transaminase
+omega-amino acid:pyruvate transaminase	2.6.1.18	beta-alanine-pyruvate transaminase
+beta-alanine aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+4-aminobutyrate-2-ketoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+4-aminobutyrate-2-oxoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+4-aminobutyrate-2-oxoglutarate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+4-aminobutyric acid 2-ketoglutaric acid aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+4-aminobutyric acid aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+aminobutyrate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+aminotransferase, aminobutyrate	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+beta-alanine transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+beta-alanine-oxoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+beta-alanine-oxoglutarate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA transferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-2-oxoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-2-oxoglutarate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-alpha-ketoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-alpha-ketoglutarate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-alpha-ketoglutaric acid transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-alpha-oxoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-oxoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-oxoglutarate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyrate aminotransaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyrate:alpha-oxoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyrate-alpha-ketoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyrate-alpha-ketoglutarate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyric acid pyruvate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyric acid-2-oxoglutarate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyric acid-alpha-ketoglutarate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyric acid-alpha-ketoglutaric acid aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyric transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+glutamate-succinic semialdehyde transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+pollen-pistil incompatibility 2	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+Pop2	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABAT	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-T	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+SkUga1p	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyrate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+Osl2	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+aminobutyrate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+homotaurine:2-oxoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA:2-oxoglutarate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GabT	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyrate: GABA transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+4-aminobutyrate aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-T2	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyric acid transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyrate transaminases	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-T3	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-T1	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+MdGABA-T1	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+MdGABA-T2	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+ABAT	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyric acid aminotransferase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+GABA-AT	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+gamma-aminobutyrate transaminase	2.6.1.19	4-aminobutyrate-2-oxoglutarate transaminase
+glutamic-pyruvic transaminase	2.6.1.2	alanine transaminase
+glutamic-alanine transaminase	2.6.1.2	alanine transaminase
+aminotransferase, alanine	2.6.1.2	alanine transaminase
+alanine-alpha-ketoglutarate aminotransferase	2.6.1.2	alanine transaminase
+alanine-pyruvate aminotransferase	2.6.1.2	alanine transaminase
+glutamic acid-pyruvic acid transaminase	2.6.1.2	alanine transaminase
+glutamic-pyruvic aminotransferase	2.6.1.2	alanine transaminase
+L-alanine aminotransferase	2.6.1.2	alanine transaminase
+L-alanine transaminase	2.6.1.2	alanine transaminase
+L-alanine-alpha-ketoglutarate aminotransferase	2.6.1.2	alanine transaminase
+pyruvate transaminase	2.6.1.2	alanine transaminase
+pyruvate-alanine aminotransferase	2.6.1.2	alanine transaminase
+pyruvate-glutamate transaminase	2.6.1.2	alanine transaminase
+ZmAlaAT1	2.6.1.2	alanine transaminase
+ZmAlaAT2	2.6.1.2	alanine transaminase
+GmAlaAT	2.6.1.2	alanine transaminase
+beta-A:P TAm	2.6.1.2	alanine transaminase
+beta-alanine: pyruvate transaminase	2.6.1.2	alanine transaminase
+alanine transaminase	2.6.1.2	alanine transaminase
+Rp D-AlaAT	2.6.1.2	alanine transaminase
+Pp beta-AlaAT	2.6.1.2	alanine transaminase
+alanine aminotransferase-1	2.6.1.2	alanine transaminase
+glutamate-pyruvate transaminase	2.6.1.2	alanine transaminase
+ALT1	2.6.1.2	alanine transaminase
+alanine aminotransferase	2.6.1.2	alanine transaminase
+ALT	2.6.1.2	alanine transaminase
+alanine: 2-oxoglutarate aminotransferase	2.6.1.2	alanine transaminase
+AKT	2.6.1.2	alanine transaminase
+OsAlaAT	2.6.1.2	alanine transaminase
+ALAT	2.6.1.2	alanine transaminase
+c-AAT	2.6.1.2	alanine transaminase
+AT3	2.6.1.2	alanine transaminase
+glutamate pyruvate 2-phosphotransferase	2.6.1.2	alanine transaminase
+GPT	2.6.1.2	alanine transaminase
+AAT	2.6.1.2	alanine transaminase
+Bh D-AlaAT	2.6.1.2	alanine transaminase
+beta-alanine aminotransferase	2.6.1.2	alanine transaminase
+SkPyd4p	2.6.1.2	alanine transaminase
+alanine-2-oxoglutarate aminotransferase	2.6.1.2	alanine transaminase
+AlaAT	2.6.1.2	alanine transaminase
+More	2.6.1.2	alanine transaminase
+HvAlaAT	2.6.1.2	alanine transaminase
+alanine aminotransferase 1	2.6.1.2	alanine transaminase
+YLSs alanine aminotransferase	2.6.1.2	alanine transaminase
+Qsd1	2.6.1.2	alanine transaminase
+LOC_Os10g25130	2.6.1.2	alanine transaminase
+ScAlaAT	2.6.1.2	alanine transaminase
+AlaAT1	2.6.1.2	alanine transaminase
+AlaAT2	2.6.1.2	alanine transaminase
+aminotransferase, D-alanine	2.6.1.21	D-amino-acid transaminase
+D-alanine aminotransferase	2.6.1.21	D-amino-acid transaminase
+D-aspartic aminotransferase	2.6.1.21	D-amino-acid transaminase
+D-aspartate transaminase	2.6.1.21	D-amino-acid transaminase
+D-alanine transaminase	2.6.1.21	D-amino-acid transaminase
+D-alanine:2-oxoglutarate aminotransferase	2.6.1.21	D-amino-acid transaminase
+AspFum	2.6.1.21	D-amino-acid transaminase
+GibZea	2.6.1.21	D-amino-acid transaminase
+MycVan	2.6.1.21	D-amino-acid transaminase
+PenChr	2.6.1.21	D-amino-acid transaminase
+NeoFis	2.6.1.21	D-amino-acid transaminase
+AspOry	2.6.1.21	D-amino-acid transaminase
+AspTer	2.6.1.21	D-amino-acid transaminase
+L-3-aminoisobutyrate transaminase	2.6.1.22	(S)-3-amino-2-methylpropionate transaminase
+aminotransferase, L-3-aminoisobutyrate	2.6.1.22	(S)-3-amino-2-methylpropionate transaminase
+beta-aminobutyric transaminase	2.6.1.22	(S)-3-amino-2-methylpropionate transaminase
+L-3-aminoisobutyric aminotransferase	2.6.1.22	(S)-3-amino-2-methylpropionate transaminase
+aminotransferase, 4-hydroxyglutamate	2.6.1.23	4-hydroxyglutamate transaminase
+4-hydroxyglutamate aminotransferase	2.6.1.23	4-hydroxyglutamate transaminase
+HGA	2.6.1.23	4-hydroxyglutamate transaminase
+More	2.6.1.23	4-hydroxyglutamate transaminase
+aminotransferase, diiodotyrosine	2.6.1.24	diiodotyrosine transaminase
+diiodotyrosine aminotransferase	2.6.1.24	diiodotyrosine transaminase
+halogenated tyrosine aminotransferase	2.6.1.24	diiodotyrosine transaminase
+halogenated tyrosine transaminase	2.6.1.24	diiodotyrosine transaminase
+aminotransferase, thyroid hormone	2.6.1.26	thyroid-hormone transaminase
+3,5-dinitrotyrosine transaminase	2.6.1.26	thyroid-hormone transaminase
+aminotransferase, tryptophan	2.6.1.27	tryptophan transaminase
+5-hydroxytryptophan-ketoglutaric transaminase	2.6.1.27	tryptophan transaminase
+hydroxytryptophan aminotransferase	2.6.1.27	tryptophan transaminase
+L-tryptophan aminotransferase	2.6.1.27	tryptophan transaminase
+L-tryptophan transaminase	2.6.1.27	tryptophan transaminase
+L-phenylalanine-2-oxoglutarate aminotransferase	2.6.1.27	tryptophan transaminase
+Tam1	2.6.1.27	tryptophan transaminase
+tryptophan aminotransferase	2.6.1.27	tryptophan transaminase
+TAA1	2.6.1.27	tryptophan transaminase
+TAR1	2.6.1.27	tryptophan transaminase
+vanishing tassel2	2.6.1.27	tryptophan transaminase
+vt2	2.6.1.27	tryptophan transaminase
+TAA	2.6.1.27	tryptophan transaminase
+OsTAR1	2.6.1.27	tryptophan transaminase
+L-tryptophan-alpha-ketoisocaproate aminotransferase	2.6.1.28	tryptophan-phenylpyruvate transaminase
+aminotransferase, tryptophan-phenylpyruvate	2.6.1.28	tryptophan-phenylpyruvate transaminase
+TdiD	2.6.1.28	tryptophan-phenylpyruvate transaminase
+aminotransferase, diamine	2.6.1.29	diamine transaminase
+amine transaminase	2.6.1.29	diamine transaminase
+amine-ketoacid transaminase	2.6.1.29	diamine transaminase
+diamine aminotransferase	2.6.1.29	diamine transaminase
+diamine-ketoglutaric transaminase	2.6.1.29	diamine transaminase
+CGT	2.6.1.3	cysteine transaminase
+aminotransferase, cysteine	2.6.1.3	cysteine transaminase
+cysteine aminotransferase	2.6.1.3	cysteine transaminase
+L-cysteine aminotransferase	2.6.1.3	cysteine transaminase
+L-cysteine-2-oxoglutarate aminotransferase	2.6.1.3	cysteine transaminase
+More	2.6.1.3	cysteine transaminase
+aminotransferase, pyridoxamine-pyruvate	2.6.1.30	pyridoxamine-pyruvate transaminase
+pyridoxamine-pyruvic transaminase	2.6.1.30	pyridoxamine-pyruvate transaminase
+pyridoxamine-pyruvate aminotransferase	2.6.1.30	pyridoxamine-pyruvate transaminase
+PPAT	2.6.1.30	pyridoxamine-pyruvate transaminase
+PM-pyruvate transaminase	2.6.1.30	pyridoxamine-pyruvate transaminase
+aminotransferase, pyridoxamine-oxalacetate	2.6.1.31	pyridoxamine-oxaloacetate transaminase
+pyridoxamine-oxalacetate aminotransferase	2.6.1.31	pyridoxamine-oxaloacetate transaminase
+valine-isoleucine transaminase	2.6.1.32	valine-3-methyl-2-oxovalerate transaminase
+aminotransferase, valine-3-methyl-2-oxovalerate	2.6.1.32	valine-3-methyl-2-oxovalerate transaminase
+alanine-valine transaminase	2.6.1.32	valine-3-methyl-2-oxovalerate transaminase
+valine-2-keto-methylvalerate aminotransferase	2.6.1.32	valine-3-methyl-2-oxovalerate transaminase
+valine-isoleucine aminotransferase	2.6.1.32	valine-3-methyl-2-oxovalerate transaminase
+YfdZ	2.6.1.32	valine-3-methyl-2-oxovalerate transaminase
+YfbQ	2.6.1.32	valine-3-methyl-2-oxovalerate transaminase
+thymidine diphospho-4-keto-6-deoxy-D-glucose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+aminotransferase, thymidine diphospho-4-amino-4,6-dideoxyglucose	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+thymidine diphospho-4-amino-4,6-dideoxyglucose aminotransferase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+thymidine diphospho-4-amino-6-deoxyglucose aminotransferase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+thymidine diphospho-4-keto-6-deoxy-D-glucose-glutamic transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+TDP-4-keto-6-deoxy-D-glucose transaminase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+SAT	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+sugar aminotransferase	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+VioA	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+WecE	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+DesI	2.6.1.33	dTDP-4-amino-4,6-dideoxy-D-glucose transaminase
+aminotransferase, uridine	2.6.1.34	UDP-N-acetylbacillosamine transaminase
+uridine diphospho-4-amino-2-acetamido-2,4,6-trideoxyglucose	2.6.1.34	UDP-N-acetylbacillosamine transaminase
+PglE	2.6.1.34	UDP-N-acetylbacillosamine transaminase
+Cj1121c	2.6.1.34	UDP-N-acetylbacillosamine transaminase
+UDP-4-keto-6-deoxy-GlcNAc C4 aminotransferase	2.6.1.34	UDP-N-acetylbacillosamine transaminase
+aminotransferase, glycine-oxalacetate	2.6.1.35	glycine-oxaloacetate transaminase
+glycine-oxalacetate aminotransferase	2.6.1.35	glycine-oxaloacetate transaminase
+GOAT	2.6.1.35	glycine-oxaloacetate transaminase
+aminotransferase, lysine 6-	2.6.1.36	L-lysine 6-transaminase
+lysine epsilon-transaminase	2.6.1.36	L-lysine 6-transaminase
+lysine 6-aminotransferase	2.6.1.36	L-lysine 6-transaminase
+lysine:2-ketoglutarate 6-aminotransferase	2.6.1.36	L-lysine 6-transaminase
+L-lysine-alpha-ketoglutarate aminotransferase	2.6.1.36	L-lysine 6-transaminase
+L-lysine-alpha-ketoglutarate 6-aminotransferase	2.6.1.36	L-lysine 6-transaminase
+LAT	2.6.1.36	L-lysine 6-transaminase
+lysine epsilon-aminotransferase	2.6.1.36	L-lysine 6-transaminase
+L-lysine-epsilon-aminotransferase	2.6.1.36	L-lysine 6-transaminase
+Rv3290c	2.6.1.36	L-lysine 6-transaminase
+2-aminoethylphosphonate aminotransferase	2.6.1.37	2-aminoethylphosphonate-pyruvate transaminase
+aminotransferase,	2.6.1.37	2-aminoethylphosphonate-pyruvate transaminase
+2-aminoethylphosphonate-pyruvate aminotransferase	2.6.1.37	2-aminoethylphosphonate-pyruvate transaminase
+histidine aminotransferase	2.6.1.38	histidine transaminase
+histidine-2-oxoglutarate aminotransferase	2.6.1.38	histidine transaminase
+Hat-1	2.6.1.38	histidine transaminase
+HISAT	2.6.1.38	histidine transaminase
+2-aminoadipate aminotransferase	2.6.1.39	2-aminoadipate transaminase
+2-aminoadipic aminotransferase	2.6.1.39	2-aminoadipate transaminase
+glutamic-ketoadipic transaminase	2.6.1.39	2-aminoadipate transaminase
+glutamate-alpha-ketoadipate transaminase	2.6.1.39	2-aminoadipate transaminase
+aminoadipate aminotransferase	2.6.1.39	2-aminoadipate transaminase
+kynurenine aminotransferase II	2.6.1.39	2-aminoadipate transaminase
+alpha-aminoadipate aminotransferase	2.6.1.39	2-aminoadipate transaminase
+AAA-AT	2.6.1.39	2-aminoadipate transaminase
+More	2.6.1.39	2-aminoadipate transaminase
+kynurenine aminotransferase II	2.6.1.39	2-aminoadipate transaminase
+aminoadipate aminotransferase/kynurenine aminotransferase II	2.6.1.39	2-aminoadipate transaminase
+KAT II/AADAT	2.6.1.39	2-aminoadipate transaminase
+AadAT	2.6.1.39	2-aminoadipate transaminase
+AAT	2.6.1.39	2-aminoadipate transaminase
+halogenated tyrosine aminotransferase	2.6.1.39	2-aminoadipate transaminase
+kynurenine/alpha-aminoadipate aminotransferase	2.6.1.39	2-aminoadipate transaminase
+GKAT	2.6.1.39	2-aminoadipate transaminase
+alpha-aminoadipate aminotransferase	2.6.1.39	2-aminoadipate transaminase
+Aro8	2.6.1.39	2-aminoadipate transaminase
+aminotransferase, glycine	2.6.1.4	glycine transaminase
+glycine aminotransferase	2.6.1.4	glycine transaminase
+L-glutamate:glyoxylate aminotransferase	2.6.1.4	glycine transaminase
+glyoxylate-glutamic transaminase	2.6.1.4	glycine transaminase
+glyoxylate-glutamate aminotransferase	2.6.1.4	glycine transaminase
+glutamic-glyoxylic transaminase	2.6.1.4	glycine transaminase
+Os07g0108300	2.6.1.4	glycine transaminase
+glutamate-glycine transaminase	2.6.1.4	glycine transaminase
+glutamic-glycine transaminase	2.6.1.4	glycine transaminase
+glutamate:glyoxylate aminotransferase	2.6.1.4	glycine transaminase
+GlyAT	2.6.1.4	glycine transaminase
+PSAT1	2.6.1.4	glycine transaminase
+GGT	2.6.1.4	glycine transaminase
+AT2	2.6.1.4	glycine transaminase
+GPT	2.6.1.4	glycine transaminase
+D-3-aminoisobutyrate-pyruvate transaminase	2.6.1.40	(R)-3-amino-2-methylpropionate-pyruvate transaminase
+D-3-aminoisobutyrate-pyruvate aminotransferase	2.6.1.40	(R)-3-amino-2-methylpropionate-pyruvate transaminase
+aminotransferase, D-3-aminoisobutyrate-pyruvate	2.6.1.40	(R)-3-amino-2-methylpropionate-pyruvate transaminase
+D-BAIB aminotransferase	2.6.1.40	(R)-3-amino-2-methylpropionate-pyruvate transaminase
+beta-aminoisobutyrate-pyruvate aminotransferase	2.6.1.40	(R)-3-amino-2-methylpropionate-pyruvate transaminase
+EC 2.6.1.61	2.6.1.40	(R)-3-amino-2-methylpropionate-pyruvate transaminase
+D-AIB AT	2.6.1.40	(R)-3-amino-2-methylpropionate-pyruvate transaminase
+D-methionine transaminase	2.6.1.41	D-methionine-pyruvate transaminase
+aminotransferase, D-methionine	2.6.1.41	D-methionine-pyruvate transaminase
+D-methionine aminotransferase	2.6.1.41	D-methionine-pyruvate transaminase
+branched-chain amino acid-glutamate transaminase	2.6.1.42	branched-chain-amino-acid transaminase
+L-branched chain amino acid aminotransferase	2.6.1.42	branched-chain-amino-acid transaminase
+glutamate-branched-chain amino acid transaminase	2.6.1.42	branched-chain-amino-acid transaminase
+EC 2.6.1.6	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain aminotransferase4	2.6.1.42	branched-chain-amino-acid transaminase
+BCAT4	2.6.1.42	branched-chain-amino-acid transaminase
+At5g17310	2.6.1.42	branched-chain-amino-acid transaminase
+IlvE aminotransferase	2.6.1.42	branched-chain-amino-acid transaminase
+branched chain aminotransferase IlvE	2.6.1.42	branched-chain-amino-acid transaminase
+TA-B	2.6.1.42	branched-chain-amino-acid transaminase
+transaminase B	2.6.1.42	branched-chain-amino-acid transaminase
+SlBCAT1	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain amino acid aminotransferase 2	2.6.1.42	branched-chain-amino-acid transaminase
+SlBCAT2	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain amino acid aminotransferase 3	2.6.1.42	branched-chain-amino-acid transaminase
+SlBCAT3	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain amino acid aminotransferase 4	2.6.1.42	branched-chain-amino-acid transaminase
+SlBCAT4	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain amino acid aminotransferase 5	2.6.1.42	branched-chain-amino-acid transaminase
+SlBCAT5	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain amino acid aminotransferase 6	2.6.1.42	branched-chain-amino-acid transaminase
+SlBCAT6	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain aminotransferase 7	2.6.1.42	branched-chain-amino-acid transaminase
+BCAT7	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain amino acid aminotransferase 1	2.6.1.42	branched-chain-amino-acid transaminase
+alpha-KGA	2.6.1.42	branched-chain-amino-acid transaminase
+L-leucine-alpha-ketoglutarate transaminase	2.6.1.42	branched-chain-amino-acid transaminase
+IlvE	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain aminotransferase	2.6.1.42	branched-chain-amino-acid transaminase
+BcaT	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain amino-acid aminotransferase	2.6.1.42	branched-chain-amino-acid transaminase
+eBCAT	2.6.1.42	branched-chain-amino-acid transaminase
+branched chain aminotransferase	2.6.1.42	branched-chain-amino-acid transaminase
+Bcat6	2.6.1.42	branched-chain-amino-acid transaminase
+At1g50110	2.6.1.42	branched-chain-amino-acid transaminase
+branched chain aminotransferase, mitochondrial isoform	2.6.1.42	branched-chain-amino-acid transaminase
+hBCATm	2.6.1.42	branched-chain-amino-acid transaminase
+BCAA aminotransferase	2.6.1.42	branched-chain-amino-acid transaminase
+AGT	2.6.1.42	branched-chain-amino-acid transaminase
+BCAT1	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain amino acid aminotransferase	2.6.1.42	branched-chain-amino-acid transaminase
+BCAA-AT	2.6.1.42	branched-chain-amino-acid transaminase
+BCATc	2.6.1.42	branched-chain-amino-acid transaminase
+BCATm	2.6.1.42	branched-chain-amino-acid transaminase
+Bcat2	2.6.1.42	branched-chain-amino-acid transaminase
+BCAT-1	2.6.1.42	branched-chain-amino-acid transaminase
+SpBCAT1	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain amino-acid transaminase	2.6.1.42	branched-chain-amino-acid transaminase
+branched chain aminotransferase, cytosolic isoform	2.6.1.42	branched-chain-amino-acid transaminase
+branched chain amino acid: 2-oxoglutarate aminotransferase EC	2.6.1.42	branched-chain-amino-acid transaminase
+TUZN1299	2.6.1.42	branched-chain-amino-acid transaminase
+leucine transaminase	2.6.1.42	branched-chain-amino-acid transaminase
+leucine aminotransferase	2.6.1.42	branched-chain-amino-acid transaminase
+BCAATase	2.6.1.42	branched-chain-amino-acid transaminase
+Bat1	2.6.1.42	branched-chain-amino-acid transaminase
+branched-chain amino acid transaminase	2.6.1.42	branched-chain-amino-acid transaminase
+aminolevulinate aminotransferase	2.6.1.43	aminolevulinate transaminase
+gamma,delta-dioxovalerate aminotransferase	2.6.1.43	aminolevulinate transaminase
+gamma,delta-dioxovaleric acid transaminase	2.6.1.43	aminolevulinate transaminase
+4,5-dioxovalerate aminotransferase	2.6.1.43	aminolevulinate transaminase
+4,5-dioxovaleric acid transaminase	2.6.1.43	aminolevulinate transaminase
+4,5-dioxovaleric transaminase	2.6.1.43	aminolevulinate transaminase
+5-aminolevulinic acid transaminase	2.6.1.43	aminolevulinate transaminase
+alanine-gamma,delta-dioxovalerate aminotransferase	2.6.1.43	aminolevulinate transaminase
+alanine-dioxovalerate aminotransferase	2.6.1.43	aminolevulinate transaminase
+alanine:4,5-dioxovalerate aminotransferase	2.6.1.43	aminolevulinate transaminase
+aminolevulinic acid transaminase	2.6.1.43	aminolevulinate transaminase
+dioxovalerate transaminase	2.6.1.43	aminolevulinate transaminase
+L-alanine-4,5-dioxovalerate aminotransferase	2.6.1.43	aminolevulinate transaminase
+L-alanine:4,5-dioxovaleric acid transaminase	2.6.1.43	aminolevulinate transaminase
+L-alanine:dioxovalerate transaminase	2.6.1.43	aminolevulinate transaminase
+DOVA transaminase	2.6.1.43	aminolevulinate transaminase
+4,5-dioxovaleric acid aminotransferase	2.6.1.43	aminolevulinate transaminase
+EC 2.6.1.19	2.6.1.43	aminolevulinate transaminase
+EC 2.6.1.44	2.6.1.43	aminolevulinate transaminase
+EC 2.6.1.40	2.6.1.43	aminolevulinate transaminase
+DOVA-T	2.6.1.43	aminolevulinate transaminase
+alanine-glyoxylic aminotransferase	2.6.1.44	alanine-glyoxylate transaminase
+L-alanine-glycine transaminase	2.6.1.44	alanine-glyoxylate transaminase
+L-alanine-glyoxylate aminotransferase	2.6.1.44	alanine-glyoxylate transaminase
+serine pyruvate aminotransferase	2.6.1.44	alanine-glyoxylate transaminase
+3-hydroxykynurenine transaminase/alanine glyoxylate transaminase	2.6.1.44	alanine-glyoxylate transaminase
+glyoxylate aminotransferase AGT1	2.6.1.44	alanine-glyoxylate transaminase
+alanine:glyoxylate aminotransferase 1	2.6.1.44	alanine-glyoxylate transaminase
+AGXT2	2.6.1.44	alanine-glyoxylate transaminase
+alanine-glyoxalate aminotransferase	2.6.1.44	alanine-glyoxylate transaminase
+alanine-glyoxylate aminotransferase	2.6.1.44	alanine-glyoxylate transaminase
+alanine-glyoxalate transaminase 1	2.6.1.44	alanine-glyoxylate transaminase
+alanine:glyoxylate aminotransferase type 1	2.6.1.44	alanine-glyoxylate transaminase
+AGT1	2.6.1.44	alanine-glyoxylate transaminase
+AGT-Ma	2.6.1.44	alanine-glyoxylate transaminase
+AGT-Mi	2.6.1.44	alanine-glyoxylate transaminase
+alanine-glyoxylate aminotransferase 2	2.6.1.44	alanine-glyoxylate transaminase
+AGT	2.6.1.44	alanine-glyoxylate transaminase
+alanine glyoxylate aminotransferase	2.6.1.44	alanine-glyoxylate transaminase
+alanine:glyoxylate aminotransferase	2.6.1.44	alanine-glyoxylate transaminase
+AGXT	2.6.1.44	alanine-glyoxylate transaminase
+alanine-glyoxylate aminotransferase isoenzyme 2	2.6.1.44	alanine-glyoxylate transaminase
+cytosolic alanine aminotransferase	2.6.1.44	alanine-glyoxylate transaminase
+alanine:2-oxoglutarate aminotransferase	2.6.1.44	alanine-glyoxylate transaminase
+EC 2.6.1.51	2.6.1.44	alanine-glyoxylate transaminase
+serine:pyruvate/alanine:glyoxylate aminotransferase	2.6.1.44	alanine-glyoxylate transaminase
+SPT/AGT	2.6.1.44	alanine-glyoxylate transaminase
+AGX	2.6.1.44	alanine-glyoxylate transaminase
+3-hydroxykynurenine transaminase	2.6.1.44	alanine-glyoxylate transaminase
+AT3	2.6.1.44	alanine-glyoxylate transaminase
+aminotransferase 3	2.6.1.44	alanine-glyoxylate transaminase
+alanine-glyoxylate aminotransferase-2	2.6.1.44	alanine-glyoxylate transaminase
+D-AIB AT	2.6.1.44	alanine-glyoxylate transaminase
+GGT	2.6.1.44	alanine-glyoxylate transaminase
+aminotransferase, serine-glyoxylate	2.6.1.45	serine-glyoxylate transaminase
+L-serine glyoxylate aminotransferase	2.6.1.45	serine-glyoxylate transaminase
+serine:glyoxylate aminotransferase	2.6.1.45	serine-glyoxylate transaminase
+Os08g0502700	2.6.1.45	serine-glyoxylate transaminase
+serine-glyoxylate aminotransferase	2.6.1.45	serine-glyoxylate transaminase
+SGAT	2.6.1.45	serine-glyoxylate transaminase
+SGT	2.6.1.45	serine-glyoxylate transaminase
+alanine:glyoxylate aminotransferase	2.6.1.45	serine-glyoxylate transaminase
+L-diaminobutyric acid transaminase	2.6.1.46	diaminobutyrate-pyruvate transaminase
+aminotransferase, diaminobutyrate-pyruvate	2.6.1.46	diaminobutyrate-pyruvate transaminase
+diaminobutyrate-pyruvate aminotransferase	2.6.1.46	diaminobutyrate-pyruvate transaminase
+L-2,4-diaminobutyric acid aminotransferase	2.6.1.46	diaminobutyrate-pyruvate transaminase
+diaminobutyric acid transaminase	2.6.1.46	diaminobutyrate-pyruvate transaminase
+EctB	2.6.1.46	diaminobutyrate-pyruvate transaminase
+DAB transaminase	2.6.1.46	diaminobutyrate-pyruvate transaminase
+aminotransferase, alanine-oxomalonate	2.6.1.47	alanine-oxomalonate transaminase
+alanine-oxomalonate aminotransferase	2.6.1.47	alanine-oxomalonate transaminase
+L-alanine-ketomalonate transaminase	2.6.1.47	alanine-oxomalonate transaminase
+alanine-ketomalonate	2.6.1.47	alanine-oxomalonate transaminase
+delta-aminovalerate aminotransferase	2.6.1.48	5-aminovalerate transaminase
+delta-aminovalerate transaminase	2.6.1.48	5-aminovalerate transaminase
+putative 5-aminovalerate aminotransferase	2.6.1.48	5-aminovalerate transaminase
+5-aminovalerate aminotransferase	2.6.1.48	5-aminovalerate transaminase
+PA0266	2.6.1.48	5-aminovalerate transaminase
+delta-aminovaleric acid-glutamic acid transaminase	2.6.1.48	5-aminovalerate transaminase
+DavA	2.6.1.48	5-aminovalerate transaminase
+aminotransferase, dihydroxyphenylalanine	2.6.1.49	dihydroxyphenylalanine transaminase
+dihydroxyphenylalanine aminotransferase	2.6.1.49	dihydroxyphenylalanine transaminase
+aspartate-DOPP transaminase, ADT	2.6.1.49	dihydroxyphenylalanine transaminase
+L-dopa transaminase	2.6.1.49	dihydroxyphenylalanine transaminase
+dopa aminotransferase	2.6.1.49	dihydroxyphenylalanine transaminase
+glutamate-DOPP transaminase, GDT	2.6.1.49	dihydroxyphenylalanine transaminase
+phenylalanine-DOPP transaminase, PDT	2.6.1.49	dihydroxyphenylalanine transaminase
+dopa transaminase	2.6.1.49	dihydroxyphenylalanine transaminase
+aminotransferase, tyrosine	2.6.1.5	tyrosine transaminase
+glutamic-hydroxyphenylpyruvic transaminase	2.6.1.5	tyrosine transaminase
+glutamic phenylpyruvic aminotransferase	2.6.1.5	tyrosine transaminase
+L-phenylalanine 2-oxoglutarate aminotransferase	2.6.1.5	tyrosine transaminase
+L-tyrosine aminotransferase	2.6.1.5	tyrosine transaminase
+L-tyrosine-2-oxoglutarate aminotransferase	2.6.1.5	tyrosine transaminase
+phenylalanine aminotransferase	2.6.1.5	tyrosine transaminase
+phenylalanine transaminase	2.6.1.5	tyrosine transaminase
+phenylalanine-alpha-ketoglutarate transaminase	2.6.1.5	tyrosine transaminase
+phenylpyruvate transaminase	2.6.1.5	tyrosine transaminase
+phenylpyruvic acid transaminase	2.6.1.5	tyrosine transaminase
+tyrosine-alpha-ketoglutarate aminotransferase	2.6.1.5	tyrosine transaminase
+tyrosine-alpha-ketoglutarate transaminase	2.6.1.5	tyrosine transaminase
+tyrosine-2-ketoglutarate aminotransferase	2.6.1.5	tyrosine transaminase
+tyrosine-2-oxoglutarate aminotransferase	2.6.1.5	tyrosine transaminase
+TyrAT	2.6.1.5	tyrosine transaminase
+mTAT	2.6.1.5	tyrosine transaminase
+Sar2028	2.6.1.5	tyrosine transaminase
+beta-phenylalanine aminotransferase	2.6.1.5	tyrosine transaminase
+VpAT	2.6.1.5	tyrosine transaminase
+At5g36160	2.6.1.5	tyrosine transaminase
+TAT1	2.6.1.5	tyrosine transaminase
+TAT2	2.6.1.5	tyrosine transaminase
+PPY-AT	2.6.1.5	tyrosine transaminase
+TATase	2.6.1.5	tyrosine transaminase
+TATc	2.6.1.5	tyrosine transaminase
+tyrosine aminotransferase	2.6.1.5	tyrosine transaminase
+TAT	2.6.1.5	tyrosine transaminase
+More	2.6.1.5	tyrosine transaminase
+At5g53970	2.6.1.5	tyrosine transaminase
+glutamine-scyllo-inosose aminotransferase	2.6.1.50	glutamine-scyllo-inositol transaminase
+glutamine scyllo-inosose aminotransferase	2.6.1.50	glutamine-scyllo-inositol transaminase
+L-glutamine-keto-scyllo-inositol aminotransferase	2.6.1.50	glutamine-scyllo-inositol transaminase
+L-glutamine-scyllo-inosose transaminase	2.6.1.50	glutamine-scyllo-inositol transaminase
+L-glutamine:2-deoxy-scyllo-inosose	2.6.1.50	glutamine-scyllo-inositol transaminase
+neo-6	2.6.1.50	glutamine-scyllo-inositol transaminase
+L-glutamine:2-deoxy-scyllo-inosose aminotransferase	2.6.1.50	glutamine-scyllo-inositol transaminase
+tbmB	2.6.1.50	glutamine-scyllo-inositol transaminase
+L-glutamine:inosose aminotransferase	2.6.1.50	glutamine-scyllo-inositol transaminase
+aminocyclitol aminotransferase	2.6.1.50	glutamine-scyllo-inositol transaminase
+SPT	2.6.1.51	serine-pyruvate transaminase
+hydroxypyruvate:L-alanine transaminase	2.6.1.51	serine-pyruvate transaminase
+Dm-Spat	2.6.1.51	serine-pyruvate transaminase
+serine:pyruvate aminotransferase	2.6.1.51	serine-pyruvate transaminase
+serine:pyruvate/alanine:glyoxylate aminotransferase	2.6.1.51	serine-pyruvate transaminase
+SPT/AGT	2.6.1.51	serine-pyruvate transaminase
+SPT10	2.6.1.51	serine-pyruvate transaminase
+isoenzyme 1 of histidine-pyruvate aminotransferase	2.6.1.51	serine-pyruvate transaminase
+alanine:glyoxylate aminotransferase-1	2.6.1.51	serine-pyruvate transaminase
+3-phosphoserine aminotransferase	2.6.1.52	phosphoserine transaminase
+hydroxypyruvic phosphate-glutamic transaminase	2.6.1.52	phosphoserine transaminase
+L-phosphoserine aminotransferase	2.6.1.52	phosphoserine transaminase
+phosphohydroxypyruvate transaminase	2.6.1.52	phosphoserine transaminase
+phosphohydroxypyruvic-glutamic transaminase	2.6.1.52	phosphoserine transaminase
+serC	2.6.1.52	phosphoserine transaminase
+BCIR PSAT	2.6.1.52	phosphoserine transaminase
+phosphoserine aminotransferase	2.6.1.52	phosphoserine transaminase
+3-O-phospho-L-serine:2-oxoglutarate aminotransferase	2.6.1.52	phosphoserine transaminase
+sll1559	2.6.1.52	phosphoserine transaminase
+PSAT alpha	2.6.1.52	phosphoserine transaminase
+PSAT beta	2.6.1.52	phosphoserine transaminase
+PSAT1	2.6.1.52	phosphoserine transaminase
+PSerAT	2.6.1.52	phosphoserine transaminase
+AspAT	2.6.1.52	phosphoserine transaminase
+AtPSAT	2.6.1.52	phosphoserine transaminase
+PSAT	2.6.1.52	phosphoserine transaminase
+EhPSAT	2.6.1.52	phosphoserine transaminase
+aminotransferase, pyridoxamine phosphate	2.6.1.54	pyridoxamine-phosphate transaminase
+pyridoxamine 5'-phosphate-alpha-ketoglutarate transaminase	2.6.1.54	pyridoxamine-phosphate transaminase
+pyridoxamine 5'-phosphate transaminase	2.6.1.54	pyridoxamine-phosphate transaminase
+aminotransferase, taurine	2.6.1.55	taurine-2-oxoglutarate transaminase
+taurine-alpha-ketoglutarate aminotransferase	2.6.1.55	taurine-2-oxoglutarate transaminase
+taurine:alpha-ketoglutarate aminotransferase	2.6.1.55	taurine-2-oxoglutarate transaminase
+taurine-glutamate transaminase	2.6.1.55	taurine-2-oxoglutarate transaminase
+taurine transaminase	2.6.1.55	taurine-2-oxoglutarate transaminase
+guanidinoaminodideoxy-scyllo-inositol-pyruvate aminotransferase	2.6.1.56	1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol transaminase
+L-alanine-N-amidino-3-	2.6.1.56	1D-1-guanidino-3-amino-1,3-dideoxy-scyllo-inositol transaminase
+aminotransferase, aromatic amino acid	2.6.1.57	aromatic-amino-acid transaminase
+arom. amino acid transferase	2.6.1.57	aromatic-amino-acid transaminase
+arom.-amino-acid transaminase	2.6.1.57	aromatic-amino-acid transaminase
+aromatic amino acid transaminase	2.6.1.57	aromatic-amino-acid transaminase
+pdAroAT	2.6.1.57	aromatic-amino-acid transaminase
+AT-IA	2.6.1.57	aromatic-amino-acid transaminase
+aromatic amino acid aminotransferase	2.6.1.57	aromatic-amino-acid transaminase
+AAT	2.6.1.57	aromatic-amino-acid transaminase
+AAT1	2.6.1.57	aromatic-amino-acid transaminase
+aromatic L-amino acid transaminase	2.6.1.57	aromatic-amino-acid transaminase
+eAroATEs	2.6.1.57	aromatic-amino-acid transaminase
+AroATEs	2.6.1.57	aromatic-amino-acid transaminase
+AAT I-III	2.6.1.57	aromatic-amino-acid transaminase
+aromatic aminotransferase	2.6.1.57	aromatic-amino-acid transaminase
+ArAT-I	2.6.1.57	aromatic-amino-acid transaminase
+ArATPh	2.6.1.57	aromatic-amino-acid transaminase
+ArAT-ITL	2.6.1.57	aromatic-amino-acid transaminase
+pdArAT	2.6.1.57	aromatic-amino-acid transaminase
+Aro8	2.6.1.57	aromatic-amino-acid transaminase
+More	2.6.1.57	aromatic-amino-acid transaminase
+aromatic aminotransferase II	2.6.1.57	aromatic-amino-acid transaminase
+ARO9	2.6.1.57	aromatic-amino-acid transaminase
+hisC1	2.6.1.57	aromatic-amino-acid transaminase
+TyrB-2	2.6.1.57	aromatic-amino-acid transaminase
+phhC	2.6.1.57	aromatic-amino-acid transaminase
+Yer152	2.6.1.57	aromatic-amino-acid transaminase
+ArAT	2.6.1.57	aromatic-amino-acid transaminase
+At1g80360	2.6.1.57	aromatic-amino-acid transaminase
+F5I6.11	2.6.1.57	aromatic-amino-acid transaminase
+VAT1	2.6.1.57	aromatic-amino-acid transaminase
+ISS1	2.6.1.57	aromatic-amino-acid transaminase
+indole severe sensitive 1	2.6.1.57	aromatic-amino-acid transaminase
+ArATPf	2.6.1.57	aromatic-amino-acid transaminase
+AroAT II	2.6.1.57	aromatic-amino-acid transaminase
+aromatic amino transferase I	2.6.1.57	aromatic-amino-acid transaminase
+aromatic aminotransferase AT-1	2.6.1.57	aromatic-amino-acid transaminase
+AT-1	2.6.1.57	aromatic-amino-acid transaminase
+aromatic aminotransferase AT-2	2.6.1.57	aromatic-amino-acid transaminase
+AT-2	2.6.1.57	aromatic-amino-acid transaminase
+aminotransferase, phenylalanine	2.6.1.58	phenylalanine(histidine) transaminase
+phenylalanine	2.6.1.58	phenylalanine(histidine) transaminase
+phenylalanine	2.6.1.58	phenylalanine(histidine) transaminase
+histidine:pyruvate aminotransferase	2.6.1.58	phenylalanine(histidine) transaminase
+aminotransferase, thymidine diphosphoaminodideoxygalactose	2.6.1.59	dTDP-4-amino-4,6-dideoxygalactose transaminase
+thymidine diphosphate 4-keto-6-deoxy-D-glucose transaminase	2.6.1.59	dTDP-4-amino-4,6-dideoxygalactose transaminase
+thymidine diphospho-4-keto-6-deoxy-D-glucose transaminase	2.6.1.59	dTDP-4-amino-4,6-dideoxygalactose transaminase
+thymidine diphospho-4-keto-6-deoxy-D-glucose glucamic transaminase	2.6.1.59	dTDP-4-amino-4,6-dideoxygalactose transaminase
+WecE	2.6.1.59	dTDP-4-amino-4,6-dideoxygalactose transaminase
+leucine aminotransferase	2.6.1.6	leucine transaminase
+L-leucine aminotransferase	2.6.1.6	leucine transaminase
+leucine 2-oxoglutarate transaminase	2.6.1.6	leucine transaminase
+leucine-alpha-ketoglutarate transaminase	2.6.1.6	leucine transaminase
+aminotransferase, aromatic amino acid-glyoxylate	2.6.1.60	aromatic-amino-acid-glyoxylate transaminase
+arom. amino acid-glyoxylate aminotransferase	2.6.1.60	aromatic-amino-acid-glyoxylate transaminase
+aromatic amino acid-glyoxylate aminotransferase	2.6.1.60	aromatic-amino-acid-glyoxylate transaminase
+7,8-diaminononanoate transaminase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+DAPA transaminase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+DAPA aminotransferase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+7-keto-8-aminopelargonic acid-7,8-diaminopelargonic acid	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+synthase, diaminopelargonate	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+7-keto-8-aminopelargonic acid aminotransferase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+diaminopelargonate synthase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+bioA	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+DAPA amino transferase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+More	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+7,8-diaminopelargonate synthase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+7,8-diaminopelargonic acid aminotransferase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+DAPA AT	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+DAPA synthase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+7,8-diaminopelargonic acid synthase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+7,8-diaminoperlargonic acid aminotransferase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+diaminoperlargonic acid aminotransferase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+S-adenosyl-L-methionine:8-amino-7-oxononanoate aminotransferase	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+Bio3-Bio1	2.6.1.62	adenosylmethionine-8-amino-7-oxononanoate transaminase
+aminotransferase, kynurenine-glyoxylate	2.6.1.63	kynurenine-glyoxylate transaminase
+glutamine-phenylpyruvate aminotransferase	2.6.1.64	glutamine-phenylpyruvate transaminase
+glutamine transaminase K	2.6.1.64	glutamine-phenylpyruvate transaminase
+GTK	2.6.1.64	glutamine-phenylpyruvate transaminase
+glutamine transaminase L	2.6.1.64	glutamine-phenylpyruvate transaminase
+kynurenine aminotransferase/glutamine transaminase K	2.6.1.64	glutamine-phenylpyruvate transaminase
+KAT/GTK	2.6.1.64	glutamine-phenylpyruvate transaminase
+EC 2.6.1.7	2.6.1.64	glutamine-phenylpyruvate transaminase
+EC 2.6.1.14	2.6.1.64	glutamine-phenylpyruvate transaminase
+cysteine conjugate beta-lyase/glutamine transaminase K	2.6.1.64	glutamine-phenylpyruvate transaminase
+histidine pyruvate aminotransferase isoenzyme 2	2.6.1.64	glutamine-phenylpyruvate transaminase
+EC 2.6.1.15	2.6.1.64	glutamine-phenylpyruvate transaminase
+aminotransferase, epsilon-acetyl-beta-lysine	2.6.1.65	N6-acetyl-beta-lysine transaminase
+alanine-valine transaminase	2.6.1.66	valine-pyruvate transaminase
+aminotransferase, valine-pyruvate	2.6.1.66	valine-pyruvate transaminase
+aminotransferase, alanine-oxoisovalerate	2.6.1.66	valine-pyruvate transaminase
+transaminase C	2.6.1.66	valine-pyruvate transaminase
+AvtA	2.6.1.66	valine-pyruvate transaminase
+norleucine	2.6.1.67	2-aminohexanoate transaminase
+L-norleucine,leucine:2-oxoglutarate aminotransferase	2.6.1.67	2-aminohexanoate transaminase
+norleucine transaminase	2.6.1.67	2-aminohexanoate transaminase
+leucine L-norleucine:2-oxoglutarate aminotransferase	2.6.1.67	2-aminohexanoate transaminase
+aminotransferase, ornithine	2.6.1.68	ornithine(lysine) transaminase
+lysine/ornithine:2-oxoglutarate aminotransferase	2.6.1.68	ornithine(lysine) transaminase
+kynurenine transaminase	2.6.1.7	kynurenine-oxoglutarate transaminase
+aminotransferase, kynurenine	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine 2-oxoglutarate transaminase	2.6.1.7	kynurenine-oxoglutarate transaminase
+L-kynurenine aminotransferase	2.6.1.7	kynurenine-oxoglutarate transaminase
+KAT IV	2.6.1.7	kynurenine-oxoglutarate transaminase
+KAT II	2.6.1.7	kynurenine-oxoglutarate transaminase
+KAT I	2.6.1.7	kynurenine-oxoglutarate transaminase
+KAT III	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine aminotransferase	2.6.1.7	kynurenine-oxoglutarate transaminase
+phKAT-II	2.6.1.7	kynurenine-oxoglutarate transaminase
+KAT-II	2.6.1.7	kynurenine-oxoglutarate transaminase
+KAT-I	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine aminotransferase-I	2.6.1.7	kynurenine-oxoglutarate transaminase
+type II kynurenine aminotransferase	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine aminotransferase II	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine aminotransferase I	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine aminotransferases II	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine aminotransferases I	2.6.1.7	kynurenine-oxoglutarate transaminase
+AadAT	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine/alpha-aminoadipate aminotransferase	2.6.1.7	kynurenine-oxoglutarate transaminase
+KAT2	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine aminotransferase-1	2.6.1.7	kynurenine-oxoglutarate transaminase
+KAT-1	2.6.1.7	kynurenine-oxoglutarate transaminase
+KYAT3	2.6.1.7	kynurenine-oxoglutarate transaminase
+CCBL2	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine aminotransferase III	2.6.1.7	kynurenine-oxoglutarate transaminase
+More	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine-2-oxoglutarate aminotransferase	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine pyruvate aminotransferase	2.6.1.7	kynurenine-oxoglutarate transaminase
+KAT	2.6.1.7	kynurenine-oxoglutarate transaminase
+cysteine conjugate beta-lyase 2	2.6.1.7	kynurenine-oxoglutarate transaminase
+Bna3	2.6.1.7	kynurenine-oxoglutarate transaminase
+aminoadipate aminotransferase	2.6.1.7	kynurenine-oxoglutarate transaminase
+glutamine transaminase K	2.6.1.7	kynurenine-oxoglutarate transaminase
+cysteine conjugate beta-lyase 1	2.6.1.7	kynurenine-oxoglutarate transaminase
+aspartate aminotransferase	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine aminotransferase IV	2.6.1.7	kynurenine-oxoglutarate transaminase
+glutamic-oxaloacetic transaminase 2	2.6.1.7	kynurenine-oxoglutarate transaminase
+mitochondrial aspartate aminotransferase	2.6.1.7	kynurenine-oxoglutarate transaminase
+kynurenine aminotransferase-IV	2.6.1.7	kynurenine-oxoglutarate transaminase
+PhKAT	2.6.1.7	kynurenine-oxoglutarate transaminase
+aspartate-phenylpyruvate aminotransferase	2.6.1.70	aspartate-phenylpyruvate transaminase
+lysine-pyruvate aminotransferase	2.6.1.71	lysine-pyruvate 6-transaminase
+lys-AT	2.6.1.71	lysine-pyruvate 6-transaminase
+aminotransferase, D-hydroxyphenylglycine	2.6.1.72	D-4-hydroxyphenylglycine transaminase
+hydroxyphenylglycine aminotransferase	2.6.1.72	D-4-hydroxyphenylglycine transaminase
+HpgAT	2.6.1.72	D-4-hydroxyphenylglycine transaminase
+D-PhgAT	2.6.1.72	D-4-hydroxyphenylglycine transaminase
+dpgA	2.6.1.72	D-4-hydroxyphenylglycine transaminase
+PhgAT	2.6.1.72	D-4-hydroxyphenylglycine transaminase
+MGAT	2.6.1.73	methionine-glyoxylate transaminase
+aminotransferase, methionine-glyoxylate	2.6.1.73	methionine-glyoxylate transaminase
+methionine-glyoxylate aminotransferase	2.6.1.73	methionine-glyoxylate transaminase
+aminotransferase, cephalosporin C	2.6.1.74	cephalosporin-C transaminase
+aminotransferase, cysteine conjugate	2.6.1.75	cysteine-conjugate transaminase
+cysteine-conjugate alpha-ketoglutarate transaminase	2.6.1.75	cysteine-conjugate transaminase
+L-2,4-diaminobutyrate:2-ketoglutarate 4-aminotransferase	2.6.1.76	diaminobutyrate-2-oxoglutarate transaminase
+2,4-diaminobutyrate 4-aminotransferase	2.6.1.76	diaminobutyrate-2-oxoglutarate transaminase
+DABA:2-KG 4 aminotransferase	2.6.1.76	diaminobutyrate-2-oxoglutarate transaminase
+DABA AT	2.6.1.76	diaminobutyrate-2-oxoglutarate transaminase
+DABA-AT	2.6.1.76	diaminobutyrate-2-oxoglutarate transaminase
+Diaminobutyrate transaminase	2.6.1.76	diaminobutyrate-2-oxoglutarate transaminase
+L-diaminobutyric acid transaminase	2.6.1.76	diaminobutyrate-2-oxoglutarate transaminase
+DABA aminotransferase	2.6.1.76	diaminobutyrate-2-oxoglutarate transaminase
+EctB	2.6.1.76	diaminobutyrate-2-oxoglutarate transaminase
+2,4-diaminobutyrate aminotransferase	2.6.1.76	diaminobutyrate-2-oxoglutarate transaminase
+aminotransferase, taurine-pyruvate	2.6.1.77	taurine-pyruvate aminotransferase
+tPA	2.6.1.77	taurine-pyruvate aminotransferase
+HPA	2.6.1.77	taurine-pyruvate aminotransferase
+Pden_4273	2.6.1.77	taurine-pyruvate aminotransferase
+hypotaurine-inducible hypotaurine:pyruvate aminotransferase	2.6.1.77	taurine-pyruvate aminotransferase
+taurine transaminase	2.6.1.77	taurine-pyruvate aminotransferase
+taurine:pyruvate aminotransferase	2.6.1.77	taurine-pyruvate aminotransferase
+Pat	2.6.1.78	aspartate-prephenate aminotransferase
+prephenate aminotransferase	2.6.1.78	aspartate-prephenate aminotransferase
+prephenate aminotransferase	2.6.1.79	glutamate-prephenate aminotransferase
+Pat	2.6.1.79	glutamate-prephenate aminotransferase
+AspB2	2.6.1.79	glutamate-prephenate aminotransferase
+aatA	2.6.1.79	glutamate-prephenate aminotransferase
+aspartate aminotransferase A	2.6.1.79	glutamate-prephenate aminotransferase
+IlvE	2.6.1.79	glutamate-prephenate aminotransferase
+AT-C	2.6.1.79	glutamate-prephenate aminotransferase
+prephenate: glutamate aminotransferase	2.6.1.79	glutamate-prephenate aminotransferase
+aminotransferase, diamino acid	2.6.1.8	2,5-diaminovalerate transaminase
+diamino acid aminotransferase	2.6.1.8	2,5-diaminovalerate transaminase
+diamino-acid transaminase	2.6.1.8	2,5-diaminovalerate transaminase
+nicotianamine transaminase	2.6.1.80	nicotianamine aminotransferase
+NAAT I	2.6.1.80	nicotianamine aminotransferase
+NAAT II	2.6.1.80	nicotianamine aminotransferase
+NAAT-III	2.6.1.80	nicotianamine aminotransferase
+naat-B	2.6.1.80	nicotianamine aminotransferase
+OsNAAT2	2.6.1.80	nicotianamine aminotransferase
+OsNAAT4	2.6.1.80	nicotianamine aminotransferase
+NAAT1	2.6.1.80	nicotianamine aminotransferase
+naat-A	2.6.1.80	nicotianamine aminotransferase
+OsNAAT1	2.6.1.80	nicotianamine aminotransferase
+OsNAAT3	2.6.1.80	nicotianamine aminotransferase
+OsNAAT5	2.6.1.80	nicotianamine aminotransferase
+succinylornithine aminotransferase	2.6.1.81	succinylornithine transaminase
+SOAT	2.6.1.81	succinylornithine transaminase
+More	2.6.1.81	succinylornithine transaminase
+AstC	2.6.1.81	succinylornithine transaminase
+SOT	2.6.1.81	succinylornithine transaminase
+N2-succinylornithine 5-aminotransferase	2.6.1.81	succinylornithine transaminase
+succinylornithine 5-aminotransferase	2.6.1.81	succinylornithine transaminase
+putrescine transaminase	2.6.1.82	putrescine-2-oxoglutarate transaminase
+putrescine-alpha-ketoglutarate transaminase	2.6.1.82	putrescine-2-oxoglutarate transaminase
+PATase	2.6.1.82	putrescine-2-oxoglutarate transaminase
+YgjG	2.6.1.82	putrescine-2-oxoglutarate transaminase
+putrescine:2-oxoglutarate aminotransferase	2.6.1.82	putrescine-2-oxoglutarate transaminase
+PatA	2.6.1.82	putrescine-2-oxoglutarate transaminase
+YjgG	2.6.1.82	putrescine-2-oxoglutarate transaminase
+LL-diaminopimelate aminotransferase	2.6.1.83	LL-diaminopimelate aminotransferase
+MA1712	2.6.1.83	LL-diaminopimelate aminotransferase
+Ava_1277	2.6.1.83	LL-diaminopimelate aminotransferase
+glr4108	2.6.1.83	LL-diaminopimelate aminotransferase
+Moth_0889	2.6.1.83	LL-diaminopimelate aminotransferase
+sll0480	2.6.1.83	LL-diaminopimelate aminotransferase
+Sfum_0054	2.6.1.83	LL-diaminopimelate aminotransferase
+Ava_2354	2.6.1.83	LL-diaminopimelate aminotransferase
+GSU0162	2.6.1.83	LL-diaminopimelate aminotransferase
+MTH52	2.6.1.83	LL-diaminopimelate aminotransferase
+Cthe_0816	2.6.1.83	LL-diaminopimelate aminotransferase
+L,L-diaminopimelate aminotransferase	2.6.1.83	LL-diaminopimelate aminotransferase
+LIC12841	2.6.1.83	LL-diaminopimelate aminotransferase
+Dhaf_1761	2.6.1.83	LL-diaminopimelate aminotransferase
+BF2666	2.6.1.83	LL-diaminopimelate aminotransferase
+DapI	2.6.1.83	LL-diaminopimelate aminotransferase
+Ald1	2.6.1.83	LL-diaminopimelate aminotransferase
+AtDAP-AT	2.6.1.83	LL-diaminopimelate aminotransferase
+diaminopimelate aminotransferase	2.6.1.83	LL-diaminopimelate aminotransferase
+LL-DAP-AT	2.6.1.83	LL-diaminopimelate aminotransferase
+LL-DAP	2.6.1.83	LL-diaminopimelate aminotransferase
+Msp_0924	2.6.1.83	LL-diaminopimelate aminotransferase
+DapL	2.6.1.83	LL-diaminopimelate aminotransferase
+pc0685	2.6.1.83	LL-diaminopimelate aminotransferase
+CT390	2.6.1.83	LL-diaminopimelate aminotransferase
+aq_273	2.6.1.83	LL-diaminopimelate aminotransferase
+ATASE	2.6.1.84	arginine-pyruvate transaminase
+aruF mutant	2.6.1.84	arginine-pyruvate transaminase
+L-arginine inducible arginine:pyruvate transaminase	2.6.1.84	arginine-pyruvate transaminase
+L-arginine:pyruvate transaminase	2.6.1.84	arginine-pyruvate transaminase
+arginine/lysine:pyruvate transaminase	2.6.1.84	arginine-pyruvate transaminase
+AruH	2.6.1.84	arginine-pyruvate transaminase
+arginine:pyruvate transaminase	2.6.1.84	arginine-pyruvate transaminase
+ADC synthase	2.6.1.85	aminodeoxychorismate synthase
+aminodeoxychorismate synthase	2.6.1.85	aminodeoxychorismate synthase
+ADC	2.6.1.85	aminodeoxychorismate synthase
+4-amino-4-deoxychorismate synthase	2.6.1.85	aminodeoxychorismate synthase
+PabB	2.6.1.85	aminodeoxychorismate synthase
+ADCS	2.6.1.85	aminodeoxychorismate synthase
+PabA	2.6.1.85	aminodeoxychorismate synthase
+PabAB	2.6.1.85	aminodeoxychorismate synthase
+PhzE	2.6.1.85	aminodeoxychorismate synthase
+PhzE	2.6.1.86	2-amino-4-deoxychorismate synthase
+2-amino-2-deoxyisochorismate synthase	2.6.1.86	2-amino-4-deoxychorismate synthase
+ADIC synthase	2.6.1.86	2-amino-4-deoxychorismate synthase
+SgcD	2.6.1.86	2-amino-4-deoxychorismate synthase
+2-amino-2-deoxyisochorismate	2.6.1.86	2-amino-4-deoxychorismate synthase
+aminodeoxyisochorismate synthase	2.6.1.86	2-amino-4-deoxychorismate synthase
+2-amino-2desoxyisochorismate synthase	2.6.1.86	2-amino-4-deoxychorismate synthase
+ADCS	2.6.1.86	2-amino-4-deoxychorismate synthase
+PabA	2.6.1.86	2-amino-4-deoxychorismate synthase
+tyrosine aminotransferase	2.6.1.88	methionine transaminase
+TyrAT	2.6.1.88	methionine transaminase
+KMAT	2.6.1.88	methionine transaminase
+branched-chain amino acid aminotransferase	2.6.1.88	methionine transaminase
+BcaT	2.6.1.88	methionine transaminase
+branched-chain aminotransferase4	2.6.1.88	methionine transaminase
+BCAT4	2.6.1.88	methionine transaminase
+YbdL	2.6.1.88	methionine transaminase
+methionine aminotransferase	2.6.1.88	methionine transaminase
+TylB	2.6.1.89	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase
+TDP-3-keto-6-deoxy-D-glucose 3-aminotransferase	2.6.1.89	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase
+TDP-3-dehydro-6-deoxy-D-glucose 3-aminotransferase	2.6.1.89	dTDP-3-amino-3,6-dideoxy-alpha-D-glucopyranose transaminase
+aminotransferase, histidinol phosphate	2.6.1.9	histidinol-phosphate transaminase
+glutamic-imidazoleacetol phosphate transaminase	2.6.1.9	histidinol-phosphate transaminase
+imidazoleacetol phosphate transaminase	2.6.1.9	histidinol-phosphate transaminase
+L-histidinol phosphate aminotransferase	2.6.1.9	histidinol-phosphate transaminase
+imidazolylacetolphosphate transaminase	2.6.1.9	histidinol-phosphate transaminase
+histidine:imidazoleacetol phosphate transaminase	2.6.1.9	histidinol-phosphate transaminase
+IAP transaminase	2.6.1.9	histidinol-phosphate transaminase
+imidazolylacetolphosphate aminotransferase	2.6.1.9	histidinol-phosphate transaminase
+HisC	2.6.1.9	histidinol-phosphate transaminase
+Rv1600	2.6.1.9	histidinol-phosphate transaminase
+AtHPA1	2.6.1.9	histidinol-phosphate transaminase
+histidinol phosphate aminotransferase	2.6.1.9	histidinol-phosphate transaminase
+HisC2	2.6.1.9	histidinol-phosphate transaminase
+histidinol-phosphate aminotransferase	2.6.1.9	histidinol-phosphate transaminase
+HspAT	2.6.1.9	histidinol-phosphate transaminase
+RavAMT	2.6.1.90	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+TDP-3-keto-6-deoxy-D-galactose-3-aminotransferase	2.6.1.90	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+FdtB	2.6.1.90	dTDP-3-amino-3,6-dideoxy-alpha-D-galactopyranose transaminase
+Cj1294	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+PseC	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+HP0366	2.6.1.92	UDP-4-amino-4,6-dideoxy-N-acetyl-beta-L-altrosamine transaminase
+glutamate-6'-dehydroparomamine aminotransferase	2.6.1.93	neamine transaminase
+neoN	2.6.1.93	neamine transaminase
+btrB	2.6.1.93	neamine transaminase
+6'-oxoglucosaminyl:L-glutamate aminotransferase	2.6.1.93	neamine transaminase
+neoB	2.6.1.93	neamine transaminase
+Neo-18	2.6.1.93	neamine transaminase
+kacL	2.6.1.93	neamine transaminase
+6'-oxoparomamine aminotransferase	2.6.1.93	neamine transaminase
+kacL	2.6.1.94	2'-deamino-2'-hydroxyneamine transaminase
+6'-oxoparomamine aminotransferase	2.6.1.94	2'-deamino-2'-hydroxyneamine transaminase
+neoN	2.6.1.95	neomycin C transaminase
+neoB	2.6.1.95	neomycin C transaminase
+Neo-18	2.6.1.95	neomycin C transaminase
+6'-oxoglucosaminyl:L-glutamate aminotransferase	2.6.1.95	neomycin C transaminase
+gamma-aminobutyric acid pyruvate transaminase	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+gaba:pyruvate transaminase	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+4-aminobutyrate transaminase	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+pyruvate-specific mitochondrial GABA-T	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+GABA:pyruvate-T	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+GABA-T	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+gamma-aminobutyrate transaminase	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+GABA-T3	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+Os04g0614500	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+GABA-T2	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+BnaA01g24820D	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+BnaA.GABA-T.a	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+BnaC.GABA-T.a	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+BnaA05g17430D	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+BnaA.GABA-T.b	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+BnaC05g30410D	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+BnaC.GABA-T.b	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+gamma-aminobutyric acid transaminase	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+Osl2	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+gamma-aminobutyrate transaminase 1, mitochondrial	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+GABA transaminase	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+Pop2	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+gammaaAminobutyric acid transaminase	2.6.1.96	4-aminobutyrate-pyruvate transaminase
+MJ1022	2.6.1.97	archaeosine synthase
+tRNA-guanine transglycosylase	2.6.1.97	archaeosine synthase
+TgtA2	2.6.1.97	archaeosine synthase
+ArcS	2.6.1.97	archaeosine synthase
+ATP-independent amidinotransferase	2.6.1.97	archaeosine synthase
+ARChaeosine synthase	2.6.1.97	archaeosine synthase
+SSO0016	2.6.1.97	archaeosine synthase
+aminotransferase WbpE	2.6.1.98	UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase
+WlbC	2.6.1.98	UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase
+WbpE	2.6.1.98	UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase
+PorR	2.6.1.98	UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase
+PGN_1236	2.6.1.98	UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase
+vl2	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+TAA	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+tryptophan aminotransferase of Arabidopsis 1	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+TAA1	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+SAV3	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS1	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+tryptophan aminotransferase of Arabidopsis	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+Vas1	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+At1g80360	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+F5I6.11	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+FIB	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+transoximinase	2.6.3.1	oximinotransferase
+oximase	2.6.3.1	oximinotransferase
+pyruvate-acetone oximinotransferase	2.6.3.1	oximinotransferase
+transoximase	2.6.3.1	oximinotransferase
+PNP synthase	2.6.99.2	pyridoxine 5'-phosphate synthase
+PdxJ	2.6.99.2	pyridoxine 5'-phosphate synthase
+pyridoxine 5'-phosphate synthesizing enzyme	2.6.99.2	pyridoxine 5'-phosphate synthase
+DcsD	2.6.99.3	O-ureido-L-serine synthase

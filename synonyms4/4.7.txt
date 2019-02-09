@@ -1,0 +1,2 @@
+synonyms	ec_number	recommended_name
+phnJ	4.7.1.1	alpha-D-ribose 1-methylphosphonate 5-phosphate C-P-lyase

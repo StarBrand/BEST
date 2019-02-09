@@ -1,0 +1,13 @@
+Commentary	Substrate	Ref	Literature(PubmedID)	value
+pH 8.0, 30°C	hydrogenobyrinic acid a,c-diamide	18	1429466	8.5E-5
+pH 8.0, 30°C	Co2+	18	1429466	0.0042
+pH 8.0, 30°C	ATP	18	1429466	0.22
+pH 8.0, 30°C	hydrogenobyrinic acid a,c-diamide	19	1429466	8.5E-5
+pH 8.0, 30°C	Co2+	19	1429466	0.0042
+pH 8.0, 30°C	ATP	19	1429466	0.22
+pH 8.0, 30°C	hydrogenobyrinic acid a,c-diamide	20	1429466	8.5E-5
+pH 8.0, 30°C	Co2+	20	1429466	0.0042
+pH 8.0, 30°C	ATP	20	1429466	0.22
+pH 8.0, 30°C	hydrogenobyrinic acid a,c-diamide	21	1429466	8.5E-5
+pH 8.0, 30°C	Co2+	21	1429466	0.0042
+pH 8.0, 30°C	ATP	21	1429466	0.22

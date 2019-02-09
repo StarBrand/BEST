@@ -1,0 +1,1 @@
+UniProt	Enzyme	Organism	Source	Found_using_Brenda

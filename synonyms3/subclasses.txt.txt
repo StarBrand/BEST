@@ -1,0 +1,14 @@
+EC	subclass
+3.1	Acting on ester bonds
+3.2	Glycosylases
+3.3	Acting on ether bonds
+3.4	Acting on peptide bonds (peptidases)
+3.5	Acting on carbon-nitrogen bonds, other than peptide bonds
+3.6	Acting on acid anhydrides
+3.7	Acting on carbon-carbon bonds
+3.8	Acting on halide bonds
+3.9	Acting on phosphorus-nitrogen bonds
+3.10	Acting on sulfur-nitrogen bonds
+3.11	Acting on carbon-phosphorus bonds
+3.12	Acting on sulfur-sulfur bonds
+3.13	Acting on carbon-sulfur bonds

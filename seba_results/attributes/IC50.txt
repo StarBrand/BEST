@@ -1,0 +1,253 @@
+Commentary	Ref	Literature(PubmedID)	Inhibitor	value
+pH 7.2, 37°C, ALR1	1127	24793885	2-(2-oxo-3-phenethylquinoxalin-1(2H)-yl) acetic acid	1.43E-4
+pH 7.2, 37°C, ALR1	1127	24793885	2-(3-(2,4-difluorophenylamino)-6-nitro-2-oxoquinoxalin-1(2H)-yl) acetic acid	2.83E-4
+pH 7.2, 37°C, ALR1	1127	24793885	2-(3-(4-fluorostyryl)-6-nitro-2-oxoquinoxalin-1(2H)-yl)acetic acid	3.62E-4
+pH 7.2, 37°C, ALR1	1127	24793885	2-(6-chloro-3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl)acetic acid	6.6E-4
+pH 7.2, 37°C, ALR1	1127	24793885	2-(2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	8.2E-4
+pH 7.2, 37°C, ALR1	1127	24793885	2-(3-(4-fluorophenethyl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00114
+pH and temperature not specified in the publication	1127	25695864	(3-[[(2-fluorophenyl)methyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0012
+pH 7.2, 37°C, ALR1	1127	24793885	2-(3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00143
+pH 7.2, 37°C, ALR1	1127	24793885	2-(3-(3-(tert-butylamino)-3-oxoprop-1-en-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00186
+pH 7.2, 37°C, ALR1	1127	24793885	2-(7-chloro-2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	0.00388
+pH and temperature not specified in the publication	1127	25695864	(2,3-dihydrocyclopenta[b]indol-4(1H)-yl)acetic acid	0.0048
+pH and temperature not specified in the publication	1127	25695864	3-[3-[(diethylamino)methyl]-1H-indol-1-yl]propanoic acid	0.0067
+pH 7.2, 37°C, ALR1	1127	24793885	2-(3-(4-(4-methoxyphenyl) piperazin-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00753
+pH and temperature not specified in the publication	1127	25695864	3-(1H-indol-1-yl)propanoic acid	0.0118
+pH and temperature not specified in the publication	1127	25695864	[3-[(propan-2-yl)sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl]acetic acid	0.0141
+pH and temperature not specified in the publication	1127	25695864	(7H-indolo[2',3':5,6][1,2,4]triazino[2,3-a]benzimidazol-7-yl)acetic acid	0.0151
+pH and temperature not specified in the publication	1127	25695864	[3-[(pyrrolidin-1-yl)methyl]-1H-indol-1-yl]acetic acid	0.0192
+pH and temperature not specified in the publication	1127	25695864	(8-methyl-3-[[2-oxo-2-(propylamino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0196
+pH and temperature not specified in the publication	1127	25695864	[3-[(dimethylamino)methyl]-2-methyl-1H-indol-1-yl]acetic acid	0.0223
+pH and temperature not specified in the publication	1127	25695864	(3-[[2-oxo-2-(2,4,6-trimethylanilino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0235
+pH and temperature not specified in the publication	1127	25695864	(6H-indolo[2,3-b]quinoxalin-6-yl)acetic acid	0.0248
+pH and temperature not specified in the publication	1127	25695864	[3-[(morpholin-4-yl)methyl]-1H-indol-1-yl]acetic acid	0.0325
+pH and temperature not specified in the publication	1127	25695864	[3-[(diethylamino)methyl]-1H-indol-1-yl]acetic acid	0.0381
+pH and temperature not specified in the publication	1127	25695864	(3-sulfanyl-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0406
+pH and temperature not specified in the publication	1127	25695864	(4-oxo-3,4-dihydro-5H-pyridazino[4,5-b]indol-5-yl)acetic acid	0.049
+pH and temperature not specified in the publication	1127	25695864	[3-(2,2-dimethylpropanoyl)-1H-indol-1-yl]acetic acid	0.0684
+pH and temperature not specified in the publication	1127	25695864	(1H-indol-1-yl)acetic acid	0.0802
+pH 7.2, 37°C, ALR1	1128	24793885	2-(2-oxo-3-phenethylquinoxalin-1(2H)-yl) acetic acid	1.43E-4
+pH 7.2, 37°C, ALR1	1128	24793885	2-(3-(2,4-difluorophenylamino)-6-nitro-2-oxoquinoxalin-1(2H)-yl) acetic acid	2.83E-4
+pH 7.2, 37°C, ALR1	1128	24793885	2-(3-(4-fluorostyryl)-6-nitro-2-oxoquinoxalin-1(2H)-yl)acetic acid	3.62E-4
+pH 7.2, 37°C, ALR1	1128	24793885	2-(6-chloro-3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl)acetic acid	6.6E-4
+pH 7.2, 37°C, ALR1	1128	24793885	2-(2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	8.2E-4
+pH 7.2, 37°C, ALR1	1128	24793885	2-(3-(4-fluorophenethyl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00114
+pH and temperature not specified in the publication	1128	25695864	(3-[[(2-fluorophenyl)methyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0012
+pH 7.2, 37°C, ALR1	1128	24793885	2-(3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00143
+pH 7.2, 37°C, ALR1	1128	24793885	2-(3-(3-(tert-butylamino)-3-oxoprop-1-en-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00186
+pH 7.2, 37°C, ALR1	1128	24793885	2-(7-chloro-2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	0.00388
+pH and temperature not specified in the publication	1128	25695864	(2,3-dihydrocyclopenta[b]indol-4(1H)-yl)acetic acid	0.0048
+pH and temperature not specified in the publication	1128	25695864	3-[3-[(diethylamino)methyl]-1H-indol-1-yl]propanoic acid	0.0067
+pH 7.2, 37°C, ALR1	1128	24793885	2-(3-(4-(4-methoxyphenyl) piperazin-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00753
+pH and temperature not specified in the publication	1128	25695864	3-(1H-indol-1-yl)propanoic acid	0.0118
+pH and temperature not specified in the publication	1128	25695864	[3-[(propan-2-yl)sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl]acetic acid	0.0141
+pH and temperature not specified in the publication	1128	25695864	(7H-indolo[2',3':5,6][1,2,4]triazino[2,3-a]benzimidazol-7-yl)acetic acid	0.0151
+pH and temperature not specified in the publication	1128	25695864	[3-[(pyrrolidin-1-yl)methyl]-1H-indol-1-yl]acetic acid	0.0192
+pH and temperature not specified in the publication	1128	25695864	(8-methyl-3-[[2-oxo-2-(propylamino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0196
+pH and temperature not specified in the publication	1128	25695864	[3-[(dimethylamino)methyl]-2-methyl-1H-indol-1-yl]acetic acid	0.0223
+pH and temperature not specified in the publication	1128	25695864	(3-[[2-oxo-2-(2,4,6-trimethylanilino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0235
+pH and temperature not specified in the publication	1128	25695864	(6H-indolo[2,3-b]quinoxalin-6-yl)acetic acid	0.0248
+pH and temperature not specified in the publication	1128	25695864	[3-[(morpholin-4-yl)methyl]-1H-indol-1-yl]acetic acid	0.0325
+pH and temperature not specified in the publication	1128	25695864	[3-[(diethylamino)methyl]-1H-indol-1-yl]acetic acid	0.0381
+pH and temperature not specified in the publication	1128	25695864	(3-sulfanyl-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0406
+pH and temperature not specified in the publication	1128	25695864	(4-oxo-3,4-dihydro-5H-pyridazino[4,5-b]indol-5-yl)acetic acid	0.049
+pH and temperature not specified in the publication	1128	25695864	[3-(2,2-dimethylpropanoyl)-1H-indol-1-yl]acetic acid	0.0684
+pH and temperature not specified in the publication	1128	25695864	(1H-indol-1-yl)acetic acid	0.0802
+pH 7.2, 37°C, ALR1	1129	24793885	2-(2-oxo-3-phenethylquinoxalin-1(2H)-yl) acetic acid	1.43E-4
+pH 7.2, 37°C, ALR1	1129	24793885	2-(3-(2,4-difluorophenylamino)-6-nitro-2-oxoquinoxalin-1(2H)-yl) acetic acid	2.83E-4
+pH 7.2, 37°C, ALR1	1129	24793885	2-(3-(4-fluorostyryl)-6-nitro-2-oxoquinoxalin-1(2H)-yl)acetic acid	3.62E-4
+pH 7.2, 37°C, ALR1	1129	24793885	2-(6-chloro-3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl)acetic acid	6.6E-4
+pH 7.2, 37°C, ALR1	1129	24793885	2-(2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	8.2E-4
+pH 7.2, 37°C, ALR1	1129	24793885	2-(3-(4-fluorophenethyl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00114
+pH and temperature not specified in the publication	1129	25695864	(3-[[(2-fluorophenyl)methyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0012
+pH 7.2, 37°C, ALR1	1129	24793885	2-(3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00143
+pH 7.2, 37°C, ALR1	1129	24793885	2-(3-(3-(tert-butylamino)-3-oxoprop-1-en-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00186
+pH 7.2, 37°C, ALR1	1129	24793885	2-(7-chloro-2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	0.00388
+pH and temperature not specified in the publication	1129	25695864	(2,3-dihydrocyclopenta[b]indol-4(1H)-yl)acetic acid	0.0048
+pH and temperature not specified in the publication	1129	25695864	3-[3-[(diethylamino)methyl]-1H-indol-1-yl]propanoic acid	0.0067
+pH 7.2, 37°C, ALR1	1129	24793885	2-(3-(4-(4-methoxyphenyl) piperazin-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00753
+pH and temperature not specified in the publication	1129	25695864	3-(1H-indol-1-yl)propanoic acid	0.0118
+pH and temperature not specified in the publication	1129	25695864	[3-[(propan-2-yl)sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl]acetic acid	0.0141
+pH and temperature not specified in the publication	1129	25695864	(7H-indolo[2',3':5,6][1,2,4]triazino[2,3-a]benzimidazol-7-yl)acetic acid	0.0151
+pH and temperature not specified in the publication	1129	25695864	[3-[(pyrrolidin-1-yl)methyl]-1H-indol-1-yl]acetic acid	0.0192
+pH and temperature not specified in the publication	1129	25695864	(8-methyl-3-[[2-oxo-2-(propylamino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0196
+pH and temperature not specified in the publication	1129	25695864	[3-[(dimethylamino)methyl]-2-methyl-1H-indol-1-yl]acetic acid	0.0223
+pH and temperature not specified in the publication	1129	25695864	(3-[[2-oxo-2-(2,4,6-trimethylanilino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0235
+pH and temperature not specified in the publication	1129	25695864	(6H-indolo[2,3-b]quinoxalin-6-yl)acetic acid	0.0248
+pH and temperature not specified in the publication	1129	25695864	[3-[(morpholin-4-yl)methyl]-1H-indol-1-yl]acetic acid	0.0325
+pH and temperature not specified in the publication	1129	25695864	[3-[(diethylamino)methyl]-1H-indol-1-yl]acetic acid	0.0381
+pH and temperature not specified in the publication	1129	25695864	(3-sulfanyl-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0406
+pH and temperature not specified in the publication	1129	25695864	(4-oxo-3,4-dihydro-5H-pyridazino[4,5-b]indol-5-yl)acetic acid	0.049
+pH and temperature not specified in the publication	1129	25695864	[3-(2,2-dimethylpropanoyl)-1H-indol-1-yl]acetic acid	0.0684
+pH and temperature not specified in the publication	1129	25695864	(1H-indol-1-yl)acetic acid	0.0802
+pH 7.2, 37°C, ALR1	1130	24793885	2-(2-oxo-3-phenethylquinoxalin-1(2H)-yl) acetic acid	1.43E-4
+pH 7.2, 37°C, ALR1	1130	24793885	2-(3-(2,4-difluorophenylamino)-6-nitro-2-oxoquinoxalin-1(2H)-yl) acetic acid	2.83E-4
+pH 7.2, 37°C, ALR1	1130	24793885	2-(3-(4-fluorostyryl)-6-nitro-2-oxoquinoxalin-1(2H)-yl)acetic acid	3.62E-4
+pH 7.2, 37°C, ALR1	1130	24793885	2-(6-chloro-3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl)acetic acid	6.6E-4
+pH 7.2, 37°C, ALR1	1130	24793885	2-(2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	8.2E-4
+pH 7.2, 37°C, ALR1	1130	24793885	2-(3-(4-fluorophenethyl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00114
+pH and temperature not specified in the publication	1130	25695864	(3-[[(2-fluorophenyl)methyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0012
+pH 7.2, 37°C, ALR1	1130	24793885	2-(3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00143
+pH 7.2, 37°C, ALR1	1130	24793885	2-(3-(3-(tert-butylamino)-3-oxoprop-1-en-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00186
+pH 7.2, 37°C, ALR1	1130	24793885	2-(7-chloro-2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	0.00388
+pH and temperature not specified in the publication	1130	25695864	(2,3-dihydrocyclopenta[b]indol-4(1H)-yl)acetic acid	0.0048
+pH and temperature not specified in the publication	1130	25695864	3-[3-[(diethylamino)methyl]-1H-indol-1-yl]propanoic acid	0.0067
+pH 7.2, 37°C, ALR1	1130	24793885	2-(3-(4-(4-methoxyphenyl) piperazin-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00753
+pH and temperature not specified in the publication	1130	25695864	3-(1H-indol-1-yl)propanoic acid	0.0118
+pH and temperature not specified in the publication	1130	25695864	[3-[(propan-2-yl)sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl]acetic acid	0.0141
+pH and temperature not specified in the publication	1130	25695864	(7H-indolo[2',3':5,6][1,2,4]triazino[2,3-a]benzimidazol-7-yl)acetic acid	0.0151
+pH and temperature not specified in the publication	1130	25695864	[3-[(pyrrolidin-1-yl)methyl]-1H-indol-1-yl]acetic acid	0.0192
+pH and temperature not specified in the publication	1130	25695864	(8-methyl-3-[[2-oxo-2-(propylamino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0196
+pH and temperature not specified in the publication	1130	25695864	[3-[(dimethylamino)methyl]-2-methyl-1H-indol-1-yl]acetic acid	0.0223
+pH and temperature not specified in the publication	1130	25695864	(3-[[2-oxo-2-(2,4,6-trimethylanilino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0235
+pH and temperature not specified in the publication	1130	25695864	(6H-indolo[2,3-b]quinoxalin-6-yl)acetic acid	0.0248
+pH and temperature not specified in the publication	1130	25695864	[3-[(morpholin-4-yl)methyl]-1H-indol-1-yl]acetic acid	0.0325
+pH and temperature not specified in the publication	1130	25695864	[3-[(diethylamino)methyl]-1H-indol-1-yl]acetic acid	0.0381
+pH and temperature not specified in the publication	1130	25695864	(3-sulfanyl-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0406
+pH and temperature not specified in the publication	1130	25695864	(4-oxo-3,4-dihydro-5H-pyridazino[4,5-b]indol-5-yl)acetic acid	0.049
+pH and temperature not specified in the publication	1130	25695864	[3-(2,2-dimethylpropanoyl)-1H-indol-1-yl]acetic acid	0.0684
+pH and temperature not specified in the publication	1130	25695864	(1H-indol-1-yl)acetic acid	0.0802
+pH 7.2, 37°C, ALR1	1131	24793885	2-(2-oxo-3-phenethylquinoxalin-1(2H)-yl) acetic acid	1.43E-4
+pH 7.2, 37°C, ALR1	1131	24793885	2-(3-(2,4-difluorophenylamino)-6-nitro-2-oxoquinoxalin-1(2H)-yl) acetic acid	2.83E-4
+pH 7.2, 37°C, ALR1	1131	24793885	2-(3-(4-fluorostyryl)-6-nitro-2-oxoquinoxalin-1(2H)-yl)acetic acid	3.62E-4
+pH 7.2, 37°C, ALR1	1131	24793885	2-(6-chloro-3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl)acetic acid	6.6E-4
+pH 7.2, 37°C, ALR1	1131	24793885	2-(2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	8.2E-4
+pH 7.2, 37°C, ALR1	1131	24793885	2-(3-(4-fluorophenethyl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00114
+pH and temperature not specified in the publication	1131	25695864	(3-[[(2-fluorophenyl)methyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0012
+pH 7.2, 37°C, ALR1	1131	24793885	2-(3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00143
+pH 7.2, 37°C, ALR1	1131	24793885	2-(3-(3-(tert-butylamino)-3-oxoprop-1-en-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00186
+pH 7.2, 37°C, ALR1	1131	24793885	2-(7-chloro-2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	0.00388
+pH and temperature not specified in the publication	1131	25695864	(2,3-dihydrocyclopenta[b]indol-4(1H)-yl)acetic acid	0.0048
+pH and temperature not specified in the publication	1131	25695864	3-[3-[(diethylamino)methyl]-1H-indol-1-yl]propanoic acid	0.0067
+pH 7.2, 37°C, ALR1	1131	24793885	2-(3-(4-(4-methoxyphenyl) piperazin-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00753
+pH and temperature not specified in the publication	1131	25695864	3-(1H-indol-1-yl)propanoic acid	0.0118
+pH and temperature not specified in the publication	1131	25695864	[3-[(propan-2-yl)sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl]acetic acid	0.0141
+pH and temperature not specified in the publication	1131	25695864	(7H-indolo[2',3':5,6][1,2,4]triazino[2,3-a]benzimidazol-7-yl)acetic acid	0.0151
+pH and temperature not specified in the publication	1131	25695864	[3-[(pyrrolidin-1-yl)methyl]-1H-indol-1-yl]acetic acid	0.0192
+pH and temperature not specified in the publication	1131	25695864	(8-methyl-3-[[2-oxo-2-(propylamino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0196
+pH and temperature not specified in the publication	1131	25695864	[3-[(dimethylamino)methyl]-2-methyl-1H-indol-1-yl]acetic acid	0.0223
+pH and temperature not specified in the publication	1131	25695864	(3-[[2-oxo-2-(2,4,6-trimethylanilino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0235
+pH and temperature not specified in the publication	1131	25695864	(6H-indolo[2,3-b]quinoxalin-6-yl)acetic acid	0.0248
+pH and temperature not specified in the publication	1131	25695864	[3-[(morpholin-4-yl)methyl]-1H-indol-1-yl]acetic acid	0.0325
+pH and temperature not specified in the publication	1131	25695864	[3-[(diethylamino)methyl]-1H-indol-1-yl]acetic acid	0.0381
+pH and temperature not specified in the publication	1131	25695864	(3-sulfanyl-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0406
+pH and temperature not specified in the publication	1131	25695864	(4-oxo-3,4-dihydro-5H-pyridazino[4,5-b]indol-5-yl)acetic acid	0.049
+pH and temperature not specified in the publication	1131	25695864	[3-(2,2-dimethylpropanoyl)-1H-indol-1-yl]acetic acid	0.0684
+pH and temperature not specified in the publication	1131	25695864	(1H-indol-1-yl)acetic acid	0.0802
+pH 7.2, 37°C, ALR1	1132	24793885	2-(2-oxo-3-phenethylquinoxalin-1(2H)-yl) acetic acid	1.43E-4
+pH 7.2, 37°C, ALR1	1132	24793885	2-(3-(2,4-difluorophenylamino)-6-nitro-2-oxoquinoxalin-1(2H)-yl) acetic acid	2.83E-4
+pH 7.2, 37°C, ALR1	1132	24793885	2-(3-(4-fluorostyryl)-6-nitro-2-oxoquinoxalin-1(2H)-yl)acetic acid	3.62E-4
+pH 7.2, 37°C, ALR1	1132	24793885	2-(6-chloro-3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl)acetic acid	6.6E-4
+pH 7.2, 37°C, ALR1	1132	24793885	2-(2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	8.2E-4
+pH 7.2, 37°C, ALR1	1132	24793885	2-(3-(4-fluorophenethyl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00114
+pH and temperature not specified in the publication	1132	25695864	(3-[[(2-fluorophenyl)methyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0012
+pH 7.2, 37°C, ALR1	1132	24793885	2-(3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00143
+pH 7.2, 37°C, ALR1	1132	24793885	2-(3-(3-(tert-butylamino)-3-oxoprop-1-en-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00186
+pH 7.2, 37°C, ALR1	1132	24793885	2-(7-chloro-2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	0.00388
+pH and temperature not specified in the publication	1132	25695864	(2,3-dihydrocyclopenta[b]indol-4(1H)-yl)acetic acid	0.0048
+pH and temperature not specified in the publication	1132	25695864	3-[3-[(diethylamino)methyl]-1H-indol-1-yl]propanoic acid	0.0067
+pH 7.2, 37°C, ALR1	1132	24793885	2-(3-(4-(4-methoxyphenyl) piperazin-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00753
+pH and temperature not specified in the publication	1132	25695864	3-(1H-indol-1-yl)propanoic acid	0.0118
+pH and temperature not specified in the publication	1132	25695864	[3-[(propan-2-yl)sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl]acetic acid	0.0141
+pH and temperature not specified in the publication	1132	25695864	(7H-indolo[2',3':5,6][1,2,4]triazino[2,3-a]benzimidazol-7-yl)acetic acid	0.0151
+pH and temperature not specified in the publication	1132	25695864	[3-[(pyrrolidin-1-yl)methyl]-1H-indol-1-yl]acetic acid	0.0192
+pH and temperature not specified in the publication	1132	25695864	(8-methyl-3-[[2-oxo-2-(propylamino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0196
+pH and temperature not specified in the publication	1132	25695864	[3-[(dimethylamino)methyl]-2-methyl-1H-indol-1-yl]acetic acid	0.0223
+pH and temperature not specified in the publication	1132	25695864	(3-[[2-oxo-2-(2,4,6-trimethylanilino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0235
+pH and temperature not specified in the publication	1132	25695864	(6H-indolo[2,3-b]quinoxalin-6-yl)acetic acid	0.0248
+pH and temperature not specified in the publication	1132	25695864	[3-[(morpholin-4-yl)methyl]-1H-indol-1-yl]acetic acid	0.0325
+pH and temperature not specified in the publication	1132	25695864	[3-[(diethylamino)methyl]-1H-indol-1-yl]acetic acid	0.0381
+pH and temperature not specified in the publication	1132	25695864	(3-sulfanyl-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0406
+pH and temperature not specified in the publication	1132	25695864	(4-oxo-3,4-dihydro-5H-pyridazino[4,5-b]indol-5-yl)acetic acid	0.049
+pH and temperature not specified in the publication	1132	25695864	[3-(2,2-dimethylpropanoyl)-1H-indol-1-yl]acetic acid	0.0684
+pH and temperature not specified in the publication	1132	25695864	(1H-indol-1-yl)acetic acid	0.0802
+	1293	18782556	20alpha-hydroxysteroid dehydrogenase	4.4E-5
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1293	20036445	[5-(3-carboxymethoxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.0054
+	1293	18782556	3,5-dichlorosalicylic acid	0.011
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1293	20036445	[5-(3-hydroxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.037
+	1294	18782556	20alpha-hydroxysteroid dehydrogenase	4.4E-5
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1294	20036445	[5-(3-carboxymethoxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.0054
+	1294	18782556	3,5-dichlorosalicylic acid	0.011
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1294	20036445	[5-(3-hydroxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.037
+	1295	18782556	20alpha-hydroxysteroid dehydrogenase	4.4E-5
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1295	20036445	[5-(3-carboxymethoxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.0054
+	1295	18782556	3,5-dichlorosalicylic acid	0.011
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1295	20036445	[5-(3-hydroxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.037
+	1296	18782556	20alpha-hydroxysteroid dehydrogenase	4.4E-5
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1296	20036445	[5-(3-carboxymethoxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.0054
+	1296	18782556	3,5-dichlorosalicylic acid	0.011
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1296	20036445	[5-(3-hydroxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.037
+	1297	18782556	20alpha-hydroxysteroid dehydrogenase	4.4E-5
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1297	20036445	[5-(3-carboxymethoxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.0054
+	1297	18782556	3,5-dichlorosalicylic acid	0.011
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1297	20036445	[5-(3-hydroxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.037
+	1298	18782556	20alpha-hydroxysteroid dehydrogenase	4.4E-5
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1298	20036445	[5-(3-carboxymethoxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.0054
+	1298	18782556	3,5-dichlorosalicylic acid	0.011
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1298	20036445	[5-(3-hydroxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.037
+	1299	18782556	20alpha-hydroxysteroid dehydrogenase	4.4E-5
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1299	20036445	[5-(3-carboxymethoxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.0054
+	1299	18782556	3,5-dichlorosalicylic acid	0.011
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1299	20036445	[5-(3-hydroxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.037
+	1300	18782556	20alpha-hydroxysteroid dehydrogenase	4.4E-5
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1300	20036445	[5-(3-carboxymethoxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.0054
+	1300	18782556	3,5-dichlorosalicylic acid	0.011
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1300	20036445	[5-(3-hydroxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.037
+pH 7.2, 37°C, ALR1	1493	24793885	2-(2-oxo-3-phenethylquinoxalin-1(2H)-yl) acetic acid	1.43E-4
+pH 7.2, 37°C, ALR1	1493	24793885	2-(3-(2,4-difluorophenylamino)-6-nitro-2-oxoquinoxalin-1(2H)-yl) acetic acid	2.83E-4
+pH 7.2, 37°C, ALR1	1493	24793885	2-(3-(4-fluorostyryl)-6-nitro-2-oxoquinoxalin-1(2H)-yl)acetic acid	3.62E-4
+pH 7.2, 37°C, ALR1	1493	24793885	2-(6-chloro-3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl)acetic acid	6.6E-4
+pH 7.2, 37°C, ALR1	1493	24793885	2-(2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	8.2E-4
+pH 7.2, 37°C, ALR1	1493	24793885	2-(3-(4-fluorophenethyl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00114
+pH and temperature not specified in the publication	1493	25695864	(3-[[(2-fluorophenyl)methyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0012
+pH 7.2, 37°C, ALR1	1493	24793885	2-(3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00143
+pH 7.2, 37°C, ALR1	1493	24793885	2-(3-(3-(tert-butylamino)-3-oxoprop-1-en-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00186
+pH 7.2, 37°C, ALR1	1493	24793885	2-(7-chloro-2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	0.00388
+pH and temperature not specified in the publication	1493	25695864	(2,3-dihydrocyclopenta[b]indol-4(1H)-yl)acetic acid	0.0048
+pH and temperature not specified in the publication	1493	25695864	3-[3-[(diethylamino)methyl]-1H-indol-1-yl]propanoic acid	0.0067
+pH 7.2, 37°C, ALR1	1493	24793885	2-(3-(4-(4-methoxyphenyl) piperazin-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00753
+pH and temperature not specified in the publication	1493	25695864	3-(1H-indol-1-yl)propanoic acid	0.0118
+pH and temperature not specified in the publication	1493	25695864	[3-[(propan-2-yl)sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl]acetic acid	0.0141
+pH and temperature not specified in the publication	1493	25695864	(7H-indolo[2',3':5,6][1,2,4]triazino[2,3-a]benzimidazol-7-yl)acetic acid	0.0151
+pH and temperature not specified in the publication	1493	25695864	[3-[(pyrrolidin-1-yl)methyl]-1H-indol-1-yl]acetic acid	0.0192
+pH and temperature not specified in the publication	1493	25695864	(8-methyl-3-[[2-oxo-2-(propylamino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0196
+pH and temperature not specified in the publication	1493	25695864	[3-[(dimethylamino)methyl]-2-methyl-1H-indol-1-yl]acetic acid	0.0223
+pH and temperature not specified in the publication	1493	25695864	(3-[[2-oxo-2-(2,4,6-trimethylanilino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0235
+pH and temperature not specified in the publication	1493	25695864	(6H-indolo[2,3-b]quinoxalin-6-yl)acetic acid	0.0248
+pH and temperature not specified in the publication	1493	25695864	[3-[(morpholin-4-yl)methyl]-1H-indol-1-yl]acetic acid	0.0325
+pH and temperature not specified in the publication	1493	25695864	[3-[(diethylamino)methyl]-1H-indol-1-yl]acetic acid	0.0381
+pH and temperature not specified in the publication	1493	25695864	(3-sulfanyl-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0406
+pH and temperature not specified in the publication	1493	25695864	(4-oxo-3,4-dihydro-5H-pyridazino[4,5-b]indol-5-yl)acetic acid	0.049
+pH and temperature not specified in the publication	1493	25695864	[3-(2,2-dimethylpropanoyl)-1H-indol-1-yl]acetic acid	0.0684
+pH and temperature not specified in the publication	1493	25695864	(1H-indol-1-yl)acetic acid	0.0802
+	1501	18782556	20alpha-hydroxysteroid dehydrogenase	4.4E-5
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1501	20036445	[5-(3-carboxymethoxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.0054
+	1501	18782556	3,5-dichlorosalicylic acid	0.011
+25°C, pH 6.7; ALR1, pH not specified in the publication, temperature not specified in the publication	1501	20036445	[5-(3-hydroxy-4-methoxybenzylidene)-2,4-dioxothiazolidin-3-yl]acetic acid	0.037
+pH 7.2, 37°C, ALR1	1502	24793885	2-(2-oxo-3-phenethylquinoxalin-1(2H)-yl) acetic acid	1.43E-4
+pH 7.2, 37°C, ALR1	1502	24793885	2-(3-(2,4-difluorophenylamino)-6-nitro-2-oxoquinoxalin-1(2H)-yl) acetic acid	2.83E-4
+pH 7.2, 37°C, ALR1	1502	24793885	2-(3-(4-fluorostyryl)-6-nitro-2-oxoquinoxalin-1(2H)-yl)acetic acid	3.62E-4
+pH 7.2, 37°C, ALR1	1502	24793885	2-(6-chloro-3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl)acetic acid	6.6E-4
+pH 7.2, 37°C, ALR1	1502	24793885	2-(2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	8.2E-4
+pH 7.2, 37°C, ALR1	1502	24793885	2-(3-(4-fluorophenethyl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00114
+pH and temperature not specified in the publication	1502	25695864	(3-[[(2-fluorophenyl)methyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0012
+pH 7.2, 37°C, ALR1	1502	24793885	2-(3-(4-fluorostyryl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00143
+pH 7.2, 37°C, ALR1	1502	24793885	2-(3-(3-(tert-butylamino)-3-oxoprop-1-en-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00186
+pH 7.2, 37°C, ALR1	1502	24793885	2-(7-chloro-2-oxo-3-styrylquinoxalin-1(2H)-yl) acetic acid	0.00388
+pH and temperature not specified in the publication	1502	25695864	(2,3-dihydrocyclopenta[b]indol-4(1H)-yl)acetic acid	0.0048
+pH and temperature not specified in the publication	1502	25695864	3-[3-[(diethylamino)methyl]-1H-indol-1-yl]propanoic acid	0.0067
+pH 7.2, 37°C, ALR1	1502	24793885	2-(3-(4-(4-methoxyphenyl) piperazin-1-yl)-2-oxoquinoxalin-1(2H)-yl) acetic acid	0.00753
+pH and temperature not specified in the publication	1502	25695864	3-(1H-indol-1-yl)propanoic acid	0.0118
+pH and temperature not specified in the publication	1502	25695864	[3-[(propan-2-yl)sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl]acetic acid	0.0141
+pH and temperature not specified in the publication	1502	25695864	(7H-indolo[2',3':5,6][1,2,4]triazino[2,3-a]benzimidazol-7-yl)acetic acid	0.0151
+pH and temperature not specified in the publication	1502	25695864	[3-[(pyrrolidin-1-yl)methyl]-1H-indol-1-yl]acetic acid	0.0192
+pH and temperature not specified in the publication	1502	25695864	(8-methyl-3-[[2-oxo-2-(propylamino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0196
+pH and temperature not specified in the publication	1502	25695864	[3-[(dimethylamino)methyl]-2-methyl-1H-indol-1-yl]acetic acid	0.0223
+pH and temperature not specified in the publication	1502	25695864	(3-[[2-oxo-2-(2,4,6-trimethylanilino)ethyl]sulfanyl]-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0235
+pH and temperature not specified in the publication	1502	25695864	(6H-indolo[2,3-b]quinoxalin-6-yl)acetic acid	0.0248
+pH and temperature not specified in the publication	1502	25695864	[3-[(morpholin-4-yl)methyl]-1H-indol-1-yl]acetic acid	0.0325
+pH and temperature not specified in the publication	1502	25695864	[3-[(diethylamino)methyl]-1H-indol-1-yl]acetic acid	0.0381
+pH and temperature not specified in the publication	1502	25695864	(3-sulfanyl-5H-[1,2,4]triazino[5,6-b]indol-5-yl)acetic acid	0.0406
+pH and temperature not specified in the publication	1502	25695864	(4-oxo-3,4-dihydro-5H-pyridazino[4,5-b]indol-5-yl)acetic acid	0.049
+pH and temperature not specified in the publication	1502	25695864	[3-(2,2-dimethylpropanoyl)-1H-indol-1-yl]acetic acid	0.0684
+pH and temperature not specified in the publication	1502	25695864	(1H-indol-1-yl)acetic acid	0.0802

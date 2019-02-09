@@ -1,0 +1,830 @@
+synonyms	ec_number	recommended_name
+DPNH peroxidase	1.11.1.1	NADH peroxidase
+DPN peroxidase	1.11.1.1	NADH peroxidase
+NAD peroxidase	1.11.1.1	NADH peroxidase
+peroxidase, nicotinamide adenine dinucleotide	1.11.1.1	NADH peroxidase
+diphosphopyridine nucleotide peroxidase	1.11.1.1	NADH peroxidase
+NADH-peroxidase	1.11.1.1	NADH peroxidase
+nicotinamide adenine dinucleotide peroxidase	1.11.1.1	NADH peroxidase
+NPXase	1.11.1.1	NADH peroxidase
+NADH2 peroxidase	1.11.1.1	NADH peroxidase
+NADH-PX	1.11.1.1	NADH peroxidase
+nigerythrin	1.11.1.1	NADH peroxidase
+NADH-POD	1.11.1.1	NADH peroxidase
+POD	1.11.1.1	NADH peroxidase
+apoplastic peroxidase	1.11.1.1	NADH peroxidase
+apoplastic class III peroxidase	1.11.1.1	NADH peroxidase
+NADH peroxidase	1.11.1.1	NADH peroxidase
+ruberythrin	1.11.1.1	NADH peroxidase
+revRbr	1.11.1.1	NADH peroxidase
+reverse rubrerythrin	1.11.1.1	NADH peroxidase
+non-haem diiron protein	1.11.1.1	NADH peroxidase
+NADH:H2O2 oxidoreductase	1.11.1.1	NADH peroxidase
+NADH oxidase	1.11.1.1	NADH peroxidase
+NADH:O2 oxidoreductase	1.11.1.1	NADH peroxidase
+P2	1.11.1.1	NADH peroxidase
+Npx	1.11.1.1	NADH peroxidase
+NPR	1.11.1.1	NADH peroxidase
+peroxidase, chloride	1.11.1.10	chloride peroxidase
+vCPO	1.11.1.10	chloride peroxidase
+Chloride peroxidase	1.11.1.10	chloride peroxidase
+Vanadium chloride peroxidase	1.11.1.10	chloride peroxidase
+chloroperoxidase	1.11.1.10	chloride peroxidase
+CPO	1.11.1.10	chloride peroxidase
+heme-thiolate chloroperoxidase	1.11.1.10	chloride peroxidase
+CCPO	1.11.1.10	chloride peroxidase
+choroperoxidase	1.11.1.10	chloride peroxidase
+CPO-I	1.11.1.10	chloride peroxidase
+L-ascorbic acid peroxidase	1.11.1.11	L-ascorbate peroxidase
+L-ascorbic acid-specific peroxidase	1.11.1.11	L-ascorbate peroxidase
+peroxidase, ascorbate	1.11.1.11	L-ascorbate peroxidase
+ascorbic acid peroxidase	1.11.1.11	L-ascorbate peroxidase
+Am-pAPX1	1.11.1.11	L-ascorbate peroxidase
+cAPX 2	1.11.1.11	L-ascorbate peroxidase
+ascorbate peroxidase 2	1.11.1.11	L-ascorbate peroxidase
+AtstAPX	1.11.1.11	L-ascorbate peroxidase
+cytosolic ascorbate peroxidase	1.11.1.11	L-ascorbate peroxidase
+stromal ascorbate peroxidase	1.11.1.11	L-ascorbate peroxidase
+ascorbate peroxidase 1	1.11.1.11	L-ascorbate peroxidase
+APX1	1.11.1.11	L-ascorbate peroxidase
+APX 1	1.11.1.11	L-ascorbate peroxidase
+APX 2	1.11.1.11	L-ascorbate peroxidase
+APx8	1.11.1.11	L-ascorbate peroxidase
+ascorbate peroxidase 8	1.11.1.11	L-ascorbate peroxidase
+OsAPx8	1.11.1.11	L-ascorbate peroxidase
+LmAPX	1.11.1.11	L-ascorbate peroxidase
+L-ascorbate peroxidase	1.11.1.11	L-ascorbate peroxidase
+APOX	1.11.1.11	L-ascorbate peroxidase
+CmstAPX	1.11.1.11	L-ascorbate peroxidase
+APX	1.11.1.11	L-ascorbate peroxidase
+ascorbate	1.11.1.11	L-ascorbate peroxidase
+PpAPX	1.11.1.11	L-ascorbate peroxidase
+peroxisomal ascorbate peroxidase	1.11.1.11	L-ascorbate peroxidase
+GhAPX1	1.11.1.11	L-ascorbate peroxidase
+OsAPXa	1.11.1.11	L-ascorbate peroxidase
+OsAPx1	1.11.1.11	L-ascorbate peroxidase
+OsAPXb	1.11.1.11	L-ascorbate peroxidase
+OsAPx2	1.11.1.11	L-ascorbate peroxidase
+thylakoid-bound ascorbate peroxidase	1.11.1.11	L-ascorbate peroxidase
+tAPX	1.11.1.11	L-ascorbate peroxidase
+OsAPx3	1.11.1.11	L-ascorbate peroxidase
+ascorbate peroxidase 3	1.11.1.11	L-ascorbate peroxidase
+OsAPx4	1.11.1.11	L-ascorbate peroxidase
+ascorbate peroxidase 4	1.11.1.11	L-ascorbate peroxidase
+TaAPX	1.11.1.11	L-ascorbate peroxidase
+OsAPx5	1.11.1.11	L-ascorbate peroxidase
+ascorbate peroxidase 5	1.11.1.11	L-ascorbate peroxidase
+OsAPx6	1.11.1.11	L-ascorbate peroxidase
+ascorbate peroxidase 6	1.11.1.11	L-ascorbate peroxidase
+sAPX	1.11.1.11	L-ascorbate peroxidase
+OsAPx7	1.11.1.11	L-ascorbate peroxidase
+ascorbate peroxidase 7	1.11.1.11	L-ascorbate peroxidase
+APX2	1.11.1.11	L-ascorbate peroxidase
+glyoxysomal APX	1.11.1.11	L-ascorbate peroxidase
+stromal APX	1.11.1.11	L-ascorbate peroxidase
+APX3	1.11.1.11	L-ascorbate peroxidase
+APX4	1.11.1.11	L-ascorbate peroxidase
+APX5	1.11.1.11	L-ascorbate peroxidase
+APX6	1.11.1.11	L-ascorbate peroxidase
+APX7	1.11.1.11	L-ascorbate peroxidase
+cytoplasmic ascorbate peroxidase 1	1.11.1.11	L-ascorbate peroxidase
+PgAPX1	1.11.1.11	L-ascorbate peroxidase
+HvAPX1	1.11.1.11	L-ascorbate peroxidase
+pAPX	1.11.1.11	L-ascorbate peroxidase
+At1g07890	1.11.1.11	L-ascorbate peroxidase
+Pavirv00022559m	1.11.1.11	L-ascorbate peroxidase
+peroxidation-inhibiting protein	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+peroxidation-inhibiting protein: peroxidase, glutathione	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+hydroperoxide glutathione peroxidase	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+DMPHGPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+phospholipid-hydroperoxide glutathione peroxidases	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+PHGPX	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+GPXle1	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+GPXhs2	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+phospholipid glutathione peroxidase	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+class 4 GPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+seleno GPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+OsPHGPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+More	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+phospholipid hydroperoxide glutathione peroxidase A	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+GPx4A	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+phospholipid hydroperoxide glutathione peroxidase B	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+GPx4B	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+VcPHGPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+GPx41	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+glutathione peroxidase 4	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+sperm nucleus-specific glutathione peroxidase	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+nPHGPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+phospholipid hydroperoxide glutathione	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+GPx4	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+CsGPx3	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+CsGPx4	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+phospholipid hydroperoxide glutathione peroxidase-4	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+CsGPx1	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+CsGPx2	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+AC-PHGPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+phospholipid-hydroperoxide glutathione peroxidase	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+Bi-PHGPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+selenoprotein P	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+GPX	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+non-selenocysteine PHGPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+NPGPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+selenoperoxidase	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+selenium-dependent glutathione peroxidase type-4	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+glutathione peroxidase-4	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+GPx-4	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+McPHGPx	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+type-4 glutathione peroxidase	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+GPX3	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+glutathione-dependent phospholipid peroxidase	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+Hyr1	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+Hyr1/YIR037W	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
+peroxidase-M2	1.11.1.13	manganese peroxidase
+Mn-dependent	1.11.1.13	manganese peroxidase
+peroxidase, manganese	1.11.1.13	manganese peroxidase
+MP	1.11.1.13	manganese peroxidase
+hybrid Mn-peroxidase	1.11.1.13	manganese peroxidase
+MnP II	1.11.1.13	manganese peroxidase
+Mn2+:hydrogen peroxide oxidoreductase	1.11.1.13	manganese peroxidase
+Mn2+: hydrogen peroxide oxidoreductase	1.11.1.13	manganese peroxidase
+2,3,5,6,11,13,14,15,16,19,25,27,28,38,64,66,67,75,76,77,78,79,80,81,82	1.11.1.13	manganese peroxidase
+MnP	1.11.1.13	manganese peroxidase
+manganese-dependent peroxidase	1.11.1.13	manganese peroxidase
+MnP 1	1.11.1.13	manganese peroxidase
+multifunctional manganese peroxidase	1.11.1.13	manganese peroxidase
+MnP3	1.11.1.13	manganese peroxidase
+MnP-GY	1.11.1.13	manganese peroxidase
+MnP-PGY	1.11.1.13	manganese peroxidase
+MnP2	1.11.1.13	manganese peroxidase
+mnp1	1.11.1.13	manganese peroxidase
+L-MnP	1.11.1.13	manganese peroxidase
+Nf b19 MNP2	1.11.1.13	manganese peroxidase
+LeMnP2	1.11.1.13	manganese peroxidase
+oxygenase, diarylpropane	1.11.1.14	lignin peroxidase
+diarylpropane oxygenase	1.11.1.14	lignin peroxidase
+ligninase I	1.11.1.14	lignin peroxidase
+diarylpropane:oxygen,hydrogen-peroxide oxidoreductase	1.11.1.14	lignin peroxidase
+lignin	1.11.1.14	lignin peroxidase
+ligninase LG5	1.11.1.14	lignin peroxidase
+lipJ	1.11.1.14	lignin peroxidase
+Pr-lip1	1.11.1.14	lignin peroxidase
+lignin peroxidase LIII	1.11.1.14	lignin peroxidase
+Pr-lip4	1.11.1.14	lignin peroxidase
+ligninase H8	1.11.1.14	lignin peroxidase
+LIP	1.11.1.14	lignin peroxidase
+DypB	1.11.1.14	lignin peroxidase
+H2O2-dependent ligninase	1.11.1.14	lignin peroxidase
+LIP2	1.11.1.14	lignin peroxidase
+Lip1	1.11.1.14	lignin peroxidase
+ligninase	1.11.1.14	lignin peroxidase
+ALiP-P3	1.11.1.14	lignin peroxidase
+AhpC	1.11.1.15	peroxiredoxin
+atypical two-cysteine peroxidase	1.11.1.15	peroxiredoxin
+SAOUHSC_01822	1.11.1.15	peroxiredoxin
+PH1217 protein	1.11.1.15	peroxiredoxin
+CIC-Prx	1.11.1.15	peroxiredoxin
+C2C-Prx	1.11.1.15	peroxiredoxin
+C-PrxII	1.11.1.15	peroxiredoxin
+peroxiredoxin-4	1.11.1.15	peroxiredoxin
+Prx-4	1.11.1.15	peroxiredoxin
+TsaA	1.11.1.15	peroxiredoxin
+PrxT	1.11.1.15	peroxiredoxin
+type II peroxiredoxin	1.11.1.15	peroxiredoxin
+PrxQ	1.11.1.15	peroxiredoxin
+2-Cys Prx	1.11.1.15	peroxiredoxin
+1-Cys peroxiredoxin	1.11.1.15	peroxiredoxin
+type II peroxiredoxin F	1.11.1.15	peroxiredoxin
+peroxiredoxin Q	1.11.1.15	peroxiredoxin
+Prx Q	1.11.1.15	peroxiredoxin
+PrxII F	1.11.1.15	peroxiredoxin
+tryparedoxin peroxidase	1.11.1.15	peroxiredoxin
+TXNPx	1.11.1.15	peroxiredoxin
+thioredoxin-dependent peroxidase	1.11.1.15	peroxiredoxin
+thioredoxin peroxidase	1.11.1.15	peroxiredoxin
+TPx1	1.11.1.15	peroxiredoxin
+2-CP	1.11.1.15	peroxiredoxin
+2-cysteine peroxiredoxin	1.11.1.15	peroxiredoxin
+MtTPx	1.11.1.15	peroxiredoxin
+AhpE	1.11.1.15	peroxiredoxin
+Rv2238c	1.11.1.15	peroxiredoxin
+Tpx	1.11.1.15	peroxiredoxin
+Alkyl hydroperoxide reductase	1.11.1.15	peroxiredoxin
+CPX	1.11.1.15	peroxiredoxin
+MPX	1.11.1.15	peroxiredoxin
+tryparedoxin/peroxynitrite oxidoreductase	1.11.1.15	peroxiredoxin
+PfTrx-Px1	1.11.1.15	peroxiredoxin
+Pf1-Cys-Prx	1.11.1.15	peroxiredoxin
+PfAOP	1.11.1.15	peroxiredoxin
+PfTrx-Px2	1.11.1.15	peroxiredoxin
+thioredoxin peroxidase 1	1.11.1.15	peroxiredoxin
+Ahp	1.11.1.15	peroxiredoxin
+Prx	1.11.1.15	peroxiredoxin
+1Cys-peroxiredoxin	1.11.1.15	peroxiredoxin
+Bcp2	1.11.1.15	peroxiredoxin
+2-Cys peroxiredoxin TPx-1	1.11.1.15	peroxiredoxin
+TPx-1	1.11.1.15	peroxiredoxin
+PcPrx-1	1.11.1.15	peroxiredoxin
+LimTXNPx	1.11.1.15	peroxiredoxin
+peroxiredoxin	1.11.1.15	peroxiredoxin
+FhePrx	1.11.1.15	peroxiredoxin
+peroxiredoxin I	1.11.1.15	peroxiredoxin
+peroxiredoxin II	1.11.1.15	peroxiredoxin
+peroxiredoxin III	1.11.1.15	peroxiredoxin
+PRDX III	1.11.1.15	peroxiredoxin
+Prx5	1.11.1.15	peroxiredoxin
+1-Cys Prdx	1.11.1.15	peroxiredoxin
+peroxiredoxin 6	1.11.1.15	peroxiredoxin
+Prdx6	1.11.1.15	peroxiredoxin
+Prx I	1.11.1.15	peroxiredoxin
+peroxiredoxin 2	1.11.1.15	peroxiredoxin
+Prx1	1.11.1.15	peroxiredoxin
+PRDX2	1.11.1.15	peroxiredoxin
+TgTrx-Px1	1.11.1.15	peroxiredoxin
+TgTrx-Px2	1.11.1.15	peroxiredoxin
+TgPrx2	1.11.1.15	peroxiredoxin
+thioredoxin-dependent alkyl hydroperoxide reductase	1.11.1.15	peroxiredoxin
+rDiPrx-1	1.11.1.15	peroxiredoxin
+AsPrx	1.11.1.15	peroxiredoxin
+2Cys-peroxiredoxin	1.11.1.15	peroxiredoxin
+EcTpx	1.11.1.15	peroxiredoxin
+bacterioferritin comigratory protein	1.11.1.15	peroxiredoxin
+BCP	1.11.1.15	peroxiredoxin
+More	1.11.1.15	peroxiredoxin
+atypical 2-Cys peroxiredoxin	1.11.1.15	peroxiredoxin
+Ts2-CysPrx	1.11.1.15	peroxiredoxin
+Ac-1-Cys Prx	1.11.1.15	peroxiredoxin
+peroxiredoxin VI	1.11.1.15	peroxiredoxin
+PrxV	1.11.1.15	peroxiredoxin
+peroxiredoxin 5	1.11.1.15	peroxiredoxin
+PRDX5	1.11.1.15	peroxiredoxin
+thioredoxin peroxidase B	1.11.1.15	peroxiredoxin
+TPx-B	1.11.1.15	peroxiredoxin
+peroxiredoxin-1	1.11.1.15	peroxiredoxin
+NLS-Prx1	1.11.1.15	peroxiredoxin
+NES-Prx1	1.11.1.15	peroxiredoxin
+nuclear export signal-Prx1	1.11.1.15	peroxiredoxin
+nuclear localization signal-Prx1	1.11.1.15	peroxiredoxin
+calpromotin	1.11.1.15	peroxiredoxin
+torin	1.11.1.15	peroxiredoxin
+thiol-specific antioxidant/protector protein	1.11.1.15	peroxiredoxin
+natural killer enhancing factor-B	1.11.1.15	peroxiredoxin
+thioredoxin peroxidase II	1.11.1.15	peroxiredoxin
+Prx3	1.11.1.15	peroxiredoxin
+peroxiredoxin-3	1.11.1.15	peroxiredoxin
+peroxiredoxin 3	1.11.1.15	peroxiredoxin
+Prx 3	1.11.1.15	peroxiredoxin
+1-Cys Prx	1.11.1.15	peroxiredoxin
+Prx III	1.11.1.15	peroxiredoxin
+Prx VI	1.11.1.15	peroxiredoxin
+PRx IV	1.11.1.15	peroxiredoxin
+Prx II	1.11.1.15	peroxiredoxin
+Prx V	1.11.1.15	peroxiredoxin
+peroxiredoxin IV	1.11.1.15	peroxiredoxin
+2-Cys peroxiredoxin	1.11.1.15	peroxiredoxin
+Prx2	1.11.1.15	peroxiredoxin
+PRDX I	1.11.1.15	peroxiredoxin
+peroxiredoxin 1	1.11.1.15	peroxiredoxin
+PRDX1	1.11.1.15	peroxiredoxin
+TSA	1.11.1.15	peroxiredoxin
+25 kDa thiol-specific oxidant	1.11.1.15	peroxiredoxin
+TSA thioredoxin peroxidase Tpx	1.11.1.15	peroxiredoxin
+heme-binding protein 23/peroxiredoxin	1.11.1.15	peroxiredoxin
+HBP23/Prx I	1.11.1.15	peroxiredoxin
+Prx6	1.11.1.15	peroxiredoxin
+Bcp3	1.11.1.15	peroxiredoxin
+PRDX II	1.11.1.15	peroxiredoxin
+two-cysteine peroxiredoxin	1.11.1.15	peroxiredoxin
+peroxiredoxin V	1.11.1.15	peroxiredoxin
+alkyl hydroperoxide reductase C component	1.11.1.15	peroxiredoxin
+Bcp1	1.11.1.15	peroxiredoxin
+DTT-dependent peroxidase	1.11.1.15	peroxiredoxin
+Bcp4	1.11.1.15	peroxiredoxin
+SSO2613	1.11.1.15	peroxiredoxin
+AbTPx2	1.11.1.15	peroxiredoxin
+AbTPx1	1.11.1.15	peroxiredoxin
+PrxVI	1.11.1.15	peroxiredoxin
+ApTPx	1.11.1.15	peroxiredoxin
+APE2278	1.11.1.15	peroxiredoxin
+cPrx I	1.11.1.15	peroxiredoxin
+cPrx II	1.11.1.15	peroxiredoxin
+Gpx2	1.11.1.15	peroxiredoxin
+GPX1	1.11.1.15	peroxiredoxin
+Tsa1	1.11.1.15	peroxiredoxin
+TPx II	1.11.1.15	peroxiredoxin
+TPx I	1.11.1.15	peroxiredoxin
+PRDX-2	1.11.1.15	peroxiredoxin
+PRDX-3	1.11.1.15	peroxiredoxin
+Prx 4	1.11.1.15	peroxiredoxin
+peroxiredoxin 4	1.11.1.15	peroxiredoxin
+2-Cys peroxiredoxin 4	1.11.1.15	peroxiredoxin
+typical 2-Cys Prx	1.11.1.15	peroxiredoxin
+typical 2-Cys peroxiredoxin	1.11.1.15	peroxiredoxin
+Prx 2	1.11.1.15	peroxiredoxin
+AhpC-like Prx	1.11.1.15	peroxiredoxin
+AhpC-like peroxiredoxin	1.11.1.15	peroxiredoxin
+TP0509	1.11.1.15	peroxiredoxin
+BiPrx1	1.11.1.15	peroxiredoxin
+1-Cys type Prx	1.11.1.15	peroxiredoxin
+BiTPx1	1.11.1.15	peroxiredoxin
+2-Cys type Prx	1.11.1.15	peroxiredoxin
+B-type dye-decolorizing peroxidase	1.11.1.16	versatile peroxidase
+Mnp4	1.11.1.16	versatile peroxidase
+manganese peroxidase 4	1.11.1.16	versatile peroxidase
+versatile peroxidase MnP2	1.11.1.16	versatile peroxidase
+R1B4	1.11.1.16	versatile peroxidase
+versatile peroxidase	1.11.1.16	versatile peroxidase
+versatile peroxidase VPL2 precursor	1.11.1.16	versatile peroxidase
+Vpl2	1.11.1.16	versatile peroxidase
+More	1.11.1.17	glutathione amide-dependent peroxidase
+garB	1.11.1.17	glutathione amide-dependent peroxidase
+Prx/Grx chimeric enzyme	1.11.1.17	glutathione amide-dependent peroxidase
+Prx-containing peroxidase	1.11.1.17	glutathione amide-dependent peroxidase
+non-heme haloperoxidases	1.11.1.18	bromide peroxidase
+non-haem bromoperoxidase BPO-A2	1.11.1.18	bromide peroxidase
+bromoperoxidase	1.11.1.18	bromide peroxidase
+vanadium-dependent peroxidase	1.11.1.18	bromide peroxidase
+bromoperoxidase I	1.11.1.18	bromide peroxidase
+vanadate-dependent bromoperoxidase I	1.11.1.18	bromide peroxidase
+BPO I	1.11.1.18	bromide peroxidase
+EC 1.11.1.10	1.11.1.18	bromide peroxidase
+BPO	1.11.1.18	bromide peroxidase
+vBPO	1.11.1.18	bromide peroxidase
+VBrPO	1.11.1.18	bromide peroxidase
+non-heme-type bromoperoxidase	1.11.1.18	bromide peroxidase
+vanadium containing bromoperoxidase	1.11.1.18	bromide peroxidase
+BrPO	1.11.1.18	bromide peroxidase
+vanadium-containing bromoperoxidase	1.11.1.18	bromide peroxidase
+apobromoperoxidase I	1.11.1.18	bromide peroxidase
+vanadium-dependent haloperoxidase	1.11.1.18	bromide peroxidase
+nonheme bromoperoxidase	1.11.1.18	bromide peroxidase
+vanadium-dependent bromoperoxidase 2	1.11.1.18	bromide peroxidase
+VBPO1	1.11.1.18	bromide peroxidase
+nonhaem-type bromoperoxidase BPO 1a	1.11.1.18	bromide peroxidase
+nonhaem-type bromoperoxidase BPO 1b	1.11.1.18	bromide peroxidase
+nonhaem-type bromoperoxidase BPO 3	1.11.1.18	bromide peroxidase
+bromoperoxidase-catalase	1.11.1.18	bromide peroxidase
+vanadium-dependent bromoperoxidase	1.11.1.18	bromide peroxidase
+BPO-A1	1.11.1.18	bromide peroxidase
+non-haem bromoperoxidase BPO 2	1.11.1.18	bromide peroxidase
+BPO 2	1.11.1.18	bromide peroxidase
+non-haem bromoperoxidase	1.11.1.18	bromide peroxidase
+non-haem bromoperoxidase BPO 1	1.11.1.18	bromide peroxidase
+BPO 1	1.11.1.18	bromide peroxidase
+bromoperoxidase A2	1.11.1.18	bromide peroxidase
+BPO-A2	1.11.1.18	bromide peroxidase
+V-BrPO	1.11.1.18	bromide peroxidase
+CVBPO	1.11.1.18	bromide peroxidase
+CoVBPO	1.11.1.18	bromide peroxidase
+nVBPO	1.11.1.18	bromide peroxidase
+sVBPO	1.11.1.18	bromide peroxidase
+rVBPO	1.11.1.18	bromide peroxidase
+vanadium bromoperoxidase	1.11.1.18	bromide peroxidase
+V-BPO	1.11.1.18	bromide peroxidase
+YwbN	1.11.1.19	dye decolorizing peroxidase
+DyP	1.11.1.19	dye decolorizing peroxidase
+dye-decolorizing peroxidase	1.11.1.19	dye decolorizing peroxidase
+DyP-type peroxidase	1.11.1.19	dye decolorizing peroxidase
+TT1485	1.11.1.19	dye decolorizing peroxidase
+manganese-independent peroxidase I	1.11.1.19	dye decolorizing peroxidase
+manganese-independent peroxidase II	1.11.1.19	dye decolorizing peroxidase
+AnaPX	1.11.1.19	dye decolorizing peroxidase
+YcdB	1.11.1.19	dye decolorizing peroxidase
+DyP1	1.11.1.19	dye decolorizing peroxidase
+DyP2	1.11.1.19	dye decolorizing peroxidase
+DyP3	1.11.1.19	dye decolorizing peroxidase
+tyrA	1.11.1.19	dye decolorizing peroxidase
+TPNH peroxidase	1.11.1.2	NADPH peroxidase
+nicotinamide adenine dinucleotide phosphate peroxidase	1.11.1.2	NADPH peroxidase
+NADP peroxidase	1.11.1.2	NADPH peroxidase
+TPN peroxidase	1.11.1.2	NADPH peroxidase
+triphosphopyridine nucleotide peroxidase	1.11.1.2	NADPH peroxidase
+NADHP2 peroxidase	1.11.1.2	NADPH peroxidase
+NADPH peroxidase	1.11.1.2	NADPH peroxidase
+prostamide/prostaglandin F synthase	1.11.1.20	prostamide/prostaglandin F2alpha synthase
+Pmpgfs	1.11.1.20	prostamide/prostaglandin F2alpha synthase
+prostamide/PGF synthase	1.11.1.20	prostamide/prostaglandin F2alpha synthase
+prostamide F synthase	1.11.1.20	prostamide/prostaglandin F2alpha synthase
+prostaglandin F ethanolamide synthase	1.11.1.20	prostamide/prostaglandin F2alpha synthase
+PGF prostamide F synthase	1.11.1.20	prostamide/prostaglandin F2alpha synthase
+catalase-peroxidase	1.11.1.21	catalase-peroxidase
+PCP	1.11.1.21	catalase-peroxidase
+EC 1.11.1.7	1.11.1.21	catalase-peroxidase
+CPX	1.11.1.21	catalase-peroxidase
+catalase -peroxidase KatG	1.11.1.21	catalase-peroxidase
+HCP	1.11.1.21	catalase-peroxidase
+KatG1	1.11.1.21	catalase-peroxidase
+catalase/peroxidase	1.11.1.21	catalase-peroxidase
+KatG2	1.11.1.21	catalase-peroxidase
+CP 2	1.11.1.21	catalase-peroxidase
+KatP	1.11.1.21	catalase-peroxidase
+hydroperoxidase I	1.11.1.21	catalase-peroxidase
+HPI	1.11.1.21	catalase-peroxidase
+KatG	1.11.1.21	catalase-peroxidase
+hemoprotein b-590	1.11.1.21	catalase-peroxidase
+KpCP	1.11.1.21	catalase-peroxidase
+Gpx-1	1.11.1.22	hydroperoxy fatty acid reductase
+GPx-2	1.11.1.22	hydroperoxy fatty acid reductase
+slr1171	1.11.1.22	hydroperoxy fatty acid reductase
+slr1992	1.11.1.22	hydroperoxy fatty acid reductase
+glutathione peroxidase-like protein-1	1.11.1.22	hydroperoxy fatty acid reductase
+glutathione peroxidase-like protein-2	1.11.1.22	hydroperoxy fatty acid reductase
+glutathione peroxidase-like protein	1.11.1.22	hydroperoxy fatty acid reductase
+fosfomycin-producing epoxidase	1.11.1.23	(S)-2-hydroxypropylphosphonic acid epoxidase
+HppE	1.11.1.23	(S)-2-hydroxypropylphosphonic acid epoxidase
+Ps-HppE	1.11.1.23	(S)-2-hydroxypropylphosphonic acid epoxidase
+HPP epoxidase	1.11.1.23	(S)-2-hydroxypropylphosphonic acid epoxidase
+fom4	1.11.1.23	(S)-2-hydroxypropylphosphonic acid epoxidase
+2-hydroxypropylphosphonic acid epoxidase	1.11.1.23	(S)-2-hydroxypropylphosphonic acid epoxidase
+long chain fatty acid peroxidase	1.11.1.3	fatty-acid peroxidase
+fatty acid peroxidase	1.11.1.3	fatty-acid peroxidase
+cytochrome peroxidase	1.11.1.5	cytochrome-c peroxidase
+cytochrome c-551 peroxidase	1.11.1.5	cytochrome-c peroxidase
+apocytochrome c peroxidase	1.11.1.5	cytochrome-c peroxidase
+mesocytochrome c peroxidase azide	1.11.1.5	cytochrome-c peroxidase
+mesocytochrome c peroxidase cyanide	1.11.1.5	cytochrome-c peroxidase
+mesocytochrome c peroxidase cyanate	1.11.1.5	cytochrome-c peroxidase
+cytochrome c-H2O oxidoreductase	1.11.1.5	cytochrome-c peroxidase
+peroxidase, cytochrome c	1.11.1.5	cytochrome-c peroxidase
+LmP	1.11.1.5	cytochrome-c peroxidase
+di-heme cytochrome c peroxidase	1.11.1.5	cytochrome-c peroxidase
+DocA	1.11.1.5	cytochrome-c peroxidase
+Cjj0382	1.11.1.5	cytochrome-c peroxidase
+CcpA	1.11.1.5	cytochrome-c peroxidase
+CytC	1.11.1.5	cytochrome-c peroxidase
+cytochrome c peroxidase	1.11.1.5	cytochrome-c peroxidase
+CCP	1.11.1.5	cytochrome-c peroxidase
+MacA	1.11.1.5	cytochrome-c peroxidase
+CCP1	1.11.1.5	cytochrome-c peroxidase
+BCcP	1.11.1.5	cytochrome-c peroxidase
+Psa CcP	1.11.1.5	cytochrome-c peroxidase
+diheme cytochrome c peroxidase	1.11.1.5	cytochrome-c peroxidase
+equilase	1.11.1.6	catalase
+caperase	1.11.1.6	catalase
+optidase	1.11.1.6	catalase
+polyethylene glycol-catalase	1.11.1.6	catalase
+1,7,9,10,12,13,19,21,50,54,55,58,63,65,69,75,87,88,89,90,91,95,129,131	1.11.1.6	catalase
+Ab-catalase	1.11.1.6	catalase
+VktA	1.11.1.6	catalase
+catalase	1.11.1.6	catalase
+tyrosine-coordinated heme protein	1.11.1.6	catalase
+HTHP	1.11.1.6	catalase
+catalase form III	1.11.1.6	catalase
+CATC	1.11.1.6	catalase
+catalase A	1.11.1.6	catalase
+catalase C	1.11.1.6	catalase
+catalase-1	1.11.1.6	catalase
+CAT-1	1.11.1.6	catalase
+CatB	1.11.1.6	catalase
+CatA	1.11.1.6	catalase
+PktA	1.11.1.6	catalase
+catalase-A	1.11.1.6	catalase
+haem catalase	1.11.1.6	catalase
+KatB	1.11.1.6	catalase
+KatC	1.11.1.6	catalase
+CcmC	1.11.1.6	catalase
+KatA	1.11.1.6	catalase
+CatG	1.11.1.6	catalase
+More	1.11.1.6	catalase
+KpA	1.11.1.6	catalase
+BNC	1.11.1.6	catalase
+CP	1.11.1.6	catalase
+CatF	1.11.1.6	catalase
+hydrogen peroxide oxidoreductase	1.11.1.6	catalase
+catalase-phenol oxidase	1.11.1.6	catalase
+CATPO	1.11.1.6	catalase
+HPI-A	1.11.1.6	catalase
+HPI-B	1.11.1.6	catalase
+HPII	1.11.1.6	catalase
+KatP	1.11.1.6	catalase
+Kat E catalase	1.11.1.6	catalase
+catalase-peroxidase	1.11.1.6	catalase
+Cat1.4	1.11.1.6	catalase
+manganese catalase	1.11.1.6	catalase
+catalase P	1.11.1.6	catalase
+CatP	1.11.1.6	catalase
+CAT-P	1.11.1.6	catalase
+CAT-A	1.11.1.6	catalase
+H2O2:H2O2 oxidoreductase	1.11.1.6	catalase
+verdoperoxidase	1.11.1.7	peroxidase
+guaiacol peroxidase	1.11.1.7	peroxidase
+thiocyanate peroxidase	1.11.1.7	peroxidase
+Japanese radish peroxidase	1.11.1.7	peroxidase
+horseradish peroxidase	1.11.1.7	peroxidase
+extensin peroxidase	1.11.1.7	peroxidase
+oxyperoxidase	1.11.1.7	peroxidase
+protoheme peroxidase	1.11.1.7	peroxidase
+pyrocatechol peroxidase	1.11.1.7	peroxidase
+scopoletin peroxidase	1.11.1.7	peroxidase
+SPC4	1.11.1.7	peroxidase
+POD	1.11.1.7	peroxidase
+TOP	1.11.1.7	peroxidase
+Prx60	1.11.1.7	peroxidase
+class III plant peroxidase	1.11.1.7	peroxidase
+SBP	1.11.1.7	peroxidase
+Prx03	1.11.1.7	peroxidase
+Prx09	1.11.1.7	peroxidase
+Prx11	1.11.1.7	peroxidase
+Prx12	1.11.1.7	peroxidase
+Prx13	1.11.1.7	peroxidase
+Prx17	1.11.1.7	peroxidase
+Prx21	1.11.1.7	peroxidase
+Prx22	1.11.1.7	peroxidase
+Prx27	1.11.1.7	peroxidase
+Prx28	1.11.1.7	peroxidase
+Prx30	1.11.1.7	peroxidase
+Prx31	1.11.1.7	peroxidase
+Prx32	1.11.1.7	peroxidase
+Prx33	1.11.1.7	peroxidase
+Prx34	1.11.1.7	peroxidase
+Prx36	1.11.1.7	peroxidase
+Prx37	1.11.1.7	peroxidase
+Prx39	1.11.1.7	peroxidase
+Prx42	1.11.1.7	peroxidase
+Prx43	1.11.1.7	peroxidase
+Prx45	1.11.1.7	peroxidase
+Prx49	1.11.1.7	peroxidase
+Prx50	1.11.1.7	peroxidase
+Prx51	1.11.1.7	peroxidase
+Prx52	1.11.1.7	peroxidase
+Prx53	1.11.1.7	peroxidase
+Prx55	1.11.1.7	peroxidase
+Prx56	1.11.1.7	peroxidase
+Prx57	1.11.1.7	peroxidase
+Prx58	1.11.1.7	peroxidase
+Prx59	1.11.1.7	peroxidase
+Prx62	1.11.1.7	peroxidase
+Prx64	1.11.1.7	peroxidase
+Prx66	1.11.1.7	peroxidase
+Prx67	1.11.1.7	peroxidase
+Prx68	1.11.1.7	peroxidase
+Prx69	1.11.1.7	peroxidase
+Prx70	1.11.1.7	peroxidase
+Prx71	1.11.1.7	peroxidase
+Prx72	1.11.1.7	peroxidase
+Prx73	1.11.1.7	peroxidase
+Prx02	1.11.1.7	peroxidase
+Prx07	1.11.1.7	peroxidase
+rubrerythrin	1.11.1.7	peroxidase
+VPO1	1.11.1.7	peroxidase
+vascular peroxidase 1	1.11.1.7	peroxidase
+MAP-2744c	1.11.1.7	peroxidase
+Prx06	1.11.1.7	peroxidase
+cationic peroxidase Cs	1.11.1.7	peroxidase
+donor: hydrogen peroxide oxidoreductase	1.11.1.7	peroxidase
+acidic peroxidase	1.11.1.7	peroxidase
+acidic POD	1.11.1.7	peroxidase
+neutral peroxidase	1.11.1.7	peroxidase
+neutral POD	1.11.1.7	peroxidase
+basic peroxidase	1.11.1.7	peroxidase
+basic POD	1.11.1.7	peroxidase
+anionic peroxidase A1	1.11.1.7	peroxidase
+SacD	1.11.1.7	peroxidase
+p20	1.11.1.7	peroxidase
+scavengase	1.11.1.7	peroxidase
+SfmD	1.11.1.7	peroxidase
+thiol peroxidase	1.11.1.7	peroxidase
+Tpx	1.11.1.7	peroxidase
+rPOD-II	1.11.1.7	peroxidase
+cPOD-I	1.11.1.7	peroxidase
+Prx114	1.11.1.7	peroxidase
+POC1	1.11.1.7	peroxidase
+hemoglobin 1	1.11.1.7	peroxidase
+hexacoordinate	1.11.1.7	peroxidase
+nsHb-1	1.11.1.7	peroxidase
+Hb1	1.11.1.7	peroxidase
+TP I	1.11.1.7	peroxidase
+peroxidase	1.11.1.7	peroxidase
+POX2	1.11.1.7	peroxidase
+POX I	1.11.1.7	peroxidase
+POX II	1.11.1.7	peroxidase
+MPO	1.11.1.7	peroxidase
+rhEPO	1.11.1.7	peroxidase
+hemoglobin peroxidase	1.11.1.7	peroxidase
+Hb peroxidase	1.11.1.7	peroxidase
+myeloperoxidase	1.11.1.7	peroxidase
+AnaPX	1.11.1.7	peroxidase
+Prx1	1.11.1.7	peroxidase
+Prx15	1.11.1.7	peroxidase
+H2O2 oxidoreductase	1.11.1.7	peroxidase
+eosinophil peroxidase	1.11.1.7	peroxidase
+HRPC	1.11.1.7	peroxidase
+HP	1.11.1.7	peroxidase
+HRPO	1.11.1.7	peroxidase
+HRP-C	1.11.1.7	peroxidase
+horseradish peroxidase C	1.11.1.7	peroxidase
+rHRP1	1.11.1.7	peroxidase
+rHRP2	1.11.1.7	peroxidase
+horseradisch peroxidase	1.11.1.7	peroxidase
+donor:hydrogen peroxide oxidoreductase	1.11.1.7	peroxidase
+HRP	1.11.1.7	peroxidase
+horseradish peroxidase	1.11.1.7	peroxidase
+VP	1.11.1.7	peroxidase
+versatile peroxidase	1.11.1.7	peroxidase
+ELP	1.11.1.7	peroxidase
+AOPTP	1.11.1.7	peroxidase
+EPO	1.11.1.7	peroxidase
+PA1	1.11.1.7	peroxidase
+anionic isoperoxidase	1.11.1.7	peroxidase
+POII	1.11.1.7	peroxidase
+cationic peroxidase	1.11.1.7	peroxidase
+versatile peroxidase VPL2	1.11.1.7	peroxidase
+peroxidase isoenzyme E5	1.11.1.7	peroxidase
+WPTP	1.11.1.7	peroxidase
+heme peroxidase	1.11.1.7	peroxidase
+LPS	1.11.1.7	peroxidase
+lactoperoxidase	1.11.1.7	peroxidase
+LPO	1.11.1.7	peroxidase
+quinol peroxidase	1.11.1.7	peroxidase
+QPO	1.11.1.7	peroxidase
+RPTP	1.11.1.7	peroxidase
+royal palm tree peroxidase	1.11.1.7	peroxidase
+extracellular peroxidase	1.11.1.7	peroxidase
+ECPOX	1.11.1.7	peroxidase
+ECPOX 1	1.11.1.7	peroxidase
+ECPOX 2	1.11.1.7	peroxidase
+ECPOX 3	1.11.1.7	peroxidase
+ALSP	1.11.1.7	peroxidase
+hydrogen donor oxidoreductase	1.11.1.7	peroxidase
+tyrosine-coordinated heme protein	1.11.1.7	peroxidase
+HTHP	1.11.1.7	peroxidase
+VPO2	1.11.1.7	peroxidase
+donor: H2O2 oxidoreductase	1.11.1.7	peroxidase
+MGP	1.11.1.7	peroxidase
+Ssp	1.11.1.7	peroxidase
+stigma-specific peroxidase	1.11.1.7	peroxidase
+CP	1.11.1.7	peroxidase
+constitutive peroxidase	1.11.1.7	peroxidase
+CYP119	1.11.1.7	peroxidase
+Saci_2081	1.11.1.7	peroxidase
+POX	1.11.1.7	peroxidase
+iodoperoxidase	1.11.1.8	iodide peroxidase
+iodotyrosine deiodase	1.11.1.8	iodide peroxidase
+iodinase	1.11.1.8	iodide peroxidase
+iodide peroxidase-tyrosine iodinase	1.11.1.8	iodide peroxidase
+monoiodotyrosine deiodinase	1.11.1.8	iodide peroxidase
+tyrosine iodinase	1.11.1.8	iodide peroxidase
+thyroid peroxidase	1.11.1.8	iodide peroxidase
+iodotyrosine deiodinase	1.11.1.8	iodide peroxidase
+TPQ	1.11.1.8	iodide peroxidase
+hTPO	1.11.1.8	iodide peroxidase
+TPOX	1.11.1.8	iodide peroxidase
+hrTPO	1.11.1.8	iodide peroxidase
+DEHAL1	1.11.1.8	iodide peroxidase
+high-molecular weight-thyroid peroxidase	1.11.1.8	iodide peroxidase
+HMW-TPO	1.11.1.8	iodide peroxidase
+thyroperoxidase	1.11.1.8	iodide peroxidase
+TPO	1.11.1.8	iodide peroxidase
+vanadium bromoperoxidase	1.11.1.8	iodide peroxidase
+bromoperoxidase	1.11.1.8	iodide peroxidase
+vBPO	1.11.1.8	iodide peroxidase
+selenium-glutathione peroxidase	1.11.1.9	glutathione peroxidase
+peroxidase, glutathione	1.11.1.9	glutathione peroxidase
+reduced glutathione peroxidase	1.11.1.9	glutathione peroxidase
+6P229	1.11.1.9	glutathione peroxidase
+ARMEP24	1.11.1.9	glutathione peroxidase
+AtGPX1	1.11.1.9	glutathione peroxidase
+Cuticular glycoprotein GP29	1.11.1.9	glutathione peroxidase
+DI29	1.11.1.9	glutathione peroxidase
+EGLP	1.11.1.9	glutathione peroxidase
+Epididymis-specific glutathione peroxidase-like protein	1.11.1.9	glutathione peroxidase
+Extracellular glutathione peroxidase	1.11.1.9	glutathione peroxidase
+Gastrointestinal glutathione peroxidase	1.11.1.9	glutathione peroxidase
+GP30	1.11.1.9	glutathione peroxidase
+GPRP	1.11.1.9	glutathione peroxidase
+GSHPx-GI	1.11.1.9	glutathione peroxidase
+Major androgen-regulated protein	1.11.1.9	glutathione peroxidase
+Major surface antigen GP29	1.11.1.9	glutathione peroxidase
+Nt-SubC08	1.11.1.9	glutathione peroxidase
+Odorant-metabolizing protein RY2D1	1.11.1.9	glutathione peroxidase
+Salt-associated protein	1.11.1.9	glutathione peroxidase
+GSH-Px	1.11.1.9	glutathione peroxidase
+Cellular glutathione peroxidase	1.11.1.9	glutathione peroxidase
+plasma glutathione peroxidase	1.11.1.9	glutathione peroxidase
+pGPx	1.11.1.9	glutathione peroxidase
+G-6137	1.11.1.9	glutathione peroxidase
+TcGPXI	1.11.1.9	glutathione peroxidase
+glutathione-dependent peroxidase I	1.11.1.9	glutathione peroxidase
+selenium-dependent glutathione peroxidase	1.11.1.9	glutathione peroxidase
+Se-GPx	1.11.1.9	glutathione peroxidase
+intracellular GpX	1.11.1.9	glutathione peroxidase
+secreted GpX	1.11.1.9	glutathione peroxidase
+ATGPX3	1.11.1.9	glutathione peroxidase
+PGdx	1.11.1.9	glutathione peroxidase
+PHGPX	1.11.1.9	glutathione peroxidase
+GPx-3	1.11.1.9	glutathione peroxidase
+glutathione peroxidase-3	1.11.1.9	glutathione peroxidase
+GPx-8	1.11.1.9	glutathione peroxidase
+GPx-5	1.11.1.9	glutathione peroxidase
+GPx-6	1.11.1.9	glutathione peroxidase
+GSHPx	1.11.1.9	glutathione peroxidase
+glutathione peroxidase Gpx2	1.11.1.9	glutathione peroxidase
+glutathione peroxidase 2	1.11.1.9	glutathione peroxidase
+Gpx-1	1.11.1.9	glutathione peroxidase
+glutathione peroxidase-1	1.11.1.9	glutathione peroxidase
+glutathione peroxidase 1	1.11.1.9	glutathione peroxidase
+GPX1	1.11.1.9	glutathione peroxidase
+GPX5	1.11.1.9	glutathione peroxidase
+Gpx2	1.11.1.9	glutathione peroxidase
+GPX	1.11.1.9	glutathione peroxidase
+GPx4	1.11.1.9	glutathione peroxidase
+GPX3	1.11.1.9	glutathione peroxidase
+GPx-7	1.11.1.9	glutathione peroxidase
+phospholipid glutathione peroxidase	1.11.1.9	glutathione peroxidase
+phospholipid hydroperoxide Gpx	1.11.1.9	glutathione peroxidase
+cGPx	1.11.1.9	glutathione peroxidase
+selenosubtilisin	1.11.1.9	glutathione peroxidase
+Se-scFv-B3	1.11.1.9	glutathione peroxidase
+ebselen	1.11.1.9	glutathione peroxidase
+2-SeCD	1.11.1.9	glutathione peroxidase
+selenium containing glutathione transferase zeta1-1	1.11.1.9	glutathione peroxidase
+Se-hGSTZ1-1	1.11.1.9	glutathione peroxidase
+phospholipid hydroperoxide glutathione peroxidase	1.11.1.9	glutathione peroxidase
+glutathione peroxidase 4	1.11.1.9	glutathione peroxidase
+GPx-4	1.11.1.9	glutathione peroxidase
+snGPx	1.11.1.9	glutathione peroxidase
+phospholipid hydroperoxide glutathione peroxidase, nuclear	1.11.1.9	glutathione peroxidase
+glutathione peroxidase 3	1.11.1.9	glutathione peroxidase
+Os02g0664000	1.11.1.9	glutathione peroxidase
+SeGPx	1.11.1.9	glutathione peroxidase
+glutathione:hydrogen-peroxide oxidoreductase	1.11.1.9	glutathione peroxidase
+seleno-dependent glutathione peroxidase 1	1.11.1.9	glutathione peroxidase
+GSH peroxidase	1.11.1.9	glutathione peroxidase
+glutathione peroxidase-4	1.11.1.9	glutathione peroxidase
+c-GPx4	1.11.1.9	glutathione peroxidase
+m-GPx4	1.11.1.9	glutathione peroxidase
+n-GPx4	1.11.1.9	glutathione peroxidase
+glutathione peroxidase-2	1.11.1.9	glutathione peroxidase
+GPx-2	1.11.1.9	glutathione peroxidase
+prion protein Ure2	1.11.1.9	glutathione peroxidase
+Ure2	1.11.1.9	glutathione peroxidase
+glutathione peroxidase Gpx3	1.11.1.9	glutathione peroxidase
+mushroom peroxygenase	1.11.2.1	unspecific peroxygenase
+P450st	1.11.2.1	unspecific peroxygenase
+Agrocybe aegerita peroxidase	1.11.2.1	unspecific peroxygenase
+Agrocybe aegerita peroxygenase	1.11.2.1	unspecific peroxygenase
+haloperoxidase	1.11.2.1	unspecific peroxygenase
+45 kDa peroxygenase/peroxidase	1.11.2.1	unspecific peroxygenase
+PII	1.11.2.1	unspecific peroxygenase
+Agrocybe aegerita peroxidase/peroxygenase	1.11.2.1	unspecific peroxygenase
+haloperoxidase-peroxygenase	1.11.2.1	unspecific peroxygenase
+extracellular peroxygenase	1.11.2.1	unspecific peroxygenase
+UPO	1.11.2.1	unspecific peroxygenase
+aromatic peroxygenase	1.11.2.1	unspecific peroxygenase
+APO	1.11.2.1	unspecific peroxygenase
+tissue myeloperoxidase	1.11.2.2	myeloperoxidase
+MPO	1.11.2.2	myeloperoxidase
+recombinant human MPO	1.11.2.2	myeloperoxidase
+rhMPO	1.11.2.2	myeloperoxidase
+donor: H2O2 oxidoreductase	1.11.2.2	myeloperoxidase
+donor:hydrogen peroxide oxidoreductase	1.11.2.2	myeloperoxidase
+hemi-myeloperoxidase	1.11.2.2	myeloperoxidase
+hemi-MPO	1.11.2.2	myeloperoxidase
+donor:hydrogen-peroxide oxidoreductase	1.11.2.2	myeloperoxidase
+donor, hydrogen peroxideoxidoreductase	1.11.2.2	myeloperoxidase
+myeloperoxidase	1.11.2.2	myeloperoxidase
+donor: H202 oxidoreductase	1.11.2.2	myeloperoxidase
+donor:H2O2 oxidoreductase	1.11.2.2	myeloperoxidase
+LPO	1.11.2.2	myeloperoxidase
+properoxinectin	1.11.2.2	myeloperoxidase
+peroxinectin	1.11.2.2	myeloperoxidase
+donor, hydrogen peroxide oxidoreductase	1.11.2.2	myeloperoxidase
+EC 1.11.1.7	1.11.2.2	myeloperoxidase
+PXG4	1.11.2.3	plant seed peroxygenase
+caleosin-like protein	1.11.2.3	plant seed peroxygenase
+peroxygenase, hydroperoxide-dependent hydroxylase	1.11.2.3	plant seed peroxygenase
+hydrogen peroxide-reducible hemoprotein	1.11.2.3	plant seed peroxygenase
+plant peroxygenase	1.11.2.3	plant seed peroxygenase
+hydroperoxide-dependent peroxygenase	1.11.2.3	plant seed peroxygenase
+epoxygenase	1.11.2.3	plant seed peroxygenase
+soybean peroxygenase	1.11.2.3	plant seed peroxygenase
+Clo-3	1.11.2.3	plant seed peroxygenase
+Clo-1	1.11.2.3	plant seed peroxygenase
+PXG2	1.11.2.3	plant seed peroxygenase
+PXG1	1.11.2.3	plant seed peroxygenase
+caleosin	1.11.2.3	plant seed peroxygenase
+PXG	1.11.2.3	plant seed peroxygenase
+P450 BM-3 peroxygenase 21B3	1.11.2.4	fatty-acid peroxygenase
+hydrogen peroxide-dependent fatty acid alpha-hydroxylase	1.11.2.4	fatty-acid peroxygenase
+peroxygenase P450SPalpha	1.11.2.4	fatty-acid peroxygenase
+P450SPalpha	1.11.2.4	fatty-acid peroxygenase
+CYP152B1	1.11.2.4	fatty-acid peroxygenase
+peroxygenase P450	1.11.2.4	fatty-acid peroxygenase
+hydrogen peroxide-dependent peroxygenase cytochrome P450	1.11.2.4	fatty-acid peroxygenase
+fatty-acid subterminal hydroxylase	1.11.2.4	fatty-acid peroxygenase
+CYP505	1.11.2.4	fatty-acid peroxygenase
+P450foxy	1.11.2.4	fatty-acid peroxygenase
+fatty-acid hydroxylase	1.11.2.4	fatty-acid peroxygenase
+cytochrome P450BSbeta	1.11.2.4	fatty-acid peroxygenase
+peroxygenase cytochrome P450	1.11.2.4	fatty-acid peroxygenase
+CYP152A1	1.11.2.4	fatty-acid peroxygenase
+P450 peroxygenase	1.11.2.4	fatty-acid peroxygenase
+hydrogen peroxide-dependent cytochrome P450BSbeta	1.11.2.4	fatty-acid peroxygenase
+P450BSbeta	1.11.2.4	fatty-acid peroxygenase
+cytochrome P450 monooxygenase	1.11.2.4	fatty-acid peroxygenase
+alpha-fatty acid hydroxylase	1.11.2.4	fatty-acid peroxygenase
+CYP152A2	1.11.2.4	fatty-acid peroxygenase
+P450CLA	1.11.2.4	fatty-acid peroxygenase
+SacD	1.11.2.5	3-methyl-L-tyrosine peroxygenase
+SfmD	1.11.2.5	3-methyl-L-tyrosine peroxygenase
+3-methyltyrosine peroxidase	1.11.2.5	3-methyl-L-tyrosine peroxygenase
+3-methyl-L-tyrosine peroxidase	1.11.2.5	3-methyl-L-tyrosine peroxygenase

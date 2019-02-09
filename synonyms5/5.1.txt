@@ -1,0 +1,628 @@
+synonyms	ec_number	recommended_name
+Racemase, alanine	5.1.1.1	alanine racemase
+L-Alanine racemase	5.1.1.1	alanine racemase
+L-Alanine:D-alanine racemase	5.1.1.1	alanine racemase
+DadB	5.1.1.1	alanine racemase
+ALR	5.1.1.1	alanine racemase
+tAlaRac	5.1.1.1	alanine racemase
+alanine	5.1.1.1	alanine racemase
+AlrA	5.1.1.1	alanine racemase
+EcAlr	5.1.1.1	alanine racemase
+BA0252	5.1.1.1	alanine racemase
+BAS0238	5.1.1.1	alanine racemase
+AlrBax	5.1.1.1	alanine racemase
+dal1	5.1.1.1	alanine racemase
+dadXOF4	5.1.1.1	alanine racemase
+EfAlaR	5.1.1.1	alanine racemase
+D-alanine racemase	5.1.1.1	alanine racemase
+OEOE_1641	5.1.1.1	alanine racemase
+MBAlr2	5.1.1.1	alanine racemase
+PDB	5.1.1.1	alanine racemase
+1SFT	5.1.1.1	alanine racemase
+AlaR	5.1.1.1	alanine racemase
+DadX	5.1.1.1	alanine racemase
+Racemase, amino acid	5.1.1.10	amino-acid racemase
+L-Amino acid racemase	5.1.1.10	amino-acid racemase
+broad specificity amino acid racemase	5.1.1.10	amino-acid racemase
+amino-acid racemase	5.1.1.10	amino-acid racemase
+amino acid racemase	5.1.1.10	amino-acid racemase
+DAR1	5.1.1.10	amino-acid racemase
+D-amino acid racemase 1	5.1.1.10	amino-acid racemase
+N-succinylamino acid racemase	5.1.1.10	amino-acid racemase
+NSAR	5.1.1.10	amino-acid racemase
+GkNSAAR	5.1.1.10	amino-acid racemase
+ArgR	5.1.1.10	amino-acid racemase
+Racemase, phenylalanine	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+Phenylalanine racemase	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+Phenylalanine racemase	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+Phenylalanine racemase	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+GS I	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+PheATE	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+Gramicidin S synthetase I	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+GrsA	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
+Racemase, ornithine	5.1.1.12	ornithine racemase
+L-ornithine racemase	5.1.1.12	ornithine racemase
+or-5	5.1.1.12	ornithine racemase
+Racemase, aspartate	5.1.1.13	aspartate racemase
+Aspartate racemase	5.1.1.13	aspartate racemase
+AspR	5.1.1.13	aspartate racemase
+P. AspR	5.1.1.13	aspartate racemase
+PhAspR	5.1.1.13	aspartate racemase
+D-Aspartate racemase	5.1.1.13	aspartate racemase
+D-Asp racemase	5.1.1.13	aspartate racemase
+Asp racemase	5.1.1.13	aspartate racemase
+Epimerase, isonocardicin A	5.1.1.14	nocardicin A epimerase
+nocardicin C-9'epimerase	5.1.1.14	nocardicin A epimerase
+NocJ	5.1.1.14	nocardicin A epimerase
+Racemase, alpha-amino-epsilon-caprolactam	5.1.1.15	2-aminohexano-6-lactam racemase
+Racemase, alpha-amino-epsilon-caprolactam	5.1.1.15	2-aminohexano-6-lactam racemase
+Aminocaprolactam racemase	5.1.1.15	2-aminohexano-6-lactam racemase
+alpha-Amino-delta-valerolactam racemase	5.1.1.15	2-aminohexano-6-lactam racemase
+ACL racemase	5.1.1.15	2-aminohexano-6-lactam racemase
+alpha-Amino-epsilon-caprolactam racemase	5.1.1.15	2-aminohexano-6-lactam racemase
+ACLR	5.1.1.15	2-aminohexano-6-lactam racemase
+Protein-serine racemase	5.1.1.16	protein-serine epimerase
+Isomerase, peptide serine	5.1.1.16	protein-serine epimerase
+Peptide D-serine-L-serine isomerase	5.1.1.16	protein-serine epimerase
+Peptide serine isomerase	5.1.1.16	protein-serine epimerase
+Serine isomerase	5.1.1.16	protein-serine epimerase
+Peptidyl-prolyl cis-trans isomerase	5.1.1.16	protein-serine epimerase
+isopenicillin N-CoA epimerase	5.1.1.17	isopenicillin-N epimerase
+IPN epimerase	5.1.1.17	isopenicillin-N epimerase
+isopenecillin N-CoA epimerase	5.1.1.17	isopenicillin-N epimerase
+cefD2	5.1.1.17	isopenicillin-N epimerase
+isopenicillin N epimerase	5.1.1.17	isopenicillin-N epimerase
+PenN epimerase	5.1.1.17	isopenicillin-N epimerase
+SRR	5.1.1.18	serine racemase
+SRace	5.1.1.18	serine racemase
+SerR	5.1.1.18	serine racemase
+DcsC	5.1.1.19	O-ureido-serine racemase
+Racemase, methionine	5.1.1.2	methionine racemase
+AEE	5.1.1.20	L-Ala-D/L-Glu epimerase
+YkfB	5.1.1.20	L-Ala-D/L-Glu epimerase
+AE epimerase	5.1.1.20	L-Ala-D/L-Glu epimerase
+YcjG	5.1.1.20	L-Ala-D/L-Glu epimerase
+BCAA racemase	5.1.1.21	isoleucine 2-epimerase
+Hyp-B 2-epimerase	5.1.1.22	4-hydroxyproline betaine 2-epimerase
+hpbD	5.1.1.22	4-hydroxyproline betaine 2-epimerase
+Racemase, glutamate	5.1.1.3	glutamate racemase
+GluR	5.1.1.3	glutamate racemase
+HpMurI	5.1.1.3	glutamate racemase
+MurI	5.1.1.3	glutamate racemase
+glutamate racemase	5.1.1.3	glutamate racemase
+RacE1	5.1.1.3	glutamate racemase
+RacE2	5.1.1.3	glutamate racemase
+BsGR	5.1.1.3	glutamate racemase
+BsRacE	5.1.1.3	glutamate racemase
+RACE	5.1.1.3	glutamate racemase
+FnGR	5.1.1.3	glutamate racemase
+glutamic acid racemases	5.1.1.3	glutamate racemase
+Racemase, proline	5.1.1.4	proline racemase
+TcPA45	5.1.1.4	proline racemase
+ProR	5.1.1.4	proline racemase
+PRAC	5.1.1.4	proline racemase
+TcPRACB	5.1.1.4	proline racemase
+TcPRAC	5.1.1.4	proline racemase
+proline racemase	5.1.1.4	proline racemase
+TcPRACA	5.1.1.4	proline racemase
+proline racemase/hydroxyproline epimerase	5.1.1.4	proline racemase
+ProR/HypE	5.1.1.4	proline racemase
+HjProR	5.1.1.4	proline racemase
+FaProR	5.1.1.4	proline racemase
+CdPRAC	5.1.1.4	proline racemase
+PrdF	5.1.1.4	proline racemase
+CdProR	5.1.1.4	proline racemase
+TvPRAC	5.1.1.4	proline racemase
+TvHYP1	5.1.1.4	proline racemase
+Racemase, lysine	5.1.1.5	lysine racemase
+lysine racemase	5.1.1.5	lysine racemase
+lyr	5.1.1.5	lysine racemase
+Racemase, threonine	5.1.1.6	threonine racemase
+Threonine alpha-epimerase	5.1.1.6	threonine racemase
+Epimerase, diaminopimelate	5.1.1.7	diaminopimelate epimerase
+LL-Diaminopimelate epimerase	5.1.1.7	diaminopimelate epimerase
+Diaminopimelic epimerase	5.1.1.7	diaminopimelate epimerase
+MtDapF	5.1.1.7	diaminopimelate epimerase
+DAP-epimerase	5.1.1.7	diaminopimelate epimerase
+DAP	5.1.1.7	diaminopimelate epimerase
+Diaminopimelic acid epimerase	5.1.1.7	diaminopimelate epimerase
+DapF	5.1.1.7	diaminopimelate epimerase
+diaminopimelate epimerase	5.1.1.7	diaminopimelate epimerase
+DAP epimerase	5.1.1.7	diaminopimelate epimerase
+YddE	5.1.1.7	diaminopimelate epimerase
+Epimerase, hydroxyproline	5.1.1.8	4-hydroxyproline epimerase
+Hydroxyproline epimerase	5.1.1.8	4-hydroxyproline epimerase
+Hydroxyproline 2-epimerase	5.1.1.8	4-hydroxyproline epimerase
+L-Hydroxyproline epimerase	5.1.1.8	4-hydroxyproline epimerase
+4-hydroxyproline 2-epimerase	5.1.1.8	4-hydroxyproline epimerase
+Smb20268	5.1.1.8	4-hydroxyproline epimerase
+HyPRE	5.1.1.8	4-hydroxyproline epimerase
+proline racemase/hydroxyproline epimerase	5.1.1.8	4-hydroxyproline epimerase
+ProR/HypE	5.1.1.8	4-hydroxyproline epimerase
+FaProR	5.1.1.8	4-hydroxyproline epimerase
+4-hydroxyproline-2-epimerase	5.1.1.8	4-hydroxyproline epimerase
+PrpA	5.1.1.8	4-hydroxyproline epimerase
+Racemase, arginine	5.1.1.9	arginine racemase
+arginine racemase	5.1.1.9	arginine racemase
+ArgR	5.1.1.9	arginine racemase
+Racemase, lactate	5.1.2.1	lactate racemase
+Lacticoracemase	5.1.2.1	lactate racemase
+Hydroxyacid racemase	5.1.2.1	lactate racemase
+Lactic acid racemase	5.1.2.1	lactate racemase
+LAR	5.1.2.1	lactate racemase
+lactate racemase	5.1.2.1	lactate racemase
+racemase, mandelate	5.1.2.2	mandelate racemase
+mandelic acid racemase	5.1.2.2	mandelate racemase
+MR	5.1.2.2	mandelate racemase
+mandelate racemase	5.1.2.2	mandelate racemase
+Epimerase, 3-hydroxybutyryl coenzyme A	5.1.2.3	3-hydroxybutyryl-CoA epimerase
+3-Hydroxybutyryl coenzyme A epimerase	5.1.2.3	3-hydroxybutyryl-CoA epimerase
+3-Hydroxyacyl-coenzyme A epimerase	5.1.2.3	3-hydroxybutyryl-CoA epimerase
+TFP	5.1.2.3	3-hydroxybutyryl-CoA epimerase
+Acetylmethylcarbinol racemase	5.1.2.4	acetoin racemase
+Racemase, acetoin	5.1.2.4	acetoin racemase
+Tartaric racemase	5.1.2.5	tartrate epimerase
+Epimerase, tartrate	5.1.2.5	tartrate epimerase
+Epimerase, isocitrate	5.1.2.6	isocitrate epimerase
+fructuronate epimerase	5.1.2.7	tagaturonate epimerase
+tagaturonate/fructuronate epimerase	5.1.2.7	tagaturonate epimerase
+UxaE	5.1.2.7	tagaturonate epimerase
+Tm0440	5.1.2.7	tagaturonate epimerase
+Epimerase, ribulose phosphate 3-	5.1.3.1	ribulose-phosphate 3-epimerase
+Phosphoribulose epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Phosphoketopentose 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Xylulose phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Ribulose phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Phosphoketopentose epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Ribulose 5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+D-Ribulose phosphate-3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+D-Ribulose-5-phosphate epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+D-Xylulose-5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+R5P3E	5.1.3.1	ribulose-phosphate 3-epimerase
+PPE	5.1.3.1	ribulose-phosphate 3-epimerase
+ribulose-5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+RPE	5.1.3.1	ribulose-phosphate 3-epimerase
+D-Ribulose-5-P 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+RPEase	5.1.3.1	ribulose-phosphate 3-epimerase
+Ru5Pepimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Pentose-5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+slr1622	5.1.3.1	ribulose-phosphate 3-epimerase
+D-ribulose 5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+D-ribulose-5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+cyt-RPEase	5.1.3.1	ribulose-phosphate 3-epimerase
+Ru5P rpimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Ru5P epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+xylulose-5-P 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
+Epimerase, cytidine diphosphoabequose	5.1.3.10	CDP-paratose 2-epimerase
+CDP abequose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+CDP paratose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+Cytidine diphosphoabequose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+Cytidine diphosphodideoxyglucose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+Cytidine diphosphoparatose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+Cytidine diphosphate paratose-2-epimerase	5.1.3.10	CDP-paratose 2-epimerase
+CDP-abequose 2-epimerase	5.1.3.10	CDP-paratose 2-epimerase
+CDPabequose 2-epimerase	5.1.3.10	CDP-paratose 2-epimerase
+CDP-abequose epimerase	5.1.3.10	CDP-paratose 2-epimerase
+CDP-D-abequose 2-epimerase	5.1.3.10	CDP-paratose 2-epimerase
+Epimerase, cellobiose	5.1.3.11	cellobiose epimerase
+cellobiose 2-epimerase	5.1.3.11	cellobiose epimerase
+CE-NE1	5.1.3.11	cellobiose epimerase
+Epimerase, uridine diphosphoglucuronate 5'	5.1.3.12	UDP-glucuronate 5'-epimerase
+UDP glucuronate 5'-epimerase	5.1.3.12	UDP-glucuronate 5'-epimerase
+Uridine diphosphoglucuronate 5'-epimerase	5.1.3.12	UDP-glucuronate 5'-epimerase
+UDP-glucuronic acid 5'-epimerase	5.1.3.12	UDP-glucuronate 5'-epimerase
+C-5-Uronosylepimerase	5.1.3.12	UDP-glucuronate 5'-epimerase
+UDP-glucuronic acid epimerase	5.1.3.12	UDP-glucuronate 5'-epimerase
+dTDP-L-rhamnose synthetase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+Thymidine diphospho-4-ketorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+TDP-4-ketorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+Epimerase, thymidine diphospho-4-ketorhamnose 3,5-	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+dTDP-4-keto-L-rhamnose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+TDP-4-keto-L-rhamnose-3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+bifunctional UDP-4-keto-6-deoxy-D-glucose epimerase/reductase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+UGER	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+TDP-4-keto-6-deoxy-D-glucose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+RmbC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+dTDP-4-keto-6-deoxyglucose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+deoxythymidine diphospho-4-keto-6-deoxyglucose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+DnmU	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+dTDP-4-keto-6-deoxy-D-hexulose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+dTDP-6-deoxy-D-xylo-4-hexulose 3',5'-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+TDP-6-deoxy-D-xylo-4-hexopyranosid-4-ulose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+RmlC	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+deoxythymidine diphosphate-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+dTDP-4-dehydrorhamnose 3,5-epimerase	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+NovW gene product	5.1.3.13	dTDP-4-dehydrorhamnose 3,5-epimerase
+UDP-N-acetylglucosamine 2'-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+Uridine diphosphoacetylglucosamine 2'-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+Uridine diphospho-N-acetylglucosamine 2'-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+Uridine diphosphate-N-acetylglucosamine-2'-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+Epimerase, uridine diphosphoacetylglucosamine 2-	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc-2-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc 2'-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+GNE2	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+GNE1	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-N-acetylglucosamine-2-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc 2-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-N-acetylglucosamine-2-epimerase/N-acetylmannosamine kinase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-N-acetylglucosamine 2-epimerase/N-acetylmannosamine kinase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc 2-epimerase/ManNAc kinase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+GNE	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+NeuC protein	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+non-hydrolyzing UDP-N-acetylglucosamine 2-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-N-acetylglucosamine 2-epimerase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc 2-epimerase/ManAc kinase	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+GNE/MNK	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+UDP-GlcNAc 2-epimerase/ManNAc kinase gene	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+More	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+His-rGNE	5.1.3.14	UDP-N-acetylglucosamine 2-epimerase (non-hydrolysing)
+Epimerase, glucose 6-phosphate 1-	5.1.3.15	glucose-6-phosphate 1-epimerase
+Glucose 6-phosphate 1-epimerase	5.1.3.15	glucose-6-phosphate 1-epimerase
+G6P-1-epimerase	5.1.3.15	glucose-6-phosphate 1-epimerase
+UDPGal-4-epimerase	5.1.3.16	UDP-glucosamine 4-epimerase
+Uridine diphosphogalactose-4-epimerase	5.1.3.16	UDP-glucosamine 4-epimerase
+Epimerase, polyglucuronate	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Heparosan-N-sulfate-D-glucuronosyl-5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+C5 uronosyl epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Heparosan N-sulfate D-glucuronosyl 5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+D-Glucuronyl C-5 epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+glucuronyl C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+GlceA	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+HS glucuronyl C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Heparan sulfate C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Glce	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Hsepi	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+GlceB	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+3,4,7,8,9,10,11,12,13,15,16,17,18,21,22,23,24,25,26,27,28,29,30,31,32	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+HS C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+C5-epi	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+RED-C5-epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+glucuronosyl C-5 epimerase	5.1.3.17	heparosan-N-sulfate-glucuronate 5-epimerase
+Epimerase, guanosine diphosphomannose	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-D-mannose:GDP-L-galactose epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-D-mannose 3',5'-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-mannose 3",5"-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-mannose-3',5'-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GME	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-D-mannose 3,5-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-D-mannose-3',5'-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-D-mannose 3'',5''-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+OsGME	5.1.3.18	GDP-mannose 3,5-epimerase
+GME2	5.1.3.18	GDP-mannose 3,5-epimerase
+GDP-mannose 3',5'-epimerase	5.1.3.18	GDP-mannose 3,5-epimerase
+GME1	5.1.3.18	GDP-mannose 3,5-epimerase
+Polyglucuronate 5-epimerase	5.1.3.19	chondroitin-glucuronate 5-epimerase
+Dermatan-sulfate 5-epimerase	5.1.3.19	chondroitin-glucuronate 5-epimerase
+Epimerase, chondroitin glucuronate 5-	5.1.3.19	chondroitin-glucuronate 5-epimerase
+Chondroitin D-glucuronosyl 5-epimerase	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DS-epi1	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DS-epi2	5.1.3.19	chondroitin-glucuronate 5-epimerase
+dermatan sulfate epimerase 1	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DS-epimerase 1	5.1.3.19	chondroitin-glucuronate 5-epimerase
+dermatan sulfate epimerase	5.1.3.19	chondroitin-glucuronate 5-epimerase
+chondroitin-glucuronate C5-epimerase	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DS epimerase 1	5.1.3.19	chondroitin-glucuronate 5-epimerase
+dermatan sulfate epimerase 2	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DS epimerase 2	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DSE	5.1.3.19	chondroitin-glucuronate 5-epimerase
+SART2	5.1.3.19	chondroitin-glucuronate 5-epimerase
+DSEL	5.1.3.19	chondroitin-glucuronate 5-epimerase
+dermatan sulfate epimerase like	5.1.3.19	chondroitin-glucuronate 5-epimerase
+4-Epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Epimerase, uridine diphosphoglucose	5.1.3.2	UDP-glucose 4-epimerase
+Galactowaldenase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-glucose epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-D-galactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDPG-4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDPgalactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphosphoglucose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphosphoglucose epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphosphate galactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphospho-galactose-4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphosphate glucose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UgeA	5.1.3.2	UDP-glucose 4-epimerase
+UDP-glucose-4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+HvUGE2	5.1.3.2	UDP-glucose 4-epimerase
+HvUGE3	5.1.3.2	UDP-glucose 4-epimerase
+UGE	5.1.3.2	UDP-glucose 4-epimerase
+UDP-Gal 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+HvUGE1	5.1.3.2	UDP-glucose 4-epimerase
+Rdh1	5.1.3.2	UDP-glucose 4-epimerase
+UDP-D-glucose/UDP-D-galactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UGE2	5.1.3.2	UDP-glucose 4-epimerase
+UGE4	5.1.3.2	UDP-glucose 4-epimerase
+UGE1:GUS	5.1.3.2	UDP-glucose 4-epimerase
+UGE3:GUS	5.1.3.2	UDP-glucose 4-epimerase
+UGE3	5.1.3.2	UDP-glucose 4-epimerase
+UGE5	5.1.3.2	UDP-glucose 4-epimerase
+UDP-glucose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UGE1	5.1.3.2	UDP-glucose 4-epimerase
+TbGalE	5.1.3.2	UDP-glucose 4-epimerase
+UDP-glucose 4'-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+CaGAL10	5.1.3.2	UDP-glucose 4-epimerase
+6xHis-rGalE	5.1.3.2	UDP-glucose 4-epimerase
+rGalE	5.1.3.2	UDP-glucose 4-epimerase
+uridine diphosphate-galactose-4'-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+GalE	5.1.3.2	UDP-glucose 4-epimerase
+UDP-galactose-4'-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+MdUGE1	5.1.3.2	UDP-glucose 4-epimerase
+CapD	5.1.3.2	UDP-glucose 4-epimerase
+AtUGE1	5.1.3.2	UDP-glucose 4-epimerase
+AtUGE2	5.1.3.2	UDP-glucose 4-epimerase
+AtUGE3	5.1.3.2	UDP-glucose 4-epimerase
+AtUGE4	5.1.3.2	UDP-glucose 4-epimerase
+AtUGE5	5.1.3.2	UDP-glucose 4-epimerase
+UDP-GlcNAc 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+More	5.1.3.2	UDP-glucose 4-epimerase
+UDP-xylose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-Xyl 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+PsUGE1	5.1.3.2	UDP-glucose 4-epimerase
+UDP-glucose/-galactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Uge1p	5.1.3.2	UDP-glucose 4-epimerase
+Uridine diphosphogalactose-4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-Glc	5.1.3.2	UDP-glucose 4-epimerase
+GNE2	5.1.3.2	UDP-glucose 4-epimerase
+UDP-hexose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+GNE	5.1.3.2	UDP-glucose 4-epimerase
+UDP-GlcNAc/Glc 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-galactose 4'-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-galactose 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-Glc 4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+UDP-galactose-4-epimerase	5.1.3.2	UDP-glucose 4-epimerase
+Gal10p	5.1.3.2	UDP-glucose 4-epimerase
+GAL10	5.1.3.2	UDP-glucose 4-epimerase
+Epimerase, adenosine diphosphoglyceromannoheptose 6-	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+Adenosine diphosphoglyceromannoheptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-manno-heptose-epimerase, Aquifex aelicis gene rfaD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+GenBank AE000684-derived protein GI 2983012	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+Epimerase, adenosine diphosphoglyceromannoheptose 6-	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-mannoheptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+Epimerase, adenosine diphosphoglyceromannoheptose 6-	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-mannoheptose-6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+Genbank AE000440-derived protein GI 1790049	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-mannoheptose-6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-glyceromanno-heptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-mannoheptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+RfaD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+hldD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L,D-hep 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+AGME	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-manno-heptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-glycero-manno-heptose-6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+GmhD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+ADP-L-glycero-D-manno-heptose-6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+HP0859	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+UlaE	5.1.3.22	L-ribulose-5-phosphate 3-epimerase
+L-xylulose 5-phosphate 3-epimerase	5.1.3.22	L-ribulose-5-phosphate 3-epimerase
+SgaU	5.1.3.22	L-ribulose-5-phosphate 3-epimerase
+WbpI	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+UDP-GlcNAc3NAcA 2-epimerase	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+UDP-alpha-D-GlcNAc3NAcA 2-epimerase	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronic acid 2-epimerase	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+UDP-2,3-diacetamido-2,3-dideoxy-alpha-D-glucuronic acid	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+WlbD	5.1.3.23	UDP-2,3-diacetamido-2,3-dideoxyglucuronic acid 2-epimerase
+sialic acid epimerase	5.1.3.24	N-acetylneuraminate epimerase
+N-acetylneuraminate mutarotase	5.1.3.24	N-acetylneuraminate epimerase
+YjhT	5.1.3.24	N-acetylneuraminate epimerase
+dTDP-4-L-rhamnose 4-epimerase	5.1.3.25	dTDP-L-rhamnose 4-epimerase
+wbiB	5.1.3.25	dTDP-L-rhamnose 4-epimerase
+dTDP-L-rhamnose 4-epimerase	5.1.3.25	dTDP-L-rhamnose 4-epimerase
+dTDP-Rha 4-epimerase	5.1.3.25	dTDP-L-rhamnose 4-epimerase
+dTDP-6-deoxysugar 4-epimerase	5.1.3.25	dTDP-L-rhamnose 4-epimerase
+GlcNAc-P-P-Und epimerase	5.1.3.26	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+GlcNAc-P-P-Und 4-epimerase	5.1.3.26	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+dTDP-deoxyglucose 3-epimerase	5.1.3.27	dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase
+dTDP-4-keto-6-deoxy-D-glucose 3-epimerase	5.1.3.27	dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase
+GerF	5.1.3.27	dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase
+dTDP-4-keto-6-deoxyglucose 3-epimerase	5.1.3.27	dTDP-4-dehydro-6-deoxy-D-glucose 3-epimerase
+Cap5G	5.1.3.28	UDP-N-acetyl-L-fucosamine synthase
+WbjD	5.1.3.28	UDP-N-acetyl-L-fucosamine synthase
+FucM	5.1.3.29	L-fucose mutarotase
+SpFcsU	5.1.3.29	L-fucose mutarotase
+eFucU	5.1.3.29	L-fucose mutarotase
+FucU	5.1.3.29	L-fucose mutarotase
+mFucU	5.1.3.29	L-fucose mutarotase
+Epimerase, aldose-1	5.1.3.3	Aldose 1-epimerase
+aldose mutarotase	5.1.3.3	Aldose 1-epimerase
+stYeaD	5.1.3.3	Aldose 1-epimerase
+mutarotase YeaD	5.1.3.3	Aldose 1-epimerase
+aldose 1-epimerase	5.1.3.3	Aldose 1-epimerase
+Mutarotase	5.1.3.3	Aldose 1-epimerase
+aldose-l-epimerase	5.1.3.3	Aldose 1-epimerase
+aldose-1-epimerase	5.1.3.3	Aldose 1-epimerase
+YeaD	5.1.3.3	Aldose 1-epimerase
+CLOSCI_02528	5.1.3.30	D-psicose 3-epimerase
+Ccel_0941	5.1.3.30	D-psicose 3-epimerase
+ACL75304 protein	5.1.3.30	D-psicose 3-epimerase
+DPEase	5.1.3.30	D-psicose 3-epimerase
+Clo1100_1157	5.1.3.30	D-psicose 3-epimerase
+CLOBOL_00069	5.1.3.30	D-psicose 3-epimerase
+DTEase	5.1.3.30	D-psicose 3-epimerase
+D-TE	5.1.3.31	D-tagatose 3-epimerase
+L-TE	5.1.3.31	D-tagatose 3-epimerase
+ketose 3-epimerase	5.1.3.31	D-tagatose 3-epimerase
+L-ribulose 3-epimerase	5.1.3.31	D-tagatose 3-epimerase
+L-RE	5.1.3.31	D-tagatose 3-epimerase
+rhamnose 1-epimerase	5.1.3.32	L-rhamnose mutarotase
+type-3 mutarotase	5.1.3.32	L-rhamnose mutarotase
+YiiL	5.1.3.32	L-rhamnose mutarotase
+RhaU	5.1.3.32	L-rhamnose mutarotase
+CetB	5.1.3.33	2-epi-5-epi-valiolone epimerase
+EVE	5.1.3.33	2-epi-5-epi-valiolone epimerase
+glucolipid epimerase	5.1.3.34	monoglucosyldiacylglycerol epimerase
+mgdE	5.1.3.34	monoglucosyldiacylglycerol epimerase
+GlcDG epimerase	5.1.3.34	monoglucosyldiacylglycerol epimerase
+MgdE protein	5.1.3.34	monoglucosyldiacylglycerol epimerase
+AcbO	5.1.3.35	2-epi-5-epi-valiolone 7-phosphate 2-epimerase
+HG-5epi	5.1.3.36	heparosan-glucuronate 5-epimerase
+alginate epimerase	5.1.3.37	mannuronan 5-epimerase
+C5-mannuronan epimerase	5.1.3.37	mannuronan 5-epimerase
+AlgE7	5.1.3.37	mannuronan 5-epimerase
+AlgE4	5.1.3.37	mannuronan 5-epimerase
+poly	5.1.3.37	mannuronan 5-epimerase
+AlgE6	5.1.3.37	mannuronan 5-epimerase
+AlgE1	5.1.3.37	mannuronan 5-epimerase
+AlgE3	5.1.3.37	mannuronan 5-epimerase
+algG	5.1.3.37	mannuronan 5-epimerase
+eryC	5.1.3.38	D-erythrulose 1-phosphate 3-epimerase
+lerI	5.1.3.39	L-erythrulose 4-phosphate epimerase
+Epimerase, L-ribulose phosphate 4-	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+L-Ribulose phosphate 4-epimerase	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+Phosphoribulose isomerase	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+Ribulose phosphate 4-epimerase	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+L-Ribulose-5-phosphate 4-epimerase	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+araD	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
+rlC	5.1.3.41	fructoselysine 3-epimerase
+FrlC	5.1.3.41	fructoselysine 3-epimerase
+Epimerase, uridine diphosphoarabinose	5.1.3.5	UDP-arabinose 4-epimerase
+Uridine diphosphoarabinose epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+UDP arabinose epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+Uridine 5'-diphosphate-D-xylose 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+UDP-D-xylose 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+UDP-arabinose 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+AtUGE2	5.1.3.5	UDP-arabinose 4-epimerase
+AtUGE3	5.1.3.5	UDP-arabinose 4-epimerase
+AtUGE4	5.1.3.5	UDP-arabinose 4-epimerase
+AtUGE5	5.1.3.5	UDP-arabinose 4-epimerase
+UDP xylose-4-epimerase 1	5.1.3.5	UDP-arabinose 4-epimerase
+PsUGE1	5.1.3.5	UDP-arabinose 4-epimerase
+Uxe	5.1.3.5	UDP-arabinose 4-epimerase
+UXE3	5.1.3.5	UDP-arabinose 4-epimerase
+UDP-alpha-D-xylose 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+UXE1	5.1.3.5	UDP-arabinose 4-epimerase
+UXE2	5.1.3.5	UDP-arabinose 4-epimerase
+AtUGE1	5.1.3.5	UDP-arabinose 4-epimerase
+UDP-Xyl 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+UDP-xylose 4-epimerase	5.1.3.5	UDP-arabinose 4-epimerase
+Epimerase, uridine diphosphoglucuronate	5.1.3.6	UDP-glucuronate 4-epimerase
+Uridine diphospho-D-galacturonic acid 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP glucuronic epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+Uridine diphosphoglucuronic epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-galacturonate 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+Uridine diphosphoglucuronate epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-D-galacturonic acid 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-D-glucuronate-4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+AtUGlcAE3	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-glucuronic acid 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-GlcA 4-epimerase3	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-GlcA 4-epimerase1	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE5	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-GlcA 4-epimerase2	5.1.3.6	UDP-glucuronate 4-epimerase
+AtUGlcAE2	5.1.3.6	UDP-glucuronate 4-epimerase
+UGlcAE	5.1.3.6	UDP-glucuronate 4-epimerase
+ZmUGlcAE	5.1.3.6	UDP-glucuronate 4-epimerase
+OsUGlcAE3	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE1	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE2	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE4	5.1.3.6	UDP-glucuronate 4-epimerase
+AtUGlcAE1	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE6	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-GlcA 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP-D-glucuronic acid 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE	5.1.3.6	UDP-glucuronate 4-epimerase
+GAE3	5.1.3.6	UDP-glucuronate 4-epimerase
+uridine diphosphate galacturonate 4-epimerase	5.1.3.6	UDP-glucuronate 4-epimerase
+UDPGLE	5.1.3.6	UDP-glucuronate 4-epimerase
+UDP acetylglucosamine epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Uridine diphosphoacetylglucosamine epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Uridine diphosphate N-acetylglucosamine-4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Uridine 5'-diphospho-N-acetylglucosamine-4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Epimerase, uridine diphosphoacetylglucosamine	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+WbPP	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-GlcNAc/Glc 4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-N-acetylglucosamine 4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-hexose 4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-Glc	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-N-acetylglucosamine-4'-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+GalE	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-GlcNAc epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Gne epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+GNE	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-GalNAc 4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+WbgU	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UDP-N-acetylglucosamine 4'-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+UAE	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
+Acylglucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+Epimerase, acylglucosamine 2-	5.1.3.8	N-Acylglucosamine 2-epimerase
+N-acetyl-D-glucosamine-2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+N-acylglucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+bGlcNAc 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+AGE2	5.1.3.8	N-Acylglucosamine 2-epimerase
+Renin-binding protein	5.1.3.8	N-Acylglucosamine 2-epimerase
+RNBP	5.1.3.8	N-Acylglucosamine 2-epimerase
+renin binding protein	5.1.3.8	N-Acylglucosamine 2-epimerase
+GlcNAc 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+AGE	5.1.3.8	N-Acylglucosamine 2-epimerase
+N-acyl-D-glucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+N-Acetylglucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+N-acetyl-D-glucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
+Epimerase, acylglucosamine phosphate 2-	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+Acylglucosamine-6-phosphate 2-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+Acylglucosamine phosphate 2-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+chondroitin-glucuronate C5-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+DS epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+GlcNAc-6P-2-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+Methylmalonyl-CoA racemase	5.1.99.1	Methylmalonyl-CoA epimerase
+Racemase, methylmalonyl coenzyme A	5.1.99.1	Methylmalonyl-CoA epimerase
+Methylmalonyl coenzyme A racemase	5.1.99.1	Methylmalonyl-CoA epimerase
+DL-Methylmalonyl-CoA racemase	5.1.99.1	Methylmalonyl-CoA epimerase
+DL-Methylmalonyl-coenzyme A racemase	5.1.99.1	Methylmalonyl-CoA epimerase
+TTE0360	5.1.99.1	Methylmalonyl-CoA epimerase
+methylmalonyl-coenzyme A epimerase	5.1.99.1	Methylmalonyl-CoA epimerase
+Msed_0639	5.1.99.1	Methylmalonyl-CoA epimerase
+MCE-1	5.1.99.1	Methylmalonyl-CoA epimerase
+methylmalonyl-CoA 2-epimerase	5.1.99.1	Methylmalonyl-CoA epimerase
+methylmalonyl-CoA epimerase	5.1.99.1	Methylmalonyl-CoA epimerase
+MCEE	5.1.99.1	Methylmalonyl-CoA epimerase
+MMCE	5.1.99.1	Methylmalonyl-CoA epimerase
+mm-CoA epimerase	5.1.99.1	Methylmalonyl-CoA epimerase
+MCE	5.1.99.1	Methylmalonyl-CoA epimerase
+methylmalonyl-CoA 2-racemase	5.1.99.1	Methylmalonyl-CoA epimerase
+Epimerase, 16-hydroxy steroid	5.1.99.2	16-Hydroxysteroid epimerase
+16-Hydroxy steroid epimerase	5.1.99.2	16-Hydroxysteroid epimerase
+Racemase, allantoin	5.1.99.3	Allantoin racemase
+HpxA	5.1.99.3	Allantoin racemase
+allantoin racemase	5.1.99.3	Allantoin racemase
+HpxA enzyme	5.1.99.3	Allantoin racemase
+Racemase, alpha-methylacyl coenzyme A	5.1.99.4	alpha-Methylacyl-CoA racemase
+Racemase, alpha-methylacyl coenzyme A	5.1.99.4	alpha-Methylacyl-CoA racemase
+GenBank U89906-derived protein GI 2145186	5.1.99.4	alpha-Methylacyl-CoA racemase
+Racemase, alpha-methylacyl coenzyme A	5.1.99.4	alpha-Methylacyl-CoA racemase
+GenBank U89905-derived protein GI2145184	5.1.99.4	alpha-Methylacyl-CoA racemase
+2-arylpropionyl-CoA epimerase	5.1.99.4	alpha-Methylacyl-CoA racemase
+2-methylacyl-CoA racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+amacr/P504S	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-methyl CoA racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-methylacyl-CoA racemase 1A	5.1.99.4	alpha-Methylacyl-CoA racemase
+AMACR 1A	5.1.99.4	alpha-Methylacyl-CoA racemase
+ibuprofenoyl-CoA epimerase	5.1.99.4	alpha-Methylacyl-CoA racemase
+AMACR	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-methylacyl-CoA racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-methylacyl-coenzyme A racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-methylacyl coenzyme A racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+alpha-Methylacyl CoA racemase	5.1.99.4	alpha-Methylacyl-CoA racemase
+P504S	5.1.99.4	alpha-Methylacyl-CoA racemase
+MCR	5.1.99.4	alpha-Methylacyl-CoA racemase
+AMACR IA	5.1.99.4	alpha-Methylacyl-CoA racemase
+5'-monosubstituted-hydantoin racemase	5.1.99.5	hydantoin racemase
+hydantoin racemase	5.1.99.5	hydantoin racemase
+HyuA	5.1.99.5	hydantoin racemase
+HyuE	5.1.99.5	hydantoin racemase
+apolipoprotein A-1-binding protein	5.1.99.6	NAD(P)H-hydrate epimerase
+NAD	5.1.99.6	NAD(P)H-hydrate epimerase
+AIBP	5.1.99.6	NAD(P)H-hydrate epimerase
+YNL200C	5.1.99.6	NAD(P)H-hydrate epimerase
+epimerase-PPOX	5.1.99.6	NAD(P)H-hydrate epimerase
+D-erythro-7,8-dihydroneopterin triphosphate epimerase	5.1.99.7	dihydroneopterin triphosphate 2'-epimerase
+dihydroneopterin-triphosphate epimerase	5.1.99.7	dihydroneopterin triphosphate 2'-epimerase
+dihydroneopterin triphosphate epimerase	5.1.99.7	dihydroneopterin triphosphate 2'-epimerase
+folX	5.1.99.7	dihydroneopterin triphosphate 2'-epimerase
+H2NTP 2'-epimerase	5.1.99.7	dihydroneopterin triphosphate 2'-epimerase
+FolB1	5.1.99.8	7,8-dihydroneopterin epimerase
+At3g11750	5.1.99.8	7,8-dihydroneopterin epimerase
+FolB	5.1.99.8	7,8-dihydroneopterin epimerase
+FolB2	5.1.99.8	7,8-dihydroneopterin epimerase
+At5g62980	5.1.99.8	7,8-dihydroneopterin epimerase
+folX	5.1.99.8	7,8-dihydroneopterin epimerase
+dihydroneopterin triphosphate 2'-epimerase	5.1.99.8	7,8-dihydroneopterin epimerase

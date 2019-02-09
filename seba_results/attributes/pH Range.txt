@@ -1,0 +1,70 @@
+Commentary	Ref	Literature(PubmedID)	value
+oxidation reaction	525	12091098	8.8-9.0
+oxidation reaction	526	12091098	8.8-9.0
+oxidation reaction	527	12091098	8.8-9.0
+	665	7669785	5.5-10.0
+	666	7669785	5.5-10.0
+	667	7669785	5.5-10.0
+	668	7669785	5.5-10.0
+	669	7669785	5.5-10.0
+	670	7669785	5.5-10.0
+	671	7669785	5.5-10.0
+	791	19270127	6.3-8.0
+	792	19270127	6.3-8.0
+assay pH	848	15769935	7.0
+assay pH	849	15769935	7.0
+assay pH	850	15769935	7.0
+assay pH	851	15769935	7.0
+assay pH	852	15769935	7.0
+assay pH	853	15769935	7.0
+assay pH	854	15769935	7.0
+assay pH	855	15769935	7.0
+pH 6.7: about 80% of maximal activity, pH 9.0: about 80% of maximal activity	1099	11358525	6.7-9.0
+pH 6.7: about 80% of maximal activity, pH 9.0: about 80% of maximal activity	1100	11358525	6.7-9.0
+pH 6.7: about 80% of maximal activity, pH 9.0: about 80% of maximal activity	1101	11358525	6.7-9.0
+pH 6.7: about 80% of maximal activity, pH 9.0: about 80% of maximal activity	1102	11358525	6.7-9.0
+	1127	6798966	5.8-8.0
+	1128	6798966	5.8-8.0
+	1129	6798966	5.8-8.0
+	1130	6798966	5.8-8.0
+	1131	6798966	5.8-8.0
+	1132	6798966	5.8-8.0
+	1162	19577617	5.0-9.0
+oxidation reaction, increasing activity from pH 6.0 to 11.0	1162	11742541	6.0-11.0
+	1163	19577617	5.0-9.0
+oxidation reaction, increasing activity from pH 6.0 to 11.0	1163	11742541	6.0-11.0
+	1164	19577617	5.0-9.0
+oxidation reaction, increasing activity from pH 6.0 to 11.0	1164	11742541	6.0-11.0
+	1165	19577617	5.0-9.0
+oxidation reaction, increasing activity from pH 6.0 to 11.0	1165	11742541	6.0-11.0
+	1166	19577617	5.0-9.0
+oxidation reaction, increasing activity from pH 6.0 to 11.0	1166	11742541	6.0-11.0
+	1167	19577617	5.0-9.0
+oxidation reaction, increasing activity from pH 6.0 to 11.0	1167	11742541	6.0-11.0
+	1168	19577617	5.0-9.0
+oxidation reaction, increasing activity from pH 6.0 to 11.0	1168	11742541	6.0-11.0
+	1169	19577617	5.0-9.0
+oxidation reaction, increasing activity from pH 6.0 to 11.0	1169	11742541	6.0-11.0
+	1170	19577617	5.0-9.0
+oxidation reaction, increasing activity from pH 6.0 to 11.0	1170	11742541	6.0-11.0
+	1171	19577617	5.0-9.0
+oxidation reaction, increasing activity from pH 6.0 to 11.0	1171	11742541	6.0-11.0
+	1256	0	6.0-10.0
+	1257	0	6.0-10.0
+	1258	0	6.0-10.0
+	1259	0	6.0-10.0
+	1260	0	6.0-10.0
+more than 50% of maximum activity	1338	7030321	7.0-9.0
+more than 50% of maximum activity	1339	7030321	7.0-9.0
+more than 50% of maximum activity	1340	7030321	7.0-9.0
+more than 50% of maximum activity	1341	7030321	7.0-9.0
+more than 50% of maximum activity	1342	7030321	7.0-9.0
+more than 50% of maximum activity	1343	7030321	7.0-9.0
+	1435	9952458	6.2-7.5
+	1436	9952458	6.2-7.5
+pH 6.7: about 80% of maximal activity, pH 9.0: about 80% of maximal activity	1492	11358525	6.7-9.0
+	1493	6798966	5.8-8.0
+	1497	7669785	5.5-10.0
+more than 50% of maximum activity	1498	7030321	7.0-9.0
+	1502	6798966	5.8-8.0
+assay pH	1510	15769935	7.0

@@ -1,0 +1,177 @@
+synonyms	ec_number	recommended_name
+rubredoxin reductase	1.18.1.1	rubredoxin-NAD+ reductase
+reductase, rubredoxin-nicotinamide adenine dinucleotide	1.18.1.1	rubredoxin-NAD+ reductase
+dihydronicotinamide adenine dinucleotide-rubredoxin reductase	1.18.1.1	rubredoxin-NAD+ reductase
+reduced nicotinamide adenine dinucleotide-rubredoxin reductase	1.18.1.1	rubredoxin-NAD+ reductase
+NADH-rubredoxin reductase	1.18.1.1	rubredoxin-NAD+ reductase
+rubredoxin-NAD reductase	1.18.1.1	rubredoxin-NAD+ reductase
+NADH: rubredoxin oxidoreductase	1.18.1.1	rubredoxin-NAD+ reductase
+DPNH-rubredoxin reductase	1.18.1.1	rubredoxin-NAD+ reductase
+NADH-rubredoxin oxidoreductase	1.18.1.1	rubredoxin-NAD+ reductase
+NOR	1.18.1.1	rubredoxin-NAD+ reductase
+FIRd-reductase	1.18.1.1	rubredoxin-NAD+ reductase
+EC 1.6.7.2	1.18.1.1	rubredoxin-NAD+ reductase
+NAD	1.18.1.1	rubredoxin-NAD+ reductase
+RdxR	1.18.1.1	rubredoxin-NAD+ reductase
+NROR	1.18.1.1	rubredoxin-NAD+ reductase
+NADH:rubredoxin oxidoreductase	1.18.1.1	rubredoxin-NAD+ reductase
+rubB	1.18.1.1	rubredoxin-NAD+ reductase
+ABO_0162	1.18.1.1	rubredoxin-NAD+ reductase
+reductase, ferredoxin-nicotinamide adenine dinucleotide phosphate	1.18.1.2	ferredoxin-NADP+ reductase
+TPNH-ferredoxin reductase	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NADP oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+NADP:ferredoxin oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-TPN reductase	1.18.1.2	ferredoxin-NADP+ reductase
+reduced nicotinamide adenine dinucleotide phosphate-adrenodoxin	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NADP-oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+NADPH:ferredoxin oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-nicotinamide-adenine dinucleotide phosphate	1.18.1.2	ferredoxin-NADP+ reductase
+EC 1.6.7.1	1.18.1.2	ferredoxin-NADP+ reductase
+EC 1.6.99.4	1.18.1.2	ferredoxin-NADP+ reductase
+DA1	1.18.1.2	ferredoxin-NADP+ reductase
+Flavodoxin reductase	1.18.1.2	ferredoxin-NADP+ reductase
+FLDR	1.18.1.2	ferredoxin-NADP+ reductase
+FLXR	1.18.1.2	ferredoxin-NADP+ reductase
+NFR	1.18.1.2	ferredoxin-NADP+ reductase
+cytochrome b6f -associated ferredoxin:NADP+ oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin: NADP	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NADP	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin:NADP	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin:NADPH oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-nicotinamide adenine dinucleotide phosphate	1.18.1.2	ferredoxin-NADP+ reductase
+Fd-NADP+ reductase	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin NADP+ reductase	1.18.1.2	ferredoxin-NADP+ reductase
+NADPH-dependent ferredoxin reductase	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin NADP reductase	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin nicotinamide adenine dinucleotide phosphate reductase	1.18.1.2	ferredoxin-NADP+ reductase
+FPR	1.18.1.2	ferredoxin-NADP+ reductase
+FprB	1.18.1.2	ferredoxin-NADP+ reductase
+Fprs	1.18.1.2	ferredoxin-NADP+ reductase
+FprA	1.18.1.2	ferredoxin-NADP+ reductase
+NADPH ferredoxin reductase	1.18.1.2	ferredoxin-NADP+ reductase
+PfFNR	1.18.1.2	ferredoxin-NADP+ reductase
+Ferredoxin-NADP	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NADP reductase	1.18.1.2	ferredoxin-NADP+ reductase
+3,4,5,6,9,12,13,14,15,16,17,19,21,23,25,26,27,28,29,30,31,32,40,41,42	1.18.1.2	ferredoxin-NADP+ reductase
+More	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NADP	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin	1.18.1.2	ferredoxin-NADP+ reductase
+adrenodoxin reductase	1.18.1.2	ferredoxin-NADP+ reductase
+AnFNR	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NADP+-reductase	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NADP-reductase	1.18.1.2	ferredoxin-NADP+ reductase
+TgFNR	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin	1.18.1.2	ferredoxin-NADP+ reductase
+FNRS	1.18.1.2	ferredoxin-NADP+ reductase
+PETH	1.18.1.2	ferredoxin-NADP+ reductase
+FNR-B	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin NADP+ oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+photosynthetic ferredoxin NADP+ oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+photosynthetic FNR	1.18.1.2	ferredoxin-NADP+ reductase
+pFNR	1.18.1.2	ferredoxin-NADP+ reductase
+FNR-A	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NADP+ oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+YumC	1.18.1.2	ferredoxin-NADP+ reductase
+LFNR2	1.18.1.2	ferredoxin-NADP+ reductase
+FNR2	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NADP+-oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+LFNR1	1.18.1.2	ferredoxin-NADP+ reductase
+FNR1	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin:NADP+ reductase	1.18.1.2	ferredoxin-NADP+ reductase
+mitochondrial-type ferredoxin:NADP+ reductase	1.18.1.2	ferredoxin-NADP+ reductase
+mtFNR	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NADP+	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin-NAD	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin	1.18.1.2	ferredoxin-NADP+ reductase
+ferric reductase	1.18.1.2	ferredoxin-NADP+ reductase
+ST2133	1.18.1.2	ferredoxin-NADP+ reductase
+ABO_0145	1.18.1.2	ferredoxin-NADP+ reductase
+PP4_41290	1.18.1.2	ferredoxin-NADP+ reductase
+FNRII	1.18.1.2	ferredoxin-NADP+ reductase
+ferredoxin:NADP+ oxidoreductase	1.18.1.2	ferredoxin-NADP+ reductase
+reductase, ferredoxin-nicotinamide adenine dinucleotide	1.18.1.3	ferredoxin-NAD+ reductase
+reductase, ferredoxin	1.18.1.3	ferredoxin-NAD+ reductase
+NAD-ferredoxin reductase	1.18.1.3	ferredoxin-NAD+ reductase
+NADH-ferredoxin oxidoreductase	1.18.1.3	ferredoxin-NAD+ reductase
+reductase, reduced nicotinamide adenine dinucleotide-ferredoxin	1.18.1.3	ferredoxin-NAD+ reductase
+ferredoxin-NAD reductase	1.18.1.3	ferredoxin-NAD+ reductase
+NADH-ferredoxin reductase	1.18.1.3	ferredoxin-NAD+ reductase
+NADH2-ferredoxin oxidoreductase	1.18.1.3	ferredoxin-NAD+ reductase
+NADH flavodoxin oxidoreductase	1.18.1.3	ferredoxin-NAD+ reductase
+ferredoxin-linked NAD reductase	1.18.1.3	ferredoxin-NAD+ reductase
+More	1.18.1.3	ferredoxin-NAD+ reductase
+ferredoxin-NAD	1.18.1.3	ferredoxin-NAD+ reductase
+palustrisredoxin reductase	1.18.1.3	ferredoxin-NAD+ reductase
+PuR	1.18.1.3	ferredoxin-NAD+ reductase
+ferredoxin-reductase	1.18.1.3	ferredoxin-NAD+ reductase
+BphA4	1.18.1.3	ferredoxin-NAD+ reductase
+NADH-dependent ferredoxin reductase	1.18.1.3	ferredoxin-NAD+ reductase
+RedIIA	1.18.1.3	ferredoxin-NAD+ reductase
+Red	1.18.1.3	ferredoxin-NAD+ reductase
+ferredoxin-NADH oxidoreductase	1.18.1.3	ferredoxin-NAD+ reductase
+NADH-ferredoxinNAP reductase	1.18.1.3	ferredoxin-NAD+ reductase
+Rnf	1.18.1.3	ferredoxin-NAD+ reductase
+NAD-ferredocinTOL reductase	1.18.1.3	ferredoxin-NAD+ reductase
+FdR	1.18.1.3	ferredoxin-NAD+ reductase
+ferredoxin NADPH reductase	1.18.1.3	ferredoxin-NAD+ reductase
+rubredoxin-nicotinamide adenine dinucleotide	1.18.1.4	rubredoxin-NAD(P)+ reductase
+rubredoxin-nicotinamide adenine dinucleotide phosphate reductase	1.18.1.4	rubredoxin-NAD(P)+ reductase
+NAD	1.18.1.4	rubredoxin-NAD(P)+ reductase
+NAD	1.18.1.4	rubredoxin-NAD(P)+ reductase
+reductase, rubredoxin-nicotinamide adenine dinucleotide	1.18.1.4	rubredoxin-NAD(P)+ reductase
+NROR	1.18.1.4	rubredoxin-NAD(P)+ reductase
+PF1197	1.18.1.4	rubredoxin-NAD(P)+ reductase
+camA	1.18.1.5	putidaredoxin-NAD+ reductase
+putidaredoxin reductase	1.18.1.5	putidaredoxin-NAD+ reductase
+Pdr	1.18.1.5	putidaredoxin-NAD+ reductase
+FprA	1.18.1.6	adrenodoxin-NADP+ reductase
+ferredoxin reductase	1.18.1.6	adrenodoxin-NADP+ reductase
+nicotinamide adenine dinucleotide phosphate-adrenodoxin reductase	1.18.1.6	adrenodoxin-NADP+ reductase
+FDXR	1.18.1.6	adrenodoxin-NADP+ reductase
+NADPH-adrenodoxin reductase	1.18.1.6	adrenodoxin-NADP+ reductase
+adrenodoxin reductase	1.18.1.6	adrenodoxin-NADP+ reductase
+AdR	1.18.1.6	adrenodoxin-NADP+ reductase
+TPNH-cytochrome P-450 reductase	1.18.1.6	adrenodoxin-NADP+ reductase
+NADPH adrenodoxin reductase	1.18.1.6	adrenodoxin-NADP+ reductase
+FLP	1.18.1.6	adrenodoxin-NADP+ reductase
+adrenodoxin oxidoreductase	1.18.1.6	adrenodoxin-NADP+ reductase
+NADPH:adrenal ferredoxin adrenodoxin reductase	1.18.1.6	adrenodoxin-NADP+ reductase
+NADPH:adrenodoxin oxidoreductase	1.18.1.6	adrenodoxin-NADP+ reductase
+NADPH:adrenodoxin reductase	1.18.1.6	adrenodoxin-NADP+ reductase
+NADPH:adrenal ferredoxin oxidoreductase	1.18.1.6	adrenodoxin-NADP+ reductase
+NADH-ferredoxin	1.18.1.7	ferredoxin-NAD(P)+ reductase (naphthalene dioxygenase
+NADH-ferredoxinNAP reductase	1.18.1.7	ferredoxin-NAD(P)+ reductase (naphthalene dioxygenase
+ferredoxin reductase	1.18.1.7	ferredoxin-NAD(P)+ reductase (naphthalene dioxygenase
+NagAa	1.18.1.7	ferredoxin-NAD(P)+ reductase (naphthalene dioxygenase
+Na+-translocating ferredoxin:NAD+-oxidoreductase	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+Rnf complex	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+Rnf1 complex	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+Rnf2 complex	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+Nfo	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+NADH:ferredoxin-oxidoreductase	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+reduced ferredoxin:NAD+ oxidoreductase	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+Na+-translocating ferredoxin:NAD+ oxidoreductase	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+Rnf	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+Fno	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+ferredoxin:heterodisulfide oxidoreductase	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+sodium motive ferredoxin:NAD+ oxidoreductase	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+ferredoxin:NAD+-oxidoreductase complex	1.18.1.8	ferredoxin-NAD+ oxidoreductase (Na+-transporting)
+EC 1.18.2.1	1.18.6.1	nitrogenase
+ARA	1.18.6.1	nitrogenase
+NifH2	1.18.6.1	nitrogenase
+molybdenum-containing nitrogenase	1.18.6.1	nitrogenase
+nitrogenase FeVco	1.18.6.1	nitrogenase
+Mo-nitrogenase	1.18.6.1	nitrogenase
+V-nitrogenase	1.18.6.1	nitrogenase
+molybdenum-nitrogenase	1.18.6.1	nitrogenase
+vanadium-nitrogenase	1.18.6.1	nitrogenase
+dinitrogenase	1.18.6.1	nitrogenase
+nitrogenase Fe-protein	1.18.6.1	nitrogenase
+Kp2	1.18.6.1	nitrogenase
+nitrogenase iron-protein	1.18.6.1	nitrogenase
+nitrogenase Fe protein	1.18.6.1	nitrogenase
+molybdenum nitrogenase	1.18.6.1	nitrogenase
+NifDK	1.18.6.1	nitrogenase
+More	1.18.6.1	nitrogenase
+vanadium nitrogenase	1.18.6.1	nitrogenase

@@ -1,0 +1,1515 @@
+EC_Number	Systematic_name	Recommended_name	UniProt	Organism	Commentary	Ref
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Abeliophyllum distichum	AMENDA reliability +	0
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Abies	AMENDA reliability +	1
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acaena montana	FRENDA	2
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acanthospermum	AMENDA reliability +	3
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acanthospermum australe	AMENDA reliability +	4
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acer pictum subsp. okamotoanum	FRENDA	5
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acer tataricum subsp. ginnala	AMENDA reliability +	6
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acetobacter aceti		7
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acinetobacter calcoaceticus		8
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acinetobacter calcoaceticus	AMENDA reliability +	9
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acinetobacter calcoaceticus	strainNCIB8250, strain HO1-N	10
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acinetobacter sp.		11
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acinetobacter sp. M-1		12
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acinetobacter sp. M-1		13
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acipenser sturio	AMENDA reliability +	14
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acipenser sturio	FRENDA	15
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Acremonium	FRENDA	16
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Actinopterygii	FRENDA	17
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Actinosynnema	AMENDA reliability +	18
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Adansonia digitata	AMENDA reliability +	19
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aegilops	FRENDA	20
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aegilops speltoides	FRENDA	21
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aegle marmelos	AMENDA reliability +	22
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aequorea	AMENDA reliability +	23
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Agrimonia pilosa	AMENDA reliability +++	24
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Agrobacterium	FRENDA	25
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Agrobacterium tumefaciens	AMENDA reliability +	26
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Agrostis capillaris	AMENDA reliability +	27
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Alangium	AMENDA reliability +	28
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Alcaligenes	AMENDA reliability +	29
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aleutian mink disease parvovirus (STRAIN G)	FRENDA	30
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Alexa	FRENDA	31
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Allata	FRENDA	32
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Alligator	AMENDA reliability +	33
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Allium	FRENDA	34
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Allium cepa	AMENDA reliability +	35
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Allium cepa	FRENDA	36
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Allium fistulosum	AMENDA reliability +	37
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Allium sativum	AMENDA reliability +	38
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Allium sativum	FRENDA	39
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Allium victorialis	AMENDA reliability +	40
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aloe arborescens	AMENDA reliability +++	41
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Amaranthus caudatus	FRENDA	42
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Amelanchier alnifolia	FRENDA	43
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Amoeba	AMENDA reliability ++	44
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		amphibia	FRENDA	45
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Amycolatopsis methanolica	AMENDA reliability +	46
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Amycolatopsis orientalis	FRENDA	47
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anabaena	AMENDA reliability +	48
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anabaena	FRENDA	49
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anabaena sp.	AMENDA reliability +	50
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Andrographis paniculata	AMENDA reliability +++	51
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Andrographis paniculata	FRENDA	52
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anemarrhena	FRENDA	53
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anemarrhena asphodeloides	FRENDA	54
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Angelica	FRENDA	55
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Angelica dahurica	AMENDA reliability +	56
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Angelica decursiva	AMENDA reliability +++	57
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Angelica decursiva	FRENDA	58
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Angelica sinensis	FRENDA	59
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anguilla	FRENDA	60
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anguilla anguilla	FRENDA	61
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anguilliformes	FRENDA	62
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		animal	AMENDA reliability +	63
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		animal	AMENDA reliability ++	64
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		animal	AMENDA reliability ++	65
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		animal	FRENDA	66
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anoxia	AMENDA reliability +	67
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anoxia	FRENDA	68
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anser	FRENDA	69
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Anura	FRENDA	70
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Apis mellifera	AMENDA reliability +	71
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Apis mellifera	FRENDA	72
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Apis mellifera adansonii	AMENDA reliability +	73
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Apis mellifera ligustica	AMENDA reliability +	74
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Apium graveolens Dulce Group	FRENDA	75
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aplysia sp.	AMENDA reliability +	76
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Apoidea	FRENDA	77
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Apus apus	AMENDA reliability +	78
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aquifex aeolicus		79
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Arabidopsis	AMENDA reliability +	80
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Arabidopsis	FRENDA	81
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Arabidopsis thaliana	AMENDA reliability +	82
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Arabidopsis thaliana	FRENDA	83
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Arachis hypogaea	FRENDA	84
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aralia	AMENDA reliability +	85
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aralia	FRENDA	86
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aralia continentalis	AMENDA reliability +++	87
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aralia elata	FRENDA	88
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Archaea	FRENDA	89
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Archaeoglobus fulgidus		90
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		archaeon	AMENDA reliability +	91
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		archaeon	AMENDA reliability ++	92
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		archaeon	AMENDA reliability +++	93
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		archaeon	FRENDA	94
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Arctium lappa	AMENDA reliability +	95
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ardis	FRENDA	96
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Areas	AMENDA reliability +	97
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Areas	FRENDA	98
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Areca	FRENDA	99
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Arecaceae	FRENDA	100
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Arene	FRENDA	101
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Argemone mexicana	AMENDA reliability +++	102
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Argynnis pandora	FRENDA	103
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Armoracia rusticana	AMENDA reliability +	104
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Armoracia rusticana	FRENDA	105
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aroma	FRENDA	106
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aromatoleum aromaticum	FRENDA	107
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Artemisia	FRENDA	108
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Artemisia capillaris	FRENDA	109
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Artemisia dracunculus	AMENDA reliability +++	110
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Artemisia iwayomogi	FRENDA	111
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Artemisia montana	AMENDA reliability +	112
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Arxula	FRENDA	113
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ascaris	FRENDA	114
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ascaris suum	AMENDA reliability +	115
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aspergillus	AMENDA reliability +++	116
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aspergillus flavus	FRENDA	117
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aspergillus fumigatus	AMENDA reliability +	118
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aspergillus nidulans	FRENDA	119
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aspergillus niger	AMENDA reliability +++	120
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aspergillus ochraceus TS	FRENDA	121
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aspergillus parasiticus	FRENDA	122
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Asplenium ruprechtii	AMENDA reliability +	123
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Aster koraiensis	AMENDA reliability +	124
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Astragalus	AMENDA reliability +++	125
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Astragalus	FRENDA	126
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Astragalus membranaceus	FRENDA	127
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Atractylodes macrocephala	FRENDA	128
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Avena fatua	AMENDA reliability +	129
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Avena fatua	FRENDA	130
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Avena sp.	FRENDA	131
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Azadirachta indica	AMENDA reliability +	132
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Azadirachta indica	FRENDA	133
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Babesia bovis	FRENDA	134
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacillus	FRENDA	135
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacillus halodurans	AMENDA reliability +	136
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacillus megaterium	FRENDA	137
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacillus methanolicus		138
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacillus pumilus	FRENDA	139
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacillus sp. (in: Bacteria)	AMENDA reliability +	140
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacillus subtilis		141
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacillus subtilis	AMENDA reliability +	142
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacillus subtilis	FRENDA	143
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacteria	AMENDA reliability +	144
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacteria	AMENDA reliability ++	145
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacteria	FRENDA	146
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bacteroides fragilis	FRENDA	147
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bactrocera oleae	AMENDA reliability +	148
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bactrocera oleae	FRENDA	149
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Balanites	AMENDA reliability +	150
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Balanites aegyptiacus	AMENDA reliability +++	151
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Balanites aegyptiacus	FRENDA	152
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Beauveria bassiana	AMENDA reliability +++	153
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Beijerinckia derxii subsp. venezuelae	AMENDA reliability +	154
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Biophytum sensitivum	AMENDA reliability +	155
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bixa orellana	AMENDA reliability +++	156
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Blastobotrys adeninivorans	FRENDA	157
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Blumeria graminis	AMENDA reliability +	158
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Blumeria graminis	FRENDA	159
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bombyx mori	AMENDA reliability +++	160
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bombyx mori	FRENDA	161
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bos taurus		162
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bos taurus	AMENDA reliability +	163
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bos taurus	AMENDA reliability ++	164
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bos taurus	AMENDA reliability ++	165
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bos taurus	AMENDA reliability +++	166
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bos taurus	bovine	167
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bos taurus	FRENDA	168
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bos taurus	ox	169
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Boswellia serrata	FRENDA	170
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Branchiostoma lanceolatum	AMENDA reliability +	171
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brandisia hancei	AMENDA reliability +	172
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brassica	FRENDA	173
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brassica napus	FRENDA	174
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brassica oleracea var. capitata	FRENDA	175
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brassica oleracea var. gongylodes	FRENDA	176
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brassica rapa	FRENDA	177
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brettanomyces anomalus	FRENDA	178
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brevibacillus brevis	ATCC 8185	179
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brickellia arguta	FRENDA	180
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bromus inermis	AMENDA reliability +	181
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brucella	AMENDA reliability +	182
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Brucella abortus	AMENDA reliability +	183
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Buddleja	FRENDA	184
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Bungarus fasciatus	FRENDA	185
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Caecum	FRENDA	186
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Caenorhabditis elegans	FRENDA	187
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Caesalpinia pulcherrima	AMENDA reliability +++	188
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Calendula officinalis	AMENDA reliability +	189
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Callistephus chinensis	FRENDA	190
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Calloplesiops altivelis	FRENDA	191
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Callyspongia rosa	FRENDA	192
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Calopteron reticulatum	FRENDA	193
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Calycidium cuneatum	FRENDA	194
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Camellia	AMENDA reliability +	195
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Camellia japonica	AMENDA reliability +	196
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Camellia oleifera	FRENDA	197
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Camellia sinensis	AMENDA reliability +	198
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Camellia sinensis	AMENDA reliability +++	199
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Camellia sinensis	FRENDA	200
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Camelus bactrianus	AMENDA reliability +	201
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Camelus bactrianus	FRENDA	202
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Camelus dromedarius	AMENDA reliability +	203
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Campanula pinnatifida	AMENDA reliability +	204
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Campanula tubulosa	AMENDA reliability +	205
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Campylobacter jejuni	FRENDA	206
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cananga odorata	AMENDA reliability +	207
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida albicans	AMENDA reliability ++	208
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida albicans	FRENDA	209
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida boidinii	AMENDA reliability +	210
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida boidinii	FRENDA	211
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida dubliniensis	FRENDA	212
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida glabrata	AMENDA reliability +	213
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida glabrata	FRENDA	214
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida glabrata CBS 138	AMENDA reliability +	215
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida intermedia	AMENDA reliability +	216
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida intermedia	FRENDA	217
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida magnoliae	AMENDA reliability +	218
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida magnoliae	FRENDA	219
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida maltosa	FRENDA	220
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida maris	FRENDA	221
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida parapsilosis	AMENDA reliability +	222
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida parapsilosis	FRENDA	223
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida parapsilosis IFO 0708	AMENDA reliability +	224
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida parapsilosis IFO 0708	FRENDA	225
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida tenuis	AMENDA reliability +	226
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida tenuis	AMENDA reliability +++	227
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida tenuis	FRENDA	228
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida tenuis CBS 4435	AMENDA reliability +	229
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida tropicalis		230
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida tropicalis	AMENDA reliability +	231
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida tropicalis	FRENDA	232
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Candida tropicalis pK 233	FRENDA	233
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Canis lupus familiaris		234
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Canis lupus familiaris	AMENDA reliability +	235
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Canis lupus familiaris	AMENDA reliability ++	236
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Canis lupus familiaris	AMENDA reliability +++	237
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Canis lupus familiaris	dog, beagle, mixed breed	238
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Canis lupus familiaris	FRENDA	239
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cannabis	AMENDA reliability +	240
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cannabis sativa	AMENDA reliability +	241
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cannabis sativa	AMENDA reliability +++	242
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Capparis decidua	FRENDA	243
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Capra hircus	AMENDA reliability +	244
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Capra hircus	FRENDA	245
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Capsicum	FRENDA	246
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Capsosiphon fulvescens	AMENDA reliability +	247
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Caralluma	FRENDA	248
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Carassius auratus	FRENDA	249
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Carboxydothermus hydrogenoformans	AMENDA reliability +++	250
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cardium	FRENDA	251
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Carex maackii	FRENDA	252
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cassia	AMENDA reliability +	253
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cassia fistula	AMENDA reliability +	254
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Catharanthus roseus	AMENDA reliability +	255
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Catharanthus roseus	FRENDA	256
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Caudata	FRENDA	257
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cauliflower mosaic virus	FRENDA	258
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Caulobacter vibrioides	FRENDA	259
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Caulobacter vibrioides CB15	FRENDA	260
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia	AMENDA reliability +	261
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia	FRENDA	262
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus	AMENDA reliability +	263
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus	AMENDA reliability ++	264
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus	AMENDA reliability ++	265
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus	AMENDA reliability +++	266
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus	FRENDA	267
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus	guinea pig	268
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus	guinea pig; Hartley outbred.	269
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus Hartley	Hartley outbred.	270
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus Hartley	Hartley outbred.	271
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus Hartley	Hartley outbred.	272
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus Hartley	Hartley outbred.	273
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus Hartley	Hartley outbred.	274
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus Hartley	Hartley outbred.	275
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus Hartley	Hartley outbred.	276
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus Hartley	Hartley outbred.	277
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus Hartley	Hartley outbred.	278
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cavia porcellus Hartley	Hartley outbred.	279
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cebus	AMENDA reliability +	280
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cecropia	FRENDA	281
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cenchrus americanus	FRENDA	282
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Centropogon peruvianus	AMENDA reliability +	283
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ceratitis capitata	AMENDA reliability +	284
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ceratitis capitata	FRENDA	285
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ceratitis rosa	AMENDA reliability +	286
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cervidae	AMENDA reliability +	287
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cetacea	FRENDA	288
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chaetomella raphigera	AMENDA reliability +	289
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chelon tricuspidens	AMENDA reliability +	290
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chiroptera	FRENDA	291
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chitinophaga caeni	FRENDA	292
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chlorella	FRENDA	293
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chlorella vulgaris	FRENDA	294
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chlorocebus aethiops	FRENDA	295
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chloroflexus aurantiacus	FRENDA	296
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chondrichthyes	AMENDA reliability +	297
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chondrichthyes	AMENDA reliability ++	298
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chondrichthyes	FRENDA	299
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chromohalobacter salexigens	FRENDA	300
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chromohalobacter salexigens DSM 3043	FRENDA	301
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chrysanthemum	AMENDA reliability +	302
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chrysanthemum indicum	AMENDA reliability +	303
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chrysanthemum indicum	AMENDA reliability +++	304
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chrysanthemum x morifolium	AMENDA reliability +++	305
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chrysemys picta	FRENDA	306
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chrysemys picta marginata	FRENDA	307
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chrysolepis	AMENDA reliability +++	308
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Chrysotoxum	FRENDA	309
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cicer	FRENDA	310
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cicer arietinum	FRENDA	311
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cicer bijugum	FRENDA	312
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cicer chorassanicum	FRENDA	313
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cicer echinospermum	FRENDA	314
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cicer judaicum	FRENDA	315
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cicer reticulatum	AMENDA reliability +	316
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cicer yamashitae	FRENDA	317
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cinnamomum aromaticum	AMENDA reliability +++	318
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cinnamomum aromaticum	FRENDA	319
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cinnamomum verum	AMENDA reliability +	320
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cinnamomum verum	FRENDA	321
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cistanche tubulosa	FRENDA	322
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cistus	FRENDA	323
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cistus laurifolius	AMENDA reliability +	324
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Citrullus lanatus subsp. vulgaris	AMENDA reliability +	325
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Citrus	FRENDA	326
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Citrus limon	AMENDA reliability +	327
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Citrus trifoliata	FRENDA	328
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		clinical samples	FRENDA	329
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridia	AMENDA reliability ++	330
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridia	FRENDA	331
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium	AMENDA reliability +	332
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium acetobutylicum		333
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium acetobutylicum	FRENDA	334
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium acetobutylicum	NRRL B643	335
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium acetobutylicum NRRL B643	NRRL B643	336
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium beijerinckii		337
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium beijerinckii	AMENDA reliability +	338
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium beijerinckii	FRENDA	339
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium beijerinckii	NRRL B592	340
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium beijerinckii NRRL B592	NRRL B592	341
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium beijerinckii NRRL B592	NRRL B592	342
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Clostridium kluyveri		343
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Codonopsis pilosula	FRENDA	344
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coffea	AMENDA reliability +	345
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coffea	FRENDA	346
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coleus	FRENDA	347
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Colocasia esculenta	AMENDA reliability +	348
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Columbidae	FRENDA	349
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Comamonas testosteroni	AMENDA reliability +	350
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Comamonas testosteroni	FRENDA	351
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coniferophyta	FRENDA	352
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Copaifera paupera	FRENDA	353
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coptis chinensis	AMENDA reliability +	354
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coptis chinensis	FRENDA	355
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coptis deltoidea	FRENDA	356
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coptis japonica	AMENDA reliability +++	357
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coptis teeta	FRENDA	358
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Corbicula fluminea	FRENDA	359
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coriandrum sativum	AMENDA reliability +	360
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cornus macrophylla	AMENDA reliability +	361
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cornus officinalis	AMENDA reliability +	362
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Corona	FRENDA	363
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Corydalis	AMENDA reliability +	364
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Corynebacteriales	FRENDA	365
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Corynebacterium	AMENDA reliability +	366
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Corynebacterium	AMENDA reliability ++	367
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Corynebacterium	AMENDA reliability +++	368
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Corynebacterium	FRENDA	369
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Corynebacterium glutamicum	FRENDA	370
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coturnix	AMENDA reliability +	371
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coturnix	FRENDA	372
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Coturnix japonica	FRENDA	373
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cotyledon	FRENDA	374
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cotylelobium	FRENDA	375
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Crassostrea gigas	FRENDA	376
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Crataegus pinnatifida	FRENDA	377
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Crenarchaeota	FRENDA	378
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		cress	FRENDA	379
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cricetinae		380
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cricetinae	AMENDA reliability +	381
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cricetinae	FRENDA	382
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cricetulus griseus	AMENDA reliability +	383
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cricetulus griseus	AMENDA reliability +++	384
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cricetulus griseus	AMENDA reliability ++++	385
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cricetulus griseus	FRENDA	386
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Crithidia fasciculata		387
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Crucibulum	AMENDA reliability +++	388
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ctenopharyngodon idella	AMENDA reliability +	389
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ctenopharyngodon idella	FRENDA	390
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cucumber necrosis virus	AMENDA reliability +	391
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cucumis anguria	FRENDA	392
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cucumis melo		393
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cucumis sativus	AMENDA reliability +	394
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cucumis sativus	FRENDA	395
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cucurbita	AMENDA reliability +	396
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cucurbita	FRENDA	397
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cucurbita pepo	FRENDA	398
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cucurbita pepo var. melopepo	FRENDA	399
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cuminum cyminum	AMENDA reliability +	400
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cuminum cyminum	AMENDA reliability +++	401
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cuminum cyminum	FRENDA	402
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cuniculus	AMENDA reliability +	403
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cupriavidus necator	AMENDA reliability ++	404
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cupriavidus necator	FRENDA	405
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cupriavidus necator NBRC 102504	FRENDA	406
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Curcuma longa	AMENDA reliability +	407
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Curcuma longa	FRENDA	408
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Curcuma zedoaria	AMENDA reliability +	409
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Curvularia lunata	FRENDA	410
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cyanobacteria	AMENDA reliability +	411
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cyanobacteria	FRENDA	412
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		cyanobacterium	AMENDA reliability +	413
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		cyanobacterium	FRENDA	414
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cyberlindnera jadinii	AMENDA reliability +	415
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cyclocarya paliurus	AMENDA reliability +++	416
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cyclocarya paliurus	FRENDA	417
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cymbopogon	FRENDA	418
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cynara cardunculus var. scolymus	AMENDA reliability +	419
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cynara cardunculus var. scolymus	FRENDA	420
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cypridina	FRENDA	421
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Cytomegalovirus	AMENDA reliability +	422
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dacus	AMENDA reliability +	423
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Daihinibaenetes arizonensis	AMENDA reliability +	424
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Danaea polymorpha	FRENDA	425
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Danio rerio	AMENDA reliability +	426
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dasiphora fruticosa	AMENDA reliability +	427
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dasypyrum villosum	AMENDA reliability +	428
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Delphinapterus leucas	FRENDA	429
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dendrobium	FRENDA	430
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dendrobium aurantiacum	FRENDA	431
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dendrobium chrysotoxum	AMENDA reliability +++	432
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dendrobium denneanum	FRENDA	433
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		denitrifying bacterium	FRENDA	434
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Devosia	FRENDA	435
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Devriesea agamarum	AMENDA reliability +	436
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dichomitus squalens	FRENDA	437
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dictyostelium	FRENDA	438
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dictyostelium discoideum	FRENDA	439
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Digitalis	AMENDA reliability +	440
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Digitalis	AMENDA reliability +++	441
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Digitalis	FRENDA	442
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Digitalis lanata	AMENDA reliability +	443
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Digitalis purpurea	FRENDA	444
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dioscorea	FRENDA	445
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Diptera	AMENDA reliability +	446
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Diptera	FRENDA	447
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		dogfish	FRENDA	448
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dreissena polymorpha	FRENDA	449
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila	AMENDA reliability +	450
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila	FRENDA	451
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila arizonae	AMENDA reliability +	452
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila arizonae	FRENDA	453
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila buzzatii	AMENDA reliability +	454
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila buzzatii	FRENDA	455
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila hydei	AMENDA reliability +	456
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila melanogaster		457
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila melanogaster	AMENDA reliability +	458
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila melanogaster	FRENDA	459
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila melanogaster	fruit fly	460
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila mettleri	FRENDA	461
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila mojavensis	AMENDA reliability +	462
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila mojavensis	AMENDA reliability +++	463
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila mojavensis	FRENDA	464
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila mulleri	AMENDA reliability +	465
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila mulleri	AMENDA reliability +++	466
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila mulleri	FRENDA	467
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophila navojoa	AMENDA reliability +	468
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophilidae	AMENDA reliability +	469
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Drosophilidae	FRENDA	470
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Dunaliella salina	FRENDA	471
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Echinococcus granulosus	FRENDA	472
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ecklonia stolonifera	AMENDA reliability +	473
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ecklonia stolonifera	FRENDA	474
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eclipta alba	AMENDA reliability +	475
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eggerthella	FRENDA	476
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eisenia	FRENDA	477
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eisenia bicyclis	FRENDA	478
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eleusine coracana	AMENDA reliability +	479
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eleusine coracana	FRENDA	480
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Embryophyta	AMENDA reliability +	481
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Embryophyta	AMENDA reliability +++	482
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Embryophyta	FRENDA	483
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Enchytraeus crypticus	FRENDA	484
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Engelhardia	AMENDA reliability +++	485
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Entamoeba histolytica		486
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Entamoeba histolytica	AMENDA reliability +	487
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Entamoeba histolytica	AMENDA reliability ++	488
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Entamoeba histolytica	FRENDA	489
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Enterobacter cloacae	FRENDA	490
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Enterobacteria phage T7	FRENDA	491
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Enterobacteriaceae	FRENDA	492
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Equus caballus	AMENDA reliability +	493
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Equus caballus	AMENDA reliability ++	494
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Equus caballus	AMENDA reliability +++	495
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Equus caballus	FRENDA	496
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Equus sp.		497
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Equus sp.	horse	498
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eremophila maculata	FRENDA	499
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eremothecium gossypii	FRENDA	500
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Erigeron annuus	AMENDA reliability +	501
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Erwinia	AMENDA reliability +	502
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Erythroxylaceae	FRENDA	503
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Erythroxylum coca	AMENDA reliability +	504
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli		505
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli	AMENDA reliability +	506
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli	AMENDA reliability ++	507
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli	AMENDA reliability ++	508
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli	AMENDA reliability +++	509
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli	FRENDA	510
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli	gene yphD	511
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli BL21	FRENDA	512
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli BL21(DE3)	AMENDA reliability +	513
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli BL21(DE3)	FRENDA	514
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli K-12	AMENDA reliability +	515
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia coli K-12	AMENDA reliability ++	516
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Escherichia virus Lambda	FRENDA	517
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Esox lucius	AMENDA reliability +	518
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Esox lucius	FRENDA	519
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eucalyptus	AMENDA reliability +	520
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eucalyptus gunnii	FRENDA	521
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eucommia	AMENDA reliability +	522
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eucommia ulmoides	AMENDA reliability +	523
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eucommia ulmoides	FRENDA	524
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis		525
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis	FRENDA	526
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis	growth on 1-hexanol, induction of enzyme	527
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		528
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		529
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		530
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		531
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		532
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		533
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		534
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		535
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		536
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		537
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		538
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		539
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		540
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		541
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		542
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		543
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		544
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		545
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		546
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euglena gracilis Z		547
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		eukaryota	AMENDA reliability +	548
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		eukaryota	FRENDA	549
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eunapius fragilis	FRENDA	550
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euonymus alatus	AMENDA reliability +	551
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eupatorium hyssopifolium	FRENDA	552
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Euphrasia officinalis	FRENDA	553
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eutheria	AMENDA reliability +	554
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eutypa	AMENDA reliability +	555
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eutypa	FRENDA	556
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Eutypa lata	FRENDA	557
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Exiguobacterium sibiricum	FRENDA	558
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		feline calicivirus	FRENDA	559
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Felis catus	AMENDA reliability +	560
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Felis catus	AMENDA reliability ++	561
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Felis catus	AMENDA reliability +++	562
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Felis catus	FRENDA	563
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Felis sp.	cat, mixed breed	564
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ferula assa-foetida	FRENDA	565
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ferulago	FRENDA	566
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ficus	AMENDA reliability +	567
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ficus benghalensis	FRENDA	568
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Firmicutes	FRENDA	569
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Foeniculum vulgare	AMENDA reliability +	570
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Forsythia x intermedia	AMENDA reliability +	571
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fragaria	AMENDA reliability +++	572
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fragaria chiloensis	FRENDA	573
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fragaria vesca	AMENDA reliability +	574
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fragaria virginiana	FRENDA	575
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fragaria x ananassa	FRENDA	576
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fundulus	AMENDA reliability +	577
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fundulus	FRENDA	578
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fundulus heteroclitus	FRENDA	579
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fungi	AMENDA reliability +	580
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fungi	AMENDA reliability ++	581
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fungi	FRENDA	582
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fusarium	AMENDA reliability +	583
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Fusarium verticillioides	FRENDA	584
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Galdieria sulphuraria	AMENDA reliability +	585
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gallus gallus	AMENDA reliability +	586
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gallus gallus	AMENDA reliability ++	587
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gallus gallus	AMENDA reliability +++	588
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gallus gallus	FRENDA	589
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gallus sp.	chicken	590
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		gammaproteobacteria	FRENDA	591
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ganoderma	AMENDA reliability +++	592
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ganoderma	FRENDA	593
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ganoderma applanatum	AMENDA reliability +	594
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ganoderma applanatum	AMENDA reliability +++	595
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ganoderma leucocontextum	AMENDA reliability +	596
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ganoderma lingzhi	FRENDA	597
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ganoderma lucidum	AMENDA reliability +	598
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ganoderma lucidum	AMENDA reliability +++	599
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Garcinia kola	AMENDA reliability +	600
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Garcinia mangostana	AMENDA reliability +++	601
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Garcinia mangostana	FRENDA	602
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gardenia jasminoides	AMENDA reliability +++	603
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gekko	AMENDA reliability +	604
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gekko	FRENDA	605
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gentiana	FRENDA	606
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gentiana lutea	AMENDA reliability +	607
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gentiana scabra	FRENDA	608
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Geobacillus stearothermophilus		609
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Geobacillus stearothermophilus	AMENDA reliability +	610
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Geobacillus stearothermophilus	FRENDA	611
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gerbillinae	FRENDA	612
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gerbillus gerbillus	AMENDA reliability +	613
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Giardia intestinalis	AMENDA reliability +	614
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Giardia intestinalis	FRENDA	615
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ginkgo	AMENDA reliability +	616
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ginkgo biloba	FRENDA	617
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Glires	FRENDA	618
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gluconobacter oxydans	AMENDA reliability +	619
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gluconobacter oxydans	AMENDA reliability +++	620
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Glycine max	AMENDA reliability +	621
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Glycine max	AMENDA reliability +++	622
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Glycine max	FRENDA	623
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Glycine tabacina	FRENDA	624
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Glycyrrhiza	AMENDA reliability +++	625
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Glycyrrhiza	FRENDA	626
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Glycyrrhiza uralensis	AMENDA reliability +	627
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Glycyrrhiza uralensis	AMENDA reliability +++	628
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Glycyrrhiza uralensis	FRENDA	629
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gordonia rubripertincta	FRENDA	630
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gossypium hirsutum	AMENDA reliability +	631
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gossypium hirsutum	FRENDA	632
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Grewia hirsuta	FRENDA	633
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Guilandina bonduc	AMENDA reliability +	634
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Guinea	AMENDA reliability +	635
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Guinea	FRENDA	636
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gutierrezia	FRENDA	637
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Gymnema sylvestre	FRENDA	638
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Haliotis corrugata	FRENDA	639
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Haliotis discus hannai	AMENDA reliability +	640
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Haloferax volcanii		641
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Haloferax volcanii	FRENDA	642
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		halophilic archaeon	FRENDA	643
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		halophilic bacterium	AMENDA reliability +	644
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Helianthus	FRENDA	645
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Helianthus tuberosus	AMENDA reliability +	646
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Helianthus tuberosus	FRENDA	647
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Helicobacter	AMENDA reliability +	648
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Helicobacter pylori		649
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Helicobacter pylori	FRENDA	650
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Helicoverpa	FRENDA	651
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Helicoverpa armigera	FRENDA	652
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hemidesmus indicus	FRENDA	653
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hepacivirus C	AMENDA reliability +	654
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hepacivirus C	AMENDA reliability +++	655
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hepacivirus C	FRENDA	656
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hepatitis B virus	AMENDA reliability +	657
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hepatitis B virus	FRENDA	658
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		herbal medicine	AMENDA reliability +	659
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		herbal medicine	FRENDA	660
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hexapoda	FRENDA	661
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hippocampus	AMENDA reliability +	662
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hippocampus	FRENDA	663
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hippospongia communis	FRENDA	664
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Homo sapiens	AMENDA reliability +	665
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Homo sapiens	AMENDA reliability ++	666
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Homo sapiens	AMENDA reliability ++	667
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Homo sapiens	AMENDA reliability +++	668
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Homo sapiens	AMENDA reliability ++++	669
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Homo sapiens	FRENDA	670
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Homo sapiens	human	671
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hordeum vulgare	AMENDA reliability +	672
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hordeum vulgare	AMENDA reliability +++	673
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hordeum vulgare	FRENDA	674
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Houttuynia cordata	FRENDA	675
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Human alphaherpesvirus 1	FRENDA	676
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Human immunodeficiency virus 1	AMENDA reliability +	677
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Human immunodeficiency virus 1	FRENDA	678
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Human papillomavirus	AMENDA reliability +	679
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Humicola grisea	AMENDA reliability +++	680
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hunteria umbellata	FRENDA	681
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hyalophora cecropia	FRENDA	682
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hybanthus enneaspermus	AMENDA reliability +++	683
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hybanthus enneaspermus	FRENDA	684
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hydrangea	FRENDA	685
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hydrangea macrophylla	FRENDA	686
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hypericum laricifolium	FRENDA	687
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Hypostomus punctatus	FRENDA	688
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ichnocarpus frutescens	FRENDA	689
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Illicium	AMENDA reliability +	690
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Indicator	AMENDA reliability +	691
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Indicator	FRENDA	692
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Infectious bursal disease virus	FRENDA	693
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ipomoea	AMENDA reliability +	694
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ipomoea batatas	AMENDA reliability +++	695
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Iris domestica	AMENDA reliability +++	696
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Iris domestica	FRENDA	697
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Isochrysis galbana	FRENDA	698
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Jatropha curcas	AMENDA reliability +	699
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Juglans sigillata	AMENDA reliability +	700
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Justicia adhatoda	AMENDA reliability +	701
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Klebsiella	FRENDA	702
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Klebsiella pneumoniae	FRENDA	703
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Klebsiella sp	FRENDA	704
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Klebsiella sp.	AMENDA reliability +	705
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Kluyveromyces lactis	AMENDA reliability +	706
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Kluyveromyces lactis	AMENDA reliability +++	707
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Kluyveromyces lactis	FRENDA	708
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Kluyveromyces marxianus	AMENDA reliability +	709
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Kluyveromyces marxianus	AMENDA reliability +++	710
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Knoxia	AMENDA reliability +	711
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Labichea nitida	FRENDA	712
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lactobacillus brevis		713
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lactobacillus brevis	AMENDA reliability +	714
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lactobacillus brevis	FRENDA	715
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lactobacillus delbrueckii	AMENDA reliability ++	716
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lactobacillus helveticus	FRENDA	717
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lactobacillus kefiri	AMENDA reliability +	718
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lactobacillus kefiri	FRENDA	719
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lactobacillus kefiri	recombinant enzyme expressed in Escherichia coli	720
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lactobacillus panis	AMENDA reliability +	721
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lactobacillus panis	FRENDA	722
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lagenaria siceraria	AMENDA reliability +++	723
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lagerstroemia indica	FRENDA	724
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lagerstroemia speciosa	FRENDA	725
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lamiaceae	AMENDA reliability +	726
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lamiinae	FRENDA	727
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lamina	FRENDA	728
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lantana	FRENDA	729
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Larrea	FRENDA	730
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Larrea ameghinoi	FRENDA	731
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Larrea nitida	FRENDA	732
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Leishmania	FRENDA	733
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Leishmania donovani	AMENDA reliability +++	734
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Leishmania donovani	FRENDA	735
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Leishmania major	FRENDA	736
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lentivirus	AMENDA reliability +	737
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lepidodactylus lugubris	FRENDA	738
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lepidosauria	AMENDA reliability +	739
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lethrinidae	AMENDA reliability +	740
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lethrinidae	FRENDA	741
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Leuconostoc mesenteroides		742
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Leuconostoc mesenteroides	AMENDA reliability +	743
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Leuconostoc mesenteroides	FRENDA	744
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Libidibia ferrea	AMENDA reliability +++	745
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Libidibia ferrea	FRENDA	746
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Litchi chinensis	AMENDA reliability +	747
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Litchi chinensis	AMENDA reliability +++	748
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Litchi chinensis	FRENDA	749
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Litsea japonica	AMENDA reliability +	750
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lobster	AMENDA reliability +	751
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lobster	FRENDA	752
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Locusta migratoria	FRENDA	753
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lodderomyces elongisporus NRRL YB-4239	AMENDA reliability +++	754
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lonicera fulvotomentosa	FRENDA	755
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lonicera japonica	FRENDA	756
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lupinus albus	FRENDA	757
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lycaena heteronea	AMENDA reliability +	758
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lycaena heteronea	AMENDA reliability +++	759
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lycaena heteronea	FRENDA	760
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lycium chinense	FRENDA	761
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lycopersicon	AMENDA reliability +	762
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Lysimachia clethroides	FRENDA	763
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Maackia amurensis	AMENDA reliability +++	764
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca	FRENDA	765
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca fascicularis	AMENDA reliability +	766
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca fascicularis	FRENDA	767
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca fuscata	FRENDA	768
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca mulatta	AMENDA reliability +	769
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca mulatta	AMENDA reliability +++	770
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca mulatta	FRENDA	771
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca mulatta polyomavirus 1	AMENDA reliability +	772
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca mulatta polyomavirus 1	AMENDA reliability ++	773
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca mulatta polyomavirus 1	FRENDA	774
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macaca nemestrina	AMENDA reliability +	775
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Macrocarpus	FRENDA	776
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Magnaporthe grisea	FRENDA	777
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Magnolia	AMENDA reliability +	778
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Magnolia	FRENDA	779
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Magnolia officinalis	FRENDA	780
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Magnoliophyta	AMENDA reliability ++	781
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Magnoliophyta	FRENDA	782
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mammalia	AMENDA reliability +	783
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mammalia	AMENDA reliability ++	784
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mammalia	AMENDA reliability ++	785
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mammalia	FRENDA	786
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mangifera indica	FRENDA	787
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Manihot	FRENDA	788
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Manilkara	AMENDA reliability +++	789
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Marah macrocarpa	FRENDA	790
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Marinobacter hydrocarbonoclasticus VT8		791
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Marinobacter hydrocarbonoclasticus VT8	AMENDA reliability +	792
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Marivirga tractuosa	AMENDA reliability +++	793
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Massilia lutea	FRENDA	794
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Matricaria chamomilla	FRENDA	795
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Maytenus	FRENDA	796
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Medicago sativa	AMENDA reliability +++	797
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Medicago sativa	FRENDA	798
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Meehania fargesii	FRENDA	799
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Meistera koenigii	AMENDA reliability +	800
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Melanogaster	FRENDA	801
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Melanoxylon	FRENDA	802
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Melastoma sanguineum	AMENDA reliability +	803
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Melia azedarach	FRENDA	804
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Meloidogyne incognita	FRENDA	805
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Meloidogyne javanica	FRENDA	806
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mentha spicata	AMENDA reliability +	807
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Meriones libycus	AMENDA reliability +	808
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Meriones unguiculatus	FRENDA	809
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mesocricetus auratus	AMENDA reliability +	810
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mesocricetus auratus	FRENDA	811
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Metaphire sieboldi	FRENDA	812
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Metarhizium	FRENDA	813
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Metarhizium robertsii	FRENDA	814
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Metarhizium sp. RMK-2011b	FRENDA	815
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Metatheria	FRENDA	816
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Metazoa	AMENDA reliability +	817
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Metazoa	FRENDA	818
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Methanobacterium palustre		819
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Methanoculleus thermophilus		820
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Methanofollis liminatans		821
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Meyerozyma guilliermondii	AMENDA reliability +++	822
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Microbacterium luteolum YK-1	FRENDA	823
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Microcephala	FRENDA	824
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Micrococcus	FRENDA	825
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Micromonospora megalomicea	AMENDA reliability +++	826
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mink cell focus-forming virus	FRENDA	827
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Molva molva	FRENDA	828
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Momordica charantia	AMENDA reliability +	829
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Momordica cymbalaria	FRENDA	830
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Moniliella	FRENDA	831
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Moniliella megachiliensis	AMENDA reliability +	832
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Moniliella megachiliensis	FRENDA	833
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Moniliophthora perniciosa	FRENDA	834
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Monochasma	FRENDA	835
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Moorella sp. HUC22-1		836
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Moraxella bovis	FRENDA	837
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Morinda	AMENDA reliability +	838
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Moroccan pepper virus	FRENDA	839
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Morus	FRENDA	840
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		mouse mammary tumor virus	FRENDA	841
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mucor mucedo	FRENDA	842
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		mulleri subgroup	AMENDA reliability +	843
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		mulleri subgroup	FRENDA	844
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Murine hepatitis virus	FRENDA	845
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		murine leukemia virus	FRENDA	846
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Murraya koenigii	AMENDA reliability +++	847
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus musculus		848
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus musculus	AMENDA reliability +	849
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus musculus	AMENDA reliability ++	850
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus musculus	AMENDA reliability ++	851
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus musculus	AMENDA reliability +++	852
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus musculus	and strains LP/J, CBAxC57, C57L/J, Nude; mouse	853
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus musculus	FRENDA	854
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus musculus	mouse	855
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus musculus B10.A	and strains LP/J, CBAxC57, C57L/J, Nude	856
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus sp.	AMENDA reliability +	857
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus sp.	AMENDA reliability ++	858
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus sp.	AMENDA reliability ++	859
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus sp.	AMENDA reliability +++	860
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus sp.	FRENDA	861
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mus spretus	AMENDA reliability +	862
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Musca domestica	AMENDA reliability +	863
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Musca domestica	FRENDA	864
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Muscidae	FRENDA	865
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mustela putorius furo	FRENDA	866
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium	AMENDA reliability +	867
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium	AMENDA reliability ++	868
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium avium		869
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium avium subsp. paratuberculosis		870
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium bovis		871
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium leprae		872
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium smegmatis		873
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium sp.	AMENDA reliability ++	874
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium tuberculosis		875
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium tuberculosis	FRENDA	876
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium tuberculosis	var. bovis BCG	877
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycobacterium tuberculosis variant bovis BCG	FRENDA	878
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycolicibacterium aurum	AMENDA reliability ++	879
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycolicibacterium phlei	FRENDA	880
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycolicibacterium smegmatis	AMENDA reliability +++	881
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mycolicibacterium smegmatis	FRENDA	882
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Myrcia	AMENDA reliability +	883
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Myrcia multiflora	AMENDA reliability +	884
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Myrcia multiflora	AMENDA reliability +++	885
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Myrciaria dubia	AMENDA reliability +++	886
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Myrtaceae	FRENDA	887
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Mytilus edulis	FRENDA	888
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Myxococcus	FRENDA	889
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Myxococcus xanthus	AMENDA reliability +	890
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Myxococcus xanthus	FRENDA	891
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Naja naja	AMENDA reliability +	892
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Najas chinensis	FRENDA	893
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nardostachys jatamansi	AMENDA reliability +++	894
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nectria haematococca	FRENDA	895
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Necturus	AMENDA reliability +	896
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Necturus maculosus	FRENDA	897
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nelumbo nucifera	AMENDA reliability +++	898
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nematoda	FRENDA	899
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nemopilema nomurai	FRENDA	900
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nepeta cataria	AMENDA reliability +	901
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nepeta racemosa	AMENDA reliability +	902
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Neurospora	AMENDA reliability +	903
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Neurospora	FRENDA	904
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Neurospora crassa		905
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Neurospora crassa	FRENDA	906
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nicotiana benthamiana	FRENDA	907
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nicotiana tabacum	AMENDA reliability +	908
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nicotiana tabacum	FRENDA	909
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Nitrobacter winogradskyi	FRENDA	910
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Notomys alexis	FRENDA	911
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ochthephilus aureus	FRENDA	912
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ocimum	FRENDA	913
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ocimum basilicum	AMENDA reliability +	914
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ocimum gratissimum	FRENDA	915
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ocimum tenuiflorum	AMENDA reliability +	916
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ocimum tenuiflorum	FRENDA	917
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ocimum x africanum	AMENDA reliability +	918
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Octodon degus	AMENDA reliability +	919
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		octopus	FRENDA	920
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oestrus	FRENDA	921
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Omphalotus japonicus	FRENDA	922
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oncorhynchus mykiss	AMENDA reliability +	923
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oncorhynchus mykiss	FRENDA	924
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oncorhynchus mykiss gairdneri	AMENDA reliability +	925
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Orchidaceae	FRENDA	926
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oreochromis	FRENDA	927
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oreochromis niloticus	FRENDA	928
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Origanum vulgare	AMENDA reliability +	929
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Orpinomyces sp.	AMENDA reliability +	930
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryctolagus cuniculus	AMENDA reliability +	931
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryctolagus cuniculus	AMENDA reliability ++	932
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryctolagus cuniculus	AMENDA reliability ++	933
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryctolagus cuniculus	AMENDA reliability +++	934
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryctolagus cuniculus	FRENDA	935
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryctolagus cuniculus	New Zealand albino, New Zealand red, Mixed breed, Chinchilla, Dutch belted; rabbit	936
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryctolagus cuniculus	rabbit	937
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryza sativa	AMENDA reliability +	938
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryza sativa	FRENDA	939
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryza sativa Indica Group	AMENDA reliability +	940
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Oryza sativa Indica Group	FRENDA	941
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Osteomeles schwerinae	AMENDA reliability +	942
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Osteomeles schwerinae	FRENDA	943
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ouratea spectabilis	AMENDA reliability +	944
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ovis aries	AMENDA reliability +	945
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ovis aries	AMENDA reliability ++	946
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ovis aries	AMENDA reliability +++	947
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ovis aries	FRENDA	948
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ovis aries	sheep; Suffolk-Hampshire	949
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pachyanthus discolor	FRENDA	950
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pachysolen tannophilus	AMENDA reliability +++	951
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pachysolen tannophilus	FRENDA	952
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Palinuridae	FRENDA	953
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pan troglodytes	AMENDA reliability +	954
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Panax ginseng	AMENDA reliability +	955
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Panax notoginseng	FRENDA	956
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Panulirus argus	FRENDA	957
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Papaver bracteatum	FRENDA	958
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Papaver rhoeas	FRENDA	959
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Papaver somniferum	FRENDA	960
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Papio	FRENDA	961
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Papio anubis	AMENDA reliability +	962
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Papio anubis	FRENDA	963
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Paracoccus pantotrophus	AMENDA reliability +	964
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Parmotrema tinctorum	AMENDA reliability +++	965
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Passiflora trifoliata	FRENDA	966
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Paulownia coreana	AMENDA reliability +	967
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pecten maximus	mollusc	968
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pectobacterium carotovorum	AMENDA reliability +	969
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pectobacterium carotovorum subsp. carotovorum	FRENDA	970
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pelophylax perezi		971
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pelophylax perezi	AMENDA reliability +	972
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pelophylax perezi	frog	973
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Penicillium	FRENDA	974
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Penicillium aurantiogriseum	FRENDA	975
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Penicillium charlesii	FRENDA	976
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Penicillium citrinum		977
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Penicillium citrinum	AMENDA reliability +	978
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Penicillium citrinum IFO 4631		979
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Penicillium glabrum	AMENDA reliability +++	980
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Penicillium simile	FRENDA	981
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Penicillium urticae		982
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pentarhizidium orientale	AMENDA reliability +	983
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Perca fluviatilis	FRENDA	984
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pericallis hybrida	AMENDA reliability +	985
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Perilla frutescens	AMENDA reliability +	986
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Perilla frutescens	AMENDA reliability +++	987
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Peromyscus	AMENDA reliability +	988
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Peromyscus	FRENDA	989
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Peromyscus maniculatus	AMENDA reliability +	990
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Peromyscus maniculatus	FRENDA	991
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Peromyscus polionotus	AMENDA reliability +	992
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Persicaria hydropiper	AMENDA reliability +++	993
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Persicaria odorata		994
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Persicaria odorata	FRENDA	995
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Petrocephalus catostoma	AMENDA reliability +	996
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Petroselinum crispum	AMENDA reliability +	997
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Petunia x hybrida	AMENDA reliability +++	998
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phaeophyceae	FRENDA	999
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phaseolus acutifolius	AMENDA reliability +	1000
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phaseolus vulgaris	FRENDA	1001
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		pheasant	FRENDA	1002
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phellinus merrillii	AMENDA reliability +++	1003
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phellodendron	FRENDA	1004
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phengaris arion	FRENDA	1005
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phoradendron	AMENDA reliability +	1006
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Photobacterium phosphoreum	FRENDA	1007
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		phototrophic bacterium	FRENDA	1008
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phycomyces blakesleeanus		1009
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phyla	AMENDA reliability +	1010
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phyllanthus	AMENDA reliability +	1011
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phyllanthus amarus	FRENDA	1012
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phyllanthus debilis	AMENDA reliability +	1013
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phyllanthus emblica	AMENDA reliability +	1014
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phyllanthus emblica	FRENDA	1015
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phyllanthus niruri	AMENDA reliability +++	1016
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Phyllostachys nigra	AMENDA reliability +++	1017
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Physeter catodon	AMENDA reliability +	1018
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Picea abies	AMENDA reliability +	1019
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Picrorhiza kurrooa	FRENDA	1020
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pierinae	AMENDA reliability +++	1021
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pierinae	FRENDA	1022
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pinus cembra	FRENDA	1023
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pinus echinata	FRENDA	1024
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pinus roxburghii	FRENDA	1025
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Piper nigrum	AMENDA reliability +++	1026
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Piper retrofractum	FRENDA	1027
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Piromyces	AMENDA reliability +	1028
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Piromyces	FRENDA	1029
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pisum sativum	FRENDA	1030
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		plant	AMENDA reliability +	1031
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		plant	AMENDA reliability ++	1032
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		plant	AMENDA reliability +++	1033
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		plant	FRENDA	1034
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Plasmodium berghei	FRENDA	1035
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Plasmodium falciparum	FRENDA	1036
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Platycodon grandiflorus	AMENDA reliability +	1037
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Platyrrhini		1038
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Platyrrhini	AMENDA reliability +	1039
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Platyrrhini	AMENDA reliability ++	1040
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Platyrrhini	AMENDA reliability ++	1041
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Platyrrhini	AMENDA reliability ++++	1042
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Platyrrhini	FRENDA	1043
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pleurotus	FRENDA	1044
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pleurotus ostreatus	FRENDA	1045
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Plutella xylostella	FRENDA	1046
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pollichia	AMENDA reliability +	1047
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Polygala	FRENDA	1048
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Polygala arillata	FRENDA	1049
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Populus	AMENDA reliability ++	1050
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Populus trichocarpa	FRENDA	1051
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Porcine parvovirus	FRENDA	1052
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Porphyria	FRENDA	1053
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Porphyromonas gingivalis	AMENDA reliability +	1054
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Potentilla	AMENDA reliability +	1055
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Potentilla discolor	FRENDA	1056
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Potentilla hebiichigo	FRENDA	1057
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Poupartia	AMENDA reliability +	1058
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Primates	AMENDA reliability +	1059
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Primates	AMENDA reliability ++	1060
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Primates	FRENDA	1061
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Procambarus clarkii	FRENDA	1062
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Propionibacterium freudenreichii		1063
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Propolis	AMENDA reliability +	1064
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Propolis	FRENDA	1065
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Proteus vulgaris	FRENDA	1066
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Protium	FRENDA	1067
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		protozoa	FRENDA	1068
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Prunella vulgaris	AMENDA reliability +++	1069
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Prunus	FRENDA	1070
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Prunus domestica	FRENDA	1071
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Prunus dulcis	AMENDA reliability +++	1072
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Prunus mume	AMENDA reliability +	1073
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Prunus mume	AMENDA reliability +++	1074
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Prunus mume	FRENDA	1075
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Prunus persica	AMENDA reliability +	1076
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Prunus virginiana	FRENDA	1077
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudomonas	AMENDA reliability +	1078
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudomonas	FRENDA	1079
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudomonas aeruginosa		1080
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudomonas aeruginosa	AMENDA reliability +	1081
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudomonas aeruginosa	FRENDA	1082
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudomonas denitrificans (nomen rejiciendum)	FRENDA	1083
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudomonas putida	FRENDA	1084
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudomonas putida M10	FRENDA	1085
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudomonas sp.	FRENDA	1086
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudopleuronectes americanus	AMENDA reliability +	1087
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pseudothermotoga hypogea		1088
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Psidium guajava	FRENDA	1089
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Psoralea	AMENDA reliability +	1090
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pterocarpus marsupium	AMENDA reliability +	1091
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pueraria montana var. lobata	AMENDA reliability +	1092
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pueraria montana var. lobata	FRENDA	1093
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pueraria montana var. thomsonii	FRENDA	1094
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Punica granatum	AMENDA reliability +++	1095
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Punica granatum	FRENDA	1096
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Purpura	FRENDA	1097
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pyrobaculum aerophilum	FRENDA	1098
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pyrococcus furiosus		1099
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pyrococcus furiosus	AMENDA reliability +	1100
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pyrococcus furiosus	AMENDA reliability +++	1101
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pyrococcus furiosus	FRENDA	1102
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Pyrrhocoris apterus	FRENDA	1103
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Python	FRENDA	1104
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		quail	AMENDA reliability +	1105
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		quail	FRENDA	1106
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Quercus acutissima	AMENDA reliability +	1107
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Radix	AMENDA reliability +	1108
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Radix	FRENDA	1109
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ralstonia	AMENDA reliability +	1110
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ramulus	FRENDA	1111
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rana catesbeiana	FRENDA	1112
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rana japonica	FRENDA	1113
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rana pipiens	AMENDA reliability ++	1114
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rana sakuraii	FRENDA	1115
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rana sylvatica	AMENDA reliability +	1116
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rana sylvatica	FRENDA	1117
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rana temporaria	AMENDA reliability +	1118
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rana temporaria	FRENDA	1119
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Raphanus sativus	FRENDA	1120
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus	AMENDA reliability +	1121
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus	AMENDA reliability ++	1122
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus	AMENDA reliability ++	1123
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus	AMENDA reliability +++	1124
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus	AMENDA reliability ++++	1125
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus	FRENDA	1126
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus norvegicus		1127
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus norvegicus	AMENDA reliability +	1128
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus norvegicus	FBNxKGH, AugxWF, BNLr-1, LEW, KGH, DA; rat	1129
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus norvegicus	FRENDA	1130
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus norvegicus	rat	1131
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rattus norvegicus	rat; Wistar albino	1132
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rauvolfia	AMENDA reliability +	1133
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rauvolfia	FRENDA	1134
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rauvolfia serpentina	AMENDA reliability +	1135
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rauvolfia serpentina	FRENDA	1136
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rehmannia glutinosa	FRENDA	1137
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		repleta group	FRENDA	1138
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhamnus nigricans	FRENDA	1139
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhizobium	FRENDA	1140
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhizopus niveus	FRENDA	1141
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhizopus oryzae		1142
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhizopus oryzae	AMENDA reliability +	1143
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhizopus stolonifer	AMENDA reliability +	1144
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhizopus stolonifer	FRENDA	1145
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhode	FRENDA	1146
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhodobacter sphaeroides	FRENDA	1147
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhodococcus ruber	FRENDA	1148
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhododendron mucronulatum	AMENDA reliability +++	1149
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rhodotorula	AMENDA reliability +	1150
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rice stripe tenuivirus	FRENDA	1151
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rodentia	AMENDA reliability +	1152
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rodentia	FRENDA	1153
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rosaceae	FRENDA	1154
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rubus coreanus	AMENDA reliability +	1155
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Rumex patientia	FRENDA	1156
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ruminiclostridium thermocellum		1157
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saara hardwickii	AMENDA reliability +	1158
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharolobus solfataricus	FRENDA	1159
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharolobus solfataricus P2	FRENDA	1160
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces	FRENDA	1161
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae		1162
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae	; ADH7	1163
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae	AMENDA reliability +	1164
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae	AMENDA reliability ++	1165
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae	AMENDA reliability ++	1166
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae	AMENDA reliability +++	1167
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae	FRENDA	1168
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae	This UniProt-ID has been deleted; NRRL Y-12632	1169
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae	var. uvarum W34; yeast	1170
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae	yeast	1171
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae MT8-1	FRENDA	1172
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae NRRL Y-12632	AMENDA reliability +	1173
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae NRRL Y-12632	This UniProt-ID has been deleted; NRRL Y-12632	1174
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces cerevisiae S288c	FRENDA	1175
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saccharomyces uvarum	FRENDA	1176
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sacculina oblonga	FRENDA	1177
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saimiri		1178
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saimiri sciureus	AMENDA reliability +	1179
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salacia	AMENDA reliability +	1180
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salacia chinensis	AMENDA reliability +	1181
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salacia oblonga	AMENDA reliability +	1182
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salacia reticulata	FRENDA	1183
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salicornia herbacea	AMENDA reliability +++	1184
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salmonella enterica subsp. enterica serovar Typhimurium	AMENDA reliability +	1185
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salmonella enterica subsp. enterica serovar Typhimurium	FRENDA	1186
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salmonella virus P22	FRENDA	1187
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salvia	AMENDA reliability +	1188
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salvia	AMENDA reliability +++	1189
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salvia deserta	AMENDA reliability +	1190
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salvia miltiorrhiza	AMENDA reliability +++	1191
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Salvia miltiorrhiza	FRENDA	1192
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saraca indica	AMENDA reliability +++	1193
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sarcophaga peregrina	FRENDA	1194
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sarcophagidae	FRENDA	1195
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sardina pilchardus	FRENDA	1196
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saussurea	AMENDA reliability +	1197
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Saussurea medusa	AMENDA reliability +++	1198
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Scandentia	FRENDA	1199
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Scaptodrosophila lebanonensis	AMENDA reliability +	1200
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Scheffersomyces stipitis	AMENDA reliability +	1201
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Scheffersomyces stipitis	FRENDA	1202
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Schistocerca gregaria	FRENDA	1203
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Schistosoma japonicum	AMENDA reliability +	1204
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Schistosoma japonicum	AMENDA reliability +++	1205
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Schistosoma mansoni	FRENDA	1206
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Schizosaccharomyces pombe		1207
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Schizosaccharomyces pombe	AMENDA reliability +	1208
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Schizosaccharomyces pombe	FRENDA	1209
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Schizotrypanum	FRENDA	1210
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Scrophularia ningpoensis	FRENDA	1211
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Scutellaria baicalensis	AMENDA reliability +	1212
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Scutellaria baicalensis	FRENDA	1213
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Secale cereale	AMENDA reliability +	1214
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Secale cereale	FRENDA	1215
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Selaginella tamariscina	AMENDA reliability +	1216
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Senna tora	AMENDA reliability +++	1217
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sephisa chandra	FRENDA	1218
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Setaria italica	FRENDA	1219
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Setonix	FRENDA	1220
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Setonix brachyurus	FRENDA	1221
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Shepherdia argentea	FRENDA	1222
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Shorea roxburghii	FRENDA	1223
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sideritis	AMENDA reliability +	1224
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Siganus canaliculatus	FRENDA	1225
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Simmondsia chinensis	FRENDA	1226
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sinocrassula	AMENDA reliability +	1227
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sinocrassula indica	AMENDA reliability +	1228
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sinorhizobium meliloti	FRENDA	1229
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Smilacaceae	AMENDA reliability +	1230
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Smilax china	AMENDA reliability +++	1231
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Solanaceae	FRENDA	1232
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Solanum lycopersicum	AMENDA reliability +	1233
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Solanum lycopersicum	AMENDA reliability +++	1234
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Solanum lycopersicum	FRENDA	1235
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Solanum melongena	AMENDA reliability +	1236
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Solanum tuberosum		1237
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Solanum tuberosum	AMENDA reliability +	1238
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Solanum tuberosum	AMENDA reliability +++	1239
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Solanum tuberosum	defense related alcohol dehydrogenase, activated in wounded plants and plants treated with culture-filtrate from Erwinia carotovora, recombinant enzyme expressed in Escherichia coli	1240
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Solanum tuberosum	FRENDA	1241
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sophora flavescens	AMENDA reliability +	1242
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sorbus domestica	AMENDA reliability +	1243
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sorghum	AMENDA reliability +	1244
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sorghum	FRENDA	1245
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sorghum bicolor	FRENDA	1246
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sphingobium	FRENDA	1247
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sphingomonas	AMENDA reliability +	1248
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sphingomonas paucimobilis	FRENDA	1249
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Spinacia oleracea	AMENDA reliability +	1250
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Spinacia oleracea	FRENDA	1251
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Spodoptera eridania	AMENDA reliability +	1252
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Spodoptera frugiperda	AMENDA reliability +	1253
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Spodoptera frugiperda	FRENDA	1254
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Spodoptera littoralis	FRENDA	1255
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporidiobolus salmonicolor		1256
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporidiobolus salmonicolor	AMENDA reliability +	1257
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporidiobolus salmonicolor	AMENDA reliability ++	1258
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporidiobolus salmonicolor	ZJU0307	1259
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporidiobolus salmonicolor	ZJUB 105	1260
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporidiobolus salmonicolor AKU 4429		1261
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporidiobolus salmonicolor ZJU0307	ZJU0307	1262
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporidiobolus salmonicolor ZJUB 105	ZJUB 105	1263
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporobolomyces	AMENDA reliability ++	1264
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporobolomyces sp. (in: Microbotryomycetes)	AMENDA reliability ++	1265
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sporobolus	AMENDA reliability +	1266
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		squirrel	FRENDA	1267
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Staphylococcus aureus	AMENDA reliability +	1268
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Staphylococcus aureus	FRENDA	1269
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Staphylococcus aureus V8	FRENDA	1270
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Starmerella aceti	FRENDA	1271
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Stauntonia hexaphylla	AMENDA reliability +	1272
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Stelechocarpus cauliflorus	AMENDA reliability +	1273
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Stenocereus stellatus	FRENDA	1274
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Stenotomus chrysops	FRENDA	1275
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Stenotrophomonas maltophilia	FRENDA	1276
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Stephanomeria exigua	FRENDA	1277
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Stevia	AMENDA reliability +	1278
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Strawberry crinkle virus	FRENDA	1279
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Streptococcus sp. 'group B'	FRENDA	1280
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Streptomyces	AMENDA reliability +	1281
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Streptomyces	FRENDA	1282
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Streptomyces collinus	FRENDA	1283
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Streptomyces fradiae	FRENDA	1284
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Streptomyces hydrogenans	FRENDA	1285
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Streptomyces sp.	FRENDA	1286
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Streptomyces virginiae	FRENDA	1287
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Styphnolobium japonicum	FRENDA	1288
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Suidae	AMENDA reliability +	1289
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Suidae	AMENDA reliability ++	1290
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Suidae	FRENDA	1291
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Suncus murinus	AMENDA reliability +	1292
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sus scrofa		1293
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sus scrofa	AMENDA reliability +	1294
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sus scrofa	AMENDA reliability ++	1295
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sus scrofa	AMENDA reliability ++	1296
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sus scrofa	AMENDA reliability +++	1297
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sus scrofa	AMENDA reliability ++++	1298
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sus scrofa	FRENDA	1299
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Sus scrofa	pig	1300
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Swertia mussotii	FRENDA	1301
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Symphyocladia latiuscula	AMENDA reliability +	1302
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Symplocos cochinchinensis	FRENDA	1303
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Syncope	FRENDA	1304
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Synechococcus elongatus PCC 6301	AMENDA reliability +	1305
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Synechococcus sp.	AMENDA reliability +	1306
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Synechocystis	FRENDA	1307
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Synechocystis sp.	; strain PCC 6803	1308
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Synechocystis sp.	AMENDA reliability +	1309
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Synechocystis sp.	FRENDA	1310
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Syringa	FRENDA	1311
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Syzygium	FRENDA	1312
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Syzygium cumini	AMENDA reliability +++	1313
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Taenia	FRENDA	1314
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tagetes	AMENDA reliability +	1315
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tagetes patula	AMENDA reliability +	1316
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tamarindus indica	FRENDA	1317
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tambourissa purpurea	AMENDA reliability +	1318
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tanacetum cinerariifolium	AMENDA reliability +	1319
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Taxonomy	AMENDA reliability +	1320
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Taxonomy	FRENDA	1321
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Taxus	AMENDA reliability +	1322
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tephritidae	FRENDA	1323
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tephrosia	AMENDA reliability +	1324
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tephrosia purpurea	AMENDA reliability +	1325
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Testudines	FRENDA	1326
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tetradium ruticarpum	AMENDA reliability +++	1327
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tetrahymena	AMENDA reliability +	1328
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tetrahymena	AMENDA reliability +++	1329
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tetrahymena	FRENDA	1330
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tetrahymena pyriformis	AMENDA reliability +	1331
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tetrahymena pyriformis	FRENDA	1332
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tetranychus urticae	FRENDA	1333
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thauera aromatica	FRENDA	1334
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Theobroma cacao	FRENDA	1335
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter	AMENDA reliability +	1336
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter	FRENDA	1337
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter brockii		1338
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter brockii	AMENDA reliability +	1339
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter brockii	AMENDA reliability ++	1340
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter brockii	formely Thermoanaerobium brockii	1341
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter brockii	formerly Thermoanaerobium brockii	1342
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter brockii	FRENDA	1343
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter ethanolicus		1344
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter ethanolicus	39E(A.T.C.C. 33223), formerly Clostridium thermohydrosulfuricum 39E; strain JW200	1345
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter ethanolicus	strain ATCC 31550	1346
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter ethanolicus JW 200	strain JW200	1347
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter ethanolicus JW 200	strain JW200	1348
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter sp.		1349
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter sp.	FRENDA	1350
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter thermohydrosulfuricus		1351
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacter thermohydrosulfuricus	new name Thermoanaerobacter ethanolicus strain 39 E	1352
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoanaerobacterium thermosaccharolyticum	FRENDA	1353
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus	AMENDA reliability ++	1354
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus hydrothermalis		1355
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus kodakarensis KOD1	FRENDA	1356
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus litoralis		1357
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus litoralis	DSM 5473	1358
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus paralvinellae		1359
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus paralvinellae ES-1		1360
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus sibiricus	AMENDA reliability +	1361
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus sibiricus	AMENDA reliability +++	1362
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus sibiricus	FRENDA	1363
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus sp.		1364
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus sp. AN1		1365
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus sp. AN1		1366
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus sp. AN1		1367
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermococcus zilligii		1368
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermoplasma acidophilum	AMENDA reliability +	1369
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermotoga maritima	AMENDA reliability +	1370
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermotoga maritima	AMENDA reliability +++	1371
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermotoga maritima	FRENDA	1372
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermus thermophilus	AMENDA reliability +	1373
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermus thermophilus	FRENDA	1374
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermus thermophilus HB27	AMENDA reliability +	1375
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thermus thermophilus HB8	FRENDA	1376
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thrombus	FRENDA	1377
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Thunbergia	AMENDA reliability +	1378
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tilapia	FRENDA	1379
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tinospora cordifolia	AMENDA reliability +	1380
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tinospora cordifolia	AMENDA reliability +++	1381
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tivela mactroides	FRENDA	1382
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Torula	FRENDA	1383
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Toxicodendron vernicifluum	AMENDA reliability +	1384
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tracheophyta	FRENDA	1385
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trametes versicolor	FRENDA	1386
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tremella fuciformis	FRENDA	1387
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tribulus terrestris	AMENDA reliability +	1388
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trichoderma	FRENDA	1389
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trichoderma reesei	AMENDA reliability +	1390
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trichoderma reesei	FRENDA	1391
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trichomonas vaginalis	AMENDA reliability +	1392
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trigonella	FRENDA	1393
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trigonella foenum-graecum	FRENDA	1394
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Triticum aestivum	AMENDA reliability +	1395
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Triticum aestivum	FRENDA	1396
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Triticum monococcum	FRENDA	1397
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Triticum spelta	FRENDA	1398
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Triticum turgidum subsp. durum	FRENDA	1399
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Triticum urartu	FRENDA	1400
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tritrichomonas foetus	AMENDA reliability +	1401
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tropicoporus linteus	AMENDA reliability +++	1402
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		trout	AMENDA reliability +	1403
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		trout	FRENDA	1404
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma	AMENDA reliability +	1405
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma	FRENDA	1406
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma congolense	FRENDA	1407
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma cruzi	AMENDA reliability +	1408
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma cruzi	AMENDA reliability ++	1409
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma cruzi	AMENDA reliability +++	1410
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma cruzi	FRENDA	1411
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma cruzi	Tulahuen strain, Tul 0 stock	1412
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma dionisii	FRENDA	1413
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma lewisi	FRENDA	1414
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Trypanosoma vespertilionis	FRENDA	1415
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tuber	AMENDA reliability +	1416
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tuber	FRENDA	1417
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tunicata	AMENDA reliability +	1418
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Tupaia glis	AMENDA reliability +	1419
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ursidae	AMENDA reliability +	1420
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ursidae	FRENDA	1421
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Ustilago maydis	FRENDA	1422
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vaccinia virus	FRENDA	1423
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vaccinium myrtillus	FRENDA	1424
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		vertebrata	AMENDA reliability +	1425
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		vertebrata	FRENDA	1426
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Verticillium albo-atrum	FRENDA	1427
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vibrio harveyi		1428
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vibrio harveyi	AMENDA reliability +	1429
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vibrio phage nt-1	AMENDA reliability +	1430
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Viburnum opulus var. americanum	FRENDA	1431
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vicia faba	AMENDA reliability +	1432
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vigna angularis	FRENDA	1433
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vigna mungo	FRENDA	1434
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vigna radiata	AMENDA reliability +	1435
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vigna radiata	mung bean	1436
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vigna radiata var. radiata	AMENDA reliability +	1437
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vigna radiata var. radiata	FRENDA	1438
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vigna unguiculata	FRENDA	1439
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Viola hondoensis	AMENDA reliability +	1440
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Viola hondoensis	AMENDA reliability +++	1441
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Violaceae	FRENDA	1442
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Viruses	FRENDA	1443
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vitex rotundifolia	AMENDA reliability +++	1444
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vitis vinifera	AMENDA reliability +	1445
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vitis vinifera	FRENDA	1446
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Vitreoscilla	FRENDA	1447
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Viviparus	FRENDA	1448
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Withania somnifera	FRENDA	1449
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		x Triticosecale	AMENDA reliability +	1450
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		x Triticosecale	FRENDA	1451
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Xanthium strumarium	AMENDA reliability +++	1452
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Xenopus	FRENDA	1453
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Xenopus laevis	FRENDA	1454
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Xerophyta viscosa	AMENDA reliability +++	1455
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Xylella fastidiosa	AMENDA reliability +	1456
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		yeasts	AMENDA reliability +	1457
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		yeasts	AMENDA reliability ++	1458
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		yeasts	FRENDA	1459
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zea mays	AMENDA reliability +	1460
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zea mays	AMENDA reliability +++	1461
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zea mays	FRENDA	1462
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zea mays subsp. mays	AMENDA reliability +	1463
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zea mays subsp. mays	FRENDA	1464
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zingiber officinale	AMENDA reliability +	1465
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zingiber officinale	AMENDA reliability +++	1466
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zingiber officinale	FRENDA	1467
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zingiber zerumbet	AMENDA reliability +	1468
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zingiber zerumbet Smith	AMENDA reliability +	1469
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zygophyllum coccineum	FRENDA	1470
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zymomonas mobilis		1471
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)		Zymomonas mobilis	FRENDA	1472
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	A0A125SUY5	Mycobacterium sp.		1473
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	A0A125SUY5	Mycobacterium sp. B-009		1474
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	A1R6C3	Paenarthrobacter aurescens		1475
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	A1R6C3	Paenarthrobacter aurescens TC1		1476
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	A3GHL4	Scheffersomyces stipitis		1477
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	A3GHL4	Scheffersomyces stipitis ATCC 58785		1478
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	A3GHR6	Scheffersomyces stipitis		1479
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	A3GHR6	Scheffersomyces stipitis ATCC 58785		1480
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	B0K3U7	Thermoanaerobacter sp.		1481
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	B0KB53	Thermoanaerobacter pseudethanolicus		1482
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	B0KB53	Thermoanaerobacter pseudethanolicus ATCC 33223		1483
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	C1IWT4	Thermococcus sp.		1484
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	C1IWT4	Thermococcus sp. ES1		1485
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	C6A190	Thermococcus sibiricus		1486
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	C6A190	Thermococcus sibiricus DSM 12597		1487
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	C6A190	Thermococcus sibiricus DSM 12597		1488
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	C6A190	Thermococcus sibiricus DSM 12597		1489
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	C6A190	Thermococcus sibiricus MM 739		1490
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	F8S123	Thermococcus guaymasensis		1491
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	O73949	Pyrococcus furiosus		1492
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P07943	Rattus norvegicus		1493
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P07943	Rattus norvegicus Wistar		1494
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P07943	Rattus norvegicus Wistar		1495
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P07943	Rattus norvegicus Wistar		1496
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P14550	Homo sapiens	human	1497
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P14941	Thermoanaerobacter brockii		1498
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P35630	Entamoeba histolytica		1499
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P49384	Kluyveromyces lactis		1500
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P50578	Sus scrofa		1501
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P51635	Rattus norvegicus		1502
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P51635	Rattus norvegicus Wistar		1503
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	P51635	Rattus norvegicus Wistar		1504
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	Q46856	Escherichia coli		1505
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	Q8ZUP0	Pyrobaculum aerophilum		1506
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	Q8ZUP0	Pyrobaculum aerophilum DSM 7523		1507
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	Q8ZUP0	Pyrobaculum aerophilum DSM 7523		1508
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	Q8ZUP0	Pyrobaculum aerophilum DSM 7523		1509
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	Q9JII6	Mus musculus	; C57BL/6	1510
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	Q9JII6	Mus musculus C57BL/6	C57BL/6	1511
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	U6CL97	Pectobacterium atrosepticum		1512
+1.1.1.2	alcohol:NADP+ oxidoreductase	alcohol dehydrogenase (NADP+)	U6CL97	Pectobacterium atrosepticum DSM 18077		1513

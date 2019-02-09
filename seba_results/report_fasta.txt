@@ -1,0 +1,42 @@
+UniProt	Enzyme	Organism	Source	Found_using_Brenda
+A0A125SUY5	alcohol dehydrogenase (NADP+)	Mycobacterium sp.	TrEMBL	TRUE
+A0A125SUY5	alcohol dehydrogenase (NADP+)	Mycobacterium sp. B-009	TrEMBL	TRUE
+A1R6C3	alcohol dehydrogenase (NADP+)	Paenarthrobacter aurescens	TrEMBL	TRUE
+A1R6C3	alcohol dehydrogenase (NADP+)	Paenarthrobacter aurescens TC1	TrEMBL	TRUE
+A3GHL4	alcohol dehydrogenase (NADP+)	Scheffersomyces stipitis	TrEMBL	TRUE
+A3GHL4	alcohol dehydrogenase (NADP+)	Scheffersomyces stipitis ATCC 58785	TrEMBL	TRUE
+A3GHR6	alcohol dehydrogenase (NADP+)	Scheffersomyces stipitis	TrEMBL	TRUE
+A3GHR6	alcohol dehydrogenase (NADP+)	Scheffersomyces stipitis ATCC 58785	TrEMBL	TRUE
+B0K3U7	alcohol dehydrogenase (NADP+)	Thermoanaerobacter sp.	TrEMBL	TRUE
+B0KB53	alcohol dehydrogenase (NADP+)	Thermoanaerobacter pseudethanolicus	TrEMBL	TRUE
+B0KB53	alcohol dehydrogenase (NADP+)	Thermoanaerobacter pseudethanolicus ATCC 33223	TrEMBL	TRUE
+C1IWT4	alcohol dehydrogenase (NADP+)	Thermococcus sp.	TrEMBL	TRUE
+C1IWT4	alcohol dehydrogenase (NADP+)	Thermococcus sp. ES1	TrEMBL	TRUE
+C6A190	alcohol dehydrogenase (NADP+)	Thermococcus sibiricus	TrEMBL	TRUE
+C6A190	alcohol dehydrogenase (NADP+)	Thermococcus sibiricus DSM 12597	TrEMBL	TRUE
+C6A190	alcohol dehydrogenase (NADP+)	Thermococcus sibiricus DSM 12597	TrEMBL	TRUE
+C6A190	alcohol dehydrogenase (NADP+)	Thermococcus sibiricus DSM 12597	TrEMBL	TRUE
+C6A190	alcohol dehydrogenase (NADP+)	Thermococcus sibiricus MM 739	TrEMBL	TRUE
+F8S123	alcohol dehydrogenase (NADP+)	Thermococcus guaymasensis	TrEMBL	TRUE
+O73949	alcohol dehydrogenase (NADP+)	Pyrococcus furiosus	TrEMBL	TRUE
+P07943	alcohol dehydrogenase (NADP+)	Rattus norvegicus	Swiss-Prot	TRUE
+P07943	alcohol dehydrogenase (NADP+)	Rattus norvegicus Wistar	Swiss-Prot	TRUE
+P07943	alcohol dehydrogenase (NADP+)	Rattus norvegicus Wistar	Swiss-Prot	TRUE
+P07943	alcohol dehydrogenase (NADP+)	Rattus norvegicus Wistar	Swiss-Prot	TRUE
+P14550	alcohol dehydrogenase (NADP+)	Homo sapiens	Swiss-Prot	TRUE
+P14941	alcohol dehydrogenase (NADP+)	Thermoanaerobacter brockii	Swiss-Prot	TRUE
+P35630	alcohol dehydrogenase (NADP+)	Entamoeba histolytica	Swiss-Prot	TRUE
+P49384	alcohol dehydrogenase (NADP+)	Kluyveromyces lactis	Swiss-Prot	TRUE
+P50578	alcohol dehydrogenase (NADP+)	Sus scrofa	Swiss-Prot	TRUE
+P51635	alcohol dehydrogenase (NADP+)	Rattus norvegicus	Swiss-Prot	TRUE
+P51635	alcohol dehydrogenase (NADP+)	Rattus norvegicus Wistar	Swiss-Prot	TRUE
+P51635	alcohol dehydrogenase (NADP+)	Rattus norvegicus Wistar	Swiss-Prot	TRUE
+Q46856	alcohol dehydrogenase (NADP+)	Escherichia coli	Swiss-Prot	TRUE
+Q8ZUP0	alcohol dehydrogenase (NADP+)	Pyrobaculum aerophilum	TrEMBL	TRUE
+Q8ZUP0	alcohol dehydrogenase (NADP+)	Pyrobaculum aerophilum DSM 7523	TrEMBL	TRUE
+Q8ZUP0	alcohol dehydrogenase (NADP+)	Pyrobaculum aerophilum DSM 7523	TrEMBL	TRUE
+Q8ZUP0	alcohol dehydrogenase (NADP+)	Pyrobaculum aerophilum DSM 7523	TrEMBL	TRUE
+Q9JII6	alcohol dehydrogenase (NADP+)	Mus musculus	Swiss-Prot	TRUE
+Q9JII6	alcohol dehydrogenase (NADP+)	Mus musculus C57BL/6	Swiss-Prot	TRUE
+U6CL97	alcohol dehydrogenase (NADP+)	Pectobacterium atrosepticum	TrEMBL	TRUE
+U6CL97	alcohol dehydrogenase (NADP+)	Pectobacterium atrosepticum DSM 18077	TrEMBL	TRUE

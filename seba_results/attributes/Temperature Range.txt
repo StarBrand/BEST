@@ -1,0 +1,6 @@
+Commentary	Ref	Literature(PubmedID)	value
+at 60°C the immobilized enzyme shows 20% higher activity compared to the soluble form	641	24062264	60.0
+at 60°C the immobilized enzyme shows 20% higher activity compared to the soluble form	642	24062264	60.0
+isoform AdhA, 84%, isoform AdhB, 26% of maximum activity	836	17318639	50.0
+isoform AdhA, 61%, isoform AdhB 64% of maximum activity	836	17318639	70.0
+30-60% of maximum activity	1512	24265029	20.0-30.0

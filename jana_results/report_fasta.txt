@@ -1,0 +1,5 @@
+UniProt	Enzyme	Organism	Source	Found_using_Brenda
+P29933	cobaltochelatase	Pseudomonas denitrificans (nomen rejiciendum)	Swiss-Prot	TRUE
+P29934	cobaltochelatase	Pseudomonas denitrificans (nomen rejiciendum)	Swiss-Prot	TRUE
+Q9HZQ3	cobaltochelatase	Pseudomonas denitrificans (nomen rejiciendum)	Swiss-Prot	TRUE
+P29929	cobaltochelatase	Pseudomonas denitrificans (nomen rejiciendum)	Swiss-Prot	TRUE

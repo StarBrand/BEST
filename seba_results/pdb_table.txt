@@ -1,0 +1,32 @@
+EC_Number	Organism	PDB	link
+1.1.1.2	Cricetulus griseus	1c9w	https://www.rcsb.org/structure/1c9w
+1.1.1.2	Homo sapiens	2alr	https://www.rcsb.org/structure/2alr
+1.1.1.2	Lactobacillus brevis	1nxq	https://www.rcsb.org/structure/1nxq
+1.1.1.2	Lactobacillus brevis	1zjy	https://www.rcsb.org/structure/1zjy
+1.1.1.2	Lactobacillus brevis	1zjz	https://www.rcsb.org/structure/1zjz
+1.1.1.2	Lactobacillus brevis	1zk0	https://www.rcsb.org/structure/1zk0
+1.1.1.2	Lactobacillus brevis	1zk1	https://www.rcsb.org/structure/1zk1
+1.1.1.2	Lactobacillus brevis	1zk2	https://www.rcsb.org/structure/1zk2
+1.1.1.2	Lactobacillus brevis	1zk3	https://www.rcsb.org/structure/1zk3
+1.1.1.2	Lactobacillus brevis	1zk4	https://www.rcsb.org/structure/1zk4
+1.1.1.2	Mus musculus	4gac	https://www.rcsb.org/structure/4gac
+1.1.1.2	Pelophylax perezi	1p0c	https://www.rcsb.org/structure/1p0c
+1.1.1.2	Pelophylax perezi	1p0f	https://www.rcsb.org/structure/1p0f
+1.1.1.2	Saccharomyces	1piw	https://www.rcsb.org/structure/1piw
+1.1.1.2	Saccharomyces	1ps0	https://www.rcsb.org/structure/1ps0
+1.1.1.2	Saccharomyces	1q1n	https://www.rcsb.org/structure/1q1n
+1.1.1.2	Saccharomyces cerevisiae	1piw	https://www.rcsb.org/structure/1piw
+1.1.1.2	Saccharomyces cerevisiae	1ps0	https://www.rcsb.org/structure/1ps0
+1.1.1.2	Saccharomyces cerevisiae	1q1n	https://www.rcsb.org/structure/1q1n
+1.1.1.2	Sporidiobolus salmonicolor	1ujm	https://www.rcsb.org/structure/1ujm
+1.1.1.2	Sporidiobolus salmonicolor	1y1p	https://www.rcsb.org/structure/1y1p
+1.1.1.2	Sporidiobolus salmonicolor	1zze	https://www.rcsb.org/structure/1zze
+1.1.1.2	Sus scrofa	1ae4	https://www.rcsb.org/structure/1ae4
+1.1.1.2	Sus scrofa	1cwn	https://www.rcsb.org/structure/1cwn
+1.1.1.2	Sus scrofa	1hqt	https://www.rcsb.org/structure/1hqt
+1.1.1.2	Sus scrofa	3cv7	https://www.rcsb.org/structure/3cv7
+1.1.1.2	Sus scrofa	3fx4	https://www.rcsb.org/structure/3fx4
+1.1.1.2	Sus scrofa	3h4g	https://www.rcsb.org/structure/3h4g
+1.1.1.2	Thermococcus	3l77	https://www.rcsb.org/structure/3l77
+1.1.1.2	Thermococcus sibiricus	3l77	https://www.rcsb.org/structure/3l77
+1.1.1.2	Thermoplasma acidophilum	3gvx	https://www.rcsb.org/structure/3gvx

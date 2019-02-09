@@ -1,0 +1,601 @@
+Commentary	Substrate	Ref	Literature(PubmedID)	value
+pH 7.0, 37°C	propionaldehyde	505	18211903	45.1
+pH 7.0, 37°C	acetaldehyde	505	18211903	53.5
+pH 7.0, 37°C	butanaldehyde	505	18211903	59.5
+pH 7.0, 37°C	malondialdehyde	505	18211903	60.1
+pH 7.0, 37°C	acrolein	505	18211903	62.5
+pH 7.0, 37°C	propionaldehyde	506	18211903	45.1
+pH 7.0, 37°C	acetaldehyde	506	18211903	53.5
+pH 7.0, 37°C	butanaldehyde	506	18211903	59.5
+pH 7.0, 37°C	malondialdehyde	506	18211903	60.1
+pH 7.0, 37°C	acrolein	506	18211903	62.5
+pH 7.0, 37°C	propionaldehyde	507	18211903	45.1
+pH 7.0, 37°C	acetaldehyde	507	18211903	53.5
+pH 7.0, 37°C	butanaldehyde	507	18211903	59.5
+pH 7.0, 37°C	malondialdehyde	507	18211903	60.1
+pH 7.0, 37°C	acrolein	507	18211903	62.5
+pH 7.0, 37°C	propionaldehyde	508	18211903	45.1
+pH 7.0, 37°C	acetaldehyde	508	18211903	53.5
+pH 7.0, 37°C	butanaldehyde	508	18211903	59.5
+pH 7.0, 37°C	malondialdehyde	508	18211903	60.1
+pH 7.0, 37°C	acrolein	508	18211903	62.5
+pH 7.0, 37°C	propionaldehyde	509	18211903	45.1
+pH 7.0, 37°C	acetaldehyde	509	18211903	53.5
+pH 7.0, 37°C	butanaldehyde	509	18211903	59.5
+pH 7.0, 37°C	malondialdehyde	509	18211903	60.1
+pH 7.0, 37°C	acrolein	509	18211903	62.5
+pH 7.0, 37°C	propionaldehyde	510	18211903	45.1
+pH 7.0, 37°C	acetaldehyde	510	18211903	53.5
+pH 7.0, 37°C	butanaldehyde	510	18211903	59.5
+pH 7.0, 37°C	malondialdehyde	510	18211903	60.1
+pH 7.0, 37°C	acrolein	510	18211903	62.5
+pH 7.0, 37°C	propionaldehyde	511	18211903	45.1
+pH 7.0, 37°C	acetaldehyde	511	18211903	53.5
+pH 7.0, 37°C	butanaldehyde	511	18211903	59.5
+pH 7.0, 37°C	malondialdehyde	511	18211903	60.1
+pH 7.0, 37°C	acrolein	511	18211903	62.5
+	glycerol	665	16919	0.0283
+	Phenylethanol	665	16919	0.0283
+	Propane-1,2-diol	665	16919	0.0433
+	benzylalcohol	665	16919	0.0733
+	phenylethanediol	665	16919	0.08
+	4-Hydroxy-3-methoxybenzyl alcohol	665	16919	0.148
+	p-nitrobenzaldehyde	665	16919	9.5
+	glycerol	666	16919	0.0283
+	Phenylethanol	666	16919	0.0283
+	Propane-1,2-diol	666	16919	0.0433
+	benzylalcohol	666	16919	0.0733
+	phenylethanediol	666	16919	0.08
+	4-Hydroxy-3-methoxybenzyl alcohol	666	16919	0.148
+	p-nitrobenzaldehyde	666	16919	9.5
+	glycerol	667	16919	0.0283
+	Phenylethanol	667	16919	0.0283
+	Propane-1,2-diol	667	16919	0.0433
+	benzylalcohol	667	16919	0.0733
+	phenylethanediol	667	16919	0.08
+	4-Hydroxy-3-methoxybenzyl alcohol	667	16919	0.148
+	p-nitrobenzaldehyde	667	16919	9.5
+	glycerol	668	16919	0.0283
+	Phenylethanol	668	16919	0.0283
+	Propane-1,2-diol	668	16919	0.0433
+	benzylalcohol	668	16919	0.0733
+	phenylethanediol	668	16919	0.08
+	4-Hydroxy-3-methoxybenzyl alcohol	668	16919	0.148
+	p-nitrobenzaldehyde	668	16919	9.5
+	glycerol	669	16919	0.0283
+	Phenylethanol	669	16919	0.0283
+	Propane-1,2-diol	669	16919	0.0433
+	benzylalcohol	669	16919	0.0733
+	phenylethanediol	669	16919	0.08
+	4-Hydroxy-3-methoxybenzyl alcohol	669	16919	0.148
+	p-nitrobenzaldehyde	669	16919	9.5
+	glycerol	670	16919	0.0283
+	Phenylethanol	670	16919	0.0283
+	Propane-1,2-diol	670	16919	0.0433
+	benzylalcohol	670	16919	0.0733
+	phenylethanediol	670	16919	0.08
+	4-Hydroxy-3-methoxybenzyl alcohol	670	16919	0.148
+	p-nitrobenzaldehyde	670	16919	9.5
+	glycerol	671	16919	0.0283
+	Phenylethanol	671	16919	0.0283
+	Propane-1,2-diol	671	16919	0.0433
+	benzylalcohol	671	16919	0.0733
+	phenylethanediol	671	16919	0.08
+	4-Hydroxy-3-methoxybenzyl alcohol	671	16919	0.148
+	p-nitrobenzaldehyde	671	16919	9.5
+reduction, recombinant wild-type, 30°C, pH 7.0	NADP+	713	15896805	4.4
+oxidation, cosubstrate NADP+, recombinant wild-type, 30°C, pH 7.0	Phenylethanol	713	15896805	5.4
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NADP+	713	15896805	5.9
+oxidation, cosubstrate NADP+, recombinant mutant G37D, 30°C, pH 7.0	Phenylethanol	713	15896805	8.2
+oxidation, cosubstrate NAD+, recombinant mutant G37D, 30°C, pH 7.0	Phenylethanol	713	15896805	9.5
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NAD+	713	15896805	9.9
+cofactor NADH, reduction, recombinant mutant G37Dm 30°C, pH 7.0	acetophenone	713	15896805	35.7
+oxidation, recombinant mutant G37D, 30°C, pH 7.0	NADH	713	15896805	36.6
+oxidation, recombinant wild-type, 30°C, pH 7.0	NADPH	713	15896805	38.1
+cofactor NADPH, reduction, recombinant wild-type, 30°C, pH 7.0	acetophenone	713	15896805	44.5
+reduction, recombinant wild-type, 30°C, pH 7.0	NADP+	714	15896805	4.4
+oxidation, cosubstrate NADP+, recombinant wild-type, 30°C, pH 7.0	Phenylethanol	714	15896805	5.4
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NADP+	714	15896805	5.9
+oxidation, cosubstrate NADP+, recombinant mutant G37D, 30°C, pH 7.0	Phenylethanol	714	15896805	8.2
+oxidation, cosubstrate NAD+, recombinant mutant G37D, 30°C, pH 7.0	Phenylethanol	714	15896805	9.5
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NAD+	714	15896805	9.9
+cofactor NADH, reduction, recombinant mutant G37Dm 30°C, pH 7.0	acetophenone	714	15896805	35.7
+oxidation, recombinant mutant G37D, 30°C, pH 7.0	NADH	714	15896805	36.6
+oxidation, recombinant wild-type, 30°C, pH 7.0	NADPH	714	15896805	38.1
+cofactor NADPH, reduction, recombinant wild-type, 30°C, pH 7.0	acetophenone	714	15896805	44.5
+reduction, recombinant wild-type, 30°C, pH 7.0	NADP+	715	15896805	4.4
+oxidation, cosubstrate NADP+, recombinant wild-type, 30°C, pH 7.0	Phenylethanol	715	15896805	5.4
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NADP+	715	15896805	5.9
+oxidation, cosubstrate NADP+, recombinant mutant G37D, 30°C, pH 7.0	Phenylethanol	715	15896805	8.2
+oxidation, cosubstrate NAD+, recombinant mutant G37D, 30°C, pH 7.0	Phenylethanol	715	15896805	9.5
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NAD+	715	15896805	9.9
+cofactor NADH, reduction, recombinant mutant G37Dm 30°C, pH 7.0	acetophenone	715	15896805	35.7
+oxidation, recombinant mutant G37D, 30°C, pH 7.0	NADH	715	15896805	36.6
+oxidation, recombinant wild-type, 30°C, pH 7.0	NADPH	715	15896805	38.1
+cofactor NADPH, reduction, recombinant wild-type, 30°C, pH 7.0	acetophenone	715	15896805	44.5
+pH 7.0. 30°C	1,5-pentanediol	874	26923741	5.31
+pH 7.0. 30°C	butan-1-ol	874	26923741	7.02
+pH 7.0. 30°C	3-methyl-1,5-pentanediol	874	26923741	7.84
+pH 7.0. 30°C	NADP+	874	26923741	13.41
+pH 11.0, 80°C	ethanol	1088	17294170	14.0
+pH 8.0, 80°C	acetaldehyde	1088	17294170	15.0
+pH 11.0, 80°C	butanol	1088	17294170	48.0
+pH 8.0, 80°C	Butyraldehyde	1088	17294170	48.0
+pH 11.0, 80°C	NADP+	1088	17294170	50.0
+pH 8.0, 80°C	NADPH	1088	17294170	52.0
+80°C, pH not specified in the publication	NAD+	1099	9973342	2.4
+80°C, pH not specified in the publication	methylglyoxal	1099	9973342	3.7
+80°C, pH not specified in the publication	acetaldehyde	1099	9973342	5.5
+80°C, pH not specified in the publication	NADPH	1099	9973342	6.3
+80°C, pH not specified in the publication	phenylacetaldehyde	1099	9973342	10.4
+80°C, pH not specified in the publication	NADP+	1099	9973342	15.8
+80°C, pH not specified in the publication	ethanol	1099	9973342	19.2
+80°C, pH not specified in the publication	NAD+	1100	9973342	2.4
+80°C, pH not specified in the publication	methylglyoxal	1100	9973342	3.7
+80°C, pH not specified in the publication	acetaldehyde	1100	9973342	5.5
+80°C, pH not specified in the publication	NADPH	1100	9973342	6.3
+80°C, pH not specified in the publication	phenylacetaldehyde	1100	9973342	10.4
+80°C, pH not specified in the publication	NADP+	1100	9973342	15.8
+80°C, pH not specified in the publication	ethanol	1100	9973342	19.2
+80°C, pH not specified in the publication	NAD+	1101	9973342	2.4
+80°C, pH not specified in the publication	methylglyoxal	1101	9973342	3.7
+80°C, pH not specified in the publication	acetaldehyde	1101	9973342	5.5
+80°C, pH not specified in the publication	NADPH	1101	9973342	6.3
+80°C, pH not specified in the publication	phenylacetaldehyde	1101	9973342	10.4
+80°C, pH not specified in the publication	NADP+	1101	9973342	15.8
+80°C, pH not specified in the publication	ethanol	1101	9973342	19.2
+80°C, pH not specified in the publication	NAD+	1102	9973342	2.4
+80°C, pH not specified in the publication	methylglyoxal	1102	9973342	3.7
+80°C, pH not specified in the publication	acetaldehyde	1102	9973342	5.5
+80°C, pH not specified in the publication	NADPH	1102	9973342	6.3
+80°C, pH not specified in the publication	phenylacetaldehyde	1102	9973342	10.4
+80°C, pH not specified in the publication	NADP+	1102	9973342	15.8
+80°C, pH not specified in the publication	ethanol	1102	9973342	19.2
+pH 7.0, 25°C	Hexanol	1162	11742541	10.7
+pH 7.0, 25°C	cinnamyl alcohol	1162	11742541	14.8
+pH 10.0, 25°C	cinnamyl alcohol	1162	11742541	70.0
+pH 7.0, 25°C	3-methyl-1-butanol	1162	11742541	173.0
+pH 7.0, 25°C	veratraldehyde	1162	11742541	263.0
+pH 7.0, 25°C	3-Methylbutanal	1162	11742541	296.0
+pH 7.0, 25°C	cinnamaldehyde	1162	11742541	307.0
+pH 7.0, 25°C	Hexanal	1162	11742541	359.0
+pH 7.0, 25°C	pentanal	1162	11742541	378.0
+pH 10.0, 25°C	1-Pentanol	1162	11742541	918.0
+pH 10.0, 25°C	Phenylethanol	1162	11742541	1132.0
+pH 7.0, 25°C	cinnamyl alcohol	1162	11742541	1622.0
+pH 10.0, 25°C	3-methyl-1-butanol	1162	11742541	2866.0
+pH 10.0, 25°C	cinnamyl alcohol	1162	11742541	3404.0
+pH 7.0, 25°C	veratraldehyde	1162	11742541	6000.0
+pH 7.0, 25°C	cinnamaldehyde	1162	11742541	7913.0
+pH 7.0, 25°C	3-Methylbutanal	1162	11742541	9581.0
+pH 7.0, 25°C	pentanal	1162	11742541	11920.0
+pH 7.0, 25°C	Hexanol	1163	11742541	10.7
+pH 7.0, 25°C	cinnamyl alcohol	1163	11742541	14.8
+pH 10.0, 25°C	cinnamyl alcohol	1163	11742541	70.0
+pH 7.0, 25°C	3-methyl-1-butanol	1163	11742541	173.0
+pH 7.0, 25°C	veratraldehyde	1163	11742541	263.0
+pH 7.0, 25°C	3-Methylbutanal	1163	11742541	296.0
+pH 7.0, 25°C	cinnamaldehyde	1163	11742541	307.0
+pH 7.0, 25°C	Hexanal	1163	11742541	359.0
+pH 7.0, 25°C	pentanal	1163	11742541	378.0
+pH 10.0, 25°C	1-Pentanol	1163	11742541	918.0
+pH 10.0, 25°C	Phenylethanol	1163	11742541	1132.0
+pH 7.0, 25°C	cinnamyl alcohol	1163	11742541	1622.0
+pH 10.0, 25°C	3-methyl-1-butanol	1163	11742541	2866.0
+pH 10.0, 25°C	cinnamyl alcohol	1163	11742541	3404.0
+pH 7.0, 25°C	veratraldehyde	1163	11742541	6000.0
+pH 7.0, 25°C	cinnamaldehyde	1163	11742541	7913.0
+pH 7.0, 25°C	3-Methylbutanal	1163	11742541	9581.0
+pH 7.0, 25°C	pentanal	1163	11742541	11920.0
+pH 7.0, 25°C	Hexanol	1164	11742541	10.7
+pH 7.0, 25°C	cinnamyl alcohol	1164	11742541	14.8
+pH 10.0, 25°C	cinnamyl alcohol	1164	11742541	70.0
+pH 7.0, 25°C	3-methyl-1-butanol	1164	11742541	173.0
+pH 7.0, 25°C	veratraldehyde	1164	11742541	263.0
+pH 7.0, 25°C	3-Methylbutanal	1164	11742541	296.0
+pH 7.0, 25°C	cinnamaldehyde	1164	11742541	307.0
+pH 7.0, 25°C	Hexanal	1164	11742541	359.0
+pH 7.0, 25°C	pentanal	1164	11742541	378.0
+pH 10.0, 25°C	1-Pentanol	1164	11742541	918.0
+pH 10.0, 25°C	Phenylethanol	1164	11742541	1132.0
+pH 7.0, 25°C	cinnamyl alcohol	1164	11742541	1622.0
+pH 10.0, 25°C	3-methyl-1-butanol	1164	11742541	2866.0
+pH 10.0, 25°C	cinnamyl alcohol	1164	11742541	3404.0
+pH 7.0, 25°C	veratraldehyde	1164	11742541	6000.0
+pH 7.0, 25°C	cinnamaldehyde	1164	11742541	7913.0
+pH 7.0, 25°C	3-Methylbutanal	1164	11742541	9581.0
+pH 7.0, 25°C	pentanal	1164	11742541	11920.0
+pH 7.0, 25°C	Hexanol	1165	11742541	10.7
+pH 7.0, 25°C	cinnamyl alcohol	1165	11742541	14.8
+pH 10.0, 25°C	cinnamyl alcohol	1165	11742541	70.0
+pH 7.0, 25°C	3-methyl-1-butanol	1165	11742541	173.0
+pH 7.0, 25°C	veratraldehyde	1165	11742541	263.0
+pH 7.0, 25°C	3-Methylbutanal	1165	11742541	296.0
+pH 7.0, 25°C	cinnamaldehyde	1165	11742541	307.0
+pH 7.0, 25°C	Hexanal	1165	11742541	359.0
+pH 7.0, 25°C	pentanal	1165	11742541	378.0
+pH 10.0, 25°C	1-Pentanol	1165	11742541	918.0
+pH 10.0, 25°C	Phenylethanol	1165	11742541	1132.0
+pH 7.0, 25°C	cinnamyl alcohol	1165	11742541	1622.0
+pH 10.0, 25°C	3-methyl-1-butanol	1165	11742541	2866.0
+pH 10.0, 25°C	cinnamyl alcohol	1165	11742541	3404.0
+pH 7.0, 25°C	veratraldehyde	1165	11742541	6000.0
+pH 7.0, 25°C	cinnamaldehyde	1165	11742541	7913.0
+pH 7.0, 25°C	3-Methylbutanal	1165	11742541	9581.0
+pH 7.0, 25°C	pentanal	1165	11742541	11920.0
+pH 7.0, 25°C	Hexanol	1166	11742541	10.7
+pH 7.0, 25°C	cinnamyl alcohol	1166	11742541	14.8
+pH 10.0, 25°C	cinnamyl alcohol	1166	11742541	70.0
+pH 7.0, 25°C	3-methyl-1-butanol	1166	11742541	173.0
+pH 7.0, 25°C	veratraldehyde	1166	11742541	263.0
+pH 7.0, 25°C	3-Methylbutanal	1166	11742541	296.0
+pH 7.0, 25°C	cinnamaldehyde	1166	11742541	307.0
+pH 7.0, 25°C	Hexanal	1166	11742541	359.0
+pH 7.0, 25°C	pentanal	1166	11742541	378.0
+pH 10.0, 25°C	1-Pentanol	1166	11742541	918.0
+pH 10.0, 25°C	Phenylethanol	1166	11742541	1132.0
+pH 7.0, 25°C	cinnamyl alcohol	1166	11742541	1622.0
+pH 10.0, 25°C	3-methyl-1-butanol	1166	11742541	2866.0
+pH 10.0, 25°C	cinnamyl alcohol	1166	11742541	3404.0
+pH 7.0, 25°C	veratraldehyde	1166	11742541	6000.0
+pH 7.0, 25°C	cinnamaldehyde	1166	11742541	7913.0
+pH 7.0, 25°C	3-Methylbutanal	1166	11742541	9581.0
+pH 7.0, 25°C	pentanal	1166	11742541	11920.0
+pH 7.0, 25°C	Hexanol	1167	11742541	10.7
+pH 7.0, 25°C	cinnamyl alcohol	1167	11742541	14.8
+pH 10.0, 25°C	cinnamyl alcohol	1167	11742541	70.0
+pH 7.0, 25°C	3-methyl-1-butanol	1167	11742541	173.0
+pH 7.0, 25°C	veratraldehyde	1167	11742541	263.0
+pH 7.0, 25°C	3-Methylbutanal	1167	11742541	296.0
+pH 7.0, 25°C	cinnamaldehyde	1167	11742541	307.0
+pH 7.0, 25°C	Hexanal	1167	11742541	359.0
+pH 7.0, 25°C	pentanal	1167	11742541	378.0
+pH 10.0, 25°C	1-Pentanol	1167	11742541	918.0
+pH 10.0, 25°C	Phenylethanol	1167	11742541	1132.0
+pH 7.0, 25°C	cinnamyl alcohol	1167	11742541	1622.0
+pH 10.0, 25°C	3-methyl-1-butanol	1167	11742541	2866.0
+pH 10.0, 25°C	cinnamyl alcohol	1167	11742541	3404.0
+pH 7.0, 25°C	veratraldehyde	1167	11742541	6000.0
+pH 7.0, 25°C	cinnamaldehyde	1167	11742541	7913.0
+pH 7.0, 25°C	3-Methylbutanal	1167	11742541	9581.0
+pH 7.0, 25°C	pentanal	1167	11742541	11920.0
+pH 7.0, 25°C	Hexanol	1168	11742541	10.7
+pH 7.0, 25°C	cinnamyl alcohol	1168	11742541	14.8
+pH 10.0, 25°C	cinnamyl alcohol	1168	11742541	70.0
+pH 7.0, 25°C	3-methyl-1-butanol	1168	11742541	173.0
+pH 7.0, 25°C	veratraldehyde	1168	11742541	263.0
+pH 7.0, 25°C	3-Methylbutanal	1168	11742541	296.0
+pH 7.0, 25°C	cinnamaldehyde	1168	11742541	307.0
+pH 7.0, 25°C	Hexanal	1168	11742541	359.0
+pH 7.0, 25°C	pentanal	1168	11742541	378.0
+pH 10.0, 25°C	1-Pentanol	1168	11742541	918.0
+pH 10.0, 25°C	Phenylethanol	1168	11742541	1132.0
+pH 7.0, 25°C	cinnamyl alcohol	1168	11742541	1622.0
+pH 10.0, 25°C	3-methyl-1-butanol	1168	11742541	2866.0
+pH 10.0, 25°C	cinnamyl alcohol	1168	11742541	3404.0
+pH 7.0, 25°C	veratraldehyde	1168	11742541	6000.0
+pH 7.0, 25°C	cinnamaldehyde	1168	11742541	7913.0
+pH 7.0, 25°C	3-Methylbutanal	1168	11742541	9581.0
+pH 7.0, 25°C	pentanal	1168	11742541	11920.0
+pH 7.0, 25°C	Hexanol	1169	11742541	10.7
+pH 7.0, 25°C	cinnamyl alcohol	1169	11742541	14.8
+pH 10.0, 25°C	cinnamyl alcohol	1169	11742541	70.0
+pH 7.0, 25°C	3-methyl-1-butanol	1169	11742541	173.0
+pH 7.0, 25°C	veratraldehyde	1169	11742541	263.0
+pH 7.0, 25°C	3-Methylbutanal	1169	11742541	296.0
+pH 7.0, 25°C	cinnamaldehyde	1169	11742541	307.0
+pH 7.0, 25°C	Hexanal	1169	11742541	359.0
+pH 7.0, 25°C	pentanal	1169	11742541	378.0
+pH 10.0, 25°C	1-Pentanol	1169	11742541	918.0
+pH 10.0, 25°C	Phenylethanol	1169	11742541	1132.0
+pH 7.0, 25°C	cinnamyl alcohol	1169	11742541	1622.0
+pH 10.0, 25°C	3-methyl-1-butanol	1169	11742541	2866.0
+pH 10.0, 25°C	cinnamyl alcohol	1169	11742541	3404.0
+pH 7.0, 25°C	veratraldehyde	1169	11742541	6000.0
+pH 7.0, 25°C	cinnamaldehyde	1169	11742541	7913.0
+pH 7.0, 25°C	3-Methylbutanal	1169	11742541	9581.0
+pH 7.0, 25°C	pentanal	1169	11742541	11920.0
+pH 7.0, 25°C	Hexanol	1170	11742541	10.7
+pH 7.0, 25°C	cinnamyl alcohol	1170	11742541	14.8
+pH 10.0, 25°C	cinnamyl alcohol	1170	11742541	70.0
+pH 7.0, 25°C	3-methyl-1-butanol	1170	11742541	173.0
+pH 7.0, 25°C	veratraldehyde	1170	11742541	263.0
+pH 7.0, 25°C	3-Methylbutanal	1170	11742541	296.0
+pH 7.0, 25°C	cinnamaldehyde	1170	11742541	307.0
+pH 7.0, 25°C	Hexanal	1170	11742541	359.0
+pH 7.0, 25°C	pentanal	1170	11742541	378.0
+pH 10.0, 25°C	1-Pentanol	1170	11742541	918.0
+pH 10.0, 25°C	Phenylethanol	1170	11742541	1132.0
+pH 7.0, 25°C	cinnamyl alcohol	1170	11742541	1622.0
+pH 10.0, 25°C	3-methyl-1-butanol	1170	11742541	2866.0
+pH 10.0, 25°C	cinnamyl alcohol	1170	11742541	3404.0
+pH 7.0, 25°C	veratraldehyde	1170	11742541	6000.0
+pH 7.0, 25°C	cinnamaldehyde	1170	11742541	7913.0
+pH 7.0, 25°C	3-Methylbutanal	1170	11742541	9581.0
+pH 7.0, 25°C	pentanal	1170	11742541	11920.0
+pH 7.0, 25°C	Hexanol	1171	11742541	10.7
+pH 7.0, 25°C	cinnamyl alcohol	1171	11742541	14.8
+pH 10.0, 25°C	cinnamyl alcohol	1171	11742541	70.0
+pH 7.0, 25°C	3-methyl-1-butanol	1171	11742541	173.0
+pH 7.0, 25°C	veratraldehyde	1171	11742541	263.0
+pH 7.0, 25°C	3-Methylbutanal	1171	11742541	296.0
+pH 7.0, 25°C	cinnamaldehyde	1171	11742541	307.0
+pH 7.0, 25°C	Hexanal	1171	11742541	359.0
+pH 7.0, 25°C	pentanal	1171	11742541	378.0
+pH 10.0, 25°C	1-Pentanol	1171	11742541	918.0
+pH 10.0, 25°C	Phenylethanol	1171	11742541	1132.0
+pH 7.0, 25°C	cinnamyl alcohol	1171	11742541	1622.0
+pH 10.0, 25°C	3-methyl-1-butanol	1171	11742541	2866.0
+pH 10.0, 25°C	cinnamyl alcohol	1171	11742541	3404.0
+pH 7.0, 25°C	veratraldehyde	1171	11742541	6000.0
+pH 7.0, 25°C	cinnamaldehyde	1171	11742541	7913.0
+pH 7.0, 25°C	3-Methylbutanal	1171	11742541	9581.0
+pH 7.0, 25°C	pentanal	1171	11742541	11920.0
+substrate furfural, pH 7.2, 30°C	NADPH	1201	23912116	2.21
+substrate furfural, pH 7.2, 30°C	NADH	1201	23912116	2.7
+substrate furfural, pH 7.2, 30°C	NADPH	1201	23912116	4.75
+substrate furfural, pH 7.2, 30°C	NADH	1201	23912116	6.23
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1201	23912116	6.5
+substrate furfural, pH 7.2, 30°C	NADPH	1202	23912116	2.21
+substrate furfural, pH 7.2, 30°C	NADH	1202	23912116	2.7
+substrate furfural, pH 7.2, 30°C	NADPH	1202	23912116	4.75
+substrate furfural, pH 7.2, 30°C	NADH	1202	23912116	6.23
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1202	23912116	6.5
+	3-Pyridinemethanol	1293	4402936	0.07
+	glycerol	1293	4402936	0.612
+	L-arabitol	1293	4402936	1.77
+	(+)-Camphorquinone	1293	4402936	5.6
+	D-glucuronate	1293	4402936	11.6
+	D-Lactaldehyde	1293	4402936	13.7
+	D-glyceraldehyde	1293	4402936	14.4
+	4-cyanobenzaldehyde	1293	4402936	16.6
+	4-Pyridinecarboxaldehyde	1293	4402936	19.3
+	4-carboxybenzaldehyde	1293	4402936	21.7
+	4-nitrobenzaldehyde	1293	4402936	22.0
+	3-Pyridinecarboxaldehyde	1293	4402936	26.8
+	3-Pyridinemethanol	1294	4402936	0.07
+	glycerol	1294	4402936	0.612
+	L-arabitol	1294	4402936	1.77
+	(+)-Camphorquinone	1294	4402936	5.6
+	D-glucuronate	1294	4402936	11.6
+	D-Lactaldehyde	1294	4402936	13.7
+	D-glyceraldehyde	1294	4402936	14.4
+	4-cyanobenzaldehyde	1294	4402936	16.6
+	4-Pyridinecarboxaldehyde	1294	4402936	19.3
+	4-carboxybenzaldehyde	1294	4402936	21.7
+	4-nitrobenzaldehyde	1294	4402936	22.0
+	3-Pyridinecarboxaldehyde	1294	4402936	26.8
+	3-Pyridinemethanol	1295	4402936	0.07
+	glycerol	1295	4402936	0.612
+	L-arabitol	1295	4402936	1.77
+	(+)-Camphorquinone	1295	4402936	5.6
+	D-glucuronate	1295	4402936	11.6
+	D-Lactaldehyde	1295	4402936	13.7
+	D-glyceraldehyde	1295	4402936	14.4
+	4-cyanobenzaldehyde	1295	4402936	16.6
+	4-Pyridinecarboxaldehyde	1295	4402936	19.3
+	4-carboxybenzaldehyde	1295	4402936	21.7
+	4-nitrobenzaldehyde	1295	4402936	22.0
+	3-Pyridinecarboxaldehyde	1295	4402936	26.8
+	3-Pyridinemethanol	1296	4402936	0.07
+	glycerol	1296	4402936	0.612
+	L-arabitol	1296	4402936	1.77
+	(+)-Camphorquinone	1296	4402936	5.6
+	D-glucuronate	1296	4402936	11.6
+	D-Lactaldehyde	1296	4402936	13.7
+	D-glyceraldehyde	1296	4402936	14.4
+	4-cyanobenzaldehyde	1296	4402936	16.6
+	4-Pyridinecarboxaldehyde	1296	4402936	19.3
+	4-carboxybenzaldehyde	1296	4402936	21.7
+	4-nitrobenzaldehyde	1296	4402936	22.0
+	3-Pyridinecarboxaldehyde	1296	4402936	26.8
+	3-Pyridinemethanol	1297	4402936	0.07
+	glycerol	1297	4402936	0.612
+	L-arabitol	1297	4402936	1.77
+	(+)-Camphorquinone	1297	4402936	5.6
+	D-glucuronate	1297	4402936	11.6
+	D-Lactaldehyde	1297	4402936	13.7
+	D-glyceraldehyde	1297	4402936	14.4
+	4-cyanobenzaldehyde	1297	4402936	16.6
+	4-Pyridinecarboxaldehyde	1297	4402936	19.3
+	4-carboxybenzaldehyde	1297	4402936	21.7
+	4-nitrobenzaldehyde	1297	4402936	22.0
+	3-Pyridinecarboxaldehyde	1297	4402936	26.8
+	3-Pyridinemethanol	1298	4402936	0.07
+	glycerol	1298	4402936	0.612
+	L-arabitol	1298	4402936	1.77
+	(+)-Camphorquinone	1298	4402936	5.6
+	D-glucuronate	1298	4402936	11.6
+	D-Lactaldehyde	1298	4402936	13.7
+	D-glyceraldehyde	1298	4402936	14.4
+	4-cyanobenzaldehyde	1298	4402936	16.6
+	4-Pyridinecarboxaldehyde	1298	4402936	19.3
+	4-carboxybenzaldehyde	1298	4402936	21.7
+	4-nitrobenzaldehyde	1298	4402936	22.0
+	3-Pyridinecarboxaldehyde	1298	4402936	26.8
+	3-Pyridinemethanol	1299	4402936	0.07
+	glycerol	1299	4402936	0.612
+	L-arabitol	1299	4402936	1.77
+	(+)-Camphorquinone	1299	4402936	5.6
+	D-glucuronate	1299	4402936	11.6
+	D-Lactaldehyde	1299	4402936	13.7
+	D-glyceraldehyde	1299	4402936	14.4
+	4-cyanobenzaldehyde	1299	4402936	16.6
+	4-Pyridinecarboxaldehyde	1299	4402936	19.3
+	4-carboxybenzaldehyde	1299	4402936	21.7
+	4-nitrobenzaldehyde	1299	4402936	22.0
+	3-Pyridinecarboxaldehyde	1299	4402936	26.8
+	3-Pyridinemethanol	1300	4402936	0.07
+	glycerol	1300	4402936	0.612
+	L-arabitol	1300	4402936	1.77
+	(+)-Camphorquinone	1300	4402936	5.6
+	D-glucuronate	1300	4402936	11.6
+	D-Lactaldehyde	1300	4402936	13.7
+	D-glyceraldehyde	1300	4402936	14.4
+	4-cyanobenzaldehyde	1300	4402936	16.6
+	4-Pyridinecarboxaldehyde	1300	4402936	19.3
+	4-carboxybenzaldehyde	1300	4402936	21.7
+	4-nitrobenzaldehyde	1300	4402936	22.0
+	3-Pyridinecarboxaldehyde	1300	4402936	26.8
+; in 30 mM Tris-HCl (pH 8.0)	Pentanol	1308	19411329	13.15
+; in 30 mM Tris-HCl (pH 8.0)	butanol	1308	19411329	17.05
+; in 30 mM Tris-HCl (pH 8.0)	ethanol	1308	19411329	27.35
+; in 30 mM Tris-HCl (pH 8.0)	cinnamyl alcohol	1308	19411329	60.78
+; in 30 mM Tris-HCl (pH 8.0)	cinnamaldehyde	1308	19411329	107.9
+	Butanal	1308	19411329	156.0
+in 30 mM Tris-HCl (pH 8.0)	Butanal	1308	19411329	156.6
+; in 30 mM Tris-HCl (pH 8.0)	acetaldehyde	1308	19411329	157.6
+	pentanal	1308	19411329	159.0
+in 30 mM Tris-HCl (pH 8.0)	pentanal	1308	19411329	159.1
+; in 30 mM Tris-HCl (pH 8.0)	Pentanol	1309	19411329	13.15
+; in 30 mM Tris-HCl (pH 8.0)	butanol	1309	19411329	17.05
+; in 30 mM Tris-HCl (pH 8.0)	ethanol	1309	19411329	27.35
+; in 30 mM Tris-HCl (pH 8.0)	cinnamyl alcohol	1309	19411329	60.78
+; in 30 mM Tris-HCl (pH 8.0)	cinnamaldehyde	1309	19411329	107.9
+	Butanal	1309	19411329	156.0
+in 30 mM Tris-HCl (pH 8.0)	Butanal	1309	19411329	156.6
+; in 30 mM Tris-HCl (pH 8.0)	acetaldehyde	1309	19411329	157.6
+	pentanal	1309	19411329	159.0
+in 30 mM Tris-HCl (pH 8.0)	pentanal	1309	19411329	159.1
+; in 30 mM Tris-HCl (pH 8.0)	Pentanol	1310	19411329	13.15
+; in 30 mM Tris-HCl (pH 8.0)	butanol	1310	19411329	17.05
+; in 30 mM Tris-HCl (pH 8.0)	ethanol	1310	19411329	27.35
+; in 30 mM Tris-HCl (pH 8.0)	cinnamyl alcohol	1310	19411329	60.78
+; in 30 mM Tris-HCl (pH 8.0)	cinnamaldehyde	1310	19411329	107.9
+	Butanal	1310	19411329	156.0
+in 30 mM Tris-HCl (pH 8.0)	Butanal	1310	19411329	156.6
+; in 30 mM Tris-HCl (pH 8.0)	acetaldehyde	1310	19411329	157.6
+	pentanal	1310	19411329	159.0
+in 30 mM Tris-HCl (pH 8.0)	pentanal	1310	19411329	159.1
+mutant W110L, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.008
+mutant W110Q, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.025
+mutant W110M, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.045
+mutant W110I, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.46
+mutant W110A, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.56
+mutant W110L, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	0.65
+mutant W110V, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	1.2
+mutant W110G, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	1.4
+mutant W110Q, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	2.3
+mutant W110M, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	4.5
+mutant W110G, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	17.8
+mutant W110I, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	18.8
+mutant W110A, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	31.1
+mutant W110V, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	38.6
+mutant W110L, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.008
+mutant W110Q, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.025
+mutant W110M, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.045
+mutant W110I, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.46
+mutant W110A, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.56
+mutant W110L, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	0.65
+mutant W110V, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	1.2
+mutant W110G, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	1.4
+mutant W110Q, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	2.3
+mutant W110M, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	4.5
+mutant W110G, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	17.8
+mutant W110I, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	18.8
+mutant W110A, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	31.1
+mutant W110V, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	38.6
+mutant W110L, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.008
+mutant W110Q, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.025
+mutant W110M, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.045
+mutant W110I, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.46
+mutant W110A, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.56
+mutant W110L, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	0.65
+mutant W110V, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	1.2
+mutant W110G, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	1.4
+mutant W110Q, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	2.3
+mutant W110M, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	4.5
+mutant W110G, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	17.8
+mutant W110I, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	18.8
+mutant W110A, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	31.1
+mutant W110V, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	38.6
+pH 10.5, 60°C	NADP+	1361	20418438	0.45
+pH 10.5, 60°C	2-propanol	1361	20418438	0.53
+pH 10.5, 60°C	D-xylose	1361	20418438	0.7
+pH 7.5, 60°C	NADPH	1361	20418438	1.51
+pH 7.5, 60°C	Pyruvaldehyde	1361	20418438	2.04
+pH 10.5, 60°C	NADP+	1362	20418438	0.45
+pH 10.5, 60°C	2-propanol	1362	20418438	0.53
+pH 10.5, 60°C	D-xylose	1362	20418438	0.7
+pH 7.5, 60°C	NADPH	1362	20418438	1.51
+pH 7.5, 60°C	Pyruvaldehyde	1362	20418438	2.04
+pH 10.5, 60°C	NADP+	1363	20418438	0.45
+pH 10.5, 60°C	2-propanol	1363	20418438	0.53
+pH 10.5, 60°C	D-xylose	1363	20418438	0.7
+pH 7.5, 60°C	NADPH	1363	20418438	1.51
+pH 7.5, 60°C	Pyruvaldehyde	1363	20418438	2.04
+recombinant enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	acetaldehyde	1364	19115036	22.9
+native enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	acetaldehyde	1364	19115036	23.6
+native enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8); recombinant enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADPH	1364	19115036	24.0
+recombinant enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	ethanol	1364	19115036	81.0
+recombinant enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADP+	1364	19115036	81.0
+native enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	ethanol	1364	19115036	84.0
+native enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADP+	1364	19115036	84.0
+pH 7.0. 30°C	1,5-pentanediol	1473	26923741	5.31
+pH 7.0. 30°C	butan-1-ol	1473	26923741	7.02
+pH 7.0. 30°C	3-methyl-1,5-pentanediol	1473	26923741	7.84
+pH 7.0. 30°C	NADP+	1473	26923741	13.41
+substrate furfural, pH 7.2, 30°C	NADPH	1477	23912116	2.21
+substrate furfural, pH 7.2, 30°C	NADH	1477	23912116	2.7
+substrate furfural, pH 7.2, 30°C	NADPH	1477	23912116	4.75
+substrate furfural, pH 7.2, 30°C	NADH	1477	23912116	6.23
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1477	23912116	6.5
+substrate furfural, pH 7.2, 30°C	NADPH	1479	23912116	2.21
+substrate furfural, pH 7.2, 30°C	NADH	1479	23912116	2.7
+substrate furfural, pH 7.2, 30°C	NADPH	1479	23912116	4.75
+substrate furfural, pH 7.2, 30°C	NADH	1479	23912116	6.23
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1479	23912116	6.5
+recombinant enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	acetaldehyde	1484	19115036	22.9
+native enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	acetaldehyde	1484	19115036	23.6
+native enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8); recombinant enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADPH	1484	19115036	24.0
+recombinant enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	ethanol	1484	19115036	81.0
+recombinant enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADP+	1484	19115036	81.0
+native enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	ethanol	1484	19115036	84.0
+native enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADP+	1484	19115036	84.0
+pH 10.5, 60°C	NADP+	1486	20418438	0.45
+pH 10.5, 60°C	2-propanol	1486	20418438	0.53
+pH 10.5, 60°C	D-xylose	1486	20418438	0.7
+pH 7.5, 60°C	NADPH	1486	20418438	1.51
+pH 7.5, 60°C	Pyruvaldehyde	1486	20418438	2.04
+cosubstrate: NADPH, pH 7.5, 80°C	acetoin	1491	21515780	142.0
+cosubstrate: 2-butanone, pH 7.5, 80°C	NADPH	1491	21515780	158.0
+cosubstrate: NADPH, pH 7.5, 80°C	2-butanone	1491	21515780	190.0
+cosubstrate: NADPH, pH 7.5, 80°C	diacetyl	1491	21515780	202.0
+cosubstrate: NADP+, pH 7.5, 80°C	(2S,3S)-2,3-butanediol	1491	21515780	512.0
+cosubstrate: NADP+, pH 7.5, 80°C	(2R,3R)-2,3-butanediol	1491	21515780	740.0
+cosubstrate: NADP+, pH 7.5, 80°C	2-butanol	1491	21515780	833.0
+cosubstrate: NADP+, pH 7.5, 80°C	meso-2,3-butanediol	1491	21515780	952.0
+cosubstrate: 2-butanol, pH 7.5, 80°C	NADP+	1491	21515780	1333.0
+80°C, pH not specified in the publication	NAD+	1492	9973342	2.4
+80°C, pH not specified in the publication	methylglyoxal	1492	9973342	3.7
+80°C, pH not specified in the publication	acetaldehyde	1492	9973342	5.5
+80°C, pH not specified in the publication	NADPH	1492	9973342	6.3
+80°C, pH not specified in the publication	phenylacetaldehyde	1492	9973342	10.4
+80°C, pH not specified in the publication	NADP+	1492	9973342	15.8
+80°C, pH not specified in the publication	ethanol	1492	9973342	19.2
+	glycerol	1497	16919	0.0283
+	Phenylethanol	1497	16919	0.0283
+	Propane-1,2-diol	1497	16919	0.0433
+	benzylalcohol	1497	16919	0.0733
+	phenylethanediol	1497	16919	0.08
+	4-Hydroxy-3-methoxybenzyl alcohol	1497	16919	0.148
+	p-nitrobenzaldehyde	1497	16919	9.5
+	3-Pyridinemethanol	1501	4402936	0.07
+	glycerol	1501	4402936	0.612
+	L-arabitol	1501	4402936	1.77
+	(+)-Camphorquinone	1501	4402936	5.6
+	D-glucuronate	1501	4402936	11.6
+	D-Lactaldehyde	1501	4402936	13.7
+	D-glyceraldehyde	1501	4402936	14.4
+	4-cyanobenzaldehyde	1501	4402936	16.6
+	4-Pyridinecarboxaldehyde	1501	4402936	19.3
+	4-carboxybenzaldehyde	1501	4402936	21.7
+	4-nitrobenzaldehyde	1501	4402936	22.0
+	3-Pyridinecarboxaldehyde	1501	4402936	26.8
+pH 7.0, 37°C	propionaldehyde	1505	18211903	45.1
+pH 7.0, 37°C	acetaldehyde	1505	18211903	53.5
+pH 7.0, 37°C	butanaldehyde	1505	18211903	59.5
+pH 7.0, 37°C	malondialdehyde	1505	18211903	60.1
+pH 7.0, 37°C	acrolein	1505	18211903	62.5
+pH 7.0, temperature not specified in the publication	Butanal	1512	24265029	20.1
+pH 7.0, temperature not specified in the publication	pentanal	1512	24265029	49.2

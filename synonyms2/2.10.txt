@@ -1,0 +1,3 @@
+synonyms	ec_number	recommended_name
+MoeA	2.10.1.1	molybdopterin molybdotransferase
+Cnx1	2.10.1.1	molybdopterin molybdotransferase

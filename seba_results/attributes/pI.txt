@@ -1,0 +1,24 @@
+Commentary	Ref	Literature(PubmedID)	value
+isoelectric focusing	1162	11742541	4.9
+and 6.2, isoelectric focusing; and 6.4, isoelectric focusing	1162	11742541	6.0
+isoelectric focusing	1163	11742541	4.9
+and 6.2, isoelectric focusing; and 6.4, isoelectric focusing	1163	11742541	6.0
+isoelectric focusing	1164	11742541	4.9
+and 6.2, isoelectric focusing; and 6.4, isoelectric focusing	1164	11742541	6.0
+isoelectric focusing	1165	11742541	4.9
+and 6.2, isoelectric focusing; and 6.4, isoelectric focusing	1165	11742541	6.0
+isoelectric focusing	1166	11742541	4.9
+and 6.2, isoelectric focusing; and 6.4, isoelectric focusing	1166	11742541	6.0
+isoelectric focusing	1167	11742541	4.9
+and 6.2, isoelectric focusing; and 6.4, isoelectric focusing	1167	11742541	6.0
+isoelectric focusing	1168	11742541	4.9
+and 6.2, isoelectric focusing; and 6.4, isoelectric focusing	1168	11742541	6.0
+isoelectric focusing	1169	11742541	4.9
+and 6.2, isoelectric focusing; and 6.4, isoelectric focusing	1169	11742541	6.0
+isoelectric focusing	1170	11742541	4.9
+and 6.2, isoelectric focusing; and 6.4, isoelectric focusing	1170	11742541	6.0
+isoelectric focusing	1171	11742541	4.9
+and 6.2, isoelectric focusing; and 6.4, isoelectric focusing	1171	11742541	6.0
+calculated from amino acid sequence	1364	19115036	5.5
+calculated from amino acid sequence	1484	19115036	5.5
+calculated	1512	24265029	5.5

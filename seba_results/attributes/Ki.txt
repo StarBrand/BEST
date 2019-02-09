@@ -1,0 +1,19 @@
+Commentary	Ref	Literature(PubmedID)	Inhibitor	value
+	848	15769935	AL-1576	-999.0
+substrate: (2E,4E)-hexa-2,4-dienal, uncompetitive inhibition	848	16289176	pyrazole	-999.0
+	849	15769935	AL-1576	-999.0
+substrate: (2E,4E)-hexa-2,4-dienal, uncompetitive inhibition	849	16289176	pyrazole	-999.0
+	850	15769935	AL-1576	-999.0
+substrate: (2E,4E)-hexa-2,4-dienal, uncompetitive inhibition	850	16289176	pyrazole	-999.0
+	851	15769935	AL-1576	-999.0
+substrate: (2E,4E)-hexa-2,4-dienal, uncompetitive inhibition	851	16289176	pyrazole	-999.0
+	852	15769935	AL-1576	-999.0
+substrate: (2E,4E)-hexa-2,4-dienal, uncompetitive inhibition	852	16289176	pyrazole	-999.0
+	853	15769935	AL-1576	-999.0
+substrate: (2E,4E)-hexa-2,4-dienal, uncompetitive inhibition	853	16289176	pyrazole	-999.0
+	854	15769935	AL-1576	-999.0
+substrate: (2E,4E)-hexa-2,4-dienal, uncompetitive inhibition	854	16289176	pyrazole	-999.0
+	855	15769935	AL-1576	-999.0
+substrate: (2E,4E)-hexa-2,4-dienal, uncompetitive inhibition	855	16289176	pyrazole	-999.0
+	1510	15769935	AL-1576	-999.0
+substrate: (2E,4E)-hexa-2,4-dienal, uncompetitive inhibition	1510	16289176	pyrazole	-999.0

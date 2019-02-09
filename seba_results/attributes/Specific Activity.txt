@@ -1,0 +1,769 @@
+Commentary	Ref	Literature(PubmedID)	value
+recombinant enzyme, expressed in Escherichia coli JM109	11	11097895	1.7
+	11	11097895	560.0
+	162	4146452	0.05
+	162	4393513	0.3786
+AR3	162	6753832	0.55
+AR1	162	6753832	8.94
+	163	4146452	0.05
+	163	4393513	0.3786
+AR3	163	6753832	0.55
+AR1	163	6753832	8.94
+	164	4146452	0.05
+	164	4393513	0.3786
+AR3	164	6753832	0.55
+AR1	164	6753832	8.94
+	165	4146452	0.05
+	165	4393513	0.3786
+AR3	165	6753832	0.55
+AR1	165	6753832	8.94
+	166	4146452	0.05
+	166	4393513	0.3786
+AR3	166	6753832	0.55
+AR1	166	6753832	8.94
+	167	4146452	0.05
+	167	4393513	0.3786
+AR3	167	6753832	0.55
+AR1	167	6753832	8.94
+	168	4146452	0.05
+	168	4393513	0.3786
+AR3	168	6753832	0.55
+AR1	168	6753832	8.94
+	169	4146452	0.05
+	169	4393513	0.3786
+AR3	169	6753832	0.55
+AR1	169	6753832	8.94
+	234	1907200	1.35
+	235	1907200	1.35
+	236	1907200	1.35
+	237	1907200	1.35
+	238	1907200	1.35
+	239	1907200	1.35
+	457	744352	2.47
+	458	744352	2.47
+	459	744352	2.47
+	460	744352	2.47
+substrate ethanol, isoform ADH-1, pH 8.8, 55캜	525	0	29.7
+substrate propan-1-ol, isoform ADH-1, pH 8.8, 55캜	525	0	30.06
+substrate octan-1-ol, isoform ADH-1, pH 8.8, 55캜	525	0	34.06
+substrate pentan-1-ol, isoform ADH-1, pH 8.8, 55캜	525	0	37.32
+substrate hexan-1-ol, isoform ADH-1, pH 8.8, 55캜	525	0	40.04
+substrate octan-1-ol, isoform ADH-2, pH 8.8, 55캜	525	0	58.0
+substrate pentan-1-ol, isoform ADH-2, pH 8.8, 55캜	525	0	104.2
+substrate hexan-1-ol, isoform ADH-2, pH 8.8, 55캜	525	0	116.2
+substrate ethanol, isoform ADH-1, pH 8.8, 55캜	526	0	29.7
+substrate propan-1-ol, isoform ADH-1, pH 8.8, 55캜	526	0	30.06
+substrate octan-1-ol, isoform ADH-1, pH 8.8, 55캜	526	0	34.06
+substrate pentan-1-ol, isoform ADH-1, pH 8.8, 55캜	526	0	37.32
+substrate hexan-1-ol, isoform ADH-1, pH 8.8, 55캜	526	0	40.04
+substrate octan-1-ol, isoform ADH-2, pH 8.8, 55캜	526	0	58.0
+substrate pentan-1-ol, isoform ADH-2, pH 8.8, 55캜	526	0	104.2
+substrate hexan-1-ol, isoform ADH-2, pH 8.8, 55캜	526	0	116.2
+substrate ethanol, isoform ADH-1, pH 8.8, 55캜	527	0	29.7
+substrate propan-1-ol, isoform ADH-1, pH 8.8, 55캜	527	0	30.06
+substrate octan-1-ol, isoform ADH-1, pH 8.8, 55캜	527	0	34.06
+substrate pentan-1-ol, isoform ADH-1, pH 8.8, 55캜	527	0	37.32
+substrate hexan-1-ol, isoform ADH-1, pH 8.8, 55캜	527	0	40.04
+substrate octan-1-ol, isoform ADH-2, pH 8.8, 55캜	527	0	58.0
+substrate pentan-1-ol, isoform ADH-2, pH 8.8, 55캜	527	0	104.2
+substrate hexan-1-ol, isoform ADH-2, pH 8.8, 55캜	527	0	116.2
+	590	744352	1.5
+AR2	590	6343086	5.86
+AR1	590	6343086	19.7
+AR3	590	6343086	19.9
+AR1 and AR3	590	6343086	20.0
+	665	744352	2.47
+aldehyde reductase I	665	6753936	2.47
+pure aldehyde reductase	665	16919	14.3
+	665	16919	15.7
+aldehyde reductase II	665	6753936	29.62
+	666	744352	2.47
+aldehyde reductase I	666	6753936	2.47
+pure aldehyde reductase	666	16919	14.3
+	666	16919	15.7
+aldehyde reductase II	666	6753936	29.62
+	667	744352	2.47
+aldehyde reductase I	667	6753936	2.47
+pure aldehyde reductase	667	16919	14.3
+	667	16919	15.7
+aldehyde reductase II	667	6753936	29.62
+	668	744352	2.47
+aldehyde reductase I	668	6753936	2.47
+pure aldehyde reductase	668	16919	14.3
+	668	16919	15.7
+aldehyde reductase II	668	6753936	29.62
+	669	744352	2.47
+aldehyde reductase I	669	6753936	2.47
+pure aldehyde reductase	669	16919	14.3
+	669	16919	15.7
+aldehyde reductase II	669	6753936	29.62
+	670	744352	2.47
+aldehyde reductase I	670	6753936	2.47
+pure aldehyde reductase	670	16919	14.3
+	670	16919	15.7
+aldehyde reductase II	670	6753936	29.62
+	671	744352	2.47
+aldehyde reductase I	671	6753936	2.47
+pure aldehyde reductase	671	16919	14.3
+	671	16919	15.7
+aldehyde reductase II	671	6753936	29.62
+coexpression of formate dehydrogenase and alcohol dehydrogenase reducing methyl acetoacetate to methyl (R)-3-hydroxy butanoate with NADH, photometrically at 340 nm in a mixture of 10mM methyl acetoacetate, 250 microM NADH, 1 mM MgCl2, in 100 mM potassium phosphate buffer, pH 6.0	713	15549291	0.7
+coexpression of formate dehydrogenase and alcohol dehydrogenase, reducing methyl acetoacetate to methyl (R)-3-hydroxy butanoate with NADPH, photometrically at 340 nm in a mixture of 10 mM methyl acetoacetate, 250 microM NADPH, 1 mM MgCl2, in 100 mM potassium phosphate buffer, pH 6.0	713	15549291	1.3
+coexpression of formate dehydrogenase and alcohol dehydrogenase, reducing methyl acetoacetate to methyl (R)-3-hydroxy butanoate with NADPH, photometrically at 340 nm in a mixture of 10 mM methyl acetoacetate, 250 microM NADPH, 1 mM MgCl2, in 100 mM potassium phosphate buffer, pH 6.0	713	15549291	6.5
+cell-free protein	713	15549291	8.1
+coexpression of formate dehydrogenase and alcohol dehydrogenase reducing methyl acetoacetate to methyl (R)-3-hydroxy butanoate with NADH, photometrically at 340 nm in a mixture of 10mM methyl acetoacetate, 250 microM NADH, 1 mM MgCl2, in 100 mM potassium phosphate buffer, pH 6.0	714	15549291	0.7
+coexpression of formate dehydrogenase and alcohol dehydrogenase, reducing methyl acetoacetate to methyl (R)-3-hydroxy butanoate with NADPH, photometrically at 340 nm in a mixture of 10 mM methyl acetoacetate, 250 microM NADPH, 1 mM MgCl2, in 100 mM potassium phosphate buffer, pH 6.0	714	15549291	1.3
+coexpression of formate dehydrogenase and alcohol dehydrogenase, reducing methyl acetoacetate to methyl (R)-3-hydroxy butanoate with NADPH, photometrically at 340 nm in a mixture of 10 mM methyl acetoacetate, 250 microM NADPH, 1 mM MgCl2, in 100 mM potassium phosphate buffer, pH 6.0	714	15549291	6.5
+cell-free protein	714	15549291	8.1
+coexpression of formate dehydrogenase and alcohol dehydrogenase reducing methyl acetoacetate to methyl (R)-3-hydroxy butanoate with NADH, photometrically at 340 nm in a mixture of 10mM methyl acetoacetate, 250 microM NADH, 1 mM MgCl2, in 100 mM potassium phosphate buffer, pH 6.0	715	15549291	0.7
+coexpression of formate dehydrogenase and alcohol dehydrogenase, reducing methyl acetoacetate to methyl (R)-3-hydroxy butanoate with NADPH, photometrically at 340 nm in a mixture of 10 mM methyl acetoacetate, 250 microM NADPH, 1 mM MgCl2, in 100 mM potassium phosphate buffer, pH 6.0	715	15549291	1.3
+coexpression of formate dehydrogenase and alcohol dehydrogenase, reducing methyl acetoacetate to methyl (R)-3-hydroxy butanoate with NADPH, photometrically at 340 nm in a mixture of 10 mM methyl acetoacetate, 250 microM NADPH, 1 mM MgCl2, in 100 mM potassium phosphate buffer, pH 6.0	715	15549291	6.5
+cell-free protein	715	15549291	8.1
+highest specific activity for the reduction of decanal	791	19270127	0.085
+highest specific activity for the reduction of decanal	792	19270127	0.085
+isoform AdhA, oxidation of ethanol, cofactor NAD+, pH 8.0, 60캜	836	17318639	0.032
+isoform AdhA, reduction of acetaldehyde, cofactor NADH, pH 8.0, 60캜	836	17318639	0.049
+isoform AdhB, reduction of acetaldehyde, cofactor NADPH, pH 8.0, 60캜	836	17318639	2.9
+isoform AdhA, oxidation of ethanol, cofactor NADP+, pH 8.0, 60캜	836	17318639	11.9
+isoform AdhA, reduction of acetaldehyde, cofactor NADPH, pH 8.0, 60캜	836	17318639	50.4
+10fold higher enzymatic activity observed in kidney compared with other tissues, enzyme activity depends on the human&acute;s age; 10fold higher enzymatic activity observed in kindney compare with other tissues, enzyme activity depends on the animal�?s age, activity approaches a plateau by day 35 and does not differ between male and female mice	848	15769935	-999.0
+10fold higher enzymatic activity observed in kidney compared with other tissues, enzyme activity depends on the human&acute;s age; 10fold higher enzymatic activity observed in kindney compare with other tissues, enzyme activity depends on the animal�?s age, activity approaches a plateau by day 35 and does not differ between male and female mice	849	15769935	-999.0
+10fold higher enzymatic activity observed in kidney compared with other tissues, enzyme activity depends on the human&acute;s age; 10fold higher enzymatic activity observed in kindney compare with other tissues, enzyme activity depends on the animal�?s age, activity approaches a plateau by day 35 and does not differ between male and female mice	850	15769935	-999.0
+10fold higher enzymatic activity observed in kidney compared with other tissues, enzyme activity depends on the human&acute;s age; 10fold higher enzymatic activity observed in kindney compare with other tissues, enzyme activity depends on the animal�?s age, activity approaches a plateau by day 35 and does not differ between male and female mice	851	15769935	-999.0
+10fold higher enzymatic activity observed in kidney compared with other tissues, enzyme activity depends on the human&acute;s age; 10fold higher enzymatic activity observed in kindney compare with other tissues, enzyme activity depends on the animal�?s age, activity approaches a plateau by day 35 and does not differ between male and female mice	852	15769935	-999.0
+10fold higher enzymatic activity observed in kidney compared with other tissues, enzyme activity depends on the human&acute;s age; 10fold higher enzymatic activity observed in kindney compare with other tissues, enzyme activity depends on the animal�?s age, activity approaches a plateau by day 35 and does not differ between male and female mice	853	15769935	-999.0
+10fold higher enzymatic activity observed in kidney compared with other tissues, enzyme activity depends on the human&acute;s age; 10fold higher enzymatic activity observed in kindney compare with other tissues, enzyme activity depends on the animal�?s age, activity approaches a plateau by day 35 and does not differ between male and female mice	854	15769935	-999.0
+10fold higher enzymatic activity observed in kidney compared with other tissues, enzyme activity depends on the human&acute;s age; 10fold higher enzymatic activity observed in kindney compare with other tissues, enzyme activity depends on the animal�?s age, activity approaches a plateau by day 35 and does not differ between male and female mice	855	15769935	-999.0
+	873	11257547	0.024
+	1088	17294170	57.0
+mutant enzyme N86D/R213I, using 2-pentanol as substrate, at 30캜	1099	18452026	0.06
+mutant enzyme N86D/R213I, using 2-propanol as substrate, at 30캜; mutant enzyme N86D/R213I, using (2S,5S)-hexanediol as substrate, at 30캜	1099	18452026	0.07
+mutant enzyme K209T, using 2-hexanedione as substrate, at 30캜	1099	18452026	0.08
+mutant enzyme N86D/R213I, using 2-butanol as substrate, at 30캜; wild type enzyme, using 2-hexanedione as substrate, at 30캜	1099	18452026	0.09
+wild type enzyme, using 2-propanol as substrate, at 30캜	1099	18452026	0.11
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-hexadione as substrate, at 30캜; mutant enzyme N86D/R213I, using 2-hexanedione as substrate, at 30캜	1099	18452026	0.12
+mutant enzyme V66A/L176P/Y229H, using 2-hexanedione as substrate, at 30캜	1099	18452026	0.14
+mutant enzyme K209T, using 2-propanol as substrate, at 30캜	1099	18452026	0.15
+wild type enzyme, using 2-butanol as substrate, at 30캜	1099	18452026	0.16
+mutant enzyme T153A, using 2-propanol as substrate, at 30캜	1099	18452026	0.17
+mutant enzyme T153A, using 2-hexanedione as substrate, at 30캜	1099	18452026	0.18
+mutant enzyme V66A/L176P/Y229H, using 2-propanol as substrate, at 30캜	1099	18452026	0.19
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-propanol as substrate, at 30캜; mutant enzyme L176P, using 2-hexanedione as substrate, at 30캜	1099	18452026	0.2
+mutant enzyme T153A, using 2-butanol as substrate, at 30캜	1099	18452026	0.24
+mutant enzyme V66A/L176P/Y229H, using 2-butanol as substrate, at 30캜	1099	18452026	0.33
+mutant enzyme K209T, using 2-butanol as substrate, at 30캜	1099	18452026	0.35
+mutant enzyme L176P, using 2-propanol as substrate, at 30캜	1099	18452026	0.43
+mutant enzyme L176P, using 2-butanol as substrate, at 30캜	1099	18452026	0.57
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-butanol as substrate, at 30캜	1099	18452026	0.6
+mutant enzyme K209T, using 2-pentanol as substrate, at 30캜	1099	18452026	0.65
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using (2S,5S)-hexanediol as substrate, at 30캜	1099	18452026	0.71
+mutant enzyme L176P, using 2-pentanol as substrate, at 30캜; wild type enzyme, using pyruvaldehyde as substrate, at 30캜	1099	18452026	0.73
+mutant enzyme N86D/R213I, using pyruvaldehyde as substrate, at 30캜	1099	18452026	0.78
+mutant enzyme T153A, using 2-pentanol as substrate, at 30캜	1099	18452026	0.86
+wild type enzyme, using (2S,5S)-hexanediol as substrate, at 30캜	1099	18452026	0.91
+mutant enzyme R11L/A180V, using 2-hexanedione as substrate, at 30캜	1099	18452026	0.95
+mutant enzyme L176P, using pyruvaldehyde as substrate, at 30캜	1099	18452026	1.07
+mutant enzyme V66A/L176P/Y229H, using (2S,5S)-hexanediol as substrate, at 30캜	1099	18452026	1.09
+mutant enzyme K209T, using (2S,5S)-hexanediol as substrate, at 30캜	1099	18452026	1.1
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-pentanol as substrate, at 30캜; mutant enzyme R11L/A180V, using 2-propanol as substrate, at 30캜	1099	18452026	1.11
+mutant enzyme K209T, using pyruvaldehyde as substrate, at 30캜	1099	18452026	1.12
+mutant enzyme V66A/L176P/Y229H, using pyruvaldehyde as substrate, at 30캜	1099	18452026	1.22
+mutant enzyme L176P, using (2S,5S)-hexanediol as substrate, at 30캜	1099	18452026	1.24
+mutant enzyme V66A/L176P/Y229H, using 2-pentanol as substrate, at 30캜	1099	18452026	1.3
+mutant enzyme T153A, using (2S,5S)-hexanediol as substrate, at 30캜	1099	18452026	1.31
+wild type enzyme, using 2-pentanol as substrate, at 30캜	1099	18452026	1.47
+mutant enzyme R11L/A180V, using 2-butanol as substrate, at 30캜	1099	18452026	1.98
+mutant enzyme T153A, using pyruvaldehyde as substrate, at 30캜	1099	18452026	3.0
+mutant enzyme R11L/A180V, using (2S,5S)-hexanediol as substrate, at 30캜	1099	18452026	3.23
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using pyruvaldehyde as substrate, at 30캜	1099	18452026	3.37
+mutant enzyme R11L/A180V, using 2-pentanol as substrate, at 30캜	1099	18452026	3.47
+mutant enzyme R11L/A180V, using pyruvaldehyde as substrate, at 30캜	1099	18452026	7.97
+80캜, pH not specified in the publication	1099	9973342	72.3
+mutant enzyme N86D/R213I, using 2-pentanol as substrate, at 30캜	1100	18452026	0.06
+mutant enzyme N86D/R213I, using 2-propanol as substrate, at 30캜; mutant enzyme N86D/R213I, using (2S,5S)-hexanediol as substrate, at 30캜	1100	18452026	0.07
+mutant enzyme K209T, using 2-hexanedione as substrate, at 30캜	1100	18452026	0.08
+mutant enzyme N86D/R213I, using 2-butanol as substrate, at 30캜; wild type enzyme, using 2-hexanedione as substrate, at 30캜	1100	18452026	0.09
+wild type enzyme, using 2-propanol as substrate, at 30캜	1100	18452026	0.11
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-hexadione as substrate, at 30캜; mutant enzyme N86D/R213I, using 2-hexanedione as substrate, at 30캜	1100	18452026	0.12
+mutant enzyme V66A/L176P/Y229H, using 2-hexanedione as substrate, at 30캜	1100	18452026	0.14
+mutant enzyme K209T, using 2-propanol as substrate, at 30캜	1100	18452026	0.15
+wild type enzyme, using 2-butanol as substrate, at 30캜	1100	18452026	0.16
+mutant enzyme T153A, using 2-propanol as substrate, at 30캜	1100	18452026	0.17
+mutant enzyme T153A, using 2-hexanedione as substrate, at 30캜	1100	18452026	0.18
+mutant enzyme V66A/L176P/Y229H, using 2-propanol as substrate, at 30캜	1100	18452026	0.19
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-propanol as substrate, at 30캜; mutant enzyme L176P, using 2-hexanedione as substrate, at 30캜	1100	18452026	0.2
+mutant enzyme T153A, using 2-butanol as substrate, at 30캜	1100	18452026	0.24
+mutant enzyme V66A/L176P/Y229H, using 2-butanol as substrate, at 30캜	1100	18452026	0.33
+mutant enzyme K209T, using 2-butanol as substrate, at 30캜	1100	18452026	0.35
+mutant enzyme L176P, using 2-propanol as substrate, at 30캜	1100	18452026	0.43
+mutant enzyme L176P, using 2-butanol as substrate, at 30캜	1100	18452026	0.57
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-butanol as substrate, at 30캜	1100	18452026	0.6
+mutant enzyme K209T, using 2-pentanol as substrate, at 30캜	1100	18452026	0.65
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using (2S,5S)-hexanediol as substrate, at 30캜	1100	18452026	0.71
+mutant enzyme L176P, using 2-pentanol as substrate, at 30캜; wild type enzyme, using pyruvaldehyde as substrate, at 30캜	1100	18452026	0.73
+mutant enzyme N86D/R213I, using pyruvaldehyde as substrate, at 30캜	1100	18452026	0.78
+mutant enzyme T153A, using 2-pentanol as substrate, at 30캜	1100	18452026	0.86
+wild type enzyme, using (2S,5S)-hexanediol as substrate, at 30캜	1100	18452026	0.91
+mutant enzyme R11L/A180V, using 2-hexanedione as substrate, at 30캜	1100	18452026	0.95
+mutant enzyme L176P, using pyruvaldehyde as substrate, at 30캜	1100	18452026	1.07
+mutant enzyme V66A/L176P/Y229H, using (2S,5S)-hexanediol as substrate, at 30캜	1100	18452026	1.09
+mutant enzyme K209T, using (2S,5S)-hexanediol as substrate, at 30캜	1100	18452026	1.1
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-pentanol as substrate, at 30캜; mutant enzyme R11L/A180V, using 2-propanol as substrate, at 30캜	1100	18452026	1.11
+mutant enzyme K209T, using pyruvaldehyde as substrate, at 30캜	1100	18452026	1.12
+mutant enzyme V66A/L176P/Y229H, using pyruvaldehyde as substrate, at 30캜	1100	18452026	1.22
+mutant enzyme L176P, using (2S,5S)-hexanediol as substrate, at 30캜	1100	18452026	1.24
+mutant enzyme V66A/L176P/Y229H, using 2-pentanol as substrate, at 30캜	1100	18452026	1.3
+mutant enzyme T153A, using (2S,5S)-hexanediol as substrate, at 30캜	1100	18452026	1.31
+wild type enzyme, using 2-pentanol as substrate, at 30캜	1100	18452026	1.47
+mutant enzyme R11L/A180V, using 2-butanol as substrate, at 30캜	1100	18452026	1.98
+mutant enzyme T153A, using pyruvaldehyde as substrate, at 30캜	1100	18452026	3.0
+mutant enzyme R11L/A180V, using (2S,5S)-hexanediol as substrate, at 30캜	1100	18452026	3.23
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using pyruvaldehyde as substrate, at 30캜	1100	18452026	3.37
+mutant enzyme R11L/A180V, using 2-pentanol as substrate, at 30캜	1100	18452026	3.47
+mutant enzyme R11L/A180V, using pyruvaldehyde as substrate, at 30캜	1100	18452026	7.97
+80캜, pH not specified in the publication	1100	9973342	72.3
+mutant enzyme N86D/R213I, using 2-pentanol as substrate, at 30캜	1101	18452026	0.06
+mutant enzyme N86D/R213I, using 2-propanol as substrate, at 30캜; mutant enzyme N86D/R213I, using (2S,5S)-hexanediol as substrate, at 30캜	1101	18452026	0.07
+mutant enzyme K209T, using 2-hexanedione as substrate, at 30캜	1101	18452026	0.08
+mutant enzyme N86D/R213I, using 2-butanol as substrate, at 30캜; wild type enzyme, using 2-hexanedione as substrate, at 30캜	1101	18452026	0.09
+wild type enzyme, using 2-propanol as substrate, at 30캜	1101	18452026	0.11
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-hexadione as substrate, at 30캜; mutant enzyme N86D/R213I, using 2-hexanedione as substrate, at 30캜	1101	18452026	0.12
+mutant enzyme V66A/L176P/Y229H, using 2-hexanedione as substrate, at 30캜	1101	18452026	0.14
+mutant enzyme K209T, using 2-propanol as substrate, at 30캜	1101	18452026	0.15
+wild type enzyme, using 2-butanol as substrate, at 30캜	1101	18452026	0.16
+mutant enzyme T153A, using 2-propanol as substrate, at 30캜	1101	18452026	0.17
+mutant enzyme T153A, using 2-hexanedione as substrate, at 30캜	1101	18452026	0.18
+mutant enzyme V66A/L176P/Y229H, using 2-propanol as substrate, at 30캜	1101	18452026	0.19
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-propanol as substrate, at 30캜; mutant enzyme L176P, using 2-hexanedione as substrate, at 30캜	1101	18452026	0.2
+mutant enzyme T153A, using 2-butanol as substrate, at 30캜	1101	18452026	0.24
+mutant enzyme V66A/L176P/Y229H, using 2-butanol as substrate, at 30캜	1101	18452026	0.33
+mutant enzyme K209T, using 2-butanol as substrate, at 30캜	1101	18452026	0.35
+mutant enzyme L176P, using 2-propanol as substrate, at 30캜	1101	18452026	0.43
+mutant enzyme L176P, using 2-butanol as substrate, at 30캜	1101	18452026	0.57
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-butanol as substrate, at 30캜	1101	18452026	0.6
+mutant enzyme K209T, using 2-pentanol as substrate, at 30캜	1101	18452026	0.65
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using (2S,5S)-hexanediol as substrate, at 30캜	1101	18452026	0.71
+mutant enzyme L176P, using 2-pentanol as substrate, at 30캜; wild type enzyme, using pyruvaldehyde as substrate, at 30캜	1101	18452026	0.73
+mutant enzyme N86D/R213I, using pyruvaldehyde as substrate, at 30캜	1101	18452026	0.78
+mutant enzyme T153A, using 2-pentanol as substrate, at 30캜	1101	18452026	0.86
+wild type enzyme, using (2S,5S)-hexanediol as substrate, at 30캜	1101	18452026	0.91
+mutant enzyme R11L/A180V, using 2-hexanedione as substrate, at 30캜	1101	18452026	0.95
+mutant enzyme L176P, using pyruvaldehyde as substrate, at 30캜	1101	18452026	1.07
+mutant enzyme V66A/L176P/Y229H, using (2S,5S)-hexanediol as substrate, at 30캜	1101	18452026	1.09
+mutant enzyme K209T, using (2S,5S)-hexanediol as substrate, at 30캜	1101	18452026	1.1
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-pentanol as substrate, at 30캜; mutant enzyme R11L/A180V, using 2-propanol as substrate, at 30캜	1101	18452026	1.11
+mutant enzyme K209T, using pyruvaldehyde as substrate, at 30캜	1101	18452026	1.12
+mutant enzyme V66A/L176P/Y229H, using pyruvaldehyde as substrate, at 30캜	1101	18452026	1.22
+mutant enzyme L176P, using (2S,5S)-hexanediol as substrate, at 30캜	1101	18452026	1.24
+mutant enzyme V66A/L176P/Y229H, using 2-pentanol as substrate, at 30캜	1101	18452026	1.3
+mutant enzyme T153A, using (2S,5S)-hexanediol as substrate, at 30캜	1101	18452026	1.31
+wild type enzyme, using 2-pentanol as substrate, at 30캜	1101	18452026	1.47
+mutant enzyme R11L/A180V, using 2-butanol as substrate, at 30캜	1101	18452026	1.98
+mutant enzyme T153A, using pyruvaldehyde as substrate, at 30캜	1101	18452026	3.0
+mutant enzyme R11L/A180V, using (2S,5S)-hexanediol as substrate, at 30캜	1101	18452026	3.23
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using pyruvaldehyde as substrate, at 30캜	1101	18452026	3.37
+mutant enzyme R11L/A180V, using 2-pentanol as substrate, at 30캜	1101	18452026	3.47
+mutant enzyme R11L/A180V, using pyruvaldehyde as substrate, at 30캜	1101	18452026	7.97
+80캜, pH not specified in the publication	1101	9973342	72.3
+mutant enzyme N86D/R213I, using 2-pentanol as substrate, at 30캜	1102	18452026	0.06
+mutant enzyme N86D/R213I, using 2-propanol as substrate, at 30캜; mutant enzyme N86D/R213I, using (2S,5S)-hexanediol as substrate, at 30캜	1102	18452026	0.07
+mutant enzyme K209T, using 2-hexanedione as substrate, at 30캜	1102	18452026	0.08
+mutant enzyme N86D/R213I, using 2-butanol as substrate, at 30캜; wild type enzyme, using 2-hexanedione as substrate, at 30캜	1102	18452026	0.09
+wild type enzyme, using 2-propanol as substrate, at 30캜	1102	18452026	0.11
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-hexadione as substrate, at 30캜; mutant enzyme N86D/R213I, using 2-hexanedione as substrate, at 30캜	1102	18452026	0.12
+mutant enzyme V66A/L176P/Y229H, using 2-hexanedione as substrate, at 30캜	1102	18452026	0.14
+mutant enzyme K209T, using 2-propanol as substrate, at 30캜	1102	18452026	0.15
+wild type enzyme, using 2-butanol as substrate, at 30캜	1102	18452026	0.16
+mutant enzyme T153A, using 2-propanol as substrate, at 30캜	1102	18452026	0.17
+mutant enzyme T153A, using 2-hexanedione as substrate, at 30캜	1102	18452026	0.18
+mutant enzyme V66A/L176P/Y229H, using 2-propanol as substrate, at 30캜	1102	18452026	0.19
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-propanol as substrate, at 30캜; mutant enzyme L176P, using 2-hexanedione as substrate, at 30캜	1102	18452026	0.2
+mutant enzyme T153A, using 2-butanol as substrate, at 30캜	1102	18452026	0.24
+mutant enzyme V66A/L176P/Y229H, using 2-butanol as substrate, at 30캜	1102	18452026	0.33
+mutant enzyme K209T, using 2-butanol as substrate, at 30캜	1102	18452026	0.35
+mutant enzyme L176P, using 2-propanol as substrate, at 30캜	1102	18452026	0.43
+mutant enzyme L176P, using 2-butanol as substrate, at 30캜	1102	18452026	0.57
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-butanol as substrate, at 30캜	1102	18452026	0.6
+mutant enzyme K209T, using 2-pentanol as substrate, at 30캜	1102	18452026	0.65
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using (2S,5S)-hexanediol as substrate, at 30캜	1102	18452026	0.71
+mutant enzyme L176P, using 2-pentanol as substrate, at 30캜; wild type enzyme, using pyruvaldehyde as substrate, at 30캜	1102	18452026	0.73
+mutant enzyme N86D/R213I, using pyruvaldehyde as substrate, at 30캜	1102	18452026	0.78
+mutant enzyme T153A, using 2-pentanol as substrate, at 30캜	1102	18452026	0.86
+wild type enzyme, using (2S,5S)-hexanediol as substrate, at 30캜	1102	18452026	0.91
+mutant enzyme R11L/A180V, using 2-hexanedione as substrate, at 30캜	1102	18452026	0.95
+mutant enzyme L176P, using pyruvaldehyde as substrate, at 30캜	1102	18452026	1.07
+mutant enzyme V66A/L176P/Y229H, using (2S,5S)-hexanediol as substrate, at 30캜	1102	18452026	1.09
+mutant enzyme K209T, using (2S,5S)-hexanediol as substrate, at 30캜	1102	18452026	1.1
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-pentanol as substrate, at 30캜; mutant enzyme R11L/A180V, using 2-propanol as substrate, at 30캜	1102	18452026	1.11
+mutant enzyme K209T, using pyruvaldehyde as substrate, at 30캜	1102	18452026	1.12
+mutant enzyme V66A/L176P/Y229H, using pyruvaldehyde as substrate, at 30캜	1102	18452026	1.22
+mutant enzyme L176P, using (2S,5S)-hexanediol as substrate, at 30캜	1102	18452026	1.24
+mutant enzyme V66A/L176P/Y229H, using 2-pentanol as substrate, at 30캜	1102	18452026	1.3
+mutant enzyme T153A, using (2S,5S)-hexanediol as substrate, at 30캜	1102	18452026	1.31
+wild type enzyme, using 2-pentanol as substrate, at 30캜	1102	18452026	1.47
+mutant enzyme R11L/A180V, using 2-butanol as substrate, at 30캜	1102	18452026	1.98
+mutant enzyme T153A, using pyruvaldehyde as substrate, at 30캜	1102	18452026	3.0
+mutant enzyme R11L/A180V, using (2S,5S)-hexanediol as substrate, at 30캜	1102	18452026	3.23
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using pyruvaldehyde as substrate, at 30캜	1102	18452026	3.37
+mutant enzyme R11L/A180V, using 2-pentanol as substrate, at 30캜	1102	18452026	3.47
+mutant enzyme R11L/A180V, using pyruvaldehyde as substrate, at 30캜	1102	18452026	7.97
+80캜, pH not specified in the publication	1102	9973342	72.3
+liver enzyme	1127	6416297	5.9
+brain enzyme	1127	6416297	6.0
+	1127	744352	6.53
+	1127	2500152	6.84
+high-Km aldehyde reductase from brain	1127	6798966	9.59
+	1127	6416297	11.02
+	1127	6343086	20.0
+p-nitrobenzaldehyde as substrate	1127	3084464	20.0
+hexadecanal as substrate	1127	3084464	211.0
+liver enzyme	1128	6416297	5.9
+brain enzyme	1128	6416297	6.0
+	1128	744352	6.53
+	1128	2500152	6.84
+high-Km aldehyde reductase from brain	1128	6798966	9.59
+	1128	6416297	11.02
+	1128	6343086	20.0
+p-nitrobenzaldehyde as substrate	1128	3084464	20.0
+hexadecanal as substrate	1128	3084464	211.0
+liver enzyme	1129	6416297	5.9
+brain enzyme	1129	6416297	6.0
+	1129	744352	6.53
+	1129	2500152	6.84
+high-Km aldehyde reductase from brain	1129	6798966	9.59
+	1129	6416297	11.02
+	1129	6343086	20.0
+p-nitrobenzaldehyde as substrate	1129	3084464	20.0
+hexadecanal as substrate	1129	3084464	211.0
+liver enzyme	1130	6416297	5.9
+brain enzyme	1130	6416297	6.0
+	1130	744352	6.53
+	1130	2500152	6.84
+high-Km aldehyde reductase from brain	1130	6798966	9.59
+	1130	6416297	11.02
+	1130	6343086	20.0
+p-nitrobenzaldehyde as substrate	1130	3084464	20.0
+hexadecanal as substrate	1130	3084464	211.0
+liver enzyme	1131	6416297	5.9
+brain enzyme	1131	6416297	6.0
+	1131	744352	6.53
+	1131	2500152	6.84
+high-Km aldehyde reductase from brain	1131	6798966	9.59
+	1131	6416297	11.02
+	1131	6343086	20.0
+p-nitrobenzaldehyde as substrate	1131	3084464	20.0
+hexadecanal as substrate	1131	3084464	211.0
+liver enzyme	1132	6416297	5.9
+brain enzyme	1132	6416297	6.0
+	1132	744352	6.53
+	1132	2500152	6.84
+high-Km aldehyde reductase from brain	1132	6798966	9.59
+	1132	6416297	11.02
+	1132	6343086	20.0
+p-nitrobenzaldehyde as substrate	1132	3084464	20.0
+hexadecanal as substrate	1132	3084464	211.0
+with 4-methoxybenzaldehyde as substrate	1162	19577617	0.27
+with 5-(hydroxymethyl)furan-2-carbaldehyde as substrate	1162	19577617	0.58
+with acetaldehyde as substrate	1162	19577617	0.9
+with trans-2-nonenaldehyde as substrate	1162	19577617	0.99
+	1162	744352	1.09
+with cinnamic aldehyde as substrate	1162	19577617	1.28
+with benzoic aldehyde as substrate	1162	19577617	1.31
+with octanaldehyde as substrate	1162	19577617	3.63
+with heptanaldehyde as substrate	1162	19577617	3.73
+with phenylacetaldehyde as substrate	1162	19577617	3.97
+with with furan-2-carbaldehyde as substrate	1162	19577617	4.19
+with valeraldehyde as substrate	1162	19577617	4.99
+with butyraldehyde as substrate	1162	19577617	6.34
+with propionaldehyde as substrate	1162	19577617	6.41
+with hexanaldehyde as substrate	1162	19577617	7.67
+	1162	9327572	61.6
+pH 7.0, 25캜	1162	11742541	90.0
+25캜, pH 7.0	1162	11742541	183.0
+with 4-methoxybenzaldehyde as substrate	1163	19577617	0.27
+with 5-(hydroxymethyl)furan-2-carbaldehyde as substrate	1163	19577617	0.58
+with acetaldehyde as substrate	1163	19577617	0.9
+with trans-2-nonenaldehyde as substrate	1163	19577617	0.99
+	1163	744352	1.09
+with cinnamic aldehyde as substrate	1163	19577617	1.28
+with benzoic aldehyde as substrate	1163	19577617	1.31
+with octanaldehyde as substrate	1163	19577617	3.63
+with heptanaldehyde as substrate	1163	19577617	3.73
+with phenylacetaldehyde as substrate	1163	19577617	3.97
+with with furan-2-carbaldehyde as substrate	1163	19577617	4.19
+with valeraldehyde as substrate	1163	19577617	4.99
+with butyraldehyde as substrate	1163	19577617	6.34
+with propionaldehyde as substrate	1163	19577617	6.41
+with hexanaldehyde as substrate	1163	19577617	7.67
+	1163	9327572	61.6
+pH 7.0, 25캜	1163	11742541	90.0
+25캜, pH 7.0	1163	11742541	183.0
+with 4-methoxybenzaldehyde as substrate	1164	19577617	0.27
+with 5-(hydroxymethyl)furan-2-carbaldehyde as substrate	1164	19577617	0.58
+with acetaldehyde as substrate	1164	19577617	0.9
+with trans-2-nonenaldehyde as substrate	1164	19577617	0.99
+	1164	744352	1.09
+with cinnamic aldehyde as substrate	1164	19577617	1.28
+with benzoic aldehyde as substrate	1164	19577617	1.31
+with octanaldehyde as substrate	1164	19577617	3.63
+with heptanaldehyde as substrate	1164	19577617	3.73
+with phenylacetaldehyde as substrate	1164	19577617	3.97
+with with furan-2-carbaldehyde as substrate	1164	19577617	4.19
+with valeraldehyde as substrate	1164	19577617	4.99
+with butyraldehyde as substrate	1164	19577617	6.34
+with propionaldehyde as substrate	1164	19577617	6.41
+with hexanaldehyde as substrate	1164	19577617	7.67
+	1164	9327572	61.6
+pH 7.0, 25캜	1164	11742541	90.0
+25캜, pH 7.0	1164	11742541	183.0
+with 4-methoxybenzaldehyde as substrate	1165	19577617	0.27
+with 5-(hydroxymethyl)furan-2-carbaldehyde as substrate	1165	19577617	0.58
+with acetaldehyde as substrate	1165	19577617	0.9
+with trans-2-nonenaldehyde as substrate	1165	19577617	0.99
+	1165	744352	1.09
+with cinnamic aldehyde as substrate	1165	19577617	1.28
+with benzoic aldehyde as substrate	1165	19577617	1.31
+with octanaldehyde as substrate	1165	19577617	3.63
+with heptanaldehyde as substrate	1165	19577617	3.73
+with phenylacetaldehyde as substrate	1165	19577617	3.97
+with with furan-2-carbaldehyde as substrate	1165	19577617	4.19
+with valeraldehyde as substrate	1165	19577617	4.99
+with butyraldehyde as substrate	1165	19577617	6.34
+with propionaldehyde as substrate	1165	19577617	6.41
+with hexanaldehyde as substrate	1165	19577617	7.67
+	1165	9327572	61.6
+pH 7.0, 25캜	1165	11742541	90.0
+25캜, pH 7.0	1165	11742541	183.0
+with 4-methoxybenzaldehyde as substrate	1166	19577617	0.27
+with 5-(hydroxymethyl)furan-2-carbaldehyde as substrate	1166	19577617	0.58
+with acetaldehyde as substrate	1166	19577617	0.9
+with trans-2-nonenaldehyde as substrate	1166	19577617	0.99
+	1166	744352	1.09
+with cinnamic aldehyde as substrate	1166	19577617	1.28
+with benzoic aldehyde as substrate	1166	19577617	1.31
+with octanaldehyde as substrate	1166	19577617	3.63
+with heptanaldehyde as substrate	1166	19577617	3.73
+with phenylacetaldehyde as substrate	1166	19577617	3.97
+with with furan-2-carbaldehyde as substrate	1166	19577617	4.19
+with valeraldehyde as substrate	1166	19577617	4.99
+with butyraldehyde as substrate	1166	19577617	6.34
+with propionaldehyde as substrate	1166	19577617	6.41
+with hexanaldehyde as substrate	1166	19577617	7.67
+	1166	9327572	61.6
+pH 7.0, 25캜	1166	11742541	90.0
+25캜, pH 7.0	1166	11742541	183.0
+with 4-methoxybenzaldehyde as substrate	1167	19577617	0.27
+with 5-(hydroxymethyl)furan-2-carbaldehyde as substrate	1167	19577617	0.58
+with acetaldehyde as substrate	1167	19577617	0.9
+with trans-2-nonenaldehyde as substrate	1167	19577617	0.99
+	1167	744352	1.09
+with cinnamic aldehyde as substrate	1167	19577617	1.28
+with benzoic aldehyde as substrate	1167	19577617	1.31
+with octanaldehyde as substrate	1167	19577617	3.63
+with heptanaldehyde as substrate	1167	19577617	3.73
+with phenylacetaldehyde as substrate	1167	19577617	3.97
+with with furan-2-carbaldehyde as substrate	1167	19577617	4.19
+with valeraldehyde as substrate	1167	19577617	4.99
+with butyraldehyde as substrate	1167	19577617	6.34
+with propionaldehyde as substrate	1167	19577617	6.41
+with hexanaldehyde as substrate	1167	19577617	7.67
+	1167	9327572	61.6
+pH 7.0, 25캜	1167	11742541	90.0
+25캜, pH 7.0	1167	11742541	183.0
+with 4-methoxybenzaldehyde as substrate	1168	19577617	0.27
+with 5-(hydroxymethyl)furan-2-carbaldehyde as substrate	1168	19577617	0.58
+with acetaldehyde as substrate	1168	19577617	0.9
+with trans-2-nonenaldehyde as substrate	1168	19577617	0.99
+	1168	744352	1.09
+with cinnamic aldehyde as substrate	1168	19577617	1.28
+with benzoic aldehyde as substrate	1168	19577617	1.31
+with octanaldehyde as substrate	1168	19577617	3.63
+with heptanaldehyde as substrate	1168	19577617	3.73
+with phenylacetaldehyde as substrate	1168	19577617	3.97
+with with furan-2-carbaldehyde as substrate	1168	19577617	4.19
+with valeraldehyde as substrate	1168	19577617	4.99
+with butyraldehyde as substrate	1168	19577617	6.34
+with propionaldehyde as substrate	1168	19577617	6.41
+with hexanaldehyde as substrate	1168	19577617	7.67
+	1168	9327572	61.6
+pH 7.0, 25캜	1168	11742541	90.0
+25캜, pH 7.0	1168	11742541	183.0
+with 4-methoxybenzaldehyde as substrate	1169	19577617	0.27
+with 5-(hydroxymethyl)furan-2-carbaldehyde as substrate	1169	19577617	0.58
+with acetaldehyde as substrate	1169	19577617	0.9
+with trans-2-nonenaldehyde as substrate	1169	19577617	0.99
+	1169	744352	1.09
+with cinnamic aldehyde as substrate	1169	19577617	1.28
+with benzoic aldehyde as substrate	1169	19577617	1.31
+with octanaldehyde as substrate	1169	19577617	3.63
+with heptanaldehyde as substrate	1169	19577617	3.73
+with phenylacetaldehyde as substrate	1169	19577617	3.97
+with with furan-2-carbaldehyde as substrate	1169	19577617	4.19
+with valeraldehyde as substrate	1169	19577617	4.99
+with butyraldehyde as substrate	1169	19577617	6.34
+with propionaldehyde as substrate	1169	19577617	6.41
+with hexanaldehyde as substrate	1169	19577617	7.67
+	1169	9327572	61.6
+pH 7.0, 25캜	1169	11742541	90.0
+25캜, pH 7.0	1169	11742541	183.0
+with 4-methoxybenzaldehyde as substrate	1170	19577617	0.27
+with 5-(hydroxymethyl)furan-2-carbaldehyde as substrate	1170	19577617	0.58
+with acetaldehyde as substrate	1170	19577617	0.9
+with trans-2-nonenaldehyde as substrate	1170	19577617	0.99
+	1170	744352	1.09
+with cinnamic aldehyde as substrate	1170	19577617	1.28
+with benzoic aldehyde as substrate	1170	19577617	1.31
+with octanaldehyde as substrate	1170	19577617	3.63
+with heptanaldehyde as substrate	1170	19577617	3.73
+with phenylacetaldehyde as substrate	1170	19577617	3.97
+with with furan-2-carbaldehyde as substrate	1170	19577617	4.19
+with valeraldehyde as substrate	1170	19577617	4.99
+with butyraldehyde as substrate	1170	19577617	6.34
+with propionaldehyde as substrate	1170	19577617	6.41
+with hexanaldehyde as substrate	1170	19577617	7.67
+	1170	9327572	61.6
+pH 7.0, 25캜	1170	11742541	90.0
+25캜, pH 7.0	1170	11742541	183.0
+with 4-methoxybenzaldehyde as substrate	1171	19577617	0.27
+with 5-(hydroxymethyl)furan-2-carbaldehyde as substrate	1171	19577617	0.58
+with acetaldehyde as substrate	1171	19577617	0.9
+with trans-2-nonenaldehyde as substrate	1171	19577617	0.99
+	1171	744352	1.09
+with cinnamic aldehyde as substrate	1171	19577617	1.28
+with benzoic aldehyde as substrate	1171	19577617	1.31
+with octanaldehyde as substrate	1171	19577617	3.63
+with heptanaldehyde as substrate	1171	19577617	3.73
+with phenylacetaldehyde as substrate	1171	19577617	3.97
+with with furan-2-carbaldehyde as substrate	1171	19577617	4.19
+with valeraldehyde as substrate	1171	19577617	4.99
+with butyraldehyde as substrate	1171	19577617	6.34
+with propionaldehyde as substrate	1171	19577617	6.41
+with hexanaldehyde as substrate	1171	19577617	7.67
+	1171	9327572	61.6
+pH 7.0, 25캜	1171	11742541	90.0
+25캜, pH 7.0	1171	11742541	183.0
+substrate formaldehyde, cofactor NADH, pH 7.2, 30캜	1201	23912116	1.11
+substrate formaldehyde, cofactor NADPH, pH 7.2, 30캜	1201	23912116	1.27
+substrate acetaldehyde, cofactor NADPH, pH 7.2, 30캜	1201	23912116	12.22
+substrate acetaldehyde, cofactor NADH, pH 7.2, 30캜	1201	23912116	15.56
+substrate formaldehyde, cofactor NADH, pH 7.2, 30캜	1202	23912116	1.11
+substrate formaldehyde, cofactor NADPH, pH 7.2, 30캜	1202	23912116	1.27
+substrate acetaldehyde, cofactor NADPH, pH 7.2, 30캜	1202	23912116	12.22
+substrate acetaldehyde, cofactor NADH, pH 7.2, 30캜	1202	23912116	15.56
+activity of ALR in Escherichia coli M15, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1256	15703875	0.19
+activiy of ALR in Sporobolomyces salmonicolor, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1256	15703875	0.42
+activity of ALR in Escherichia coli M15, the enzyme activity is fifteen times higher than thatof Sporobolomyces salmonicolor ZJUB 105	1256	16109633	6.48
+activiy of ALR in Eschericher coli M15 with the plasmid pQE30-alr0307, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1256	15703875	6.57
+	1256	0	81.7
+activity of ALR in Escherichia coli M15, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1257	15703875	0.19
+activiy of ALR in Sporobolomyces salmonicolor, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1257	15703875	0.42
+activity of ALR in Escherichia coli M15, the enzyme activity is fifteen times higher than thatof Sporobolomyces salmonicolor ZJUB 105	1257	16109633	6.48
+activiy of ALR in Eschericher coli M15 with the plasmid pQE30-alr0307, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1257	15703875	6.57
+	1257	0	81.7
+activity of ALR in Escherichia coli M15, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1258	15703875	0.19
+activiy of ALR in Sporobolomyces salmonicolor, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1258	15703875	0.42
+activity of ALR in Escherichia coli M15, the enzyme activity is fifteen times higher than thatof Sporobolomyces salmonicolor ZJUB 105	1258	16109633	6.48
+activiy of ALR in Eschericher coli M15 with the plasmid pQE30-alr0307, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1258	15703875	6.57
+	1258	0	81.7
+activity of ALR in Escherichia coli M15, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1259	15703875	0.19
+activiy of ALR in Sporobolomyces salmonicolor, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1259	15703875	0.42
+activity of ALR in Escherichia coli M15, the enzyme activity is fifteen times higher than thatof Sporobolomyces salmonicolor ZJUB 105	1259	16109633	6.48
+activiy of ALR in Eschericher coli M15 with the plasmid pQE30-alr0307, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1259	15703875	6.57
+	1259	0	81.7
+activity of ALR in Escherichia coli M15, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1260	15703875	0.19
+activiy of ALR in Sporobolomyces salmonicolor, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1260	15703875	0.42
+activity of ALR in Escherichia coli M15, the enzyme activity is fifteen times higher than thatof Sporobolomyces salmonicolor ZJUB 105	1260	16109633	6.48
+activiy of ALR in Eschericher coli M15 with the plasmid pQE30-alr0307, pH 6.5, assay mixture including potassium phosphate buffer, NADPH and p-nitrobenzaldehyde	1260	15703875	6.57
+	1260	0	81.7
+low-Km reductase	1293	4146452	0.008
+high-Km reductase	1293	4146452	0.34
+	1293	744352	1.07
+	1293	235531	1.7
+	1293	6819141	2.5
+pyridine 3-aldehyde as substrate	1293	6819141	4.8
+	1293	4402936	17.1
+	1293	3514645	18.8
+	1293	7016111	21.0
+	1293	6989609	35.0
+low-Km reductase	1294	4146452	0.008
+high-Km reductase	1294	4146452	0.34
+	1294	744352	1.07
+	1294	235531	1.7
+	1294	6819141	2.5
+pyridine 3-aldehyde as substrate	1294	6819141	4.8
+	1294	4402936	17.1
+	1294	3514645	18.8
+	1294	7016111	21.0
+	1294	6989609	35.0
+low-Km reductase	1295	4146452	0.008
+high-Km reductase	1295	4146452	0.34
+	1295	744352	1.07
+	1295	235531	1.7
+	1295	6819141	2.5
+pyridine 3-aldehyde as substrate	1295	6819141	4.8
+	1295	4402936	17.1
+	1295	3514645	18.8
+	1295	7016111	21.0
+	1295	6989609	35.0
+low-Km reductase	1296	4146452	0.008
+high-Km reductase	1296	4146452	0.34
+	1296	744352	1.07
+	1296	235531	1.7
+	1296	6819141	2.5
+pyridine 3-aldehyde as substrate	1296	6819141	4.8
+	1296	4402936	17.1
+	1296	3514645	18.8
+	1296	7016111	21.0
+	1296	6989609	35.0
+low-Km reductase	1297	4146452	0.008
+high-Km reductase	1297	4146452	0.34
+	1297	744352	1.07
+	1297	235531	1.7
+	1297	6819141	2.5
+pyridine 3-aldehyde as substrate	1297	6819141	4.8
+	1297	4402936	17.1
+	1297	3514645	18.8
+	1297	7016111	21.0
+	1297	6989609	35.0
+low-Km reductase	1298	4146452	0.008
+high-Km reductase	1298	4146452	0.34
+	1298	744352	1.07
+	1298	235531	1.7
+	1298	6819141	2.5
+pyridine 3-aldehyde as substrate	1298	6819141	4.8
+	1298	4402936	17.1
+	1298	3514645	18.8
+	1298	7016111	21.0
+	1298	6989609	35.0
+low-Km reductase	1299	4146452	0.008
+high-Km reductase	1299	4146452	0.34
+	1299	744352	1.07
+	1299	235531	1.7
+	1299	6819141	2.5
+pyridine 3-aldehyde as substrate	1299	6819141	4.8
+	1299	4402936	17.1
+	1299	3514645	18.8
+	1299	7016111	21.0
+	1299	6989609	35.0
+low-Km reductase	1300	4146452	0.008
+high-Km reductase	1300	4146452	0.34
+	1300	744352	1.07
+	1300	235531	1.7
+	1300	6819141	2.5
+pyridine 3-aldehyde as substrate	1300	6819141	4.8
+	1300	4402936	17.1
+	1300	3514645	18.8
+	1300	7016111	21.0
+	1300	6989609	35.0
+2� Adh	1344	8068002	69.0
+1� Adh	1344	8068002	140.0
+2� Adh	1345	8068002	69.0
+1� Adh	1345	8068002	140.0
+2� Adh	1346	8068002	69.0
+1� Adh	1346	8068002	140.0
+native enzyme	1355	10491136	6.66
+recombinant enzyme	1355	10491136	24.0
+	1357	8135516	31.1
+	1358	8135516	31.1
+	1364	9209068	3.2
+native enzyme from cell-free extract, in 100 mM EPPS buffer (pH 8.8)	1364	19115036	5.6
+recombinant enzyme from cell-free extract, in 100 mM EPPS buffer (pH 8.8)	1364	19115036	6.8
+recombinant enzyme after 7.8fold purification, in 100 mM EPPS buffer (pH 8.8)	1364	19115036	52.8
+native enzyme after 10.1fold purification, in 100 mM EPPS buffer (pH 8.8)	1364	19115036	57.0
+	1408	2663637	2.25
+	1409	2663637	2.25
+	1410	2663637	2.25
+	1411	2663637	2.25
+	1412	2663637	2.25
+891 nkat/mg	1435	9952458	-999.0
+891 nkat/mg	1436	9952458	-999.0
+substrate formaldehyde, cofactor NADH, pH 7.2, 30캜	1477	23912116	1.11
+substrate formaldehyde, cofactor NADPH, pH 7.2, 30캜	1477	23912116	1.27
+substrate acetaldehyde, cofactor NADPH, pH 7.2, 30캜	1477	23912116	12.22
+substrate acetaldehyde, cofactor NADH, pH 7.2, 30캜	1477	23912116	15.56
+substrate formaldehyde, cofactor NADH, pH 7.2, 30캜	1479	23912116	1.11
+substrate formaldehyde, cofactor NADPH, pH 7.2, 30캜	1479	23912116	1.27
+substrate acetaldehyde, cofactor NADPH, pH 7.2, 30캜	1479	23912116	12.22
+substrate acetaldehyde, cofactor NADH, pH 7.2, 30캜	1479	23912116	15.56
+	1484	9209068	3.2
+native enzyme from cell-free extract, in 100 mM EPPS buffer (pH 8.8)	1484	19115036	5.6
+recombinant enzyme from cell-free extract, in 100 mM EPPS buffer (pH 8.8)	1484	19115036	6.8
+recombinant enzyme after 7.8fold purification, in 100 mM EPPS buffer (pH 8.8)	1484	19115036	52.8
+native enzyme after 10.1fold purification, in 100 mM EPPS buffer (pH 8.8)	1484	19115036	57.0
+mutant enzyme N86D/R213I, using 2-pentanol as substrate, at 30캜	1492	18452026	0.06
+mutant enzyme N86D/R213I, using 2-propanol as substrate, at 30캜; mutant enzyme N86D/R213I, using (2S,5S)-hexanediol as substrate, at 30캜	1492	18452026	0.07
+mutant enzyme K209T, using 2-hexanedione as substrate, at 30캜	1492	18452026	0.08
+mutant enzyme N86D/R213I, using 2-butanol as substrate, at 30캜; wild type enzyme, using 2-hexanedione as substrate, at 30캜	1492	18452026	0.09
+wild type enzyme, using 2-propanol as substrate, at 30캜	1492	18452026	0.11
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-hexadione as substrate, at 30캜; mutant enzyme N86D/R213I, using 2-hexanedione as substrate, at 30캜	1492	18452026	0.12
+mutant enzyme V66A/L176P/Y229H, using 2-hexanedione as substrate, at 30캜	1492	18452026	0.14
+mutant enzyme K209T, using 2-propanol as substrate, at 30캜	1492	18452026	0.15
+wild type enzyme, using 2-butanol as substrate, at 30캜	1492	18452026	0.16
+mutant enzyme T153A, using 2-propanol as substrate, at 30캜	1492	18452026	0.17
+mutant enzyme T153A, using 2-hexanedione as substrate, at 30캜	1492	18452026	0.18
+mutant enzyme V66A/L176P/Y229H, using 2-propanol as substrate, at 30캜	1492	18452026	0.19
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-propanol as substrate, at 30캜; mutant enzyme L176P, using 2-hexanedione as substrate, at 30캜	1492	18452026	0.2
+mutant enzyme T153A, using 2-butanol as substrate, at 30캜	1492	18452026	0.24
+mutant enzyme V66A/L176P/Y229H, using 2-butanol as substrate, at 30캜	1492	18452026	0.33
+mutant enzyme K209T, using 2-butanol as substrate, at 30캜	1492	18452026	0.35
+mutant enzyme L176P, using 2-propanol as substrate, at 30캜	1492	18452026	0.43
+mutant enzyme L176P, using 2-butanol as substrate, at 30캜	1492	18452026	0.57
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-butanol as substrate, at 30캜	1492	18452026	0.6
+mutant enzyme K209T, using 2-pentanol as substrate, at 30캜	1492	18452026	0.65
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using (2S,5S)-hexanediol as substrate, at 30캜	1492	18452026	0.71
+mutant enzyme L176P, using 2-pentanol as substrate, at 30캜; wild type enzyme, using pyruvaldehyde as substrate, at 30캜	1492	18452026	0.73
+mutant enzyme N86D/R213I, using pyruvaldehyde as substrate, at 30캜	1492	18452026	0.78
+mutant enzyme T153A, using 2-pentanol as substrate, at 30캜	1492	18452026	0.86
+wild type enzyme, using (2S,5S)-hexanediol as substrate, at 30캜	1492	18452026	0.91
+mutant enzyme R11L/A180V, using 2-hexanedione as substrate, at 30캜	1492	18452026	0.95
+mutant enzyme L176P, using pyruvaldehyde as substrate, at 30캜	1492	18452026	1.07
+mutant enzyme V66A/L176P/Y229H, using (2S,5S)-hexanediol as substrate, at 30캜	1492	18452026	1.09
+mutant enzyme K209T, using (2S,5S)-hexanediol as substrate, at 30캜	1492	18452026	1.1
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using 2-pentanol as substrate, at 30캜; mutant enzyme R11L/A180V, using 2-propanol as substrate, at 30캜	1492	18452026	1.11
+mutant enzyme K209T, using pyruvaldehyde as substrate, at 30캜	1492	18452026	1.12
+mutant enzyme V66A/L176P/Y229H, using pyruvaldehyde as substrate, at 30캜	1492	18452026	1.22
+mutant enzyme L176P, using (2S,5S)-hexanediol as substrate, at 30캜	1492	18452026	1.24
+mutant enzyme V66A/L176P/Y229H, using 2-pentanol as substrate, at 30캜	1492	18452026	1.3
+mutant enzyme T153A, using (2S,5S)-hexanediol as substrate, at 30캜	1492	18452026	1.31
+wild type enzyme, using 2-pentanol as substrate, at 30캜	1492	18452026	1.47
+mutant enzyme R11L/A180V, using 2-butanol as substrate, at 30캜	1492	18452026	1.98
+mutant enzyme T153A, using pyruvaldehyde as substrate, at 30캜	1492	18452026	3.0
+mutant enzyme R11L/A180V, using (2S,5S)-hexanediol as substrate, at 30캜	1492	18452026	3.23
+mutant enzyme A18P/K40N/Q165H/D182H/E202G/R219M, using pyruvaldehyde as substrate, at 30캜	1492	18452026	3.37
+mutant enzyme R11L/A180V, using 2-pentanol as substrate, at 30캜	1492	18452026	3.47
+mutant enzyme R11L/A180V, using pyruvaldehyde as substrate, at 30캜	1492	18452026	7.97
+80캜, pH not specified in the publication	1492	9973342	72.3
+liver enzyme	1493	6416297	5.9
+brain enzyme	1493	6416297	6.0
+	1493	744352	6.53
+	1493	2500152	6.84
+high-Km aldehyde reductase from brain	1493	6798966	9.59
+	1493	6416297	11.02
+	1493	6343086	20.0
+p-nitrobenzaldehyde as substrate	1493	3084464	20.0
+hexadecanal as substrate	1493	3084464	211.0
+	1497	744352	2.47
+aldehyde reductase I	1497	6753936	2.47
+pure aldehyde reductase	1497	16919	14.3
+	1497	16919	15.7
+aldehyde reductase II	1497	6753936	29.62
+low-Km reductase	1501	4146452	0.008
+high-Km reductase	1501	4146452	0.34
+	1501	744352	1.07
+	1501	235531	1.7
+	1501	6819141	2.5
+pyridine 3-aldehyde as substrate	1501	6819141	4.8
+	1501	4402936	17.1
+	1501	3514645	18.8
+	1501	7016111	21.0
+	1501	6989609	35.0
+liver enzyme	1502	6416297	5.9
+brain enzyme	1502	6416297	6.0
+	1502	744352	6.53
+	1502	2500152	6.84
+high-Km aldehyde reductase from brain	1502	6798966	9.59
+	1502	6416297	11.02
+	1502	6343086	20.0
+p-nitrobenzaldehyde as substrate	1502	3084464	20.0
+hexadecanal as substrate	1502	3084464	211.0
+10fold higher enzymatic activity observed in kidney compared with other tissues, enzyme activity depends on the human&acute;s age; 10fold higher enzymatic activity observed in kindney compare with other tissues, enzyme activity depends on the animal�?s age, activity approaches a plateau by day 35 and does not differ between male and female mice	1510	15769935	-999.0

@@ -1,0 +1,381 @@
+synonyms	ec_number	recommended_name
+NADH:nitrate oxidoreductase	1.7.1.1	nitrate reductase (NADH)
+reductase, nitrate	1.7.1.1	nitrate reductase (NADH)
+assimilatory NADH:nitrate reductase	1.7.1.1	nitrate reductase (NADH)
+NR1	1.7.1.1	nitrate reductase (NADH)
+EC 1.6.6.1	1.7.1.1	nitrate reductase (NADH)
+NaR	1.7.1.1	nitrate reductase (NADH)
+cytosolic NADH nitrate reductase	1.7.1.1	nitrate reductase (NADH)
+Assimilatory nitrate reductase	1.7.1.1	nitrate reductase (NADH)
+NADH-dependent nitrate reductase	1.7.1.1	nitrate reductase (NADH)
+NADH-Nar	1.7.1.1	nitrate reductase (NADH)
+NR	1.7.1.1	nitrate reductase (NADH)
+NaR1	1.7.1.1	nitrate reductase (NADH)
+NR2	1.7.1.1	nitrate reductase (NADH)
+NADH-nitrate reductase	1.7.1.1	nitrate reductase (NADH)
+NADH-NO3- reductase	1.7.1.1	nitrate reductase (NADH)
+Nia2	1.7.1.1	nitrate reductase (NADH)
+reductase, hydroxylamine	1.7.1.10	hydroxylamine reductase (NADH)
+ammonium dehydrogenase	1.7.1.10	hydroxylamine reductase (NADH)
+NADH-hydroxylamine reductase	1.7.1.10	hydroxylamine reductase (NADH)
+N-hydroxy amine reductase	1.7.1.10	hydroxylamine reductase (NADH)
+EC 1.6.6.11	1.7.1.10	hydroxylamine reductase (NADH)
+PG0893	1.7.1.10	hydroxylamine reductase (NADH)
+hybrid cluster protein	1.7.1.10	hydroxylamine reductase (NADH)
+N,N'-dimethyl-p-aminoazobenzene oxide reductase	1.7.1.11	4-(dimethylamino)phenylazoxybenzene reductase
+dimethylaminoazobenzene N-oxide reductase	1.7.1.11	4-(dimethylamino)phenylazoxybenzene reductase
+NADPH-dependent DMAB N-oxide reductase	1.7.1.11	4-(dimethylamino)phenylazoxybenzene reductase
+EC 1.6.6.12	1.7.1.11	4-(dimethylamino)phenylazoxybenzene reductase
+N-hydroxy-2-acetylaminofluorene reductase	1.7.1.12	N-hydroxy-2-acetamidofluorene reductase
+NAD	1.7.1.12	N-hydroxy-2-acetamidofluorene reductase
+EC 1.6.6.13	1.7.1.12	N-hydroxy-2-acetamidofluorene reductase
+queuine synthase	1.7.1.13	preQ1 synthase
+QueF	1.7.1.13	preQ1 synthase
+YkvM	1.7.1.13	preQ1 synthase
+preQ0 reductase	1.7.1.13	preQ1 synthase
+preQ0oxidoreductase	1.7.1.13	preQ1 synthase
+7-aminomethyl-7-carbaguanine:NADP+ oxidoreductase	1.7.1.13	preQ1 synthase
+7-cyano-7-deazaguanine reductase	1.7.1.13	preQ1 synthase
+nitrile reductase	1.7.1.13	preQ1 synthase
+Tnor	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+CYP55A4	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+cytochrome P450nor	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+P450nor	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+fungal nitric oxide reductase	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+NOR	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+CYP55A5	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+Anor	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+Fnor	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+cytochrome P450 NADH-NO reductase	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+P450norA	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+P450norB	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+CYP55A1	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+Cnor1	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+Cnor2	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+CYP55A2	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+CYP55A3	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+NADPH-dependent cytochrome P450nor	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+P450nor1	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+P450nor2	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+cytochrome P-450nor	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+Nor1p	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+cytochrome P450 nitric oxide reductase	1.7.1.14	nitric oxide reductase [NAD(P)+, nitrous oxide-forming]
+nitrite reductase	1.7.1.15	nitrite reductase (NADH)
+assimilatory nitrite reductase	1.7.1.15	nitrite reductase (NADH)
+nasD	1.7.1.15	nitrite reductase (NADH)
+nasE	1.7.1.15	nitrite reductase (NADH)
+NasDE	1.7.1.15	nitrite reductase (NADH)
+NADH-dependent nitrite reductase	1.7.1.15	nitrite reductase (NADH)
+NADH-nitrite oxidoreductase	1.7.1.15	nitrite reductase (NADH)
+EC 1.6.6.4	1.7.1.15	nitrite reductase (NADH)
+NiR	1.7.1.15	nitrite reductase (NADH)
+NADH:nitrite oxidoreductase	1.7.1.15	nitrite reductase (NADH)
+NADH-dependent nitrite oxidoreductase	1.7.1.15	nitrite reductase (NADH)
+nirB	1.7.1.15	nitrite reductase (NADH)
+nirD	1.7.1.15	nitrite reductase (NADH)
+assimilatory NADH-nitrite reductase	1.7.1.15	nitrite reductase (NADH)
+NasB protein	1.7.1.15	nitrite reductase (NADH)
+cnbA	1.7.1.16	nitrobenzene nitroreductase
+NbzA	1.7.1.16	nitrobenzene nitroreductase
+Oxygen-insensitive NAD	1.7.1.16	nitrobenzene nitroreductase
+NfsB	1.7.1.16	nitrobenzene nitroreductase
+Assimilatory NAD	1.7.1.2	Nitrate reductase [NAD(P)H]
+NAD	1.7.1.2	Nitrate reductase [NAD(P)H]
+Reductase, nitrate	1.7.1.2	Nitrate reductase [NAD(P)H]
+Nitrate reductase	1.7.1.2	Nitrate reductase [NAD(P)H]
+Nitrate reductase NAD	1.7.1.2	Nitrate reductase [NAD(P)H]
+NAD	1.7.1.2	Nitrate reductase [NAD(P)H]
+EC 1.6.6.2	1.7.1.2	Nitrate reductase [NAD(P)H]
+Nitrate reductase	1.7.1.2	Nitrate reductase [NAD(P)H]
+NAD	1.7.1.2	Nitrate reductase [NAD(P)H]
+Assimilatory nitrate reductase	1.7.1.2	Nitrate reductase [NAD(P)H]
+NAD	1.7.1.2	Nitrate reductase [NAD(P)H]
+NAD	1.7.1.2	Nitrate reductase [NAD(P)H]
+Assimilatory nitrate reductase	1.7.1.3	nitrate reductase (NADPH)
+assimilatory reduced nicotinamide adenine dinucleotide	1.7.1.3	nitrate reductase (NADPH)
+NADPH-nitrate reductase	1.7.1.3	nitrate reductase (NADPH)
+assimilatory NADPH-nitrate reductase	1.7.1.3	nitrate reductase (NADPH)
+triphosphopyridine nucleotide-nitrate reductase	1.7.1.3	nitrate reductase (NADPH)
+nitrate reductase	1.7.1.3	nitrate reductase (NADPH)
+NADPH2:nitrate oxidoreductase	1.7.1.3	nitrate reductase (NADPH)
+nitrate reductase	1.7.1.3	nitrate reductase (NADPH)
+NADPH-dependent nitrate reductase	1.7.1.3	nitrate reductase (NADPH)
+EC 1.6.6.3	1.7.1.3	nitrate reductase (NADPH)
+nitrate reductase	1.7.1.3	nitrate reductase (NADPH)
+NaR1	1.7.1.3	nitrate reductase (NADPH)
+nit-3	1.7.1.3	nitrate reductase (NADPH)
+NADPH:nitrate reductase	1.7.1.3	nitrate reductase (NADPH)
+NADPH:NR	1.7.1.3	nitrate reductase (NADPH)
+assimilatory NADPH:nitrate reductase	1.7.1.3	nitrate reductase (NADPH)
+NR	1.7.1.3	nitrate reductase (NADPH)
+nitrite reductase	1.7.1.4	nitrite reductase [NAD(P)H]
+NADH-nitrite oxidoreductase	1.7.1.4	nitrite reductase [NAD(P)H]
+NADPH-nitrite reductase	1.7.1.4	nitrite reductase [NAD(P)H]
+assimilitory nitrite reductase	1.7.1.4	nitrite reductase [NAD(P)H]
+nitrite reductase [NAD	1.7.1.4	nitrite reductase [NAD(P)H]
+NAD	1.7.1.4	nitrite reductase [NAD(P)H]
+NrfA reductase	1.7.1.4	nitrite reductase [NAD(P)H]
+copper-containing nitrite reductase	1.7.1.4	nitrite reductase [NAD(P)H]
+NiR	1.7.1.4	nitrite reductase [NAD(P)H]
+NirK	1.7.1.4	nitrite reductase [NAD(P)H]
+copper-containing Nir	1.7.1.4	nitrite reductase [NAD(P)H]
+nitrite reductase	1.7.1.4	nitrite reductase [NAD(P)H]
+EC 1.6.6.6	1.7.1.5	hyponitrite reductase
+NADH2:hyponitrite oxidoreductase	1.7.1.5	hyponitrite reductase
+new Coccine	1.7.1.6	azobenzene reductase
+NC-reductase	1.7.1.6	azobenzene reductase
+EC 1.6.6.7	1.7.1.6	azobenzene reductase
+azo-dye reductase	1.7.1.6	azobenzene reductase
+Orange II azoreductase	1.7.1.6	azobenzene reductase
+NAD	1.7.1.6	azobenzene reductase
+nicotinamide adenine dinucleotide	1.7.1.6	azobenzene reductase
+NADPH2-dependent azoreductase	1.7.1.6	azobenzene reductase
+reductase, azobenzene	1.7.1.6	azobenzene reductase
+dimethylaminobenzene reductase	1.7.1.6	azobenzene reductase
+p-dimethylaminoazobenzene azoreductase	1.7.1.6	azobenzene reductase
+dibromopropylaminophenylazobenzoic azoreductase	1.7.1.6	azobenzene reductase
+N,N-dimethyl-4-phenylazoaniline azoreductase	1.7.1.6	azobenzene reductase
+p-aminoazobenzene reductase	1.7.1.6	azobenzene reductase
+azo dye reductase	1.7.1.6	azobenzene reductase
+methyl red azoreductase	1.7.1.6	azobenzene reductase
+AzoR1	1.7.1.6	azobenzene reductase
+Orange I azoreductase	1.7.1.6	azobenzene reductase
+FMN-dependent NAD	1.7.1.6	azobenzene reductase
+AzoA	1.7.1.6	azobenzene reductase
+acpD	1.7.1.6	azobenzene reductase
+AzoEF1	1.7.1.6	azobenzene reductase
+AzrA	1.7.1.6	azobenzene reductase
+NADPH-flavin azoreductase	1.7.1.6	azobenzene reductase
+Azo 1	1.7.1.6	azobenzene reductase
+AzoC	1.7.1.6	azobenzene reductase
+PAMD_1	1.7.1.6	azobenzene reductase
+AZR	1.7.1.6	azobenzene reductase
+azoreductase C	1.7.1.6	azobenzene reductase
+AzrC	1.7.1.6	azobenzene reductase
+AzoI	1.7.1.6	azobenzene reductase
+AzoII	1.7.1.6	azobenzene reductase
+AzoR	1.7.1.6	azobenzene reductase
+BTI1	1.7.1.6	azobenzene reductase
+azoreductase B	1.7.1.6	azobenzene reductase
+AzrB	1.7.1.6	azobenzene reductase
+azoreductase 1	1.7.1.6	azobenzene reductase
+AzoB	1.7.1.6	azobenzene reductase
+SO 4396	1.7.1.6	azobenzene reductase
+NADH-azoreductase	1.7.1.6	azobenzene reductase
+AzrG	1.7.1.6	azobenzene reductase
+azo reductase	1.7.1.6	azobenzene reductase
+guanosine 5'-monophosphate reductase	1.7.1.7	GMP reductase
+NADPH:GMP oxidoreductase	1.7.1.7	GMP reductase
+reductase, guanylate	1.7.1.7	GMP reductase
+guanosine monophosphate reductase	1.7.1.7	GMP reductase
+guanylate reductase	1.7.1.7	GMP reductase
+Guanosine 5'-monophosphate oxidoreductase	1.7.1.7	GMP reductase
+guaC	1.7.1.7	GMP reductase
+EC 1.6.6.8	1.7.1.7	GMP reductase
+guanosine monophosphate reductase 2	1.7.1.7	GMP reductase
+GMPR2	1.7.1.7	GMP reductase
+guanosine-5'-monophosphate reductase	1.7.1.7	GMP reductase
+4-nitroquinoline 1-oxide reductase	1.7.1.9	nitroquinoline-N-oxide reductase
+4NQO reductase	1.7.1.9	nitroquinoline-N-oxide reductase
+NAD	1.7.1.9	nitroquinoline-N-oxide reductase
+cytochrome c-551:O2, NO2- oxidoreductase	1.7.2.1	nitrite reductase (NO-forming)
+oxidase, Pseudomonas cytochrome	1.7.2.1	nitrite reductase (NO-forming)
+cytochrome oxidase	1.7.2.1	nitrite reductase (NO-forming)
+reductase, nitrite	1.7.2.1	nitrite reductase (NO-forming)
+PsNiR	1.7.2.1	nitrite reductase (NO-forming)
+AxNiR	1.7.2.1	nitrite reductase (NO-forming)
+NirK	1.7.2.1	nitrite reductase (NO-forming)
+CuNIR	1.7.2.1	nitrite reductase (NO-forming)
+AcNIR	1.7.2.1	nitrite reductase (NO-forming)
+HydNIR	1.7.2.1	nitrite reductase (NO-forming)
+HdNIR	1.7.2.1	nitrite reductase (NO-forming)
+Cu-NIR	1.7.2.1	nitrite reductase (NO-forming)
+AfNiR	1.7.2.1	nitrite reductase (NO-forming)
+copper-containing nitrite reductase	1.7.2.1	nitrite reductase (NO-forming)
+copper-containing dissimilatory nitrite reductase	1.7.2.1	nitrite reductase (NO-forming)
+AniA	1.7.2.1	nitrite reductase (NO-forming)
+Cu-NirK	1.7.2.1	nitrite reductase (NO-forming)
+hemoglobin	1.7.2.1	nitrite reductase (NO-forming)
+cytochrome cd1 nitrite reductase	1.7.2.1	nitrite reductase (NO-forming)
+cytochrome cd	1.7.2.1	nitrite reductase (NO-forming)
+Pseudomonas cytochrome oxidase	1.7.2.1	nitrite reductase (NO-forming)
+PaNiR	1.7.2.1	nitrite reductase (NO-forming)
+C551-O2 oxidoreductase	1.7.2.1	nitrite reductase (NO-forming)
+EC 1.9.3.2	1.7.2.1	nitrite reductase (NO-forming)
+dissimilatory nitrite reductase cytochrome cd1	1.7.2.1	nitrite reductase (NO-forming)
+PNR	1.7.2.1	nitrite reductase (NO-forming)
+NiR-Pa	1.7.2.1	nitrite reductase (NO-forming)
+cd1 nitrite reductase	1.7.2.1	nitrite reductase (NO-forming)
+NiR	1.7.2.1	nitrite reductase (NO-forming)
+nitrite reductase	1.7.2.1	nitrite reductase (NO-forming)
+NirS	1.7.2.1	nitrite reductase (NO-forming)
+multiheme nitrite reductase	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+hexaheme c-type cytochrome	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+NiR	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+TvNiR	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+multihaem c NiR	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+octahaem cytochrome c nitrite reductase	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+WS0969	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+NrfA	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+cytochrome c nitrite reductase	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+NrfA2NrfH complex	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+ccNiR	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+cNiR	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+cytochrome c nitrite reductase complex	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+NrfHA	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+ammonia-forming cytochrome c nitrite reductase	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+cytochrome c NiR	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+NiR cytochrome c552	1.7.2.2	nitrite reductase (cytochrome; ammonia-forming)
+reductase, trimethylamine N-oxide	1.7.2.3	trimethylamine-N-oxide reductase (cytochrome c)
+TOR	1.7.2.3	trimethylamine-N-oxide reductase (cytochrome c)
+TorZ	1.7.2.3	trimethylamine-N-oxide reductase (cytochrome c)
+torECA gene product	1.7.2.3	trimethylamine-N-oxide reductase (cytochrome c)
+TMAO reductase	1.7.2.3	trimethylamine-N-oxide reductase (cytochrome c)
+trimethylamine N-oxide reductase	1.7.2.3	trimethylamine-N-oxide reductase (cytochrome c)
+TorD	1.7.2.3	trimethylamine-N-oxide reductase (cytochrome c)
+More	1.7.2.3	trimethylamine-N-oxide reductase (cytochrome c)
+trimethylamine oxide reductase	1.7.2.3	trimethylamine-N-oxide reductase (cytochrome c)
+TorA	1.7.2.3	trimethylamine-N-oxide reductase (cytochrome c)
+N	1.7.2.4	nitrous-oxide reductase
+N2O reductase	1.7.2.4	nitrous-oxide reductase
+NosZ	1.7.2.4	nitrous-oxide reductase
+N2OR	1.7.2.4	nitrous-oxide reductase
+multicopper oxidase	1.7.2.4	nitrous-oxide reductase
+McoP	1.7.2.4	nitrous-oxide reductase
+HdN2OR	1.7.2.4	nitrous-oxide reductase
+nitrous oxide reductase	1.7.2.4	nitrous-oxide reductase
+nitrogen oxide reductase	1.7.2.5	nitric oxide reductase (cytochrome c)
+respiratory nitric oxide reductase	1.7.2.5	nitric oxide reductase (cytochrome c)
+NO-reductase	1.7.2.5	nitric oxide reductase (cytochrome c)
+c-type nitric oxide reductase	1.7.2.5	nitric oxide reductase (cytochrome c)
+cNOR	1.7.2.5	nitric oxide reductase (cytochrome c)
+NorBC	1.7.2.5	nitric oxide reductase (cytochrome c)
+NorCB	1.7.2.5	nitric oxide reductase (cytochrome c)
+NO reductase	1.7.2.5	nitric oxide reductase (cytochrome c)
+NorB	1.7.2.5	nitric oxide reductase (cytochrome c)
+NOR	1.7.2.5	nitric oxide reductase (cytochrome c)
+nitric oxide reductase	1.7.2.5	nitric oxide reductase (cytochrome c)
+respiratory NO reductase	1.7.2.5	nitric oxide reductase (cytochrome c)
+NorZ	1.7.2.5	nitric oxide reductase (cytochrome c)
+S-NOR	1.7.2.5	nitric oxide reductase (cytochrome c)
+FprA	1.7.2.5	nitric oxide reductase (cytochrome c)
+scavenging nitric oxide reductase	1.7.2.5	nitric oxide reductase (cytochrome c)
+P450nor	1.7.2.5	nitric oxide reductase (cytochrome c)
+qNOR	1.7.2.5	nitric oxide reductase (cytochrome c)
+NorC	1.7.2.5	nitric oxide reductase (cytochrome c)
+nitric oxide-reductase	1.7.2.5	nitric oxide reductase (cytochrome c)
+Anor	1.7.2.5	nitric oxide reductase (cytochrome c)
+nitric oxide reductase cytochrome	1.7.2.5	nitric oxide reductase (cytochrome c)
+qCuANOR	1.7.2.5	nitric oxide reductase (cytochrome c)
+ba3-oxidase	1.7.2.5	nitric oxide reductase (cytochrome c)
+Tnor	1.7.2.5	nitric oxide reductase (cytochrome c)
+Fnor	1.7.2.5	nitric oxide reductase (cytochrome c)
+Cnor1	1.7.2.5	nitric oxide reductase (cytochrome c)
+Cnor2	1.7.2.5	nitric oxide reductase (cytochrome c)
+flavorubredoxin	1.7.2.5	nitric oxide reductase (cytochrome c)
+FlRd	1.7.2.5	nitric oxide reductase (cytochrome c)
+HOA	1.7.2.6	hydroxylamine dehydrogenase
+hydroxylamine cytochrome c554 oxidoreductase	1.7.2.6	hydroxylamine dehydrogenase
+hydroxylamine oxidase	1.7.2.6	hydroxylamine dehydrogenase
+hydroxylamine:oxygen oxidoreductase	1.7.2.6	hydroxylamine dehydrogenase
+hydroxylamine oxidoreductase	1.7.2.6	hydroxylamine dehydrogenase
+HAO	1.7.2.6	hydroxylamine dehydrogenase
+hydroxylamine-cytochrome c reductase	1.7.2.6	hydroxylamine dehydrogenase
+HCR	1.7.2.6	hydroxylamine dehydrogenase
+hzsA	1.7.2.7	hydrazine synthase
+hzsB	1.7.2.7	hydrazine synthase
+HZS	1.7.2.7	hydrazine synthase
+hydrazine oxidoreductase	1.7.2.8	hydrazine dehydrogenase
+hydroxylamine oxidoreductase	1.7.2.8	hydrazine dehydrogenase
+HAO	1.7.2.8	hydrazine dehydrogenase
+HDH	1.7.2.8	hydrazine dehydrogenase
+hzoB	1.7.2.8	hydrazine dehydrogenase
+hydrazine-oxidizing enzyme	1.7.2.8	hydrazine dehydrogenase
+oxidase, nitroethane	1.7.3.1	nitroalkane oxidase
+nitroethane:oxygen oxidoreductase	1.7.3.1	nitroalkane oxidase
+NAO	1.7.3.1	nitroalkane oxidase
+More	1.7.3.1	nitroalkane oxidase
+nitroalkane oxidase	1.7.3.1	nitroalkane oxidase
+nitroethane oxidase	1.7.3.1	nitroalkane oxidase
+NaoA	1.7.3.1	nitroalkane oxidase
+2-npdl	1.7.3.1	nitroalkane oxidase
+oxidase, acetylindoxyl	1.7.3.2	acetylindoxyl oxidase
+uric acid oxidase	1.7.3.3	factor-independent urate hydroxylase
+oxidase, urate	1.7.3.3	factor-independent urate hydroxylase
+N-35	1.7.3.3	factor-independent urate hydroxylase
+Nodule specific uricase	1.7.3.3	factor-independent urate hydroxylase
+Nodulin 35	1.7.3.3	factor-independent urate hydroxylase
+Nodulin 35 homolog	1.7.3.3	factor-independent urate hydroxylase
+Non-symbiotic uricase	1.7.3.3	factor-independent urate hydroxylase
+uricase II	1.7.3.3	factor-independent urate hydroxylase
+Rasburicase	1.7.3.3	factor-independent urate hydroxylase
+AgUOX	1.7.3.3	factor-independent urate hydroxylase
+Uricoenzyme	1.7.3.3	factor-independent urate hydroxylase
+Uricozyme	1.7.3.3	factor-independent urate hydroxylase
+Fasturtec	1.7.3.3	factor-independent urate hydroxylase
+urate oxidoreductase	1.7.3.3	factor-independent urate hydroxylase
+Urate oxidase	1.7.3.3	factor-independent urate hydroxylase
+uricase	1.7.3.3	factor-independent urate hydroxylase
+ELITEK	1.7.3.3	factor-independent urate hydroxylase
+Uaz	1.7.3.3	factor-independent urate hydroxylase
+AaUO	1.7.3.3	factor-independent urate hydroxylase
+Uox	1.7.3.3	factor-independent urate hydroxylase
+propionate-3-nitronate oxidase	1.7.3.5	3-aci-nitropropanoate oxidase
+oxidase, hydroxylamine HAO	1.7.3.6	hydroxylamine oxidase (cytochrome)
+hydroxylamine oxidoreductase	1.7.3.6	hydroxylamine oxidase (cytochrome)
+hydroxylamine oxidase	1.7.3.6	hydroxylamine oxidase (cytochrome)
+HAO	1.7.3.6	hydroxylamine oxidase (cytochrome)
+hydroxylamine-cytochrome c oxidoreductase	1.7.3.6	hydroxylamine oxidase (cytochrome)
+hydroxylamine-cytochrome c reductase	1.7.3.6	hydroxylamine oxidase (cytochrome)
+NarZ	1.7.5.1	nitrate reductase (quinone)
+quinol/nitrate oxidoreductase	1.7.5.1	nitrate reductase (quinone)
+NRZ nitrate reductase	1.7.5.1	nitrate reductase (quinone)
+NRZ	1.7.5.1	nitrate reductase (quinone)
+NRA nitrate reductase A	1.7.5.1	nitrate reductase (quinone)
+membrane-bound nitrate reductase	1.7.5.1	nitrate reductase (quinone)
+quinol:nitrate oxidoreductase	1.7.5.1	nitrate reductase (quinone)
+NarG	1.7.5.1	nitrate reductase (quinone)
+nitrate reductase Z	1.7.5.1	nitrate reductase (quinone)
+NarGHI	1.7.5.1	nitrate reductase (quinone)
+nitrate reductase A	1.7.5.1	nitrate reductase (quinone)
+NaR	1.7.5.1	nitrate reductase (quinone)
+quinol-nitrate oxidoreductase	1.7.5.1	nitrate reductase (quinone)
+NOR	1.7.5.2	nitric oxide reductase (menaquinol)
+qCuANOR	1.7.5.2	nitric oxide reductase (menaquinol)
+NO reductase	1.7.5.2	nitric oxide reductase (menaquinol)
+menaquinol-dependent nitric oxide reductase	1.7.5.2	nitric oxide reductase (menaquinol)
+menaquinol NO reductase	1.7.5.2	nitric oxide reductase (menaquinol)
+menaquinol:NO oxidoreductase	1.7.5.2	nitric oxide reductase (menaquinol)
+Nitrophorin 7	1.7.6.1	nitrite dismutase
+NP7	1.7.6.1	nitrite dismutase
+Prolixin S	1.7.6.1	nitrite dismutase
+nitrophorin 4	1.7.6.1	nitrite dismutase
+NP4	1.7.6.1	nitrite dismutase
+reductase, ferredoxin-nitrite	1.7.7.1	ferredoxin-nitrite reductase
+nitrite reductase	1.7.7.1	ferredoxin-nitrite reductase
+assimilatory NiR	1.7.7.1	ferredoxin-nitrite reductase
+NrfH	1.7.7.1	ferredoxin-nitrite reductase
+nii3	1.7.7.1	ferredoxin-nitrite reductase
+assimilatory nitrite reductase	1.7.7.1	ferredoxin-nitrite reductase
+nii4	1.7.7.1	ferredoxin-nitrite reductase
+aNiR	1.7.7.1	ferredoxin-nitrite reductase
+NrfA	1.7.7.1	ferredoxin-nitrite reductase
+Nii1	1.7.7.1	ferredoxin-nitrite reductase
+ferredoxin:nitrite reductase	1.7.7.1	ferredoxin-nitrite reductase
+ferredoxin:nitrite oxidoreductase	1.7.7.1	ferredoxin-nitrite reductase
+NiR	1.7.7.1	ferredoxin-nitrite reductase
+nitrate	1.7.7.2	ferredoxin-nitrate reductase
+assimilatory ferredoxin-nitrate reductase	1.7.7.2	ferredoxin-nitrate reductase
+reductase, nitrate	1.7.7.2	ferredoxin-nitrate reductase
+dissimilatory nitrate reductase	1.7.7.2	ferredoxin-nitrate reductase
+NarGH	1.7.7.2	ferredoxin-nitrate reductase
+narB	1.7.7.2	ferredoxin-nitrate reductase
+nitrate reductase	1.7.7.2	ferredoxin-nitrate reductase
+Assimilatory nitrate reductase	1.7.7.2	ferredoxin-nitrate reductase
+respiratory nitrate reductase	1.7.7.2	ferredoxin-nitrate reductase
+NaR	1.7.7.2	ferredoxin-nitrate reductase
+reductase, hydroxylamine	1.7.99.1	hydroxylamine reductase
+hybrid cluster protein	1.7.99.1	hydroxylamine reductase
+HCP	1.7.99.1	hydroxylamine reductase
+prismane protein	1.7.99.1	hydroxylamine reductase
+fuscoredoxin	1.7.99.1	hydroxylamine reductase

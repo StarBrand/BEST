@@ -1,0 +1,242 @@
+synonyms	ec_number	recommended_name
+Muconate cycloisomerase I	5.5.1.1	Muconate cycloisomerase
+Isomerase, muconate cyclo-	5.5.1.1	Muconate cycloisomerase
+cis,cis-Muconate-lactonizing enzyme	5.5.1.1	Muconate cycloisomerase
+cis,cis-Muconate cycloisomerase	5.5.1.1	Muconate cycloisomerase
+Enzymes, muconate-lactonizing	5.5.1.1	Muconate cycloisomerase
+TcMLE	5.5.1.1	Muconate cycloisomerase
+MC	5.5.1.1	Muconate cycloisomerase
+MLEI	5.5.1.1	Muconate cycloisomerase
+MLE-2	5.5.1.1	Muconate cycloisomerase
+anti-MLE	5.5.1.1	Muconate cycloisomerase
+cis,cis-muconate lactonizing enzyme	5.5.1.1	Muconate cycloisomerase
+MLE	5.5.1.1	Muconate cycloisomerase
+Muconate lactonizing enzyme	5.5.1.1	Muconate cycloisomerase
+2-chloromuconate cycloisomerase	5.5.1.1	Muconate cycloisomerase
+Rho-2-CMCI	5.5.1.1	Muconate cycloisomerase
+MC O	5.5.1.1	Muconate cycloisomerase
+MC II	5.5.1.1	Muconate cycloisomerase
+MLE-1	5.5.1.1	Muconate cycloisomerase
+syn-MLE	5.5.1.1	Muconate cycloisomerase
+MCIccaB	5.5.1.1	Muconate cycloisomerase
+muconate cycloisomerase	5.5.1.1	Muconate cycloisomerase
+MCI	5.5.1.1	Muconate cycloisomerase
+MCIase	5.5.1.1	Muconate cycloisomerase
+ADP1	5.5.1.1	Muconate cycloisomerase
+lyase, alpha-pinene oxide	5.5.1.10	alpha-pinene-oxide decyclase
+alpha-pinene oxide lyase	5.5.1.10	alpha-pinene-oxide decyclase
+isomerase, dichloromuconate cyclo-	5.5.1.11	dichloromuconate cycloisomerase
+dichloromuconate cycloisomerase	5.5.1.11	dichloromuconate cycloisomerase
+more	5.5.1.11	dichloromuconate cycloisomerase
+cyclase, abietadiene	5.5.1.12	copalyl diphosphate synthase
+abietadiene cyclase	5.5.1.12	copalyl diphosphate synthase
+AGAS	5.5.1.12	copalyl diphosphate synthase
+abietadiene synthase	5.5.1.12	copalyl diphosphate synthase
+bifunctional diterpene cyclase	5.5.1.12	copalyl diphosphate synthase
+BDTC	5.5.1.12	copalyl diphosphate synthase
+LAS1	5.5.1.12	copalyl diphosphate synthase
+LAS	5.5.1.12	copalyl diphosphate synthase
+class II diTPS	5.5.1.12	copalyl diphosphate synthase
+class II diterpene synthase	5.5.1.12	copalyl diphosphate synthase
+bifunctional LAS-type diTPS	5.5.1.12	copalyl diphosphate synthase
+levopimaradiene/abietadiene synthase-type diTPS	5.5.1.12	copalyl diphosphate synthase
+isopimaradiene synthase-type diTPS	5.5.1.12	copalyl diphosphate synthase
+ISO	5.5.1.12	copalyl diphosphate synthase
+TPS2	5.5.1.12	copalyl diphosphate synthase
+ent-kaurene synthase A	5.5.1.13	ent-copalyl diphosphate synthase
+ent-kaurene synthetase A	5.5.1.13	ent-copalyl diphosphate synthase
+CPS2	5.5.1.13	ent-copalyl diphosphate synthase
+CPS3	5.5.1.13	ent-copalyl diphosphate synthase
+CPS1	5.5.1.13	ent-copalyl diphosphate synthase
+OsCPS1ent	5.5.1.13	ent-copalyl diphosphate synthase
+OsCPS1	5.5.1.13	ent-copalyl diphosphate synthase
+CPS2/Cyc2	5.5.1.13	ent-copalyl diphosphate synthase
+copalyl diphosphate synthase/ent-kaurene synthase	5.5.1.13	ent-copalyl diphosphate synthase
+copalyl synthase/kaurene synthase	5.5.1.13	ent-copalyl diphosphate synthase
+CPS/KS	5.5.1.13	ent-copalyl diphosphate synthase
+GfCPS/KS	5.5.1.13	ent-copalyl diphosphate synthase
+ent-copylyl diphosphate synthase/ent-kaurene synthase	5.5.1.13	ent-copalyl diphosphate synthase
+OsCPS2ent	5.5.1.13	ent-copalyl diphosphate synthase
+OsCyc2	5.5.1.13	ent-copalyl diphosphate synthase
+ent-copalyl/ent-kaurene synthase	5.5.1.13	ent-copalyl diphosphate synthase
+ent-CPS	5.5.1.13	ent-copalyl diphosphate synthase
+CPS	5.5.1.13	ent-copalyl diphosphate synthase
+syn-copalyl diphosphate lyase	5.5.1.14	syn-copalyl-diphosphate synthase
+OsCPSsyn	5.5.1.14	syn-copalyl-diphosphate synthase
+syn-copalyl diphosphate synthase	5.5.1.14	syn-copalyl-diphosphate synthase
+syn-CDP synthase	5.5.1.14	syn-copalyl-diphosphate synthase
+OsCyc1	5.5.1.14	syn-copalyl-diphosphate synthase
+Cyc1	5.5.1.15	terpentedienyl-diphosphate synthase
+HPS	5.5.1.16	halimadienyl-diphosphate synthase
+TPS6	5.5.1.17	(S)-beta-macrocarpene synthase
+terpene synthase 6	5.5.1.17	(S)-beta-macrocarpene synthase
+TPS11	5.5.1.17	(S)-beta-macrocarpene synthase
+terpene synthase 11	5.5.1.17	(S)-beta-macrocarpene synthase
+lycopene epsilon cyclase	5.5.1.18	lycopene epsilon-cyclase
+LCY-E	5.5.1.18	lycopene epsilon-cyclase
+CrtL-e	5.5.1.18	lycopene epsilon-cyclase
+lycopene bi-epsilon-cyclase	5.5.1.18	lycopene epsilon-cyclase
+LCYe	5.5.1.18	lycopene epsilon-cyclase
+epsilon lycopene cyclase	5.5.1.18	lycopene epsilon-cyclase
+epsilon-LCY	5.5.1.18	lycopene epsilon-cyclase
+epsilon-ionone-forming lycopene cyclase	5.5.1.18	lycopene epsilon-cyclase
+OsLCYe	5.5.1.18	lycopene epsilon-cyclase
+CrtL-b	5.5.1.19	lycopene beta-cyclase
+lycopene beta cyclase	5.5.1.19	lycopene beta-cyclase
+LCY-B	5.5.1.19	lycopene beta-cyclase
+beta-LCY	5.5.1.19	lycopene beta-cyclase
+CrtL	5.5.1.19	lycopene beta-cyclase
+CruA	5.5.1.19	lycopene beta-cyclase
+SSO2904	5.5.1.19	lycopene beta-cyclase
+lycopene cyclase	5.5.1.19	lycopene beta-cyclase
+LCYb	5.5.1.19	lycopene beta-cyclase
+LYCB	5.5.1.19	lycopene beta-cyclase
+lycopene beta-cyclase 1	5.5.1.19	lycopene beta-cyclase
+DcLCYB1	5.5.1.19	lycopene beta-cyclase
+CrtY	5.5.1.19	lycopene beta-cyclase
+CrtL-e	5.5.1.19	lycopene beta-cyclase
+capsanthin-capsorubin synthase	5.5.1.19	lycopene beta-cyclase
+CCS	5.5.1.19	lycopene beta-cyclase
+CruP	5.5.1.19	lycopene beta-cyclase
+LCY	5.5.1.19	lycopene beta-cyclase
+Isomerase, 3-carboxy-cis, cis-muconate cyclo-	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+beta-Carboxymuconate lactonizing enzyme	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+3-Carboxymuconolactone hydrolase	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+beta-Carboxy-cis,cis-muconate lactonizing enzyme	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+3-Carboxy-cis-cis-muconate cycloisomerase	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+3-carboxymuconate lactonizing enzyme	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+2-chloromuconate cycloisomerase	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+MLE	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+3-Carboxy-cis,cis-muconate lactonizing enzyme	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+PpgL	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+PA4204 protein	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+CMLE	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+PpCMLE	5.5.1.2	3-Carboxy-cis,cis-muconate cycloisomerase
+SPS	5.5.1.20	prosolanapyrone-III cycloisomerase
+Sol5	5.5.1.20	prosolanapyrone-III cycloisomerase
+solanapyrone synthase	5.5.1.20	prosolanapyrone-III cycloisomerase
+SpnF	5.5.1.20	prosolanapyrone-III cycloisomerase
+bornyl pyrophosphate synthase	5.5.1.22	(-)-bornyl diphosphate synthase
+bornyl pyrophosphate synthetase	5.5.1.22	(-)-bornyl diphosphate synthase
+DnrD	5.5.1.23	aklanonic acid methyl ester cyclase
+AAMEcyclase	5.5.1.23	aklanonic acid methyl ester cyclase
+DauD	5.5.1.23	aklanonic acid methyl ester cyclase
+AAME cyclase	5.5.1.23	aklanonic acid methyl ester cyclase
+methyl aklanonate cyclase	5.5.1.23	aklanonic acid methyl ester cyclase
+AcmA	5.5.1.23	aklanonic acid methyl ester cyclase
+AknH	5.5.1.23	aklanonic acid methyl ester cyclase
+TC/VTE1	5.5.1.24	tocopherol cyclase
+VTE1	5.5.1.24	tocopherol cyclase
+slr1737	5.5.1.24	tocopherol cyclase
+SXD1	5.5.1.24	tocopherol cyclase
+DMPQ cyclase	5.5.1.24	tocopherol cyclase
+2,3-dimethyl-5-phytyl-1,4-hydroquinone cyclase	5.5.1.24	tocopherol cyclase
+AHGA cycloisomerase	5.5.1.25	3,6-anhydro-L-galactonate cycloisomerase
+3,6-anhydrogalactonate cycloisomerase	5.5.1.25	3,6-anhydro-L-galactonate cycloisomerase
+VejACI	5.5.1.25	3,6-anhydro-L-galactonate cycloisomerase
+SnoaL	5.5.1.26	nogalonic acid methyl ester cyclase
+methyl nogalonate cyclase	5.5.1.26	nogalonic acid methyl ester cyclase
+GCI	5.5.1.27	D-galactarolactone cycloisomerase
+galactarolactone cycloisomerase	5.5.1.27	D-galactarolactone cycloisomerase
+Isomerase, tetrahydroxypteridine cyclo-	5.5.1.3	Tetrahydroxypteridine cycloisomerase
+D-Glucose 6-phosphate cycloaldolase	5.5.1.4	inositol-3-phosphate synthase
+D-Glucose 6-phosphate-1L-myoinositol 1-phosphate cycloaldolase	5.5.1.4	inositol-3-phosphate synthase
+D-Glucose 6-phosphate-1L-myoinositol 1-phosphate cyclase	5.5.1.4	inositol-3-phosphate synthase
+D-Glucose 6-phosphate-L-myo-inositol 1-phosphate cyclase	5.5.1.4	inositol-3-phosphate synthase
+D-Glucose-6-phosphate,L-myo-inositol-1-phosphate cycloaldolase	5.5.1.4	inositol-3-phosphate synthase
+Glucocycloaldolase	5.5.1.4	inositol-3-phosphate synthase
+Glucose 6-phosphate cyclase	5.5.1.4	inositol-3-phosphate synthase
+Glucose-6-phosphate inositol monophosphate cycloaldolase	5.5.1.4	inositol-3-phosphate synthase
+Inositol 1-phosphate synthetase	5.5.1.4	inositol-3-phosphate synthase
+INPS1	5.5.1.4	inositol-3-phosphate synthase
+L-myo-Inositol 1-phosphate synthetase	5.5.1.4	inositol-3-phosphate synthase
+MI-1-P synthase	5.5.1.4	inositol-3-phosphate synthase
+Synthase, myo-inositol 1-phosphate	5.5.1.4	inositol-3-phosphate synthase
+myo-Inositol-1-P synthase	5.5.1.4	inositol-3-phosphate synthase
+1,9,12,13,14,15,16,17,18,20,23,29,30,35,38,39,41,43,44,46,54,56,57,58	5.5.1.4	inositol-3-phosphate synthase
+myo-inositol	5.5.1.4	inositol-3-phosphate synthase
+Inositol 1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+INS	5.5.1.4	inositol-3-phosphate synthase
+SaINO1	5.5.1.4	inositol-3-phosphate synthase
+AtMIPS1	5.5.1.4	inositol-3-phosphate synthase
+L-myo-inositol 1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+iNOS	5.5.1.4	inositol-3-phosphate synthase
+Myo-inositol-1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+tbINO	5.5.1.4	inositol-3-phosphate synthase
+[Ins	5.5.1.4	inositol-3-phosphate synthase
+OsMIPS1	5.5.1.4	inositol-3-phosphate synthase
+OsMIPS1-3	5.5.1.4	inositol-3-phosphate synthase
+RINO1 protein	5.5.1.4	inositol-3-phosphate synthase
+sll1981	5.5.1.4	inositol-3-phosphate synthase
+IPS	5.5.1.4	inositol-3-phosphate synthase
+inositol-1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+IP synthase	5.5.1.4	inositol-3-phosphate synthase
+myo-inositol 1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+MIP synthase	5.5.1.4	inositol-3-phosphate synthase
+1D-myo-inositol 3-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+PcINO1	5.5.1.4	inositol-3-phosphate synthase
+inositol-3-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+L-myo-Inositol-1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+PINO1 protein	5.5.1.4	inositol-3-phosphate synthase
+OsMIPS1-1	5.5.1.4	inositol-3-phosphate synthase
+OsMIPS1-2	5.5.1.4	inositol-3-phosphate synthase
+OsMIPS2	5.5.1.4	inositol-3-phosphate synthase
+INO-1	5.5.1.4	inositol-3-phosphate synthase
+INPS	5.5.1.4	inositol-3-phosphate synthase
+myo-inositol-3-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+MIPS2	5.5.1.4	inositol-3-phosphate synthase
+CaMIPS2	5.5.1.4	inositol-3-phosphate synthase
+CaMIPS1	5.5.1.4	inositol-3-phosphate synthase
+MIPS1	5.5.1.4	inositol-3-phosphate synthase
+AtMIPS2-1	5.5.1.4	inositol-3-phosphate synthase
+inositol phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+D-myo-inositol-3-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+AtMIPS3	5.5.1.4	inositol-3-phosphate synthase
+INO-2	5.5.1.4	inositol-3-phosphate synthase
+1L-myo-Inositol-1-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+yMIP synthase	5.5.1.4	inositol-3-phosphate synthase
+INO1	5.5.1.4	inositol-3-phosphate synthase
+inositol 3-phosphate synthase	5.5.1.4	inositol-3-phosphate synthase
+Ino1p	5.5.1.4	inositol-3-phosphate synthase
+TaMIPS2	5.5.1.4	inositol-3-phosphate synthase
+TaMIPS1	5.5.1.4	inositol-3-phosphate synthase
+Cyclase, carboxy-cis,cis-muconate-	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+3-Carboxymuconate cyclase	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+3-Carboxy-cis-cis-muconate cyclase	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+3-carboxy-5-oxo-2,5-dihydrofuran-2-acetate	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+3-Carboxy-cis,cis-muconate lactonizing enzyme	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+CMLE	5.5.1.5	Carboxy-cis,cis-muconate cyclase
+Isomerase, chalcone	5.5.1.6	chalcone isomerase
+Chalcone-flavanone isomerase	5.5.1.6	chalcone isomerase
+TRANSPARENT TESTA 5 protein	5.5.1.6	chalcone isomerase
+SlCHI1	5.5.1.6	chalcone isomerase
+Chi-1	5.5.1.6	chalcone isomerase
+2,3,4,5,11,12,13,18,33,34,35,36,38,39,41,49,50,51,52,53,54,55,56,57	5.5.1.6	chalcone isomerase
+MpCHI	5.5.1.6	chalcone isomerase
+Chalcone isomerase	5.5.1.6	chalcone isomerase
+CHI1A	5.5.1.6	chalcone isomerase
+CHI1B2	5.5.1.6	chalcone isomerase
+CHI2	5.5.1.6	chalcone isomerase
+Muconate cycloisomerase II	5.5.1.7	Chloromuconate cycloisomerase
+Isomerase, chloromuconate cyclo-	5.5.1.7	Chloromuconate cycloisomerase
+2CMA-cycloisomerase	5.5.1.7	Chloromuconate cycloisomerase
+MLE II	5.5.1.7	Chloromuconate cycloisomerase
+CMC	5.5.1.7	Chloromuconate cycloisomerase
+2-chloro-5-oxo-2,5-dihydrofuran-2-acetate lyase	5.5.1.7	Chloromuconate cycloisomerase
+2-chloromuconate cycloisomerase	5.5.1.7	Chloromuconate cycloisomerase
+Rho-2-CMCl	5.5.1.7	Chloromuconate cycloisomerase
+CMCI	5.5.1.7	Chloromuconate cycloisomerase
+Synthetase, bornyl pyrophosphate	5.5.1.8	(+)-bornyl diphosphate synthase
+bornyl pyrophosphate synthase	5.5.1.8	(+)-bornyl diphosphate synthase
+bornyl pyrophosphate synthetase	5.5.1.8	(+)-bornyl diphosphate synthase
+Geranyl pyrophosphate:	5.5.1.8	(+)-bornyl diphosphate synthase
+Geranyl pyrophosphate:	5.5.1.8	(+)-bornyl diphosphate synthase
+geranyl-diphosphate cyclase	5.5.1.8	(+)-bornyl diphosphate synthase
+BPS	5.5.1.8	(+)-bornyl diphosphate synthase
+BPPS	5.5.1.8	(+)-bornyl diphosphate synthase
+Cycloeucalenol-obtusifoliol isomerase	5.5.1.9	Cycloeucalenol cycloisomerase
+Isomerase, cycloeucalenol-obtusifoliol	5.5.1.9	Cycloeucalenol cycloisomerase
+Cycloeucalenol isomerase	5.5.1.9	Cycloeucalenol cycloisomerase
+Cycloeucalenol--obtusifoliol isomerase	5.5.1.9	Cycloeucalenol cycloisomerase
+Cyclopropyl sterol isomerase	5.5.1.9	Cycloeucalenol cycloisomerase
+Atcpi	5.5.1.9	Cycloeucalenol cycloisomerase

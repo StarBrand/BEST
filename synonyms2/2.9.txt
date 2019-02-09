@@ -1,0 +1,29 @@
+synonyms	ec_number	recommended_name
+L-Selenocysteine-tRNASel synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
+L-Selenocysteine-tRNASec synthase selenocysteine synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
+CysteinyltRNASel-selenium transferase	2.9.1.1	L-seryl-tRNASec selenium transferase
+Cysteinyl-tRNASec-selenium transferase	2.9.1.1	L-seryl-tRNASec selenium transferase
+Synthase, selenocysteinyl-transfer ribonucleate	2.9.1.1	L-seryl-tRNASec selenium transferase
+Selenocysteine-tRNA synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
+Synthase, selenocysteine	2.9.1.1	L-seryl-tRNASec selenium transferase
+GenBank Y14814-derived protein GI 2440135	2.9.1.1	L-seryl-tRNASec selenium transferase
+Selenocysteine synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
+Cysteinyl-tRNA	2.9.1.1	L-seryl-tRNASec selenium transferase
+Selenocysteinyl-tRNA	2.9.1.1	L-seryl-tRNASec selenium transferase
+More	2.9.1.1	L-seryl-tRNASec selenium transferase
+Selenocysteine synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
+Sec synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
+SecS	2.9.1.1	L-seryl-tRNASec selenium transferase
+soluble liver antigen	2.9.1.1	L-seryl-tRNASec selenium transferase
+SLA	2.9.1.1	L-seryl-tRNASec selenium transferase
+SelA	2.9.1.1	L-seryl-tRNASec selenium transferase
+Selenocysteinyl-tRNA synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
+selA gene product	2.9.1.1	L-seryl-tRNASec selenium transferase
+SepSecS	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+Sep tRNA: Sec synthase	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+O-phosphoserine tRNA: selenocysteine synthase	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+O-phosphoseryl-tRNA:selenocysteinyl-tRNA synthase	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+SLA/LP	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+MMPSepSecS	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+SelA	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+Selenocysteinyl-tRNA synthase	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase

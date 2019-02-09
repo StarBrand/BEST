@@ -1,0 +1,355 @@
+Commentary	Ref	Literature(PubmedID)	value
+n-heptanal reduction	11	11097895	7.0
+n-heptanol oxidation	11	11097895	9.5
+aldehyde reductase with p-nitrobenzaldehyde and NADPH	162	4393513	6.7-6.8
+	162	6753936	6.7-6.8
+	162	4402936	7.0
+aldehyde reductase II	162	0	7.0
+aldehyde reductase with p-nitrobenzaldehyde and NADPH	163	4393513	6.7-6.8
+	163	6753936	6.7-6.8
+	163	4402936	7.0
+aldehyde reductase II	163	0	7.0
+aldehyde reductase with p-nitrobenzaldehyde and NADPH	164	4393513	6.7-6.8
+	164	6753936	6.7-6.8
+	164	4402936	7.0
+aldehyde reductase II	164	0	7.0
+aldehyde reductase with p-nitrobenzaldehyde and NADPH	165	4393513	6.7-6.8
+	165	6753936	6.7-6.8
+	165	4402936	7.0
+aldehyde reductase II	165	0	7.0
+aldehyde reductase with p-nitrobenzaldehyde and NADPH	166	4393513	6.7-6.8
+	166	6753936	6.7-6.8
+	166	4402936	7.0
+aldehyde reductase II	166	0	7.0
+aldehyde reductase with p-nitrobenzaldehyde and NADPH	167	4393513	6.7-6.8
+	167	6753936	6.7-6.8
+	167	4402936	7.0
+aldehyde reductase II	167	0	7.0
+aldehyde reductase with p-nitrobenzaldehyde and NADPH	168	4393513	6.7-6.8
+	168	6753936	6.7-6.8
+	168	4402936	7.0
+aldehyde reductase II	168	0	7.0
+aldehyde reductase with p-nitrobenzaldehyde and NADPH	169	4393513	6.7-6.8
+	169	6753936	6.7-6.8
+	169	4402936	7.0
+aldehyde reductase II	169	0	7.0
+assay at	505	18211903	7.0
+assay at	506	18211903	7.0
+assay at	507	18211903	7.0
+assay at	508	18211903	7.0
+assay at	509	18211903	7.0
+assay at	510	18211903	7.0
+assay at	511	18211903	7.0
+isoform ADH-2; isoform ADH-II	525	0	7.8-9.5
+isoform ADH-1; isoform ADH-I	525	0	8.0-9.0
+isoform ADH-2; isoform ADH-II	526	0	7.8-9.5
+isoform ADH-1; isoform ADH-I	526	0	8.0-9.0
+isoform ADH-2; isoform ADH-II	527	0	7.8-9.5
+isoform ADH-1; isoform ADH-I	527	0	8.0-9.0
+	590	6753936	6.0
+AR2, sharp acidic pH	590	6343086	6.0
+AR1 and AR3	590	6343086	6.0-6.5
+oxidative reaction	641	23179592	10.0
+assay at	641	24062264	10.0
+oxidative reaction	642	23179592	10.0
+assay at	642	24062264	10.0
+aldehyde reductase II	665	6753936	6.0
+	665	6343086	6.0
+aldehyde reductaseI	665	3890957	6.0
+reduction of p-nitrobenzaldehyde in presence of NADPH	665	16919	6.6
+aldehyde reductase II	665	6753936	6.7-6.8
+aldehyde reductase II	665	3922304	7.0
+aldehyde reductase II	665	3890957	7.0
+	665	1654814	8.5
+oxidation of benzyl alcohol in presence of NADP+	665	16919	9.0-9.5
+aldehyde reductase II	666	6753936	6.0
+	666	6343086	6.0
+aldehyde reductaseI	666	3890957	6.0
+reduction of p-nitrobenzaldehyde in presence of NADPH	666	16919	6.6
+aldehyde reductase II	666	6753936	6.7-6.8
+aldehyde reductase II	666	3922304	7.0
+aldehyde reductase II	666	3890957	7.0
+	666	1654814	8.5
+oxidation of benzyl alcohol in presence of NADP+	666	16919	9.0-9.5
+aldehyde reductase II	667	6753936	6.0
+	667	6343086	6.0
+aldehyde reductaseI	667	3890957	6.0
+reduction of p-nitrobenzaldehyde in presence of NADPH	667	16919	6.6
+aldehyde reductase II	667	6753936	6.7-6.8
+aldehyde reductase II	667	3922304	7.0
+aldehyde reductase II	667	3890957	7.0
+	667	1654814	8.5
+oxidation of benzyl alcohol in presence of NADP+	667	16919	9.0-9.5
+aldehyde reductase II	668	6753936	6.0
+	668	6343086	6.0
+aldehyde reductaseI	668	3890957	6.0
+reduction of p-nitrobenzaldehyde in presence of NADPH	668	16919	6.6
+aldehyde reductase II	668	6753936	6.7-6.8
+aldehyde reductase II	668	3922304	7.0
+aldehyde reductase II	668	3890957	7.0
+	668	1654814	8.5
+oxidation of benzyl alcohol in presence of NADP+	668	16919	9.0-9.5
+aldehyde reductase II	669	6753936	6.0
+	669	6343086	6.0
+aldehyde reductaseI	669	3890957	6.0
+reduction of p-nitrobenzaldehyde in presence of NADPH	669	16919	6.6
+aldehyde reductase II	669	6753936	6.7-6.8
+aldehyde reductase II	669	3922304	7.0
+aldehyde reductase II	669	3890957	7.0
+	669	1654814	8.5
+oxidation of benzyl alcohol in presence of NADP+	669	16919	9.0-9.5
+aldehyde reductase II	670	6753936	6.0
+	670	6343086	6.0
+aldehyde reductaseI	670	3890957	6.0
+reduction of p-nitrobenzaldehyde in presence of NADPH	670	16919	6.6
+aldehyde reductase II	670	6753936	6.7-6.8
+aldehyde reductase II	670	3922304	7.0
+aldehyde reductase II	670	3890957	7.0
+	670	1654814	8.5
+oxidation of benzyl alcohol in presence of NADP+	670	16919	9.0-9.5
+aldehyde reductase II	671	6753936	6.0
+	671	6343086	6.0
+aldehyde reductaseI	671	3890957	6.0
+reduction of p-nitrobenzaldehyde in presence of NADPH	671	16919	6.6
+aldehyde reductase II	671	6753936	6.7-6.8
+aldehyde reductase II	671	3922304	7.0
+aldehyde reductase II	671	3890957	7.0
+	671	1654814	8.5
+oxidation of benzyl alcohol in presence of NADP+	671	16919	9.0-9.5
+assay pH	713	15549291	6.0
+	713	15896805	7.0
+assay at	713	16245351	8.0
+assay pH	714	15549291	6.0
+	714	15896805	7.0
+assay at	714	16245351	8.0
+assay pH	715	15549291	6.0
+	715	15896805	7.0
+assay at	715	16245351	8.0
+	791	19270127	6.3
+	792	19270127	6.3
+reduction of acetaldehyde	836	17318639	8.0
+oxidation of ethanol	836	17318639	10.0
+assay pH	848	15769935	7.0
+assay pH	849	15769935	7.0
+assay pH	850	15769935	7.0
+assay pH	851	15769935	7.0
+assay pH	852	15769935	7.0
+assay pH	853	15769935	7.0
+assay pH	854	15769935	7.0
+assay pH	855	15769935	7.0
+	874	26923741	7.0-7.5
+in Na-phosphate buffer with heptanal as substrate	994	19270388	8.0
+in glycineNaOH buffer with heptanal as substrate	994	19270388	8.5-9.0
+in Na-phosphate buffer with heptanal as substrate	995	19270388	8.0
+in glycineNaOH buffer with heptanal as substrate	995	19270388	8.5-9.0
+production of alcohol	1088	17294170	8.0
+oxidation of alcohol	1088	17294170	11.0
+aldehyde reduction	1099	11358525	7.5
+80°C, optimal pH for ethanol oxidation	1099	9973342	9.4-10.2
+assay at	1099	16535713	10.0
+alcohol oxidation	1099	11358525	10.0-11.0
+aldehyde reduction	1100	11358525	7.5
+80°C, optimal pH for ethanol oxidation	1100	9973342	9.4-10.2
+assay at	1100	16535713	10.0
+alcohol oxidation	1100	11358525	10.0-11.0
+aldehyde reduction	1101	11358525	7.5
+80°C, optimal pH for ethanol oxidation	1101	9973342	9.4-10.2
+assay at	1101	16535713	10.0
+alcohol oxidation	1101	11358525	10.0-11.0
+aldehyde reduction	1102	11358525	7.5
+80°C, optimal pH for ethanol oxidation	1102	9973342	9.4-10.2
+assay at	1102	16535713	10.0
+alcohol oxidation	1102	11358525	10.0-11.0
+	1127	6753936	6.0
+for reduction of p-pyridinecarboxaldehyde	1127	6416297	6.0
+	1127	6343086	6.0
+	1127	9693960	6.0-7.0
+assay at, ALR1	1127	24793885	7.2
+assay at	1127	25602762	7.2
+	1128	6753936	6.0
+for reduction of p-pyridinecarboxaldehyde	1128	6416297	6.0
+	1128	6343086	6.0
+	1128	9693960	6.0-7.0
+assay at, ALR1	1128	24793885	7.2
+assay at	1128	25602762	7.2
+	1129	6753936	6.0
+for reduction of p-pyridinecarboxaldehyde	1129	6416297	6.0
+	1129	6343086	6.0
+	1129	9693960	6.0-7.0
+assay at, ALR1	1129	24793885	7.2
+assay at	1129	25602762	7.2
+	1130	6753936	6.0
+for reduction of p-pyridinecarboxaldehyde	1130	6416297	6.0
+	1130	6343086	6.0
+	1130	9693960	6.0-7.0
+assay at, ALR1	1130	24793885	7.2
+assay at	1130	25602762	7.2
+	1131	6753936	6.0
+for reduction of p-pyridinecarboxaldehyde	1131	6416297	6.0
+	1131	6343086	6.0
+	1131	9693960	6.0-7.0
+assay at, ALR1	1131	24793885	7.2
+assay at	1131	25602762	7.2
+	1132	6753936	6.0
+for reduction of p-pyridinecarboxaldehyde	1132	6416297	6.0
+	1132	6343086	6.0
+	1132	9693960	6.0-7.0
+assay at, ALR1	1132	24793885	7.2
+assay at	1132	25602762	7.2
+optimum for reduction reaction, assay of reduction and oxidation at	1162	11742541	7.0
+	1162	19577617	7.0
+optimum for reduction reaction, assay of reduction and oxidation at	1163	11742541	7.0
+	1163	19577617	7.0
+optimum for reduction reaction, assay of reduction and oxidation at	1164	11742541	7.0
+	1164	19577617	7.0
+optimum for reduction reaction, assay of reduction and oxidation at	1165	11742541	7.0
+	1165	19577617	7.0
+optimum for reduction reaction, assay of reduction and oxidation at	1166	11742541	7.0
+	1166	19577617	7.0
+optimum for reduction reaction, assay of reduction and oxidation at	1167	11742541	7.0
+	1167	19577617	7.0
+optimum for reduction reaction, assay of reduction and oxidation at	1168	11742541	7.0
+	1168	19577617	7.0
+optimum for reduction reaction, assay of reduction and oxidation at	1169	11742541	7.0
+	1169	19577617	7.0
+optimum for reduction reaction, assay of reduction and oxidation at	1170	11742541	7.0
+	1170	19577617	7.0
+optimum for reduction reaction, assay of reduction and oxidation at	1171	11742541	7.0
+	1171	19577617	7.0
+; 	1201	23912116	6.0
+; 	1202	23912116	6.0
+reduction reaction, assay at	1237	12825698	6.5
+oxidation reaction, assay at	1237	12825698	8.8
+reduction reaction, assay at	1238	12825698	6.5
+oxidation reaction, assay at	1238	12825698	8.8
+reduction reaction, assay at	1239	12825698	6.5
+oxidation reaction, assay at	1239	12825698	8.8
+reduction reaction, assay at	1240	12825698	6.5
+oxidation reaction, assay at	1240	12825698	8.8
+reduction reaction, assay at	1241	12825698	6.5
+oxidation reaction, assay at	1241	12825698	8.8
+	1256	0	7.0
+	1257	0	7.0
+	1258	0	7.0
+	1259	0	7.0
+	1260	0	7.0
+aldehyde reductase I	1293	6989609	5.9
+aldehyde reductase II	1293	6989609	6.2
+reduction of 3-pyridinecarboxaldehyde	1293	4402936	7.0
+oxidation of 3-pyridinemethanol	1293	4402936	10.0
+aldehyde reductase I	1294	6989609	5.9
+aldehyde reductase II	1294	6989609	6.2
+reduction of 3-pyridinecarboxaldehyde	1294	4402936	7.0
+oxidation of 3-pyridinemethanol	1294	4402936	10.0
+aldehyde reductase I	1295	6989609	5.9
+aldehyde reductase II	1295	6989609	6.2
+reduction of 3-pyridinecarboxaldehyde	1295	4402936	7.0
+oxidation of 3-pyridinemethanol	1295	4402936	10.0
+aldehyde reductase I	1296	6989609	5.9
+aldehyde reductase II	1296	6989609	6.2
+reduction of 3-pyridinecarboxaldehyde	1296	4402936	7.0
+oxidation of 3-pyridinemethanol	1296	4402936	10.0
+aldehyde reductase I	1297	6989609	5.9
+aldehyde reductase II	1297	6989609	6.2
+reduction of 3-pyridinecarboxaldehyde	1297	4402936	7.0
+oxidation of 3-pyridinemethanol	1297	4402936	10.0
+aldehyde reductase I	1298	6989609	5.9
+aldehyde reductase II	1298	6989609	6.2
+reduction of 3-pyridinecarboxaldehyde	1298	4402936	7.0
+oxidation of 3-pyridinemethanol	1298	4402936	10.0
+aldehyde reductase I	1299	6989609	5.9
+aldehyde reductase II	1299	6989609	6.2
+reduction of 3-pyridinecarboxaldehyde	1299	4402936	7.0
+oxidation of 3-pyridinemethanol	1299	4402936	10.0
+aldehyde reductase I	1300	6989609	5.9
+aldehyde reductase II	1300	6989609	6.2
+reduction of 3-pyridinecarboxaldehyde	1300	4402936	7.0
+oxidation of 3-pyridinemethanol	1300	4402936	10.0
+	1338	7030321	7.8
+assay at	1338	16245351	8.0
+	1339	7030321	7.8
+assay at	1339	16245351	8.0
+	1340	7030321	7.8
+assay at	1340	16245351	8.0
+	1341	7030321	7.8
+assay at	1341	16245351	8.0
+	1342	7030321	7.8
+assay at	1342	16245351	8.0
+	1343	7030321	7.8
+assay at	1343	16245351	8.0
+NAD(P)+ reduction	1344	8068002	6.5-9.0
+aldehyde-reduction	1344	8068002	7.0
+alcohol-oxidation	1344	8068002	9.0
+NAD(P)+ reduction	1345	8068002	6.5-9.0
+aldehyde-reduction	1345	8068002	7.0
+alcohol-oxidation	1345	8068002	9.0
+NAD(P)+ reduction	1346	8068002	6.5-9.0
+aldehyde-reduction	1346	8068002	7.0
+alcohol-oxidation	1346	8068002	9.0
+optimum for aldehyde reduction	1355	10491136	7.5
+optimum for alcohol oxidation	1355	10491136	10.5
+ethanol oxidation	1357	8135516	8.8
+ethanol oxidation	1358	8135516	8.8
+assay at, reduction of ketones	1361	20418438	7.5
+assay at, oxidation of alcohols	1361	20418438	10.5
+assay at, reduction of ketones	1362	20418438	7.5
+assay at, oxidation of alcohols	1362	20418438	10.5
+assay at, reduction of ketones	1363	20418438	7.5
+assay at, oxidation of alcohols	1363	20418438	10.5
+ethanol as substrate	1364	9209068	6.8-7.0
+for acetaldehyde reduction	1364	19115036	7.0
+for ethanol oxidation	1364	19115036	10.3-10.5
+propionaldehyde as substrate	1408	2663637	7.0-8.0
+n-propanol as substrate	1408	2663637	9.0-9.5
+propionaldehyde as substrate	1409	2663637	7.0-8.0
+n-propanol as substrate	1409	2663637	9.0-9.5
+propionaldehyde as substrate	1410	2663637	7.0-8.0
+n-propanol as substrate	1410	2663637	9.0-9.5
+propionaldehyde as substrate	1411	2663637	7.0-8.0
+n-propanol as substrate	1411	2663637	9.0-9.5
+propionaldehyde as substrate	1412	2663637	7.0-8.0
+n-propanol as substrate	1412	2663637	9.0-9.5
+	1473	26923741	7.0-7.5
+; 	1477	23912116	6.0
+; 	1479	23912116	6.0
+ethanol as substrate	1484	9209068	6.8-7.0
+for acetaldehyde reduction	1484	19115036	7.0
+for ethanol oxidation	1484	19115036	10.3-10.5
+assay at, reduction of ketones	1486	20418438	7.5
+assay at, oxidation of alcohols	1486	20418438	10.5
+2-butanone reduction	1491	21515780	7.5
+2-butanol oxidation	1491	21515780	10.5
+aldehyde reduction	1492	11358525	7.5
+80°C, optimal pH for ethanol oxidation	1492	9973342	9.4-10.2
+assay at	1492	16535713	10.0
+alcohol oxidation	1492	11358525	10.0-11.0
+	1493	6753936	6.0
+for reduction of p-pyridinecarboxaldehyde	1493	6416297	6.0
+	1493	6343086	6.0
+	1493	9693960	6.0-7.0
+assay at, ALR1	1493	24793885	7.2
+assay at	1493	25602762	7.2
+aldehyde reductase II	1497	6753936	6.0
+	1497	6343086	6.0
+aldehyde reductaseI	1497	3890957	6.0
+reduction of p-nitrobenzaldehyde in presence of NADPH	1497	16919	6.6
+aldehyde reductase II	1497	6753936	6.7-6.8
+aldehyde reductase II	1497	3922304	7.0
+aldehyde reductase II	1497	3890957	7.0
+	1497	1654814	8.5
+oxidation of benzyl alcohol in presence of NADP+	1497	16919	9.0-9.5
+	1498	7030321	7.8
+assay at	1498	16245351	8.0
+aldehyde reductase I	1501	6989609	5.9
+aldehyde reductase II	1501	6989609	6.2
+reduction of 3-pyridinecarboxaldehyde	1501	4402936	7.0
+oxidation of 3-pyridinemethanol	1501	4402936	10.0
+	1502	6753936	6.0
+for reduction of p-pyridinecarboxaldehyde	1502	6416297	6.0
+	1502	6343086	6.0
+	1502	9693960	6.0-7.0
+assay at, ALR1	1502	24793885	7.2
+assay at	1502	25602762	7.2
+assay at	1505	18211903	7.0
+assay pH	1510	15769935	7.0
+	1512	24265029	7.0

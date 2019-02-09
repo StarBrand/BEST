@@ -1,0 +1,10 @@
+EC_Number	Systematic_name	Recommended_name	UniProt	Organism	Commentary	Literature(PubmedID)	Ref
+3.6.3.53	ATP phosphohydrolase (Ag+-exporting)	Ag+-exporting ATPase		Citrobacter freundii		526888	0
+3.6.3.53	ATP phosphohydrolase (Ag+-exporting)	Ag+-exporting ATPase		Enterobacter cloacae		526888	1
+3.6.3.53	ATP phosphohydrolase (Ag+-exporting)	Ag+-exporting ATPase		Escherichia coli	K-12 strain J53(pMG101)	9835606	2
+3.6.3.53	ATP phosphohydrolase (Ag+-exporting)	Ag+-exporting ATPase		Escherichia coli		526888	3
+3.6.3.53	ATP phosphohydrolase (Ag+-exporting)	Ag+-exporting ATPase		Klebsiella pneumoniae		526888	4
+3.6.3.53	ATP phosphohydrolase (Ag+-exporting)	Ag+-exporting ATPase		Oncorhynchus mykiss		10448119	5
+3.6.3.53	ATP phosphohydrolase (Ag+-exporting)	Ag+-exporting ATPase		Proteus mirabilis		526888	6
+3.6.3.53	ATP phosphohydrolase (Ag+-exporting)	Ag+-exporting ATPase		Pseudomonas stutzeri	plasmid pKK1 specifies silver resistance	6715284	7
+3.6.3.53	ATP phosphohydrolase (Ag+-exporting)	Ag+-exporting ATPase		Salmonella sp.	gene is encoded by Ag+ resistance plasmid pMG101	9930866	8

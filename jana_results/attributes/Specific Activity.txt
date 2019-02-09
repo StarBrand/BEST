@@ -1,0 +1,5 @@
+Commentary	Ref	Literature(PubmedID)	value
+0.0057 units for CobST subunit, 1 unit of CobN is defined as the amount of CobST necessary to reconstruct 1 unit of the entire complex. 0.006 for CobN subunit, 1 unit of CobN is defined as the amount of CobN necessary to reconstruct 1 unit of the entire complex	18	1429466	-999.0
+0.0057 units for CobST subunit, 1 unit of CobN is defined as the amount of CobST necessary to reconstruct 1 unit of the entire complex. 0.006 for CobN subunit, 1 unit of CobN is defined as the amount of CobN necessary to reconstruct 1 unit of the entire complex	19	1429466	-999.0
+0.0057 units for CobST subunit, 1 unit of CobN is defined as the amount of CobST necessary to reconstruct 1 unit of the entire complex. 0.006 for CobN subunit, 1 unit of CobN is defined as the amount of CobN necessary to reconstruct 1 unit of the entire complex	20	1429466	-999.0
+0.0057 units for CobST subunit, 1 unit of CobN is defined as the amount of CobST necessary to reconstruct 1 unit of the entire complex. 0.006 for CobN subunit, 1 unit of CobN is defined as the amount of CobN necessary to reconstruct 1 unit of the entire complex	21	1429466	-999.0

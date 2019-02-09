@@ -1,0 +1,25 @@
+EC	subclass
+1.1	Acting on the CH-OH group of donors
+1.2	Acting on the aldehyde or oxo group of donors
+1.3	Acting on the CH-CH group of donors
+1.4	Acting on the CH-NH2 group of donors
+1.5	Acting on the CH-NH group of donors
+1.6	Acting on NADH or NADPH
+1.7	Acting on other nitrogenous compounds as donors
+1.8	Acting on a sulfur group of donors
+1.9	Acting on a heme group of donors
+1.10	Acting on diphenols and related substances as donors
+1.11	Acting on a peroxide as acceptor
+1.12	Acting on hydrogen as donor
+1.13	Acting on single donors with incorporation of molecular oxygen (oxygenases)
+1.14	Acting on paired donors, with incorporation or reduction of molecular oxygen
+1.15	Acting on superoxide radicals as acceptor
+1.16	Oxidising metal ions
+1.17	Acting on CH or CH2 groups
+1.18	Acting on iron-sulfur proteins as donors
+1.19	Acting on reduced flavodoxin as donor
+1.20	Acting on phosphorus or arsenic in donors
+1.21	Acting on the reaction X-H + Y-H = X-Y 
+1.22	Acting on halogen in donors
+1.23	Reducing C-O-C group as acceptor
+1.97	Other oxidoreductases

@@ -1,0 +1,1108 @@
+synonyms	ec_number	recommended_name
+Synthetase, asparagine	6.3.1.1	aspartate-ammonia ligase
+L-Asparagine synthetase	6.3.1.1	aspartate-ammonia ligase
+NH4+-dependent asparagine synthetase	6.3.1.1	aspartate-ammonia ligase
+AS-A	6.3.1.1	aspartate-ammonia ligase
+ammonia-dependent asparagine synthetase	6.3.1.1	aspartate-ammonia ligase
+asparagine synthetase, ammonia-dependent	6.3.1.1	aspartate-ammonia ligase
+ammonia-dependent ASNS	6.3.1.1	aspartate-ammonia ligase
+Asparagine synthetase A	6.3.1.1	aspartate-ammonia ligase
+AsnA	6.3.1.1	aspartate-ammonia ligase
+Asparagine synthetase	6.3.1.1	aspartate-ammonia ligase
+ASNS	6.3.1.1	aspartate-ammonia ligase
+AS-AR	6.3.1.1	aspartate-ammonia ligase
+AdoCbi-P synthetase	6.3.1.10	adenosylcobinamide-phosphate synthase
+CbiB	6.3.1.10	adenosylcobinamide-phosphate synthase
+CbiB synthetase	6.3.1.10	adenosylcobinamide-phosphate synthase
+AdoCbi-P synthase	6.3.1.10	adenosylcobinamide-phosphate synthase
+gamma-Glu-Put synthetase	6.3.1.11	glutamate-putrescine ligase
+YcjK	6.3.1.11	glutamate-putrescine ligase
+gamma-glutamylputrescine synthetase	6.3.1.11	glutamate-putrescine ligase
+PuuA	6.3.1.11	glutamate-putrescine ligase
+aslA	6.3.1.12	D-aspartate ligase
+UDP-MurNAc-pentapeptide:D-aspartate ligase	6.3.1.12	D-aspartate ligase
+D-aspartic acid-activating enzyme	6.3.1.12	D-aspartate ligase
+Aslfm	6.3.1.12	D-aspartate ligase
+cysteine ligase	6.3.1.13	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside
+mycothiol ligase	6.3.1.13	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside
+More	6.3.1.13	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside
+Cys:GlcN-Ins ligase	6.3.1.13	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside
+MshC ligase	6.3.1.13	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside
+MshC	6.3.1.13	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside
+L-cysteine:1-D-myo-inosityl 2-amino-2-deoxy-alpha-D-glucopyranoside	6.3.1.13	L-cysteine:1D-myo-inositol 2-amino-2-deoxy-alpha-D-glucopyranoside
+Diphthamide synthase	6.3.1.14	diphthine-ammonia ligase
+Synthetase, diphthamide	6.3.1.14	diphthine-ammonia ligase
+YLR143w	6.3.1.14	diphthine-ammonia ligase
+DPH6	6.3.1.14	diphthine-ammonia ligase
+NovL	6.3.1.15	8-demethylnovobiocic acid synthase
+novobiocin ligase	6.3.1.15	8-demethylnovobiocic acid synthase
+8-desmethyl-novobiocic acid synthetase	6.3.1.15	8-demethylnovobiocic acid synthase
+8-demethylnovobiocic acid synthetase	6.3.1.15	8-demethylnovobiocic acid synthase
+RIMKLB	6.3.1.17	beta-citrylglutamate synthase
+NAAG synthetase I	6.3.1.17	beta-citrylglutamate synthase
+NAAGS-I	6.3.1.17	beta-citrylglutamate synthase
+GCP3	6.3.1.17	beta-citrylglutamate synthase
+tdnQ	6.3.1.18	gamma-glutamylanilide synthase
+dcaQ	6.3.1.18	gamma-glutamylanilide synthase
+atdA1	6.3.1.18	gamma-glutamylanilide synthase
+Pup-protein ligase	6.3.1.19	prokaryotic ubiquitin-like protein ligase
+Pup ligase	6.3.1.19	prokaryotic ubiquitin-like protein ligase
+PafA	6.3.1.19	prokaryotic ubiquitin-like protein ligase
+Rv2097c	6.3.1.19	prokaryotic ubiquitin-like protein ligase
+ubiquitin-like protein ligase	6.3.1.19	prokaryotic ubiquitin-like protein ligase
+proteasome accessory factor A	6.3.1.19	prokaryotic ubiquitin-like protein ligase
+GS	6.3.1.2	glutamine synthetase
+Glutamylhydroxamic synthetase	6.3.1.2	glutamine synthetase
+Synthetase, glutamine	6.3.1.2	glutamine synthetase
+Chloroplast GS2	6.3.1.2	glutamine synthetase
+Clone lambda-GS28	6.3.1.2	glutamine synthetase
+Clone lambda-GS31	6.3.1.2	glutamine synthetase
+Clone lambda-GS8	6.3.1.2	glutamine synthetase
+Cytoplasmic GS3	6.3.1.2	glutamine synthetase
+Cytosolic GS1	6.3.1.2	glutamine synthetase
+Gln isozyme alpha	6.3.1.2	glutamine synthetase
+Gln isozyme beta	6.3.1.2	glutamine synthetase
+Gln isozyme gamma	6.3.1.2	glutamine synthetase
+Glutamate--ammonia ligase	6.3.1.2	glutamine synthetase
+GS	6.3.1.2	glutamine synthetase
+GS107	6.3.1.2	glutamine synthetase
+GS112	6.3.1.2	glutamine synthetase
+GS117	6.3.1.2	glutamine synthetase
+GS122	6.3.1.2	glutamine synthetase
+GSII	6.3.1.2	glutamine synthetase
+Isozyme delta	6.3.1.2	glutamine synthetase
+N47/N48	6.3.1.2	glutamine synthetase
+S2205/S2287	6.3.1.2	glutamine synthetase
+glutamine synthetase type III	6.3.1.2	glutamine synthetase
+glutamate-ammonia ligase	6.3.1.2	glutamine synthetase
+gamma-glutamyl transferase	6.3.1.2	glutamine synthetase
+gamma-glutamylhydroxamate synthetase	6.3.1.2	glutamine synthetase
+GS1 kinase	6.3.1.2	glutamine synthetase
+GlnR	6.3.1.2	glutamine synthetase
+GLN1,3	6.3.1.2	glutamine synthetase
+OsGLN1,1	6.3.1.2	glutamine synthetase
+OsGLN1,2	6.3.1.2	glutamine synthetase
+GLN1,1	6.3.1.2	glutamine synthetase
+type I glutamine synthetase	6.3.1.2	glutamine synthetase
+GS-II	6.3.1.2	glutamine synthetase
+glutamine synthetase type II	6.3.1.2	glutamine synthetase
+GluA	6.3.1.2	glutamine synthetase
+GlnA2	6.3.1.2	glutamine synthetase
+TAase	6.3.1.2	glutamine synthetase
+protein transacetylase	6.3.1.2	glutamine synthetase
+L-Glutamine synthetase	6.3.1.2	glutamine synthetase
+L-glutamate:ammonia ligase	6.3.1.2	glutamine synthetase
+gamma-glutamyl:ammonia ligase	6.3.1.2	glutamine synthetase
+GLUL	6.3.1.2	glutamine synthetase
+GlnA3	6.3.1.2	glutamine synthetase
+GlnA4	6.3.1.2	glutamine synthetase
+GS3	6.3.1.2	glutamine synthetase
+MM_0964	6.3.1.2	glutamine synthetase
+GS1	6.3.1.2	glutamine synthetase
+GlnA1	6.3.1.2	glutamine synthetase
+GS1a	6.3.1.2	glutamine synthetase
+GS2	6.3.1.2	glutamine synthetase
+GLN2	6.3.1.2	glutamine synthetase
+GLN1,2	6.3.1.2	glutamine synthetase
+GLN1,4	6.3.1.2	glutamine synthetase
+GS type-1	6.3.1.2	glutamine synthetase
+GSI	6.3.1.2	glutamine synthetase
+GSIII	6.3.1.2	glutamine synthetase
+type III glutamine synthetase	6.3.1.2	glutamine synthetase
+GlnN	6.3.1.2	glutamine synthetase
+L-glutamate:ammonia ligase	6.3.1.2	glutamine synthetase
+GlnA	6.3.1.2	glutamine synthetase
+ATP glutamate-ammonia ligase	6.3.1.2	glutamine synthetase
+GS1-1	6.3.1.2	glutamine synthetase
+SSO0366	6.3.1.2	glutamine synthetase
+glnA-1	6.3.1.2	glutamine synthetase
+8,11,12,14,15,16,18,19,20,22,23,24,25,26,27,28,38,42,44,48,52,58,63,65	6.3.1.2	glutamine synthetase
+GS type I	6.3.1.2	glutamine synthetase
+glutamine synthetase I	6.3.1.2	glutamine synthetase
+LplA1Ct	6.3.1.20	lipoate-protein ligase
+lipoic acid ligase	6.3.1.20	lipoate-protein ligase
+lipoyl-protein ligase A	6.3.1.20	lipoate-protein ligase
+Oryza s. lipoate-protein ligase A	6.3.1.20	lipoate-protein ligase
+OsLPLA	6.3.1.20	lipoate-protein ligase
+lipoate ligase like protein	6.3.1.20	lipoate-protein ligase
+CTD	6.3.1.20	lipoate-protein ligase
+LipB	6.3.1.20	lipoate-protein ligase
+lipoate protein ligase B	6.3.1.20	lipoate-protein ligase
+lipoate-protein ligase	6.3.1.20	lipoate-protein ligase
+LPLA	6.3.1.20	lipoate-protein ligase
+lipoate-protein ligase A	6.3.1.20	lipoate-protein ligase
+lipoate ligase	6.3.1.20	lipoate-protein ligase
+LIP3	6.3.1.20	lipoate-protein ligase
+lipoate protein ligase	6.3.1.20	lipoate-protein ligase
+lipoyl ligase	6.3.1.20	lipoate-protein ligase
+LplA-LplB complex	6.3.1.20	lipoate-protein ligase
+LplB	6.3.1.20	lipoate-protein ligase
+lipoic acid protein ligase	6.3.1.20	lipoate-protein ligase
+lipoic acid protein ligase A1	6.3.1.20	lipoate-protein ligase
+Lpla2	6.3.1.20	lipoate-protein ligase
+LplA1	6.3.1.20	lipoate-protein ligase
+Asparagine synthetase	6.3.1.4	aspartate-ammonia ligase (ADP-forming)
+Synthetase, asparagine	6.3.1.4	aspartate-ammonia ligase (ADP-forming)
+Asparagine synthetase	6.3.1.4	aspartate-ammonia ligase (ADP-forming)
+Asparagine synthetase	6.3.1.4	aspartate-ammonia ligase (ADP-forming)
+ASNS	6.3.1.4	aspartate-ammonia ligase (ADP-forming)
+NAD+ synthetase	6.3.1.5	NAD+ synthase
+Synthetase, nicotinamide adenine dinucleotide	6.3.1.5	NAD+ synthase
+Diphosphopyridine nucleotide synthetase	6.3.1.5	NAD+ synthase
+ammonia-specific NAD synthetase	6.3.1.5	NAD+ synthase
+mj_NADS	6.3.1.5	NAD+ synthase
+MJ1352	6.3.1.5	NAD+ synthase
+NAD synthetase	6.3.1.5	NAD+ synthase
+NadE	6.3.1.5	NAD+ synthase
+Nicotinamide adenine dinucleotide synthetase	6.3.1.5	NAD+ synthase
+NAD synthase	6.3.1.5	NAD+ synthase
+NADS	6.3.1.5	NAD+ synthase
+ammonia-dependent nicotinamide adenine dinucleotide synthetase	6.3.1.5	NAD+ synthase
+ammonia-dependent NADS	6.3.1.5	NAD+ synthase
+Qns1	6.3.1.5	NAD+ synthase
+NH3-dependent NAD+ synthetase	6.3.1.5	NAD+ synthase
+ammonia-specific NAD synthase	6.3.1.5	NAD+ synthase
+N5-Ethyl-L-glutamine synthetase	6.3.1.6	glutamate-ethylamine ligase
+Synthetase, N5-ethylglutamine	6.3.1.6	glutamate-ethylamine ligase
+Theanine synthetase	6.3.1.6	glutamate-ethylamine ligase
+4-Methyleneglutamine synthetase	6.3.1.7	4-methyleneglutamate-ammonia ligase
+Synthetase, methyleneglutamine	6.3.1.7	4-methyleneglutamate-ammonia ligase
+4-Methylenenglutamate:ammonia ligase	6.3.1.7	4-methyleneglutamate-ammonia ligase
+Glutathione:spermidine ligase	6.3.1.8	glutathionylspermidine synthase
+Synthetase, glutathionylspermidine	6.3.1.8	glutathionylspermidine synthase
+Synthetase, glutathionylspermidine	6.3.1.8	glutathionylspermidine synthase
+GenBank U66520-derived protein GI 1813514	6.3.1.8	glutathionylspermidine synthase
+Glutathionylspermidine synthetase	6.3.1.8	glutathionylspermidine synthase
+Synthetase, glutathionylspermidine	6.3.1.8	glutathionylspermidine synthase
+Glutathionylspermidine synthetase	6.3.1.8	glutathionylspermidine synthase
+Synthetase, glutathionylspermidine	6.3.1.8	glutathionylspermidine synthase
+Synthetase, glutathionylspermidine	6.3.1.8	glutathionylspermidine synthase
+Gen Bank AE000381-derived protein GI 1789361	6.3.1.8	glutathionylspermidine synthase
+Protein	6.3.1.8	glutathionylspermidine synthase
+Gsp synthetase	6.3.1.8	glutathionylspermidine synthase
+Glutathione:spermidine ligase [ADP-forming]	6.3.1.8	glutathionylspermidine synthase
+glutathionylspermidine synthetase	6.3.1.8	glutathionylspermidine synthase
+GspS	6.3.1.8	glutathionylspermidine synthase
+GspSA	6.3.1.8	glutathionylspermidine synthase
+TryS	6.3.1.8	glutathionylspermidine synthase
+Glutathionylspermidine synthetase/amidase	6.3.1.8	glutathionylspermidine synthase
+bifunctional glutathionylspermidine synthetase/amidase	6.3.1.8	glutathionylspermidine synthase
+Synthetase, trypanothione	6.3.1.9	trypanothione synthase
+Synthetase, trypanothione	6.3.1.9	trypanothione synthase
+GenBank AF006615-derived protein GI 3004644	6.3.1.9	trypanothione synthase
+Trypanothione synthetase	6.3.1.9	trypanothione synthase
+TSH synthetase	6.3.1.9	trypanothione synthase
+Cf-TS	6.3.1.9	trypanothione synthase
+T	6.3.1.9	trypanothione synthase
+Trypanothione synthetase	6.3.1.9	trypanothione synthase
+TryS	6.3.1.9	trypanothione synthase
+TcTryS	6.3.1.9	trypanothione synthase
+TSA	6.3.1.9	trypanothione synthase
+trypanothione synthetase-amidase	6.3.1.9	trypanothione synthase
+Synthetase, pantothenate	6.3.2.1	pantoate-beta-alanine ligase (AMP-forming)
+Pantoate activating enzyme	6.3.2.1	pantoate-beta-alanine ligase (AMP-forming)
+Pantoic-activating enzyme	6.3.2.1	pantoate-beta-alanine ligase (AMP-forming)
+D-Pantoate:beta-alanine ligase	6.3.2.1	pantoate-beta-alanine ligase (AMP-forming)
+pantoate-beta-alanine ligase	6.3.2.1	pantoate-beta-alanine ligase (AMP-forming)
+Pantothenate synthetase	6.3.2.1	pantoate-beta-alanine ligase (AMP-forming)
+PS	6.3.2.1	pantoate-beta-alanine ligase (AMP-forming)
+PTS	6.3.2.1	pantoate-beta-alanine ligase (AMP-forming)
+panthotenate synthetase	6.3.2.1	pantoate-beta-alanine ligase (AMP-forming)
+PanC	6.3.2.1	pantoate-beta-alanine ligase (AMP-forming)
+MurF	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase
+Synthetase, uridine diphosphoacetylmuramoylpentapeptide	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase
+Uridine diphosphoacetylmuramoylpentapeptide synthetase	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase
+UDPacetylmuramoylpentapeptide synthetase	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase
+D-Ala-D-Ala-adding enzyme	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase
+UDP-N-acetylmuramoylalanyl-D-glutamyl-lysine-D-alanyl-D-alanine	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase
+More	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase
+MurF1	6.3.2.10	UDP-N-acetylmuramoyl-tripeptide-D-alanyl-D-alanine ligase
+Synthetase, carnosine	6.3.2.11	carnosine synthase
+HCarn-Carn synthetase	6.3.2.11	carnosine synthase
+CAS	6.3.2.11	carnosine synthase
+carnosine synthase	6.3.2.11	carnosine synthase
+Carnosine synthetase	6.3.2.11	carnosine synthase
+Carnosine-anserine synthetase	6.3.2.11	carnosine synthase
+Homocarnosine-carnosine synthetase	6.3.2.11	carnosine synthase
+Carnosine-homocarnosine synthetase	6.3.2.11	carnosine synthase
+ATPGD1	6.3.2.11	carnosine synthase
+7,8-Dihydrofolate synthetase	6.3.2.12	dihydrofolate synthase
+7,8-Dihydropteroate:L-glutamate ligase	6.3.2.12	dihydrofolate synthase
+Dihydrofolate synthetase	6.3.2.12	dihydrofolate synthase
+FHFS	6.3.2.12	dihydrofolate synthase
+FHFS/FPGS	6.3.2.12	dihydrofolate synthase
+Folylpoly-	6.3.2.12	dihydrofolate synthase
+Folylpoly-gamma-glutamate synthetase-dihydrofolate synthetase	6.3.2.12	dihydrofolate synthase
+Synthetase, dihydrofolate	6.3.2.12	dihydrofolate synthase
+dihydropteroate:L-glutamate ligase	6.3.2.12	dihydrofolate synthase
+DHFR	6.3.2.12	dihydrofolate synthase
+dihydrofolate reductase	6.3.2.12	dihydrofolate synthase
+dihydrofolate synthase	6.3.2.12	dihydrofolate synthase
+PfDHFS-FPGS	6.3.2.12	dihydrofolate synthase
+H2-folate synthetase	6.3.2.12	dihydrofolate synthase
+dihydrofolate synthetase-folylpolyglutamate synthetase	6.3.2.12	dihydrofolate synthase
+FolC	6.3.2.12	dihydrofolate synthase
+DHFS	6.3.2.12	dihydrofolate synthase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-meso-2,6-diaminopimelate	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+Synthetase, uridine	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+Uridine-diphosphate-N-acetylmuramyl-L-alanyl-D-glutamate:meso-2	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+UDPMurNAc-L-alanyl-D-glutamate:mDAP ligase	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+mDAP ligase	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+Diaminopimelic-adding enzyme	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+Uridine diphosphate	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+Meso-diaminopimelate-adding enzyme	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+UDP-MurNAc-tripeptide synthetase	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+UDP-N-acetylmuramyl-tripeptide synthetase	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+UDP-N-acetylmuramyl tripeptide synthetase	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+MurE	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+Mur ligase	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+amide ligase	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+MurE synthetase	6.3.2.13	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-2,6-diaminopimelate ligase
+N-	6.3.2.14	enterobactin synthase
+Synthetase, 2,3-dihydroxybenzoylserine	6.3.2.14	enterobactin synthase
+2,3-Dihydroxybenzoylserine synthetase	6.3.2.14	enterobactin synthase
+2,3-Dihydroxy-N-benzoyl-L-serine synthetase	6.3.2.14	enterobactin synthase
+DBS synthetase	6.3.2.14	enterobactin synthase
+DHBS synthase	6.3.2.14	enterobactin synthase
+EntE	6.3.2.14	enterobactin synthase
+D-Alanyl-alanyl-polyglycerolphosphate synthetase	6.3.2.16	D-alanine-alanyl-poly(glycerolphosphate) ligase
+D-Alanine:membrane-acceptor ligase	6.3.2.16	D-alanine-alanyl-poly(glycerolphosphate) ligase
+Synthetase, D-alanylalanylpoly	6.3.2.16	D-alanine-alanyl-poly(glycerolphosphate) ligase
+D-Alanyl-poly	6.3.2.16	D-alanine-alanyl-poly(glycerolphosphate) ligase
+D-Alanine-membrane acceptor-ligase	6.3.2.16	D-alanine-alanyl-poly(glycerolphosphate) ligase
+D-Alanine:membrane acceptor ligase	6.3.2.16	D-alanine-alanyl-poly(glycerolphosphate) ligase
+Folylpoly-gamma-glutamate synthetase-dihydrofolate synthetase	6.3.2.17	tetrahydrofolate synthase
+Synthetase, folylpolyglutamate	6.3.2.17	tetrahydrofolate synthase
+Folate polyglutamate synthetase	6.3.2.17	tetrahydrofolate synthase
+Formyltetrahydropteroyldiglutamate synthetase	6.3.2.17	tetrahydrofolate synthase
+N10-Formyltetrahydropteroyldiglutamate synthetase	6.3.2.17	tetrahydrofolate synthase
+Folylpoly-.gamma.-glutamate synthase	6.3.2.17	tetrahydrofolate synthase
+Folylpolyglutamyl synthetase	6.3.2.17	tetrahydrofolate synthase
+Folylpoly	6.3.2.17	tetrahydrofolate synthase
+Tail length regulator	6.3.2.17	tetrahydrofolate synthase
+tetrahydrofolylpolyglutamate synthase	6.3.2.17	tetrahydrofolate synthase
+tetrahydrofolate:L-glutamate gamma-ligase	6.3.2.17	tetrahydrofolate synthase
+PfDHFS-FPGS	6.3.2.17	tetrahydrofolate synthase
+FPGS2	6.3.2.17	tetrahydrofolate synthase
+FPGS1	6.3.2.17	tetrahydrofolate synthase
+MTHFD1L	6.3.2.17	tetrahydrofolate synthase
+Folylpolyglutamate synthetase	6.3.2.17	tetrahydrofolate synthase
+FolC	6.3.2.17	tetrahydrofolate synthase
+FPGS	6.3.2.17	tetrahydrofolate synthase
+Folylpoly-gamma-glutamate synthetase	6.3.2.17	tetrahydrofolate synthase
+mFGPS	6.3.2.17	tetrahydrofolate synthase
+folyl-gamma-glutamate synthetase	6.3.2.17	tetrahydrofolate synthase
+folypolyglutamate synthetase	6.3.2.17	tetrahydrofolate synthase
+folypoly-gamma-glutamate synthetase	6.3.2.17	tetrahydrofolate synthase
+Folylpolyglutamate synthase	6.3.2.17	tetrahydrofolate synthase
+folypolyglutamate synthase	6.3.2.17	tetrahydrofolate synthase
+gamma-Glutamylhistamine synthetase	6.3.2.18	gamma-glutamylhistamine synthase
+gamma-GHA synthetase	6.3.2.18	gamma-glutamylhistamine synthase
+Synthetase, gamma-glutamylcysteine	6.3.2.2	glutamate-cysteine ligase
+gamma-Glutamyl-L-cysteine synthetase	6.3.2.2	glutamate-cysteine ligase
+gamma-Glutamylcysteinyl-synthetase	6.3.2.2	glutamate-cysteine ligase
+GCL	6.3.2.2	glutamate-cysteine ligase
+glutamate cysteine ligase	6.3.2.2	glutamate-cysteine ligase
+AtGCL	6.3.2.2	glutamate-cysteine ligase
+More	6.3.2.2	glutamate-cysteine ligase
+GCLM	6.3.2.2	glutamate-cysteine ligase
+2,3,4,5,6,7,8,10,13,18,19,24,26,27,28,32,36,40,42,43,44,45,46,47,48,49	6.3.2.2	glutamate-cysteine ligase
+GCLC	6.3.2.2	glutamate-cysteine ligase
+glutamate-cysteine ligase	6.3.2.2	glutamate-cysteine ligase
+GCS	6.3.2.2	glutamate-cysteine ligase
+GLCL	6.3.2.2	glutamate-cysteine ligase
+Gamma-ECS	6.3.2.2	glutamate-cysteine ligase
+PAD2	6.3.2.2	glutamate-cysteine ligase
+gammaGCS	6.3.2.2	glutamate-cysteine ligase
+gamma -GCS	6.3.2.2	glutamate-cysteine ligase
+gamma-GCS-GS	6.3.2.2	glutamate-cysteine ligase
+gamma-glutamylcysteine synthetase-glutathione synthetase	6.3.2.2	glutamate-cysteine ligase
+GLCLC	6.3.2.2	glutamate-cysteine ligase
+GLCLR	6.3.2.2	glutamate-cysteine ligase
+gamma-glutaminylcysteine synthetase	6.3.2.2	glutamate-cysteine ligase
+gamma-glutamycysteine synthetase	6.3.2.2	glutamate-cysteine ligase
+gamma-glutamylcysteine ligase	6.3.2.2	glutamate-cysteine ligase
+gamma-glutamate-cysteine ligase-glutathione synthetase	6.3.2.2	glutamate-cysteine ligase
+GshF	6.3.2.2	glutamate-cysteine ligase
+gamma-glutamate-cysteine ligase/glutathione synthetase	6.3.2.2	glutamate-cysteine ligase
+gamma-ECL	6.3.2.2	glutamate-cysteine ligase
+glutamate–cysteine ligase	6.3.2.2	glutamate-cysteine ligase
+StGCL-GS	6.3.2.2	glutamate-cysteine ligase
+GshA	6.3.2.2	glutamate-cysteine ligase
+GSH1	6.3.2.2	glutamate-cysteine ligase
+IAA-lysine synthetase	6.3.2.20	indoleacetate-lysine synthetase
+Indoleacetic acid-lysine synthetase	6.3.2.20	indoleacetate-lysine synthetase
+N-	6.3.2.20	indoleacetate-lysine synthetase
+synthetase, homoglutathione	6.3.2.23	homoglutathione synthase
+beta-alanine specific hGSH synthetase	6.3.2.23	homoglutathione synthase
+hGSHS	6.3.2.23	homoglutathione synthase
+homoglutathione synthetase	6.3.2.23	homoglutathione synthase
+hGSH synthetase	6.3.2.23	homoglutathione synthase
+hGSH-synthetase	6.3.2.23	homoglutathione synthase
+hGS	6.3.2.23	homoglutathione synthase
+kyotorphin-synthesizing enzyme	6.3.2.24	tyrosine-arginine ligase
+kyotorphin synthase	6.3.2.24	tyrosine-arginine ligase
+kyotorphin synthetase	6.3.2.24	tyrosine-arginine ligase
+synthetase, kyotorphin	6.3.2.24	tyrosine-arginine ligase
+tyrosyl-arginine synthase	6.3.2.24	tyrosine-arginine ligase
+Synthetase, tubulin-tyrosine	6.3.2.25	tubulin-tyrosine ligase
+Tyrosyltubulin ligase	6.3.2.25	tubulin-tyrosine ligase
+Tubulin:tyrosine ligase	6.3.2.25	tubulin-tyrosine ligase
+TTLase	6.3.2.25	tubulin-tyrosine ligase
+tubulin-tyrosine-ligase	6.3.2.25	tubulin-tyrosine ligase
+tubulin tyrosine ligase	6.3.2.25	tubulin-tyrosine ligase
+TTL	6.3.2.25	tubulin-tyrosine ligase
+tubuline-tyrosine ligase	6.3.2.25	tubulin-tyrosine ligase
+tubulin-tyrosine ligase	6.3.2.25	tubulin-tyrosine ligase
+L-delta-	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+synthetase, delta-	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+DELTA-	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+delta-L-	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+delta-	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+L-	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+delta-	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+delta-	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+ACV synthetase	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+ACVS	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+L-delta-alpha-aminoadipoyl-L-cysteinyl-D-valine synthetase	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+Pps	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+phosphopantothenate synthetase	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+TK1686	6.3.2.26	N-(5-amino-5-carboxypentanoyl)-L-cysteinyl-D-valine synthase
+cyanophycin synthetase	6.3.2.29	cyanophycin synthase (L-aspartate-adding)
+CphANE1	6.3.2.29	cyanophycin synthase (L-aspartate-adding)
+CphA49	6.3.2.29	cyanophycin synthase (L-aspartate-adding)
+CphA1	6.3.2.29	cyanophycin synthase (L-aspartate-adding)
+CphA2	6.3.2.29	cyanophycin synthase (L-aspartate-adding)
+CGP synthetase	6.3.2.29	cyanophycin synthase (L-aspartate-adding)
+More	6.3.2.29	cyanophycin synthase (L-aspartate-adding)
+CphA	6.3.2.29	cyanophycin synthase (L-aspartate-adding)
+Tlr2170 protein	6.3.2.29	cyanophycin synthase (L-aspartate-adding)
+Synthetase, glutathione	6.3.2.3	glutathione synthase
+GSH synthetase	6.3.2.3	glutathione synthase
+Glutathione synthetase	6.3.2.3	glutathione synthase
+GSHase	6.3.2.3	glutathione synthase
+Phytochelatin synthetase	6.3.2.3	glutathione synthase
+GSH-S	6.3.2.3	glutathione synthase
+Glutathione	6.3.2.3	glutathione synthase
+TbGS	6.3.2.3	glutathione synthase
+GSHS	6.3.2.3	glutathione synthase
+gamma-GCS-GS	6.3.2.3	glutathione synthase
+gamma-glutamylcysteine synthetase-glutathione synthetase	6.3.2.3	glutathione synthase
+GshF	6.3.2.3	glutathione synthase
+gamma -glutamate-cysteine ligase-glutathione synthetase	6.3.2.3	glutathione synthase
+gamma-glutamate-cysteine ligase/glutathione synthetase	6.3.2.3	glutathione synthase
+GS	6.3.2.3	glutathione synthase
+GSH synthase	6.3.2.3	glutathione synthase
+gshB	6.3.2.3	glutathione synthase
+GSHS1	6.3.2.3	glutathione synthase
+ZmGS	6.3.2.3	glutathione synthase
+TAGS1	6.3.2.3	glutathione synthase
+TaGS2	6.3.2.3	glutathione synthase
+GSS	6.3.2.3	glutathione synthase
+StGCL-GS	6.3.2.3	glutathione synthase
+GCL	6.3.2.3	glutathione synthase
+Glutathione synthase	6.3.2.3	glutathione synthase
+GSH2	6.3.2.3	glutathione synthase
+More	6.3.2.3	glutathione synthase
+cyanophycin synthetase	6.3.2.30	cyanophycin synthase (L-arginine-adding)
+CGP synthetase	6.3.2.30	cyanophycin synthase (L-arginine-adding)
+CphA1	6.3.2.30	cyanophycin synthase (L-arginine-adding)
+CphA2	6.3.2.30	cyanophycin synthase (L-arginine-adding)
+CphANE1	6.3.2.30	cyanophycin synthase (L-arginine-adding)
+CphA49	6.3.2.30	cyanophycin synthase (L-arginine-adding)
+CphA	6.3.2.30	cyanophycin synthase (L-arginine-adding)
+More	6.3.2.30	cyanophycin synthase (L-arginine-adding)
+Tlr2170 protein	6.3.2.30	cyanophycin synthase (L-arginine-adding)
+MJ0768	6.3.2.31	coenzyme F420-0:L-glutamate ligase
+CofE	6.3.2.31	coenzyme F420-0:L-glutamate ligase
+F420-0:gamma-glutamyl ligase	6.3.2.31	coenzyme F420-0:L-glutamate ligase
+CofE-AF	6.3.2.31	coenzyme F420-0:L-glutamate ligase
+MJ1001	6.3.2.32	coenzyme gamma-F420-2:alpha-L-glutamate ligase
+CofF protein	6.3.2.32	coenzyme gamma-F420-2:alpha-L-glutamate ligase
+CofF	6.3.2.32	coenzyme gamma-F420-2:alpha-L-glutamate ligase
+gamma-F420-2:alpha-L-glutamate ligase	6.3.2.32	coenzyme gamma-F420-2:alpha-L-glutamate ligase
+H4MPT:alpha-L-glutamate ligase	6.3.2.33	tetrahydrosarcinapterin synthase
+MJ0620	6.3.2.33	tetrahydrosarcinapterin synthase
+MptN protein	6.3.2.33	tetrahydrosarcinapterin synthase
+tetrahydromethanopterin:alpha-L-glutamate ligase	6.3.2.33	tetrahydrosarcinapterin synthase
+MJ0768	6.3.2.34	coenzyme F420-1:gamma-L-glutamate ligase
+CofE	6.3.2.34	coenzyme F420-1:gamma-L-glutamate ligase
+F420-0:gamma-glutamyl ligase	6.3.2.34	coenzyme F420-1:gamma-L-glutamate ligase
+CofE-AF	6.3.2.34	coenzyme F420-1:gamma-L-glutamate ligase
+F420:gamma-glutamyl ligase	6.3.2.34	coenzyme F420-1:gamma-L-glutamate ligase
+VanG	6.3.2.35	D-alanine-D-serine ligase
+D-alanine:D-serine ligase	6.3.2.35	D-alanine-D-serine ligase
+VanL	6.3.2.35	D-alanine-D-serine ligase
+VanC2	6.3.2.35	D-alanine-D-serine ligase
+VanE	6.3.2.35	D-alanine-D-serine ligase
+TK1686 protein	6.3.2.36	4-phosphopantoate-beta-alanine ligase
+Pps	6.3.2.36	4-phosphopantoate-beta-alanine ligase
+phosphopantothenate synthetase	6.3.2.36	4-phosphopantoate-beta-alanine ligase
+Mhun_0832	6.3.2.36	4-phosphopantoate-beta-alanine ligase
+UDP-MurNAc-L-Ala-D-Glu:D-Lys ligase	6.3.2.37	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-D-lysine ligase
+D-lysine-adding enzyme	6.3.2.37	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-D-lysine ligase
+MurE synthetase	6.3.2.37	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-D-lysine ligase
+MurE	6.3.2.37	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-D-lysine ligase
+Nalpha-citryl-Nepsilon-acetyl-Nepsilon-hydroxylysine synthase	6.3.2.38	N2-citryl-N6-acetyl-N6-hydroxylysine synthase
+iucA	6.3.2.38	N2-citryl-N6-acetyl-N6-hydroxylysine synthase
+aerD	6.3.2.38	N2-citryl-N6-acetyl-N6-hydroxylysine synthase
+iuacA	6.3.2.38	N2-citryl-N6-acetyl-N6-hydroxylysine synthase
+iucC	6.3.2.39	aerobactin synthase
+aerC	6.3.2.39	aerobactin synthase
+iuacC	6.3.2.39	aerobactin synthase
+D-Alanylalanine synthetase	6.3.2.4	D-Alanine-D-alanine ligase
+D-Alanyl-D-alanine synthetase	6.3.2.4	D-Alanine-D-alanine ligase
+D-Ala-D-Ala synthetase	6.3.2.4	D-Alanine-D-alanine ligase
+Synthetase, D-alanylalanine	6.3.2.4	D-Alanine-D-alanine ligase
+VanA	6.3.2.4	D-Alanine-D-alanine ligase
+VanB ligase	6.3.2.4	D-Alanine-D-alanine ligase
+D-Ala-D-Ala ligase	6.3.2.4	D-Alanine-D-alanine ligase
+D-alanine:D-alanine	6.3.2.4	D-Alanine-D-alanine ligase
+TmDdl	6.3.2.4	D-Alanine-D-alanine ligase
+More	6.3.2.4	D-Alanine-D-alanine ligase
+D-alanyl-D-alanine ligase B	6.3.2.4	D-Alanine-D-alanine ligase
+Ddl	6.3.2.4	D-Alanine-D-alanine ligase
+DD1	6.3.2.4	D-Alanine-D-alanine ligase
+DDI	6.3.2.4	D-Alanine-D-alanine ligase
+DdlB ligase	6.3.2.4	D-Alanine-D-alanine ligase
+D-Alanine:D-alanine ligase	6.3.2.4	D-Alanine-D-alanine ligase
+DdlB	6.3.2.4	D-Alanine-D-alanine ligase
+NAAGS-II	6.3.2.41	N-acetylaspartylglutamate synthase
+N-acetylaspartylglutamate synthetase II	6.3.2.41	N-acetylaspartylglutamate synthase
+N-acetylaspartylglutamate synthetase	6.3.2.41	N-acetylaspartylglutamate synthase
+NAAG synthetase	6.3.2.41	N-acetylaspartylglutamate synthase
+NAAGS	6.3.2.41	N-acetylaspartylglutamate synthase
+RIMKLB	6.3.2.41	N-acetylaspartylglutamate synthase
+RIMKLA	6.3.2.41	N-acetylaspartylglutamate synthase
+N-acetylaspartylglutamate synthetase II	6.3.2.42	N-acetylaspartylglutamylglutamate synthase
+NAAGS-II	6.3.2.42	N-acetylaspartylglutamylglutamate synthase
+RIMKLA	6.3.2.42	N-acetylaspartylglutamylglutamate synthase
+N-acetylaspartylglutamylglutamate synthetase	6.3.2.42	N-acetylaspartylglutamylglutamate synthase
+NAAG	6.3.2.42	N-acetylaspartylglutamylglutamate synthase
+NAAG synthetase II	6.3.2.42	N-acetylaspartylglutamylglutamate synthase
+LysX	6.3.2.43	[lysine-biosynthesis-protein LysW]-L-2-aminoadipate ligase
+alpha-aminoadipate-lysW ligase lysX	6.3.2.43	[lysine-biosynthesis-protein LysW]-L-2-aminoadipate ligase
+TtLysX	6.3.2.43	[lysine-biosynthesis-protein LysW]-L-2-aminoadipate ligase
+Saci_0754	6.3.2.43	[lysine-biosynthesis-protein LysW]-L-2-aminoadipate ligase
+Pantothenate synthetase	6.3.2.44	pantoate-beta-alanine ligase (ADP-forming)
+MM2281	6.3.2.44	pantoate-beta-alanine ligase (ADP-forming)
+murein peptide ligase	6.3.2.45	UDP-N-acetylmuramate-L-alanyl-gamma-D-glutamyl-meso-2
+Mpl	6.3.2.45	UDP-N-acetylmuramate-L-alanyl-gamma-D-glutamyl-meso-2
+yjfG	6.3.2.45	UDP-N-acetylmuramate-L-alanyl-gamma-D-glutamyl-meso-2
+UDP-MurNAc:L-Ala-gamma-D-Glu-meso-A2pm ligase	6.3.2.45	UDP-N-acetylmuramate-L-alanyl-gamma-D-glutamyl-meso-2
+DdaG	6.3.2.46	fumarate-(S)-2,3-diaminopropanoate ligase
+fumaroyl-2,3-diaminopropionate ligase	6.3.2.46	fumarate-(S)-2,3-diaminopropanoate ligase
+{[	6.3.2.47	dapdiamide synthase
+DdaF	6.3.2.47	dapdiamide synthase
+RizA	6.3.2.48	L-arginine-specific L-amino acid ligase
+YwfE	6.3.2.49	L-alanine-L-anticapsin ligase
+L-amino acid ligase	6.3.2.49	L-alanine-L-anticapsin ligase
+LAL	6.3.2.49	L-alanine-L-anticapsin ligase
+L-amino-acid ligase	6.3.2.49	L-alanine-L-anticapsin ligase
+LAL BL00235	6.3.2.49	L-alanine-L-anticapsin ligase
+TabS	6.3.2.49	L-alanine-L-anticapsin ligase
+BacD	6.3.2.49	L-alanine-L-anticapsin ligase
+alanine-anticapsin ligase	6.3.2.49	L-alanine-L-anticapsin ligase
+L-Ala-L-aniticapsin ligase	6.3.2.49	L-alanine-L-anticapsin ligase
+BSU37710	6.3.2.49	L-alanine-L-anticapsin ligase
+L-alanine-L-aniticapsin ligase	6.3.2.49	L-alanine-L-anticapsin ligase
+BL00235	6.3.2.49	L-alanine-L-anticapsin ligase
+L-amino acid alpha-ligase	6.3.2.49	L-alanine-L-anticapsin ligase
+RSp1486a	6.3.2.49	L-alanine-L-anticapsin ligase
+pantothenate 4´-phosphate:L-cysteine ligase	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+synthetase, phosphopantothenoylcysteine	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+4’-phosphopantothenoylcysteine synthetase	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+phosphopantothenoyl-cysteine ligase	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+coupling enzyme	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+PPC synthase	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+PPCS	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+phosphopantothenoylcysteine synthetase	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+CoaB	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+phosphopantothenate-cysteine ligase	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+PPC synthetase	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+PPC-S	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+Dfp	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+CoaBC	6.3.2.5	phosphopantothenate-cysteine ligase (CTP)
+TAS1	6.3.2.50	tenuazonic acid synthetase
+TeA synthetase 1	6.3.2.50	tenuazonic acid synthetase
+PPCS	6.3.2.51	phosphopantothenate-cysteine ligase (ATP)
+Dfp	6.3.2.51	phosphopantothenate-cysteine ligase (ATP)
+PPC-synthetase	6.3.2.51	phosphopantothenate-cysteine ligase (ATP)
+CoaB	6.3.2.51	phosphopantothenate-cysteine ligase (ATP)
+phosphopantothenoylcysteine synthetase	6.3.2.51	phosphopantothenate-cysteine ligase (ATP)
+4'-phosphopantothenoylcysteine synthetase	6.3.2.51	phosphopantothenate-cysteine ligase (ATP)
+PPC synthetase	6.3.2.51	phosphopantothenate-cysteine ligase (ATP)
+Synthetase, phosphoribosylaminoimidazolesuccinocarboxamide	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+N-	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+Succino-AICAR synthetase	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+5-Aminoimidazole-4-N-succinocarboxamide ribonucleotide synthetase	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+VEG286A	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+Vegetative protein 286A	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+AIRc-SAICARs	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+ade5	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+PurC gene product	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+phosphoribosylaminoimidazole-succinocarboxamide synthetase	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+PH0239 protein	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+PhSS	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+PH0239	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+MjSS	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+Phosphoribosylaminoimidazolesuccinocarboxamide synthetase	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+SAICAR synthetase	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+phosphoribosylaminoimidazole succinocarboxamide synthetase	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+More	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+SAICAR synthase	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+PurC	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+PurCE	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+PAICS	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+4-	6.3.2.6	phosphoribosylaminoimidazolesuccinocarboxamide synthase
+Uridine diphospho-N-acetylmuramoylalanyl-D-glutamyllysine synthetase	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+Synthetase, uridine diphospho-N-acetylmuramoylalanyl-D-glutamyllysine	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamyl-L-lysine synthetase	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-lysine ligase	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate: L-lysine ligase	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:L-lysine ligase	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+MurE	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+uridine 5'-diphospho-N-acetylmuramoyl L-alanyl-D-glutamate:lysine	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+MuE	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate:meso-2,6-diaminopimelate	6.3.2.7	UDP-N-acetylmuramoyl-L-alanyl-D-glutamate-L-lysine ligase
+UDP-N-acetylmuramoyl-L-alanine synthetase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+Synthetase, uridine diphospho-N-acetylmuramoylalanine	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+Uridine diphospho-N-acetylmuramoylalanine synthetase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+UDP-N-acetylmuramoylalanine synthetase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+Alanine-adding enzyme	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+UDP-acetylmuramoyl-L-alanine synthetase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+UDP-N-acetylmuramyl:L-alanine ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+UDP-MurNAc:L-alanine ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+Uridine-diphosphate-N-acetylmuramate:L-alanine ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+Uridine 5´-diphosphate-N-acetylmuramyl-L-alanine synthetase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+L-Ala ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+Uridine diphosphate N-acetylmuramate:L-alanine ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+L-Alanine adding enzyme	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+UDP-N-acetylmuramate-alanine ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+MurC	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+Mur ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+MurC synthetase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+UNAM:Ala ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+UDP-N-acetylmuramoyl:L-alanine ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+UDP-MurNAc:L-Ala ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+MurC ligase	6.3.2.8	UDP-N-acetylmuramate-L-alanine ligase
+UDP-N-acetylmuramoyl-L-alanyl-D-glutamate synthetase	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+Synthetase, uridine diphospho-N-acetylmuramoylalanyl-D-glutamate	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+Uridine diphospho-N-acetylmuramoylalanyl-D-glutamate synthetase	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+D-Glutamate-adding enzyme	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+D-Glutamic acid-adding enzyme	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+Uridine diphosphate N-acetylmuramoyl-L-alanine:D-glutamate ligase	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+UDPMurNAc-L-alanine:D-glutamate ligase	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+UDP-Mur-Nac-L-Ala:L-Glu ligase	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+D-glutamic acid adding enzyme	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+UDP-N-acetylmuramoyl-L-alanine:D-glutamateligase	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+UDP-N-acetylmuramoyl-L-alanine:D-glutamate ligase	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+MurD ligase	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+MurD	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+MurD cell wall enzyme	6.3.2.9	UDP-N-acetylmuramoyl-L-alanine-D-glutamate ligase
+Phosphoribosylaminoimidazole synthetase	6.3.3.1	phosphoribosylformylglycinamidine cyclo-ligase
+Synthetase, phosphoribosylaminoimidazole	6.3.3.1	phosphoribosylformylglycinamidine cyclo-ligase
+AIR synthetase	6.3.3.1	phosphoribosylformylglycinamidine cyclo-ligase
+5'-Aminoimidazole ribonucleotide synthetase	6.3.3.1	phosphoribosylformylglycinamidine cyclo-ligase
+5'-Phosphoribosyl-5-aminoimidazole synthetase	6.3.3.1	phosphoribosylformylglycinamidine cyclo-ligase
+AIR synthase	6.3.3.1	phosphoribosylformylglycinamidine cyclo-ligase
+AIRS	6.3.3.1	phosphoribosylformylglycinamidine cyclo-ligase
+Phosphoribosyl-aminoimidazole synthetase	6.3.3.1	phosphoribosylformylglycinamidine cyclo-ligase
+phosphoribosyl aminoimidazole synthetase	6.3.3.1	phosphoribosylformylglycinamidine cyclo-ligase
+aminoimidazole ribonucleotide synthetase	6.3.3.1	phosphoribosylformylglycinamidine cyclo-ligase
+Synthetase, methenyltetrahydrofolate	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+5,10-Methenyltetrahydropteroylglutamate synthetase	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+5-Formyltetrahydrofolate cyclodehydrase	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+Formyltetrahydrofolic cyclodehydrase	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+N5-Formyltetrahydrofolic acid cyclodehydrase	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+Methenyl THFS	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+CH+-THF synthetase	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+5,10-methenyl-tetrahydrofolate synthetase	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+Methenyl-THF synthetase	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+5-CHO-THF cycloligase	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+More	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+ygfA	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+5,10-Methenyltetrahydrofolate synthetase	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+Methenyltetrahydrofolate synthetase	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+MTHFS	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+Fau1p	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+5-FCL	6.3.3.2	5-formyltetrahydrofolate cyclo-ligase
+Synthetase, dethiobiotin	6.3.3.3	dethiobiotin synthase
+Desthiobiotin synthetase	6.3.3.3	dethiobiotin synthase
+DTB synthetase	6.3.3.3	dethiobiotin synthase
+Dethiobiotin synthase	6.3.3.3	dethiobiotin synthase
+Dethiobiotin synthetase	6.3.3.3	dethiobiotin synthase
+BIO3	6.3.3.3	dethiobiotin synthase
+DTBS	6.3.3.3	dethiobiotin synthase
+synthetase, beta-lactam	6.3.3.4	(carboxyethyl)arginine beta-lactam-synthase
+beta-lactam-forming enzyme	6.3.3.4	(carboxyethyl)arginine beta-lactam-synthase
+beta-lactam-synthetase	6.3.3.4	(carboxyethyl)arginine beta-lactam-synthase
+betaLS	6.3.3.4	(carboxyethyl)arginine beta-lactam-synthase
+DcsG	6.3.3.5	O-ureido-D-serine cyclo-ligase
+CPS	6.3.3.6	carbapenam-3-carboxylate synthase
+CarA	6.3.3.6	carbapenam-3-carboxylate synthase
+carbapenam 3-carboxylate synthase	6.3.3.6	carbapenam-3-carboxylate synthase
+carbapenam synthetase	6.3.3.6	carbapenam-3-carboxylate synthase
+cfbC	6.3.3.7	Ni-sirohydrochlorin a,c-diamide reductive cyclase
+cfbD	6.3.3.7	Ni-sirohydrochlorin a,c-diamide reductive cyclase
+Synthetase, biotin-propionyl coenzyme A carboxylase	6.3.4.10	biotin-[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase
+Biotin-[propionyl-CoA-carboxylase	6.3.4.10	biotin-[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase
+Biotin-propionyl coenzyme A carboxylase synthetase	6.3.4.10	biotin-[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase
+Propionyl coenzyme A holocarboxylase synthetase	6.3.4.10	biotin-[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase
+biotin protein ligase	6.3.4.10	biotin-[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase
+HLCS	6.3.4.10	biotin-[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase
+HCS	6.3.4.10	biotin-[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase
+Holocarboxylase synthetase	6.3.4.10	biotin-[propionyl-CoA-carboxylase (ATP-hydrolysing)] ligase
+Biotin-[methylcrotonyl-CoA-carboxylase] synthetase	6.3.4.11	biotin-[methylcrotonoyl-CoA-carboxylase] ligase
+Biotin-beta-methylcrotonyl coenzyme A carboxylase synthetase	6.3.4.11	biotin-[methylcrotonoyl-CoA-carboxylase] ligase
+Beta-methylcrotonyl coenzyme A holocarboxylase synthetase	6.3.4.11	biotin-[methylcrotonoyl-CoA-carboxylase] ligase
+Synthetase, biotin-beta-methylcrotonyl coenzyme A carboxylase	6.3.4.11	biotin-[methylcrotonoyl-CoA-carboxylase] ligase
+Synthetase, gamma-glutamylmethylamide	6.3.4.12	glutamate-methylamine ligase
+gamma-Glutamylmethylamide synthetase	6.3.4.12	glutamate-methylamine ligase
+GMAS	6.3.4.12	glutamate-methylamine ligase
+Synthetase, phosphoribosylglycinamide	6.3.4.13	phosphoribosylamine-glycine ligase
+Phosphoribosylglycineamide synthetase	6.3.4.13	phosphoribosylamine-glycine ligase
+Glycinamide ribonucleotide synthetase	6.3.4.13	phosphoribosylamine-glycine ligase
+Glycineamide ribonucleotide synthetase	6.3.4.13	phosphoribosylamine-glycine ligase
+2-Amino-N-ribosylacetamide 5'-phosphate kinosynthase	6.3.4.13	phosphoribosylamine-glycine ligase
+5'-Phosphoribosylglycinamide synthetase	6.3.4.13	phosphoribosylamine-glycine ligase
+GAR synthetase	6.3.4.13	phosphoribosylamine-glycine ligase
+PRG synthetase	6.3.4.13	phosphoribosylamine-glycine ligase
+GARSase	6.3.4.13	phosphoribosylamine-glycine ligase
+EC 6.3.1.3	6.3.4.13	phosphoribosylamine-glycine ligase
+ade5	6.3.4.13	phosphoribosylamine-glycine ligase
+Phosphoribosylglycinamide synthetase	6.3.4.13	phosphoribosylamine-glycine ligase
+GARS	6.3.4.13	phosphoribosylamine-glycine ligase
+glycinamide ribotide synthetase	6.3.4.13	phosphoribosylamine-glycine ligase
+PUR2,5	6.3.4.13	phosphoribosylamine-glycine ligase
+GAR-syn	6.3.4.13	phosphoribosylamine-glycine ligase
+Carboxylase, biotin	6.3.4.14	biotin carboxylase
+BC	6.3.4.14	biotin carboxylase
+ACC	6.3.4.14	biotin carboxylase
+1,22,23,24,26,27,30,31,32,33,34,35,36,37,38,39,40,41,42,43,44,45,46,47	6.3.4.14	biotin carboxylase
+AccBC	6.3.4.14	biotin carboxylase
+PC-beta	6.3.4.14	biotin carboxylase
+AccA	6.3.4.14	biotin carboxylase
+More	6.3.4.14	biotin carboxylase
+BirA	6.3.4.14	biotin carboxylase
+biotin carboxylase	6.3.4.14	biotin carboxylase
+AccC	6.3.4.14	biotin carboxylase
+biotinoyl domain of acetyl-CoA carboxylase	6.3.4.14	biotin carboxylase
+Synthetase, biotin-[acetyl coenzyme A carboxylase]	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+Biotin-[acetyl-CoA carboxylase] synthetase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+Biotin-[acetyl coenzyme A carboxylase] synthetase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+Acetyl coenzyme A holocarboxylase synthetase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+Acetyl CoA holocarboxylase synthetase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+Biotin holoenzyme synthetase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+Biotin:apocarboxylase ligase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+Biotin--protein ligase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+BPL	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+biotin protein ligase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+More	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+biotin acetyl-CoA carboxylase ligase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+group I biotin protein ligase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+biotin-protein ligase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+biotin ligase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+STK_15250	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+BirA protein	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+bacterial BirA biotin ligase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+BirA	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+Holocarboxylase synthetase	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+HCS	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+yBL	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+holocarboxylase synthetase 1	6.3.4.15	biotin-[acetyl-CoA-carboxylase] ligase
+Carbamoylphosphate synthase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Carbamoylphosphate synthetase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Carbamoylphosphate synthase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Carbamyl phosphate synthase I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Carbamylphosphate synthetase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Carbamylphosphate synthetase I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbmoylphosphate synthetase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Carbon-dioxide-ammonia ligase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Carbonate kinase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CPS I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+EC 2.7.2.5	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamate kinase-like carbamoyl-phosphate synthetase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CK-like CPS	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CPS I-like	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamoyl-phosphate synthetase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamate kinase-like carbamoyl phosphate synthetase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamoyl phosphate synthase-1	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CPS-1	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CPS1	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamoyl phosphate synthetase 1	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Carbamoyl-phosphate synthetase I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+arginine-specific CPS	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+urea-specific CPS	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamoyl phosphate synthetase-1	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CPSase I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CPSase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CarB	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+MS-s	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Msm_0361	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamoyl phosphate synthetase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CPS	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamyl-phosphate synthetase I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+p165	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamylphosphate synthetase 1	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamyl phosphate synthetase I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamoyl phosphate synthetase I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamoyl-phosphate synthetase 1	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CPSI	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Carbamoylphosphate synthetase I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Carbamoylphosphate synthetase	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+carbamoylphosphate synthetase-I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CPS-I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+CPS 1	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+mitochondrial carbamoylphosphate synthetase I	6.3.4.16	carbamoyl-phosphate synthase (ammonia)
+Formyltransferase, dihydrofolate	6.3.4.17	formate-dihydrofolate ligase
+Dihydrofolate formyltransferase	6.3.4.17	formate-dihydrofolate ligase
+Formyl dihydrofolate synthase	6.3.4.17	formate-dihydrofolate ligase
+More	6.3.4.18	5-(carboxyamino)imidazole ribonucleotide synthase
+N5-carboxylaminoimidazole ribonucleotide synthetase	6.3.4.18	5-(carboxyamino)imidazole ribonucleotide synthase
+N5CAIR synthetase	6.3.4.18	5-(carboxyamino)imidazole ribonucleotide synthase
+PurK	6.3.4.18	5-(carboxyamino)imidazole ribonucleotide synthase
+N5-CAIR synthetase	6.3.4.18	5-(carboxyamino)imidazole ribonucleotide synthase
+N5-carboxyaminoimidazole ribonucleotide synthetase	6.3.4.18	5-(carboxyamino)imidazole ribonucleotide synthase
+tRNAIle-lysidine synthetase	6.3.4.19	tRNAIle-lysidine synthase
+TilS	6.3.4.19	tRNAIle-lysidine synthase
+yacA	6.3.4.19	tRNAIle-lysidine synthase
+tRNAIle lysidine synthetase	6.3.4.19	tRNAIle-lysidine synthase
+MesJ protein	6.3.4.19	tRNAIle-lysidine synthase
+mesJ	6.3.4.19	tRNAIle-lysidine synthase
+TilS protein	6.3.4.19	tRNAIle-lysidine synthase
+lysidine synthetase	6.3.4.19	tRNAIle-lysidine synthase
+UTP-ammonia ligase	6.3.4.2	CTP synthase (glutamine hydrolysing)
+uridine triphosphate aminase	6.3.4.2	CTP synthase (glutamine hydrolysing)
+synthetase, cytidine triphosphate	6.3.4.2	CTP synthase (glutamine hydrolysing)
+CTPsyn	6.3.4.2	CTP synthase (glutamine hydrolysing)
+CTP synthase	6.3.4.2	CTP synthase (glutamine hydrolysing)
+pfCTP synthetase	6.3.4.2	CTP synthase (glutamine hydrolysing)
+CTPS	6.3.4.2	CTP synthase (glutamine hydrolysing)
+cytidine 5'-triphosphate synthetase	6.3.4.2	CTP synthase (glutamine hydrolysing)
+cytidine 5'-triphosphate synthase	6.3.4.2	CTP synthase (glutamine hydrolysing)
+EcCTPS	6.3.4.2	CTP synthase (glutamine hydrolysing)
+UTP:ammonia ligase	6.3.4.2	CTP synthase (glutamine hydrolysing)
+CTP synthetase	6.3.4.2	CTP synthase (glutamine hydrolysing)
+cytidine triphosphate synthetase	6.3.4.2	CTP synthase (glutamine hydrolysing)
+CTS	6.3.4.2	CTP synthase (glutamine hydrolysing)
+CTP synthetase 1	6.3.4.2	CTP synthase (glutamine hydrolysing)
+CTPS1	6.3.4.2	CTP synthase (glutamine hydrolysing)
+cytidine triphosphate synthetase 1	6.3.4.2	CTP synthase (glutamine hydrolysing)
+CTPS2	6.3.4.2	CTP synthase (glutamine hydrolysing)
+preQ0 synthase	6.3.4.20	7-cyano-7-deazaguanine synthase
+7-cyano-7-carbaguanine synthase	6.3.4.20	7-cyano-7-deazaguanine synthase
+queC	6.3.4.20	7-cyano-7-deazaguanine synthase
+niacin ribonucleotidase	6.3.4.21	nicotinate phosphoribosyltransferase
+nicotinic acid mononucleotide glycohydrolase	6.3.4.21	nicotinate phosphoribosyltransferase
+NPRTase	6.3.4.21	nicotinate phosphoribosyltransferase
+nicotinate-nucleotide:pyrophosphate phospho-alpha-D-ribosyltransferase	6.3.4.21	nicotinate phosphoribosyltransferase
+nicotinate phosphoribosyltransferases	6.3.4.21	nicotinate phosphoribosyltransferase
+nicotinate phosphoribosyltransferase	6.3.4.21	nicotinate phosphoribosyltransferase
+nicotinic acid mononucleotide pyrophosphorylase	6.3.4.21	nicotinate phosphoribosyltransferase
+NAPRT	6.3.4.21	nicotinate phosphoribosyltransferase
+NA phosphoribosyltransferase	6.3.4.21	nicotinate phosphoribosyltransferase
+nicotinic acid phosphoribosyltransferase	6.3.4.21	nicotinate phosphoribosyltransferase
+pncB	6.3.4.21	nicotinate phosphoribosyltransferase
+EC 2.4.2.11	6.3.4.21	nicotinate phosphoribosyltransferase
+NAPRTase	6.3.4.21	nicotinate phosphoribosyltransferase
+More	6.3.4.21	nicotinate phosphoribosyltransferase
+tRNAIle-2-agmatinylcytidine synthetase	6.3.4.22	tRNAIle2-agmatinylcytidine synthase
+tRNAIle-agm2C synthetase	6.3.4.22	tRNAIle2-agmatinylcytidine synthase
+TiaS	6.3.4.22	tRNAIle2-agmatinylcytidine synthase
+tRNAIle-agmatidine synthetase	6.3.4.22	tRNAIle2-agmatinylcytidine synthase
+AF2259	6.3.4.22	tRNAIle2-agmatinylcytidine synthase
+5-formaminoimidazole-4-carboxamide ribonucleotide synthetase	6.3.4.23	formate-phosphoribosylaminoimidazolecarboxamide ligase
+5-formaminoimidazole-4-carboxamide-1-beta-D-ribofuranosyl	6.3.4.23	formate-phosphoribosylaminoimidazolecarboxamide ligase
+PurP	6.3.4.23	formate-phosphoribosylaminoimidazolecarboxamide ligase
+mfnD	6.3.4.24	tyramine-L-glutamate ligase
+Mefer_1180	6.3.4.24	tyramine-L-glutamate ligase
+Tetrahydrofolic formylase	6.3.4.3	formate-tetrahydrofolate ligase
+Tetrahydrofolate formylase	6.3.4.3	formate-tetrahydrofolate ligase
+Synthetase, formyl tetrahydrofolate	6.3.4.3	formate-tetrahydrofolate ligase
+THFS	6.3.4.3	formate-tetrahydrofolate ligase
+FHS	6.3.4.3	formate-tetrahydrofolate ligase
+formate:tetrahydrofolate ligase	6.3.4.3	formate-tetrahydrofolate ligase
+3,20,26,37,38,39,40,41,43,47,48,49,51,52,55,56,57,58,59,60,61,62,63,64	6.3.4.3	formate-tetrahydrofolate ligase
+3,7,20,37,38,39,40,41,43,46,50,51,52,53,54,55,56,57,58,59,60,61,62,63	6.3.4.3	formate-tetrahydrofolate ligase
+formate-tetrahydrofolate ligase	6.3.4.3	formate-tetrahydrofolate ligase
+FTL	6.3.4.3	formate-tetrahydrofolate ligase
+ftfL	6.3.4.3	formate-tetrahydrofolate ligase
+C1-tetrahydrofolate synthetase	6.3.4.3	formate-tetrahydrofolate ligase
+C1-THFS	6.3.4.3	formate-tetrahydrofolate ligase
+methylenetetrahydrofolate dehydrogenase-methenyltetrahydrofolate	6.3.4.3	formate-tetrahydrofolate ligase
+DCS	6.3.4.3	formate-tetrahydrofolate ligase
+10-formylTHF synthetase	6.3.4.3	formate-tetrahydrofolate ligase
+formyl tetrahydrofolate synthetase	6.3.4.3	formate-tetrahydrofolate ligase
+Formyl-THF synthetase	6.3.4.3	formate-tetrahydrofolate ligase
+10-Formyltetrahydrofolate synthetase	6.3.4.3	formate-tetrahydrofolate ligase
+MTHFD1	6.3.4.3	formate-tetrahydrofolate ligase
+C1 synthase	6.3.4.3	formate-tetrahydrofolate ligase
+methylenetetrahydrofolate dehydrogenase-methenyltetrahydrofolate	6.3.4.3	formate-tetrahydrofolate ligase
+MIS1	6.3.4.3	formate-tetrahydrofolate ligase
+dehydrogenasse-cyclohydrolase-synthetase	6.3.4.3	formate-tetrahydrofolate ligase
+ADE3	6.3.4.3	formate-tetrahydrofolate ligase
+N10-formyltetrahydrofolate synthetase	6.3.4.3	formate-tetrahydrofolate ligase
+MTHFD	6.3.4.3	formate-tetrahydrofolate ligase
+C1-THF synthase	6.3.4.3	formate-tetrahydrofolate ligase
+10-formyl-THF synthetase	6.3.4.3	formate-tetrahydrofolate ligase
+MTHFD1L	6.3.4.3	formate-tetrahydrofolate ligase
+C	6.3.4.3	formate-tetrahydrofolate ligase
+THF synthase	6.3.4.3	formate-tetrahydrofolate ligase
+C1-tetrahydrofolate synthase	6.3.4.3	formate-tetrahydrofolate ligase
+IMP-aspartate ligase	6.3.4.4	adenylosuccinate synthase
+Succinoadenylic kinosynthetase	6.3.4.4	adenylosuccinate synthase
+Succino-AMP synthetase	6.3.4.4	adenylosuccinate synthase
+Adenylosuccinate synthase	6.3.4.4	adenylosuccinate synthase
+IMP--aspartate ligase	6.3.4.4	adenylosuccinate synthase
+adenosylsuccinate synthase	6.3.4.4	adenylosuccinate synthase
+AS-synthetase	6.3.4.4	adenylosuccinate synthase
+Wheatadss	6.3.4.4	adenylosuccinate synthase
+ASS	6.3.4.4	adenylosuccinate synthase
+adenylo-succinate synthetase	6.3.4.4	adenylosuccinate synthase
+Arabdss	6.3.4.4	adenylosuccinate synthase
+2,3,4,5,6,7,8,9,11,12,13,15,16,17,20,21,22,23,25,26,27,28,29,30,31,32	6.3.4.4	adenylosuccinate synthase
+AMPSase	6.3.4.4	adenylosuccinate synthase
+PfAdSS	6.3.4.4	adenylosuccinate synthase
+AdSSL1	6.3.4.4	adenylosuccinate synthase
+purA	6.3.4.4	adenylosuccinate synthase
+mouse muscle synthetase	6.3.4.4	adenylosuccinate synthase
+adenylosuccinate synthetase 1	6.3.4.4	adenylosuccinate synthase
+AdSS1	6.3.4.4	adenylosuccinate synthase
+AdSS2	6.3.4.4	adenylosuccinate synthase
+adenosylsuccinate synthetase	6.3.4.4	adenylosuccinate synthase
+AMPsS	6.3.4.4	adenylosuccinate synthase
+AdSS	6.3.4.4	adenylosuccinate synthase
+Synthetase, argininosuccinate	6.3.4.5	argininosuccinate synthase
+Arginine succinate synthetase	6.3.4.5	argininosuccinate synthase
+Argininosuccinic acid synthetase	6.3.4.5	argininosuccinate synthase
+Elastin-binding protein	6.3.4.5	argininosuccinate synthase
+Citrulline--aspartate ligase	6.3.4.5	argininosuccinate synthase
+Argininosuccinate synthetase	6.3.4.5	argininosuccinate synthase
+AS	6.3.4.5	argininosuccinate synthase
+PyARG1	6.3.4.5	argininosuccinate synthase
+Citrulline-aspartate ligase	6.3.4.5	argininosuccinate synthase
+ARGG	6.3.4.5	argininosuccinate synthase
+tAsS	6.3.4.5	argininosuccinate synthase
+ASS	6.3.4.5	argininosuccinate synthase
+EAS	6.3.4.5	argininosuccinate synthase
+arininosuccinate synthetase	6.3.4.5	argininosuccinate synthase
+ASS1	6.3.4.5	argininosuccinate synthase
+argininosuccinate synthase	6.3.4.5	argininosuccinate synthase
+Urease	6.3.4.6	urea carboxylase
+Urea carboxylase	6.3.4.6	urea carboxylase
+Urea amido-lyase	6.3.4.6	urea carboxylase
+ATP:urea amidolyase	6.3.4.6	urea carboxylase
+UALase	6.3.4.6	urea carboxylase
+ATP-urea amidolyase	6.3.4.6	urea carboxylase
+urea carboxylase	6.3.4.6	urea carboxylase
+UCA	6.3.4.6	urea carboxylase
+urea amidolyase	6.3.4.6	urea carboxylase
+DUR1,2	6.3.4.6	urea carboxylase
+5-Phosphoribosylamine synthetase	6.3.4.7	ribose-5-phosphate-ammonia ligase
+Ribose 5-phosphate aminotransferase	6.3.4.7	ribose-5-phosphate-ammonia ligase
+ammonia-ribose 5-phosphate aminotransferase	6.3.4.7	ribose-5-phosphate-ammonia ligase
+Synthetase, phosphoribosylamine	6.3.4.7	ribose-5-phosphate-ammonia ligase
+5-Phosphoribosylimidazoleacetate synthetase	6.3.4.8	imidazoleacetate-phosphoribosyldiphosphate ligase
+Synthetase, phosphoribosylimidazoleacetate	6.3.4.8	imidazoleacetate-phosphoribosyldiphosphate ligase
+Biotin-[methylmalonyl-CoA-carboxyltransferase] synthetase	6.3.4.9	biotin-[methylmalonyl-CoA-carboxytransferase] ligase
+Biotin-methylmalonyl coenzyme A carboxyltransferase synthetase	6.3.4.9	biotin-[methylmalonyl-CoA-carboxytransferase] ligase
+Biotin-transcarboxylase synthetase	6.3.4.9	biotin-[methylmalonyl-CoA-carboxytransferase] ligase
+Methylmalonyl coenzyme A holotranscarboxylase synthetase	6.3.4.9	biotin-[methylmalonyl-CoA-carboxytransferase] ligase
+Synthetase, biotin-methylmalonyl coenzyme A carboxyltransferase	6.3.4.9	biotin-[methylmalonyl-CoA-carboxytransferase] ligase
+Biotin-apotranscarboxylase synthetase	6.3.4.9	biotin-[methylmalonyl-CoA-carboxytransferase] ligase
+biotin:apo[methylmalonyl-CoA:pyruvate carboxyltransferase] ligase	6.3.4.9	biotin-[methylmalonyl-CoA-carboxytransferase] ligase
+Biotin-[methylmalonyl-CoA-carboxyltransferase] ligase	6.3.4.9	biotin-[methylmalonyl-CoA-carboxytransferase] ligase
+NAD+ synthetase	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+Synthetase, nicotinamide adenine dinucleotide	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+NAD synthetase	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+Nicotinamide adenine dinucleotide synthetase	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+General stress protein 38	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+GSP38	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+NAD	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+Nitrogen-regulatory protein	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+Sporulation protein outB	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+NAD+ synthase	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+nic13	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+mtuNadE	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+Qns1	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+glutamine-dependent NAD+ synthetase	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+NadE-738	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+NadE-679	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+NAD+ synthetase	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+NADS	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+abNadE	6.3.5.1	NAD+ synthase (glutamine-hydrolysing)
+5'-deoxy-5'-adenosylcobyrinic-acid-a,c-diamide:L-glutamine amido-ligase	6.3.5.10	adenosylcobyric acid synthase (glutamine-hydrolysing)
+Ado-cobyric acid synthase	6.3.5.10	adenosylcobyric acid synthase (glutamine-hydrolysing)
+cobyric acid synthetase	6.3.5.10	adenosylcobyric acid synthase (glutamine-hydrolysing)
+CbiP	6.3.5.10	adenosylcobyric acid synthase (glutamine-hydrolysing)
+cobyric acid synthase	6.3.5.10	adenosylcobyric acid synthase (glutamine-hydrolysing)
+cobalamin biosynthesis aminotransferase	6.3.5.10	adenosylcobyric acid synthase (glutamine-hydrolysing)
+CobQ	6.3.5.10	adenosylcobyric acid synthase (glutamine-hydrolysing)
+More	6.3.5.10	adenosylcobyric acid synthase (glutamine-hydrolysing)
+CbiA	6.3.5.11	cobyrinate a,c-diamide synthase
+CobB	6.3.5.11	cobyrinate a,c-diamide synthase
+cfbB	6.3.5.12	Ni-sirohydrochlorin a,c-diamide synthase
+GMP synthetase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Guanosine monophosphate synthetase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Guanylate synthetase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Guanylate synthetase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Synthetase, guanylate	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Xanthosine 5'-phosphate amidotransferase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Xanthosine 5-monophosphate aminase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+XMP aminase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Xanthosine-5'-phosphate-ammonia ligase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Xanthosine-5'-phosphate:ammonia ligase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+GMP synthase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Glutamine amidotransferase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+GMP synthetase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+GMPS	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+GUA	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Guanosine 5-monophosphate synthetase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+di-GMP synthase A	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+cgsA	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+PD0279	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+More	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+two-subunit-type GMP synthetase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+GMP synthase [glutamine-hydrolyzing] subunit B	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+GATase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+PH1346	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Guanine monophosphate synthetase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+guanosine monophosphate synthetase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+GuaA	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Guanosine 5'-monophosphate synthetase	6.3.5.2	GMP synthase (glutamine-hydrolysing)
+Synthetase, phosphoribosylformylglycinamide	6.3.5.3	phosphoribosylformylglycinamidine synthase
+Formylglycinamide ribonucloetide amidotransferase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+Phosphoribosylformylglycineamidine synthetase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+FGAR amidotransferase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+2-Formamido-N-ribosylacetamide 5'-phosphate:L-glutamine amido-ligase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+FGAM synthase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+FGAMS	6.3.5.3	phosphoribosylformylglycinamidine synthase
+FGARAT	6.3.5.3	phosphoribosylformylglycinamidine synthase
+Formylglycinamide ribotide amidotransferase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+Formylglycinamide ribotide synthetase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+TmPurL	6.3.5.3	phosphoribosylformylglycinamidine synthase
+StPurL	6.3.5.3	phosphoribosylformylglycinamidine synthase
+FGAM-synthetase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+5'-phosphoribosylformyl glycinamidine synthetase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+phosphoribosylformylglycinamidine synthase II	6.3.5.3	phosphoribosylformylglycinamidine synthase
+FGAM	6.3.5.3	phosphoribosylformylglycinamidine synthase
+ORF75c	6.3.5.3	phosphoribosylformylglycinamidine synthase
+formylglycinamide synthetase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+formylglycinamide ribonucleotide amidotransferase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+formylglycinamide ribonucleotide amidotransferase complex	6.3.5.3	phosphoribosylformylglycinamidine synthase
+mPurL	6.3.5.3	phosphoribosylformylglycinamidine synthase
+smPurL	6.3.5.3	phosphoribosylformylglycinamidine synthase
+FGAR-AT	6.3.5.3	phosphoribosylformylglycinamidine synthase
+PurL	6.3.5.3	phosphoribosylformylglycinamidine synthase
+Phosphoribosylformylglycinamidine synthetase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+FGAM synthetase	6.3.5.3	phosphoribosylformylglycinamidine synthase
+Pur4	6.3.5.3	phosphoribosylformylglycinamidine synthase
+L-Asparagine synthetase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+Asparagine synthetase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+Synthetase, Asn	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+Asparagine synthetase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+Asparagine synthetase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+Glutamine-dependent asparagine synthetase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+TS11 cell cycle control protein	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+asparagine synthetase, glutamine-dependent	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+ASNase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+AS	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+TaSN1	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+TaSN2	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+asparagine synthetase 2	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+type II asparagine synthetase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+PVAS2	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+type -II asparagine synthetase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+NAS2	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+Asparagine synthetase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+asparagine synthetase 1	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+CaAS1	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+AS1	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+AsnB	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+HvAS1 protein	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+HvAS2 protein	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+type I asparagine synthetase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+PVAS1 protein	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+Ste10	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+asparagine amidotransferase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+AsnS1	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+AsnS2	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+AsnS3	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+AsnS4	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+AS-B	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+L-asparaginase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+glutamine-dependent amidotransferase	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+ASNS	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+Asparagine synthetase B	6.3.5.4	asparagine synthase (glutamine-hydrolysing)
+Carbamoyl-phosphate synthetase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+Carbamoyl phosphate synthetase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+Carbamoyl phosphate synthase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+Carbamyl phosphate synthetase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+Carbamyl phosphate sythetase II	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+Glutamine-dependent carbamyl phosphate synthetase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+Synthase, carbamoylphosphate	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+Synthetase, carbamoylphosphate	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CPSase-A	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CPSase-P	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+EC 2.7.2.9	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+carbamylphosphate synthetase - aspartate transcarbamylase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+glutamine-hydrolyzing CPSase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CAD carbamoyl-phosphate synthetase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CPS II	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CPS III	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+carbamoyl-phosphate synthetase 2	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CPSase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+carbamoyl phosphate synthetase II	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CPSII	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+MtCPSs2	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CPS III	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+carbamoyl phosphate synthetase III	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+MtCPSs1	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+More	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+Carbamoylphosphate synthase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+Carbamoylphosphate synthetase II	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CPS1	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+carbamoyl phosphate synthetase 1	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+carbamoyl phosphate synthetase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CPS	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+carbamoyl-phosphate synthetase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+Carbamoylphosphate synthetase	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CAD protein	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+CPSase type II	6.3.5.5	carbamoyl-phosphate synthase (glutamine-hydrolysing)
+aspartyl-tRNAAsn amidotransferase	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+Asparaginyl-tRNA synthetase	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+AsnRS	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+asparaginyl-transfer RNA synthetase	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+Asp/Glu-Adt	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+glutamine-dependent Asp-tRNAAsn/Glu-tRNAGln amidotransferase	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+tRNA-dependent amidotransferase	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+GatCAB	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+AdT	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+Asp-AdT	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+Asp-tRNAAsn amidotransferase	6.3.5.6	asparaginyl-tRNA synthase (glutamine-hydrolysing)
+Glu-AdT	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+Glu-tRNAGln amidotransferase	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+glutamyl-tRNAGln amidotransferase	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+amidotransferase, glutamyl-transfer ribonucleate	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+amidotransferase B	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+amidotransferase C	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+glutamyl-tRNA	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+Glu-tRNAGlnAT	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+GatB	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+GatCAB	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+GluRS	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+GluAdT GatDE	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+nondiscriminating GluRS	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+GatDE	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+Glu-amidotransferase	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+AdT	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+aminoacyl-tRNA amidotransferase	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+aa-tRNA amidotransferase	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+GatCAB amidotransferase	6.3.5.7	glutaminyl-tRNA synthase (glutamine-hydrolysing)
+new NaMN:Me2Bza phosphoribosyltransferase enzyme	6.3.5.9	hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolysing)
+CbiA	6.3.5.9	hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolysing)
+CobB	6.3.5.9	hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolysing)
+cobalamin biosynthesis aminotransferase	6.3.5.9	hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolysing)
+cobyrinic acid a,c-diamide synthase	6.3.5.9	hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolysing)
+cobyric acid synthase	6.3.5.9	hydrogenobyrinic acid a,c-diamide synthase (glutamine-hydrolysing)

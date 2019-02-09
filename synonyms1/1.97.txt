@@ -1,0 +1,44 @@
+synonyms	ec_number	recommended_name
+reductase, chlorate	1.97.1.1	chlorate reductase
+chlorate reductase C	1.97.1.1	chlorate reductase
+clr	1.97.1.1	chlorate reductase
+ClrA	1.97.1.1	chlorate reductase
+NarGH	1.97.1.1	chlorate reductase
+chlorate reductase	1.97.1.1	chlorate reductase
+perchlorate reductase	1.97.1.1	chlorate reductase
+PSI	1.97.1.12	photosystem I
+PSI core complex	1.97.1.12	photosystem I
+photosystem I P700 chlorophyll a apoprotein A2	1.97.1.12	photosystem I
+PsaB	1.97.1.12	photosystem I
+PsaF	1.97.1.12	photosystem I
+PS-I	1.97.1.12	photosystem I
+PS I	1.97.1.12	photosystem I
+PS-I complex	1.97.1.12	photosystem I
+hydroxyltransferase, 1,2,3,5-tetrahydroxybenzene	1.97.1.2	pyrogallol hydroxytransferase
+1,2,3,5-tetrahydroxybenzene:pyrogallol transhydroxylase	1.97.1.2	pyrogallol hydroxytransferase
+1,2,3,5-tetrahydroxybenzene-pyrogallol hydroxyltransferase	1.97.1.2	pyrogallol hydroxytransferase
+transhydroxylase	1.97.1.2	pyrogallol hydroxytransferase
+pyrogallol phloroglucinol transhydroxylase	1.97.1.2	pyrogallol hydroxytransferase
+pyrogallol hydroxyltransferase	1.97.1.2	pyrogallol hydroxytransferase
+pyrogallol:phloroglucinol hydroxyltransferase	1.97.1.2	pyrogallol hydroxytransferase
+PFL-glycine:S-adenosyl-L-methionine H transferase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+Activase, pyruvate formate-lyase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+Formate acetyltransferase activase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+Pyruvate formate-lyase activase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+Pyruvate formate-lyase activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+Formate-lyase-activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+PFL activase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+PFL-activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+pyruvate formate-lyase-activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+PFL-AE	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+pyruvate formate lyase activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+PFL activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+PFL	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+SrdB	1.97.1.9	selenate reductase
+SrdC	1.97.1.9	selenate reductase
+selenate reductase	1.97.1.9	selenate reductase
+SR	1.97.1.9	selenate reductase
+SER	1.97.1.9	selenate reductase
+SerABC	1.97.1.9	selenate reductase
+More	1.97.1.9	selenate reductase
+SrdA	1.97.1.9	selenate reductase

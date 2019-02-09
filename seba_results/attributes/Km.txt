@@ -1,0 +1,3107 @@
+Commentary	Substrate	Ref	Literature(PubmedID)	value
+	NADPH	162	4393513	0.001
+AR1	NADPH	162	6753832	0.002
+G2	NADPH	162	6753832	0.003
+	p-Carboxybenzaldehyde	162	4393513	0.004
+	p-cyanobenzaldehyde	162	4393513	0.005
+	p-nitrobenzaldehyde	162	4393513	0.006
+	m-chlorobenzaldehyde	162	4393513	0.007
+AR4	NADPH	162	6753832	0.007
+AR3	3-Pyridinecarboxaldehyde	162	6753832	0.008
+AR3	NADPH	162	6753832	0.008
+AR3	p-nitrobenzaldehyde	162	6753832	0.0084
+AR4	menadione	162	6753832	0.009
+	p-hydroxyphenylglycolaldehyde	162	4393513	0.016
+	benzaldehyde	162	4393513	0.017
+AR1	p-Carboxybenzaldehyde	162	6753832	0.018
+	p-tolualdehyde	162	4393513	0.02
+	m-methoxybenzaldehyde	162	4393513	0.027
+AR4	Succinic semialdehyde	162	6753832	0.028
+AR1	Succinic semialdehyde	162	6753832	0.029
+G2	menadione	162	6753832	0.03
+G2	Succinic semialdehyde	162	6753832	0.036
+	p-hydroxyphenylacetaldehyde	162	4393513	0.057
+AR3	Succinic semialdehyde	162	6753832	0.064
+AR1	p-nitrobenzaldehyde	162	6753832	0.071
+G2	p-nitrobenzaldehyde	162	6753832	0.129
+	p-Methoxybenzaldehyde	162	4393513	0.141
+AR3	p-Carboxybenzaldehyde	162	6753832	0.258
+AR4	p-nitrobenzaldehyde	162	6753832	0.262
+G2	3-Pyridinecarboxaldehyde	162	6753832	0.751
+AR1	3-Pyridinecarboxaldehyde	162	6753832	0.934
+G2	cyclohexanone	162	6753832	1.18
+AR1	D-glucuronic acid	162	6753832	1.29
+G2	D-glucuronic acid	162	6753832	2.48
+AR3	D-glucuronic acid	162	6753832	2.99
+AR4	3-Pyridinecarboxaldehyde	162	6753832	5.0
+AR4	cyclohexanone	162	6753832	36.77
+AR3	xylose	162	6753832	41.0
+	NADPH	163	4393513	0.001
+AR1	NADPH	163	6753832	0.002
+G2	NADPH	163	6753832	0.003
+	p-Carboxybenzaldehyde	163	4393513	0.004
+	p-cyanobenzaldehyde	163	4393513	0.005
+	p-nitrobenzaldehyde	163	4393513	0.006
+	m-chlorobenzaldehyde	163	4393513	0.007
+AR4	NADPH	163	6753832	0.007
+AR3	3-Pyridinecarboxaldehyde	163	6753832	0.008
+AR3	NADPH	163	6753832	0.008
+AR3	p-nitrobenzaldehyde	163	6753832	0.0084
+AR4	menadione	163	6753832	0.009
+	p-hydroxyphenylglycolaldehyde	163	4393513	0.016
+	benzaldehyde	163	4393513	0.017
+AR1	p-Carboxybenzaldehyde	163	6753832	0.018
+	p-tolualdehyde	163	4393513	0.02
+	m-methoxybenzaldehyde	163	4393513	0.027
+AR4	Succinic semialdehyde	163	6753832	0.028
+AR1	Succinic semialdehyde	163	6753832	0.029
+G2	menadione	163	6753832	0.03
+G2	Succinic semialdehyde	163	6753832	0.036
+	p-hydroxyphenylacetaldehyde	163	4393513	0.057
+AR3	Succinic semialdehyde	163	6753832	0.064
+AR1	p-nitrobenzaldehyde	163	6753832	0.071
+G2	p-nitrobenzaldehyde	163	6753832	0.129
+	p-Methoxybenzaldehyde	163	4393513	0.141
+AR3	p-Carboxybenzaldehyde	163	6753832	0.258
+AR4	p-nitrobenzaldehyde	163	6753832	0.262
+G2	3-Pyridinecarboxaldehyde	163	6753832	0.751
+AR1	3-Pyridinecarboxaldehyde	163	6753832	0.934
+G2	cyclohexanone	163	6753832	1.18
+AR1	D-glucuronic acid	163	6753832	1.29
+G2	D-glucuronic acid	163	6753832	2.48
+AR3	D-glucuronic acid	163	6753832	2.99
+AR4	3-Pyridinecarboxaldehyde	163	6753832	5.0
+AR4	cyclohexanone	163	6753832	36.77
+AR3	xylose	163	6753832	41.0
+	NADPH	164	4393513	0.001
+AR1	NADPH	164	6753832	0.002
+G2	NADPH	164	6753832	0.003
+	p-Carboxybenzaldehyde	164	4393513	0.004
+	p-cyanobenzaldehyde	164	4393513	0.005
+	p-nitrobenzaldehyde	164	4393513	0.006
+	m-chlorobenzaldehyde	164	4393513	0.007
+AR4	NADPH	164	6753832	0.007
+AR3	3-Pyridinecarboxaldehyde	164	6753832	0.008
+AR3	NADPH	164	6753832	0.008
+AR3	p-nitrobenzaldehyde	164	6753832	0.0084
+AR4	menadione	164	6753832	0.009
+	p-hydroxyphenylglycolaldehyde	164	4393513	0.016
+	benzaldehyde	164	4393513	0.017
+AR1	p-Carboxybenzaldehyde	164	6753832	0.018
+	p-tolualdehyde	164	4393513	0.02
+	m-methoxybenzaldehyde	164	4393513	0.027
+AR4	Succinic semialdehyde	164	6753832	0.028
+AR1	Succinic semialdehyde	164	6753832	0.029
+G2	menadione	164	6753832	0.03
+G2	Succinic semialdehyde	164	6753832	0.036
+	p-hydroxyphenylacetaldehyde	164	4393513	0.057
+AR3	Succinic semialdehyde	164	6753832	0.064
+AR1	p-nitrobenzaldehyde	164	6753832	0.071
+G2	p-nitrobenzaldehyde	164	6753832	0.129
+	p-Methoxybenzaldehyde	164	4393513	0.141
+AR3	p-Carboxybenzaldehyde	164	6753832	0.258
+AR4	p-nitrobenzaldehyde	164	6753832	0.262
+G2	3-Pyridinecarboxaldehyde	164	6753832	0.751
+AR1	3-Pyridinecarboxaldehyde	164	6753832	0.934
+G2	cyclohexanone	164	6753832	1.18
+AR1	D-glucuronic acid	164	6753832	1.29
+G2	D-glucuronic acid	164	6753832	2.48
+AR3	D-glucuronic acid	164	6753832	2.99
+AR4	3-Pyridinecarboxaldehyde	164	6753832	5.0
+AR4	cyclohexanone	164	6753832	36.77
+AR3	xylose	164	6753832	41.0
+	NADPH	165	4393513	0.001
+AR1	NADPH	165	6753832	0.002
+G2	NADPH	165	6753832	0.003
+	p-Carboxybenzaldehyde	165	4393513	0.004
+	p-cyanobenzaldehyde	165	4393513	0.005
+	p-nitrobenzaldehyde	165	4393513	0.006
+	m-chlorobenzaldehyde	165	4393513	0.007
+AR4	NADPH	165	6753832	0.007
+AR3	3-Pyridinecarboxaldehyde	165	6753832	0.008
+AR3	NADPH	165	6753832	0.008
+AR3	p-nitrobenzaldehyde	165	6753832	0.0084
+AR4	menadione	165	6753832	0.009
+	p-hydroxyphenylglycolaldehyde	165	4393513	0.016
+	benzaldehyde	165	4393513	0.017
+AR1	p-Carboxybenzaldehyde	165	6753832	0.018
+	p-tolualdehyde	165	4393513	0.02
+	m-methoxybenzaldehyde	165	4393513	0.027
+AR4	Succinic semialdehyde	165	6753832	0.028
+AR1	Succinic semialdehyde	165	6753832	0.029
+G2	menadione	165	6753832	0.03
+G2	Succinic semialdehyde	165	6753832	0.036
+	p-hydroxyphenylacetaldehyde	165	4393513	0.057
+AR3	Succinic semialdehyde	165	6753832	0.064
+AR1	p-nitrobenzaldehyde	165	6753832	0.071
+G2	p-nitrobenzaldehyde	165	6753832	0.129
+	p-Methoxybenzaldehyde	165	4393513	0.141
+AR3	p-Carboxybenzaldehyde	165	6753832	0.258
+AR4	p-nitrobenzaldehyde	165	6753832	0.262
+G2	3-Pyridinecarboxaldehyde	165	6753832	0.751
+AR1	3-Pyridinecarboxaldehyde	165	6753832	0.934
+G2	cyclohexanone	165	6753832	1.18
+AR1	D-glucuronic acid	165	6753832	1.29
+G2	D-glucuronic acid	165	6753832	2.48
+AR3	D-glucuronic acid	165	6753832	2.99
+AR4	3-Pyridinecarboxaldehyde	165	6753832	5.0
+AR4	cyclohexanone	165	6753832	36.77
+AR3	xylose	165	6753832	41.0
+	NADPH	166	4393513	0.001
+AR1	NADPH	166	6753832	0.002
+G2	NADPH	166	6753832	0.003
+	p-Carboxybenzaldehyde	166	4393513	0.004
+	p-cyanobenzaldehyde	166	4393513	0.005
+	p-nitrobenzaldehyde	166	4393513	0.006
+	m-chlorobenzaldehyde	166	4393513	0.007
+AR4	NADPH	166	6753832	0.007
+AR3	3-Pyridinecarboxaldehyde	166	6753832	0.008
+AR3	NADPH	166	6753832	0.008
+AR3	p-nitrobenzaldehyde	166	6753832	0.0084
+AR4	menadione	166	6753832	0.009
+	p-hydroxyphenylglycolaldehyde	166	4393513	0.016
+	benzaldehyde	166	4393513	0.017
+AR1	p-Carboxybenzaldehyde	166	6753832	0.018
+	p-tolualdehyde	166	4393513	0.02
+	m-methoxybenzaldehyde	166	4393513	0.027
+AR4	Succinic semialdehyde	166	6753832	0.028
+AR1	Succinic semialdehyde	166	6753832	0.029
+G2	menadione	166	6753832	0.03
+G2	Succinic semialdehyde	166	6753832	0.036
+	p-hydroxyphenylacetaldehyde	166	4393513	0.057
+AR3	Succinic semialdehyde	166	6753832	0.064
+AR1	p-nitrobenzaldehyde	166	6753832	0.071
+G2	p-nitrobenzaldehyde	166	6753832	0.129
+	p-Methoxybenzaldehyde	166	4393513	0.141
+AR3	p-Carboxybenzaldehyde	166	6753832	0.258
+AR4	p-nitrobenzaldehyde	166	6753832	0.262
+G2	3-Pyridinecarboxaldehyde	166	6753832	0.751
+AR1	3-Pyridinecarboxaldehyde	166	6753832	0.934
+G2	cyclohexanone	166	6753832	1.18
+AR1	D-glucuronic acid	166	6753832	1.29
+G2	D-glucuronic acid	166	6753832	2.48
+AR3	D-glucuronic acid	166	6753832	2.99
+AR4	3-Pyridinecarboxaldehyde	166	6753832	5.0
+AR4	cyclohexanone	166	6753832	36.77
+AR3	xylose	166	6753832	41.0
+	NADPH	167	4393513	0.001
+AR1	NADPH	167	6753832	0.002
+G2	NADPH	167	6753832	0.003
+	p-Carboxybenzaldehyde	167	4393513	0.004
+	p-cyanobenzaldehyde	167	4393513	0.005
+	p-nitrobenzaldehyde	167	4393513	0.006
+	m-chlorobenzaldehyde	167	4393513	0.007
+AR4	NADPH	167	6753832	0.007
+AR3	3-Pyridinecarboxaldehyde	167	6753832	0.008
+AR3	NADPH	167	6753832	0.008
+AR3	p-nitrobenzaldehyde	167	6753832	0.0084
+AR4	menadione	167	6753832	0.009
+	p-hydroxyphenylglycolaldehyde	167	4393513	0.016
+	benzaldehyde	167	4393513	0.017
+AR1	p-Carboxybenzaldehyde	167	6753832	0.018
+	p-tolualdehyde	167	4393513	0.02
+	m-methoxybenzaldehyde	167	4393513	0.027
+AR4	Succinic semialdehyde	167	6753832	0.028
+AR1	Succinic semialdehyde	167	6753832	0.029
+G2	menadione	167	6753832	0.03
+G2	Succinic semialdehyde	167	6753832	0.036
+	p-hydroxyphenylacetaldehyde	167	4393513	0.057
+AR3	Succinic semialdehyde	167	6753832	0.064
+AR1	p-nitrobenzaldehyde	167	6753832	0.071
+G2	p-nitrobenzaldehyde	167	6753832	0.129
+	p-Methoxybenzaldehyde	167	4393513	0.141
+AR3	p-Carboxybenzaldehyde	167	6753832	0.258
+AR4	p-nitrobenzaldehyde	167	6753832	0.262
+G2	3-Pyridinecarboxaldehyde	167	6753832	0.751
+AR1	3-Pyridinecarboxaldehyde	167	6753832	0.934
+G2	cyclohexanone	167	6753832	1.18
+AR1	D-glucuronic acid	167	6753832	1.29
+G2	D-glucuronic acid	167	6753832	2.48
+AR3	D-glucuronic acid	167	6753832	2.99
+AR4	3-Pyridinecarboxaldehyde	167	6753832	5.0
+AR4	cyclohexanone	167	6753832	36.77
+AR3	xylose	167	6753832	41.0
+	NADPH	168	4393513	0.001
+AR1	NADPH	168	6753832	0.002
+G2	NADPH	168	6753832	0.003
+	p-Carboxybenzaldehyde	168	4393513	0.004
+	p-cyanobenzaldehyde	168	4393513	0.005
+	p-nitrobenzaldehyde	168	4393513	0.006
+	m-chlorobenzaldehyde	168	4393513	0.007
+AR4	NADPH	168	6753832	0.007
+AR3	3-Pyridinecarboxaldehyde	168	6753832	0.008
+AR3	NADPH	168	6753832	0.008
+AR3	p-nitrobenzaldehyde	168	6753832	0.0084
+AR4	menadione	168	6753832	0.009
+	p-hydroxyphenylglycolaldehyde	168	4393513	0.016
+	benzaldehyde	168	4393513	0.017
+AR1	p-Carboxybenzaldehyde	168	6753832	0.018
+	p-tolualdehyde	168	4393513	0.02
+	m-methoxybenzaldehyde	168	4393513	0.027
+AR4	Succinic semialdehyde	168	6753832	0.028
+AR1	Succinic semialdehyde	168	6753832	0.029
+G2	menadione	168	6753832	0.03
+G2	Succinic semialdehyde	168	6753832	0.036
+	p-hydroxyphenylacetaldehyde	168	4393513	0.057
+AR3	Succinic semialdehyde	168	6753832	0.064
+AR1	p-nitrobenzaldehyde	168	6753832	0.071
+G2	p-nitrobenzaldehyde	168	6753832	0.129
+	p-Methoxybenzaldehyde	168	4393513	0.141
+AR3	p-Carboxybenzaldehyde	168	6753832	0.258
+AR4	p-nitrobenzaldehyde	168	6753832	0.262
+G2	3-Pyridinecarboxaldehyde	168	6753832	0.751
+AR1	3-Pyridinecarboxaldehyde	168	6753832	0.934
+G2	cyclohexanone	168	6753832	1.18
+AR1	D-glucuronic acid	168	6753832	1.29
+G2	D-glucuronic acid	168	6753832	2.48
+AR3	D-glucuronic acid	168	6753832	2.99
+AR4	3-Pyridinecarboxaldehyde	168	6753832	5.0
+AR4	cyclohexanone	168	6753832	36.77
+AR3	xylose	168	6753832	41.0
+	NADPH	169	4393513	0.001
+AR1	NADPH	169	6753832	0.002
+G2	NADPH	169	6753832	0.003
+	p-Carboxybenzaldehyde	169	4393513	0.004
+	p-cyanobenzaldehyde	169	4393513	0.005
+	p-nitrobenzaldehyde	169	4393513	0.006
+	m-chlorobenzaldehyde	169	4393513	0.007
+AR4	NADPH	169	6753832	0.007
+AR3	3-Pyridinecarboxaldehyde	169	6753832	0.008
+AR3	NADPH	169	6753832	0.008
+AR3	p-nitrobenzaldehyde	169	6753832	0.0084
+AR4	menadione	169	6753832	0.009
+	p-hydroxyphenylglycolaldehyde	169	4393513	0.016
+	benzaldehyde	169	4393513	0.017
+AR1	p-Carboxybenzaldehyde	169	6753832	0.018
+	p-tolualdehyde	169	4393513	0.02
+	m-methoxybenzaldehyde	169	4393513	0.027
+AR4	Succinic semialdehyde	169	6753832	0.028
+AR1	Succinic semialdehyde	169	6753832	0.029
+G2	menadione	169	6753832	0.03
+G2	Succinic semialdehyde	169	6753832	0.036
+	p-hydroxyphenylacetaldehyde	169	4393513	0.057
+AR3	Succinic semialdehyde	169	6753832	0.064
+AR1	p-nitrobenzaldehyde	169	6753832	0.071
+G2	p-nitrobenzaldehyde	169	6753832	0.129
+	p-Methoxybenzaldehyde	169	4393513	0.141
+AR3	p-Carboxybenzaldehyde	169	6753832	0.258
+AR4	p-nitrobenzaldehyde	169	6753832	0.262
+G2	3-Pyridinecarboxaldehyde	169	6753832	0.751
+AR1	3-Pyridinecarboxaldehyde	169	6753832	0.934
+G2	cyclohexanone	169	6753832	1.18
+AR1	D-glucuronic acid	169	6753832	1.29
+G2	D-glucuronic acid	169	6753832	2.48
+AR3	D-glucuronic acid	169	6753832	2.99
+AR4	3-Pyridinecarboxaldehyde	169	6753832	5.0
+AR4	cyclohexanone	169	6753832	36.77
+AR3	xylose	169	6753832	41.0
+outer medulla enzyme	D-glucuronate	234	1907200	2.5
+inner medulla enzyme	D-glucuronate	234	1907200	3.22
+cortex enzyme	D-glucuronate	234	1907200	3.34
+inner medulla enzyme	DL-glyceraldehyde	234	1907200	4.67
+cortex enzyme	DL-glyceraldehyde	234	1907200	4.68
+outer medulla enzyme	DL-glyceraldehyde	234	1907200	5.92
+outer medulla enzyme	D-xylose	234	1907200	845.0
+inner medulla enzyme	D-xylose	234	1907200	1152.0
+cortex enzyme	D-xylose	234	1907200	1497.0
+outer medulla enzyme	D-glucuronate	235	1907200	2.5
+inner medulla enzyme	D-glucuronate	235	1907200	3.22
+cortex enzyme	D-glucuronate	235	1907200	3.34
+inner medulla enzyme	DL-glyceraldehyde	235	1907200	4.67
+cortex enzyme	DL-glyceraldehyde	235	1907200	4.68
+outer medulla enzyme	DL-glyceraldehyde	235	1907200	5.92
+outer medulla enzyme	D-xylose	235	1907200	845.0
+inner medulla enzyme	D-xylose	235	1907200	1152.0
+cortex enzyme	D-xylose	235	1907200	1497.0
+outer medulla enzyme	D-glucuronate	236	1907200	2.5
+inner medulla enzyme	D-glucuronate	236	1907200	3.22
+cortex enzyme	D-glucuronate	236	1907200	3.34
+inner medulla enzyme	DL-glyceraldehyde	236	1907200	4.67
+cortex enzyme	DL-glyceraldehyde	236	1907200	4.68
+outer medulla enzyme	DL-glyceraldehyde	236	1907200	5.92
+outer medulla enzyme	D-xylose	236	1907200	845.0
+inner medulla enzyme	D-xylose	236	1907200	1152.0
+cortex enzyme	D-xylose	236	1907200	1497.0
+outer medulla enzyme	D-glucuronate	237	1907200	2.5
+inner medulla enzyme	D-glucuronate	237	1907200	3.22
+cortex enzyme	D-glucuronate	237	1907200	3.34
+inner medulla enzyme	DL-glyceraldehyde	237	1907200	4.67
+cortex enzyme	DL-glyceraldehyde	237	1907200	4.68
+outer medulla enzyme	DL-glyceraldehyde	237	1907200	5.92
+outer medulla enzyme	D-xylose	237	1907200	845.0
+inner medulla enzyme	D-xylose	237	1907200	1152.0
+cortex enzyme	D-xylose	237	1907200	1497.0
+outer medulla enzyme	D-glucuronate	238	1907200	2.5
+inner medulla enzyme	D-glucuronate	238	1907200	3.22
+cortex enzyme	D-glucuronate	238	1907200	3.34
+inner medulla enzyme	DL-glyceraldehyde	238	1907200	4.67
+cortex enzyme	DL-glyceraldehyde	238	1907200	4.68
+outer medulla enzyme	DL-glyceraldehyde	238	1907200	5.92
+outer medulla enzyme	D-xylose	238	1907200	845.0
+inner medulla enzyme	D-xylose	238	1907200	1152.0
+cortex enzyme	D-xylose	238	1907200	1497.0
+outer medulla enzyme	D-glucuronate	239	1907200	2.5
+inner medulla enzyme	D-glucuronate	239	1907200	3.22
+cortex enzyme	D-glucuronate	239	1907200	3.34
+inner medulla enzyme	DL-glyceraldehyde	239	1907200	4.67
+cortex enzyme	DL-glyceraldehyde	239	1907200	4.68
+outer medulla enzyme	DL-glyceraldehyde	239	1907200	5.92
+outer medulla enzyme	D-xylose	239	1907200	845.0
+inner medulla enzyme	D-xylose	239	1907200	1152.0
+cortex enzyme	D-xylose	239	1907200	1497.0
+	Succinic semialdehyde	380	6798966	0.037
+	Succinic semialdehyde	381	6798966	0.037
+	Succinic semialdehyde	382	6798966	0.037
+pH 7.0, 37°C	butanaldehyde	505	18211903	0.67
+pH 7.0, 37°C	malondialdehyde	505	18211903	1.78
+pH 7.0, 37°C	propionaldehyde	505	18211903	3.31
+pH 7.0, 37°C	acrolein	505	18211903	4.81
+pH 7.0, 37°C	acetaldehyde	505	18211903	28.47
+pH 7.0, 37°C	butanaldehyde	506	18211903	0.67
+pH 7.0, 37°C	malondialdehyde	506	18211903	1.78
+pH 7.0, 37°C	propionaldehyde	506	18211903	3.31
+pH 7.0, 37°C	acrolein	506	18211903	4.81
+pH 7.0, 37°C	acetaldehyde	506	18211903	28.47
+pH 7.0, 37°C	butanaldehyde	507	18211903	0.67
+pH 7.0, 37°C	malondialdehyde	507	18211903	1.78
+pH 7.0, 37°C	propionaldehyde	507	18211903	3.31
+pH 7.0, 37°C	acrolein	507	18211903	4.81
+pH 7.0, 37°C	acetaldehyde	507	18211903	28.47
+pH 7.0, 37°C	butanaldehyde	508	18211903	0.67
+pH 7.0, 37°C	malondialdehyde	508	18211903	1.78
+pH 7.0, 37°C	propionaldehyde	508	18211903	3.31
+pH 7.0, 37°C	acrolein	508	18211903	4.81
+pH 7.0, 37°C	acetaldehyde	508	18211903	28.47
+pH 7.0, 37°C	butanaldehyde	509	18211903	0.67
+pH 7.0, 37°C	malondialdehyde	509	18211903	1.78
+pH 7.0, 37°C	propionaldehyde	509	18211903	3.31
+pH 7.0, 37°C	acrolein	509	18211903	4.81
+pH 7.0, 37°C	acetaldehyde	509	18211903	28.47
+pH 7.0, 37°C	butanaldehyde	510	18211903	0.67
+pH 7.0, 37°C	malondialdehyde	510	18211903	1.78
+pH 7.0, 37°C	propionaldehyde	510	18211903	3.31
+pH 7.0, 37°C	acrolein	510	18211903	4.81
+pH 7.0, 37°C	acetaldehyde	510	18211903	28.47
+pH 7.0, 37°C	butanaldehyde	511	18211903	0.67
+pH 7.0, 37°C	malondialdehyde	511	18211903	1.78
+pH 7.0, 37°C	propionaldehyde	511	18211903	3.31
+pH 7.0, 37°C	acrolein	511	18211903	4.81
+pH 7.0, 37°C	acetaldehyde	511	18211903	28.47
+pH 8.8, 30°C	1-Hexanol	525	12091098	6.79
+pH 8.8, 30°C	NADP+	525	12091098	46.7
+pH 8.8, 30°C	1-Hexanol	526	12091098	6.79
+pH 8.8, 30°C	NADP+	526	12091098	46.7
+pH 8.8, 30°C	1-Hexanol	527	12091098	6.79
+pH 8.8, 30°C	NADP+	527	12091098	46.7
+AR2	NADPH	590	6343086	0.002
+AR1; AR3	NADPH	590	6343086	0.003
+AR2	p-nitrobenzaldehyde	590	6753936	0.034
+AR2	pyridine 3-aldehyde	590	6753936	0.042
+AR2	NADH	590	6343086	0.052
+AR1	p-Carboxybenzaldehyde	590	6343086	0.056
+AR2	4-Pyridinecarboxaldehyde	590	6753936	0.062
+AR3	p-Carboxybenzaldehyde	590	6753936	0.062
+AR2	m-nitrobenzaldehyde	590	6753936	0.082
+AR2	androstane-3,17-dione	590	6343086	0.099
+AR2	5alpha-dihydrotestosterone	590	6343086	0.11
+AR2	Phenylglyoxal	590	6753936	0.11
+AR2	laurylaldehyde	590	6753936	0.31
+AR2	Indole-3-acetaldehyde	590	6753936	0.32
+AR2	p-Carboxybenzaldehyde	590	6753936	0.32
+AR2	D-glyceraldehyde	590	6343086	0.43
+AR3	1,2-Cyclohexanedione	590	6343086	0.46
+AR2	1,2-Cyclohexanedione	590	6343086	0.8
+AR1	D-galacturonate	590	6343086	1.1
+AR2	n-Butyraldehyde	590	6753936	1.1
+AR3	p-nitrobenzaldehyde	590	6753936	1.1
+AR2	diacetyl	590	6753936	1.2
+AR1	p-nitrobenzaldehyde	590	6343086	1.2
+AR3	Phenylglyoxal	590	6753936	1.3
+AR1	Phenylglyoxal	590	6343086	1.6
+AR2	methylglyoxal	590	6753936	1.9
+AR3	n-Butyraldehyde	590	6753936	2.0
+AR2	ethylacetoacetate	590	6343086	2.7
+AR1	methylglyoxal	590	6343086	2.8
+AR2	o-nitrobenzaldehyde	590	6753936	2.8
+AR3	3-Pyridinecarboxaldehyde	590	6753936	2.9
+AR3	Indole-3-acetaldehyde	590	6753936	3.0
+AR1	pyridine 3-aldehyde	590	6343086	3.0
+AR3	methylglyoxal	590	6753936	3.2
+AR1	Indole-3-acetaldehyde	590	6343086	3.7
+AR1	m-nitrobenzaldehyde	590	6343086	3.9
+AR3	5alpha-dihydrotestosterone	590	6343086	4.0
+AR3	m-nitrobenzaldehyde	590	6753936	4.0
+AR1	pyridine 4-aldehyde	590	6343086	4.0
+AR1	D-glucuronate	590	6343086	4.5
+AR3	o-nitrobenzaldehyde	590	6753936	4.6
+AR1	o-nitrobenzaldehyde	590	6343086	4.6
+AR2	L-glyceraldehyde	590	6343086	4.9
+AR3	pyridine 4-aldehyde	590	6753936	5.2
+AR3	D-glyceraldehyde	590	6343086	8.2
+AR2	glycolaldehyde	590	6753936	9.9
+AR1, AR3	diacetyl	590	6343086	10.8
+AR3	L-glyceraldehyde	590	6343086	11.1
+AR3	androstane-3,17-dione	590	6343086	13.0
+AR2	D-glucuronolactone	590	6343086	19.6
+AR3	ethylacetoacetate	590	6343086	26.0
+AR1	D-glucuronolactone	590	6343086	67.0
+AR2	ribose	590	6343086	111.0
+AR2	xylose	590	6343086	160.0
+AR1	D-xylose	590	6343086	270.0
+aldehyde reductase I	propionaldehyde	665	6753936	0.008
+aldehyde reductase II	NADPH	665	6753936	0.013
+aldehyde reductase II	NADPH	665	3922304	0.019
+AR I	3-Pyridinecarboxaldehyde	665	3890957	0.02
+AR II	NADPH	665	3890957	0.02
+aldehyde reductase I	NADPH	665	6753936	0.022
+aldehyde reductase I	benzaldehyde	665	6753936	0.023
+	p-Carboxybenzaldehyde	665	16919	0.025
+aldehyde reductase I	p-nitrobenzaldehyde	665	6753936	0.029
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	665	7669785	0.038
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	665	8916913	0.038
+AR I	NADPH	665	3890957	0.05
+AR I	glyceraldehyde	665	3890957	0.07
+aldehyde reductase I	Butyraldehyde	665	6753936	0.083
+aldehyde reductase, mutant V299C	p-Carboxybenzaldehyde	665	7669785	0.1
+aldehyde reductase, mutant R308A	p-Carboxybenzaldehyde	665	8916913	0.11
+	p-nitrobenzaldehyde	665	16919	0.15
+wild-type aldehyde reductase	p-nitrobenzaldehyde	665	7669785	0.16
+wild-type aldehyde reductase	p-nitrobenzaldehyde	665	8916913	0.16
+aldehyde reductase II	p-nitrobenzaldehyde	665	6753936	0.169
+wild-type aldehyde reductase	Succinic semialdehyde	665	7669785	0.17
+wild-type aldehyde reductase	Succinic semialdehyde	665	8916913	0.17
+aldehyde reductase, mutant R308A	Succinic semialdehyde	665	8916913	0.2
+AR I	propionaldehyde	665	3890957	0.21
+aldehyde reductase, mutant R308A	p-nitrobenzaldehyde	665	8916913	0.25
+aldehyde reductase II	3-Pyridinecarboxaldehyde	665	3922304	0.29
+aldehyde reductase, mutant I298A	p-Carboxybenzaldehyde	665	7669785	0.38
+aldehyde reductase, mutant V299C	p-nitrobenzaldehyde	665	7669785	0.38
+mutant R311A	p-nitrobenzaldehyde	665	8916913	0.38
+aldehyde reductase, mutant V299C	Succinic semialdehyde	665	7669785	0.41
+aldehyde reductase, mutant I298C	p-Carboxybenzaldehyde	665	7669785	0.43
+aldehyde reductase II	3-Pyridinecarboxaldehyde	665	6753936	0.606
+	p-chlorobenzaldehyde	665	16919	0.94
+aldehyde reductase I	3-Pyridinecarboxaldehyde	665	6753936	1.18
+aldehyde reductase, mutant I298C	p-nitrobenzaldehyde	665	7669785	1.2
+	Butyraldehyde	665	16919	1.3
+	methylglyoxal	665	16919	1.3
+	Camphorquinone	665	16919	1.4
+	DL-glyceraldehyde	665	16919	1.5
+aldehyde reductase, mutant I298C	Succinic semialdehyde	665	7669785	1.5
+wild-type aldehyde reductase	DL-glyceraldehyde	665	7669785	1.7
+wild-type aldehyde reductase	DL-glyceraldehyde	665	8916913	1.7
+aldehyde reductase, mutant V299C	DL-glyceraldehyde	665	7669785	1.8
+aldehyde reductase, mutant R311A	DL-glyceraldehyde	665	8916913	2.2
+aldehyde reductase, mutant R308A	DL-glyceraldehyde	665	8916913	2.3
+	m-nitrobenzaldehyde	665	16919	2.4
+aldehyde reductase II	glucuronate	665	3922304	2.5
+AR II	glucuronate	665	3890957	2.53
+AR II	propionaldehyde	665	3890957	2.63
+aldehyde reductase, mutant H112Q	p-Carboxybenzaldehyde	665	7669785	2.8
+aldehyde reductase, mutant I298A	p-nitrobenzaldehyde	665	7669785	2.8
+aldehyde reductase, mutant I298A	Succinic semialdehyde	665	7669785	2.8
+	propionaldehyde	665	16919	2.9
+aldehyde reductase II	DL-glyceraldehyde	665	6753936	2.94
+aldehyde reductase II	sodium D-glucuronate	665	6753936	2.95
+	benzaldehyde	665	16919	3.4
+aldehyde reductase, mutant R311A	p-Carboxybenzaldehyde	665	8916913	4.0
+aldehyde reductase, mutant V299C; wild-type aldehyde reductase	D-glucuronate	665	7669785	4.2
+wild-type aldehyde reductase	D-glucuronate	665	8916913	4.2
+aldehyde reductase, mutant H112Q	p-nitrobenzaldehyde	665	7669785	5.9
+AR II	glyceraldehyde	665	3890957	6.67
+aldehyde reductase, mutant R308A	D-glucuronate	665	8916913	7.5
+aldehyde reductase II	glyceraldehyde	665	3922304	7.59
+aldehyde reductase II	Butyraldehyde	665	6753936	7.69
+AR II	3-Pyridinecarboxaldehyde	665	3890957	8.61
+aldehyde reductase II	benzaldehyde	665	6753936	9.09
+aldehyde reductase, mutant I298C	DL-glyceraldehyde	665	7669785	11.5
+aldehyde reductase I	DL-glyceraldehyde	665	6753936	12.5
+aldehyde reductase, mutant R311A	Succinic semialdehyde	665	8916913	14.1
+aldehyde reductase II	propionaldehyde	665	6753936	14.28
+aldehyde reductase II	propionaldehyde	665	3922304	14.54
+aldehyde reductase, mutant H112Q	Succinic semialdehyde	665	7669785	18.0
+aldehyde reductase, mutant I298C	D-glucuronate	665	7669785	19.5
+aldehyde reductase, mutant I298A	D-glucuronate	665	7669785	26.3
+aldehyde reductase, mutant I298A	DL-glyceraldehyde	665	7669785	33.0
+aldehyde reductase, mutant H112Q	D-glucuronate	665	7669785	48.0
+aldehyde reductase, mutant H112Q	DL-glyceraldehyde	665	7669785	76.0
+AR I	D-glucose	665	3890957	215.0
+aldehyde reductase, mutant R311A	D-glucuronate	665	8916913	364.0
+aldehyde reductase II	D-xylose	665	6753936	500.0
+aldehyde reductase II	D-galactose	665	6753936	543.0
+aldehyde reductase I	propionaldehyde	666	6753936	0.008
+aldehyde reductase II	NADPH	666	6753936	0.013
+aldehyde reductase II	NADPH	666	3922304	0.019
+AR I	3-Pyridinecarboxaldehyde	666	3890957	0.02
+AR II	NADPH	666	3890957	0.02
+aldehyde reductase I	NADPH	666	6753936	0.022
+aldehyde reductase I	benzaldehyde	666	6753936	0.023
+	p-Carboxybenzaldehyde	666	16919	0.025
+aldehyde reductase I	p-nitrobenzaldehyde	666	6753936	0.029
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	666	7669785	0.038
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	666	8916913	0.038
+AR I	NADPH	666	3890957	0.05
+AR I	glyceraldehyde	666	3890957	0.07
+aldehyde reductase I	Butyraldehyde	666	6753936	0.083
+aldehyde reductase, mutant V299C	p-Carboxybenzaldehyde	666	7669785	0.1
+aldehyde reductase, mutant R308A	p-Carboxybenzaldehyde	666	8916913	0.11
+	p-nitrobenzaldehyde	666	16919	0.15
+wild-type aldehyde reductase	p-nitrobenzaldehyde	666	7669785	0.16
+wild-type aldehyde reductase	p-nitrobenzaldehyde	666	8916913	0.16
+aldehyde reductase II	p-nitrobenzaldehyde	666	6753936	0.169
+wild-type aldehyde reductase	Succinic semialdehyde	666	7669785	0.17
+wild-type aldehyde reductase	Succinic semialdehyde	666	8916913	0.17
+aldehyde reductase, mutant R308A	Succinic semialdehyde	666	8916913	0.2
+AR I	propionaldehyde	666	3890957	0.21
+aldehyde reductase, mutant R308A	p-nitrobenzaldehyde	666	8916913	0.25
+aldehyde reductase II	3-Pyridinecarboxaldehyde	666	3922304	0.29
+aldehyde reductase, mutant I298A	p-Carboxybenzaldehyde	666	7669785	0.38
+aldehyde reductase, mutant V299C	p-nitrobenzaldehyde	666	7669785	0.38
+mutant R311A	p-nitrobenzaldehyde	666	8916913	0.38
+aldehyde reductase, mutant V299C	Succinic semialdehyde	666	7669785	0.41
+aldehyde reductase, mutant I298C	p-Carboxybenzaldehyde	666	7669785	0.43
+aldehyde reductase II	3-Pyridinecarboxaldehyde	666	6753936	0.606
+	p-chlorobenzaldehyde	666	16919	0.94
+aldehyde reductase I	3-Pyridinecarboxaldehyde	666	6753936	1.18
+aldehyde reductase, mutant I298C	p-nitrobenzaldehyde	666	7669785	1.2
+	Butyraldehyde	666	16919	1.3
+	methylglyoxal	666	16919	1.3
+	Camphorquinone	666	16919	1.4
+	DL-glyceraldehyde	666	16919	1.5
+aldehyde reductase, mutant I298C	Succinic semialdehyde	666	7669785	1.5
+wild-type aldehyde reductase	DL-glyceraldehyde	666	7669785	1.7
+wild-type aldehyde reductase	DL-glyceraldehyde	666	8916913	1.7
+aldehyde reductase, mutant V299C	DL-glyceraldehyde	666	7669785	1.8
+aldehyde reductase, mutant R311A	DL-glyceraldehyde	666	8916913	2.2
+aldehyde reductase, mutant R308A	DL-glyceraldehyde	666	8916913	2.3
+	m-nitrobenzaldehyde	666	16919	2.4
+aldehyde reductase II	glucuronate	666	3922304	2.5
+AR II	glucuronate	666	3890957	2.53
+AR II	propionaldehyde	666	3890957	2.63
+aldehyde reductase, mutant H112Q	p-Carboxybenzaldehyde	666	7669785	2.8
+aldehyde reductase, mutant I298A	p-nitrobenzaldehyde	666	7669785	2.8
+aldehyde reductase, mutant I298A	Succinic semialdehyde	666	7669785	2.8
+	propionaldehyde	666	16919	2.9
+aldehyde reductase II	DL-glyceraldehyde	666	6753936	2.94
+aldehyde reductase II	sodium D-glucuronate	666	6753936	2.95
+	benzaldehyde	666	16919	3.4
+aldehyde reductase, mutant R311A	p-Carboxybenzaldehyde	666	8916913	4.0
+aldehyde reductase, mutant V299C; wild-type aldehyde reductase	D-glucuronate	666	7669785	4.2
+wild-type aldehyde reductase	D-glucuronate	666	8916913	4.2
+aldehyde reductase, mutant H112Q	p-nitrobenzaldehyde	666	7669785	5.9
+AR II	glyceraldehyde	666	3890957	6.67
+aldehyde reductase, mutant R308A	D-glucuronate	666	8916913	7.5
+aldehyde reductase II	glyceraldehyde	666	3922304	7.59
+aldehyde reductase II	Butyraldehyde	666	6753936	7.69
+AR II	3-Pyridinecarboxaldehyde	666	3890957	8.61
+aldehyde reductase II	benzaldehyde	666	6753936	9.09
+aldehyde reductase, mutant I298C	DL-glyceraldehyde	666	7669785	11.5
+aldehyde reductase I	DL-glyceraldehyde	666	6753936	12.5
+aldehyde reductase, mutant R311A	Succinic semialdehyde	666	8916913	14.1
+aldehyde reductase II	propionaldehyde	666	6753936	14.28
+aldehyde reductase II	propionaldehyde	666	3922304	14.54
+aldehyde reductase, mutant H112Q	Succinic semialdehyde	666	7669785	18.0
+aldehyde reductase, mutant I298C	D-glucuronate	666	7669785	19.5
+aldehyde reductase, mutant I298A	D-glucuronate	666	7669785	26.3
+aldehyde reductase, mutant I298A	DL-glyceraldehyde	666	7669785	33.0
+aldehyde reductase, mutant H112Q	D-glucuronate	666	7669785	48.0
+aldehyde reductase, mutant H112Q	DL-glyceraldehyde	666	7669785	76.0
+AR I	D-glucose	666	3890957	215.0
+aldehyde reductase, mutant R311A	D-glucuronate	666	8916913	364.0
+aldehyde reductase II	D-xylose	666	6753936	500.0
+aldehyde reductase II	D-galactose	666	6753936	543.0
+aldehyde reductase I	propionaldehyde	667	6753936	0.008
+aldehyde reductase II	NADPH	667	6753936	0.013
+aldehyde reductase II	NADPH	667	3922304	0.019
+AR I	3-Pyridinecarboxaldehyde	667	3890957	0.02
+AR II	NADPH	667	3890957	0.02
+aldehyde reductase I	NADPH	667	6753936	0.022
+aldehyde reductase I	benzaldehyde	667	6753936	0.023
+	p-Carboxybenzaldehyde	667	16919	0.025
+aldehyde reductase I	p-nitrobenzaldehyde	667	6753936	0.029
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	667	7669785	0.038
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	667	8916913	0.038
+AR I	NADPH	667	3890957	0.05
+AR I	glyceraldehyde	667	3890957	0.07
+aldehyde reductase I	Butyraldehyde	667	6753936	0.083
+aldehyde reductase, mutant V299C	p-Carboxybenzaldehyde	667	7669785	0.1
+aldehyde reductase, mutant R308A	p-Carboxybenzaldehyde	667	8916913	0.11
+	p-nitrobenzaldehyde	667	16919	0.15
+wild-type aldehyde reductase	p-nitrobenzaldehyde	667	7669785	0.16
+wild-type aldehyde reductase	p-nitrobenzaldehyde	667	8916913	0.16
+aldehyde reductase II	p-nitrobenzaldehyde	667	6753936	0.169
+wild-type aldehyde reductase	Succinic semialdehyde	667	7669785	0.17
+wild-type aldehyde reductase	Succinic semialdehyde	667	8916913	0.17
+aldehyde reductase, mutant R308A	Succinic semialdehyde	667	8916913	0.2
+AR I	propionaldehyde	667	3890957	0.21
+aldehyde reductase, mutant R308A	p-nitrobenzaldehyde	667	8916913	0.25
+aldehyde reductase II	3-Pyridinecarboxaldehyde	667	3922304	0.29
+aldehyde reductase, mutant I298A	p-Carboxybenzaldehyde	667	7669785	0.38
+aldehyde reductase, mutant V299C	p-nitrobenzaldehyde	667	7669785	0.38
+mutant R311A	p-nitrobenzaldehyde	667	8916913	0.38
+aldehyde reductase, mutant V299C	Succinic semialdehyde	667	7669785	0.41
+aldehyde reductase, mutant I298C	p-Carboxybenzaldehyde	667	7669785	0.43
+aldehyde reductase II	3-Pyridinecarboxaldehyde	667	6753936	0.606
+	p-chlorobenzaldehyde	667	16919	0.94
+aldehyde reductase I	3-Pyridinecarboxaldehyde	667	6753936	1.18
+aldehyde reductase, mutant I298C	p-nitrobenzaldehyde	667	7669785	1.2
+	Butyraldehyde	667	16919	1.3
+	methylglyoxal	667	16919	1.3
+	Camphorquinone	667	16919	1.4
+	DL-glyceraldehyde	667	16919	1.5
+aldehyde reductase, mutant I298C	Succinic semialdehyde	667	7669785	1.5
+wild-type aldehyde reductase	DL-glyceraldehyde	667	7669785	1.7
+wild-type aldehyde reductase	DL-glyceraldehyde	667	8916913	1.7
+aldehyde reductase, mutant V299C	DL-glyceraldehyde	667	7669785	1.8
+aldehyde reductase, mutant R311A	DL-glyceraldehyde	667	8916913	2.2
+aldehyde reductase, mutant R308A	DL-glyceraldehyde	667	8916913	2.3
+	m-nitrobenzaldehyde	667	16919	2.4
+aldehyde reductase II	glucuronate	667	3922304	2.5
+AR II	glucuronate	667	3890957	2.53
+AR II	propionaldehyde	667	3890957	2.63
+aldehyde reductase, mutant H112Q	p-Carboxybenzaldehyde	667	7669785	2.8
+aldehyde reductase, mutant I298A	p-nitrobenzaldehyde	667	7669785	2.8
+aldehyde reductase, mutant I298A	Succinic semialdehyde	667	7669785	2.8
+	propionaldehyde	667	16919	2.9
+aldehyde reductase II	DL-glyceraldehyde	667	6753936	2.94
+aldehyde reductase II	sodium D-glucuronate	667	6753936	2.95
+	benzaldehyde	667	16919	3.4
+aldehyde reductase, mutant R311A	p-Carboxybenzaldehyde	667	8916913	4.0
+aldehyde reductase, mutant V299C; wild-type aldehyde reductase	D-glucuronate	667	7669785	4.2
+wild-type aldehyde reductase	D-glucuronate	667	8916913	4.2
+aldehyde reductase, mutant H112Q	p-nitrobenzaldehyde	667	7669785	5.9
+AR II	glyceraldehyde	667	3890957	6.67
+aldehyde reductase, mutant R308A	D-glucuronate	667	8916913	7.5
+aldehyde reductase II	glyceraldehyde	667	3922304	7.59
+aldehyde reductase II	Butyraldehyde	667	6753936	7.69
+AR II	3-Pyridinecarboxaldehyde	667	3890957	8.61
+aldehyde reductase II	benzaldehyde	667	6753936	9.09
+aldehyde reductase, mutant I298C	DL-glyceraldehyde	667	7669785	11.5
+aldehyde reductase I	DL-glyceraldehyde	667	6753936	12.5
+aldehyde reductase, mutant R311A	Succinic semialdehyde	667	8916913	14.1
+aldehyde reductase II	propionaldehyde	667	6753936	14.28
+aldehyde reductase II	propionaldehyde	667	3922304	14.54
+aldehyde reductase, mutant H112Q	Succinic semialdehyde	667	7669785	18.0
+aldehyde reductase, mutant I298C	D-glucuronate	667	7669785	19.5
+aldehyde reductase, mutant I298A	D-glucuronate	667	7669785	26.3
+aldehyde reductase, mutant I298A	DL-glyceraldehyde	667	7669785	33.0
+aldehyde reductase, mutant H112Q	D-glucuronate	667	7669785	48.0
+aldehyde reductase, mutant H112Q	DL-glyceraldehyde	667	7669785	76.0
+AR I	D-glucose	667	3890957	215.0
+aldehyde reductase, mutant R311A	D-glucuronate	667	8916913	364.0
+aldehyde reductase II	D-xylose	667	6753936	500.0
+aldehyde reductase II	D-galactose	667	6753936	543.0
+aldehyde reductase I	propionaldehyde	668	6753936	0.008
+aldehyde reductase II	NADPH	668	6753936	0.013
+aldehyde reductase II	NADPH	668	3922304	0.019
+AR I	3-Pyridinecarboxaldehyde	668	3890957	0.02
+AR II	NADPH	668	3890957	0.02
+aldehyde reductase I	NADPH	668	6753936	0.022
+aldehyde reductase I	benzaldehyde	668	6753936	0.023
+	p-Carboxybenzaldehyde	668	16919	0.025
+aldehyde reductase I	p-nitrobenzaldehyde	668	6753936	0.029
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	668	7669785	0.038
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	668	8916913	0.038
+AR I	NADPH	668	3890957	0.05
+AR I	glyceraldehyde	668	3890957	0.07
+aldehyde reductase I	Butyraldehyde	668	6753936	0.083
+aldehyde reductase, mutant V299C	p-Carboxybenzaldehyde	668	7669785	0.1
+aldehyde reductase, mutant R308A	p-Carboxybenzaldehyde	668	8916913	0.11
+	p-nitrobenzaldehyde	668	16919	0.15
+wild-type aldehyde reductase	p-nitrobenzaldehyde	668	7669785	0.16
+wild-type aldehyde reductase	p-nitrobenzaldehyde	668	8916913	0.16
+aldehyde reductase II	p-nitrobenzaldehyde	668	6753936	0.169
+wild-type aldehyde reductase	Succinic semialdehyde	668	7669785	0.17
+wild-type aldehyde reductase	Succinic semialdehyde	668	8916913	0.17
+aldehyde reductase, mutant R308A	Succinic semialdehyde	668	8916913	0.2
+AR I	propionaldehyde	668	3890957	0.21
+aldehyde reductase, mutant R308A	p-nitrobenzaldehyde	668	8916913	0.25
+aldehyde reductase II	3-Pyridinecarboxaldehyde	668	3922304	0.29
+aldehyde reductase, mutant I298A	p-Carboxybenzaldehyde	668	7669785	0.38
+aldehyde reductase, mutant V299C	p-nitrobenzaldehyde	668	7669785	0.38
+mutant R311A	p-nitrobenzaldehyde	668	8916913	0.38
+aldehyde reductase, mutant V299C	Succinic semialdehyde	668	7669785	0.41
+aldehyde reductase, mutant I298C	p-Carboxybenzaldehyde	668	7669785	0.43
+aldehyde reductase II	3-Pyridinecarboxaldehyde	668	6753936	0.606
+	p-chlorobenzaldehyde	668	16919	0.94
+aldehyde reductase I	3-Pyridinecarboxaldehyde	668	6753936	1.18
+aldehyde reductase, mutant I298C	p-nitrobenzaldehyde	668	7669785	1.2
+	Butyraldehyde	668	16919	1.3
+	methylglyoxal	668	16919	1.3
+	Camphorquinone	668	16919	1.4
+	DL-glyceraldehyde	668	16919	1.5
+aldehyde reductase, mutant I298C	Succinic semialdehyde	668	7669785	1.5
+wild-type aldehyde reductase	DL-glyceraldehyde	668	7669785	1.7
+wild-type aldehyde reductase	DL-glyceraldehyde	668	8916913	1.7
+aldehyde reductase, mutant V299C	DL-glyceraldehyde	668	7669785	1.8
+aldehyde reductase, mutant R311A	DL-glyceraldehyde	668	8916913	2.2
+aldehyde reductase, mutant R308A	DL-glyceraldehyde	668	8916913	2.3
+	m-nitrobenzaldehyde	668	16919	2.4
+aldehyde reductase II	glucuronate	668	3922304	2.5
+AR II	glucuronate	668	3890957	2.53
+AR II	propionaldehyde	668	3890957	2.63
+aldehyde reductase, mutant H112Q	p-Carboxybenzaldehyde	668	7669785	2.8
+aldehyde reductase, mutant I298A	p-nitrobenzaldehyde	668	7669785	2.8
+aldehyde reductase, mutant I298A	Succinic semialdehyde	668	7669785	2.8
+	propionaldehyde	668	16919	2.9
+aldehyde reductase II	DL-glyceraldehyde	668	6753936	2.94
+aldehyde reductase II	sodium D-glucuronate	668	6753936	2.95
+	benzaldehyde	668	16919	3.4
+aldehyde reductase, mutant R311A	p-Carboxybenzaldehyde	668	8916913	4.0
+aldehyde reductase, mutant V299C; wild-type aldehyde reductase	D-glucuronate	668	7669785	4.2
+wild-type aldehyde reductase	D-glucuronate	668	8916913	4.2
+aldehyde reductase, mutant H112Q	p-nitrobenzaldehyde	668	7669785	5.9
+AR II	glyceraldehyde	668	3890957	6.67
+aldehyde reductase, mutant R308A	D-glucuronate	668	8916913	7.5
+aldehyde reductase II	glyceraldehyde	668	3922304	7.59
+aldehyde reductase II	Butyraldehyde	668	6753936	7.69
+AR II	3-Pyridinecarboxaldehyde	668	3890957	8.61
+aldehyde reductase II	benzaldehyde	668	6753936	9.09
+aldehyde reductase, mutant I298C	DL-glyceraldehyde	668	7669785	11.5
+aldehyde reductase I	DL-glyceraldehyde	668	6753936	12.5
+aldehyde reductase, mutant R311A	Succinic semialdehyde	668	8916913	14.1
+aldehyde reductase II	propionaldehyde	668	6753936	14.28
+aldehyde reductase II	propionaldehyde	668	3922304	14.54
+aldehyde reductase, mutant H112Q	Succinic semialdehyde	668	7669785	18.0
+aldehyde reductase, mutant I298C	D-glucuronate	668	7669785	19.5
+aldehyde reductase, mutant I298A	D-glucuronate	668	7669785	26.3
+aldehyde reductase, mutant I298A	DL-glyceraldehyde	668	7669785	33.0
+aldehyde reductase, mutant H112Q	D-glucuronate	668	7669785	48.0
+aldehyde reductase, mutant H112Q	DL-glyceraldehyde	668	7669785	76.0
+AR I	D-glucose	668	3890957	215.0
+aldehyde reductase, mutant R311A	D-glucuronate	668	8916913	364.0
+aldehyde reductase II	D-xylose	668	6753936	500.0
+aldehyde reductase II	D-galactose	668	6753936	543.0
+aldehyde reductase I	propionaldehyde	669	6753936	0.008
+aldehyde reductase II	NADPH	669	6753936	0.013
+aldehyde reductase II	NADPH	669	3922304	0.019
+AR I	3-Pyridinecarboxaldehyde	669	3890957	0.02
+AR II	NADPH	669	3890957	0.02
+aldehyde reductase I	NADPH	669	6753936	0.022
+aldehyde reductase I	benzaldehyde	669	6753936	0.023
+	p-Carboxybenzaldehyde	669	16919	0.025
+aldehyde reductase I	p-nitrobenzaldehyde	669	6753936	0.029
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	669	7669785	0.038
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	669	8916913	0.038
+AR I	NADPH	669	3890957	0.05
+AR I	glyceraldehyde	669	3890957	0.07
+aldehyde reductase I	Butyraldehyde	669	6753936	0.083
+aldehyde reductase, mutant V299C	p-Carboxybenzaldehyde	669	7669785	0.1
+aldehyde reductase, mutant R308A	p-Carboxybenzaldehyde	669	8916913	0.11
+	p-nitrobenzaldehyde	669	16919	0.15
+wild-type aldehyde reductase	p-nitrobenzaldehyde	669	7669785	0.16
+wild-type aldehyde reductase	p-nitrobenzaldehyde	669	8916913	0.16
+aldehyde reductase II	p-nitrobenzaldehyde	669	6753936	0.169
+wild-type aldehyde reductase	Succinic semialdehyde	669	7669785	0.17
+wild-type aldehyde reductase	Succinic semialdehyde	669	8916913	0.17
+aldehyde reductase, mutant R308A	Succinic semialdehyde	669	8916913	0.2
+AR I	propionaldehyde	669	3890957	0.21
+aldehyde reductase, mutant R308A	p-nitrobenzaldehyde	669	8916913	0.25
+aldehyde reductase II	3-Pyridinecarboxaldehyde	669	3922304	0.29
+aldehyde reductase, mutant I298A	p-Carboxybenzaldehyde	669	7669785	0.38
+aldehyde reductase, mutant V299C	p-nitrobenzaldehyde	669	7669785	0.38
+mutant R311A	p-nitrobenzaldehyde	669	8916913	0.38
+aldehyde reductase, mutant V299C	Succinic semialdehyde	669	7669785	0.41
+aldehyde reductase, mutant I298C	p-Carboxybenzaldehyde	669	7669785	0.43
+aldehyde reductase II	3-Pyridinecarboxaldehyde	669	6753936	0.606
+	p-chlorobenzaldehyde	669	16919	0.94
+aldehyde reductase I	3-Pyridinecarboxaldehyde	669	6753936	1.18
+aldehyde reductase, mutant I298C	p-nitrobenzaldehyde	669	7669785	1.2
+	Butyraldehyde	669	16919	1.3
+	methylglyoxal	669	16919	1.3
+	Camphorquinone	669	16919	1.4
+	DL-glyceraldehyde	669	16919	1.5
+aldehyde reductase, mutant I298C	Succinic semialdehyde	669	7669785	1.5
+wild-type aldehyde reductase	DL-glyceraldehyde	669	7669785	1.7
+wild-type aldehyde reductase	DL-glyceraldehyde	669	8916913	1.7
+aldehyde reductase, mutant V299C	DL-glyceraldehyde	669	7669785	1.8
+aldehyde reductase, mutant R311A	DL-glyceraldehyde	669	8916913	2.2
+aldehyde reductase, mutant R308A	DL-glyceraldehyde	669	8916913	2.3
+	m-nitrobenzaldehyde	669	16919	2.4
+aldehyde reductase II	glucuronate	669	3922304	2.5
+AR II	glucuronate	669	3890957	2.53
+AR II	propionaldehyde	669	3890957	2.63
+aldehyde reductase, mutant H112Q	p-Carboxybenzaldehyde	669	7669785	2.8
+aldehyde reductase, mutant I298A	p-nitrobenzaldehyde	669	7669785	2.8
+aldehyde reductase, mutant I298A	Succinic semialdehyde	669	7669785	2.8
+	propionaldehyde	669	16919	2.9
+aldehyde reductase II	DL-glyceraldehyde	669	6753936	2.94
+aldehyde reductase II	sodium D-glucuronate	669	6753936	2.95
+	benzaldehyde	669	16919	3.4
+aldehyde reductase, mutant R311A	p-Carboxybenzaldehyde	669	8916913	4.0
+aldehyde reductase, mutant V299C; wild-type aldehyde reductase	D-glucuronate	669	7669785	4.2
+wild-type aldehyde reductase	D-glucuronate	669	8916913	4.2
+aldehyde reductase, mutant H112Q	p-nitrobenzaldehyde	669	7669785	5.9
+AR II	glyceraldehyde	669	3890957	6.67
+aldehyde reductase, mutant R308A	D-glucuronate	669	8916913	7.5
+aldehyde reductase II	glyceraldehyde	669	3922304	7.59
+aldehyde reductase II	Butyraldehyde	669	6753936	7.69
+AR II	3-Pyridinecarboxaldehyde	669	3890957	8.61
+aldehyde reductase II	benzaldehyde	669	6753936	9.09
+aldehyde reductase, mutant I298C	DL-glyceraldehyde	669	7669785	11.5
+aldehyde reductase I	DL-glyceraldehyde	669	6753936	12.5
+aldehyde reductase, mutant R311A	Succinic semialdehyde	669	8916913	14.1
+aldehyde reductase II	propionaldehyde	669	6753936	14.28
+aldehyde reductase II	propionaldehyde	669	3922304	14.54
+aldehyde reductase, mutant H112Q	Succinic semialdehyde	669	7669785	18.0
+aldehyde reductase, mutant I298C	D-glucuronate	669	7669785	19.5
+aldehyde reductase, mutant I298A	D-glucuronate	669	7669785	26.3
+aldehyde reductase, mutant I298A	DL-glyceraldehyde	669	7669785	33.0
+aldehyde reductase, mutant H112Q	D-glucuronate	669	7669785	48.0
+aldehyde reductase, mutant H112Q	DL-glyceraldehyde	669	7669785	76.0
+AR I	D-glucose	669	3890957	215.0
+aldehyde reductase, mutant R311A	D-glucuronate	669	8916913	364.0
+aldehyde reductase II	D-xylose	669	6753936	500.0
+aldehyde reductase II	D-galactose	669	6753936	543.0
+aldehyde reductase I	propionaldehyde	670	6753936	0.008
+aldehyde reductase II	NADPH	670	6753936	0.013
+aldehyde reductase II	NADPH	670	3922304	0.019
+AR I	3-Pyridinecarboxaldehyde	670	3890957	0.02
+AR II	NADPH	670	3890957	0.02
+aldehyde reductase I	NADPH	670	6753936	0.022
+aldehyde reductase I	benzaldehyde	670	6753936	0.023
+	p-Carboxybenzaldehyde	670	16919	0.025
+aldehyde reductase I	p-nitrobenzaldehyde	670	6753936	0.029
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	670	7669785	0.038
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	670	8916913	0.038
+AR I	NADPH	670	3890957	0.05
+AR I	glyceraldehyde	670	3890957	0.07
+aldehyde reductase I	Butyraldehyde	670	6753936	0.083
+aldehyde reductase, mutant V299C	p-Carboxybenzaldehyde	670	7669785	0.1
+aldehyde reductase, mutant R308A	p-Carboxybenzaldehyde	670	8916913	0.11
+	p-nitrobenzaldehyde	670	16919	0.15
+wild-type aldehyde reductase	p-nitrobenzaldehyde	670	7669785	0.16
+wild-type aldehyde reductase	p-nitrobenzaldehyde	670	8916913	0.16
+aldehyde reductase II	p-nitrobenzaldehyde	670	6753936	0.169
+wild-type aldehyde reductase	Succinic semialdehyde	670	7669785	0.17
+wild-type aldehyde reductase	Succinic semialdehyde	670	8916913	0.17
+aldehyde reductase, mutant R308A	Succinic semialdehyde	670	8916913	0.2
+AR I	propionaldehyde	670	3890957	0.21
+aldehyde reductase, mutant R308A	p-nitrobenzaldehyde	670	8916913	0.25
+aldehyde reductase II	3-Pyridinecarboxaldehyde	670	3922304	0.29
+aldehyde reductase, mutant I298A	p-Carboxybenzaldehyde	670	7669785	0.38
+aldehyde reductase, mutant V299C	p-nitrobenzaldehyde	670	7669785	0.38
+mutant R311A	p-nitrobenzaldehyde	670	8916913	0.38
+aldehyde reductase, mutant V299C	Succinic semialdehyde	670	7669785	0.41
+aldehyde reductase, mutant I298C	p-Carboxybenzaldehyde	670	7669785	0.43
+aldehyde reductase II	3-Pyridinecarboxaldehyde	670	6753936	0.606
+	p-chlorobenzaldehyde	670	16919	0.94
+aldehyde reductase I	3-Pyridinecarboxaldehyde	670	6753936	1.18
+aldehyde reductase, mutant I298C	p-nitrobenzaldehyde	670	7669785	1.2
+	Butyraldehyde	670	16919	1.3
+	methylglyoxal	670	16919	1.3
+	Camphorquinone	670	16919	1.4
+	DL-glyceraldehyde	670	16919	1.5
+aldehyde reductase, mutant I298C	Succinic semialdehyde	670	7669785	1.5
+wild-type aldehyde reductase	DL-glyceraldehyde	670	7669785	1.7
+wild-type aldehyde reductase	DL-glyceraldehyde	670	8916913	1.7
+aldehyde reductase, mutant V299C	DL-glyceraldehyde	670	7669785	1.8
+aldehyde reductase, mutant R311A	DL-glyceraldehyde	670	8916913	2.2
+aldehyde reductase, mutant R308A	DL-glyceraldehyde	670	8916913	2.3
+	m-nitrobenzaldehyde	670	16919	2.4
+aldehyde reductase II	glucuronate	670	3922304	2.5
+AR II	glucuronate	670	3890957	2.53
+AR II	propionaldehyde	670	3890957	2.63
+aldehyde reductase, mutant H112Q	p-Carboxybenzaldehyde	670	7669785	2.8
+aldehyde reductase, mutant I298A	p-nitrobenzaldehyde	670	7669785	2.8
+aldehyde reductase, mutant I298A	Succinic semialdehyde	670	7669785	2.8
+	propionaldehyde	670	16919	2.9
+aldehyde reductase II	DL-glyceraldehyde	670	6753936	2.94
+aldehyde reductase II	sodium D-glucuronate	670	6753936	2.95
+	benzaldehyde	670	16919	3.4
+aldehyde reductase, mutant R311A	p-Carboxybenzaldehyde	670	8916913	4.0
+aldehyde reductase, mutant V299C; wild-type aldehyde reductase	D-glucuronate	670	7669785	4.2
+wild-type aldehyde reductase	D-glucuronate	670	8916913	4.2
+aldehyde reductase, mutant H112Q	p-nitrobenzaldehyde	670	7669785	5.9
+AR II	glyceraldehyde	670	3890957	6.67
+aldehyde reductase, mutant R308A	D-glucuronate	670	8916913	7.5
+aldehyde reductase II	glyceraldehyde	670	3922304	7.59
+aldehyde reductase II	Butyraldehyde	670	6753936	7.69
+AR II	3-Pyridinecarboxaldehyde	670	3890957	8.61
+aldehyde reductase II	benzaldehyde	670	6753936	9.09
+aldehyde reductase, mutant I298C	DL-glyceraldehyde	670	7669785	11.5
+aldehyde reductase I	DL-glyceraldehyde	670	6753936	12.5
+aldehyde reductase, mutant R311A	Succinic semialdehyde	670	8916913	14.1
+aldehyde reductase II	propionaldehyde	670	6753936	14.28
+aldehyde reductase II	propionaldehyde	670	3922304	14.54
+aldehyde reductase, mutant H112Q	Succinic semialdehyde	670	7669785	18.0
+aldehyde reductase, mutant I298C	D-glucuronate	670	7669785	19.5
+aldehyde reductase, mutant I298A	D-glucuronate	670	7669785	26.3
+aldehyde reductase, mutant I298A	DL-glyceraldehyde	670	7669785	33.0
+aldehyde reductase, mutant H112Q	D-glucuronate	670	7669785	48.0
+aldehyde reductase, mutant H112Q	DL-glyceraldehyde	670	7669785	76.0
+AR I	D-glucose	670	3890957	215.0
+aldehyde reductase, mutant R311A	D-glucuronate	670	8916913	364.0
+aldehyde reductase II	D-xylose	670	6753936	500.0
+aldehyde reductase II	D-galactose	670	6753936	543.0
+aldehyde reductase I	propionaldehyde	671	6753936	0.008
+aldehyde reductase II	NADPH	671	6753936	0.013
+aldehyde reductase II	NADPH	671	3922304	0.019
+AR I	3-Pyridinecarboxaldehyde	671	3890957	0.02
+AR II	NADPH	671	3890957	0.02
+aldehyde reductase I	NADPH	671	6753936	0.022
+aldehyde reductase I	benzaldehyde	671	6753936	0.023
+	p-Carboxybenzaldehyde	671	16919	0.025
+aldehyde reductase I	p-nitrobenzaldehyde	671	6753936	0.029
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	671	7669785	0.038
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	671	8916913	0.038
+AR I	NADPH	671	3890957	0.05
+AR I	glyceraldehyde	671	3890957	0.07
+aldehyde reductase I	Butyraldehyde	671	6753936	0.083
+aldehyde reductase, mutant V299C	p-Carboxybenzaldehyde	671	7669785	0.1
+aldehyde reductase, mutant R308A	p-Carboxybenzaldehyde	671	8916913	0.11
+	p-nitrobenzaldehyde	671	16919	0.15
+wild-type aldehyde reductase	p-nitrobenzaldehyde	671	7669785	0.16
+wild-type aldehyde reductase	p-nitrobenzaldehyde	671	8916913	0.16
+aldehyde reductase II	p-nitrobenzaldehyde	671	6753936	0.169
+wild-type aldehyde reductase	Succinic semialdehyde	671	7669785	0.17
+wild-type aldehyde reductase	Succinic semialdehyde	671	8916913	0.17
+aldehyde reductase, mutant R308A	Succinic semialdehyde	671	8916913	0.2
+AR I	propionaldehyde	671	3890957	0.21
+aldehyde reductase, mutant R308A	p-nitrobenzaldehyde	671	8916913	0.25
+aldehyde reductase II	3-Pyridinecarboxaldehyde	671	3922304	0.29
+aldehyde reductase, mutant I298A	p-Carboxybenzaldehyde	671	7669785	0.38
+aldehyde reductase, mutant V299C	p-nitrobenzaldehyde	671	7669785	0.38
+mutant R311A	p-nitrobenzaldehyde	671	8916913	0.38
+aldehyde reductase, mutant V299C	Succinic semialdehyde	671	7669785	0.41
+aldehyde reductase, mutant I298C	p-Carboxybenzaldehyde	671	7669785	0.43
+aldehyde reductase II	3-Pyridinecarboxaldehyde	671	6753936	0.606
+	p-chlorobenzaldehyde	671	16919	0.94
+aldehyde reductase I	3-Pyridinecarboxaldehyde	671	6753936	1.18
+aldehyde reductase, mutant I298C	p-nitrobenzaldehyde	671	7669785	1.2
+	Butyraldehyde	671	16919	1.3
+	methylglyoxal	671	16919	1.3
+	Camphorquinone	671	16919	1.4
+	DL-glyceraldehyde	671	16919	1.5
+aldehyde reductase, mutant I298C	Succinic semialdehyde	671	7669785	1.5
+wild-type aldehyde reductase	DL-glyceraldehyde	671	7669785	1.7
+wild-type aldehyde reductase	DL-glyceraldehyde	671	8916913	1.7
+aldehyde reductase, mutant V299C	DL-glyceraldehyde	671	7669785	1.8
+aldehyde reductase, mutant R311A	DL-glyceraldehyde	671	8916913	2.2
+aldehyde reductase, mutant R308A	DL-glyceraldehyde	671	8916913	2.3
+	m-nitrobenzaldehyde	671	16919	2.4
+aldehyde reductase II	glucuronate	671	3922304	2.5
+AR II	glucuronate	671	3890957	2.53
+AR II	propionaldehyde	671	3890957	2.63
+aldehyde reductase, mutant H112Q	p-Carboxybenzaldehyde	671	7669785	2.8
+aldehyde reductase, mutant I298A	p-nitrobenzaldehyde	671	7669785	2.8
+aldehyde reductase, mutant I298A	Succinic semialdehyde	671	7669785	2.8
+	propionaldehyde	671	16919	2.9
+aldehyde reductase II	DL-glyceraldehyde	671	6753936	2.94
+aldehyde reductase II	sodium D-glucuronate	671	6753936	2.95
+	benzaldehyde	671	16919	3.4
+aldehyde reductase, mutant R311A	p-Carboxybenzaldehyde	671	8916913	4.0
+aldehyde reductase, mutant V299C; wild-type aldehyde reductase	D-glucuronate	671	7669785	4.2
+wild-type aldehyde reductase	D-glucuronate	671	8916913	4.2
+aldehyde reductase, mutant H112Q	p-nitrobenzaldehyde	671	7669785	5.9
+AR II	glyceraldehyde	671	3890957	6.67
+aldehyde reductase, mutant R308A	D-glucuronate	671	8916913	7.5
+aldehyde reductase II	glyceraldehyde	671	3922304	7.59
+aldehyde reductase II	Butyraldehyde	671	6753936	7.69
+AR II	3-Pyridinecarboxaldehyde	671	3890957	8.61
+aldehyde reductase II	benzaldehyde	671	6753936	9.09
+aldehyde reductase, mutant I298C	DL-glyceraldehyde	671	7669785	11.5
+aldehyde reductase I	DL-glyceraldehyde	671	6753936	12.5
+aldehyde reductase, mutant R311A	Succinic semialdehyde	671	8916913	14.1
+aldehyde reductase II	propionaldehyde	671	6753936	14.28
+aldehyde reductase II	propionaldehyde	671	3922304	14.54
+aldehyde reductase, mutant H112Q	Succinic semialdehyde	671	7669785	18.0
+aldehyde reductase, mutant I298C	D-glucuronate	671	7669785	19.5
+aldehyde reductase, mutant I298A	D-glucuronate	671	7669785	26.3
+aldehyde reductase, mutant I298A	DL-glyceraldehyde	671	7669785	33.0
+aldehyde reductase, mutant H112Q	D-glucuronate	671	7669785	48.0
+aldehyde reductase, mutant H112Q	DL-glyceraldehyde	671	7669785	76.0
+AR I	D-glucose	671	3890957	215.0
+aldehyde reductase, mutant R311A	D-glucuronate	671	8916913	364.0
+aldehyde reductase II	D-xylose	671	6753936	500.0
+aldehyde reductase II	D-galactose	671	6753936	543.0
+pH 8.0, 25°C, wild-type	NADH	706	15556281	0.025
+pH 8.0, 25°C, mutant G225A	NADH	706	15556281	0.045
+pH 8.0, 25°C, mutant G225A/A274F	NADPH	706	15556281	0.05
+pH 8.0, 25°C, mutant G225A/A274F	NADH	706	15556281	0.06
+pH 8.0, 25°C, mutant A274F	NADH	706	15556281	0.07
+pH 8.0, 25°C, wild-type	NADPH	706	15556281	0.21
+pH 8.0, 25°C, mutant G225A/A274F	acetaldehyde	706	15556281	0.22
+pH 8.0, 25°C, mutant A274F; pH 8.0, 25°C, mutant G225A	NADPH	706	15556281	0.37
+pH 8.0, 25°C, wild-type	NAD+	706	15556281	0.39
+pH 8.0, 25°C, wild-type	ethanol	706	15556281	0.5
+pH 8.0, 25°C, mutant G225A/A274F	NAD+	706	15556281	0.57
+pH 8.0, 25°C, mutant G225A	ethanol	706	15556281	0.74
+pH 8.0, 25°C, mutant G225A/A274F	ethanol	706	15556281	0.85
+pH 8.0, 25°C, mutant A274F	NAD+	706	15556281	0.98
+pH 8.0, 25°C, mutant G225A	NAD+	706	15556281	1.0
+pH 8.0, 25°C, mutant A274F	ethanol	706	15556281	1.02
+pH 8.0, 25°C, mutant A274F	acetaldehyde	706	15556281	1.58
+pH 8.0, 25°C, mutant G225A	acetaldehyde	706	15556281	2.1
+pH 8.0, 25°C, wild-type	acetaldehyde	706	15556281	2.33
+pH 8.0, 25°C, wild-type	NADP+	706	15556281	2.64
+pH 8.0, 25°C, mutant G225A	NADP+	706	15556281	2.77
+pH 8.0, 25°C, mutant G225A/A274F	NADP+	706	15556281	5.5
+pH 8.0, 25°C, mutant A274F	NADP+	706	15556281	6.21
+pH 8.0, 25°C, wild-type	NADH	707	15556281	0.025
+pH 8.0, 25°C, mutant G225A	NADH	707	15556281	0.045
+pH 8.0, 25°C, mutant G225A/A274F	NADPH	707	15556281	0.05
+pH 8.0, 25°C, mutant G225A/A274F	NADH	707	15556281	0.06
+pH 8.0, 25°C, mutant A274F	NADH	707	15556281	0.07
+pH 8.0, 25°C, wild-type	NADPH	707	15556281	0.21
+pH 8.0, 25°C, mutant G225A/A274F	acetaldehyde	707	15556281	0.22
+pH 8.0, 25°C, mutant A274F; pH 8.0, 25°C, mutant G225A	NADPH	707	15556281	0.37
+pH 8.0, 25°C, wild-type	NAD+	707	15556281	0.39
+pH 8.0, 25°C, wild-type	ethanol	707	15556281	0.5
+pH 8.0, 25°C, mutant G225A/A274F	NAD+	707	15556281	0.57
+pH 8.0, 25°C, mutant G225A	ethanol	707	15556281	0.74
+pH 8.0, 25°C, mutant G225A/A274F	ethanol	707	15556281	0.85
+pH 8.0, 25°C, mutant A274F	NAD+	707	15556281	0.98
+pH 8.0, 25°C, mutant G225A	NAD+	707	15556281	1.0
+pH 8.0, 25°C, mutant A274F	ethanol	707	15556281	1.02
+pH 8.0, 25°C, mutant A274F	acetaldehyde	707	15556281	1.58
+pH 8.0, 25°C, mutant G225A	acetaldehyde	707	15556281	2.1
+pH 8.0, 25°C, wild-type	acetaldehyde	707	15556281	2.33
+pH 8.0, 25°C, wild-type	NADP+	707	15556281	2.64
+pH 8.0, 25°C, mutant G225A	NADP+	707	15556281	2.77
+pH 8.0, 25°C, mutant G225A/A274F	NADP+	707	15556281	5.5
+pH 8.0, 25°C, mutant A274F	NADP+	707	15556281	6.21
+pH 8.0, 25°C, wild-type	NADH	708	15556281	0.025
+pH 8.0, 25°C, mutant G225A	NADH	708	15556281	0.045
+pH 8.0, 25°C, mutant G225A/A274F	NADPH	708	15556281	0.05
+pH 8.0, 25°C, mutant G225A/A274F	NADH	708	15556281	0.06
+pH 8.0, 25°C, mutant A274F	NADH	708	15556281	0.07
+pH 8.0, 25°C, wild-type	NADPH	708	15556281	0.21
+pH 8.0, 25°C, mutant G225A/A274F	acetaldehyde	708	15556281	0.22
+pH 8.0, 25°C, mutant A274F; pH 8.0, 25°C, mutant G225A	NADPH	708	15556281	0.37
+pH 8.0, 25°C, wild-type	NAD+	708	15556281	0.39
+pH 8.0, 25°C, wild-type	ethanol	708	15556281	0.5
+pH 8.0, 25°C, mutant G225A/A274F	NAD+	708	15556281	0.57
+pH 8.0, 25°C, mutant G225A	ethanol	708	15556281	0.74
+pH 8.0, 25°C, mutant G225A/A274F	ethanol	708	15556281	0.85
+pH 8.0, 25°C, mutant A274F	NAD+	708	15556281	0.98
+pH 8.0, 25°C, mutant G225A	NAD+	708	15556281	1.0
+pH 8.0, 25°C, mutant A274F	ethanol	708	15556281	1.02
+pH 8.0, 25°C, mutant A274F	acetaldehyde	708	15556281	1.58
+pH 8.0, 25°C, mutant G225A	acetaldehyde	708	15556281	2.1
+pH 8.0, 25°C, wild-type	acetaldehyde	708	15556281	2.33
+pH 8.0, 25°C, wild-type	NADP+	708	15556281	2.64
+pH 8.0, 25°C, mutant G225A	NADP+	708	15556281	2.77
+pH 8.0, 25°C, mutant G225A/A274F	NADP+	708	15556281	5.5
+pH 8.0, 25°C, mutant A274F	NADP+	708	15556281	6.21
+reduction, recombinant wild-type, 30°C, pH 7.0	NADP+	713	15896805	0.015
+oxidation, recombinante wild-typ, 30°C, pH 7.0	NADPH	713	15896805	0.04
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NAD+	713	15896805	0.75
+oxidation, recombinante mutant G37D, 30°C, pH 7.0	NADH	713	15896805	1.6
+cofactor NADPH, reduction, recombinante wild-type, 30°C, pH 7.0	acetophenone	713	15896805	2.8
+cofactor NADP+, oxidation, recombinate wild-type, 30°C, pH 7.0	1-phenylethanol	713	15896805	2.9
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NADP+	713	15896805	9.1
+NAD+, oxidation, recombinante mutant G37D, 30°C, pH 7.0	1-phenylethanol	713	15896805	10.8
+cofactor NADH, reduction, recombinante mutant G37D, 30°C, pH 7.0	acetophenone	713	15896805	10.9
+cofactor NADP+, oxidation, recombinate mutant G37D, 30°C, pH 7.0	1-phenylethanol	713	15896805	55.5
+reduction, recombinant wild-type, 30°C, pH 7.0	NADP+	714	15896805	0.015
+oxidation, recombinante wild-typ, 30°C, pH 7.0	NADPH	714	15896805	0.04
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NAD+	714	15896805	0.75
+oxidation, recombinante mutant G37D, 30°C, pH 7.0	NADH	714	15896805	1.6
+cofactor NADPH, reduction, recombinante wild-type, 30°C, pH 7.0	acetophenone	714	15896805	2.8
+cofactor NADP+, oxidation, recombinate wild-type, 30°C, pH 7.0	1-phenylethanol	714	15896805	2.9
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NADP+	714	15896805	9.1
+NAD+, oxidation, recombinante mutant G37D, 30°C, pH 7.0	1-phenylethanol	714	15896805	10.8
+cofactor NADH, reduction, recombinante mutant G37D, 30°C, pH 7.0	acetophenone	714	15896805	10.9
+cofactor NADP+, oxidation, recombinate mutant G37D, 30°C, pH 7.0	1-phenylethanol	714	15896805	55.5
+reduction, recombinant wild-type, 30°C, pH 7.0	NADP+	715	15896805	0.015
+oxidation, recombinante wild-typ, 30°C, pH 7.0	NADPH	715	15896805	0.04
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NAD+	715	15896805	0.75
+oxidation, recombinante mutant G37D, 30°C, pH 7.0	NADH	715	15896805	1.6
+cofactor NADPH, reduction, recombinante wild-type, 30°C, pH 7.0	acetophenone	715	15896805	2.8
+cofactor NADP+, oxidation, recombinate wild-type, 30°C, pH 7.0	1-phenylethanol	715	15896805	2.9
+reduction, recombinant mutant G37D, 30°C, pH 7.0	NADP+	715	15896805	9.1
+NAD+, oxidation, recombinante mutant G37D, 30°C, pH 7.0	1-phenylethanol	715	15896805	10.8
+cofactor NADH, reduction, recombinante mutant G37D, 30°C, pH 7.0	acetophenone	715	15896805	10.9
+cofactor NADP+, oxidation, recombinate mutant G37D, 30°C, pH 7.0	1-phenylethanol	715	15896805	55.5
+	cis-11-hexadecenal	791	19270127	0.177
+	cis-11-hexadecenal	792	19270127	0.177
+isoform AdhA, pH 8.0, 60°C	acetaldehyde	836	17318639	10.0
+isoform AdhA, pH 8.0, 60°C	ethanol	836	17318639	40.0
+isoform AdhB, pH 8.0, 60°C	acetaldehyde	836	17318639	55.8
+pH 7.4, 25°C, with NAD(P)H	(2E,4E)-hexa-2,4-dienal	848	16289176	15.0
+pH 7.4, 25°C, with NAD(P)H	(2E,4E)-hexa-2,4-dienal	849	16289176	15.0
+pH 7.4, 25°C, with NAD(P)H	(2E,4E)-hexa-2,4-dienal	850	16289176	15.0
+pH 7.4, 25°C, with NAD(P)H	(2E,4E)-hexa-2,4-dienal	851	16289176	15.0
+pH 7.4, 25°C, with NAD(P)H	(2E,4E)-hexa-2,4-dienal	852	16289176	15.0
+pH 7.4, 25°C, with NAD(P)H	(2E,4E)-hexa-2,4-dienal	853	16289176	15.0
+pH 7.4, 25°C, with NAD(P)H	(2E,4E)-hexa-2,4-dienal	854	16289176	15.0
+pH 7.4, 25°C, with NAD(P)H	(2E,4E)-hexa-2,4-dienal	855	16289176	15.0
+	octanal	873	11257547	0.03
+	cinnamaldehyde	873	11257547	0.04
+	benzaldehyde	873	11257547	0.053
+	Butyraldehyde	873	11257547	0.215
+	cinnamyl alcohol	873	11257547	0.5
+pH 7.0. 30°C	3-methyl-1,5-pentanediol	874	26923741	10.27
+pH 7.0. 30°C	1,5-pentanediol	874	26923741	23.38
+pH 7.0. 30°C	NADP+	874	26923741	26.88
+pH 7.0. 30°C	butan-1-ol	874	26923741	43.75
+p-nitrobenzaldehyde as substrate	NADPH	945	3593233	0.001
+pyridine 3-aldehyde as substrate	NADPH	945	3593233	0.0016
+D-glucuronate as substrate	NADPH	945	3593233	0.0019
+	p-nitrobenzaldehyde	945	3593233	0.044
+	p-nitrobenzaldehyde	945	3593233	1.2
+	D-glucuronate	945	3593233	1.5
+p-nitrobenzaldehyde as substrate	NADPH	946	3593233	0.001
+pyridine 3-aldehyde as substrate	NADPH	946	3593233	0.0016
+D-glucuronate as substrate	NADPH	946	3593233	0.0019
+	p-nitrobenzaldehyde	946	3593233	0.044
+	p-nitrobenzaldehyde	946	3593233	1.2
+	D-glucuronate	946	3593233	1.5
+p-nitrobenzaldehyde as substrate	NADPH	947	3593233	0.001
+pyridine 3-aldehyde as substrate	NADPH	947	3593233	0.0016
+D-glucuronate as substrate	NADPH	947	3593233	0.0019
+	p-nitrobenzaldehyde	947	3593233	0.044
+	p-nitrobenzaldehyde	947	3593233	1.2
+	D-glucuronate	947	3593233	1.5
+p-nitrobenzaldehyde as substrate	NADPH	948	3593233	0.001
+pyridine 3-aldehyde as substrate	NADPH	948	3593233	0.0016
+D-glucuronate as substrate	NADPH	948	3593233	0.0019
+	p-nitrobenzaldehyde	948	3593233	0.044
+	p-nitrobenzaldehyde	948	3593233	1.2
+	D-glucuronate	948	3593233	1.5
+p-nitrobenzaldehyde as substrate	NADPH	949	3593233	0.001
+pyridine 3-aldehyde as substrate	NADPH	949	3593233	0.0016
+D-glucuronate as substrate	NADPH	949	3593233	0.0019
+	p-nitrobenzaldehyde	949	3593233	0.044
+	p-nitrobenzaldehyde	949	3593233	1.2
+	D-glucuronate	949	3593233	1.5
+	m-nitrobenzaldehyde	971	10473548	0.002
+	all-trans-retinal	971	10473548	0.008
+	9-cis-retinal	971	10473548	0.009
+	octanal	971	10473548	0.01
+m-nitrobenzaldehyde as substrate	NADPH	971	10473548	0.012
+	13-cis-retinal	971	10473548	0.015
+	9-cis-retinol	971	10473548	0.019
+	all-trans-retinol	971	10473548	0.02
+	NADP+	971	10473548	0.03
+	Hexanal	971	10473548	0.04
+ethanol as substrate	NAD+	971	10473548	0.06
+	trans-2-hexenal	971	10473548	0.06
+	pentanal	971	10473548	0.07
+	Octanol	971	10473548	0.09
+	Butanal	971	10473548	0.11
+	Octanol	971	10473548	0.15
+ethanol as substrate	NAD+	971	10473548	0.2
+at pH 10	Pentanol	971	10473548	0.22
+	trans-2-hexenol	971	10473548	0.22
+	Hexanol	971	10473548	0.35
+m-nitrobenzaldehyde as substrate	NADH	971	10473548	0.52
+octanol as substrate	NAD+	971	10473548	0.8
+	Pentanol	971	10473548	1.1
+at pH 10	butanol	971	10473548	1.7
+	acetaldehyde	971	10473548	7.0
+	butanol	971	10473548	8.2
+	ethanol	971	10473548	70.0
+	2-butanol	971	10473548	170.0
+	ethanol	971	10473548	600.0
+	m-nitrobenzaldehyde	972	10473548	0.002
+	all-trans-retinal	972	10473548	0.008
+	9-cis-retinal	972	10473548	0.009
+	octanal	972	10473548	0.01
+m-nitrobenzaldehyde as substrate	NADPH	972	10473548	0.012
+	13-cis-retinal	972	10473548	0.015
+	9-cis-retinol	972	10473548	0.019
+	all-trans-retinol	972	10473548	0.02
+	NADP+	972	10473548	0.03
+	Hexanal	972	10473548	0.04
+ethanol as substrate	NAD+	972	10473548	0.06
+	trans-2-hexenal	972	10473548	0.06
+	pentanal	972	10473548	0.07
+	Octanol	972	10473548	0.09
+	Butanal	972	10473548	0.11
+	Octanol	972	10473548	0.15
+ethanol as substrate	NAD+	972	10473548	0.2
+at pH 10	Pentanol	972	10473548	0.22
+	trans-2-hexenol	972	10473548	0.22
+	Hexanol	972	10473548	0.35
+m-nitrobenzaldehyde as substrate	NADH	972	10473548	0.52
+octanol as substrate	NAD+	972	10473548	0.8
+	Pentanol	972	10473548	1.1
+at pH 10	butanol	972	10473548	1.7
+	acetaldehyde	972	10473548	7.0
+	butanol	972	10473548	8.2
+	ethanol	972	10473548	70.0
+	2-butanol	972	10473548	170.0
+	ethanol	972	10473548	600.0
+	m-nitrobenzaldehyde	973	10473548	0.002
+	all-trans-retinal	973	10473548	0.008
+	9-cis-retinal	973	10473548	0.009
+	octanal	973	10473548	0.01
+m-nitrobenzaldehyde as substrate	NADPH	973	10473548	0.012
+	13-cis-retinal	973	10473548	0.015
+	9-cis-retinol	973	10473548	0.019
+	all-trans-retinol	973	10473548	0.02
+	NADP+	973	10473548	0.03
+	Hexanal	973	10473548	0.04
+ethanol as substrate	NAD+	973	10473548	0.06
+	trans-2-hexenal	973	10473548	0.06
+	pentanal	973	10473548	0.07
+	Octanol	973	10473548	0.09
+	Butanal	973	10473548	0.11
+	Octanol	973	10473548	0.15
+ethanol as substrate	NAD+	973	10473548	0.2
+at pH 10	Pentanol	973	10473548	0.22
+	trans-2-hexenol	973	10473548	0.22
+	Hexanol	973	10473548	0.35
+m-nitrobenzaldehyde as substrate	NADH	973	10473548	0.52
+octanol as substrate	NAD+	973	10473548	0.8
+	Pentanol	973	10473548	1.1
+at pH 10	butanol	973	10473548	1.7
+	acetaldehyde	973	10473548	7.0
+	butanol	973	10473548	8.2
+	ethanol	973	10473548	70.0
+	2-butanol	973	10473548	170.0
+	ethanol	973	10473548	600.0
+mutant L54Q, pH 6.5, 30°C; wild-type, pH 6.5, 30°C	methyl 4-bromo-3-oxobutanoate	977	18626639	1.2
+mutant L54Q, pH 6.5, 30°C; wild-type, pH 6.5, 30°C	methyl 4-bromo-3-oxobutanoate	978	18626639	1.2
+	1-Heptanol	1009	0	0.00246
+	1-Hexanol	1009	0	0.00251
+	1-Pentanol	1009	0	0.00273
+	n-butanol	1009	0	0.0033
+	1-propanol	1009	0	0.00522
+NADP+	ethanol	1009	0	0.013
+	ethanol	1009	0	0.0198
+	3,4-dihydroxyphenylacetaldehyde	1038	4148240	6.1
+	3,4-dihydroxyphenylglycolaldehyde	1038	4148240	12.0
+	5-Hydroxyindoleacetaldehyde	1038	4148240	27.0
+	3,4-dihydroxyphenylacetaldehyde	1039	4148240	6.1
+	3,4-dihydroxyphenylglycolaldehyde	1039	4148240	12.0
+	5-Hydroxyindoleacetaldehyde	1039	4148240	27.0
+	3,4-dihydroxyphenylacetaldehyde	1040	4148240	6.1
+	3,4-dihydroxyphenylglycolaldehyde	1040	4148240	12.0
+	5-Hydroxyindoleacetaldehyde	1040	4148240	27.0
+	3,4-dihydroxyphenylacetaldehyde	1041	4148240	6.1
+	3,4-dihydroxyphenylglycolaldehyde	1041	4148240	12.0
+	5-Hydroxyindoleacetaldehyde	1041	4148240	27.0
+	3,4-dihydroxyphenylacetaldehyde	1042	4148240	6.1
+	3,4-dihydroxyphenylglycolaldehyde	1042	4148240	12.0
+	5-Hydroxyindoleacetaldehyde	1042	4148240	27.0
+	3,4-dihydroxyphenylacetaldehyde	1043	4148240	6.1
+	3,4-dihydroxyphenylglycolaldehyde	1043	4148240	12.0
+	5-Hydroxyindoleacetaldehyde	1043	4148240	27.0
+pH 8.0, 80°C	NADPH	1088	17294170	0.006
+pH 11.0, 80°C	NADP+	1088	17294170	0.02
+pH 8.0, 80°C	Butyraldehyde	1088	17294170	0.45
+pH 11.0, 80°C	butanol	1088	17294170	1.9
+pH 8.0, 80°C	acetaldehyde	1088	17294170	3.1
+pH 11.0, 80°C	ethanol	1088	17294170	9.7
+80°C, pH not specified in the publication	NADP+	1099	9973342	0.071
+80°C, pH not specified in the publication	NADPH	1099	9973342	0.071
+pH 10.0, 70°C	NADP+	1099	11358525	0.08
+pH 7.0, 70°C	NADPH	1099	11358525	0.08
+80°C, pH not specified in the publication	phenylacetaldehyde	1099	9973342	0.091
+mutant enzyme R11L/A180V, at 70°C	NADPH	1099	18452026	0.1
+80°C, pH not specified in the publication	acetaldehyde	1099	9973342	0.17
+80°C, pH not specified in the publication	methylglyoxal	1099	9973342	0.2
+wild type enzyme, at 70°C	NADP+	1099	18452026	0.2
+wild type enzyme, at 70°C	NADPH	1099	18452026	0.4
+mutant enzyme R11L/A180V, at 70°C	NADP+	1099	18452026	0.7
+wild type enzyme, at 70°C	Pyruvaldehyde	1099	18452026	1.2
+pH 7.0, 70°C	Pyruvaldehyde	1099	11358525	3.3
+mutant enzyme R11L/A180V, at 70°C	Pyruvaldehyde	1099	18452026	4.2
+wild type enzyme, at 70°C	(2S,5S)-hexanediol	1099	18452026	5.4
+80°C, pH not specified in the publication	NAD+	1099	9973342	20.0
+80°C, pH not specified in the publication	ethanol	1099	9973342	29.4
+wild type enzyme, at 70°C	2-Pentanol	1099	18452026	30.3
+mutant enzyme R11L/A180V, at 70°C	2-Pentanol	1099	18452026	51.1
+wild type enzyme, at 70°C	2,5-hexanedione	1099	18452026	56.4
+pH 10.0, 70°C	2-Pentanol	1099	11358525	60.8
+mutant enzyme R11L/A180V, at 70°C	2,5-hexanedione	1099	18452026	79.0
+mutant enzyme R11L/A180V, at 70°C	(2S,5S)-hexanediol	1099	18452026	327.6
+80°C, pH not specified in the publication	NADP+	1100	9973342	0.071
+80°C, pH not specified in the publication	NADPH	1100	9973342	0.071
+pH 10.0, 70°C	NADP+	1100	11358525	0.08
+pH 7.0, 70°C	NADPH	1100	11358525	0.08
+80°C, pH not specified in the publication	phenylacetaldehyde	1100	9973342	0.091
+mutant enzyme R11L/A180V, at 70°C	NADPH	1100	18452026	0.1
+80°C, pH not specified in the publication	acetaldehyde	1100	9973342	0.17
+80°C, pH not specified in the publication	methylglyoxal	1100	9973342	0.2
+wild type enzyme, at 70°C	NADP+	1100	18452026	0.2
+wild type enzyme, at 70°C	NADPH	1100	18452026	0.4
+mutant enzyme R11L/A180V, at 70°C	NADP+	1100	18452026	0.7
+wild type enzyme, at 70°C	Pyruvaldehyde	1100	18452026	1.2
+pH 7.0, 70°C	Pyruvaldehyde	1100	11358525	3.3
+mutant enzyme R11L/A180V, at 70°C	Pyruvaldehyde	1100	18452026	4.2
+wild type enzyme, at 70°C	(2S,5S)-hexanediol	1100	18452026	5.4
+80°C, pH not specified in the publication	NAD+	1100	9973342	20.0
+80°C, pH not specified in the publication	ethanol	1100	9973342	29.4
+wild type enzyme, at 70°C	2-Pentanol	1100	18452026	30.3
+mutant enzyme R11L/A180V, at 70°C	2-Pentanol	1100	18452026	51.1
+wild type enzyme, at 70°C	2,5-hexanedione	1100	18452026	56.4
+pH 10.0, 70°C	2-Pentanol	1100	11358525	60.8
+mutant enzyme R11L/A180V, at 70°C	2,5-hexanedione	1100	18452026	79.0
+mutant enzyme R11L/A180V, at 70°C	(2S,5S)-hexanediol	1100	18452026	327.6
+80°C, pH not specified in the publication	NADP+	1101	9973342	0.071
+80°C, pH not specified in the publication	NADPH	1101	9973342	0.071
+pH 10.0, 70°C	NADP+	1101	11358525	0.08
+pH 7.0, 70°C	NADPH	1101	11358525	0.08
+80°C, pH not specified in the publication	phenylacetaldehyde	1101	9973342	0.091
+mutant enzyme R11L/A180V, at 70°C	NADPH	1101	18452026	0.1
+80°C, pH not specified in the publication	acetaldehyde	1101	9973342	0.17
+80°C, pH not specified in the publication	methylglyoxal	1101	9973342	0.2
+wild type enzyme, at 70°C	NADP+	1101	18452026	0.2
+wild type enzyme, at 70°C	NADPH	1101	18452026	0.4
+mutant enzyme R11L/A180V, at 70°C	NADP+	1101	18452026	0.7
+wild type enzyme, at 70°C	Pyruvaldehyde	1101	18452026	1.2
+pH 7.0, 70°C	Pyruvaldehyde	1101	11358525	3.3
+mutant enzyme R11L/A180V, at 70°C	Pyruvaldehyde	1101	18452026	4.2
+wild type enzyme, at 70°C	(2S,5S)-hexanediol	1101	18452026	5.4
+80°C, pH not specified in the publication	NAD+	1101	9973342	20.0
+80°C, pH not specified in the publication	ethanol	1101	9973342	29.4
+wild type enzyme, at 70°C	2-Pentanol	1101	18452026	30.3
+mutant enzyme R11L/A180V, at 70°C	2-Pentanol	1101	18452026	51.1
+wild type enzyme, at 70°C	2,5-hexanedione	1101	18452026	56.4
+pH 10.0, 70°C	2-Pentanol	1101	11358525	60.8
+mutant enzyme R11L/A180V, at 70°C	2,5-hexanedione	1101	18452026	79.0
+mutant enzyme R11L/A180V, at 70°C	(2S,5S)-hexanediol	1101	18452026	327.6
+80°C, pH not specified in the publication	NADP+	1102	9973342	0.071
+80°C, pH not specified in the publication	NADPH	1102	9973342	0.071
+pH 10.0, 70°C	NADP+	1102	11358525	0.08
+pH 7.0, 70°C	NADPH	1102	11358525	0.08
+80°C, pH not specified in the publication	phenylacetaldehyde	1102	9973342	0.091
+mutant enzyme R11L/A180V, at 70°C	NADPH	1102	18452026	0.1
+80°C, pH not specified in the publication	acetaldehyde	1102	9973342	0.17
+80°C, pH not specified in the publication	methylglyoxal	1102	9973342	0.2
+wild type enzyme, at 70°C	NADP+	1102	18452026	0.2
+wild type enzyme, at 70°C	NADPH	1102	18452026	0.4
+mutant enzyme R11L/A180V, at 70°C	NADP+	1102	18452026	0.7
+wild type enzyme, at 70°C	Pyruvaldehyde	1102	18452026	1.2
+pH 7.0, 70°C	Pyruvaldehyde	1102	11358525	3.3
+mutant enzyme R11L/A180V, at 70°C	Pyruvaldehyde	1102	18452026	4.2
+wild type enzyme, at 70°C	(2S,5S)-hexanediol	1102	18452026	5.4
+80°C, pH not specified in the publication	NAD+	1102	9973342	20.0
+80°C, pH not specified in the publication	ethanol	1102	9973342	29.4
+wild type enzyme, at 70°C	2-Pentanol	1102	18452026	30.3
+mutant enzyme R11L/A180V, at 70°C	2-Pentanol	1102	18452026	51.1
+wild type enzyme, at 70°C	2,5-hexanedione	1102	18452026	56.4
+pH 10.0, 70°C	2-Pentanol	1102	11358525	60.8
+mutant enzyme R11L/A180V, at 70°C	2,5-hexanedione	1102	18452026	79.0
+mutant enzyme R11L/A180V, at 70°C	(2S,5S)-hexanediol	1102	18452026	327.6
+low-Km reductase	p-nitrobenzaldehyde	1127	45199	0.0026
+	NADPH	1127	6798966	0.003-0.005
+	n-octadecanal	1127	6416297	0.004
+	NADPH	1127	2500152	0.006
+	n-hexadecanal	1127	6416297	0.008
+	n-tetradecanal	1127	6416297	0.014
+enzyme from brain	n-dodecanal	1127	6416297	0.019
+enzyme from liver and kidney	n-dodecanal	1127	6416297	0.02
+	hexadecanal	1127	3084464	0.03
+	p-Carboxybenzaldehyde	1127	7448191	0.031
+high-Km reductase	p-nitrobenzaldehyde	1127	45199	0.041
+	p-hydroxyphenylglycolaldehyde	1127	7448191	0.059
+	n-decanal	1127	6416297	0.07
+	p-nitrobenzaldehyde	1127	6798966	0.08
+	p-nitrobenzaldehyde	1127	9693960	0.12
+	Succinic semialdehyde	1127	6798966	0.13
+enzyme from kidney, brain or liver	p-nitrobenzaldehyde	1127	6416297	0.2
+	octanal	1127	3084464	0.21
+	p-nitrobenzaldehyde	1127	7448191	0.23
+	pyridine 3-aldehyde	1127	7448191	0.26
+	p-nitrobenzaldehyde	1127	3084464	0.31
+	n-octanal	1127	6416297	0.77
+	p-hydroxyphenylacetaldehyde	1127	7448191	0.91
+enzyme from kidney, brain or liver	4-Pyridinecarboxaldehyde	1127	6416297	1.2
+	DL-glyceraldehyde	1127	7448191	1.3
+	p-nitroacetophenone	1127	3084464	1.4
+	DL-glyceraldehyde	1127	6798966	1.5
+	D-glucuronate	1127	7448191	2.2
+	Benzalacetone	1127	3084464	2.5
+	propionaldehyde	1127	6416297	3.3
+	acetaldehyde	1127	6416297	3.8
+	benzaldehyde	1127	7448191	4.5
+	D-glucuronate	1127	6798966	4.5
+	D-glucuronate	1127	2500152	6.42
+	DL-glyceraldehyde	1127	2500152	8.35
+liver enzyme	Succinic semialdehyde	1127	6798966	10.9
+enzyme from brain or liver	ethyl acetoacetate	1127	6416297	24.0
+enzyme from kidney	ethyl acetoacetate	1127	6416297	25.0
+	Chloral hydrate	1127	7448191	29.0
+enzyme from brain	D-glucuronate	1127	6416297	42.0
+enzyme from kidney, or liver	D-glucuronate	1127	6416297	43.0
+	D-xylose	1127	7448191	670.0
+	D-xylose	1127	2500152	2080.0
+low-Km reductase	p-nitrobenzaldehyde	1128	45199	0.0026
+	NADPH	1128	6798966	0.003-0.005
+	n-octadecanal	1128	6416297	0.004
+	NADPH	1128	2500152	0.006
+	n-hexadecanal	1128	6416297	0.008
+	n-tetradecanal	1128	6416297	0.014
+enzyme from brain	n-dodecanal	1128	6416297	0.019
+enzyme from liver and kidney	n-dodecanal	1128	6416297	0.02
+	hexadecanal	1128	3084464	0.03
+	p-Carboxybenzaldehyde	1128	7448191	0.031
+high-Km reductase	p-nitrobenzaldehyde	1128	45199	0.041
+	p-hydroxyphenylglycolaldehyde	1128	7448191	0.059
+	n-decanal	1128	6416297	0.07
+	p-nitrobenzaldehyde	1128	6798966	0.08
+	p-nitrobenzaldehyde	1128	9693960	0.12
+	Succinic semialdehyde	1128	6798966	0.13
+enzyme from kidney, brain or liver	p-nitrobenzaldehyde	1128	6416297	0.2
+	octanal	1128	3084464	0.21
+	p-nitrobenzaldehyde	1128	7448191	0.23
+	pyridine 3-aldehyde	1128	7448191	0.26
+	p-nitrobenzaldehyde	1128	3084464	0.31
+	n-octanal	1128	6416297	0.77
+	p-hydroxyphenylacetaldehyde	1128	7448191	0.91
+enzyme from kidney, brain or liver	4-Pyridinecarboxaldehyde	1128	6416297	1.2
+	DL-glyceraldehyde	1128	7448191	1.3
+	p-nitroacetophenone	1128	3084464	1.4
+	DL-glyceraldehyde	1128	6798966	1.5
+	D-glucuronate	1128	7448191	2.2
+	Benzalacetone	1128	3084464	2.5
+	propionaldehyde	1128	6416297	3.3
+	acetaldehyde	1128	6416297	3.8
+	benzaldehyde	1128	7448191	4.5
+	D-glucuronate	1128	6798966	4.5
+	D-glucuronate	1128	2500152	6.42
+	DL-glyceraldehyde	1128	2500152	8.35
+liver enzyme	Succinic semialdehyde	1128	6798966	10.9
+enzyme from brain or liver	ethyl acetoacetate	1128	6416297	24.0
+enzyme from kidney	ethyl acetoacetate	1128	6416297	25.0
+	Chloral hydrate	1128	7448191	29.0
+enzyme from brain	D-glucuronate	1128	6416297	42.0
+enzyme from kidney, or liver	D-glucuronate	1128	6416297	43.0
+	D-xylose	1128	7448191	670.0
+	D-xylose	1128	2500152	2080.0
+low-Km reductase	p-nitrobenzaldehyde	1129	45199	0.0026
+	NADPH	1129	6798966	0.003-0.005
+	n-octadecanal	1129	6416297	0.004
+	NADPH	1129	2500152	0.006
+	n-hexadecanal	1129	6416297	0.008
+	n-tetradecanal	1129	6416297	0.014
+enzyme from brain	n-dodecanal	1129	6416297	0.019
+enzyme from liver and kidney	n-dodecanal	1129	6416297	0.02
+	hexadecanal	1129	3084464	0.03
+	p-Carboxybenzaldehyde	1129	7448191	0.031
+high-Km reductase	p-nitrobenzaldehyde	1129	45199	0.041
+	p-hydroxyphenylglycolaldehyde	1129	7448191	0.059
+	n-decanal	1129	6416297	0.07
+	p-nitrobenzaldehyde	1129	6798966	0.08
+	p-nitrobenzaldehyde	1129	9693960	0.12
+	Succinic semialdehyde	1129	6798966	0.13
+enzyme from kidney, brain or liver	p-nitrobenzaldehyde	1129	6416297	0.2
+	octanal	1129	3084464	0.21
+	p-nitrobenzaldehyde	1129	7448191	0.23
+	pyridine 3-aldehyde	1129	7448191	0.26
+	p-nitrobenzaldehyde	1129	3084464	0.31
+	n-octanal	1129	6416297	0.77
+	p-hydroxyphenylacetaldehyde	1129	7448191	0.91
+enzyme from kidney, brain or liver	4-Pyridinecarboxaldehyde	1129	6416297	1.2
+	DL-glyceraldehyde	1129	7448191	1.3
+	p-nitroacetophenone	1129	3084464	1.4
+	DL-glyceraldehyde	1129	6798966	1.5
+	D-glucuronate	1129	7448191	2.2
+	Benzalacetone	1129	3084464	2.5
+	propionaldehyde	1129	6416297	3.3
+	acetaldehyde	1129	6416297	3.8
+	benzaldehyde	1129	7448191	4.5
+	D-glucuronate	1129	6798966	4.5
+	D-glucuronate	1129	2500152	6.42
+	DL-glyceraldehyde	1129	2500152	8.35
+liver enzyme	Succinic semialdehyde	1129	6798966	10.9
+enzyme from brain or liver	ethyl acetoacetate	1129	6416297	24.0
+enzyme from kidney	ethyl acetoacetate	1129	6416297	25.0
+	Chloral hydrate	1129	7448191	29.0
+enzyme from brain	D-glucuronate	1129	6416297	42.0
+enzyme from kidney, or liver	D-glucuronate	1129	6416297	43.0
+	D-xylose	1129	7448191	670.0
+	D-xylose	1129	2500152	2080.0
+low-Km reductase	p-nitrobenzaldehyde	1130	45199	0.0026
+	NADPH	1130	6798966	0.003-0.005
+	n-octadecanal	1130	6416297	0.004
+	NADPH	1130	2500152	0.006
+	n-hexadecanal	1130	6416297	0.008
+	n-tetradecanal	1130	6416297	0.014
+enzyme from brain	n-dodecanal	1130	6416297	0.019
+enzyme from liver and kidney	n-dodecanal	1130	6416297	0.02
+	hexadecanal	1130	3084464	0.03
+	p-Carboxybenzaldehyde	1130	7448191	0.031
+high-Km reductase	p-nitrobenzaldehyde	1130	45199	0.041
+	p-hydroxyphenylglycolaldehyde	1130	7448191	0.059
+	n-decanal	1130	6416297	0.07
+	p-nitrobenzaldehyde	1130	6798966	0.08
+	p-nitrobenzaldehyde	1130	9693960	0.12
+	Succinic semialdehyde	1130	6798966	0.13
+enzyme from kidney, brain or liver	p-nitrobenzaldehyde	1130	6416297	0.2
+	octanal	1130	3084464	0.21
+	p-nitrobenzaldehyde	1130	7448191	0.23
+	pyridine 3-aldehyde	1130	7448191	0.26
+	p-nitrobenzaldehyde	1130	3084464	0.31
+	n-octanal	1130	6416297	0.77
+	p-hydroxyphenylacetaldehyde	1130	7448191	0.91
+enzyme from kidney, brain or liver	4-Pyridinecarboxaldehyde	1130	6416297	1.2
+	DL-glyceraldehyde	1130	7448191	1.3
+	p-nitroacetophenone	1130	3084464	1.4
+	DL-glyceraldehyde	1130	6798966	1.5
+	D-glucuronate	1130	7448191	2.2
+	Benzalacetone	1130	3084464	2.5
+	propionaldehyde	1130	6416297	3.3
+	acetaldehyde	1130	6416297	3.8
+	benzaldehyde	1130	7448191	4.5
+	D-glucuronate	1130	6798966	4.5
+	D-glucuronate	1130	2500152	6.42
+	DL-glyceraldehyde	1130	2500152	8.35
+liver enzyme	Succinic semialdehyde	1130	6798966	10.9
+enzyme from brain or liver	ethyl acetoacetate	1130	6416297	24.0
+enzyme from kidney	ethyl acetoacetate	1130	6416297	25.0
+	Chloral hydrate	1130	7448191	29.0
+enzyme from brain	D-glucuronate	1130	6416297	42.0
+enzyme from kidney, or liver	D-glucuronate	1130	6416297	43.0
+	D-xylose	1130	7448191	670.0
+	D-xylose	1130	2500152	2080.0
+low-Km reductase	p-nitrobenzaldehyde	1131	45199	0.0026
+	NADPH	1131	6798966	0.003-0.005
+	n-octadecanal	1131	6416297	0.004
+	NADPH	1131	2500152	0.006
+	n-hexadecanal	1131	6416297	0.008
+	n-tetradecanal	1131	6416297	0.014
+enzyme from brain	n-dodecanal	1131	6416297	0.019
+enzyme from liver and kidney	n-dodecanal	1131	6416297	0.02
+	hexadecanal	1131	3084464	0.03
+	p-Carboxybenzaldehyde	1131	7448191	0.031
+high-Km reductase	p-nitrobenzaldehyde	1131	45199	0.041
+	p-hydroxyphenylglycolaldehyde	1131	7448191	0.059
+	n-decanal	1131	6416297	0.07
+	p-nitrobenzaldehyde	1131	6798966	0.08
+	p-nitrobenzaldehyde	1131	9693960	0.12
+	Succinic semialdehyde	1131	6798966	0.13
+enzyme from kidney, brain or liver	p-nitrobenzaldehyde	1131	6416297	0.2
+	octanal	1131	3084464	0.21
+	p-nitrobenzaldehyde	1131	7448191	0.23
+	pyridine 3-aldehyde	1131	7448191	0.26
+	p-nitrobenzaldehyde	1131	3084464	0.31
+	n-octanal	1131	6416297	0.77
+	p-hydroxyphenylacetaldehyde	1131	7448191	0.91
+enzyme from kidney, brain or liver	4-Pyridinecarboxaldehyde	1131	6416297	1.2
+	DL-glyceraldehyde	1131	7448191	1.3
+	p-nitroacetophenone	1131	3084464	1.4
+	DL-glyceraldehyde	1131	6798966	1.5
+	D-glucuronate	1131	7448191	2.2
+	Benzalacetone	1131	3084464	2.5
+	propionaldehyde	1131	6416297	3.3
+	acetaldehyde	1131	6416297	3.8
+	benzaldehyde	1131	7448191	4.5
+	D-glucuronate	1131	6798966	4.5
+	D-glucuronate	1131	2500152	6.42
+	DL-glyceraldehyde	1131	2500152	8.35
+liver enzyme	Succinic semialdehyde	1131	6798966	10.9
+enzyme from brain or liver	ethyl acetoacetate	1131	6416297	24.0
+enzyme from kidney	ethyl acetoacetate	1131	6416297	25.0
+	Chloral hydrate	1131	7448191	29.0
+enzyme from brain	D-glucuronate	1131	6416297	42.0
+enzyme from kidney, or liver	D-glucuronate	1131	6416297	43.0
+	D-xylose	1131	7448191	670.0
+	D-xylose	1131	2500152	2080.0
+low-Km reductase	p-nitrobenzaldehyde	1132	45199	0.0026
+	NADPH	1132	6798966	0.003-0.005
+	n-octadecanal	1132	6416297	0.004
+	NADPH	1132	2500152	0.006
+	n-hexadecanal	1132	6416297	0.008
+	n-tetradecanal	1132	6416297	0.014
+enzyme from brain	n-dodecanal	1132	6416297	0.019
+enzyme from liver and kidney	n-dodecanal	1132	6416297	0.02
+	hexadecanal	1132	3084464	0.03
+	p-Carboxybenzaldehyde	1132	7448191	0.031
+high-Km reductase	p-nitrobenzaldehyde	1132	45199	0.041
+	p-hydroxyphenylglycolaldehyde	1132	7448191	0.059
+	n-decanal	1132	6416297	0.07
+	p-nitrobenzaldehyde	1132	6798966	0.08
+	p-nitrobenzaldehyde	1132	9693960	0.12
+	Succinic semialdehyde	1132	6798966	0.13
+enzyme from kidney, brain or liver	p-nitrobenzaldehyde	1132	6416297	0.2
+	octanal	1132	3084464	0.21
+	p-nitrobenzaldehyde	1132	7448191	0.23
+	pyridine 3-aldehyde	1132	7448191	0.26
+	p-nitrobenzaldehyde	1132	3084464	0.31
+	n-octanal	1132	6416297	0.77
+	p-hydroxyphenylacetaldehyde	1132	7448191	0.91
+enzyme from kidney, brain or liver	4-Pyridinecarboxaldehyde	1132	6416297	1.2
+	DL-glyceraldehyde	1132	7448191	1.3
+	p-nitroacetophenone	1132	3084464	1.4
+	DL-glyceraldehyde	1132	6798966	1.5
+	D-glucuronate	1132	7448191	2.2
+	Benzalacetone	1132	3084464	2.5
+	propionaldehyde	1132	6416297	3.3
+	acetaldehyde	1132	6416297	3.8
+	benzaldehyde	1132	7448191	4.5
+	D-glucuronate	1132	6798966	4.5
+	D-glucuronate	1132	2500152	6.42
+	DL-glyceraldehyde	1132	2500152	8.35
+liver enzyme	Succinic semialdehyde	1132	6798966	10.9
+enzyme from brain or liver	ethyl acetoacetate	1132	6416297	24.0
+enzyme from kidney	ethyl acetoacetate	1132	6416297	25.0
+	Chloral hydrate	1132	7448191	29.0
+enzyme from brain	D-glucuronate	1132	6416297	42.0
+enzyme from kidney, or liver	D-glucuronate	1132	6416297	43.0
+	D-xylose	1132	7448191	670.0
+	D-xylose	1132	2500152	2080.0
+pH 7.0, 25°C	NADPH	1162	11742541	0.011
+pH 10.0, 25°C	NADP+	1162	11742541	0.013
+pH 7.0, 25°C	NADPH	1162	11742541	0.029
+pH 7.0, 25°C	cinnamaldehyde	1162	11742541	0.043
+pH 7.0, 25°C	3-Methylbutanal	1162	11742541	0.048
+pH 7.0, 25°C	pentanal	1162	11742541	0.049
+pH 7.0, 25°C	veratraldehyde	1162	11742541	0.058
+pH 7.0, 25°C	pentanal	1162	11742541	0.06
+pH 10.0, 25°C	NADP+	1162	11742541	0.061
+pH 7.0, 25°C	veratraldehyde	1162	11742541	0.073
+pH 10.0, 25°C	cinnamyl alcohol	1162	11742541	0.08
+pH 7.0, 25°C	cinnamyl alcohol	1162	11742541	0.11
+pH 7.0, 25°C	3-Methylbutanal	1162	11742541	0.129
+pH 7.0, 25°C	Hexanal	1162	11742541	0.152
+coenzyme NADPH	pentanal	1162	9327572	0.16
+pH 7.0, 25°C	cinnamaldehyde	1162	11742541	0.172
+coenzyme NADPH	Hexanal	1162	9327572	0.18
+coenzyme NADPH	3-Methylbutanal	1162	9327572	0.21
+coenzyme NADPH	Heptanal	1162	9327572	0.27
+pH 7.0, 25°C	cinnamyl alcohol	1162	11742541	0.436
+pH 10.0, 25°C	cinnamyl alcohol	1162	11742541	0.7
+coenzyme NADH	Hexanal	1162	9327572	0.83
+pH 10.0, 25°C	1-Pentanol	1162	11742541	0.99
+coenzyme NADPH	Hexanol	1162	9327572	1.22
+pH 10.0, 25°C	3-methyl-1-butanol	1162	11742541	1.61
+coenzyme NADPH	trans-2-hexenol	1162	9327572	1.69
+coenzyme NADPH	2-methylbutanal	1162	9327572	1.85
+coenzyme NADH	3-Methylbutanal	1162	9327572	1.89
+pH 10.0, 25°C	Phenylethanol	1162	11742541	2.2
+coenzyme NADPH	Butanal	1162	9327572	2.76
+coenzyme NADH	pentanal	1162	9327572	3.01
+coenzyme NADH	Heptanal	1162	9327572	4.25
+pH 7.0, 25°C	3-methyl-1-butanol	1162	11742541	4.6
+pH 7.0, 25°C	Hexanol	1162	11742541	9.1
+coenzyme NADH	2-methylbutanal	1162	9327572	17.7
+coenzyme NADH	Butanal	1162	9327572	23.1
+coenzyme NADH	propanal	1162	9327572	27.0
+coenzyme NADPH	propanal	1162	9327572	38.9
+	acetaldehyde	1162	9327572	158.0
+pH 7.0, 25°C	NADPH	1163	11742541	0.011
+pH 10.0, 25°C	NADP+	1163	11742541	0.013
+pH 7.0, 25°C	NADPH	1163	11742541	0.029
+pH 7.0, 25°C	cinnamaldehyde	1163	11742541	0.043
+pH 7.0, 25°C	3-Methylbutanal	1163	11742541	0.048
+pH 7.0, 25°C	pentanal	1163	11742541	0.049
+pH 7.0, 25°C	veratraldehyde	1163	11742541	0.058
+pH 7.0, 25°C	pentanal	1163	11742541	0.06
+pH 10.0, 25°C	NADP+	1163	11742541	0.061
+pH 7.0, 25°C	veratraldehyde	1163	11742541	0.073
+pH 10.0, 25°C	cinnamyl alcohol	1163	11742541	0.08
+pH 7.0, 25°C	cinnamyl alcohol	1163	11742541	0.11
+pH 7.0, 25°C	3-Methylbutanal	1163	11742541	0.129
+pH 7.0, 25°C	Hexanal	1163	11742541	0.152
+coenzyme NADPH	pentanal	1163	9327572	0.16
+pH 7.0, 25°C	cinnamaldehyde	1163	11742541	0.172
+coenzyme NADPH	Hexanal	1163	9327572	0.18
+coenzyme NADPH	3-Methylbutanal	1163	9327572	0.21
+coenzyme NADPH	Heptanal	1163	9327572	0.27
+pH 7.0, 25°C	cinnamyl alcohol	1163	11742541	0.436
+pH 10.0, 25°C	cinnamyl alcohol	1163	11742541	0.7
+coenzyme NADH	Hexanal	1163	9327572	0.83
+pH 10.0, 25°C	1-Pentanol	1163	11742541	0.99
+coenzyme NADPH	Hexanol	1163	9327572	1.22
+pH 10.0, 25°C	3-methyl-1-butanol	1163	11742541	1.61
+coenzyme NADPH	trans-2-hexenol	1163	9327572	1.69
+coenzyme NADPH	2-methylbutanal	1163	9327572	1.85
+coenzyme NADH	3-Methylbutanal	1163	9327572	1.89
+pH 10.0, 25°C	Phenylethanol	1163	11742541	2.2
+coenzyme NADPH	Butanal	1163	9327572	2.76
+coenzyme NADH	pentanal	1163	9327572	3.01
+coenzyme NADH	Heptanal	1163	9327572	4.25
+pH 7.0, 25°C	3-methyl-1-butanol	1163	11742541	4.6
+pH 7.0, 25°C	Hexanol	1163	11742541	9.1
+coenzyme NADH	2-methylbutanal	1163	9327572	17.7
+coenzyme NADH	Butanal	1163	9327572	23.1
+coenzyme NADH	propanal	1163	9327572	27.0
+coenzyme NADPH	propanal	1163	9327572	38.9
+	acetaldehyde	1163	9327572	158.0
+pH 7.0, 25°C	NADPH	1164	11742541	0.011
+pH 10.0, 25°C	NADP+	1164	11742541	0.013
+pH 7.0, 25°C	NADPH	1164	11742541	0.029
+pH 7.0, 25°C	cinnamaldehyde	1164	11742541	0.043
+pH 7.0, 25°C	3-Methylbutanal	1164	11742541	0.048
+pH 7.0, 25°C	pentanal	1164	11742541	0.049
+pH 7.0, 25°C	veratraldehyde	1164	11742541	0.058
+pH 7.0, 25°C	pentanal	1164	11742541	0.06
+pH 10.0, 25°C	NADP+	1164	11742541	0.061
+pH 7.0, 25°C	veratraldehyde	1164	11742541	0.073
+pH 10.0, 25°C	cinnamyl alcohol	1164	11742541	0.08
+pH 7.0, 25°C	cinnamyl alcohol	1164	11742541	0.11
+pH 7.0, 25°C	3-Methylbutanal	1164	11742541	0.129
+pH 7.0, 25°C	Hexanal	1164	11742541	0.152
+coenzyme NADPH	pentanal	1164	9327572	0.16
+pH 7.0, 25°C	cinnamaldehyde	1164	11742541	0.172
+coenzyme NADPH	Hexanal	1164	9327572	0.18
+coenzyme NADPH	3-Methylbutanal	1164	9327572	0.21
+coenzyme NADPH	Heptanal	1164	9327572	0.27
+pH 7.0, 25°C	cinnamyl alcohol	1164	11742541	0.436
+pH 10.0, 25°C	cinnamyl alcohol	1164	11742541	0.7
+coenzyme NADH	Hexanal	1164	9327572	0.83
+pH 10.0, 25°C	1-Pentanol	1164	11742541	0.99
+coenzyme NADPH	Hexanol	1164	9327572	1.22
+pH 10.0, 25°C	3-methyl-1-butanol	1164	11742541	1.61
+coenzyme NADPH	trans-2-hexenol	1164	9327572	1.69
+coenzyme NADPH	2-methylbutanal	1164	9327572	1.85
+coenzyme NADH	3-Methylbutanal	1164	9327572	1.89
+pH 10.0, 25°C	Phenylethanol	1164	11742541	2.2
+coenzyme NADPH	Butanal	1164	9327572	2.76
+coenzyme NADH	pentanal	1164	9327572	3.01
+coenzyme NADH	Heptanal	1164	9327572	4.25
+pH 7.0, 25°C	3-methyl-1-butanol	1164	11742541	4.6
+pH 7.0, 25°C	Hexanol	1164	11742541	9.1
+coenzyme NADH	2-methylbutanal	1164	9327572	17.7
+coenzyme NADH	Butanal	1164	9327572	23.1
+coenzyme NADH	propanal	1164	9327572	27.0
+coenzyme NADPH	propanal	1164	9327572	38.9
+	acetaldehyde	1164	9327572	158.0
+pH 7.0, 25°C	NADPH	1165	11742541	0.011
+pH 10.0, 25°C	NADP+	1165	11742541	0.013
+pH 7.0, 25°C	NADPH	1165	11742541	0.029
+pH 7.0, 25°C	cinnamaldehyde	1165	11742541	0.043
+pH 7.0, 25°C	3-Methylbutanal	1165	11742541	0.048
+pH 7.0, 25°C	pentanal	1165	11742541	0.049
+pH 7.0, 25°C	veratraldehyde	1165	11742541	0.058
+pH 7.0, 25°C	pentanal	1165	11742541	0.06
+pH 10.0, 25°C	NADP+	1165	11742541	0.061
+pH 7.0, 25°C	veratraldehyde	1165	11742541	0.073
+pH 10.0, 25°C	cinnamyl alcohol	1165	11742541	0.08
+pH 7.0, 25°C	cinnamyl alcohol	1165	11742541	0.11
+pH 7.0, 25°C	3-Methylbutanal	1165	11742541	0.129
+pH 7.0, 25°C	Hexanal	1165	11742541	0.152
+coenzyme NADPH	pentanal	1165	9327572	0.16
+pH 7.0, 25°C	cinnamaldehyde	1165	11742541	0.172
+coenzyme NADPH	Hexanal	1165	9327572	0.18
+coenzyme NADPH	3-Methylbutanal	1165	9327572	0.21
+coenzyme NADPH	Heptanal	1165	9327572	0.27
+pH 7.0, 25°C	cinnamyl alcohol	1165	11742541	0.436
+pH 10.0, 25°C	cinnamyl alcohol	1165	11742541	0.7
+coenzyme NADH	Hexanal	1165	9327572	0.83
+pH 10.0, 25°C	1-Pentanol	1165	11742541	0.99
+coenzyme NADPH	Hexanol	1165	9327572	1.22
+pH 10.0, 25°C	3-methyl-1-butanol	1165	11742541	1.61
+coenzyme NADPH	trans-2-hexenol	1165	9327572	1.69
+coenzyme NADPH	2-methylbutanal	1165	9327572	1.85
+coenzyme NADH	3-Methylbutanal	1165	9327572	1.89
+pH 10.0, 25°C	Phenylethanol	1165	11742541	2.2
+coenzyme NADPH	Butanal	1165	9327572	2.76
+coenzyme NADH	pentanal	1165	9327572	3.01
+coenzyme NADH	Heptanal	1165	9327572	4.25
+pH 7.0, 25°C	3-methyl-1-butanol	1165	11742541	4.6
+pH 7.0, 25°C	Hexanol	1165	11742541	9.1
+coenzyme NADH	2-methylbutanal	1165	9327572	17.7
+coenzyme NADH	Butanal	1165	9327572	23.1
+coenzyme NADH	propanal	1165	9327572	27.0
+coenzyme NADPH	propanal	1165	9327572	38.9
+	acetaldehyde	1165	9327572	158.0
+pH 7.0, 25°C	NADPH	1166	11742541	0.011
+pH 10.0, 25°C	NADP+	1166	11742541	0.013
+pH 7.0, 25°C	NADPH	1166	11742541	0.029
+pH 7.0, 25°C	cinnamaldehyde	1166	11742541	0.043
+pH 7.0, 25°C	3-Methylbutanal	1166	11742541	0.048
+pH 7.0, 25°C	pentanal	1166	11742541	0.049
+pH 7.0, 25°C	veratraldehyde	1166	11742541	0.058
+pH 7.0, 25°C	pentanal	1166	11742541	0.06
+pH 10.0, 25°C	NADP+	1166	11742541	0.061
+pH 7.0, 25°C	veratraldehyde	1166	11742541	0.073
+pH 10.0, 25°C	cinnamyl alcohol	1166	11742541	0.08
+pH 7.0, 25°C	cinnamyl alcohol	1166	11742541	0.11
+pH 7.0, 25°C	3-Methylbutanal	1166	11742541	0.129
+pH 7.0, 25°C	Hexanal	1166	11742541	0.152
+coenzyme NADPH	pentanal	1166	9327572	0.16
+pH 7.0, 25°C	cinnamaldehyde	1166	11742541	0.172
+coenzyme NADPH	Hexanal	1166	9327572	0.18
+coenzyme NADPH	3-Methylbutanal	1166	9327572	0.21
+coenzyme NADPH	Heptanal	1166	9327572	0.27
+pH 7.0, 25°C	cinnamyl alcohol	1166	11742541	0.436
+pH 10.0, 25°C	cinnamyl alcohol	1166	11742541	0.7
+coenzyme NADH	Hexanal	1166	9327572	0.83
+pH 10.0, 25°C	1-Pentanol	1166	11742541	0.99
+coenzyme NADPH	Hexanol	1166	9327572	1.22
+pH 10.0, 25°C	3-methyl-1-butanol	1166	11742541	1.61
+coenzyme NADPH	trans-2-hexenol	1166	9327572	1.69
+coenzyme NADPH	2-methylbutanal	1166	9327572	1.85
+coenzyme NADH	3-Methylbutanal	1166	9327572	1.89
+pH 10.0, 25°C	Phenylethanol	1166	11742541	2.2
+coenzyme NADPH	Butanal	1166	9327572	2.76
+coenzyme NADH	pentanal	1166	9327572	3.01
+coenzyme NADH	Heptanal	1166	9327572	4.25
+pH 7.0, 25°C	3-methyl-1-butanol	1166	11742541	4.6
+pH 7.0, 25°C	Hexanol	1166	11742541	9.1
+coenzyme NADH	2-methylbutanal	1166	9327572	17.7
+coenzyme NADH	Butanal	1166	9327572	23.1
+coenzyme NADH	propanal	1166	9327572	27.0
+coenzyme NADPH	propanal	1166	9327572	38.9
+	acetaldehyde	1166	9327572	158.0
+pH 7.0, 25°C	NADPH	1167	11742541	0.011
+pH 10.0, 25°C	NADP+	1167	11742541	0.013
+pH 7.0, 25°C	NADPH	1167	11742541	0.029
+pH 7.0, 25°C	cinnamaldehyde	1167	11742541	0.043
+pH 7.0, 25°C	3-Methylbutanal	1167	11742541	0.048
+pH 7.0, 25°C	pentanal	1167	11742541	0.049
+pH 7.0, 25°C	veratraldehyde	1167	11742541	0.058
+pH 7.0, 25°C	pentanal	1167	11742541	0.06
+pH 10.0, 25°C	NADP+	1167	11742541	0.061
+pH 7.0, 25°C	veratraldehyde	1167	11742541	0.073
+pH 10.0, 25°C	cinnamyl alcohol	1167	11742541	0.08
+pH 7.0, 25°C	cinnamyl alcohol	1167	11742541	0.11
+pH 7.0, 25°C	3-Methylbutanal	1167	11742541	0.129
+pH 7.0, 25°C	Hexanal	1167	11742541	0.152
+coenzyme NADPH	pentanal	1167	9327572	0.16
+pH 7.0, 25°C	cinnamaldehyde	1167	11742541	0.172
+coenzyme NADPH	Hexanal	1167	9327572	0.18
+coenzyme NADPH	3-Methylbutanal	1167	9327572	0.21
+coenzyme NADPH	Heptanal	1167	9327572	0.27
+pH 7.0, 25°C	cinnamyl alcohol	1167	11742541	0.436
+pH 10.0, 25°C	cinnamyl alcohol	1167	11742541	0.7
+coenzyme NADH	Hexanal	1167	9327572	0.83
+pH 10.0, 25°C	1-Pentanol	1167	11742541	0.99
+coenzyme NADPH	Hexanol	1167	9327572	1.22
+pH 10.0, 25°C	3-methyl-1-butanol	1167	11742541	1.61
+coenzyme NADPH	trans-2-hexenol	1167	9327572	1.69
+coenzyme NADPH	2-methylbutanal	1167	9327572	1.85
+coenzyme NADH	3-Methylbutanal	1167	9327572	1.89
+pH 10.0, 25°C	Phenylethanol	1167	11742541	2.2
+coenzyme NADPH	Butanal	1167	9327572	2.76
+coenzyme NADH	pentanal	1167	9327572	3.01
+coenzyme NADH	Heptanal	1167	9327572	4.25
+pH 7.0, 25°C	3-methyl-1-butanol	1167	11742541	4.6
+pH 7.0, 25°C	Hexanol	1167	11742541	9.1
+coenzyme NADH	2-methylbutanal	1167	9327572	17.7
+coenzyme NADH	Butanal	1167	9327572	23.1
+coenzyme NADH	propanal	1167	9327572	27.0
+coenzyme NADPH	propanal	1167	9327572	38.9
+	acetaldehyde	1167	9327572	158.0
+pH 7.0, 25°C	NADPH	1168	11742541	0.011
+pH 10.0, 25°C	NADP+	1168	11742541	0.013
+pH 7.0, 25°C	NADPH	1168	11742541	0.029
+pH 7.0, 25°C	cinnamaldehyde	1168	11742541	0.043
+pH 7.0, 25°C	3-Methylbutanal	1168	11742541	0.048
+pH 7.0, 25°C	pentanal	1168	11742541	0.049
+pH 7.0, 25°C	veratraldehyde	1168	11742541	0.058
+pH 7.0, 25°C	pentanal	1168	11742541	0.06
+pH 10.0, 25°C	NADP+	1168	11742541	0.061
+pH 7.0, 25°C	veratraldehyde	1168	11742541	0.073
+pH 10.0, 25°C	cinnamyl alcohol	1168	11742541	0.08
+pH 7.0, 25°C	cinnamyl alcohol	1168	11742541	0.11
+pH 7.0, 25°C	3-Methylbutanal	1168	11742541	0.129
+pH 7.0, 25°C	Hexanal	1168	11742541	0.152
+coenzyme NADPH	pentanal	1168	9327572	0.16
+pH 7.0, 25°C	cinnamaldehyde	1168	11742541	0.172
+coenzyme NADPH	Hexanal	1168	9327572	0.18
+coenzyme NADPH	3-Methylbutanal	1168	9327572	0.21
+coenzyme NADPH	Heptanal	1168	9327572	0.27
+pH 7.0, 25°C	cinnamyl alcohol	1168	11742541	0.436
+pH 10.0, 25°C	cinnamyl alcohol	1168	11742541	0.7
+coenzyme NADH	Hexanal	1168	9327572	0.83
+pH 10.0, 25°C	1-Pentanol	1168	11742541	0.99
+coenzyme NADPH	Hexanol	1168	9327572	1.22
+pH 10.0, 25°C	3-methyl-1-butanol	1168	11742541	1.61
+coenzyme NADPH	trans-2-hexenol	1168	9327572	1.69
+coenzyme NADPH	2-methylbutanal	1168	9327572	1.85
+coenzyme NADH	3-Methylbutanal	1168	9327572	1.89
+pH 10.0, 25°C	Phenylethanol	1168	11742541	2.2
+coenzyme NADPH	Butanal	1168	9327572	2.76
+coenzyme NADH	pentanal	1168	9327572	3.01
+coenzyme NADH	Heptanal	1168	9327572	4.25
+pH 7.0, 25°C	3-methyl-1-butanol	1168	11742541	4.6
+pH 7.0, 25°C	Hexanol	1168	11742541	9.1
+coenzyme NADH	2-methylbutanal	1168	9327572	17.7
+coenzyme NADH	Butanal	1168	9327572	23.1
+coenzyme NADH	propanal	1168	9327572	27.0
+coenzyme NADPH	propanal	1168	9327572	38.9
+	acetaldehyde	1168	9327572	158.0
+pH 7.0, 25°C	NADPH	1169	11742541	0.011
+pH 10.0, 25°C	NADP+	1169	11742541	0.013
+pH 7.0, 25°C	NADPH	1169	11742541	0.029
+pH 7.0, 25°C	cinnamaldehyde	1169	11742541	0.043
+pH 7.0, 25°C	3-Methylbutanal	1169	11742541	0.048
+pH 7.0, 25°C	pentanal	1169	11742541	0.049
+pH 7.0, 25°C	veratraldehyde	1169	11742541	0.058
+pH 7.0, 25°C	pentanal	1169	11742541	0.06
+pH 10.0, 25°C	NADP+	1169	11742541	0.061
+pH 7.0, 25°C	veratraldehyde	1169	11742541	0.073
+pH 10.0, 25°C	cinnamyl alcohol	1169	11742541	0.08
+pH 7.0, 25°C	cinnamyl alcohol	1169	11742541	0.11
+pH 7.0, 25°C	3-Methylbutanal	1169	11742541	0.129
+pH 7.0, 25°C	Hexanal	1169	11742541	0.152
+coenzyme NADPH	pentanal	1169	9327572	0.16
+pH 7.0, 25°C	cinnamaldehyde	1169	11742541	0.172
+coenzyme NADPH	Hexanal	1169	9327572	0.18
+coenzyme NADPH	3-Methylbutanal	1169	9327572	0.21
+coenzyme NADPH	Heptanal	1169	9327572	0.27
+pH 7.0, 25°C	cinnamyl alcohol	1169	11742541	0.436
+pH 10.0, 25°C	cinnamyl alcohol	1169	11742541	0.7
+coenzyme NADH	Hexanal	1169	9327572	0.83
+pH 10.0, 25°C	1-Pentanol	1169	11742541	0.99
+coenzyme NADPH	Hexanol	1169	9327572	1.22
+pH 10.0, 25°C	3-methyl-1-butanol	1169	11742541	1.61
+coenzyme NADPH	trans-2-hexenol	1169	9327572	1.69
+coenzyme NADPH	2-methylbutanal	1169	9327572	1.85
+coenzyme NADH	3-Methylbutanal	1169	9327572	1.89
+pH 10.0, 25°C	Phenylethanol	1169	11742541	2.2
+coenzyme NADPH	Butanal	1169	9327572	2.76
+coenzyme NADH	pentanal	1169	9327572	3.01
+coenzyme NADH	Heptanal	1169	9327572	4.25
+pH 7.0, 25°C	3-methyl-1-butanol	1169	11742541	4.6
+pH 7.0, 25°C	Hexanol	1169	11742541	9.1
+coenzyme NADH	2-methylbutanal	1169	9327572	17.7
+coenzyme NADH	Butanal	1169	9327572	23.1
+coenzyme NADH	propanal	1169	9327572	27.0
+coenzyme NADPH	propanal	1169	9327572	38.9
+	acetaldehyde	1169	9327572	158.0
+pH 7.0, 25°C	NADPH	1170	11742541	0.011
+pH 10.0, 25°C	NADP+	1170	11742541	0.013
+pH 7.0, 25°C	NADPH	1170	11742541	0.029
+pH 7.0, 25°C	cinnamaldehyde	1170	11742541	0.043
+pH 7.0, 25°C	3-Methylbutanal	1170	11742541	0.048
+pH 7.0, 25°C	pentanal	1170	11742541	0.049
+pH 7.0, 25°C	veratraldehyde	1170	11742541	0.058
+pH 7.0, 25°C	pentanal	1170	11742541	0.06
+pH 10.0, 25°C	NADP+	1170	11742541	0.061
+pH 7.0, 25°C	veratraldehyde	1170	11742541	0.073
+pH 10.0, 25°C	cinnamyl alcohol	1170	11742541	0.08
+pH 7.0, 25°C	cinnamyl alcohol	1170	11742541	0.11
+pH 7.0, 25°C	3-Methylbutanal	1170	11742541	0.129
+pH 7.0, 25°C	Hexanal	1170	11742541	0.152
+coenzyme NADPH	pentanal	1170	9327572	0.16
+pH 7.0, 25°C	cinnamaldehyde	1170	11742541	0.172
+coenzyme NADPH	Hexanal	1170	9327572	0.18
+coenzyme NADPH	3-Methylbutanal	1170	9327572	0.21
+coenzyme NADPH	Heptanal	1170	9327572	0.27
+pH 7.0, 25°C	cinnamyl alcohol	1170	11742541	0.436
+pH 10.0, 25°C	cinnamyl alcohol	1170	11742541	0.7
+coenzyme NADH	Hexanal	1170	9327572	0.83
+pH 10.0, 25°C	1-Pentanol	1170	11742541	0.99
+coenzyme NADPH	Hexanol	1170	9327572	1.22
+pH 10.0, 25°C	3-methyl-1-butanol	1170	11742541	1.61
+coenzyme NADPH	trans-2-hexenol	1170	9327572	1.69
+coenzyme NADPH	2-methylbutanal	1170	9327572	1.85
+coenzyme NADH	3-Methylbutanal	1170	9327572	1.89
+pH 10.0, 25°C	Phenylethanol	1170	11742541	2.2
+coenzyme NADPH	Butanal	1170	9327572	2.76
+coenzyme NADH	pentanal	1170	9327572	3.01
+coenzyme NADH	Heptanal	1170	9327572	4.25
+pH 7.0, 25°C	3-methyl-1-butanol	1170	11742541	4.6
+pH 7.0, 25°C	Hexanol	1170	11742541	9.1
+coenzyme NADH	2-methylbutanal	1170	9327572	17.7
+coenzyme NADH	Butanal	1170	9327572	23.1
+coenzyme NADH	propanal	1170	9327572	27.0
+coenzyme NADPH	propanal	1170	9327572	38.9
+	acetaldehyde	1170	9327572	158.0
+pH 7.0, 25°C	NADPH	1171	11742541	0.011
+pH 10.0, 25°C	NADP+	1171	11742541	0.013
+pH 7.0, 25°C	NADPH	1171	11742541	0.029
+pH 7.0, 25°C	cinnamaldehyde	1171	11742541	0.043
+pH 7.0, 25°C	3-Methylbutanal	1171	11742541	0.048
+pH 7.0, 25°C	pentanal	1171	11742541	0.049
+pH 7.0, 25°C	veratraldehyde	1171	11742541	0.058
+pH 7.0, 25°C	pentanal	1171	11742541	0.06
+pH 10.0, 25°C	NADP+	1171	11742541	0.061
+pH 7.0, 25°C	veratraldehyde	1171	11742541	0.073
+pH 10.0, 25°C	cinnamyl alcohol	1171	11742541	0.08
+pH 7.0, 25°C	cinnamyl alcohol	1171	11742541	0.11
+pH 7.0, 25°C	3-Methylbutanal	1171	11742541	0.129
+pH 7.0, 25°C	Hexanal	1171	11742541	0.152
+coenzyme NADPH	pentanal	1171	9327572	0.16
+pH 7.0, 25°C	cinnamaldehyde	1171	11742541	0.172
+coenzyme NADPH	Hexanal	1171	9327572	0.18
+coenzyme NADPH	3-Methylbutanal	1171	9327572	0.21
+coenzyme NADPH	Heptanal	1171	9327572	0.27
+pH 7.0, 25°C	cinnamyl alcohol	1171	11742541	0.436
+pH 10.0, 25°C	cinnamyl alcohol	1171	11742541	0.7
+coenzyme NADH	Hexanal	1171	9327572	0.83
+pH 10.0, 25°C	1-Pentanol	1171	11742541	0.99
+coenzyme NADPH	Hexanol	1171	9327572	1.22
+pH 10.0, 25°C	3-methyl-1-butanol	1171	11742541	1.61
+coenzyme NADPH	trans-2-hexenol	1171	9327572	1.69
+coenzyme NADPH	2-methylbutanal	1171	9327572	1.85
+coenzyme NADH	3-Methylbutanal	1171	9327572	1.89
+pH 10.0, 25°C	Phenylethanol	1171	11742541	2.2
+coenzyme NADPH	Butanal	1171	9327572	2.76
+coenzyme NADH	pentanal	1171	9327572	3.01
+coenzyme NADH	Heptanal	1171	9327572	4.25
+pH 7.0, 25°C	3-methyl-1-butanol	1171	11742541	4.6
+pH 7.0, 25°C	Hexanol	1171	11742541	9.1
+coenzyme NADH	2-methylbutanal	1171	9327572	17.7
+coenzyme NADH	Butanal	1171	9327572	23.1
+coenzyme NADH	propanal	1171	9327572	27.0
+coenzyme NADPH	propanal	1171	9327572	38.9
+	acetaldehyde	1171	9327572	158.0
+substrate furfural, pH 7.2, 30°C	NADPH	1201	23912116	0.24
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1201	23912116	0.26
+substrate furfural, pH 7.2, 30°C	NADPH	1201	23912116	4.11
+substrate furfural, pH 7.2, 30°C	NADH	1201	23912116	20.55
+substrate furfural, pH 7.2, 30°C	NADH	1201	23912116	23.84
+substrate furfural, pH 7.2, 30°C	NADPH	1202	23912116	0.24
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1202	23912116	0.26
+substrate furfural, pH 7.2, 30°C	NADPH	1202	23912116	4.11
+substrate furfural, pH 7.2, 30°C	NADH	1202	23912116	20.55
+substrate furfural, pH 7.2, 30°C	NADH	1202	23912116	23.84
+pH 6.5, 30°C	2-Methoxybenzaldehyde	1237	12825698	4.8
+pH 6.5, 30°C	Hexanal	1237	12825698	5.5
+pH 6.5, 30°C	Salicylaldehyde	1237	12825698	6.9
+pH 6.5, 30°C	4-hydroxybenzaldehyde	1237	12825698	21.8
+pH 6.5, 30°C	4-methoxybenzaldehyde	1237	12825698	24.1
+pH 6.5, 30°C	trans-2-hexenal	1237	12825698	27.1
+pH 6.5, 30°C	2-Methoxybenzaldehyde	1238	12825698	4.8
+pH 6.5, 30°C	Hexanal	1238	12825698	5.5
+pH 6.5, 30°C	Salicylaldehyde	1238	12825698	6.9
+pH 6.5, 30°C	4-hydroxybenzaldehyde	1238	12825698	21.8
+pH 6.5, 30°C	4-methoxybenzaldehyde	1238	12825698	24.1
+pH 6.5, 30°C	trans-2-hexenal	1238	12825698	27.1
+pH 6.5, 30°C	2-Methoxybenzaldehyde	1239	12825698	4.8
+pH 6.5, 30°C	Hexanal	1239	12825698	5.5
+pH 6.5, 30°C	Salicylaldehyde	1239	12825698	6.9
+pH 6.5, 30°C	4-hydroxybenzaldehyde	1239	12825698	21.8
+pH 6.5, 30°C	4-methoxybenzaldehyde	1239	12825698	24.1
+pH 6.5, 30°C	trans-2-hexenal	1239	12825698	27.1
+pH 6.5, 30°C	2-Methoxybenzaldehyde	1240	12825698	4.8
+pH 6.5, 30°C	Hexanal	1240	12825698	5.5
+pH 6.5, 30°C	Salicylaldehyde	1240	12825698	6.9
+pH 6.5, 30°C	4-hydroxybenzaldehyde	1240	12825698	21.8
+pH 6.5, 30°C	4-methoxybenzaldehyde	1240	12825698	24.1
+pH 6.5, 30°C	trans-2-hexenal	1240	12825698	27.1
+pH 6.5, 30°C	2-Methoxybenzaldehyde	1241	12825698	4.8
+pH 6.5, 30°C	Hexanal	1241	12825698	5.5
+pH 6.5, 30°C	Salicylaldehyde	1241	12825698	6.9
+pH 6.5, 30°C	4-hydroxybenzaldehyde	1241	12825698	21.8
+pH 6.5, 30°C	4-methoxybenzaldehyde	1241	12825698	24.1
+pH 6.5, 30°C	trans-2-hexenal	1241	12825698	27.1
+	ethyl 4-bromo-3-oxobutanoate	1256	0	0.091
+	octyl 4-chloro-3-oxobutanoate	1256	0	0.1
+	ethyl 4-chloro-3-oxobutanoate	1256	0	0.36
+	o-nitrobenzaldehyde	1256	0	1.3
+	3-Pyridinecarboxaldehyde	1256	0	2.4
+	methylglyoxal	1256	0	3.0
+	m-nitrobenzaldehyde	1256	0	4.4
+	p-chlorobenzaldehyde	1256	0	6.7
+	diacetyl	1256	0	7.3
+	ethyl 4-bromo-3-oxobutanoate	1257	0	0.091
+	octyl 4-chloro-3-oxobutanoate	1257	0	0.1
+	ethyl 4-chloro-3-oxobutanoate	1257	0	0.36
+	o-nitrobenzaldehyde	1257	0	1.3
+	3-Pyridinecarboxaldehyde	1257	0	2.4
+	methylglyoxal	1257	0	3.0
+	m-nitrobenzaldehyde	1257	0	4.4
+	p-chlorobenzaldehyde	1257	0	6.7
+	diacetyl	1257	0	7.3
+	ethyl 4-bromo-3-oxobutanoate	1258	0	0.091
+	octyl 4-chloro-3-oxobutanoate	1258	0	0.1
+	ethyl 4-chloro-3-oxobutanoate	1258	0	0.36
+	o-nitrobenzaldehyde	1258	0	1.3
+	3-Pyridinecarboxaldehyde	1258	0	2.4
+	methylglyoxal	1258	0	3.0
+	m-nitrobenzaldehyde	1258	0	4.4
+	p-chlorobenzaldehyde	1258	0	6.7
+	diacetyl	1258	0	7.3
+	ethyl 4-bromo-3-oxobutanoate	1259	0	0.091
+	octyl 4-chloro-3-oxobutanoate	1259	0	0.1
+	ethyl 4-chloro-3-oxobutanoate	1259	0	0.36
+	o-nitrobenzaldehyde	1259	0	1.3
+	3-Pyridinecarboxaldehyde	1259	0	2.4
+	methylglyoxal	1259	0	3.0
+	m-nitrobenzaldehyde	1259	0	4.4
+	p-chlorobenzaldehyde	1259	0	6.7
+	diacetyl	1259	0	7.3
+	ethyl 4-bromo-3-oxobutanoate	1260	0	0.091
+	octyl 4-chloro-3-oxobutanoate	1260	0	0.1
+	ethyl 4-chloro-3-oxobutanoate	1260	0	0.36
+	o-nitrobenzaldehyde	1260	0	1.3
+	3-Pyridinecarboxaldehyde	1260	0	2.4
+	methylglyoxal	1260	0	3.0
+	m-nitrobenzaldehyde	1260	0	4.4
+	p-chlorobenzaldehyde	1260	0	6.7
+	diacetyl	1260	0	7.3
+low-Km reductase	p-hydroxyphenylglycolaldehyde	1293	4146452	7.0E-4
+low-Km reductase	NADPH	1293	4146452	0.0012
+low-Km reductase	p-nitrobenzaldehyde	1293	4146452	0.0013
+low-Km reductase	p-hydroxyphenylacetaldehyde	1293	4146452	0.0023
+low-Km reductase	hydroxyindol-3-ylacetaldehyde	1293	4146452	0.0038
+low-Km aldehyde reductase	p-nitrobenzaldehyde	1293	4146452	0.004
+	NADPH	1293	6989609	0.0056
+low-Km reductase	indol-3-ylacetaldehyde	1293	4146452	0.0059
+	NADPH	1293	6989609	0.008
+	p-Carboxybenzaldehyde	1293	6989609	0.05
+	p-Carboxybenzaldehyde	1293	4402936	0.078
+reductase I	daunorubicin	1293	6989609	0.08
+	4-Carboxyphenylglyoxal	1293	6989609	0.1
+reductase I	Succinic semialdehyde	1293	6989609	0.1
+high-Km aldehyde reductase	indol-3-ylacetaldehyde	1293	4146452	0.2
+high-Km aldehyde reductase	NADPH	1293	4146452	0.25
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1293	4146452	0.25
+	p-nitrobenzaldehyde	1293	6989609	0.27
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1293	4146452	0.29
+	(+)-Camphorquinone	1293	4402936	0.33
+	p-nitrobenzaldehyde	1293	4402936	0.35
+	p-cyanobenzaldehyde	1293	4402936	0.51
+	indolacetaldehyde	1293	6989609	0.6
+high-Km aldehyde reductase	p-hydroxyphenylglycolaldehyde	1293	4146452	0.65
+	4-Pyridinecarboxaldehyde	1293	4402936	0.69
+high-Km aldehyde reductase	p-hydroxyphenylacetaldehyde	1293	4146452	0.85
+	Phenylglyoxal	1293	6989609	1.2
+	3-Pyridinecarboxaldehyde	1293	6989609	1.5
+	D-glucuronate	1293	6989609	1.5
+	4-Carboxyacetophenone	1293	6989609	1.6
+	2-chloroheptanal	1293	6989609	2.0
+	3-Pyridinecarboxaldehyde	1293	4402936	2.6
+	D-glyceraldehyde	1293	6989609	4.5
+	3-Pyridinemethanol	1293	4402936	5.5
+	Heptanal	1293	6989609	10.0
+	p-nitroacetophenone	1293	6989609	10.0
+	butane 2,3-dione	1293	6989609	14.0
+	n-Butyraldehyde	1293	6989609	150.0
+	glycerol	1293	4402936	775.0
+	L-arabitol	1293	4402936	1360.0
+low-Km reductase	p-hydroxyphenylglycolaldehyde	1294	4146452	7.0E-4
+low-Km reductase	NADPH	1294	4146452	0.0012
+low-Km reductase	p-nitrobenzaldehyde	1294	4146452	0.0013
+low-Km reductase	p-hydroxyphenylacetaldehyde	1294	4146452	0.0023
+low-Km reductase	hydroxyindol-3-ylacetaldehyde	1294	4146452	0.0038
+low-Km aldehyde reductase	p-nitrobenzaldehyde	1294	4146452	0.004
+	NADPH	1294	6989609	0.0056
+low-Km reductase	indol-3-ylacetaldehyde	1294	4146452	0.0059
+	NADPH	1294	6989609	0.008
+	p-Carboxybenzaldehyde	1294	6989609	0.05
+	p-Carboxybenzaldehyde	1294	4402936	0.078
+reductase I	daunorubicin	1294	6989609	0.08
+	4-Carboxyphenylglyoxal	1294	6989609	0.1
+reductase I	Succinic semialdehyde	1294	6989609	0.1
+high-Km aldehyde reductase	indol-3-ylacetaldehyde	1294	4146452	0.2
+high-Km aldehyde reductase	NADPH	1294	4146452	0.25
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1294	4146452	0.25
+	p-nitrobenzaldehyde	1294	6989609	0.27
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1294	4146452	0.29
+	(+)-Camphorquinone	1294	4402936	0.33
+	p-nitrobenzaldehyde	1294	4402936	0.35
+	p-cyanobenzaldehyde	1294	4402936	0.51
+	indolacetaldehyde	1294	6989609	0.6
+high-Km aldehyde reductase	p-hydroxyphenylglycolaldehyde	1294	4146452	0.65
+	4-Pyridinecarboxaldehyde	1294	4402936	0.69
+high-Km aldehyde reductase	p-hydroxyphenylacetaldehyde	1294	4146452	0.85
+	Phenylglyoxal	1294	6989609	1.2
+	3-Pyridinecarboxaldehyde	1294	6989609	1.5
+	D-glucuronate	1294	6989609	1.5
+	4-Carboxyacetophenone	1294	6989609	1.6
+	2-chloroheptanal	1294	6989609	2.0
+	3-Pyridinecarboxaldehyde	1294	4402936	2.6
+	D-glyceraldehyde	1294	6989609	4.5
+	3-Pyridinemethanol	1294	4402936	5.5
+	Heptanal	1294	6989609	10.0
+	p-nitroacetophenone	1294	6989609	10.0
+	butane 2,3-dione	1294	6989609	14.0
+	n-Butyraldehyde	1294	6989609	150.0
+	glycerol	1294	4402936	775.0
+	L-arabitol	1294	4402936	1360.0
+low-Km reductase	p-hydroxyphenylglycolaldehyde	1295	4146452	7.0E-4
+low-Km reductase	NADPH	1295	4146452	0.0012
+low-Km reductase	p-nitrobenzaldehyde	1295	4146452	0.0013
+low-Km reductase	p-hydroxyphenylacetaldehyde	1295	4146452	0.0023
+low-Km reductase	hydroxyindol-3-ylacetaldehyde	1295	4146452	0.0038
+low-Km aldehyde reductase	p-nitrobenzaldehyde	1295	4146452	0.004
+	NADPH	1295	6989609	0.0056
+low-Km reductase	indol-3-ylacetaldehyde	1295	4146452	0.0059
+	NADPH	1295	6989609	0.008
+	p-Carboxybenzaldehyde	1295	6989609	0.05
+	p-Carboxybenzaldehyde	1295	4402936	0.078
+reductase I	daunorubicin	1295	6989609	0.08
+	4-Carboxyphenylglyoxal	1295	6989609	0.1
+reductase I	Succinic semialdehyde	1295	6989609	0.1
+high-Km aldehyde reductase	indol-3-ylacetaldehyde	1295	4146452	0.2
+high-Km aldehyde reductase	NADPH	1295	4146452	0.25
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1295	4146452	0.25
+	p-nitrobenzaldehyde	1295	6989609	0.27
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1295	4146452	0.29
+	(+)-Camphorquinone	1295	4402936	0.33
+	p-nitrobenzaldehyde	1295	4402936	0.35
+	p-cyanobenzaldehyde	1295	4402936	0.51
+	indolacetaldehyde	1295	6989609	0.6
+high-Km aldehyde reductase	p-hydroxyphenylglycolaldehyde	1295	4146452	0.65
+	4-Pyridinecarboxaldehyde	1295	4402936	0.69
+high-Km aldehyde reductase	p-hydroxyphenylacetaldehyde	1295	4146452	0.85
+	Phenylglyoxal	1295	6989609	1.2
+	3-Pyridinecarboxaldehyde	1295	6989609	1.5
+	D-glucuronate	1295	6989609	1.5
+	4-Carboxyacetophenone	1295	6989609	1.6
+	2-chloroheptanal	1295	6989609	2.0
+	3-Pyridinecarboxaldehyde	1295	4402936	2.6
+	D-glyceraldehyde	1295	6989609	4.5
+	3-Pyridinemethanol	1295	4402936	5.5
+	Heptanal	1295	6989609	10.0
+	p-nitroacetophenone	1295	6989609	10.0
+	butane 2,3-dione	1295	6989609	14.0
+	n-Butyraldehyde	1295	6989609	150.0
+	glycerol	1295	4402936	775.0
+	L-arabitol	1295	4402936	1360.0
+low-Km reductase	p-hydroxyphenylglycolaldehyde	1296	4146452	7.0E-4
+low-Km reductase	NADPH	1296	4146452	0.0012
+low-Km reductase	p-nitrobenzaldehyde	1296	4146452	0.0013
+low-Km reductase	p-hydroxyphenylacetaldehyde	1296	4146452	0.0023
+low-Km reductase	hydroxyindol-3-ylacetaldehyde	1296	4146452	0.0038
+low-Km aldehyde reductase	p-nitrobenzaldehyde	1296	4146452	0.004
+	NADPH	1296	6989609	0.0056
+low-Km reductase	indol-3-ylacetaldehyde	1296	4146452	0.0059
+	NADPH	1296	6989609	0.008
+	p-Carboxybenzaldehyde	1296	6989609	0.05
+	p-Carboxybenzaldehyde	1296	4402936	0.078
+reductase I	daunorubicin	1296	6989609	0.08
+	4-Carboxyphenylglyoxal	1296	6989609	0.1
+reductase I	Succinic semialdehyde	1296	6989609	0.1
+high-Km aldehyde reductase	indol-3-ylacetaldehyde	1296	4146452	0.2
+high-Km aldehyde reductase	NADPH	1296	4146452	0.25
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1296	4146452	0.25
+	p-nitrobenzaldehyde	1296	6989609	0.27
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1296	4146452	0.29
+	(+)-Camphorquinone	1296	4402936	0.33
+	p-nitrobenzaldehyde	1296	4402936	0.35
+	p-cyanobenzaldehyde	1296	4402936	0.51
+	indolacetaldehyde	1296	6989609	0.6
+high-Km aldehyde reductase	p-hydroxyphenylglycolaldehyde	1296	4146452	0.65
+	4-Pyridinecarboxaldehyde	1296	4402936	0.69
+high-Km aldehyde reductase	p-hydroxyphenylacetaldehyde	1296	4146452	0.85
+	Phenylglyoxal	1296	6989609	1.2
+	3-Pyridinecarboxaldehyde	1296	6989609	1.5
+	D-glucuronate	1296	6989609	1.5
+	4-Carboxyacetophenone	1296	6989609	1.6
+	2-chloroheptanal	1296	6989609	2.0
+	3-Pyridinecarboxaldehyde	1296	4402936	2.6
+	D-glyceraldehyde	1296	6989609	4.5
+	3-Pyridinemethanol	1296	4402936	5.5
+	Heptanal	1296	6989609	10.0
+	p-nitroacetophenone	1296	6989609	10.0
+	butane 2,3-dione	1296	6989609	14.0
+	n-Butyraldehyde	1296	6989609	150.0
+	glycerol	1296	4402936	775.0
+	L-arabitol	1296	4402936	1360.0
+low-Km reductase	p-hydroxyphenylglycolaldehyde	1297	4146452	7.0E-4
+low-Km reductase	NADPH	1297	4146452	0.0012
+low-Km reductase	p-nitrobenzaldehyde	1297	4146452	0.0013
+low-Km reductase	p-hydroxyphenylacetaldehyde	1297	4146452	0.0023
+low-Km reductase	hydroxyindol-3-ylacetaldehyde	1297	4146452	0.0038
+low-Km aldehyde reductase	p-nitrobenzaldehyde	1297	4146452	0.004
+	NADPH	1297	6989609	0.0056
+low-Km reductase	indol-3-ylacetaldehyde	1297	4146452	0.0059
+	NADPH	1297	6989609	0.008
+	p-Carboxybenzaldehyde	1297	6989609	0.05
+	p-Carboxybenzaldehyde	1297	4402936	0.078
+reductase I	daunorubicin	1297	6989609	0.08
+	4-Carboxyphenylglyoxal	1297	6989609	0.1
+reductase I	Succinic semialdehyde	1297	6989609	0.1
+high-Km aldehyde reductase	indol-3-ylacetaldehyde	1297	4146452	0.2
+high-Km aldehyde reductase	NADPH	1297	4146452	0.25
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1297	4146452	0.25
+	p-nitrobenzaldehyde	1297	6989609	0.27
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1297	4146452	0.29
+	(+)-Camphorquinone	1297	4402936	0.33
+	p-nitrobenzaldehyde	1297	4402936	0.35
+	p-cyanobenzaldehyde	1297	4402936	0.51
+	indolacetaldehyde	1297	6989609	0.6
+high-Km aldehyde reductase	p-hydroxyphenylglycolaldehyde	1297	4146452	0.65
+	4-Pyridinecarboxaldehyde	1297	4402936	0.69
+high-Km aldehyde reductase	p-hydroxyphenylacetaldehyde	1297	4146452	0.85
+	Phenylglyoxal	1297	6989609	1.2
+	3-Pyridinecarboxaldehyde	1297	6989609	1.5
+	D-glucuronate	1297	6989609	1.5
+	4-Carboxyacetophenone	1297	6989609	1.6
+	2-chloroheptanal	1297	6989609	2.0
+	3-Pyridinecarboxaldehyde	1297	4402936	2.6
+	D-glyceraldehyde	1297	6989609	4.5
+	3-Pyridinemethanol	1297	4402936	5.5
+	Heptanal	1297	6989609	10.0
+	p-nitroacetophenone	1297	6989609	10.0
+	butane 2,3-dione	1297	6989609	14.0
+	n-Butyraldehyde	1297	6989609	150.0
+	glycerol	1297	4402936	775.0
+	L-arabitol	1297	4402936	1360.0
+low-Km reductase	p-hydroxyphenylglycolaldehyde	1298	4146452	7.0E-4
+low-Km reductase	NADPH	1298	4146452	0.0012
+low-Km reductase	p-nitrobenzaldehyde	1298	4146452	0.0013
+low-Km reductase	p-hydroxyphenylacetaldehyde	1298	4146452	0.0023
+low-Km reductase	hydroxyindol-3-ylacetaldehyde	1298	4146452	0.0038
+low-Km aldehyde reductase	p-nitrobenzaldehyde	1298	4146452	0.004
+	NADPH	1298	6989609	0.0056
+low-Km reductase	indol-3-ylacetaldehyde	1298	4146452	0.0059
+	NADPH	1298	6989609	0.008
+	p-Carboxybenzaldehyde	1298	6989609	0.05
+	p-Carboxybenzaldehyde	1298	4402936	0.078
+reductase I	daunorubicin	1298	6989609	0.08
+	4-Carboxyphenylglyoxal	1298	6989609	0.1
+reductase I	Succinic semialdehyde	1298	6989609	0.1
+high-Km aldehyde reductase	indol-3-ylacetaldehyde	1298	4146452	0.2
+high-Km aldehyde reductase	NADPH	1298	4146452	0.25
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1298	4146452	0.25
+	p-nitrobenzaldehyde	1298	6989609	0.27
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1298	4146452	0.29
+	(+)-Camphorquinone	1298	4402936	0.33
+	p-nitrobenzaldehyde	1298	4402936	0.35
+	p-cyanobenzaldehyde	1298	4402936	0.51
+	indolacetaldehyde	1298	6989609	0.6
+high-Km aldehyde reductase	p-hydroxyphenylglycolaldehyde	1298	4146452	0.65
+	4-Pyridinecarboxaldehyde	1298	4402936	0.69
+high-Km aldehyde reductase	p-hydroxyphenylacetaldehyde	1298	4146452	0.85
+	Phenylglyoxal	1298	6989609	1.2
+	3-Pyridinecarboxaldehyde	1298	6989609	1.5
+	D-glucuronate	1298	6989609	1.5
+	4-Carboxyacetophenone	1298	6989609	1.6
+	2-chloroheptanal	1298	6989609	2.0
+	3-Pyridinecarboxaldehyde	1298	4402936	2.6
+	D-glyceraldehyde	1298	6989609	4.5
+	3-Pyridinemethanol	1298	4402936	5.5
+	Heptanal	1298	6989609	10.0
+	p-nitroacetophenone	1298	6989609	10.0
+	butane 2,3-dione	1298	6989609	14.0
+	n-Butyraldehyde	1298	6989609	150.0
+	glycerol	1298	4402936	775.0
+	L-arabitol	1298	4402936	1360.0
+low-Km reductase	p-hydroxyphenylglycolaldehyde	1299	4146452	7.0E-4
+low-Km reductase	NADPH	1299	4146452	0.0012
+low-Km reductase	p-nitrobenzaldehyde	1299	4146452	0.0013
+low-Km reductase	p-hydroxyphenylacetaldehyde	1299	4146452	0.0023
+low-Km reductase	hydroxyindol-3-ylacetaldehyde	1299	4146452	0.0038
+low-Km aldehyde reductase	p-nitrobenzaldehyde	1299	4146452	0.004
+	NADPH	1299	6989609	0.0056
+low-Km reductase	indol-3-ylacetaldehyde	1299	4146452	0.0059
+	NADPH	1299	6989609	0.008
+	p-Carboxybenzaldehyde	1299	6989609	0.05
+	p-Carboxybenzaldehyde	1299	4402936	0.078
+reductase I	daunorubicin	1299	6989609	0.08
+	4-Carboxyphenylglyoxal	1299	6989609	0.1
+reductase I	Succinic semialdehyde	1299	6989609	0.1
+high-Km aldehyde reductase	indol-3-ylacetaldehyde	1299	4146452	0.2
+high-Km aldehyde reductase	NADPH	1299	4146452	0.25
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1299	4146452	0.25
+	p-nitrobenzaldehyde	1299	6989609	0.27
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1299	4146452	0.29
+	(+)-Camphorquinone	1299	4402936	0.33
+	p-nitrobenzaldehyde	1299	4402936	0.35
+	p-cyanobenzaldehyde	1299	4402936	0.51
+	indolacetaldehyde	1299	6989609	0.6
+high-Km aldehyde reductase	p-hydroxyphenylglycolaldehyde	1299	4146452	0.65
+	4-Pyridinecarboxaldehyde	1299	4402936	0.69
+high-Km aldehyde reductase	p-hydroxyphenylacetaldehyde	1299	4146452	0.85
+	Phenylglyoxal	1299	6989609	1.2
+	3-Pyridinecarboxaldehyde	1299	6989609	1.5
+	D-glucuronate	1299	6989609	1.5
+	4-Carboxyacetophenone	1299	6989609	1.6
+	2-chloroheptanal	1299	6989609	2.0
+	3-Pyridinecarboxaldehyde	1299	4402936	2.6
+	D-glyceraldehyde	1299	6989609	4.5
+	3-Pyridinemethanol	1299	4402936	5.5
+	Heptanal	1299	6989609	10.0
+	p-nitroacetophenone	1299	6989609	10.0
+	butane 2,3-dione	1299	6989609	14.0
+	n-Butyraldehyde	1299	6989609	150.0
+	glycerol	1299	4402936	775.0
+	L-arabitol	1299	4402936	1360.0
+low-Km reductase	p-hydroxyphenylglycolaldehyde	1300	4146452	7.0E-4
+low-Km reductase	NADPH	1300	4146452	0.0012
+low-Km reductase	p-nitrobenzaldehyde	1300	4146452	0.0013
+low-Km reductase	p-hydroxyphenylacetaldehyde	1300	4146452	0.0023
+low-Km reductase	hydroxyindol-3-ylacetaldehyde	1300	4146452	0.0038
+low-Km aldehyde reductase	p-nitrobenzaldehyde	1300	4146452	0.004
+	NADPH	1300	6989609	0.0056
+low-Km reductase	indol-3-ylacetaldehyde	1300	4146452	0.0059
+	NADPH	1300	6989609	0.008
+	p-Carboxybenzaldehyde	1300	6989609	0.05
+	p-Carboxybenzaldehyde	1300	4402936	0.078
+reductase I	daunorubicin	1300	6989609	0.08
+	4-Carboxyphenylglyoxal	1300	6989609	0.1
+reductase I	Succinic semialdehyde	1300	6989609	0.1
+high-Km aldehyde reductase	indol-3-ylacetaldehyde	1300	4146452	0.2
+high-Km aldehyde reductase	NADPH	1300	4146452	0.25
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1300	4146452	0.25
+	p-nitrobenzaldehyde	1300	6989609	0.27
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1300	4146452	0.29
+	(+)-Camphorquinone	1300	4402936	0.33
+	p-nitrobenzaldehyde	1300	4402936	0.35
+	p-cyanobenzaldehyde	1300	4402936	0.51
+	indolacetaldehyde	1300	6989609	0.6
+high-Km aldehyde reductase	p-hydroxyphenylglycolaldehyde	1300	4146452	0.65
+	4-Pyridinecarboxaldehyde	1300	4402936	0.69
+high-Km aldehyde reductase	p-hydroxyphenylacetaldehyde	1300	4146452	0.85
+	Phenylglyoxal	1300	6989609	1.2
+	3-Pyridinecarboxaldehyde	1300	6989609	1.5
+	D-glucuronate	1300	6989609	1.5
+	4-Carboxyacetophenone	1300	6989609	1.6
+	2-chloroheptanal	1300	6989609	2.0
+	3-Pyridinecarboxaldehyde	1300	4402936	2.6
+	D-glyceraldehyde	1300	6989609	4.5
+	3-Pyridinemethanol	1300	4402936	5.5
+	Heptanal	1300	6989609	10.0
+	p-nitroacetophenone	1300	6989609	10.0
+	butane 2,3-dione	1300	6989609	14.0
+	n-Butyraldehyde	1300	6989609	150.0
+	glycerol	1300	4402936	775.0
+	L-arabitol	1300	4402936	1360.0
+; in 30 mM Tris-HCl (pH 8.0)	cinnamaldehyde	1308	19411329	0.017
+; in 30 mM Tris-HCl (pH 8.0)	NADPH	1308	19411329	0.025
+; in 30 mM Tris-HCl (pH 8.0)	NADP+	1308	19411329	0.05
+; in 30 mM Tris-HCl (pH 8.0)	pentanal	1308	19411329	0.075
+; in 30 mM Tris-HCl (pH 8.0)	Butanal	1308	19411329	0.11
+; in 30 mM Tris-HCl (pH 8.0)	cinnamyl alcohol	1308	19411329	0.27
+; in 30 mM Tris-HCl (pH 8.0)	acetaldehyde	1308	19411329	0.51
+; in 30 mM Tris-HCl (pH 8.0)	NADH	1308	19411329	1.31
+; in 30 mM Tris-HCl (pH 8.0)	Pentanol	1308	19411329	1.54
+; in 30 mM Tris-HCl (pH 8.0)	butanol	1308	19411329	3.28
+; in 30 mM Tris-HCl (pH 8.0)	NAD+	1308	19411329	9.7
+; in 30 mM Tris-HCl (pH 8.0)	ethanol	1308	19411329	18.8
+; in 30 mM Tris-HCl (pH 8.0)	cinnamaldehyde	1309	19411329	0.017
+; in 30 mM Tris-HCl (pH 8.0)	NADPH	1309	19411329	0.025
+; in 30 mM Tris-HCl (pH 8.0)	NADP+	1309	19411329	0.05
+; in 30 mM Tris-HCl (pH 8.0)	pentanal	1309	19411329	0.075
+; in 30 mM Tris-HCl (pH 8.0)	Butanal	1309	19411329	0.11
+; in 30 mM Tris-HCl (pH 8.0)	cinnamyl alcohol	1309	19411329	0.27
+; in 30 mM Tris-HCl (pH 8.0)	acetaldehyde	1309	19411329	0.51
+; in 30 mM Tris-HCl (pH 8.0)	NADH	1309	19411329	1.31
+; in 30 mM Tris-HCl (pH 8.0)	Pentanol	1309	19411329	1.54
+; in 30 mM Tris-HCl (pH 8.0)	butanol	1309	19411329	3.28
+; in 30 mM Tris-HCl (pH 8.0)	NAD+	1309	19411329	9.7
+; in 30 mM Tris-HCl (pH 8.0)	ethanol	1309	19411329	18.8
+; in 30 mM Tris-HCl (pH 8.0)	cinnamaldehyde	1310	19411329	0.017
+; in 30 mM Tris-HCl (pH 8.0)	NADPH	1310	19411329	0.025
+; in 30 mM Tris-HCl (pH 8.0)	NADP+	1310	19411329	0.05
+; in 30 mM Tris-HCl (pH 8.0)	pentanal	1310	19411329	0.075
+; in 30 mM Tris-HCl (pH 8.0)	Butanal	1310	19411329	0.11
+; in 30 mM Tris-HCl (pH 8.0)	cinnamyl alcohol	1310	19411329	0.27
+; in 30 mM Tris-HCl (pH 8.0)	acetaldehyde	1310	19411329	0.51
+; in 30 mM Tris-HCl (pH 8.0)	NADH	1310	19411329	1.31
+; in 30 mM Tris-HCl (pH 8.0)	Pentanol	1310	19411329	1.54
+; in 30 mM Tris-HCl (pH 8.0)	butanol	1310	19411329	3.28
+; in 30 mM Tris-HCl (pH 8.0)	NAD+	1310	19411329	9.7
+; in 30 mM Tris-HCl (pH 8.0)	ethanol	1310	19411329	18.8
+pH 7.8, 40°C	Butanone	1338	7030321	0.12
+pH 7.8, 40°C	butan-2-ol	1338	7030321	0.31
+pH 7.8, 40°C	acetone	1338	7030321	0.7
+r-TBADH, wild-type, mutant D150C-TBADH	2-butanol	1338	9041649	7.0
+mutant H59Q-TBADH	2-butanol	1338	9041649	7.17
+r-TBADH, wild-type	Cyclopentanol	1338	9041649	8.45
+mutant H59Q-TBADH	Cyclopentanol	1338	9041649	8.7
+mutant C37A-TBADH	2-butanol	1338	9041649	9.2
+mutant D150C-TBADH	Cyclopentanol	1338	9041649	16.71
+mutant C37S-TBADH	Cyclopentanol	1338	9041649	19.33
+pH 7.8, 40°C	Butanone	1339	7030321	0.12
+pH 7.8, 40°C	butan-2-ol	1339	7030321	0.31
+pH 7.8, 40°C	acetone	1339	7030321	0.7
+r-TBADH, wild-type, mutant D150C-TBADH	2-butanol	1339	9041649	7.0
+mutant H59Q-TBADH	2-butanol	1339	9041649	7.17
+r-TBADH, wild-type	Cyclopentanol	1339	9041649	8.45
+mutant H59Q-TBADH	Cyclopentanol	1339	9041649	8.7
+mutant C37A-TBADH	2-butanol	1339	9041649	9.2
+mutant D150C-TBADH	Cyclopentanol	1339	9041649	16.71
+mutant C37S-TBADH	Cyclopentanol	1339	9041649	19.33
+pH 7.8, 40°C	Butanone	1340	7030321	0.12
+pH 7.8, 40°C	butan-2-ol	1340	7030321	0.31
+pH 7.8, 40°C	acetone	1340	7030321	0.7
+r-TBADH, wild-type, mutant D150C-TBADH	2-butanol	1340	9041649	7.0
+mutant H59Q-TBADH	2-butanol	1340	9041649	7.17
+r-TBADH, wild-type	Cyclopentanol	1340	9041649	8.45
+mutant H59Q-TBADH	Cyclopentanol	1340	9041649	8.7
+mutant C37A-TBADH	2-butanol	1340	9041649	9.2
+mutant D150C-TBADH	Cyclopentanol	1340	9041649	16.71
+mutant C37S-TBADH	Cyclopentanol	1340	9041649	19.33
+pH 7.8, 40°C	Butanone	1341	7030321	0.12
+pH 7.8, 40°C	butan-2-ol	1341	7030321	0.31
+pH 7.8, 40°C	acetone	1341	7030321	0.7
+r-TBADH, wild-type, mutant D150C-TBADH	2-butanol	1341	9041649	7.0
+mutant H59Q-TBADH	2-butanol	1341	9041649	7.17
+r-TBADH, wild-type	Cyclopentanol	1341	9041649	8.45
+mutant H59Q-TBADH	Cyclopentanol	1341	9041649	8.7
+mutant C37A-TBADH	2-butanol	1341	9041649	9.2
+mutant D150C-TBADH	Cyclopentanol	1341	9041649	16.71
+mutant C37S-TBADH	Cyclopentanol	1341	9041649	19.33
+pH 7.8, 40°C	Butanone	1342	7030321	0.12
+pH 7.8, 40°C	butan-2-ol	1342	7030321	0.31
+pH 7.8, 40°C	acetone	1342	7030321	0.7
+r-TBADH, wild-type, mutant D150C-TBADH	2-butanol	1342	9041649	7.0
+mutant H59Q-TBADH	2-butanol	1342	9041649	7.17
+r-TBADH, wild-type	Cyclopentanol	1342	9041649	8.45
+mutant H59Q-TBADH	Cyclopentanol	1342	9041649	8.7
+mutant C37A-TBADH	2-butanol	1342	9041649	9.2
+mutant D150C-TBADH	Cyclopentanol	1342	9041649	16.71
+mutant C37S-TBADH	Cyclopentanol	1342	9041649	19.33
+pH 7.8, 40°C	Butanone	1343	7030321	0.12
+pH 7.8, 40°C	butan-2-ol	1343	7030321	0.31
+pH 7.8, 40°C	acetone	1343	7030321	0.7
+r-TBADH, wild-type, mutant D150C-TBADH	2-butanol	1343	9041649	7.0
+mutant H59Q-TBADH	2-butanol	1343	9041649	7.17
+r-TBADH, wild-type	Cyclopentanol	1343	9041649	8.45
+mutant H59Q-TBADH	Cyclopentanol	1343	9041649	8.7
+mutant C37A-TBADH	2-butanol	1343	9041649	9.2
+mutant D150C-TBADH	Cyclopentanol	1343	9041649	16.71
+mutant C37S-TBADH	Cyclopentanol	1343	9041649	19.33
+1° Adh, ethanol as substrate	NADP+	1344	8068002	0.02
+secondary alcohol dehydrogenase	NADP+	1344	0	0.022
+1° Adh, acetaldehyde as substrate	NADH	1344	8068002	0.025
+2° Adh, propanone as substrate	NADPH	1344	8068002	0.033
+2° Adh, butan-2-ol as substrate	NADP+	1344	8068002	0.049
+2° Adh, acetaldehyde as substrate	NADPH	1344	8068002	0.055
+2° Adh, ethanol as substrate	NADP+	1344	8068002	0.07
+1°Adh, acetaldehyde as substrate	NADPH	1344	8068002	0.094
+1° Adh, ethanol as substrate	NAD+	1344	8068002	0.096
+primary alcohol dehydrogenase	NADP+	1344	0	0.15
+2° Adh	propanone	1344	8068002	0.16
+2° Adh	Butanone	1344	8068002	0.24
+1° Adh	acetaldehyde	1344	8068002	0.25
+secondary alcohol dehydrogenase	NADP+	1344	0	0.35
+secondary alcohol dehydrogenase	NADPH	1344	0	0.36
+1° Adh	Butanal	1344	8068002	0.44
+2° Adh	acetylCoA	1344	8068002	0.5
+2° Adh	butan-2-ol	1344	8068002	0.51
+2° Adh	propan-2-ol	1344	8068002	0.56
+primary alcohol dehydrogenase	NADP+	1344	0	0.83
+primary alcohol dehydrogenase	NADPH	1344	0	1.5
+1° Adh	formaldehyde	1344	8068002	1.6
+2° Adh	acetaldehyde	1344	8068002	2.1
+2° Adh	Butanal	1344	8068002	2.9
+2° Adh	butan-1-ol	1344	8068002	10.0
+primary alcohol dehydrogenase	ethanol	1344	0	16.4
+secondary alcohol dehydrogenase	propan-2-ol	1344	0	16.4
+2° Adh	n-Propanol	1344	8068002	19.0
+1° Adh	n-Propanol	1344	8068002	23.0
+1° Adh	ethanol	1344	8068002	25.0
+1° Adh	n-butanol	1344	8068002	34.0
+secondary alcohol dehydrogenase	acetaldehyde	1344	0	44.8
+primary alcohol dehydrogenase	n-butanol	1344	0	47.1
+secondary alcohol dehydrogenase	ethanol	1344	0	49.0
+2° Adh	ethanol	1344	8068002	66.0
+primary alcohol dehydrogenase	acetaldehyde	1344	0	210.0
+1° Adh, ethanol as substrate	NADP+	1345	8068002	0.02
+secondary alcohol dehydrogenase	NADP+	1345	0	0.022
+1° Adh, acetaldehyde as substrate	NADH	1345	8068002	0.025
+2° Adh, propanone as substrate	NADPH	1345	8068002	0.033
+2° Adh, butan-2-ol as substrate	NADP+	1345	8068002	0.049
+2° Adh, acetaldehyde as substrate	NADPH	1345	8068002	0.055
+2° Adh, ethanol as substrate	NADP+	1345	8068002	0.07
+1°Adh, acetaldehyde as substrate	NADPH	1345	8068002	0.094
+1° Adh, ethanol as substrate	NAD+	1345	8068002	0.096
+primary alcohol dehydrogenase	NADP+	1345	0	0.15
+2° Adh	propanone	1345	8068002	0.16
+2° Adh	Butanone	1345	8068002	0.24
+1° Adh	acetaldehyde	1345	8068002	0.25
+secondary alcohol dehydrogenase	NADP+	1345	0	0.35
+secondary alcohol dehydrogenase	NADPH	1345	0	0.36
+1° Adh	Butanal	1345	8068002	0.44
+2° Adh	acetylCoA	1345	8068002	0.5
+2° Adh	butan-2-ol	1345	8068002	0.51
+2° Adh	propan-2-ol	1345	8068002	0.56
+primary alcohol dehydrogenase	NADP+	1345	0	0.83
+primary alcohol dehydrogenase	NADPH	1345	0	1.5
+1° Adh	formaldehyde	1345	8068002	1.6
+2° Adh	acetaldehyde	1345	8068002	2.1
+2° Adh	Butanal	1345	8068002	2.9
+2° Adh	butan-1-ol	1345	8068002	10.0
+primary alcohol dehydrogenase	ethanol	1345	0	16.4
+secondary alcohol dehydrogenase	propan-2-ol	1345	0	16.4
+2° Adh	n-Propanol	1345	8068002	19.0
+1° Adh	n-Propanol	1345	8068002	23.0
+1° Adh	ethanol	1345	8068002	25.0
+1° Adh	n-butanol	1345	8068002	34.0
+secondary alcohol dehydrogenase	acetaldehyde	1345	0	44.8
+primary alcohol dehydrogenase	n-butanol	1345	0	47.1
+secondary alcohol dehydrogenase	ethanol	1345	0	49.0
+2° Adh	ethanol	1345	8068002	66.0
+primary alcohol dehydrogenase	acetaldehyde	1345	0	210.0
+1° Adh, ethanol as substrate	NADP+	1346	8068002	0.02
+secondary alcohol dehydrogenase	NADP+	1346	0	0.022
+1° Adh, acetaldehyde as substrate	NADH	1346	8068002	0.025
+2° Adh, propanone as substrate	NADPH	1346	8068002	0.033
+2° Adh, butan-2-ol as substrate	NADP+	1346	8068002	0.049
+2° Adh, acetaldehyde as substrate	NADPH	1346	8068002	0.055
+2° Adh, ethanol as substrate	NADP+	1346	8068002	0.07
+1°Adh, acetaldehyde as substrate	NADPH	1346	8068002	0.094
+1° Adh, ethanol as substrate	NAD+	1346	8068002	0.096
+primary alcohol dehydrogenase	NADP+	1346	0	0.15
+2° Adh	propanone	1346	8068002	0.16
+2° Adh	Butanone	1346	8068002	0.24
+1° Adh	acetaldehyde	1346	8068002	0.25
+secondary alcohol dehydrogenase	NADP+	1346	0	0.35
+secondary alcohol dehydrogenase	NADPH	1346	0	0.36
+1° Adh	Butanal	1346	8068002	0.44
+2° Adh	acetylCoA	1346	8068002	0.5
+2° Adh	butan-2-ol	1346	8068002	0.51
+2° Adh	propan-2-ol	1346	8068002	0.56
+primary alcohol dehydrogenase	NADP+	1346	0	0.83
+primary alcohol dehydrogenase	NADPH	1346	0	1.5
+1° Adh	formaldehyde	1346	8068002	1.6
+2° Adh	acetaldehyde	1346	8068002	2.1
+2° Adh	Butanal	1346	8068002	2.9
+2° Adh	butan-1-ol	1346	8068002	10.0
+primary alcohol dehydrogenase	ethanol	1346	0	16.4
+secondary alcohol dehydrogenase	propan-2-ol	1346	0	16.4
+2° Adh	n-Propanol	1346	8068002	19.0
+1° Adh	n-Propanol	1346	8068002	23.0
+1° Adh	ethanol	1346	8068002	25.0
+1° Adh	n-butanol	1346	8068002	34.0
+secondary alcohol dehydrogenase	acetaldehyde	1346	0	44.8
+primary alcohol dehydrogenase	n-butanol	1346	0	47.1
+secondary alcohol dehydrogenase	ethanol	1346	0	49.0
+2° Adh	ethanol	1346	8068002	66.0
+primary alcohol dehydrogenase	acetaldehyde	1346	0	210.0
+	NADPH	1349	16132858	0.004
+	NADP+	1349	16132858	0.007
+	acetophenone	1349	16132858	0.034
+	(S)-1-phenylethanol	1349	16132858	0.112
+	2-propanol	1349	16132858	0.408
+	acetone	1349	16132858	1.091
+	NADPH	1350	16132858	0.004
+	NADP+	1350	16132858	0.007
+	acetophenone	1350	16132858	0.034
+	(S)-1-phenylethanol	1350	16132858	0.112
+	2-propanol	1350	16132858	0.408
+	acetone	1350	16132858	1.091
+co-substrate NADP	benzaldehyde	1355	10491136	0.01
+benzaldehyde as substrate	NADPH	1355	10491136	0.13
+benzyl aclohol as substrate	NADP+	1355	10491136	0.8
+co-substrate NADP	benzyl alcohol	1355	10491136	2.0
+	NADP+	1357	8135516	0.033
+	NADPH	1357	8135516	0.1
+	acetaldehyde	1357	8135516	0.4
+	ethanol	1357	8135516	11.1
+	NADP+	1358	8135516	0.033
+	NADPH	1358	8135516	0.1
+	acetaldehyde	1358	8135516	0.4
+	ethanol	1358	8135516	11.1
+pH 8.0, 80°C	NADPH	1359	7642502	0.014
+pH 8.0, 80°C	2-phenylacetaldehyde	1359	7642502	0.05
+pH 8.0, 80°C	acetaldehyde	1359	7642502	0.25
+pH 8.0, 80°C	NADP+	1359	7642502	6.3
+pH 8.0, 80°C	ethanol	1359	7642502	8.0
+pH 8.0, 80°C	2-phenylethanol	1359	7642502	15.0
+pH 7.5, 60°C	NADPH	1361	20418438	0.02
+pH 10.5, 60°C	NADP+	1361	20418438	0.022
+pH 7.5, 60°C	Pyruvaldehyde	1361	20418438	17.75
+pH 10.5, 60°C	D-xylose	1361	20418438	54.4
+pH 10.5, 60°C	2-propanol	1361	20418438	168.0
+pH 7.5, 60°C	NADPH	1362	20418438	0.02
+pH 10.5, 60°C	NADP+	1362	20418438	0.022
+pH 7.5, 60°C	Pyruvaldehyde	1362	20418438	17.75
+pH 10.5, 60°C	D-xylose	1362	20418438	54.4
+pH 10.5, 60°C	2-propanol	1362	20418438	168.0
+pH 7.5, 60°C	NADPH	1363	20418438	0.02
+pH 10.5, 60°C	NADP+	1363	20418438	0.022
+pH 7.5, 60°C	Pyruvaldehyde	1363	20418438	17.75
+pH 10.5, 60°C	D-xylose	1363	20418438	54.4
+pH 10.5, 60°C	2-propanol	1363	20418438	168.0
+recombinant enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADPH	1364	19115036	0.006
+native enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADPH	1364	19115036	0.007
+	NADP+	1364	9209068	0.08
+	acetaldehyde	1364	9209068	0.12-0.13
+recombinant enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	acetaldehyde	1364	19115036	0.84
+native enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	acetaldehyde	1364	19115036	1.0
+	butanol	1364	9209068	1.4
+	NAD+	1364	9209068	1.5
+recombinant enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	ethanol	1364	19115036	9.7
+recombinant enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADP+	1364	19115036	9.7
+	ethanol	1364	9209068	10.0
+native enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	ethanol	1364	19115036	10.4
+native enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADP+	1364	19115036	10.4
+	n-Propanol	1364	9209068	12.0
+n-propanol as substrate	NADPH	1408	2663637	0.004
+benzaldehyde as substrate	NADPH	1408	2663637	0.005
+propionaldehyde as substrate	NADPH	1408	2663637	0.014
+benzyl alcohol as substrate	NADPH	1408	2663637	0.021
+	propionaldehyde	1408	2663637	0.22
+	benzaldehyde	1408	2663637	0.58
+	p-nitrobenzaldehyde	1408	2663637	0.8
+	benzyl alcohol	1408	2663637	1.43
+	n-Propanol	1408	2663637	100.0
+n-propanol as substrate	NADPH	1409	2663637	0.004
+benzaldehyde as substrate	NADPH	1409	2663637	0.005
+propionaldehyde as substrate	NADPH	1409	2663637	0.014
+benzyl alcohol as substrate	NADPH	1409	2663637	0.021
+	propionaldehyde	1409	2663637	0.22
+	benzaldehyde	1409	2663637	0.58
+	p-nitrobenzaldehyde	1409	2663637	0.8
+	benzyl alcohol	1409	2663637	1.43
+	n-Propanol	1409	2663637	100.0
+n-propanol as substrate	NADPH	1410	2663637	0.004
+benzaldehyde as substrate	NADPH	1410	2663637	0.005
+propionaldehyde as substrate	NADPH	1410	2663637	0.014
+benzyl alcohol as substrate	NADPH	1410	2663637	0.021
+	propionaldehyde	1410	2663637	0.22
+	benzaldehyde	1410	2663637	0.58
+	p-nitrobenzaldehyde	1410	2663637	0.8
+	benzyl alcohol	1410	2663637	1.43
+	n-Propanol	1410	2663637	100.0
+n-propanol as substrate	NADPH	1411	2663637	0.004
+benzaldehyde as substrate	NADPH	1411	2663637	0.005
+propionaldehyde as substrate	NADPH	1411	2663637	0.014
+benzyl alcohol as substrate	NADPH	1411	2663637	0.021
+	propionaldehyde	1411	2663637	0.22
+	benzaldehyde	1411	2663637	0.58
+	p-nitrobenzaldehyde	1411	2663637	0.8
+	benzyl alcohol	1411	2663637	1.43
+	n-Propanol	1411	2663637	100.0
+n-propanol as substrate	NADPH	1412	2663637	0.004
+benzaldehyde as substrate	NADPH	1412	2663637	0.005
+propionaldehyde as substrate	NADPH	1412	2663637	0.014
+benzyl alcohol as substrate	NADPH	1412	2663637	0.021
+	propionaldehyde	1412	2663637	0.22
+	benzaldehyde	1412	2663637	0.58
+	p-nitrobenzaldehyde	1412	2663637	0.8
+	benzyl alcohol	1412	2663637	1.43
+	n-Propanol	1412	2663637	100.0
+	m-nitrobenzaldehyde	1435	9952458	0.0029
+	decanal	1435	9952458	0.0033
+	4-pyridine carboxaldehyde	1435	9952458	0.0045
+	4-nitrobenzaldehyde	1435	9952458	0.0053
+	3-Fluorobenzaldehyde	1435	9952458	0.0054
+eutypine	(4-hydroxy-3-[3-methyl-3-butene-1-ynyl]benzaldehyde)	1435	9952458	0.0063
+	1-hexanal	1435	9952458	0.015
+	m-methylbenzaldehyde	1435	9952458	0.02
+	benzaldehyde	1435	9952458	0.033
+	p-fluorobenzaldehyde	1435	9952458	0.04
+	p-methylbenzaldehyde	1435	9952458	0.041
+	2-Methoxybenzaldehyde	1435	9952458	0.049
+	coniferylaldehyde	1435	9952458	0.06
+	Salicylaldehyde	1435	9952458	0.066
+	propionaldehyde	1435	9952458	0.087
+	cinnamaldehyde	1435	9952458	0.099
+	o-methylbenzaldehyde	1435	9952458	0.125
+	sinapylaldehyde	1435	9952458	0.126
+	p-Methoxybenzaldehyde	1435	9952458	0.15
+	furaldehyde	1435	9952458	0.207
+	m-methoxybenzaldehyde	1435	9952458	0.212
+	o-nitrobenzaldehyde	1435	9952458	0.376
+	o-fluorobenzaldehyde	1435	9952458	0.702
+	m-nitrobenzaldehyde	1436	9952458	0.0029
+	decanal	1436	9952458	0.0033
+	4-pyridine carboxaldehyde	1436	9952458	0.0045
+	4-nitrobenzaldehyde	1436	9952458	0.0053
+	3-Fluorobenzaldehyde	1436	9952458	0.0054
+eutypine	(4-hydroxy-3-[3-methyl-3-butene-1-ynyl]benzaldehyde)	1436	9952458	0.0063
+	1-hexanal	1436	9952458	0.015
+	m-methylbenzaldehyde	1436	9952458	0.02
+	benzaldehyde	1436	9952458	0.033
+	p-fluorobenzaldehyde	1436	9952458	0.04
+	p-methylbenzaldehyde	1436	9952458	0.041
+	2-Methoxybenzaldehyde	1436	9952458	0.049
+	coniferylaldehyde	1436	9952458	0.06
+	Salicylaldehyde	1436	9952458	0.066
+	propionaldehyde	1436	9952458	0.087
+	cinnamaldehyde	1436	9952458	0.099
+	o-methylbenzaldehyde	1436	9952458	0.125
+	sinapylaldehyde	1436	9952458	0.126
+	p-Methoxybenzaldehyde	1436	9952458	0.15
+	furaldehyde	1436	9952458	0.207
+	m-methoxybenzaldehyde	1436	9952458	0.212
+	o-nitrobenzaldehyde	1436	9952458	0.376
+	o-fluorobenzaldehyde	1436	9952458	0.702
+pH 7.0. 30°C	3-methyl-1,5-pentanediol	1473	26923741	10.27
+pH 7.0. 30°C	1,5-pentanediol	1473	26923741	23.38
+pH 7.0. 30°C	NADP+	1473	26923741	26.88
+pH 7.0. 30°C	butan-1-ol	1473	26923741	43.75
+substrate furfural, pH 7.2, 30°C	NADPH	1477	23912116	0.24
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1477	23912116	0.26
+substrate furfural, pH 7.2, 30°C	NADPH	1477	23912116	4.11
+substrate furfural, pH 7.2, 30°C	NADH	1477	23912116	20.55
+substrate furfural, pH 7.2, 30°C	NADH	1477	23912116	23.84
+substrate furfural, pH 7.2, 30°C	NADPH	1479	23912116	0.24
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1479	23912116	0.26
+substrate furfural, pH 7.2, 30°C	NADPH	1479	23912116	4.11
+substrate furfural, pH 7.2, 30°C	NADH	1479	23912116	20.55
+substrate furfural, pH 7.2, 30°C	NADH	1479	23912116	23.84
+	NADPH	1481	16132858	0.004
+	NADP+	1481	16132858	0.007
+	acetophenone	1481	16132858	0.034
+	(S)-1-phenylethanol	1481	16132858	0.112
+	2-propanol	1481	16132858	0.408
+	acetone	1481	16132858	1.091
+recombinant enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADPH	1484	19115036	0.006
+native enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADPH	1484	19115036	0.007
+	NADP+	1484	9209068	0.08
+	acetaldehyde	1484	9209068	0.12-0.13
+recombinant enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	acetaldehyde	1484	19115036	0.84
+native enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	acetaldehyde	1484	19115036	1.0
+	butanol	1484	9209068	1.4
+	NAD+	1484	9209068	1.5
+recombinant enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	ethanol	1484	19115036	9.7
+recombinant enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADP+	1484	19115036	9.7
+	ethanol	1484	9209068	10.0
+native enzyme, with 0.4 mM NADP+ as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	ethanol	1484	19115036	10.4
+native enzyme, with 90 mM ethanol as cosubstrate, in 100 mM EPPS buffer (pH 8.8)	NADP+	1484	19115036	10.4
+	n-Propanol	1484	9209068	12.0
+pH 7.5, 60°C	NADPH	1486	20418438	0.02
+pH 10.5, 60°C	NADP+	1486	20418438	0.022
+pH 7.5, 60°C	Pyruvaldehyde	1486	20418438	17.75
+pH 10.5, 60°C	D-xylose	1486	20418438	54.4
+pH 10.5, 60°C	2-propanol	1486	20418438	168.0
+cosubstrate: 2-butanone, pH 7.5, 80°C	NADPH	1491	21515780	0.011
+cosubstrate: NADPH, pH 7.5, 80°C	diacetyl	1491	21515780	0.21
+cosubstrate: NADPH, pH 7.5, 80°C	2-butanone	1491	21515780	0.31
+cosubstrate: NADPH, pH 7.5, 80°C	acetoin	1491	21515780	0.32
+cosubstrate: NADP+, pH 7.5, 80°C	2-butanol	1491	21515780	0.38
+cosubstrate: 2-butanol, pH 7.5, 80°C	NADP+	1491	21515780	0.4
+cosubstrate: NADP+, pH 7.5, 80°C	(2R,3R)-2,3-butanediol	1491	21515780	15.2
+cosubstrate: NADP+, pH 7.5, 80°C	meso-2,3-butanediol	1491	21515780	19.3
+cosubstrate: NADP+, pH 7.5, 80°C	(2S,3S)-2,3-butanediol	1491	21515780	246.0
+80°C, pH not specified in the publication	NADP+	1492	9973342	0.071
+80°C, pH not specified in the publication	NADPH	1492	9973342	0.071
+pH 10.0, 70°C	NADP+	1492	11358525	0.08
+pH 7.0, 70°C	NADPH	1492	11358525	0.08
+80°C, pH not specified in the publication	phenylacetaldehyde	1492	9973342	0.091
+mutant enzyme R11L/A180V, at 70°C	NADPH	1492	18452026	0.1
+80°C, pH not specified in the publication	acetaldehyde	1492	9973342	0.17
+80°C, pH not specified in the publication	methylglyoxal	1492	9973342	0.2
+wild type enzyme, at 70°C	NADP+	1492	18452026	0.2
+wild type enzyme, at 70°C	NADPH	1492	18452026	0.4
+mutant enzyme R11L/A180V, at 70°C	NADP+	1492	18452026	0.7
+wild type enzyme, at 70°C	Pyruvaldehyde	1492	18452026	1.2
+pH 7.0, 70°C	Pyruvaldehyde	1492	11358525	3.3
+mutant enzyme R11L/A180V, at 70°C	Pyruvaldehyde	1492	18452026	4.2
+wild type enzyme, at 70°C	(2S,5S)-hexanediol	1492	18452026	5.4
+80°C, pH not specified in the publication	NAD+	1492	9973342	20.0
+80°C, pH not specified in the publication	ethanol	1492	9973342	29.4
+wild type enzyme, at 70°C	2-Pentanol	1492	18452026	30.3
+mutant enzyme R11L/A180V, at 70°C	2-Pentanol	1492	18452026	51.1
+wild type enzyme, at 70°C	2,5-hexanedione	1492	18452026	56.4
+pH 10.0, 70°C	2-Pentanol	1492	11358525	60.8
+mutant enzyme R11L/A180V, at 70°C	2,5-hexanedione	1492	18452026	79.0
+mutant enzyme R11L/A180V, at 70°C	(2S,5S)-hexanediol	1492	18452026	327.6
+low-Km reductase	p-nitrobenzaldehyde	1493	45199	0.0026
+	NADPH	1493	6798966	0.003-0.005
+	n-octadecanal	1493	6416297	0.004
+	NADPH	1493	2500152	0.006
+	n-hexadecanal	1493	6416297	0.008
+	n-tetradecanal	1493	6416297	0.014
+enzyme from brain	n-dodecanal	1493	6416297	0.019
+enzyme from liver and kidney	n-dodecanal	1493	6416297	0.02
+	hexadecanal	1493	3084464	0.03
+	p-Carboxybenzaldehyde	1493	7448191	0.031
+high-Km reductase	p-nitrobenzaldehyde	1493	45199	0.041
+	p-hydroxyphenylglycolaldehyde	1493	7448191	0.059
+	n-decanal	1493	6416297	0.07
+	p-nitrobenzaldehyde	1493	6798966	0.08
+	p-nitrobenzaldehyde	1493	9693960	0.12
+	Succinic semialdehyde	1493	6798966	0.13
+enzyme from kidney, brain or liver	p-nitrobenzaldehyde	1493	6416297	0.2
+	octanal	1493	3084464	0.21
+	p-nitrobenzaldehyde	1493	7448191	0.23
+	pyridine 3-aldehyde	1493	7448191	0.26
+	p-nitrobenzaldehyde	1493	3084464	0.31
+	n-octanal	1493	6416297	0.77
+	p-hydroxyphenylacetaldehyde	1493	7448191	0.91
+enzyme from kidney, brain or liver	4-Pyridinecarboxaldehyde	1493	6416297	1.2
+	DL-glyceraldehyde	1493	7448191	1.3
+	p-nitroacetophenone	1493	3084464	1.4
+	DL-glyceraldehyde	1493	6798966	1.5
+	D-glucuronate	1493	7448191	2.2
+	Benzalacetone	1493	3084464	2.5
+	propionaldehyde	1493	6416297	3.3
+	acetaldehyde	1493	6416297	3.8
+	benzaldehyde	1493	7448191	4.5
+	D-glucuronate	1493	6798966	4.5
+	D-glucuronate	1493	2500152	6.42
+	DL-glyceraldehyde	1493	2500152	8.35
+liver enzyme	Succinic semialdehyde	1493	6798966	10.9
+enzyme from brain or liver	ethyl acetoacetate	1493	6416297	24.0
+enzyme from kidney	ethyl acetoacetate	1493	6416297	25.0
+	Chloral hydrate	1493	7448191	29.0
+enzyme from brain	D-glucuronate	1493	6416297	42.0
+enzyme from kidney, or liver	D-glucuronate	1493	6416297	43.0
+	D-xylose	1493	7448191	670.0
+	D-xylose	1493	2500152	2080.0
+aldehyde reductase I	propionaldehyde	1497	6753936	0.008
+aldehyde reductase II	NADPH	1497	6753936	0.013
+aldehyde reductase II	NADPH	1497	3922304	0.019
+AR I	3-Pyridinecarboxaldehyde	1497	3890957	0.02
+AR II	NADPH	1497	3890957	0.02
+aldehyde reductase I	NADPH	1497	6753936	0.022
+aldehyde reductase I	benzaldehyde	1497	6753936	0.023
+	p-Carboxybenzaldehyde	1497	16919	0.025
+aldehyde reductase I	p-nitrobenzaldehyde	1497	6753936	0.029
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	1497	7669785	0.038
+wild-type aldehyde reductase	p-Carboxybenzaldehyde	1497	8916913	0.038
+AR I	NADPH	1497	3890957	0.05
+AR I	glyceraldehyde	1497	3890957	0.07
+aldehyde reductase I	Butyraldehyde	1497	6753936	0.083
+aldehyde reductase, mutant V299C	p-Carboxybenzaldehyde	1497	7669785	0.1
+aldehyde reductase, mutant R308A	p-Carboxybenzaldehyde	1497	8916913	0.11
+	p-nitrobenzaldehyde	1497	16919	0.15
+wild-type aldehyde reductase	p-nitrobenzaldehyde	1497	7669785	0.16
+wild-type aldehyde reductase	p-nitrobenzaldehyde	1497	8916913	0.16
+aldehyde reductase II	p-nitrobenzaldehyde	1497	6753936	0.169
+wild-type aldehyde reductase	Succinic semialdehyde	1497	7669785	0.17
+wild-type aldehyde reductase	Succinic semialdehyde	1497	8916913	0.17
+aldehyde reductase, mutant R308A	Succinic semialdehyde	1497	8916913	0.2
+AR I	propionaldehyde	1497	3890957	0.21
+aldehyde reductase, mutant R308A	p-nitrobenzaldehyde	1497	8916913	0.25
+aldehyde reductase II	3-Pyridinecarboxaldehyde	1497	3922304	0.29
+aldehyde reductase, mutant I298A	p-Carboxybenzaldehyde	1497	7669785	0.38
+aldehyde reductase, mutant V299C	p-nitrobenzaldehyde	1497	7669785	0.38
+mutant R311A	p-nitrobenzaldehyde	1497	8916913	0.38
+aldehyde reductase, mutant V299C	Succinic semialdehyde	1497	7669785	0.41
+aldehyde reductase, mutant I298C	p-Carboxybenzaldehyde	1497	7669785	0.43
+aldehyde reductase II	3-Pyridinecarboxaldehyde	1497	6753936	0.606
+	p-chlorobenzaldehyde	1497	16919	0.94
+aldehyde reductase I	3-Pyridinecarboxaldehyde	1497	6753936	1.18
+aldehyde reductase, mutant I298C	p-nitrobenzaldehyde	1497	7669785	1.2
+	Butyraldehyde	1497	16919	1.3
+	methylglyoxal	1497	16919	1.3
+	Camphorquinone	1497	16919	1.4
+	DL-glyceraldehyde	1497	16919	1.5
+aldehyde reductase, mutant I298C	Succinic semialdehyde	1497	7669785	1.5
+wild-type aldehyde reductase	DL-glyceraldehyde	1497	7669785	1.7
+wild-type aldehyde reductase	DL-glyceraldehyde	1497	8916913	1.7
+aldehyde reductase, mutant V299C	DL-glyceraldehyde	1497	7669785	1.8
+aldehyde reductase, mutant R311A	DL-glyceraldehyde	1497	8916913	2.2
+aldehyde reductase, mutant R308A	DL-glyceraldehyde	1497	8916913	2.3
+	m-nitrobenzaldehyde	1497	16919	2.4
+aldehyde reductase II	glucuronate	1497	3922304	2.5
+AR II	glucuronate	1497	3890957	2.53
+AR II	propionaldehyde	1497	3890957	2.63
+aldehyde reductase, mutant H112Q	p-Carboxybenzaldehyde	1497	7669785	2.8
+aldehyde reductase, mutant I298A	p-nitrobenzaldehyde	1497	7669785	2.8
+aldehyde reductase, mutant I298A	Succinic semialdehyde	1497	7669785	2.8
+	propionaldehyde	1497	16919	2.9
+aldehyde reductase II	DL-glyceraldehyde	1497	6753936	2.94
+aldehyde reductase II	sodium D-glucuronate	1497	6753936	2.95
+	benzaldehyde	1497	16919	3.4
+aldehyde reductase, mutant R311A	p-Carboxybenzaldehyde	1497	8916913	4.0
+aldehyde reductase, mutant V299C; wild-type aldehyde reductase	D-glucuronate	1497	7669785	4.2
+wild-type aldehyde reductase	D-glucuronate	1497	8916913	4.2
+aldehyde reductase, mutant H112Q	p-nitrobenzaldehyde	1497	7669785	5.9
+AR II	glyceraldehyde	1497	3890957	6.67
+aldehyde reductase, mutant R308A	D-glucuronate	1497	8916913	7.5
+aldehyde reductase II	glyceraldehyde	1497	3922304	7.59
+aldehyde reductase II	Butyraldehyde	1497	6753936	7.69
+AR II	3-Pyridinecarboxaldehyde	1497	3890957	8.61
+aldehyde reductase II	benzaldehyde	1497	6753936	9.09
+aldehyde reductase, mutant I298C	DL-glyceraldehyde	1497	7669785	11.5
+aldehyde reductase I	DL-glyceraldehyde	1497	6753936	12.5
+aldehyde reductase, mutant R311A	Succinic semialdehyde	1497	8916913	14.1
+aldehyde reductase II	propionaldehyde	1497	6753936	14.28
+aldehyde reductase II	propionaldehyde	1497	3922304	14.54
+aldehyde reductase, mutant H112Q	Succinic semialdehyde	1497	7669785	18.0
+aldehyde reductase, mutant I298C	D-glucuronate	1497	7669785	19.5
+aldehyde reductase, mutant I298A	D-glucuronate	1497	7669785	26.3
+aldehyde reductase, mutant I298A	DL-glyceraldehyde	1497	7669785	33.0
+aldehyde reductase, mutant H112Q	D-glucuronate	1497	7669785	48.0
+aldehyde reductase, mutant H112Q	DL-glyceraldehyde	1497	7669785	76.0
+AR I	D-glucose	1497	3890957	215.0
+aldehyde reductase, mutant R311A	D-glucuronate	1497	8916913	364.0
+aldehyde reductase II	D-xylose	1497	6753936	500.0
+aldehyde reductase II	D-galactose	1497	6753936	543.0
+pH 7.8, 40°C	Butanone	1498	7030321	0.12
+pH 7.8, 40°C	butan-2-ol	1498	7030321	0.31
+pH 7.8, 40°C	acetone	1498	7030321	0.7
+r-TBADH, wild-type, mutant D150C-TBADH	2-butanol	1498	9041649	7.0
+mutant H59Q-TBADH	2-butanol	1498	9041649	7.17
+r-TBADH, wild-type	Cyclopentanol	1498	9041649	8.45
+mutant H59Q-TBADH	Cyclopentanol	1498	9041649	8.7
+mutant C37A-TBADH	2-butanol	1498	9041649	9.2
+mutant D150C-TBADH	Cyclopentanol	1498	9041649	16.71
+mutant C37S-TBADH	Cyclopentanol	1498	9041649	19.33
+pH 8.0, 25°C, wild-type	NADH	1500	15556281	0.025
+pH 8.0, 25°C, mutant G225A	NADH	1500	15556281	0.045
+pH 8.0, 25°C, mutant G225A/A274F	NADPH	1500	15556281	0.05
+pH 8.0, 25°C, mutant G225A/A274F	NADH	1500	15556281	0.06
+pH 8.0, 25°C, mutant A274F	NADH	1500	15556281	0.07
+pH 8.0, 25°C, wild-type	NADPH	1500	15556281	0.21
+pH 8.0, 25°C, mutant G225A/A274F	acetaldehyde	1500	15556281	0.22
+pH 8.0, 25°C, mutant A274F; pH 8.0, 25°C, mutant G225A	NADPH	1500	15556281	0.37
+pH 8.0, 25°C, wild-type	NAD+	1500	15556281	0.39
+pH 8.0, 25°C, wild-type	ethanol	1500	15556281	0.5
+pH 8.0, 25°C, mutant G225A/A274F	NAD+	1500	15556281	0.57
+pH 8.0, 25°C, mutant G225A	ethanol	1500	15556281	0.74
+pH 8.0, 25°C, mutant G225A/A274F	ethanol	1500	15556281	0.85
+pH 8.0, 25°C, mutant A274F	NAD+	1500	15556281	0.98
+pH 8.0, 25°C, mutant G225A	NAD+	1500	15556281	1.0
+pH 8.0, 25°C, mutant A274F	ethanol	1500	15556281	1.02
+pH 8.0, 25°C, mutant A274F	acetaldehyde	1500	15556281	1.58
+pH 8.0, 25°C, mutant G225A	acetaldehyde	1500	15556281	2.1
+pH 8.0, 25°C, wild-type	acetaldehyde	1500	15556281	2.33
+pH 8.0, 25°C, wild-type	NADP+	1500	15556281	2.64
+pH 8.0, 25°C, mutant G225A	NADP+	1500	15556281	2.77
+pH 8.0, 25°C, mutant G225A/A274F	NADP+	1500	15556281	5.5
+pH 8.0, 25°C, mutant A274F	NADP+	1500	15556281	6.21
+low-Km reductase	p-hydroxyphenylglycolaldehyde	1501	4146452	7.0E-4
+low-Km reductase	NADPH	1501	4146452	0.0012
+low-Km reductase	p-nitrobenzaldehyde	1501	4146452	0.0013
+low-Km reductase	p-hydroxyphenylacetaldehyde	1501	4146452	0.0023
+low-Km reductase	hydroxyindol-3-ylacetaldehyde	1501	4146452	0.0038
+low-Km aldehyde reductase	p-nitrobenzaldehyde	1501	4146452	0.004
+	NADPH	1501	6989609	0.0056
+low-Km reductase	indol-3-ylacetaldehyde	1501	4146452	0.0059
+	NADPH	1501	6989609	0.008
+	p-Carboxybenzaldehyde	1501	6989609	0.05
+	p-Carboxybenzaldehyde	1501	4402936	0.078
+reductase I	daunorubicin	1501	6989609	0.08
+	4-Carboxyphenylglyoxal	1501	6989609	0.1
+reductase I	Succinic semialdehyde	1501	6989609	0.1
+high-Km aldehyde reductase	indol-3-ylacetaldehyde	1501	4146452	0.2
+high-Km aldehyde reductase	NADPH	1501	4146452	0.25
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1501	4146452	0.25
+	p-nitrobenzaldehyde	1501	6989609	0.27
+high-Km aldehyde reductase	p-nitrobenzaldehyde	1501	4146452	0.29
+	(+)-Camphorquinone	1501	4402936	0.33
+	p-nitrobenzaldehyde	1501	4402936	0.35
+	p-cyanobenzaldehyde	1501	4402936	0.51
+	indolacetaldehyde	1501	6989609	0.6
+high-Km aldehyde reductase	p-hydroxyphenylglycolaldehyde	1501	4146452	0.65
+	4-Pyridinecarboxaldehyde	1501	4402936	0.69
+high-Km aldehyde reductase	p-hydroxyphenylacetaldehyde	1501	4146452	0.85
+	Phenylglyoxal	1501	6989609	1.2
+	3-Pyridinecarboxaldehyde	1501	6989609	1.5
+	D-glucuronate	1501	6989609	1.5
+	4-Carboxyacetophenone	1501	6989609	1.6
+	2-chloroheptanal	1501	6989609	2.0
+	3-Pyridinecarboxaldehyde	1501	4402936	2.6
+	D-glyceraldehyde	1501	6989609	4.5
+	3-Pyridinemethanol	1501	4402936	5.5
+	Heptanal	1501	6989609	10.0
+	p-nitroacetophenone	1501	6989609	10.0
+	butane 2,3-dione	1501	6989609	14.0
+	n-Butyraldehyde	1501	6989609	150.0
+	glycerol	1501	4402936	775.0
+	L-arabitol	1501	4402936	1360.0
+low-Km reductase	p-nitrobenzaldehyde	1502	45199	0.0026
+	NADPH	1502	6798966	0.003-0.005
+	n-octadecanal	1502	6416297	0.004
+	NADPH	1502	2500152	0.006
+	n-hexadecanal	1502	6416297	0.008
+	n-tetradecanal	1502	6416297	0.014
+enzyme from brain	n-dodecanal	1502	6416297	0.019
+enzyme from liver and kidney	n-dodecanal	1502	6416297	0.02
+	hexadecanal	1502	3084464	0.03
+	p-Carboxybenzaldehyde	1502	7448191	0.031
+high-Km reductase	p-nitrobenzaldehyde	1502	45199	0.041
+	p-hydroxyphenylglycolaldehyde	1502	7448191	0.059
+	n-decanal	1502	6416297	0.07
+	p-nitrobenzaldehyde	1502	6798966	0.08
+	p-nitrobenzaldehyde	1502	9693960	0.12
+	Succinic semialdehyde	1502	6798966	0.13
+enzyme from kidney, brain or liver	p-nitrobenzaldehyde	1502	6416297	0.2
+	octanal	1502	3084464	0.21
+	p-nitrobenzaldehyde	1502	7448191	0.23
+	pyridine 3-aldehyde	1502	7448191	0.26
+	p-nitrobenzaldehyde	1502	3084464	0.31
+	n-octanal	1502	6416297	0.77
+	p-hydroxyphenylacetaldehyde	1502	7448191	0.91
+enzyme from kidney, brain or liver	4-Pyridinecarboxaldehyde	1502	6416297	1.2
+	DL-glyceraldehyde	1502	7448191	1.3
+	p-nitroacetophenone	1502	3084464	1.4
+	DL-glyceraldehyde	1502	6798966	1.5
+	D-glucuronate	1502	7448191	2.2
+	Benzalacetone	1502	3084464	2.5
+	propionaldehyde	1502	6416297	3.3
+	acetaldehyde	1502	6416297	3.8
+	benzaldehyde	1502	7448191	4.5
+	D-glucuronate	1502	6798966	4.5
+	D-glucuronate	1502	2500152	6.42
+	DL-glyceraldehyde	1502	2500152	8.35
+liver enzyme	Succinic semialdehyde	1502	6798966	10.9
+enzyme from brain or liver	ethyl acetoacetate	1502	6416297	24.0
+enzyme from kidney	ethyl acetoacetate	1502	6416297	25.0
+	Chloral hydrate	1502	7448191	29.0
+enzyme from brain	D-glucuronate	1502	6416297	42.0
+enzyme from kidney, or liver	D-glucuronate	1502	6416297	43.0
+	D-xylose	1502	7448191	670.0
+	D-xylose	1502	2500152	2080.0
+pH 7.0, 37°C	butanaldehyde	1505	18211903	0.67
+pH 7.0, 37°C	malondialdehyde	1505	18211903	1.78
+pH 7.0, 37°C	propionaldehyde	1505	18211903	3.31
+pH 7.0, 37°C	acrolein	1505	18211903	4.81
+pH 7.0, 37°C	acetaldehyde	1505	18211903	28.47
+pH 7.4, 25°C, with NAD(P)H	(2E,4E)-hexa-2,4-dienal	1510	16289176	15.0
+pH 7.0, temperature not specified in the publication	NADPH	1512	24265029	0.1
+pH 7.0, temperature not specified in the publication	pentanal	1512	24265029	0.4
+pH 7.0, temperature not specified in the publication	Butanal	1512	24265029	6.8

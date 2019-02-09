@@ -1,0 +1,177 @@
+synonyms	ec_number	recommended_name
+DEHAL1B	1.21.1.1	iodotyrosine deiodinase
+IYD	1.21.1.1	iodotyrosine deiodinase
+SUP-18	1.21.1.1	iodotyrosine deiodinase
+NADH oxidase/flavin reductase	1.21.1.1	iodotyrosine deiodinase
+SUP-18 IYD	1.21.1.1	iodotyrosine deiodinase
+TDH	1.21.1.1	iodotyrosine deiodinase
+iodotyrosine deiodinase	1.21.1.1	iodotyrosine deiodinase
+lyd	1.21.1.1	iodotyrosine deiodinase
+iodotyrosine dehalogenase 1	1.21.1.1	iodotyrosine deiodinase
+DEHAL1	1.21.1.1	iodotyrosine deiodinase
+Dehal1 protein	1.21.1.1	iodotyrosine deiodinase
+4-chlorobenzoate-coenzyme A dehalogenase	1.21.1.2	2,4-dichlorobenzoyl-CoA reductase
+4-chlorobenzoyl-CoA dehalogenase	1.21.1.2	2,4-dichlorobenzoyl-CoA reductase
+4-chlorobenzoyl-coenzyme A dehalogenase	1.21.1.2	2,4-dichlorobenzoyl-CoA reductase
+synthetase, isopenicillin N	1.21.3.1	isopenicillin-N synthase
+isopenicillin N synthetase	1.21.3.1	isopenicillin-N synthase
+isopenicillin N synthase	1.21.3.1	isopenicillin-N synthase
+IPNS	1.21.3.1	isopenicillin-N synthase
+IPN cyclase	1.21.3.1	isopenicillin-N synthase
+More	1.21.3.1	isopenicillin-N synthase
+isopenicillin-N synthase	1.21.3.1	isopenicillin-N synthase
+isopenicillin N synthase	1.21.3.1	isopenicillin-N synthase
+isopenicillin N-synthase	1.21.3.1	isopenicillin-N synthase
+IPN synthase	1.21.3.1	isopenicillin-N synthase
+berberine synthase	1.21.3.2	columbamine oxidase
+synthase, berberine	1.21.3.2	columbamine oxidase
+EC 1.1.3.26	1.21.3.2	columbamine oxidase
+berberine-bridge-forming enzyme	1.21.3.3	reticuline oxidase
+tetrahydroprotoberberine synthase	1.21.3.3	reticuline oxidase
+EC 1.5.3.9	1.21.3.3	reticuline oxidase
+berberine bridge enzyme	1.21.3.3	reticuline oxidase
+BBE	1.21.3.3	reticuline oxidase
+berberine bridge-forming enzyme	1.21.3.3	reticuline oxidase
+Oxidase, sulochrin	1.21.3.4	sulochrin oxidase [(+)-bisdechlorogeodin-forming]
+sulochrin oxidase	1.21.3.4	sulochrin oxidase [(+)-bisdechlorogeodin-forming]
+EC 1.10.3.7	1.21.3.4	sulochrin oxidase [(+)-bisdechlorogeodin-forming]
+Oxidase, sulochrin	1.21.3.5	sulochrin oxidase [(-)-bisdechlorogeodin-forming]
+EC 1.10.3.8	1.21.3.5	sulochrin oxidase [(-)-bisdechlorogeodin-forming]
+sulochrin oxidase	1.21.3.5	sulochrin oxidase [(-)-bisdechlorogeodin-forming]
+More	1.21.3.6	aureusidin synthase
+synthase, aureusidin	1.21.3.6	aureusidin synthase
+AmAS1	1.21.3.6	aureusidin synthase
+tetrahydrocannabinolic-acid synthase	1.21.3.7	tetrahydrocannabinolic acid synthase
+tetrahydrocannabinolic acid synthase	1.21.3.7	tetrahydrocannabinolic acid synthase
+DELA1-THCA synthase	1.21.3.7	tetrahydrocannabinolic acid synthase
+THCA synthase	1.21.3.7	tetrahydrocannabinolic acid synthase
+DELTA1-tetrahydrocannabinolic acid synthase	1.21.3.7	tetrahydrocannabinolic acid synthase
+CBDA synthase	1.21.3.8	cannabidiolic acid synthase
+cannabidiolic-acid synthase	1.21.3.8	cannabidiolic acid synthase
+EC 1.4.4.1	1.21.4.1	D-proline reductase (dithiol)
+lipoate-linked proline reductase	1.21.4.1	D-proline reductase (dithiol)
+EC 1.4.1.6	1.21.4.1	D-proline reductase (dithiol)
+D-proline reductase	1.21.4.1	D-proline reductase (dithiol)
+PrdB	1.21.4.1	D-proline reductase (dithiol)
+glycine reductase	1.21.4.2	glycine reductase
+GrdA	1.21.4.2	glycine reductase
+reductase, betaine	1.21.4.4	betaine reductase
+dehypoxanthinyl futalosine cyclase	1.21.98.1	cyclic dehypoxanthinyl futalosine synthase
+DHFL cyclase	1.21.98.1	cyclic dehypoxanthinyl futalosine synthase
+MqnC	1.21.98.1	cyclic dehypoxanthinyl futalosine synthase
+cyclic DHFL synthetase	1.21.98.1	cyclic dehypoxanthinyl futalosine synthase
+cyclic dehypoxanthine futalosine synthetase	1.21.98.1	cyclic dehypoxanthinyl futalosine synthase
+RebD	1.21.98.2	dichlorochromopyrrolate synthase
+MPE cyclase	1.21.98.3	anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+BChE	1.21.98.3	anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+Cyan7425_4778	1.21.98.3	anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+Cyan7822_3999	1.21.98.3	anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+F_1025	1.21.98.3	anaerobic magnesium-protoporphyrin IX monomethyl ester cyclase
+beta-cyclopiazonate oxidocyclase	1.21.99.1	beta-cyclopiazonate dehydrogenase
+beta-cyclopiazonic oxidocyclase	1.21.99.1	beta-cyclopiazonate dehydrogenase
+EC 1.3.99.9	1.21.99.1	beta-cyclopiazonate dehydrogenase
+iodothyronine 5-deiodinase	1.21.99.3	thyroxine 5-deiodinase
+diiodothyronine 5'-deiodinase	1.21.99.3	thyroxine 5-deiodinase
+iodothyronine inner ring monodeiodinase	1.21.99.3	thyroxine 5-deiodinase
+deiodinase, thyroxine 5-	1.21.99.3	thyroxine 5-deiodinase
+Dio3b	1.21.99.3	thyroxine 5-deiodinase
+type III iodothyronine deiodinase	1.21.99.3	thyroxine 5-deiodinase
+5'-deiodinase	1.21.99.3	thyroxine 5-deiodinase
+deiodinase-3	1.21.99.3	thyroxine 5-deiodinase
+zD3	1.21.99.3	thyroxine 5-deiodinase
+Dio3	1.21.99.3	thyroxine 5-deiodinase
+thyroxine 5-deiodinase	1.21.99.3	thyroxine 5-deiodinase
+deiodinase	1.21.99.3	thyroxine 5-deiodinase
+Dio	1.21.99.3	thyroxine 5-deiodinase
+type 3 deiodinase	1.21.99.3	thyroxine 5-deiodinase
+Dio3a	1.21.99.3	thyroxine 5-deiodinase
+D3	1.21.99.3	thyroxine 5-deiodinase
+type 3 iodothyronine deiodinase	1.21.99.3	thyroxine 5-deiodinase
+iodothyronine monodeiodinase	1.21.99.3	thyroxine 5-deiodinase
+ITHD	1.21.99.3	thyroxine 5-deiodinase
+T4-5'-deiodinase	1.21.99.3	thyroxine 5-deiodinase
+T4-5-deiodinase	1.21.99.3	thyroxine 5-deiodinase
+type 3 iodothyronine 5-deiodinase	1.21.99.3	thyroxine 5-deiodinase
+Thyroxine deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+L-thyroxine iodohydrolase	1.21.99.4	thyroxine 5'-deiodinase
+thyroxine 5-deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+diiodothyronine 5'-deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+iodothyronine outer ring monodeiodinase	1.21.99.4	thyroxine 5'-deiodinase
+5DI	1.21.99.4	thyroxine 5'-deiodinase
+5DII	1.21.99.4	thyroxine 5'-deiodinase
+5DIII	1.21.99.4	thyroxine 5'-deiodinase
+DIOI	1.21.99.4	thyroxine 5'-deiodinase
+DIOII	1.21.99.4	thyroxine 5'-deiodinase
+DIOIII	1.21.99.4	thyroxine 5'-deiodinase
+Type 1 DI	1.21.99.4	thyroxine 5'-deiodinase
+Type 2 DI	1.21.99.4	thyroxine 5'-deiodinase
+Type 3 DI	1.21.99.4	thyroxine 5'-deiodinase
+Type-I 5'deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+Type-II 5'deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+Type-III 5'deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+XL-15	1.21.99.4	thyroxine 5'-deiodinase
+EC 3.8.1.4	1.21.99.4	thyroxine 5'-deiodinase
+type I iodothyronine deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+iodothyronine inner ring monodeiodinase	1.21.99.4	thyroxine 5'-deiodinase
+iodothyronine 5'-deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+Iodothyronine 5'-monodeiodinase	1.21.99.4	thyroxine 5'-deiodinase
+iodothyronine 5-deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+types 2 iodothyronine selenodeiodinase	1.21.99.4	thyroxine 5'-deiodinase
+type II iodothyronine deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+types 1 iodothyronine selenodeiodinase	1.21.99.4	thyroxine 5'-deiodinase
+type I-like deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+type II-like deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+type I iodothyronine 5'-deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+Dio	1.21.99.4	thyroxine 5'-deiodinase
+type 2 iodothyronine deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+type 2 deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+DIO2	1.21.99.4	thyroxine 5'-deiodinase
+type 3 deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+type 1 5'-deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+D1 5'-deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+type 2 5'-deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+D2 5'-deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+ID-1	1.21.99.4	thyroxine 5'-deiodinase
+ID-2	1.21.99.4	thyroxine 5'-deiodinase
+ID-3	1.21.99.4	thyroxine 5'-deiodinase
+DIO1	1.21.99.4	thyroxine 5'-deiodinase
+type 1 iodothyronine deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+type 1 deiodinase	1.21.99.4	thyroxine 5'-deiodinase
+tetrachloroethene reductase	1.21.99.5	tetrachloroethene reductive dehalogenase
+PCE dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+tetrachloroethene dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+PCE reductase	1.21.99.5	tetrachloroethene reductive dehalogenase
+PCE-reductive dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+PCE-RDase	1.21.99.5	tetrachloroethene reductive dehalogenase
+PCE-RD	1.21.99.5	tetrachloroethene reductive dehalogenase
+tetrachloroethene	1.21.99.5	tetrachloroethene reductive dehalogenase
+tetrachloroethene reductive dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+PCERD	1.21.99.5	tetrachloroethene reductive dehalogenase
+PCER	1.21.99.5	tetrachloroethene reductive dehalogenase
+PCE reductive dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+PCE-dechlorinating enzyme	1.21.99.5	tetrachloroethene reductive dehalogenase
+reductive PCE dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+tetrachloroethene and trichloroethene dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+PCE/TCERD	1.21.99.5	tetrachloroethene reductive dehalogenase
+TCE reductase	1.21.99.5	tetrachloroethene reductive dehalogenase
+trichloroethene dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+TCE dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+perchloroethylene dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+polychloroethane dehalogenase	1.21.99.5	tetrachloroethene reductive dehalogenase
+tetrachloroethylene reductase	1.21.99.5	tetrachloroethene reductive dehalogenase
+pceA gene product	1.21.99.5	tetrachloroethene reductive dehalogenase
+pceC gene product	1.21.99.5	tetrachloroethene reductive dehalogenase
+PceC	1.21.99.5	tetrachloroethene reductive dehalogenase
+dehalogenase, polychloroethene	1.21.99.5	tetrachloroethene reductive dehalogenase
+PceA1	1.21.99.5	tetrachloroethene reductive dehalogenase
+tetrachloroethene	1.21.99.5	tetrachloroethene reductive dehalogenase
+PceA2	1.21.99.5	tetrachloroethene reductive dehalogenase
+dceA6	1.21.99.5	tetrachloroethene reductive dehalogenase
+mbrA	1.21.99.5	tetrachloroethene reductive dehalogenase
+RDH	1.21.99.5	tetrachloroethene reductive dehalogenase
+Ssed_3769	1.21.99.5	tetrachloroethene reductive dehalogenase
+PceATCE	1.21.99.5	tetrachloroethene reductive dehalogenase
+tetrachloroethene reductive dehalogenase catalytic subunit PceA	1.21.99.5	tetrachloroethene reductive dehalogenase
+PceA	1.21.99.5	tetrachloroethene reductive dehalogenase
+RdhA3	1.21.99.5	tetrachloroethene reductive dehalogenase

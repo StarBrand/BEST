@@ -1,0 +1,90 @@
+synonyms	ec_number	recommended_name
+chelatase, ferro-	4.99.1.1	protoporphyrin ferrochelatase
+chelatase, ferro-protoporphyrin	4.99.1.1	protoporphyrin ferrochelatase
+iron chelatase	4.99.1.1	protoporphyrin ferrochelatase
+heme synthetase	4.99.1.1	protoporphyrin ferrochelatase
+Protoheme ferro-lyase	4.99.1.1	protoporphyrin ferrochelatase
+HEM15	4.99.1.1	protoporphyrin ferrochelatase
+FC1	4.99.1.1	protoporphyrin ferrochelatase
+FC2	4.99.1.1	protoporphyrin ferrochelatase
+protoporphyrin	4.99.1.1	protoporphyrin ferrochelatase
+hemH	4.99.1.1	protoporphyrin ferrochelatase
+PPIX ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
+protohaem ferrolyase	4.99.1.1	protoporphyrin ferrochelatase
+type II ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
+FeC	4.99.1.1	protoporphyrin ferrochelatase
+host red cell ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
+hFC	4.99.1.1	protoporphyrin ferrochelatase
+parasite genome-coded ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
+PfFC	4.99.1.1	protoporphyrin ferrochelatase
+protoporhyrin IX ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
+FeCH	4.99.1.1	protoporphyrin ferrochelatase
+heme synthase	4.99.1.1	protoporphyrin ferrochelatase
+ferrochelatase I	4.99.1.1	protoporphyrin ferrochelatase
+ferrochelatase II	4.99.1.1	protoporphyrin ferrochelatase
+ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
+protoporphyrin IX ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
+protoheme ferrolyase	4.99.1.1	protoporphyrin ferrochelatase
+protoheme lyase	4.99.1.1	protoporphyrin ferrochelatase
+SGRL	4.99.1.10	magnesium dechelatase
+Mg-dechelatase	4.99.1.10	magnesium dechelatase
+cfbA	4.99.1.11	sirohydrochlorin nickelchelatase
+lyase, alkylmercury	4.99.1.2	alkylmercury lyase
+merB	4.99.1.2	alkylmercury lyase
+organomercury lyase	4.99.1.2	alkylmercury lyase
+MerB3	4.99.1.2	alkylmercury lyase
+alkylmercury mercuric-lyase	4.99.1.2	alkylmercury lyase
+organomercurial lyase	4.99.1.2	alkylmercury lyase
+MerB1	4.99.1.2	alkylmercury lyase
+MerB2	4.99.1.2	alkylmercury lyase
+anaerobic cobalt chelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
+CbiK	4.99.1.3	sirohydrochlorin cobaltochelatase
+cobalt chelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
+CbiXOH	4.99.1.3	sirohydrochlorin cobaltochelatase
+More	4.99.1.3	sirohydrochlorin cobaltochelatase
+sirohydrochlorin cobalt-lyase	4.99.1.3	sirohydrochlorin cobaltochelatase
+archaeal cobaltochelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
+CbiXS	4.99.1.3	sirohydrochlorin cobaltochelatase
+sirohydrochlorin cobaltochelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
+CbiX	4.99.1.3	sirohydrochlorin cobaltochelatase
+cobaltochelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
+CbiKp	4.99.1.3	sirohydrochlorin cobaltochelatase
+CbiKc	4.99.1.3	sirohydrochlorin cobaltochelatase
+sirohydrochlorin-ferrochelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
+sirohydrochlorin cobalt chelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
+cobalamin cobalt chelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
+CbiX0H	4.99.1.3	sirohydrochlorin cobaltochelatase
+CbiXL	4.99.1.3	sirohydrochlorin cobaltochelatase
+Met8p	4.99.1.4	sirohydrochlorin ferrochelatase
+More	4.99.1.4	sirohydrochlorin ferrochelatase
+sirohydrochlorin ferrochelatase	4.99.1.4	sirohydrochlorin ferrochelatase
+SirB	4.99.1.4	sirohydrochlorin ferrochelatase
+CysG	4.99.1.4	sirohydrochlorin ferrochelatase
+CbiX	4.99.1.4	sirohydrochlorin ferrochelatase
+sirohydrochlorin-ferrochelatase	4.99.1.4	sirohydrochlorin ferrochelatase
+OxdB	4.99.1.5	aliphatic aldoxime dehydratase
+OXD	4.99.1.5	aliphatic aldoxime dehydratase
+aliphatic aldoxime dehydratase	4.99.1.5	aliphatic aldoxime dehydratase
+OxdRE	4.99.1.5	aliphatic aldoxime dehydratase
+OxdA	4.99.1.5	aliphatic aldoxime dehydratase
+aldoxime dehydratase	4.99.1.5	aliphatic aldoxime dehydratase
+OxdRG	4.99.1.5	aliphatic aldoxime dehydratase
+alkylaldoxime dehydratase	4.99.1.5	aliphatic aldoxime dehydratase
+OxdK	4.99.1.5	aliphatic aldoxime dehydratase
+indoleacetaldoxime hydro-lyase	4.99.1.6	indoleacetaldoxime dehydratase
+dehydratase, indoleacetaldoxime	4.99.1.6	indoleacetaldoxime dehydratase
+EC 4.2.1.29	4.99.1.6	indoleacetaldoxime dehydratase
+IAD	4.99.1.6	indoleacetaldoxime dehydratase
+indolyl-3-acetaldoxime dehydratase	4.99.1.6	indoleacetaldoxime dehydratase
+protein SS1G-01653	4.99.1.6	indoleacetaldoxime dehydratase
+OxdB	4.99.1.7	phenylacetaldoxime dehydratase
+OxdRE	4.99.1.7	phenylacetaldoxime dehydratase
+OxdFG	4.99.1.7	phenylacetaldoxime dehydratase
+OXD	4.99.1.7	phenylacetaldoxime dehydratase
+aldoxime dehydratase	4.99.1.7	phenylacetaldoxime dehydratase
+phenylacetaldoxime dehydratase	4.99.1.7	phenylacetaldoxime dehydratase
+heme-detoxification protein	4.99.1.8	heme ligase
+heme detoxification protein	4.99.1.8	heme ligase
+HDP	4.99.1.8	heme ligase
+alpha-HDP	4.99.1.8	heme ligase
+hemH	4.99.1.9	coproporphyrin ferrochelatase

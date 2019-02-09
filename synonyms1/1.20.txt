@@ -1,0 +1,74 @@
+synonyms	ec_number	recommended_name
+NAD:phosphite oxidoreductase	1.20.1.1	phosphonate dehydrogenase
+NAD-dependent phosphite dehydrogenase	1.20.1.1	phosphonate dehydrogenase
+PTDH	1.20.1.1	phosphonate dehydrogenase
+phosphite dehydrogenase	1.20.1.1	phosphonate dehydrogenase
+PtxD	1.20.1.1	phosphonate dehydrogenase
+AroA	1.20.2.1	arsenate reductase (cytochrome c)
+aroB	1.20.2.1	arsenate reductase (cytochrome c)
+aoxB	1.20.2.1	arsenate reductase (cytochrome c)
+As	1.20.2.1	arsenate reductase (cytochrome c)
+aoxA	1.20.2.1	arsenate reductase (cytochrome c)
+glutathione:arsenate oxidoreductase	1.20.4.1	arsenate reductase (glutaredoxin)
+reductase, arsenate	1.20.4.1	arsenate reductase (glutaredoxin)
+gene arsC proteins	1.20.4.1	arsenate reductase (glutaredoxin)
+proteins	1.20.4.1	arsenate reductase (glutaredoxin)
+Acr2p	1.20.4.1	arsenate reductase (glutaredoxin)
+EC 1.97.1.5	1.20.4.1	arsenate reductase (glutaredoxin)
+PcAcr2	1.20.4.1	arsenate reductase (glutaredoxin)
+PvGRX5	1.20.4.1	arsenate reductase (glutaredoxin)
+glutaredoxin	1.20.4.1	arsenate reductase (glutaredoxin)
+Grx	1.20.4.1	arsenate reductase (glutaredoxin)
+ArsC	1.20.4.1	arsenate reductase (glutaredoxin)
+All0195	1.20.4.1	arsenate reductase (glutaredoxin)
+Acr2	1.20.4.1	arsenate reductase (glutaredoxin)
+arsenate reductase	1.20.4.1	arsenate reductase (glutaredoxin)
+AR	1.20.4.1	arsenate reductase (glutaredoxin)
+ACR3-ArsC	1.20.4.1	arsenate reductase (glutaredoxin)
+slr0946	1.20.4.1	arsenate reductase (glutaredoxin)
+SynArsC	1.20.4.1	arsenate reductase (glutaredoxin)
+MMA	1.20.4.2	methylarsonate reductase
+reductase, methylarsonate	1.20.4.2	methylarsonate reductase
+More	1.20.4.2	methylarsonate reductase
+monomethylarsonic acid	1.20.4.2	methylarsonate reductase
+GSTO1	1.20.4.2	methylarsonate reductase
+GSTO2	1.20.4.2	methylarsonate reductase
+mycoredoxin-1	1.20.4.3	mycoredoxin
+Mrx1	1.20.4.3	mycoredoxin
+MrxI	1.20.4.3	mycoredoxin
+mycoredoxin	1.20.4.3	mycoredoxin
+Strop1447	1.20.4.3	mycoredoxin
+ArsC3	1.20.4.4	arsenate reductase (thioredoxin)
+pI258 arsenate reductase	1.20.4.4	arsenate reductase (thioredoxin)
+plasmid pI258 arsenate reductase	1.20.4.4	arsenate reductase (thioredoxin)
+Sa_ArsC	1.20.4.4	arsenate reductase (thioredoxin)
+ArsC	1.20.4.4	arsenate reductase (thioredoxin)
+arsenate reductase	1.20.4.4	arsenate reductase (thioredoxin)
+thioredoxin-coupled arsenate reductase	1.20.4.4	arsenate reductase (thioredoxin)
+Trx-coupled arsenate reductase	1.20.4.4	arsenate reductase (thioredoxin)
+thioredoxin-arsenate reductase complex	1.20.4.4	arsenate reductase (thioredoxin)
+Bs_ArsC	1.20.4.4	arsenate reductase (thioredoxin)
+Strop634	1.20.4.4	arsenate reductase (thioredoxin)
+ArsC1	1.20.4.4	arsenate reductase (thioredoxin)
+ARS	1.20.4.4	arsenate reductase (thioredoxin)
+ArsC1'	1.20.4.4	arsenate reductase (thioredoxin)
+arsenite oxidase	1.20.9.1	arsenate reductase (azurin)
+aoxB	1.20.9.1	arsenate reductase (azurin)
+aoxA	1.20.9.1	arsenate reductase (azurin)
+reductase, arsenate	1.20.99.1	arsenate reductase (donor)
+gene arsC proteins	1.20.99.1	arsenate reductase (donor)
+proteins	1.20.99.1	arsenate reductase (donor)
+Arr	1.20.99.1	arsenate reductase (donor)
+respiratory arsenate reductase	1.20.99.1	arsenate reductase (donor)
+EC 1.97.1.6	1.20.99.1	arsenate reductase (donor)
+More	1.20.99.1	arsenate reductase (donor)
+arsenite oxidase	1.20.99.1	arsenate reductase (donor)
+ACR2.1	1.20.99.1	arsenate reductase (donor)
+ACR2.2	1.20.99.1	arsenate reductase (donor)
+AR	1.20.99.1	arsenate reductase (donor)
+arsenate reductase	1.20.99.1	arsenate reductase (donor)
+ArsC	1.20.99.1	arsenate reductase (donor)
+Cdc25B	1.20.99.1	arsenate reductase (donor)
+Cdc25C	1.20.99.1	arsenate reductase (donor)
+As	1.20.99.1	arsenate reductase (donor)
+ArrA	1.20.99.1	arsenate reductase (donor)

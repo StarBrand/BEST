@@ -1,0 +1,139 @@
+Commentary	Substrate	Ref	Literature(PubmedID)	value
+pH 7.0. 30°C	butan-1-ol	874	26923741	160.0
+pH 7.0. 30°C	1,5-pentanediol	874	26923741	230.0
+pH 7.0. 30°C	NADP+	874	26923741	500.0
+pH 7.0. 30°C	3-methyl-1,5-pentanediol	874	26923741	760.0
+mutant L54Q, pH 6.5, 30°C	methyl 4-bromo-3-oxobutanoate	977	18626639	1160.0
+wild-type, pH 6.5, 30°C	methyl 4-bromo-3-oxobutanoate	977	18626639	1420.0
+mutant L54Q, pH 6.5, 30°C	methyl 4-bromo-3-oxobutanoate	978	18626639	1160.0
+wild-type, pH 6.5, 30°C	methyl 4-bromo-3-oxobutanoate	978	18626639	1420.0
+95°C, pH 7.5	3,4-dihydro-1(2H)-naphthalenone	1098	20406673	716.0
+80°C, pH not specified in the publication	acetaldehyde	1099	9973342	0.0028
+80°C, pH not specified in the publication	NAD+	1099	9973342	0.12
+pH 10.0, 70°C	2-Pentanol	1099	11358525	0.3
+80°C, pH not specified in the publication	ethanol	1099	9973342	0.65
+pH 7.0, 70°C	Pyruvaldehyde	1099	11358525	4.2
+80°C, pH not specified in the publication	methylglyoxal	1099	9973342	18.5
+80°C, pH not specified in the publication	NADPH	1099	9973342	93.0
+80°C, pH not specified in the publication	phenylacetaldehyde	1099	9973342	114.0
+80°C, pH not specified in the publication	NADP+	1099	9973342	223.0
+80°C, pH not specified in the publication	acetaldehyde	1100	9973342	0.0028
+80°C, pH not specified in the publication	NAD+	1100	9973342	0.12
+pH 10.0, 70°C	2-Pentanol	1100	11358525	0.3
+80°C, pH not specified in the publication	ethanol	1100	9973342	0.65
+pH 7.0, 70°C	Pyruvaldehyde	1100	11358525	4.2
+80°C, pH not specified in the publication	methylglyoxal	1100	9973342	18.5
+80°C, pH not specified in the publication	NADPH	1100	9973342	93.0
+80°C, pH not specified in the publication	phenylacetaldehyde	1100	9973342	114.0
+80°C, pH not specified in the publication	NADP+	1100	9973342	223.0
+80°C, pH not specified in the publication	acetaldehyde	1101	9973342	0.0028
+80°C, pH not specified in the publication	NAD+	1101	9973342	0.12
+pH 10.0, 70°C	2-Pentanol	1101	11358525	0.3
+80°C, pH not specified in the publication	ethanol	1101	9973342	0.65
+pH 7.0, 70°C	Pyruvaldehyde	1101	11358525	4.2
+80°C, pH not specified in the publication	methylglyoxal	1101	9973342	18.5
+80°C, pH not specified in the publication	NADPH	1101	9973342	93.0
+80°C, pH not specified in the publication	phenylacetaldehyde	1101	9973342	114.0
+80°C, pH not specified in the publication	NADP+	1101	9973342	223.0
+80°C, pH not specified in the publication	acetaldehyde	1102	9973342	0.0028
+80°C, pH not specified in the publication	NAD+	1102	9973342	0.12
+pH 10.0, 70°C	2-Pentanol	1102	11358525	0.3
+80°C, pH not specified in the publication	ethanol	1102	9973342	0.65
+pH 7.0, 70°C	Pyruvaldehyde	1102	11358525	4.2
+80°C, pH not specified in the publication	methylglyoxal	1102	9973342	18.5
+80°C, pH not specified in the publication	NADPH	1102	9973342	93.0
+80°C, pH not specified in the publication	phenylacetaldehyde	1102	9973342	114.0
+80°C, pH not specified in the publication	NADP+	1102	9973342	223.0
+substrate furfural, pH 7.2, 30°C	NADH	1201	23912116	0.13
+substrate furfural, pH 7.2, 30°C	NADH	1201	23912116	0.26
+substrate furfural, pH 7.2, 30°C	NADPH	1201	23912116	0.54
+substrate furfural, pH 7.2, 30°C	NADPH	1201	23912116	19.9
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1201	23912116	25.3
+substrate furfural, pH 7.2, 30°C	NADH	1202	23912116	0.13
+substrate furfural, pH 7.2, 30°C	NADH	1202	23912116	0.26
+substrate furfural, pH 7.2, 30°C	NADPH	1202	23912116	0.54
+substrate furfural, pH 7.2, 30°C	NADPH	1202	23912116	19.9
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1202	23912116	25.3
+mutant W110Q, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.0069
+mutant W110L, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.024
+mutant W110M, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.121
+mutant W110I, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.188
+mutant W110A, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.284
+mutant W110V, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.336
+mutant W110Q, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	0.551
+mutant W110G, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1344	24984815	0.639
+mutant W110M, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	1.99
+mutant W110L, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	2.51
+mutant W110A, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	4.935
+mutant W110G, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	5.8
+mutant W110I, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	15.2
+mutant W110V, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1344	24984815	45.3
+mutant W110Q, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.0069
+mutant W110L, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.024
+mutant W110M, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.121
+mutant W110I, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.188
+mutant W110A, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.284
+mutant W110V, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.336
+mutant W110Q, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	0.551
+mutant W110G, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1345	24984815	0.639
+mutant W110M, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	1.99
+mutant W110L, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	2.51
+mutant W110A, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	4.935
+mutant W110G, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	5.8
+mutant W110I, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	15.2
+mutant W110V, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1345	24984815	45.3
+mutant W110Q, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.0069
+mutant W110L, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.024
+mutant W110M, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.121
+mutant W110I, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.188
+mutant W110A, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.284
+mutant W110V, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.336
+mutant W110Q, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	0.551
+mutant W110G, pH 8.9, 50°C	(R)-1-phenyl-2-propanol	1346	24984815	0.639
+mutant W110M, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	1.99
+mutant W110L, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	2.51
+mutant W110A, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	4.935
+mutant W110G, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	5.8
+mutant W110I, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	15.2
+mutant W110V, pH 8.9, 50°C	(S)-1-phenyl-2-propanol	1346	24984815	45.3
+pH 8.0, 80°C	2-phenylethanol	1359	7642502	2.1
+pH 8.0, 80°C	ethanol	1359	7642502	6.0
+pH 8.0, 80°C	acetaldehyde	1359	7642502	76.4
+pH 8.0, 80°C	2-phenylacetaldehyde	1359	7642502	300.0
+pH 8.0, 80°C	NADPH	1359	7642502	345.0
+pH 8.0, 80°C	NADP+	1359	7642502	2990.0
+pH 7.0. 30°C	butan-1-ol	1473	26923741	160.0
+pH 7.0. 30°C	1,5-pentanediol	1473	26923741	230.0
+pH 7.0. 30°C	NADP+	1473	26923741	500.0
+pH 7.0. 30°C	3-methyl-1,5-pentanediol	1473	26923741	760.0
+substrate furfural, pH 7.2, 30°C	NADH	1477	23912116	0.13
+substrate furfural, pH 7.2, 30°C	NADH	1477	23912116	0.26
+substrate furfural, pH 7.2, 30°C	NADPH	1477	23912116	0.54
+substrate furfural, pH 7.2, 30°C	NADPH	1477	23912116	19.9
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1477	23912116	25.3
+substrate furfural, pH 7.2, 30°C	NADH	1479	23912116	0.13
+substrate furfural, pH 7.2, 30°C	NADH	1479	23912116	0.26
+substrate furfural, pH 7.2, 30°C	NADPH	1479	23912116	0.54
+substrate furfural, pH 7.2, 30°C	NADPH	1479	23912116	19.9
+substrate 5-hydroxymethylfurfural, pH 7.2, 30°C	NADPH	1479	23912116	25.3
+cosubstrate: NADP+, pH 7.5, 80°C	(2S,3S)-2,3-butanediol	1491	21515780	2.08
+cosubstrate: NADP+, pH 7.5, 80°C	(2R,3R)-2,3-butanediol	1491	21515780	49.0
+cosubstrate: NADP+, pH 7.5, 80°C	meso-2,3-butanediol	1491	21515780	49.0
+cosubstrate: NADPH, pH 7.5, 80°C	acetoin	1491	21515780	444.0
+cosubstrate: NADPH, pH 7.5, 80°C	2-butanone	1491	21515780	613.0
+cosubstrate: NADPH, pH 7.5, 80°C	diacetyl	1491	21515780	962.0
+cosubstrate: NADP+, pH 7.5, 80°C	2-butanol	1491	21515780	2192.0
+cosubstrate: 2-butanol, pH 7.5, 80°C	NADP+	1491	21515780	3333.0
+cosubstrate: 2-butanone, pH 7.5, 80°C	NADPH	1491	21515780	14360.0
+80°C, pH not specified in the publication	acetaldehyde	1492	9973342	0.0028
+80°C, pH not specified in the publication	NAD+	1492	9973342	0.12
+pH 10.0, 70°C	2-Pentanol	1492	11358525	0.3
+80°C, pH not specified in the publication	ethanol	1492	9973342	0.65
+pH 7.0, 70°C	Pyruvaldehyde	1492	11358525	4.2
+80°C, pH not specified in the publication	methylglyoxal	1492	9973342	18.5
+80°C, pH not specified in the publication	NADPH	1492	9973342	93.0
+80°C, pH not specified in the publication	phenylacetaldehyde	1492	9973342	114.0
+80°C, pH not specified in the publication	NADP+	1492	9973342	223.0
+95°C, pH 7.5	3,4-dihydro-1(2H)-naphthalenone	1506	20406673	716.0
+pH 7.0, temperature not specified in the publication	Butanal	1512	24265029	3.0
+pH 7.0, temperature not specified in the publication	pentanal	1512	24265029	123.1

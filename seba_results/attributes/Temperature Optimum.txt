@@ -1,0 +1,141 @@
+Commentary	Ref	Literature(PubmedID)	value
+assay at	505	18211903	37.0
+assay at	506	18211903	37.0
+assay at	507	18211903	37.0
+assay at	508	18211903	37.0
+assay at	509	18211903	37.0
+assay at	510	18211903	37.0
+assay at	511	18211903	37.0
+assay at	525	0	55.0
+isoform ADH-1; or above, isoform ADH-2	525	0	60.0
+assay at	526	0	55.0
+isoform ADH-1; or above, isoform ADH-2	526	0	60.0
+assay at	527	0	55.0
+isoform ADH-1; or above, isoform ADH-2	527	0	60.0
+assay at	641	23179592	50.0
+assay at	641	24062264	50.0
+assay at	642	23179592	50.0
+assay at	642	24062264	50.0
+aldehyde reductase II	665	3922304	35.0
+aldehyde reductase II	666	3922304	35.0
+aldehyde reductase II	667	3922304	35.0
+aldehyde reductase II	668	3922304	35.0
+aldehyde reductase II	669	3922304	35.0
+aldehyde reductase II	670	3922304	35.0
+aldehyde reductase II	671	3922304	35.0
+assay at room temperature	713	16245351	22.0
+	713	15896805	30.0
+assay at room temperature	714	16245351	22.0
+	714	15896805	30.0
+assay at room temperature	715	16245351	22.0
+	715	15896805	30.0
+at pH 8.0	836	17318639	60.0
+assay temperature	848	16289176	25.0
+assay temperature	849	16289176	25.0
+assay temperature	850	16289176	25.0
+assay temperature	851	16289176	25.0
+assay temperature	852	16289176	25.0
+assay temperature	853	16289176	25.0
+assay temperature	854	16289176	25.0
+assay temperature	855	16289176	25.0
+	874	26923741	45.0
+activity increases along with the rise of temperature up to 95°C	1088	17294170	95.0
+assay at	1098	23755111	37.0
+preferred temperature for production of (2S,5S)-hexanediol, its activity at 30°C does not exceed 5% of its optimal activity, exhibits increased activity at 30°C on the substrate 2,5-hexanedione	1099	18452026	30.0
+assay at	1099	11358525	70.0
+assay at	1099	16535713	70.0
+	1099	11358525	90.0
+above	1099	9973342	90.0
+the temperature optimum of the wild type enzyme is determined to be between 90 and 100°C	1099	18452026	90.0-100.0
+preferred temperature for production of (2S,5S)-hexanediol, its activity at 30°C does not exceed 5% of its optimal activity, exhibits increased activity at 30°C on the substrate 2,5-hexanedione	1100	18452026	30.0
+assay at	1100	11358525	70.0
+assay at	1100	16535713	70.0
+	1100	11358525	90.0
+above	1100	9973342	90.0
+the temperature optimum of the wild type enzyme is determined to be between 90 and 100°C	1100	18452026	90.0-100.0
+preferred temperature for production of (2S,5S)-hexanediol, its activity at 30°C does not exceed 5% of its optimal activity, exhibits increased activity at 30°C on the substrate 2,5-hexanedione	1101	18452026	30.0
+assay at	1101	11358525	70.0
+assay at	1101	16535713	70.0
+	1101	11358525	90.0
+above	1101	9973342	90.0
+the temperature optimum of the wild type enzyme is determined to be between 90 and 100°C	1101	18452026	90.0-100.0
+preferred temperature for production of (2S,5S)-hexanediol, its activity at 30°C does not exceed 5% of its optimal activity, exhibits increased activity at 30°C on the substrate 2,5-hexanedione	1102	18452026	30.0
+assay at	1102	11358525	70.0
+assay at	1102	16535713	70.0
+	1102	11358525	90.0
+above	1102	9973342	90.0
+the temperature optimum of the wild type enzyme is determined to be between 90 and 100°C	1102	18452026	90.0-100.0
+assay at, ALR1	1127	24793885	37.0
+assay at	1127	25602762	37.0
+assay at, ALR1	1128	24793885	37.0
+assay at	1128	25602762	37.0
+assay at, ALR1	1129	24793885	37.0
+assay at	1129	25602762	37.0
+assay at, ALR1	1130	24793885	37.0
+assay at	1130	25602762	37.0
+assay at, ALR1	1131	24793885	37.0
+assay at	1131	25602762	37.0
+assay at, ALR1	1132	24793885	37.0
+assay at	1132	25602762	37.0
+	1162	19577617	25.0
+	1163	19577617	25.0
+	1164	19577617	25.0
+	1165	19577617	25.0
+	1166	19577617	25.0
+	1167	19577617	25.0
+	1168	19577617	25.0
+	1169	19577617	25.0
+	1170	19577617	25.0
+	1171	19577617	25.0
+; 	1201	23912116	30.0
+; 	1202	23912116	30.0
+assay temperature	1256	15703875	30.0
+	1256	0	60.0
+assay temperature	1257	15703875	30.0
+	1257	0	60.0
+assay temperature	1258	15703875	30.0
+	1258	0	60.0
+assay temperature	1259	15703875	30.0
+	1259	0	60.0
+assay temperature	1260	15703875	30.0
+	1260	0	60.0
+assay at room temperature	1338	16245351	22.0
+assay at room temperature	1339	16245351	22.0
+assay at room temperature	1340	16245351	22.0
+assay at room temperature	1341	16245351	22.0
+assay at room temperature	1342	16245351	22.0
+assay at room temperature	1343	16245351	22.0
+secondary alcohol dehydrogenase with 2-propanol as substrate	1344	0	80.0
+primary enzyme, 1-butanol as substrate	1344	0	85.0
+secondary alcohol dehydrogenase with 2-propanol as substrate	1345	0	80.0
+primary enzyme, 1-butanol as substrate	1345	0	85.0
+secondary alcohol dehydrogenase with 2-propanol as substrate	1346	0	80.0
+primary enzyme, 1-butanol as substrate	1346	0	85.0
+ethanol oxidation	1357	8135516	80.0
+ethanol oxidation	1358	8135516	80.0
+assay at	1361	20516592	60.0
+assay at	1362	20516592	60.0
+assay at	1363	20516592	60.0
+ethanol as substrate	1364	9209068	85.0
+	1473	26923741	45.0
+; 	1477	23912116	30.0
+; 	1479	23912116	30.0
+ethanol as substrate	1484	9209068	85.0
+assay at	1486	20516592	60.0
+activity increases along with the elevated temperatures up to 95°C	1491	21515780	95.0
+preferred temperature for production of (2S,5S)-hexanediol, its activity at 30°C does not exceed 5% of its optimal activity, exhibits increased activity at 30°C on the substrate 2,5-hexanedione	1492	18452026	30.0
+assay at	1492	11358525	70.0
+assay at	1492	16535713	70.0
+	1492	11358525	90.0
+above	1492	9973342	90.0
+the temperature optimum of the wild type enzyme is determined to be between 90 and 100°C	1492	18452026	90.0-100.0
+assay at, ALR1	1493	24793885	37.0
+assay at	1493	25602762	37.0
+aldehyde reductase II	1497	3922304	35.0
+assay at room temperature	1498	16245351	22.0
+assay at, ALR1	1502	24793885	37.0
+assay at	1502	25602762	37.0
+assay at	1505	18211903	37.0
+assay at	1506	23755111	37.0
+assay temperature	1510	16289176	25.0
+	1512	24265029	40.0
