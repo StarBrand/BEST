@@ -55,7 +55,8 @@ dashboardPage(skin = "green",
     tabItems(
       # Log in
       tabItem(tabName = "account",
-              box( title = "Brenda User", width = 3,
+              
+              box( title = "Brenda User", width = 3, height = '80vh',
                    tags$br(),
                    textInput(inputId = "mail",
                              label = "Mail"),
@@ -71,10 +72,24 @@ dashboardPage(skin = "green",
                                 label = "log out",
                                 class = "btn-danger"))
               ),
-              box(width = 9, height = '70vh',
-                img(src = 'Referential.jpg',
-                    height = '350vh',
-                    style = "display: block; margin-left: auto; margin-right: auto;")
+              box(width = 9, height = '60vh',
+                  img(src = 'Referential.jpg',
+                      height = '320vh',
+                      style = "display: block; margin-left: auto; margin-right: auto;")
+              ),
+              box(width = 9, heigth = '30vh',
+                  column(4, h5("Brenda User"),
+                         helpText("To start using the ... app",
+                                  "you need a valid Brenda User,",
+                                  "if you don't, please, visit:"),
+                         tags$a("Brenda sign up", href="https://www.brenda-enzymes.org/login.php")),
+                  column(4, h5("Protein Search"),
+                         helpText("In this app you can",
+                                  "access all the Brenda",
+                                  "potencial in a more",
+                                  "intuitive way.")),
+                  column(4, h5("Analysis and visualization of data"),
+                         helpText("..."))
               )
       ),
       
@@ -87,7 +102,7 @@ dashboardPage(skin = "green",
       # Enzyme
       tabItem(tabName = "enzyme",
               box( title = "Select Enzyme", width = 4,
-                   div(style='height:70vh; overflow-y: scroll',
+                   div(style='height:80vh; overflow-y: scroll',
                    h3("Chooce an input"),
                    helpText("The ... app allows multiple type of",
                             "inputs. Such as enter the ec number, ",
@@ -96,6 +111,11 @@ dashboardPage(skin = "green",
                             "of your enzymes of interest"),
                    tags$br(),
                    h4("Enter EC Number"),
+                   helpText("Select this input if you ",
+                            "know the EC number of your enzyme ",
+                            "of interest, you can check it in: "),
+                   tags$a("EC Number Info", href="https://qmul.ac.uk/sbcs/iubmb"),
+                   tags$br(),
                    div(style="display: inline-block;vertical-align:top;width: 50px;",
                    selectizeInput("ec_number1", "",
                                   choices = read.table("ecNumber\\select.txt",
@@ -119,6 +139,9 @@ dashboardPage(skin = "green",
                    actionButton("ecNumber", "Enter", class = "btn-primary")),
                    tags$br(),
                    tags$hr(),
+                   helpText("Select this input if you",
+                            "just know the name of your",
+                            "enzyme"),
                    selectInput("subclass", "Know the subclass of the enzyme type?",
                                   choices = list("Oxidoreductases" = "1",
                                                  "Transferases" = "2",
@@ -140,40 +163,41 @@ dashboardPage(skin = "green",
                    )),
                    tags$br(),
                    tags$hr(),
+                   helpText("If you have the UniProt code(s) ",
+                            "of your enzyme(s) of interest, ",
+                            "upload a text file with them"),
                    fileInput("uniprot_file", "Upload your uniprot file"))
               )
       ),
       
       # Protein Table
       tabItem(tabName = "proteinTable",
-                box(title = "Select Parameters", width = 3, height = '80vh',
-                    div(style='height:70vh; overflow-y: scroll',
+                box(title = "Select Parameters", width = 3, height = '90vh',
+                    div(style='height:80vh; overflow-y: scroll',
                     h4('Parameters to be look up'),
                     materialSwitch("allParameters", "Select all", right = TRUE, value = FALSE, status = "primary"),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'mw', label = 'Molecular Weight')),
-                    div(style="display: inline-block;vertical-align:top;width: 2vh;", HTML("<br>")),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'ic50', label = 'IC50 Value')),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'kc', label = 'Kcat/Km')),
-                    div(style="display: inline-block;vertical-align:top;width: 2vh;", HTML("<br>")),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'ki', label = 'Ki Value')),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'km', label = 'Km Value')),
-                    div(style="display: inline-block;vertical-align:top;width: 2vh;", HTML("<br>")),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'pho', label = 'pH Optimum')),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'phr', label = 'pH Range')),
-                    div(style="display: inline-block;vertical-align:top;width: 2vh;", HTML("<br>")),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'pi', label = 'pI Value')),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'sa', label = 'Specific Activity')),
-                    div(style="display: inline-block;vertical-align:top;width: 2vh;", HTML("<br>")),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'to', label = 'Temperature Optimum')),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'tr', label = 'Temperature Range')),
-                    div(style="display: inline-block;vertical-align:top;width: 2vh;", HTML("<br>")),
-                    div(style="display: inline-block;vertical-align:top;width: 15vh;", checkboxInput(inputId = 'ton', label = 'TurnOver Number')),
+                    div(style="display: inline-block;vertical-align:top;width: 40vh;",
+                    checkboxGroupInput("attributes", "",
+                                       choices = list("Molecular Weight" = "mw",
+                                                      "IC50" = "ic50",
+                                                      "Kcat/Km" = "kc",
+                                                      "Ki" = "ki",
+                                                      "Km" = "km",
+                                                      "pH Optimum" = "pho",
+                                                      "pH Range" = "phr",
+                                                      "pI" = "pi",
+                                                      "Specific Activity" = "sa",
+                                                      "Temperature Optimum" = "to",
+                                                      "Temperature Range" = "tr",
+                                                      "Turnover Number" = "ton")
+                                                      )),
                     tags$hr(),
-                    h4("Additional Options:"),
+                    h4("Additional Options"),
                     checkboxInput(inputId = 'up',
                                   label = 'Look up just for the proteins that has UniProt code'
                                   ),
                     actionButton("parameters", "Search for parameters", class = "btn-success"),
+                    tags$br(),
                     tags$br(),
                     helpText("Here you can obtain numerical parameters",
                              "of the enzymes you want to."))
@@ -196,7 +220,7 @@ dashboardPage(skin = "green",
       # FASTA sequence
       tabItem(tabName = "fasta",
               box(title = "Options", width = 3,
-                  div(style='height:70vh; overflow-y: scroll',
+                  div(style='height:80vh; overflow-y: scroll',
                       p("Select the proteins you want to download"),
                       p("or"),
                       materialSwitch("no_filter", "Download all the list", right = TRUE, value = TRUE, status = "primary"),
@@ -211,11 +235,11 @@ dashboardPage(skin = "green",
               ),
               
               box(title = "FASTA Sequence", width = 9,
-                  div(style="display: inline-block;",downloadButton("downloadFASTA", "Download sequence in FASTA format", class = "btn-success")),
+                  div(style="display: inline-block;",downloadButton("downloadFASTA", "Download sequence in FASTA format", class = "btn-primary")),
                   div(style="display: inline-block;float:right;",actionButton("toProtein1", "Back to the protein table", class = "btn-warning")),
                   tags$br(),
                   tags$br(),
-                  div(style='height:70vh; overflow-y: scroll',
+                  div(style='height:60vh; overflow-y: scroll',
                   DTOutput("fastaTable"))
               )
       
@@ -225,11 +249,11 @@ dashboardPage(skin = "green",
       tabItem(tabName = "pdb",
               box(title = "PDB Table", width = 12,
                   tags$br(),
-                  div(style="display: inline-block;",downloadButton("downloadPDB", "Download PDB Table", class = "btn-success")),
+                  div(style="display: inline-block;",downloadButton("downloadPDB", "Download PDB Table", class = "btn-primary")),
                   div(style="display: inline-block;float:right;",actionButton("toProtein2", "Back to the protein table", class = "btn-warning")),
                   tags$br(),
                   tags$br(),
-                  div(style='height:70vh; overflow-y: scroll',
+                  div(style='height:60vh; overflow-y: scroll',
                   DTOutput("pdbTable"))
               )
       ),
@@ -237,167 +261,90 @@ dashboardPage(skin = "green",
       # Parameter Table
       tabItem(tabName = "parameterTable",
               box(
-                width = 4, height = '80vh',
+                width = 4, height = '90vh',
                 actionButton("filter", "Filter", class = "btn-primary"),
-                div(style='height:70vh; overflow-y: scroll',
-                conditionalPanel(condition = "input.mw",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'mw2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("mwFilter", h5("Filter Molecular Weight"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.ic50",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'ic502', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("ic50Filter", h5("Filter IC50 Value"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.kc",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'kc2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("kcFilter", h5("Filter Kcat/Km value"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.ki",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'ki2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("kiFilter", h5("Filter Ki value"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.km",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'km2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("kmFilter", h5("Filter Km value"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.pho",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'pho2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("phoFilter", h5("Filter pH Optimum value"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.phr",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'phr2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("phrFilter", h5("Filter pH Range value"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.pi",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'pi2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("piFilter", h5("Filter pI value"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.sa",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'sa2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("saFilter", h5("Filter Specific Activity"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.to",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'to2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("toFilter", h5("Filter Temperature Optimum value"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.tr",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'tr2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("trFilter", h5("Filter Temperature Range value"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ),
-                
-                conditionalPanel(condition = "input.ton",
-                                 div(style="display: inline-block;",checkboxInput(inputId = 'ton2', label = "")),
-                                 div(style="display: inline-block;width:40vh;",
-                                 sliderInput("tonFilter", h5("Filter TurnOver number"),
-                                             min = 0,
-                                             max = 100,
-                                             value = c(
-                                               0,
-                                               100
-                                             )
-                                 ))
-                ))
-              ),
+                helpText("Move the sliders to filter ",
+                         "the table prior further analysis ",
+                         "if you want to maintain all the ",
+                         "obtained data, leave the sliders ",
+                         "as they are."),
+                div(style='height:65vh; overflow-y: scroll',
+                    conditionalPanel(condition = "input.attributes.inludes('mw')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'mw2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("mwFilter", h5("Filter Molecular Weight"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('ic50')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'ic502', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("ic50Filter", h5("Filter IC50 Value"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('kc')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'kc2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("kcFilter", h5("Filter Kcat/Km value"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('ki')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'ki2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("kiFilter", h5("Filter Ki value"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('km')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'km2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("kmFilter", h5("Filter Km value"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('pho')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'pho2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("phoFilter", h5("Filter pH Optimum value"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('phr')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'phr2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("phrFilter", h5("Filter pH Range value"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('pi')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'pi2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("piFilter", h5("Filter pI value"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('sa')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'sa2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("saFilter", h5("Filter Specific Activity"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('to')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'to2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("toFilter", h5("Filter Temperature Optimum value"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('tr')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'tr2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("trFilter", h5("Filter Temperature Range value"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         )),
+                    conditionalPanel(condition = "input.attributes.inludes('ton')",
+                                     div(style="display: inline-block;",checkboxInput(inputId = 'ton2', label = "")),
+                                     div(style="display: inline-block;width:40vh;",
+                                         sliderInput("tonFilter", h5("Filter TurnOver number"),
+                                                     min = 0, max = 100, value = c(0,100))
+                                         ))
+                    )),
               box(
                 div(style="display: inline-block;",actionButton("visualize", "Visualize", class = "btn-success")),
+                div(style="display: inline-block;",downloadButton("downloadTable", "Download table (.csv)", class = "btn-primary")),
                 div(style="display: inline-block;float:right;",actionButton("toProtein3", "Back to the protein table", class = "btn-warning")),
                 tags$br(),
                 tags$br(),
@@ -410,8 +357,8 @@ dashboardPage(skin = "green",
       # Information Avaible
       tabItem(tabName = "info",
               box(
-                title = "Information", width = 4, height = '80vh',
-                div(style='height:60vh; overflow-y: scroll',
+                title = "Information", width = 4, height = '90vh',
+                div(style='height:80vh; overflow-y: scroll',
                 h4("Want more data?"),
                 div(style="display: inline-block;",
                 p("To look for protein: ")),
@@ -451,8 +398,21 @@ dashboardPage(skin = "green",
       
       # Parameters Found show with an Histogram
       tabItem(tabName = "histogram",
-              box(title = "Sidebar", width = 3,
-                  actionButton("getDistribution", "Watch distribution")),
+              box(title = "Sidebar", width = 3, height = '90vh',
+                  checkboxInput("new_table", "Work with a new table"),
+                  conditionalPanel(condition = "input.new_table",
+                                   fileInput("uploadTable", "Upload a new table")
+                  ),
+                  helpText("If you want to, you can work with a new table, ",
+                           "or, if you already downloaded a table with ",
+                           "parameters of enzymes in this site ",
+                           "you can upload the table in .csv format ",
+                           "here. Make sure to check the format of your table",
+                           "to match the format of the tables of this side, ",
+                           "to avoid posibles error."),
+                  div(style = "text-align:center;",
+                    actionButton("getDistribution", "Watch distribution", class = "btn-primary"))
+              ),
               box(title = "Parameters Found", width = 9,
                   height = '85vh',
                   div(plotlyOutput("histogram"), height = '70vh', width = '70vh')
@@ -461,7 +421,7 @@ dashboardPage(skin = "green",
       
       # Distribution
       tabItem(tabName = "distribution",
-              box(title = "Sidebar", width = 3),
+              box(title = "Sidebar", width = 3, height = '90vh'),
               box(tile = "Distribution", width = 9,
                   height = '70vh',
                   div(
@@ -489,6 +449,11 @@ dashboardPage(skin = "green",
       tabItem(tabName = "faq",
               h1("Frequently asked question")
       )
+    ),
+    div(
+      style = "text-align:center;",
+      hr(),
+      p("~~~~~~~~~~Info~~~~~~~~~~")
     )
   )
 )

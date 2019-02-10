@@ -23,6 +23,11 @@ library(plotly)
 # Define server logic
 shinyServer(function(input, output, session) {
   
+  # Color palette
+  seba_palette <- c("#4c9e4a", "#124211", "#336931", "#68d565", "#a1fb9e",
+                    "#083121", "#2e624d", "#499d7b", "#10784e", "#6cd1a8",
+                    "#5964e5", "#333ec2", "#394093", "#0a0c26", "#202453")
+  
   # Flags
   isThereUser <- reactiveVal(FALSE)
   proteinSearch <- reactiveVal(FALSE)
@@ -31,10 +36,31 @@ shinyServer(function(input, output, session) {
   paramSearch <- reactiveVal(FALSE)
   attributeFound <- reactiveVal(rep(FALSE, 12))
   
-  #Standard readtable
+  # Function
+  # Standard readtable
   new_table <- function(name){
     read.table(name, header = TRUE, na.strings = "null", sep = "\t")
   }
+  
+  # Attributtes
+  at <- c("mw", "ic50", "kc", "ki", "km", "pho", "phr", "pi", "sa", "to", "tr", "ton")
+  nat <- c("Molecular_Weight", "IC50", "Kcat/Km",
+             "Ki", "Km", "pH_Optimum", "pH_Range",
+             "pI", "Specific_Activity", "Temperature_Optimum",
+             "Temperature_Range", "Turnover_Number")
+  molList <- c("null", "Inhibitor", "Substrate", "Inhibitor", "Substrate", "null",
+               "null", "null", "null", "null", "null", "Substrate")
+  bool_mol <- molList != "null"
+  
+  # Standard do function for parameter
+  do_function <- function(n, fun1, fun2, fun3, ...){
+    if(at[n] %in% input$attributes){
+      if(attributeFound()[n]){fun1(n, ...)}
+      else{fun2(n, ...)}}
+    else{fun3(n, ...)}
+  }
+  
+  do_nothing <- function(n, ...){}
   
   # Tables
   # Protein Table
@@ -52,18 +78,7 @@ shinyServer(function(input, output, session) {
   # Synonyms Table
   synonymsTable <- reactiveVal(NULL)
   # Parameters Table
-  mwTable <- reactiveVal(NULL)
-  ic50Table <- reactiveVal(NULL)
-  kcTable <- reactiveVal(NULL)
-  kiTable <- reactiveVal(NULL)
-  kmTable <- reactiveVal(NULL)
-  phoTable <- reactiveVal(NULL)
-  phrTable <- reactiveVal(NULL)
-  piTable <- reactiveVal(NULL)
-  saTable <- reactiveVal(NULL)
-  toTable <- reactiveVal(NULL)
-  trTable <- reactiveVal(NULL)
-  tonTable <- reactiveVal(NULL)
+  attrTable <- reactiveVal(list(NULL))
   
   # Plots
   # Histogram
@@ -94,16 +109,19 @@ shinyServer(function(input, output, session) {
   user <- eventReactive(input$logIn, {
     #.jnew("client.User",input$mail, input$pass)
   })
-  
+  # Define folder
+  folder <- reactiveVal("_results\\")
   
   # Disable user
   observeEvent(input$logIn, {
+    updateTabItems(session, "inTabset", "enzyme")
     isThereUser(TRUE)
     shinyjs::show("logOut")
     shinyjs::disable("mail")
     shinyjs::hide("pass")
     shinyjs::hide("logIn")
-    updateTabItems(session, "inTabset", "enzyme")
+    new_folder <- paste(input$mail, "_results\\", sep = "")
+    folder(new_folder)
   })
   
   # Enable user
@@ -126,81 +144,34 @@ shinyServer(function(input, output, session) {
     pdbTable(NULL)
     parameterTable(NULL)
     summaryTable(NULL)
-    mwTable(NULL)
-    ic50Table(NULL)
-    kcTable(NULL)
-    kiTable(NULL)
-    kmTable(NULL)
-    phoTable(NULL)
-    phrTable(NULL)
-    piTable(NULL)
-    saTable(NULL)
-    toTable(NULL)
-    trTable(NULL)
-    tonTable(NULL)
-    histPlot(NULL)
+    attrTable(list(NULL))
     attributeFound(rep(FALSE, 12))
     histPlot(NULL)
     distributionPlot(NULL)
   })
   
-  # Folder
-  folder <- reactiveVal("_results\\")
-  
-  # Set folder
-  observeEvent(input$logIn, {
-    new_folder <- paste(input$mail, "_results\\", sep = "")
-    folder(new_folder)
-  })
-  
   # Endoder function for Parameter Query
   encoder_param<-function(){
     cond <- 0
-    if(input$mw){
-      cond <- cond + 1
-    }
-    if(input$ic50){
-      cond <- cond + 2
-    }
-    if(input$kc){
-      cond <- cond + 4
-    }
-    if(input$ki){
-      cond <- cond + 8
-    }
-    if(input$km){
-      cond <- cond + 16
-    }
-    if(input$pho){
-      cond <- cond + 32
-    }
-    if(input$phr){
-      cond <- cond + 64
-    }
-    if(input$pi){
-      cond <- cond + 128
-    }
-    if(input$sa){
-      cond <- cond + 256
-    }
-    if(input$to){
-      cond <- cond + 512
-    }
-    if(input$tr){
-      cond <- cond + 1024
-    }
-    if(input$ton){
-      cond <- cond + 2048
-    }
+    if(input$mw){cond <- cond + 1}
+    if(input$ic50){cond <- cond + 2}
+    if(input$kc){cond <- cond + 4}
+    if(input$ki){cond <- cond + 8}
+    if(input$km){cond <- cond + 16}
+    if(input$pho){cond <- cond + 32}
+    if(input$phr){cond <- cond + 64}
+    if(input$pi){cond <- cond + 128}
+    if(input$sa){cond <- cond + 256}
+    if(input$to){cond <- cond + 512}
+    if(input$tr){cond <- cond + 1024}
+    if(input$ton){cond <- cond + 2048}
     cond
   }
   
   # Endoder function for Parameter Query
   encoder_filter<-function(){
     cond <- 0
-    if(input$up){
-      cond <- cond + 1
-    }
+    if(input$up){cond <- cond + 1}
     cond
   }
   
@@ -251,8 +222,7 @@ shinyServer(function(input, output, session) {
     subclass <- as.list(table$EC)
     subclass <- setNames(subclass, table$subclass)
     updateSelectInput(session, "subsubclass",
-                      choices = subclass
-                      )
+                      choices = subclass)
   })
   observeEvent(input$subsubclass, {
     if(input$subsubclass != ""){
@@ -270,28 +240,25 @@ shinyServer(function(input, output, session) {
   
   # Search
   observeEvent(input$enzymeName, {
-    if(!isThereUser()){
-      noSession()
-    }
+    if(!isThereUser()){noSession()}
     a<-str_split(input$enzyme_name, "\t")
     b <- unlist(a)
     c <- str_split_fixed(b, ": ", 2)
     choices <- as.list(c[,1])
     choices <- setNames(choices, b)
-    updateRadioButtons(session, "pick",
-                       choices = choices)
+    updateRadioButtons(session, "pick", choices = choices)
     shinyjs::show("pick")
     shinyjs::show("enzymeNameFinal")
   })
   
   # Generate Protein Table
   generateProteinTable <- function(){
+    updateTabItems(session, "inTabset", "proteinTable")
     proteinSearch(TRUE)
     fastaSearch(FALSE)
     pdbSearch(FALSE)
     paramSearch(FALSE)
     attributeFound(rep(FALSE, 12))
-    updateTabItems(session, "inTabset", "proteinTable")
     #main <- .jnew("main.BrendaSOAP", ec_number(), user(), as.integer(0), as.integer(0))
     #main$getProtein()
     table <- new_table(paste(folder(), "table.txt", sep = ""))
@@ -300,9 +267,7 @@ shinyServer(function(input, output, session) {
   
   # EC Number
   observeEvent(input$ecNumber, {
-    if(!isThereUser()){
-      noSession()
-    }
+    if(!isThereUser()){noSession()}
     else{
       new_ec_number <- paste(input$ec_number1,
                              input$ec_number2,
@@ -316,13 +281,9 @@ shinyServer(function(input, output, session) {
   
   # Enzyme Name
   observeEvent(input$enzymeNameFinal, {
-    if(!isThereUser()){
-      noSession()
-    }
-    else{
-      ec_number(input$pick)
-      generateProteinTable()
-    }
+    if(!isThereUser()){noSession()}
+    else{ec_number(input$pick)
+      generateProteinTable()}
   })
   
   # Protein Table
@@ -349,9 +310,7 @@ shinyServer(function(input, output, session) {
   
   # Generate Fasta Table
   observeEvent(input$toFasta, {
-    if(!proteinSearch()){
-      noSearch("Sequence")
-    }
+    if(!proteinSearch()){noSearch("Sequence")}
     else{
       fastaSearch(TRUE)
       updateTabItems(session, "inTabset", "fasta")
@@ -380,10 +339,11 @@ shinyServer(function(input, output, session) {
       } else{
         table <- NULL
       }
-      write.csv(table, name, quote = FALSE, row.names = FALSE, col.names = FALSE)
+      write.table(table, name, quote = FALSE, row.names = FALSE, col.names = FALSE, sep = "\t")
     }
   )
   
+  # Process Fasta to download
   processFasta <- function(){
     file <- paste(folder(), "fasta_output.txt", sep = "")
     if(input$no_filter){
@@ -413,9 +373,7 @@ shinyServer(function(input, output, session) {
   
   # Generate PDB Table
   observeEvent(input$toPDB, {
-    if(!proteinSearch()){
-      noSearch("PDB")
-    }
+    if(!proteinSearch()){noSearch("PDB")}
     else{
       pdbSearch(TRUE)
       updateTabItems(session, "inTabset", "pdb")
@@ -437,108 +395,113 @@ shinyServer(function(input, output, session) {
                                  pageLength = 10))
   }, escape = FALSE)
   
+  # Download PDB
+  output$downloadPDB <- downloadHandler(
+    filename <- 'pdb.txt',
+    content <- function(name){
+      file <- paste(folder(), "pdb_table.txt", sep = "")
+      table <- read.table(file, header = TRUE, sep = "\t")
+      write.csv(table, name, quote = FALSE, row.names = FALSE, sep = "\t")
+    }
+  )
+  
   # Back to protein table
   observeEvent(input$toProtein2, {
     updateTabItems(session, "inTabset", "proteinTable")
   })
   
   # Create parameters table
-  # With Molecule
-  newParamTableMol <- function(name, tbl, attr_folder, file, mol, filterId, n){
+  importParamTable <- function(n,  ...){
     af <- attributeFound()
+    taf <- attrTable()
+    attr_folder <- paste(folder(), "attributes\\", sep = "")
+    file <- gsub("_", " ", nat[n])
+    file <- gsub("/", "_", file)
+    file <- paste(file, ".txt", sep ="")
     table_name <- paste(attr_folder, file, sep = "")
+    filterId <- paste(at[n], "Filter", sep = "")
     if(file.exists(table_name)){
       af[n] <- TRUE
       table <- new_table(table_name)
-      update_filter(table, filterId, name)
-      table <- table[,c("Ref", "value", mol, "Commentary", "Literature.PubmedID.")]
-      tbl(table)
-    }
-    else{
-      update_filter_notFound(filterId, name)
+      update_filter(table, filterId, nat[n])
+      op <- list(...)
+      if(!is.null(op$mol) & op$mol != "null"){
+        table <- table[,c("Ref", "value", op$mol, "Commentary", "Literature.PubmedID.")]
+      } else{table <- table[,c("Ref", "value", "Commentary", "Literature.PubmedID.")]}
+      taf[[n]] <- table }
+    else{ update_filter_notFound(filterId, nat[n])
       af[n] <- FALSE
-      tbl(NULL)
-    }
-    attributeFound(af)
-  }
-  
-  # Without Molecule
-  newParamTable <- function(name, tbl, attr_folder, file, filterId, n){
-    af <- attributeFound()
-    table_name <- paste(attr_folder, file, sep = "")
-    if(file.exists(table_name)){
-      af[n] <- TRUE
-      table <- new_table(table_name)
-      update_filter(table, filterId, name)
-      table <- table[,c("Ref", "value", "Commentary", "Literature.PubmedID.")]
-      tbl(table)
-    }
-    else{
-      update_filter_notFound(filterId, name)
-      af[n] <- FALSE
-      tbl(NULL)
-    }
+      taf[[n]] <- NULL}
+    attrTable(taf)
     attributeFound(af)
   }
   
   # Collapse table
-  # With Molecule
-  attr_collapse_mol <- function(name, table, molecule){
+  attr_collapse <- function(n, table, with_mol){
     out <- table
-    attributes(out)$names <- paste(name, attributes(out)$names, sep ="_")
+    if(with_mol){
+      k <- 5
+    } else{k <- 4}
+    attributes(out)$names <- paste(nat[n], attributes(out)$names, sep ="_")
     attributes(out)$names[1] <- "Ref"
-    out <- aggregate(out[,2:5], by=list(table$Ref), paste, collapse=";")
-    attributes(out)$names[1] <- "Ref"
-    out
-  }
-  
-  # Without Molecule
-  attr_collapse <- function(name, table){
-    out <- table
-    attributes(out)$names <- paste(name, attributes(out)$names, sep ="_")
-    attributes(out)$names[1] <- "Ref"
-    out <- aggregate(out[,2:4], by=list(table$Ref), paste, collapse=";")
+    out <- aggregate(out[,2:k], by=list(out$Ref), paste, collapse=";")
     attributes(out)$names[1] <- "Ref"
     out
   }
   
   # Add to output Table
-  # Table with molecule
-  addTable_withMol <- function(name, paramTable, mol, table){
-    out <- attr_collapse_mol(
-      name,
-      paramTable,
-      mol)
+  addTable <- function(n, ...){
+    op <- list(...)
+    table <- op$table
+    with_mol <- op$with_mol
+    out <- attr_collapse(n, attrTable()[[n]], with_mol)
     table <- merge(table, out, by="Ref", all = TRUE)
   }
   
-  # Table without molecule
-  addTable <- function(name, paramTable, table){
-    out <- attr_collapse(
-      name,
-      paramTable)
-    table <- merge(table, out, by="Ref", all = TRUE)
+  # No table to add
+  addNoTable <- function(n, ...){
+    op <- list(...)
+    table <- op$table
+    table
+  }
+  
+  # Gets the numerical value
+  numericalValue <- function(param){
+    p <- with(param, param[value != "-999.0",])
+    p <- with(p, p[value != "-999",])
+    p$min <- lapply(p$value, function(i){
+      str_split(i, "-")[[1]][1]})
+    p$min <- as.double(p$min)
+    p$max <- lapply(p$value, function(i){
+      str_split(i, "-")[[1]][2]})
+    p_s <- with(p, p[!grepl("-", value),])
+    p_r <- with(p, p[grepl("-", value),])
+    p_r$max <- as.double(p_r$max)
+    p <- rbind(p_s, p_r)
   }
   
   # Calculate the min max
-  min_max <- function(vectorIn){
-    use <- gsub("-999", NA, vectorIn)
-    use <- str_split(use, ";")
-    use <- unlist(use, recursive = TRUE)
-    use <- str_split(use, "-")
-    use <- unlist(use, recursive = TRUE)
-    use <- sapply(use, 'as.double')
+  min_max <- function(param){
+    use1 <- unlist(param$min)
+    use2 <- unlist(param$max)
+    use <- c(use1, use2)
+    use <- unlist(use)
+    use <- lapply(use, "as.double")
+    use <- unlist(use)
     a <- c(min(use, na.rm = TRUE), max(use, na.rm = TRUE))
   }
   
   # Update filter
   update_filter <- function(table, filterId, name){
     label <- paste(name, " filter")
-    a <- min_max(table$value)
-    s <- (a[2] - a[1])/40
+    table <- numericalValue(table)
+    r <- min_max(table)
+    a <- as.double(r[1])
+    b <- as.double(r[2])
+    s <- (b - a)/40
     updateSliderInput(session, filterId, label,
-                      value = a, min = a[1],
-                      max = a[2], step = s)
+                      value = c(a, b), min = a,
+                      max = b, step = s)
   }
   # Not fount
   update_filter_notFound <- function(filterId, name){
@@ -550,32 +513,10 @@ shinyServer(function(input, output, session) {
   # Select all
   observeEvent(input$allParameters, {
     if(input$allParameters){
-      updateCheckboxInput(session, "mw", value = TRUE)
-      updateCheckboxInput(session, "ic50", value = TRUE)
-      updateCheckboxInput(session, "kc", value = TRUE)
-      updateCheckboxInput(session, "ki", value = TRUE)
-      updateCheckboxInput(session, "km", value = TRUE)
-      updateCheckboxInput(session, "pho", value = TRUE)
-      updateCheckboxInput(session, "phr", value = TRUE)
-      updateCheckboxInput(session, "pi", value = TRUE)
-      updateCheckboxInput(session, "sa", value = TRUE)
-      updateCheckboxInput(session, "to", value = TRUE)
-      updateCheckboxInput(session, "tr", value = TRUE)
-      updateCheckboxInput(session, "ton", value = TRUE)
+      updateCheckboxGroupInput(session, "attributes", selected = at)
     }
     else{
-      updateCheckboxInput(session, "mw", value = FALSE)
-      updateCheckboxInput(session, "ic50", value = FALSE)
-      updateCheckboxInput(session, "kc", value = FALSE)
-      updateCheckboxInput(session, "ki", value = FALSE)
-      updateCheckboxInput(session, "km", value = FALSE)
-      updateCheckboxInput(session, "pho", value = FALSE)
-      updateCheckboxInput(session, "phr", value = FALSE)
-      updateCheckboxInput(session, "pi", value = FALSE)
-      updateCheckboxInput(session, "sa", value = FALSE)
-      updateCheckboxInput(session, "to", value = FALSE)
-      updateCheckboxInput(session, "tr", value = FALSE)
-      updateCheckboxInput(session, "ton", value = FALSE)
+      updateCheckboxGroupInput(session, "attributes", selected = c())
     }
   })
   
@@ -583,120 +524,21 @@ shinyServer(function(input, output, session) {
   observeEvent(input$parameters, {
     paramSearch(TRUE)
     if(proteinSearch()){
+    shinyjs::disable("parameters")
     updateTabItems(session, "inTabset", "parameterTable")
     #main <- .jnew("main.BrendaSOAP", ec_number(), user(), as.integer(encoder_param()), as.integer(encoder_filter()))
     #main$getProtein()
     s <- input$distProteinTable_rows_selected
     int <- as.integer(c())
-    if(length(s)){
-      int <- as.integer(c(s - 1, int))
-    }
+    if(length(s)){int <- as.integer(c(s - 1, int))}
     int <- .jarray(int)
     #main$getParameters(int, input$allProteins)
     attr_folder <- paste(folder(), "attributes\\", sep = "")
-    table <- new_table(paste(folder(),"table.txt", sep = ""))
+    table <- new_table(paste(folder(), "table.txt", sep = ""))
     proteinTable(table)
-    if(input$mw){
-      newParamTable("Molecular Weight", mwTable, attr_folder, "Molecular Weight.txt", "mwFilter", 1)
-      if(attributeFound()[1]){
-        table <- addTable("Molecular_Weight",
-                          mwTable(),
-                          table)
-      }
-    }
-    if(input$ic50){
-      newParamTableMol("IC50", ic50Table, attr_folder, "IC50.txt", "Inhibitor", "ic50Filter", 2)
-      if(attributeFound()[2]){
-        table <- addTable_withMol("IC50",
-                                  ic50Table(),
-                                  "Inhibitor",
-                                  table)
-      }
-    }
-    if(input$kc){
-      newParamTableMol("Kcat/Km", kcTable, attr_folder, "Kcat_Km.txt", "Substrate", "kcFilter", 3)
-      if(attributeFound()[3]){
-        table <- addTable_withMol("Kcat_Km",
-                                  kcTable(),
-                                  "Substrate",
-                                  table)
-      }
-    }
-    if(input$ki){
-      newParamTableMol("Ki", kiTable, attr_folder, "Ki.txt", "Inhibitor", "kiFilter", 4)
-      if(attributeFound()[4]){
-        table <- addTable_withMol("Ki",
-                                  kcTable(),
-                                  "Inhibitor",
-                                  table)
-      }
-    }
-    if(input$km){
-      newParamTableMol("Km", kmTable, attr_folder, "Km.txt", "Substrate", "kmFilter", 5)
-      #kmTable()$Substrate <- gsub("more", "1,4-beta-D-xylan", kmTable()$Substrate)
-      if(attributeFound()[5]){
-        table <- addTable_withMol("Km",
-                                  kmTable(),
-                                  "Substrate",
-                                  table)
-      }
-    }
-    if(input$pho){
-      newParamTable("pH Optimum", phoTable, attr_folder, "pH Optimum.txt", "phoFilter", 6)
-      if(attributeFound()[6]){
-        table <- addTable("pH_Optimum",
-                          phoTable(),
-                          table)
-      }
-    }
-    if(input$phr){
-      newParamTable("pH Range", phrTable, attr_folder, "pH Range.txt", "phrFilter", 7)
-      if(attributeFound()[7]){
-        table <- addTable("pH_Range",
-                          phoTable(),
-                          table)
-      }
-    }
-    if(input$pi){
-      newParamTable("pI", piTable, attr_folder, "pI.txt", "piFilter", 8)
-      if(attributeFound()[8]){
-        table <- addTable("pI",
-                          piTable(),
-                          table)
-      }
-    }
-    if(input$sa){
-      newParamTable("Specific Activity", saTable, attr_folder, "Specific Activity.txt", "saFilter", 9)
-      if(attributeFound()[9]){
-        table <- addTable("Specific_Activity",
-                          saTable(),
-                          table)
-      }
-    }
-    if(input$to){
-      newParamTable("Temperature Optimum", toTable, attr_folder, "Temperature Optimum.txt", "toFilter", 10)
-      if(attributeFound()[10]){
-        table <- addTable("Temperature_Optimum",
-                          toTable(),
-                          table)
-      }
-    }
-    if(input$tr){
-      newParamTable("Temperature Range", trTable, attr_folder, "Temperature Range.txt", "trFilter", 11)
-      if(attributeFound()[11]){
-        table <- addTable("Temperature_Range",
-                          trTable(),
-                          table)
-      }
-    }
-    if(input$ton){
-      newParamTableMol("Turnover Number", tonTable, attr_folder, "Turnover Number.txt", "Substrate", "tonFilter", 12)
-      if(attributeFound()[12]){
-        table <- addTable_withMol("Turnover Number",
-                                  tonTable(),
-                                  "Substrate",
-                                  table)
-      }
+    for(i in 1:12){
+      do_function(i, do_nothing, importParamTable, do_nothing, mol = molList[i])
+      table <- do_function(i, addTable, addNoTable, addNoTable, table = table, with_mol = bool_mol[i])
     }
     table <- table[sort(table$Ref, decreasing = FALSE),]
     table <- data.frame(lapply(table, function(i){
@@ -705,6 +547,7 @@ shinyServer(function(input, output, session) {
       gsub("-999", "Aditional Information", i)}))
     table$Ref <- NULL
     table
+    shinyjs::enable("parameters")
     parameterTable(table)
     } else{
       noSearch("Parameters")
@@ -719,57 +562,89 @@ shinyServer(function(input, output, session) {
                                  pageLength = 5))
   })
   
+  # Download Parameter Table
+  output$downloadTable <- downloadHandler(
+    filename <- 'table.csv',
+    content <- function(name){
+      if(paramSearch()){
+        table <- parameterTable()
+      }
+      else{
+        table <- NULL
+      }
+      write.csv(table, name, quote = FALSE, row.names = FALSE, sep = "\t")
+    }
+  )
+  
   # Back to protein table
   observeEvent(input$toProtein3, {
     updateTabItems(session, "inTabset", "proteinTable")
   })
 
   # Extract amount information
-  extract <- function(name, attr_table, table, n){
-    if(attributeFound()[n]){
-      out <- attr_table
-      out$value <- 1
-      out <- aggregate(out[,"value"],
-                       by = list(out$Ref),
-                       sum)
-      attributes(out)$names[1] <- "Ref"
-      attributes(out)$names[2] <- name
-      out <- merge(table, out, all = TRUE)
-      out[is.na(out)] <- 0
-      out$Parameters <- out$Parameters + out[,name]
-    }
-    else{
-      out <- table
-      out[,name] <- "Parameter Not Found"
-    }
+  extract <- function(n, ...){
+    op <- list(...)
+    table <- op$table
+    out <- attrTable()[[n]]
+    out$value <- 1
+    out <- aggregate(out[,"value"],
+                     by = list(out$Ref),
+                     sum)
+    attributes(out)$names[1] <- "Ref"
+    attributes(out)$names[2] <- nat[n]
+    out <- merge(table, out, all = TRUE)
+    out[is.na(out)] <- 0
+    out$Parameters <- out$Parameters + out[,nat[n]]
+    out
+  }
+  
+  extractNotFound <- function(n, ...){
+    op <- list(...)
+    table <- op$table
+    out <- table
+    out[,nat[n]] <- "Parameter Not Found"
     out
   }
   
   # Filter function
-  filterParam <- function(param, param_filter, n){
-    if(attributeFound()[n]){
-      p <- with(param, param[value != "-999.0",])
-      p <- with(p, p[value != "-999",])
-      p$min <- lapply(p$value,
-                      function(i){
-                        str_split(i, "-")[[1]][1]
-                        })
-      p$min <- as.double(p$min)
-      p$max <- lapply(p$value,
-                      function(i){
-                        str_split(i, "-")[[1]][2]
-                        })
-      p_s <- with(p, p[!grepl("-", value),])
-      p_r <- with(p, p[grepl("-", value),])
-      # Filter range
-      p_r$max <- as.double(p_r$max)
-      p_r <- with(p_r, p_r[min >= f[1] & max <= f[2],])
-      # Filter single value
-      p_s <- with(p_s, p_s[min >= f[1] & min <= f[2],])
-      p <- rbind(p_s, p_r)
-      p$min <- NULL
-      p$max <- NULL
-      p
+  filterParam <- function(n, f1, f2){
+    param <- attrTable()[[n]]
+    p <- numericalValue(param)
+    p_s <- with(p, p[!grepl("-", value),])
+    p_r <- with(p, p[grepl("-", value),])
+    # Filter range
+    fmin <- as.double(f1)
+    fmax <- as.double(f2)
+    p_r <- with(p_r, p_r[min >= fmin & max <= fmax,])
+    # Filter single value
+    p_s <- with(p_s, p_s[min >= fmin & min <= fmax,])
+    p <- rbind(p_s, p_r)
+    p$min <- NULL
+    p$max <- NULL
+    p
+  }
+  
+  filtering <- function(n,...){
+    aTable <- attrTable()
+    op <- list(...)
+    bf <- op$bf
+    f1 <- op$f1
+    f2 <- op$f2
+    table <- op$table
+    with_mol <- op$with_mol
+    if(bf){
+      table2 <- filterParam(n, f1, f2)
+      aTable[[n]] <- table2
+      attrTable(aTable)
+      if(nrow(table2) == 0){
+        table2 <- attr_collapse(n, table2, with_mol)
+        attributes(table2)$names <- paste(nat[n], attributes(table2)$names, sep ="_")
+        attributes(table2)$names[1] <- "Ref"
+        }
+      table <- merge(table, table2)
+    } else{
+      table2 <- attr_collapse(n, aTable[[n]], with_mol)
+      table <- merge(table, table2, all = TRUE)
     }
   }
   
@@ -781,113 +656,15 @@ shinyServer(function(input, output, session) {
                  type = "error")
     } else{
     table <- proteinTable()
-    if(input$mw & input$mw2){
-      table2 <- filterParam(mwTable(), input$mwFilter, 1)
-      mwTable(table2)
-      table2 <- attr_collapse("Molecular_Weight", table2)
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse("Molecular_Weight", mwTable())
-      table <- merge(table, table2, all = TRUE)
-    }
-    #if(input$ic50 & input$ic502){
-      #table2 <- filterParam(ic50Table(), input$ic50Filter, 2)
-      #ic50Table(table2)
-      #table2 <- attr_collapse_mol("IC50", table2, "Inhibitor")
-      #table <- merge(table, table2)
-    #} else{
-      #table2 <- attr_collapse_mol("IC50", ic50Table(), "Inhibitor")
-      #table <- merge(table, table2, all = TRUE)
-    #}
-    if(input$kc & input$kc2){
-      table2 <- filterParam(kcTable(), input$kcFilter, 3)
-      kcTable(table2)
-      table2 <- attr_collapse_mol("Kcat/Km", table2, "Substrate")
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse_mol("Kcat/Km", kcTable(), "Substrate")
-      table <- merge(table, table2, all = TRUE)
-    }
-    if(input$ki & input$ki2){
-      table2 <- filterParam(kiTable(), input$kiFilter, 4)
-      kiTable(table2)
-      table2 <- attr_collapse_mol("Ki", table2, "Substrate")
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse_mol("Ki", kiTable(), "Substrate")
-      table <- merge(table, table2, all = TRUE)
-    }
-    if(input$km & input$km2){
-      table2 <- filterParam(kmTable(), input$kmFilter, 5)
-      kmTable(table2)
-      table2 <- attr_collapse_mol("Km", table2, "Substrate")
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse_mol("Km", kmTable(), "Substrate")
-      table <- merge(table, table2, all = TRUE)
-    }
-    if(input$pho & input$pho2){
-      table2 <- filterParam(phoTable(), input$phoFilter, 6)
-      phoTable(table2)
-      table2 <- attr_collapse("pH_Optimum", table2)
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse("pH_Optimum", phoTable())
-      table <- merge(table, table2, all = TRUE)
-    }
-    if(input$phr & input$phr2){
-      table2 <- filterParam(phrTable(), input$phrFilter, 7)
-      phrTable(table2)
-      table2 <- attr_collapse("pH_Range", table2)
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse("pH_Range", phrTable())
-      table <- merge(table, table2, all = TRUE)
-    }
-    if(input$pi & input$pi2){
-      table2 <- filterParam(piTable(), input$piFilter, 8)
-      piTable(table2)
-      table2 <- attr_collapse("pI", table2)
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse("pi", piTable())
-      table <- merge(table, table2, all = TRUE)
-    }
-    if(input$sa & input$sa2){
-      table2 <- filterParam(saTable(), input$saFilter, 9)
-      saTable(table2)
-      table2 <- attr_collapse("Specific_Activity", table2)
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse("Specific_Activity", saTable())
-      table <- merge(table, table2, all = TRUE)
-    }
-    if(input$to & input$to2){
-      table2 <- filterParam(toTable(), input$toFilter, 10)
-      toTable(table2)
-      table2 <- attr_collapse("Temperature_Optimum", table2)
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse("Temperature_Optimum", toTable())
-      table <- merge(table, table2, all = TRUE)
-    }
-    if(input$tr & input$tr2){
-      table2 <- filterParam(trTable(), input$trFilter, 11)
-      trTable(table2)
-      table2 <- attr_collapse("Temperature_Range", table2)
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse("Temperature_Range", trTable())
-      table <- merge(table, table2, all = TRUE)
-    }
-    if(input$ton & input$ton2){
-      table2 <- filterParam(tonTable(), input$tonFilter, 12)
-      tonTable(table2)
-      table2 <- attr_collapse_mol("Turnover_Number", table2, "Substrate")
-      table <- merge(table, table2)
-    } else{
-      table2 <- attr_collapse_mol("Turnover_Number", tonTable(), "Substrate")
-      table <- merge(table, table2, all = TRUE)
+    bfList <- c(input$mw2, input$ic502, input$kc2, input$ki2,
+                input$km2, input$pho2, input$phr2, input$pi2,
+                input$sa2, input$to2, input$tr2, input$ton2)
+    fL <- c(input$mwFilter, input$ic50Filter, input$kcFilter, input$kiFilter,
+            input$kmFilter, input$phoFilter, input$phrFilter, input$piFilter,
+            input$saFilter, input$toFilter, input$trFilter, input$tonFilter)
+    for(n in 1:12){
+      table <- do_function(n, filtering, addNoTable, addNoTable,
+                           bf = bfList[n], f1 = fL[2*n-1], f2 = fL[2*n], table = table, with_mol = bool_mol[n])
     }
     table$Ref <- NULL
     parameterTable(table)}
@@ -927,41 +704,8 @@ shinyServer(function(input, output, session) {
       table <- proteinTable()
       table <- table[,c("Ref", "Recommended_name", "Organism", "UniProt", "Commentary", "EC_Number")]
       table$Parameters <- 0
-      if(input$mw){
-        table <- extract("Molecular_Weight", mwTable(), table, 1)
-      }
-      if(input$ic50){
-        table <- extract("IC50", ic50Table(), table, 2)
-      }
-      if(input$kc){
-        table <- extract("Kcat/Km", kcTable(), table, 3)
-      }
-      if(input$ki){
-        table <- extract("Ki", kiTable(), table, 4)
-      }
-      if(input$km){
-        table <- extract("Km", kmTable(), table, 5)
-      }
-      if(input$pho){
-        table <- extract("pH_Optimum", phoTable(), table, 6)
-      }
-      if(input$phr){
-        table <- extract("pH_Range", phrTable(), table, 7)
-      }
-      if(input$pi){
-        table <- extract("pI", piTable(), table, 8)
-      }
-      if(input$sa){
-        table <- extract("Specific_Activity", saTable(), table, 9)
-      }
-      if(input$to){
-        table <- extract("Temperature_Optimum", toTable(), table, 10)
-      }
-      if(input$tr){
-        table <- extract("Temperature_Range", trTable(), table, 11)
-      }
-      if(input$ton){
-        table <- extract("Turnover_Number", tonTable(), table, 12)
+      for(n in 1:12){
+        table <- do_function(n, extract, extractNotFound, addNoTable, table = table)
       }
       table$Found_info <- table$Parameters
       if(fastaSearch()){
@@ -1008,80 +752,33 @@ shinyServer(function(input, output, session) {
   })
   
   # Count Attributes
-  countAttr <- function(table, name, vector){
-    u <- rep(name,
-             sum( as.numeric( !is.na(
-               gsub("-999", NA, table$value)
-               ))))
+  countAttr <- function(n, ...){
+    op <- list(...)
+    vector <- op$vector
+    table <- attrTable()[[n]]
+    u <- table$value
+    u <- gsub("-999.0", NA, u)
+    u <- gsub("-999", NA, u)
+    u <- rep(nat[n], sum(
+      as.numeric( !is.na(u) )
+      ))
     v <- c(vector, u)
+  }
+  addNoVector <- function(n, ...){
+    op <- list(...)
+    vector <- op$vector
+    vector
   }
   
   # Generate Count plot
   observeEvent(input$visualize, {
     updateTabItems(session, "inTabset", "histogram")
-    x = c()
-    if(input$mw){
-      x <- countAttr(mwTable(),
-                     "Molecular_Weight",
-                     x)
+    x <- c()
+    for(i in 1:12){
+      x <- do_function(i, countAttr, addNoVector, addNoVector, vector = x)
     }
-    if(input$ic50){
-      x <- countAttr(ic50Table(),
-                     "IC50",
-                     x)
-    }
-    if(input$kc){
-      x <- countAttr(kcTable(),
-                     "Kcat_Km",
-                     x)
-    }
-    if(input$ki){
-      x <- countAttr(kiTable(),
-                     "Ki",
-                     x)
-    }
-    if(input$km){
-      x <- countAttr(kmTable(),
-                     "Km",
-                     x)
-    }
-    if(input$pho){
-      x <- countAttr(phoTable(),
-                     "pH_Optimum",
-                     x)
-    }
-    if(input$phr){
-      x <- countAttr(phrTable(),
-                     "pH_Range",
-                     x)
-    }
-    if(input$pi){
-      x <- countAttr(piTable(),
-                     "pI",
-                     x)
-    }
-    if(input$sa){
-      x <- countAttr(saTable(),
-                     "Specific_Activity",
-                     x)
-    }
-    if(input$to){
-      x <- countAttr(toTable(),
-                     "Temperature_Optimum",
-                     x)
-    }
-    if(input$tr){
-      x <- countAttr(trTable(),
-                     "Temperature_Range",
-                     x)
-    }
-    if(input$ton){
-      x <- countAttr(tonTable(),
-                     "Temperature_Range",
-                     x)
-    }
-    data <- data.frame("Parameters" = x)
-    p <- plot_ly(data, x = ~Parameters, type = 'histogram', colors = "BuGn")
+    data <- data.frame(Parameters = x)
+    p <- plot_ly(data, x = ~Parameters, color = ~Parameters, type = 'histogram', colors = seba_palette)
     histPlot(p)
   })
   
@@ -1091,21 +788,16 @@ shinyServer(function(input, output, session) {
   })
   
   # Distribution function
-  distFunction <- function(param, table, name){
-    p <- with(param, param[value != "-999.0",])
-    p <- with(p, p[value != "-999",])
-    p$min <- lapply(p$value,
-                    function(i){
-                      str_split(i, "-")[[1]][1]
-                    })
-    p$min <- as.double(p$min)
-    p$max <- lapply(p$value,
-                    function(i){
-                      str_split(i, "-")[[1]][2]
-                    })
+  distFunction <- function(n, ...){
+    op <- list(...)
+    table <- op$table
+    data <- op$data
+    param <- attrTable()[[n]]
+    p <- numericalValue(param)
     p_s <- with(p, p[!grepl("-", value),])
     p_r <- with(p, p[grepl("-", value),])
-    # Filter range
+    p_s$min <- as.double(p_s$min)
+    p_r$min <- as.double(p_r$min)
     p_r$max <- as.double(p_r$max)
     p_s$data <- p_s$min
     p_r$data <- (p_r$max - p_r$min) / 2
@@ -1114,8 +806,14 @@ shinyServer(function(input, output, session) {
     p$Recommended_name <- sapply(p$Ref, function(x){with(table, table[Ref == x, "Recommended_name"])})
     p$Organism <- sapply(p$Ref, function(x){with(table, table[Ref == x, "Organism"])})
     p$Ref <- NULL
-    p$parameter <- name
-    p
+    if(nrow(p) != 0){ p$parameter <- nat[n] }
+    rbind(data, p)
+  }
+  
+  addNoData <- function(n, ...){
+    op <- list(...)
+    data <- op$data
+    data
   }
   
   # Generate Distribution
@@ -1124,35 +822,10 @@ shinyServer(function(input, output, session) {
     table <- proteinTable()
     table <- table[,c("Recommended_name", "Organism", "Ref")]
     data <- data.frame(parameter = c(), data = c(), Recommended_name = c(), Organism = c())
-    if(input$mw){
-      data <- rbind(data, distFunction(mwTable(), table, "Molecular Weight"))
+    for(i in 1:12){
+      data <- do_function(i, distFunction, addNoData, addNoData, table = table, data = data)
     }
-    if(input$ic50){
-      data <- rbind(data, distFunction(ic50Table(), table, "IC50"))
-    }
-    if(input$kc){
-      data <- rbind(data, distFunction(kcTable(), table, "Kcat/Km"))
-    }
-    if(input$ki){
-    }
-    if(input$km){
-      data <- rbind(data, distFunction(kmTable(), table, "Km"))
-    }
-    if(input$pho){
-    }
-    if(input$phr){
-    }
-    if(input$pi){
-    }
-    if(input$sa){
-    }
-    if(input$to){
-    }
-    if(input$tr){
-    }
-    if(input$ton){
-    }
-    p <- plot_ly(data, x = ~data, color = ~parameter, colors = c("Blue", "Purple", "Green", "Red", "Black"),
+    p <- plot_ly(data, x = ~data, color = ~parameter, colors = seba_palette,
                  type = "box", mode = "markers",
                  text = ~paste(Recommended_name, Organism, sep = "\n"))
     distributionPlot(p)
