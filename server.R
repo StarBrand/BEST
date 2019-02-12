@@ -277,6 +277,7 @@ shinyServer(function(input, output, session) {
   observeEvent(input$ecNumber, {
     if(!isThereUser()){noSession()}
     else{
+      shinyjs::disable("ecNumber")
       new_ec_number <- paste(input$ec_number1,
                              input$ec_number2,
                              input$ec_number3,
@@ -284,6 +285,7 @@ shinyServer(function(input, output, session) {
                              sep = ".")
       ec_number(new_ec_number)
       generateProteinTable()
+      shinyjs::enable("ecNumber")
     }
   })
   
@@ -291,14 +293,18 @@ shinyServer(function(input, output, session) {
   observeEvent(input$enzymeNameFinal, {
     if(!isThereUser()){noSession()}
     else{ec_number(input$pick)
-      generateProteinTable()}
+      shinyjs::disable("enzymeNameFinal")
+      generateProteinTable()
+      shinyjs::enable("enzymeNameFinal")}
   })
   
   # Protein Table
   output$distProteinTable <- DT::renderDT({
     table <- proteinTable()
     table$Ref <- NULL
-    DT::datatable(proteinTable(), options = list(scrollX = TRUE, lengthMenu = c(5, 10, 50, 100), pageLength = 5))
+    if(!input$showComments1){table$Commentary <- NULL}
+    if(!input$showLiterature1){table$Literature.PubmedID. <- NULL}
+    DT::datatable(table, options = list(scrollX = TRUE, lengthMenu = c(5, 10, 50, 100), pageLength = 5))
   })
   
   # Download Protein Table
@@ -307,7 +313,7 @@ shinyServer(function(input, output, session) {
     content <- function(name){
       table <- proteinTable()
       table$Ref <- NULL
-      write.csv(table, name, quote = FALSE, row.names = FALSE)
+      write.table(table, name, quote = FALSE, row.names = FALSE, sep = "\t")
     }
   )
   
@@ -409,7 +415,7 @@ shinyServer(function(input, output, session) {
     content <- function(name){
       file <- paste(folder(), "pdb_table.txt", sep = "")
       table <- read.table(file, header = TRUE, sep = "\t")
-      write.csv(table, name, quote = FALSE, row.names = FALSE, sep = "\t")
+      write.table(table, name, quote = FALSE, row.names = FALSE, sep = "\t")
     }
   )
   
@@ -566,9 +572,14 @@ shinyServer(function(input, output, session) {
   
   # Parameter Table
   output$distParameterTable <- DT::renderDT({
-    DT::datatable(fparameterTable(),
+    table <- fparameterTable()
+    if(!input$showComments2){v <- grepl("Commentary", attributes(table)$names)
+    table[,attributes(table)$names[v]] <- NULL}
+    if(!input$showLiterature2){v <- grepl("Literature", attributes(table)$names)
+    table[,attributes(table)$names[v]] <- NULL}
+    DT::datatable(table,
                   options = list(scrollX = TRUE,
-                                 lengthMenu = c(5, 10, 50, 100),
+                                 lengthMenu = c(2, 5, 10, 50, 100),
                                  pageLength = 5))
   })
   
@@ -582,7 +593,7 @@ shinyServer(function(input, output, session) {
       else{
         table <- NULL
       }
-      write.csv(table, name, quote = FALSE, row.names = FALSE, sep = "\t")
+      write.table(table, name, quote = FALSE, row.names = FALSE, sep = "\t")
     }
   )
   
@@ -873,6 +884,14 @@ shinyServer(function(input, output, session) {
   # Distribution
   output$distributionOut <- renderPlotly({
     distributionPlot()
+  })
+  
+  # Correlation
+  
+  # Links on the tutorial
+  # Enzyme name section
+  observeEvent(input$enzymeHelp, {
+    updateTabItems(session, "inTabset", "enzyme")
   })
   
 })
