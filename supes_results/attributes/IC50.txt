@@ -1,0 +1,208 @@
+Commentary	Ref	Literature(PubmedID)	Inhibitor	value
+at pH 7.0 and 37°C	19	18178143	azide	0.02
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	19	11699646	hydroxylamine	0.02
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	19	11699646	azide	0.025
+peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	19	11699646	azide	0.15
+at pH 7.0 and 37°C	19	18178143	cyanide	0.15
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C; peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	19	11699646	cyanide	1.0
+peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	19	11699646	hydroxylamine	1.5
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	19	11699646	3-Amino-1,2,4-triazole	6.0
+peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	19	11699646	3-Amino-1,2,4-triazole	30.0
+at pH 7.0 and 37°C	20	18178143	azide	0.02
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	20	11699646	hydroxylamine	0.02
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	20	11699646	azide	0.025
+peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	20	11699646	azide	0.15
+at pH 7.0 and 37°C	20	18178143	cyanide	0.15
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C; peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	20	11699646	cyanide	1.0
+peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	20	11699646	hydroxylamine	1.5
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	20	11699646	3-Amino-1,2,4-triazole	6.0
+peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	20	11699646	3-Amino-1,2,4-triazole	30.0
+at pH 7.0 and 37°C	65	18178143	azide	0.008
+at pH 7.0 and 37°C	65	18178143	cyanide	0.04
+at pH 7.0 and 37°C	66	18178143	azide	0.008
+at pH 7.0 and 37°C	66	18178143	cyanide	0.04
+at pH 7.0 and 37°C	67	18178143	azide	0.008
+at pH 7.0 and 37°C	67	18178143	cyanide	0.04
+at pH 7.0 and 37°C	68	18178143	azide	0.008
+at pH 7.0 and 37°C	68	18178143	cyanide	0.04
+at pH 7.0 and 37°C	69	18178143	azide	0.008
+at pH 7.0 and 37°C	69	18178143	cyanide	0.04
+at pH 7.0 and 37°C	111	18178143	azide	0.007
+mutant enzyme W105L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity; wild type enzyme, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	azide	0.008
+mutant enzyme R102K, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	azide	0.01
+mutant enzyme W105F, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	cyanide	0.012
+mutant enzyme H106C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	cyanide	0.04
+at pH 7.0 and 37°C	111	18178143	cyanide	0.05
+mutant enzyme R102L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	cyanide	0.055
+mutant enzyme W105L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	cyanide	0.065
+mutant enzyme R102C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	cyanide	0.075
+wild type enzyme, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	cyanide	0.09
+mutant enzyme R102L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	azide	0.095
+mutant enzyme R102C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	azide	0.18
+mutant enzyme H106C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	azide	0.19
+mutant enzyme H106Y, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	cyanide	0.21
+mutant enzyme H106Y, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	azide	0.23
+mutant enzyme W105F, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	azide	0.25
+mutant enzyme R102K, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	111	10801338	cyanide	0.39
+at pH 7.0 and 37°C	112	18178143	azide	0.007
+mutant enzyme W105L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity; wild type enzyme, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	azide	0.008
+mutant enzyme R102K, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	azide	0.01
+mutant enzyme W105F, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	cyanide	0.012
+mutant enzyme H106C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	cyanide	0.04
+at pH 7.0 and 37°C	112	18178143	cyanide	0.05
+mutant enzyme R102L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	cyanide	0.055
+mutant enzyme W105L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	cyanide	0.065
+mutant enzyme R102C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	cyanide	0.075
+wild type enzyme, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	cyanide	0.09
+mutant enzyme R102L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	azide	0.095
+mutant enzyme R102C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	azide	0.18
+mutant enzyme H106C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	azide	0.19
+mutant enzyme H106Y, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	cyanide	0.21
+mutant enzyme H106Y, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	azide	0.23
+mutant enzyme W105F, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	azide	0.25
+mutant enzyme R102K, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	112	10801338	cyanide	0.39
+at pH 7.0 and 37°C	113	18178143	azide	0.007
+mutant enzyme W105L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity; wild type enzyme, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	azide	0.008
+mutant enzyme R102K, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	azide	0.01
+mutant enzyme W105F, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	cyanide	0.012
+mutant enzyme H106C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	cyanide	0.04
+at pH 7.0 and 37°C	113	18178143	cyanide	0.05
+mutant enzyme R102L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	cyanide	0.055
+mutant enzyme W105L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	cyanide	0.065
+mutant enzyme R102C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	cyanide	0.075
+wild type enzyme, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	cyanide	0.09
+mutant enzyme R102L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	azide	0.095
+mutant enzyme R102C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	azide	0.18
+mutant enzyme H106C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	azide	0.19
+mutant enzyme H106Y, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	cyanide	0.21
+mutant enzyme H106Y, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	azide	0.23
+mutant enzyme W105F, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	azide	0.25
+mutant enzyme R102K, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	113	10801338	cyanide	0.39
+at pH 7.0 and 37°C	114	18178143	azide	0.007
+mutant enzyme W105L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity; wild type enzyme, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	azide	0.008
+mutant enzyme R102K, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	azide	0.01
+mutant enzyme W105F, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	cyanide	0.012
+mutant enzyme H106C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	cyanide	0.04
+at pH 7.0 and 37°C	114	18178143	cyanide	0.05
+mutant enzyme R102L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	cyanide	0.055
+mutant enzyme W105L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	cyanide	0.065
+mutant enzyme R102C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	cyanide	0.075
+wild type enzyme, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	cyanide	0.09
+mutant enzyme R102L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	azide	0.095
+mutant enzyme R102C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	azide	0.18
+mutant enzyme H106C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	azide	0.19
+mutant enzyme H106Y, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	cyanide	0.21
+mutant enzyme H106Y, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	azide	0.23
+mutant enzyme W105F, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	azide	0.25
+mutant enzyme R102K, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	114	10801338	cyanide	0.39
+at pH 7.0 and 37°C	143	18178143	azide	0.002
+at pH 7.0 and 37°C	143	18178143	cyanide	0.05
+at pH 7.0 and 37°C	144	18178143	azide	0.002
+at pH 7.0 and 37°C	144	18178143	cyanide	0.05
+at pH 7.0 and 37°C	145	18178143	azide	0.002
+at pH 7.0 and 37°C	145	18178143	cyanide	0.05
+peroxidase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 7.5, at 25°C	151	8320233	H2O2	0.4
+catalase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 6.5, at 25°C	151	8320233	H2O2	4.5
+peroxidase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 7.5, at 25°C	152	8320233	H2O2	0.4
+catalase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 6.5, at 25°C	152	8320233	H2O2	4.5
+peroxidase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 7.5, at 25°C	153	8320233	H2O2	0.4
+catalase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 6.5, at 25°C	153	8320233	H2O2	4.5
+pH 6.3, at 30°C	164	2029529	azide	0.0011
+pH 6.3, at 30°C	164	2029529	cyanide	0.035
+pH 6.3, at 30°C	165	2029529	azide	0.0011
+pH 6.3, at 30°C	165	2029529	cyanide	0.035
+pH 6.3, at 30°C	166	2029529	azide	0.0011
+pH 6.3, at 30°C	166	2029529	cyanide	0.035
+pH 6.3, at 30°C	167	2029529	azide	0.0011
+pH 6.3, at 30°C	167	2029529	cyanide	0.035
+at pH 7.0 and 37°C	243	18178143	azide	2.0E-4
+at pH 7.0 and 37°C	243	18178143	cyanide	0.1
+at pH 7.0 and 37°C	244	18178143	azide	2.0E-4
+at pH 7.0 and 37°C	244	18178143	cyanide	0.1
+at pH 7.0 and 37°C	245	18178143	azide	2.0E-4
+at pH 7.0 and 37°C	245	18178143	cyanide	0.1
+at pH 7.0 and 37°C	246	18178143	azide	2.0E-4
+at pH 7.0 and 37°C	246	18178143	cyanide	0.1
+at pH 7.0 and 37°C	247	18178143	azide	2.0E-4
+at pH 7.0 and 37°C	247	18178143	cyanide	0.1
+at pH 7.0 and 37°C	248	18178143	azide	2.0E-4
+at pH 7.0 and 37°C	248	18178143	cyanide	0.1
+catalase activity, in 20 mM Tris-HCl buffer (pH 9.0), at 30°C	419	0	NaCl	5.0
+catalase activity, in 20 mM Tris-HCl buffer (pH 9.0), at 30°C	419	0	MgCl2	10.0
+catalase activity, in 20 mM Tris-HCl buffer (pH 9.0), at 30°C	419	0	KCl	20.0
+at 25°C, pH 6.4	430	8631329	cyanide	0.003
+at 25°C, pH 6.4	430	8631329	azide	0.017
+at 25°C, pH 6.4	431	8631329	cyanide	0.003
+at 25°C, pH 6.4	431	8631329	azide	0.017
+at 25°C, pH 6.4	432	8631329	cyanide	0.003
+at 25°C, pH 6.4	432	8631329	azide	0.017
+catalatic activity, in 100 mM potassium phosphate, pH 6.3, at 30°C	470	3571290	hydroxylamine	0.00215
+at pH 7.0 and 37°C	470	18178143	azide	0.008
+catalatic activity, in 100 mM potassium phosphate, pH 6.3, at 30°C	470	3571290	cyanide	0.022
+peroxidatic activity, in 100 mM potassium phosphate, pH 5.2, at 30°C	470	3571290	cyanide	0.023
+peroxidatic activity, in 100 mM potassium phosphate, pH 5.2, at 30°C	470	3571290	hydroxylamine	0.078
+at pH 7.0 and 37°C	470	18178143	cyanide	0.08
+catalatic activity, in 100 mM potassium phosphate, pH 6.3, at 30°C	470	3571290	azide	0.15
+peroxidatic activity, in 100 mM potassium phosphate, pH 5.2, at 30°C	470	3571290	azide	0.73
+catalatic activity, in 100 mM potassium phosphate, pH 6.3, at 30°C	471	3571290	hydroxylamine	0.00215
+at pH 7.0 and 37°C	471	18178143	azide	0.008
+catalatic activity, in 100 mM potassium phosphate, pH 6.3, at 30°C	471	3571290	cyanide	0.022
+peroxidatic activity, in 100 mM potassium phosphate, pH 5.2, at 30°C	471	3571290	cyanide	0.023
+peroxidatic activity, in 100 mM potassium phosphate, pH 5.2, at 30°C	471	3571290	hydroxylamine	0.078
+at pH 7.0 and 37°C	471	18178143	cyanide	0.08
+catalatic activity, in 100 mM potassium phosphate, pH 6.3, at 30°C	471	3571290	azide	0.15
+peroxidatic activity, in 100 mM potassium phosphate, pH 5.2, at 30°C	471	3571290	azide	0.73
+catalatic activity, in 100 mM potassium phosphate, pH 6.3, at 30°C	472	3571290	hydroxylamine	0.00215
+at pH 7.0 and 37°C	472	18178143	azide	0.008
+catalatic activity, in 100 mM potassium phosphate, pH 6.3, at 30°C	472	3571290	cyanide	0.022
+peroxidatic activity, in 100 mM potassium phosphate, pH 5.2, at 30°C	472	3571290	cyanide	0.023
+peroxidatic activity, in 100 mM potassium phosphate, pH 5.2, at 30°C	472	3571290	hydroxylamine	0.078
+at pH 7.0 and 37°C	472	18178143	cyanide	0.08
+catalatic activity, in 100 mM potassium phosphate, pH 6.3, at 30°C	472	3571290	azide	0.15
+peroxidatic activity, in 100 mM potassium phosphate, pH 5.2, at 30°C	472	3571290	azide	0.73
+at pH 7.0 and 37°C	519	18178143	azide	0.013
+at pH 7.0 and 37°C	519	18178143	cyanide	0.17
+at pH 7.0 and 37°C	520	18178143	azide	0.013
+at pH 7.0 and 37°C	520	18178143	cyanide	0.17
+at pH 7.0 and 37°C	521	18178143	azide	0.013
+at pH 7.0 and 37°C	521	18178143	cyanide	0.17
+at pH 7.0 and 37°C	522	18178143	azide	0.013
+at pH 7.0 and 37°C	522	18178143	cyanide	0.17
+at pH 7.0 and 37°C	523	18178143	azide	0.013
+at pH 7.0 and 37°C	523	18178143	cyanide	0.17
+at pH 7.0 and 37°C	562	18178143	azide	0.007
+mutant enzyme W105L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity; wild type enzyme, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	azide	0.008
+mutant enzyme R102K, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	azide	0.01
+mutant enzyme W105F, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	cyanide	0.012
+mutant enzyme H106C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	cyanide	0.04
+at pH 7.0 and 37°C	562	18178143	cyanide	0.05
+mutant enzyme R102L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	cyanide	0.055
+mutant enzyme W105L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	cyanide	0.065
+mutant enzyme R102C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	cyanide	0.075
+wild type enzyme, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	cyanide	0.09
+mutant enzyme R102L, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	azide	0.095
+mutant enzyme R102C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	azide	0.18
+mutant enzyme H106C, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	azide	0.19
+mutant enzyme H106Y, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	cyanide	0.21
+mutant enzyme H106Y, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	azide	0.23
+mutant enzyme W105F, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	azide	0.25
+mutant enzyme R102K, at pH 7.0 and 37°C for catalase activity and at pH 6.0 and 25°C for peroxidase activity	562	10801338	cyanide	0.39
+at pH 7.0 and 37°C	564	18178143	azide	0.02
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	564	11699646	hydroxylamine	0.02
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	564	11699646	azide	0.025
+peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	564	11699646	azide	0.15
+at pH 7.0 and 37°C	564	18178143	cyanide	0.15
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C; peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	564	11699646	cyanide	1.0
+peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	564	11699646	hydroxylamine	1.5
+catalase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	564	11699646	3-Amino-1,2,4-triazole	6.0
+peroxidase activity, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	564	11699646	3-Amino-1,2,4-triazole	30.0
+at pH 7.0 and 37°C	570	18178143	azide	0.013
+at pH 7.0 and 37°C	570	18178143	cyanide	0.17
+at pH 7.0 and 37°C	571	18178143	azide	2.0E-4
+at pH 7.0 and 37°C	571	18178143	cyanide	0.1
+at pH 7.0 and 37°C	583	18178143	azide	0.008
+at pH 7.0 and 37°C	583	18178143	cyanide	0.04
+at pH 7.0 and 37°C	585	18178143	azide	0.008
+at pH 7.0 and 37°C	585	18178143	cyanide	0.04
+at pH 7.0 and 37°C	586	18178143	azide	0.008
+at pH 7.0 and 37°C	586	18178143	cyanide	0.04

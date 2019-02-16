@@ -1,0 +1,568 @@
+Commentary	Ref	Literature(PubmedID)	value
+peroxidase activity from crude extract, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	19	11699646	0.45
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	19	18178143	3.2
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	19	18178143	12.0
+peroxidase activity after 3.17fold purification, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	19	11699646	23.3
+catalase activity after heat treatment of the crude extract, in 50 mM potassium phosphate/sodium citrate buffer, pH 6.0, at 70°C	19	11699646	2375.0
+catalase specific activity, at pH 7.0 and 37°C	19	18178143	5280.0
+catalase activity after 2.91fold purification, in 50 mM potassium phosphate/sodium citrate buffer, pH 6.0, at 70°C	19	11699646	6922.0
+peroxidase activity from crude extract, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	20	11699646	0.45
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	20	18178143	3.2
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	20	18178143	12.0
+peroxidase activity after 3.17fold purification, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	20	11699646	23.3
+catalase activity after heat treatment of the crude extract, in 50 mM potassium phosphate/sodium citrate buffer, pH 6.0, at 70°C	20	11699646	2375.0
+catalase specific activity, at pH 7.0 and 37°C	20	18178143	5280.0
+catalase activity after 2.91fold purification, in 50 mM potassium phosphate/sodium citrate buffer, pH 6.0, at 70°C	20	11699646	6922.0
+peroxidase activity, pH 7.0, 37°C	39	21996477	743.0
+catalase activity, pH 7.0, 37°C	39	21996477	818.0
+substrate H2O2, pH 7.0, 37°C	39	27016935	55784.0
+peroxidase activity, pH 7.0, 37°C	40	21996477	743.0
+catalase activity, pH 7.0, 37°C	40	21996477	818.0
+substrate H2O2, pH 7.0, 37°C	40	27016935	55784.0
+peroxidase activity, pH 7.0, 37°C	41	21996477	743.0
+catalase activity, pH 7.0, 37°C	41	21996477	818.0
+substrate H2O2, pH 7.0, 37°C	41	27016935	55784.0
+peroxidase activity, pH 7.0, 37°C	42	21996477	743.0
+catalase activity, pH 7.0, 37°C	42	21996477	818.0
+substrate H2O2, pH 7.0, 37°C	42	27016935	55784.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	65	18178143	4.8
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	65	18178143	5.3
+purified recombinant enzyme, catalase-specific activity	65	12454496	2200.0
+catalase specific activity, at pH 7.0 and 37°C	65	18178143	3630.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	66	18178143	4.8
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	66	18178143	5.3
+purified recombinant enzyme, catalase-specific activity	66	12454496	2200.0
+catalase specific activity, at pH 7.0 and 37°C	66	18178143	3630.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	67	18178143	4.8
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	67	18178143	5.3
+purified recombinant enzyme, catalase-specific activity	67	12454496	2200.0
+catalase specific activity, at pH 7.0 and 37°C	67	18178143	3630.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	68	18178143	4.8
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	68	18178143	5.3
+purified recombinant enzyme, catalase-specific activity	68	12454496	2200.0
+catalase specific activity, at pH 7.0 and 37°C	68	18178143	3630.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	69	18178143	4.8
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	69	18178143	5.3
+purified recombinant enzyme, catalase-specific activity	69	12454496	2200.0
+catalase specific activity, at pH 7.0 and 37°C	69	18178143	3630.0
+catalase activity, mutant enzyme H106Y, at pH 7.0 and 37°C	111	10801338	0.16
+catalase activity, mutant enzyme H106C, at pH 7.0 and 37°C	111	10801338	0.25
+catalase activity, mutant enzyme H267Y, at pH 7.0 and 37°C	111	10801338	0.95
+catalase activity, mutant enzyme W105F, at pH 7.0 and 37°C	111	10801338	1.9
+catalase activity, mutant enzyme W105L, at pH 7.0 and 37°C	111	10801338	5.9
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	111	18178143	8.3
+catalase activity, mutant enzyme R102C, at pH 7.0 and 37°C	111	10801338	10.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	111	18178143	11.0
+peroxidase activity, mutant enzyme H106C, at pH 7.0 and 37°C	111	10801338	11.0
+peroxidase activity, mutant enzyme H267Y, at pH 7.0 and 37°C	111	10801338	12.0
+peroxidase activity, mutant enzyme H106Y, at pH 7.0 and 37°C	111	10801338	18.0
+catalase activity, mutant enzyme R102L, at pH 7.0 and 37°C	111	10801338	19.0
+catalase activity, mutant enzyme R102K, at pH 7.0 and 37°C	111	10801338	35.0
+peroxidase activity, mutant enzyme R102C, at pH 7.0 and 37°C	111	10801338	63.0
+peroxidase activity, mutant enzyme R102K, at pH 7.0 and 37°C; peroxidase activity, mutant enzyme R102L, at pH 7.0 and 37°C	111	10801338	85.0
+peroxidase activity, wild type enzyme, at pH 7.0 and 37°C	111	10801338	660.0
+peroxidase activity, mutant enzyme W105L, at pH 7.0 and 37°C	111	10801338	1300.0
+catalase activity, wild type enzyme, at pH 7.0 and 37°C; peroxidase activity, mutant enzyme W105F, at pH 7.0 and 37°C	111	10801338	1900.0
+catalase specific activity, at pH 7.0 and 37°C	111	18178143	2200.0
+catalase activity, mutant enzyme H106Y, at pH 7.0 and 37°C	112	10801338	0.16
+catalase activity, mutant enzyme H106C, at pH 7.0 and 37°C	112	10801338	0.25
+catalase activity, mutant enzyme H267Y, at pH 7.0 and 37°C	112	10801338	0.95
+catalase activity, mutant enzyme W105F, at pH 7.0 and 37°C	112	10801338	1.9
+catalase activity, mutant enzyme W105L, at pH 7.0 and 37°C	112	10801338	5.9
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	112	18178143	8.3
+catalase activity, mutant enzyme R102C, at pH 7.0 and 37°C	112	10801338	10.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	112	18178143	11.0
+peroxidase activity, mutant enzyme H106C, at pH 7.0 and 37°C	112	10801338	11.0
+peroxidase activity, mutant enzyme H267Y, at pH 7.0 and 37°C	112	10801338	12.0
+peroxidase activity, mutant enzyme H106Y, at pH 7.0 and 37°C	112	10801338	18.0
+catalase activity, mutant enzyme R102L, at pH 7.0 and 37°C	112	10801338	19.0
+catalase activity, mutant enzyme R102K, at pH 7.0 and 37°C	112	10801338	35.0
+peroxidase activity, mutant enzyme R102C, at pH 7.0 and 37°C	112	10801338	63.0
+peroxidase activity, mutant enzyme R102K, at pH 7.0 and 37°C; peroxidase activity, mutant enzyme R102L, at pH 7.0 and 37°C	112	10801338	85.0
+peroxidase activity, wild type enzyme, at pH 7.0 and 37°C	112	10801338	660.0
+peroxidase activity, mutant enzyme W105L, at pH 7.0 and 37°C	112	10801338	1300.0
+catalase activity, wild type enzyme, at pH 7.0 and 37°C; peroxidase activity, mutant enzyme W105F, at pH 7.0 and 37°C	112	10801338	1900.0
+catalase specific activity, at pH 7.0 and 37°C	112	18178143	2200.0
+catalase activity, mutant enzyme H106Y, at pH 7.0 and 37°C	113	10801338	0.16
+catalase activity, mutant enzyme H106C, at pH 7.0 and 37°C	113	10801338	0.25
+catalase activity, mutant enzyme H267Y, at pH 7.0 and 37°C	113	10801338	0.95
+catalase activity, mutant enzyme W105F, at pH 7.0 and 37°C	113	10801338	1.9
+catalase activity, mutant enzyme W105L, at pH 7.0 and 37°C	113	10801338	5.9
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	113	18178143	8.3
+catalase activity, mutant enzyme R102C, at pH 7.0 and 37°C	113	10801338	10.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	113	18178143	11.0
+peroxidase activity, mutant enzyme H106C, at pH 7.0 and 37°C	113	10801338	11.0
+peroxidase activity, mutant enzyme H267Y, at pH 7.0 and 37°C	113	10801338	12.0
+peroxidase activity, mutant enzyme H106Y, at pH 7.0 and 37°C	113	10801338	18.0
+catalase activity, mutant enzyme R102L, at pH 7.0 and 37°C	113	10801338	19.0
+catalase activity, mutant enzyme R102K, at pH 7.0 and 37°C	113	10801338	35.0
+peroxidase activity, mutant enzyme R102C, at pH 7.0 and 37°C	113	10801338	63.0
+peroxidase activity, mutant enzyme R102K, at pH 7.0 and 37°C; peroxidase activity, mutant enzyme R102L, at pH 7.0 and 37°C	113	10801338	85.0
+peroxidase activity, wild type enzyme, at pH 7.0 and 37°C	113	10801338	660.0
+peroxidase activity, mutant enzyme W105L, at pH 7.0 and 37°C	113	10801338	1300.0
+catalase activity, wild type enzyme, at pH 7.0 and 37°C; peroxidase activity, mutant enzyme W105F, at pH 7.0 and 37°C	113	10801338	1900.0
+catalase specific activity, at pH 7.0 and 37°C	113	18178143	2200.0
+catalase activity, mutant enzyme H106Y, at pH 7.0 and 37°C	114	10801338	0.16
+catalase activity, mutant enzyme H106C, at pH 7.0 and 37°C	114	10801338	0.25
+catalase activity, mutant enzyme H267Y, at pH 7.0 and 37°C	114	10801338	0.95
+catalase activity, mutant enzyme W105F, at pH 7.0 and 37°C	114	10801338	1.9
+catalase activity, mutant enzyme W105L, at pH 7.0 and 37°C	114	10801338	5.9
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	114	18178143	8.3
+catalase activity, mutant enzyme R102C, at pH 7.0 and 37°C	114	10801338	10.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	114	18178143	11.0
+peroxidase activity, mutant enzyme H106C, at pH 7.0 and 37°C	114	10801338	11.0
+peroxidase activity, mutant enzyme H267Y, at pH 7.0 and 37°C	114	10801338	12.0
+peroxidase activity, mutant enzyme H106Y, at pH 7.0 and 37°C	114	10801338	18.0
+catalase activity, mutant enzyme R102L, at pH 7.0 and 37°C	114	10801338	19.0
+catalase activity, mutant enzyme R102K, at pH 7.0 and 37°C	114	10801338	35.0
+peroxidase activity, mutant enzyme R102C, at pH 7.0 and 37°C	114	10801338	63.0
+peroxidase activity, mutant enzyme R102K, at pH 7.0 and 37°C; peroxidase activity, mutant enzyme R102L, at pH 7.0 and 37°C	114	10801338	85.0
+peroxidase activity, wild type enzyme, at pH 7.0 and 37°C	114	10801338	660.0
+peroxidase activity, mutant enzyme W105L, at pH 7.0 and 37°C	114	10801338	1300.0
+catalase activity, wild type enzyme, at pH 7.0 and 37°C; peroxidase activity, mutant enzyme W105F, at pH 7.0 and 37°C	114	10801338	1900.0
+catalase specific activity, at pH 7.0 and 37°C	114	18178143	2200.0
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.0 and 25°C	143	18178143	5.3
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.0 and 25°C	143	18178143	5.9
+catalase specific activity, at pH 7.0 and 37°C	143	18178143	3120.0
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.0 and 25°C	144	18178143	5.3
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.0 and 25°C	144	18178143	5.9
+catalase specific activity, at pH 7.0 and 37°C	144	18178143	3120.0
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.0 and 25°C	145	18178143	5.3
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.0 and 25°C	145	18178143	5.9
+catalase specific activity, at pH 7.0 and 37°C	145	18178143	3120.0
+crude extract, catalatic activity, at 20°C and pH 7.5, in the presence of 1.5 M NaC1	147	7947969	5.0
+after 170fold purification, catalatic activity, at 20°C and pH 7.5, in the presence of 1.5 M NaC1	147	7947969	851.0
+crude extract, catalatic activity, at 20°C and pH 7.5, in the presence of 1.5 M NaC1	148	7947969	5.0
+after 170fold purification, catalatic activity, at 20°C and pH 7.5, in the presence of 1.5 M NaC1	148	7947969	851.0
+crude extract, catalatic activity, at 20°C and pH 7.5, in the presence of 1.5 M NaC1	149	7947969	5.0
+after 170fold purification, catalatic activity, at 20°C and pH 7.5, in the presence of 1.5 M NaC1	149	7947969	851.0
+crude extract, catalatic activity, at 20°C and pH 7.5, in the presence of 1.5 M NaC1	150	7947969	5.0
+after 170fold purification, catalatic activity, at 20°C and pH 7.5, in the presence of 1.5 M NaC1	150	7947969	851.0
+crude extract, catalase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 6.5, at 25°C	151	8320233	3.4
+crude extract, peroxidase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 7.5, at 25°C	151	8320233	3.9
+after 12.7fold purification, catalase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 6.5, at 25°C	151	8320233	43.2
+after 29.6fold purification, peroxidase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 7.5, at 25°C	151	8320233	104.3
+crude extract, catalase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 6.5, at 25°C	152	8320233	3.4
+crude extract, peroxidase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 7.5, at 25°C	152	8320233	3.9
+after 12.7fold purification, catalase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 6.5, at 25°C	152	8320233	43.2
+after 29.6fold purification, peroxidase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 7.5, at 25°C	152	8320233	104.3
+crude extract, catalase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 6.5, at 25°C	153	8320233	3.4
+crude extract, peroxidase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 7.5, at 25°C	153	8320233	3.9
+after 12.7fold purification, catalase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 6.5, at 25°C	153	8320233	43.2
+after 29.6fold purification, peroxidase activity, in 50 mM potassium phosphate containing 2 M NaCl, pH 7.5, at 25°C	153	8320233	104.3
+crude enzyme, in 100 mM potassium phosphate buffer (pH 6.8), at 30°C	164	2029529	43.0
+after 13fold purification, in 100 mM potassium phosphate buffer (pH 6.8), at 30°C	164	2029529	560.0
+crude enzyme, in 100 mM potassium phosphate buffer (pH 6.8), at 30°C	165	2029529	43.0
+after 13fold purification, in 100 mM potassium phosphate buffer (pH 6.8), at 30°C	165	2029529	560.0
+crude enzyme, in 100 mM potassium phosphate buffer (pH 6.8), at 30°C	166	2029529	43.0
+after 13fold purification, in 100 mM potassium phosphate buffer (pH 6.8), at 30°C	166	2029529	560.0
+crude enzyme, in 100 mM potassium phosphate buffer (pH 6.8), at 30°C	167	2029529	43.0
+after 13fold purification, in 100 mM potassium phosphate buffer (pH 6.8), at 30°C	167	2029529	560.0
+crude extract, in 50 mM phosphate buffer, pH 7.0, at 25°C	217	7673210	2.5
+after 214fold purification, in 50 mM phosphate buffer, pH 7.0, at 25°C	217	7673210	533.0
+crude extract, in 50 mM potassium phosphate buffer (pH 7.0), at 30°C	237	14553939	24.2
+after 47.3fold purification, in 50 mM potassium phosphate buffer (pH 7.0), at 30°C	237	14553939	1145.0
+crude extract, in 50 mM potassium phosphate buffer (pH 7.0), at 30°C	238	14553939	24.2
+after 47.3fold purification, in 50 mM potassium phosphate buffer (pH 7.0), at 30°C	238	14553939	1145.0
+crude extract, in 50 mM potassium phosphate buffer (pH 7.0), at 30°C	239	14553939	24.2
+after 47.3fold purification, in 50 mM potassium phosphate buffer (pH 7.0), at 30°C	239	14553939	1145.0
+crude extract, in 50 mM potassium phosphate buffer (pH 7.0), at 30°C	240	14553939	24.2
+after 47.3fold purification, in 50 mM potassium phosphate buffer (pH 7.0), at 30°C	240	14553939	1145.0
+isoniazid activation activities of wild-type and mutant enzymes in absence or presence of Mn2+, overview	243	12543676	-999.0
+specific peroxidase activity, using isoniazid as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	0.00904
+specific peroxidase activity, using isoniazid as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	0.0098
+specific peroxidase activity, using NADH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	0.208
+specific peroxidase activity, using NADH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	0.212
+specific peroxidase activity, using NADPH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	0.264
+specific peroxidase activity, using NADPH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	0.272
+peroxidase activity, in 50 mM sodium acetate buffer, pH 5.5, at 25°C	243	10933818	0.95
+specific peroxidase activity, using pyrogallol as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	2.12
+specific peroxidase activity, using pyrogallol as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	2.29
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.8 and 25°C	243	18178143	8.8
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.8 and 25°C	243	18178143	10.0
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	22.8
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	25.9
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	99.4
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	243	9006925	100.7
+specific catalase activity, crude extract, in 50 mM Na2HPO4, pH 7.0, 25°C	243	9006925	226.0
+specific catalase activity, after 10.7fold purification, in 50 mM Na2HPO4, pH 7.0, 25°C	243	9006925	2420.0
+catalase specific activity, at pH 7.0 and 37°C	243	18178143	4450.0
+catalase activity, in phosphate buffer, pH 7.5, at 25°C	243	10933818	4500.0
+isoniazid activation activities of wild-type and mutant enzymes in absence or presence of Mn2+, overview	244	12543676	-999.0
+specific peroxidase activity, using isoniazid as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	0.00904
+specific peroxidase activity, using isoniazid as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	0.0098
+specific peroxidase activity, using NADH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	0.208
+specific peroxidase activity, using NADH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	0.212
+specific peroxidase activity, using NADPH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	0.264
+specific peroxidase activity, using NADPH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	0.272
+peroxidase activity, in 50 mM sodium acetate buffer, pH 5.5, at 25°C	244	10933818	0.95
+specific peroxidase activity, using pyrogallol as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	2.12
+specific peroxidase activity, using pyrogallol as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	2.29
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.8 and 25°C	244	18178143	8.8
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.8 and 25°C	244	18178143	10.0
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	22.8
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	25.9
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	99.4
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	244	9006925	100.7
+specific catalase activity, crude extract, in 50 mM Na2HPO4, pH 7.0, 25°C	244	9006925	226.0
+specific catalase activity, after 10.7fold purification, in 50 mM Na2HPO4, pH 7.0, 25°C	244	9006925	2420.0
+catalase specific activity, at pH 7.0 and 37°C	244	18178143	4450.0
+catalase activity, in phosphate buffer, pH 7.5, at 25°C	244	10933818	4500.0
+isoniazid activation activities of wild-type and mutant enzymes in absence or presence of Mn2+, overview	245	12543676	-999.0
+specific peroxidase activity, using isoniazid as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	0.00904
+specific peroxidase activity, using isoniazid as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	0.0098
+specific peroxidase activity, using NADH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	0.208
+specific peroxidase activity, using NADH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	0.212
+specific peroxidase activity, using NADPH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	0.264
+specific peroxidase activity, using NADPH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	0.272
+peroxidase activity, in 50 mM sodium acetate buffer, pH 5.5, at 25°C	245	10933818	0.95
+specific peroxidase activity, using pyrogallol as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	2.12
+specific peroxidase activity, using pyrogallol as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	2.29
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.8 and 25°C	245	18178143	8.8
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.8 and 25°C	245	18178143	10.0
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	22.8
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	25.9
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	99.4
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	245	9006925	100.7
+specific catalase activity, crude extract, in 50 mM Na2HPO4, pH 7.0, 25°C	245	9006925	226.0
+specific catalase activity, after 10.7fold purification, in 50 mM Na2HPO4, pH 7.0, 25°C	245	9006925	2420.0
+catalase specific activity, at pH 7.0 and 37°C	245	18178143	4450.0
+catalase activity, in phosphate buffer, pH 7.5, at 25°C	245	10933818	4500.0
+isoniazid activation activities of wild-type and mutant enzymes in absence or presence of Mn2+, overview	246	12543676	-999.0
+specific peroxidase activity, using isoniazid as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	0.00904
+specific peroxidase activity, using isoniazid as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	0.0098
+specific peroxidase activity, using NADH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	0.208
+specific peroxidase activity, using NADH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	0.212
+specific peroxidase activity, using NADPH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	0.264
+specific peroxidase activity, using NADPH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	0.272
+peroxidase activity, in 50 mM sodium acetate buffer, pH 5.5, at 25°C	246	10933818	0.95
+specific peroxidase activity, using pyrogallol as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	2.12
+specific peroxidase activity, using pyrogallol as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	2.29
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.8 and 25°C	246	18178143	8.8
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.8 and 25°C	246	18178143	10.0
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	22.8
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	25.9
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	99.4
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	246	9006925	100.7
+specific catalase activity, crude extract, in 50 mM Na2HPO4, pH 7.0, 25°C	246	9006925	226.0
+specific catalase activity, after 10.7fold purification, in 50 mM Na2HPO4, pH 7.0, 25°C	246	9006925	2420.0
+catalase specific activity, at pH 7.0 and 37°C	246	18178143	4450.0
+catalase activity, in phosphate buffer, pH 7.5, at 25°C	246	10933818	4500.0
+isoniazid activation activities of wild-type and mutant enzymes in absence or presence of Mn2+, overview	247	12543676	-999.0
+specific peroxidase activity, using isoniazid as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	0.00904
+specific peroxidase activity, using isoniazid as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	0.0098
+specific peroxidase activity, using NADH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	0.208
+specific peroxidase activity, using NADH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	0.212
+specific peroxidase activity, using NADPH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	0.264
+specific peroxidase activity, using NADPH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	0.272
+peroxidase activity, in 50 mM sodium acetate buffer, pH 5.5, at 25°C	247	10933818	0.95
+specific peroxidase activity, using pyrogallol as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	2.12
+specific peroxidase activity, using pyrogallol as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	2.29
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.8 and 25°C	247	18178143	8.8
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.8 and 25°C	247	18178143	10.0
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	22.8
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	25.9
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	99.4
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	247	9006925	100.7
+specific catalase activity, crude extract, in 50 mM Na2HPO4, pH 7.0, 25°C	247	9006925	226.0
+specific catalase activity, after 10.7fold purification, in 50 mM Na2HPO4, pH 7.0, 25°C	247	9006925	2420.0
+catalase specific activity, at pH 7.0 and 37°C	247	18178143	4450.0
+catalase activity, in phosphate buffer, pH 7.5, at 25°C	247	10933818	4500.0
+isoniazid activation activities of wild-type and mutant enzymes in absence or presence of Mn2+, overview	248	12543676	-999.0
+specific peroxidase activity, using isoniazid as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	0.00904
+specific peroxidase activity, using isoniazid as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	0.0098
+specific peroxidase activity, using NADH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	0.208
+specific peroxidase activity, using NADH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	0.212
+specific peroxidase activity, using NADPH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	0.264
+specific peroxidase activity, using NADPH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	0.272
+peroxidase activity, in 50 mM sodium acetate buffer, pH 5.5, at 25°C	248	10933818	0.95
+specific peroxidase activity, using pyrogallol as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	2.12
+specific peroxidase activity, using pyrogallol as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	2.29
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.8 and 25°C	248	18178143	8.8
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.8 and 25°C	248	18178143	10.0
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	22.8
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	25.9
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	99.4
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	248	9006925	100.7
+specific catalase activity, crude extract, in 50 mM Na2HPO4, pH 7.0, 25°C	248	9006925	226.0
+specific catalase activity, after 10.7fold purification, in 50 mM Na2HPO4, pH 7.0, 25°C	248	9006925	2420.0
+catalase specific activity, at pH 7.0 and 37°C	248	18178143	4450.0
+catalase activity, in phosphate buffer, pH 7.5, at 25°C	248	10933818	4500.0
+unpurified cytosolic fraction, peroxidase activity, in 50 mM Tris-HCl buffer (pH 8.5), at 30°C	419	0	168.0
+unpurified cytosolic fraction, catalase activity, in 20 mM Tris-HCl buffer (pH 9.0), at 30°C	419	0	316.0
+after 44.7fold purification, peroxidase activity, in 50 mM Tris-HCl buffer (pH 8.5), at 30°C	419	0	7512.0
+after 110.7fold purification, catalase activity, in 20 mM Tris-HCl buffer (pH 9.0), at 30°C	419	0	35000.0
+peroxidase activity using guaicol as substrate, at pH 5.4 and 25°C	430	8631329	7.5
+peroxidase activity using 3,3'-diaminobenzidine as substrate, at pH 5.4 and 25°C	430	8631329	16.0
+peroxidase activity using 3,3'-dimethoxybenzidine as substrate, at pH 5.4 and 25°C	430	8631329	28.0
+peroxidase activity using 2,6-dimethoxyphenol as substrate, at pH 5.4 and 25°C	430	8631329	77.0
+peroxidase activity using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 5.4 and 25°C	430	8631329	150.0
+cell extract, at 25°C, pH 6.4	430	8631329	250.0
+purified enzyme, at 25°C, pH 6.4	430	8631329	2960.0
+peroxidase activity using guaicol as substrate, at pH 5.4 and 25°C	431	8631329	7.5
+peroxidase activity using 3,3'-diaminobenzidine as substrate, at pH 5.4 and 25°C	431	8631329	16.0
+peroxidase activity using 3,3'-dimethoxybenzidine as substrate, at pH 5.4 and 25°C	431	8631329	28.0
+peroxidase activity using 2,6-dimethoxyphenol as substrate, at pH 5.4 and 25°C	431	8631329	77.0
+peroxidase activity using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 5.4 and 25°C	431	8631329	150.0
+cell extract, at 25°C, pH 6.4	431	8631329	250.0
+purified enzyme, at 25°C, pH 6.4	431	8631329	2960.0
+peroxidase activity using guaicol as substrate, at pH 5.4 and 25°C	432	8631329	7.5
+peroxidase activity using 3,3'-diaminobenzidine as substrate, at pH 5.4 and 25°C	432	8631329	16.0
+peroxidase activity using 3,3'-dimethoxybenzidine as substrate, at pH 5.4 and 25°C	432	8631329	28.0
+peroxidase activity using 2,6-dimethoxyphenol as substrate, at pH 5.4 and 25°C	432	8631329	77.0
+peroxidase activity using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 5.4 and 25°C	432	8631329	150.0
+cell extract, at 25°C, pH 6.4	432	8631329	250.0
+purified enzyme, at 25°C, pH 6.4	432	8631329	2960.0
+peroxidase specific activity, using o-dianisidine as substrate, at pH 5.0 and 25°C	470	18178143	1.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 5.0 and 25°C	470	18178143	2.0
+catalase specific activity, at pH 7.0 and 37°C	470	18178143	4830.0
+peroxidase specific activity, using o-dianisidine as substrate, at pH 5.0 and 25°C	471	18178143	1.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 5.0 and 25°C	471	18178143	2.0
+catalase specific activity, at pH 7.0 and 37°C	471	18178143	4830.0
+peroxidase specific activity, using o-dianisidine as substrate, at pH 5.0 and 25°C	472	18178143	1.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 5.0 and 25°C	472	18178143	2.0
+catalase specific activity, at pH 7.0 and 37°C	472	18178143	4830.0
+crude extract, in 67 mM phosphate buffer (pH 7.0), at 25°C	512	9207193	4.4
+after 178fold purification, in 67 mM phosphate buffer (pH 7.0), at 25°C	512	9207193	785.0
+crude extract, in 67 mM phosphate buffer (pH 7.0), at 25°C	513	9207193	4.4
+after 178fold purification, in 67 mM phosphate buffer (pH 7.0), at 25°C	513	9207193	785.0
+crude extract, in 67 mM phosphate buffer (pH 7.0), at 25°C	514	9207193	4.4
+after 178fold purification, in 67 mM phosphate buffer (pH 7.0), at 25°C	514	9207193	785.0
+crude extract, in 67 mM phosphate buffer (pH 7.0), at 25°C	515	9207193	4.4
+after 178fold purification, in 67 mM phosphate buffer (pH 7.0), at 25°C	515	9207193	785.0
+substrate guajacol, mutant P151A	519	12731870	0.5
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	519	12603334	0.55
+substrate guajacol, wild-type enzyme	519	12731870	0.6
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C; peroxidase activity, using guaiacol as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	519	12603334	0.6
+crude enzyme, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	519	10543446	0.61
+after 2.79fold purification, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	519	10543446	1.7
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	519	12603334	1.9
+substrate o-dianisidine, mutant P151A	519	12731870	2.4
+substrate guajacol, mutants D152N and D152S	519	12731870	2.5
+substrate o-dianisidine, wild-type enzyme	519	12731870	3.2
+peroxidase activity, using o-dianisidine as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	519	12603334	3.8
+substrate guajacol, mutant D152W; substrate pyrogallol, mutant P151A	519	12731870	4.1
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C	519	12603334	4.3
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	519	18178143	5.5
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	519	18178143	6.4
+substrate pyrogallol, wild-type enzyme	519	12731870	6.6
+substrate pyrogallol, mutant D152W	519	12731870	7.3
+substrate o-dianisidine, mutant D152N	519	12731870	7.5
+substrate o-dianisidine, mutant D152S	519	12731870	7.6
+substrate pyrogallol, mutant D152N	519	12731870	12.5
+substrate pyrogallol, mutant D152S	519	12731870	13.6
+substrate o-dianisidine, mutant D152W	519	12731870	21.5
+crude enzyme, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	519	10543446	368.0
+after 2.67fold purification, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	519	10543446	983.0
+catalase specific activity, at pH 7.0 and 37°C	519	18178143	5420.0
+substrate guajacol, mutant P151A	520	12731870	0.5
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	520	12603334	0.55
+substrate guajacol, wild-type enzyme	520	12731870	0.6
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C; peroxidase activity, using guaiacol as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	520	12603334	0.6
+crude enzyme, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	520	10543446	0.61
+after 2.79fold purification, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	520	10543446	1.7
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	520	12603334	1.9
+substrate o-dianisidine, mutant P151A	520	12731870	2.4
+substrate guajacol, mutants D152N and D152S	520	12731870	2.5
+substrate o-dianisidine, wild-type enzyme	520	12731870	3.2
+peroxidase activity, using o-dianisidine as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	520	12603334	3.8
+substrate guajacol, mutant D152W; substrate pyrogallol, mutant P151A	520	12731870	4.1
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C	520	12603334	4.3
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	520	18178143	5.5
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	520	18178143	6.4
+substrate pyrogallol, wild-type enzyme	520	12731870	6.6
+substrate pyrogallol, mutant D152W	520	12731870	7.3
+substrate o-dianisidine, mutant D152N	520	12731870	7.5
+substrate o-dianisidine, mutant D152S	520	12731870	7.6
+substrate pyrogallol, mutant D152N	520	12731870	12.5
+substrate pyrogallol, mutant D152S	520	12731870	13.6
+substrate o-dianisidine, mutant D152W	520	12731870	21.5
+crude enzyme, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	520	10543446	368.0
+after 2.67fold purification, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	520	10543446	983.0
+catalase specific activity, at pH 7.0 and 37°C	520	18178143	5420.0
+substrate guajacol, mutant P151A	521	12731870	0.5
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	521	12603334	0.55
+substrate guajacol, wild-type enzyme	521	12731870	0.6
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C; peroxidase activity, using guaiacol as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	521	12603334	0.6
+crude enzyme, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	521	10543446	0.61
+after 2.79fold purification, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	521	10543446	1.7
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	521	12603334	1.9
+substrate o-dianisidine, mutant P151A	521	12731870	2.4
+substrate guajacol, mutants D152N and D152S	521	12731870	2.5
+substrate o-dianisidine, wild-type enzyme	521	12731870	3.2
+peroxidase activity, using o-dianisidine as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	521	12603334	3.8
+substrate guajacol, mutant D152W; substrate pyrogallol, mutant P151A	521	12731870	4.1
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C	521	12603334	4.3
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	521	18178143	5.5
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	521	18178143	6.4
+substrate pyrogallol, wild-type enzyme	521	12731870	6.6
+substrate pyrogallol, mutant D152W	521	12731870	7.3
+substrate o-dianisidine, mutant D152N	521	12731870	7.5
+substrate o-dianisidine, mutant D152S	521	12731870	7.6
+substrate pyrogallol, mutant D152N	521	12731870	12.5
+substrate pyrogallol, mutant D152S	521	12731870	13.6
+substrate o-dianisidine, mutant D152W	521	12731870	21.5
+crude enzyme, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	521	10543446	368.0
+after 2.67fold purification, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	521	10543446	983.0
+catalase specific activity, at pH 7.0 and 37°C	521	18178143	5420.0
+substrate guajacol, mutant P151A	522	12731870	0.5
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	522	12603334	0.55
+substrate guajacol, wild-type enzyme	522	12731870	0.6
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C; peroxidase activity, using guaiacol as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	522	12603334	0.6
+crude enzyme, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	522	10543446	0.61
+after 2.79fold purification, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	522	10543446	1.7
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	522	12603334	1.9
+substrate o-dianisidine, mutant P151A	522	12731870	2.4
+substrate guajacol, mutants D152N and D152S	522	12731870	2.5
+substrate o-dianisidine, wild-type enzyme	522	12731870	3.2
+peroxidase activity, using o-dianisidine as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	522	12603334	3.8
+substrate guajacol, mutant D152W; substrate pyrogallol, mutant P151A	522	12731870	4.1
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C	522	12603334	4.3
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	522	18178143	5.5
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	522	18178143	6.4
+substrate pyrogallol, wild-type enzyme	522	12731870	6.6
+substrate pyrogallol, mutant D152W	522	12731870	7.3
+substrate o-dianisidine, mutant D152N	522	12731870	7.5
+substrate o-dianisidine, mutant D152S	522	12731870	7.6
+substrate pyrogallol, mutant D152N	522	12731870	12.5
+substrate pyrogallol, mutant D152S	522	12731870	13.6
+substrate o-dianisidine, mutant D152W	522	12731870	21.5
+crude enzyme, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	522	10543446	368.0
+after 2.67fold purification, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	522	10543446	983.0
+catalase specific activity, at pH 7.0 and 37°C	522	18178143	5420.0
+substrate guajacol, mutant P151A	523	12731870	0.5
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	523	12603334	0.55
+substrate guajacol, wild-type enzyme	523	12731870	0.6
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C; peroxidase activity, using guaiacol as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	523	12603334	0.6
+crude enzyme, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	523	10543446	0.61
+after 2.79fold purification, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	523	10543446	1.7
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	523	12603334	1.9
+substrate o-dianisidine, mutant P151A	523	12731870	2.4
+substrate guajacol, mutants D152N and D152S	523	12731870	2.5
+substrate o-dianisidine, wild-type enzyme	523	12731870	3.2
+peroxidase activity, using o-dianisidine as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	523	12603334	3.8
+substrate guajacol, mutant D152W; substrate pyrogallol, mutant P151A	523	12731870	4.1
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C	523	12603334	4.3
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	523	18178143	5.5
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	523	18178143	6.4
+substrate pyrogallol, wild-type enzyme	523	12731870	6.6
+substrate pyrogallol, mutant D152W	523	12731870	7.3
+substrate o-dianisidine, mutant D152N	523	12731870	7.5
+substrate o-dianisidine, mutant D152S	523	12731870	7.6
+substrate pyrogallol, mutant D152N	523	12731870	12.5
+substrate pyrogallol, mutant D152S	523	12731870	13.6
+substrate o-dianisidine, mutant D152W	523	12731870	21.5
+crude enzyme, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	523	10543446	368.0
+after 2.67fold purification, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	523	10543446	983.0
+catalase specific activity, at pH 7.0 and 37°C	523	18178143	5420.0
+substrate o-dianisidine, mutant H290Q	524	15134453	0.18
+substrate o-dianisidine, mutant W341A	524	15134453	0.8
+substrate o-dianisidine, mutant D402N	524	15134453	1.8
+substrate o-dianisidine, mutant D402E	524	15134453	2.1
+substrate o-dianisidine, mutant P151A	524	15134453	2.4
+substrate o-dianisidine, wild-type enzyme	524	15134453	3.2
+substrate o-dianisidine, mutant W341F	524	15134453	6.1
+substrate o-dianisidine, mutant D152N	524	15134453	7.5
+substrate o-dianisidine, mutant D152S	524	15134453	7.6
+substrate o-dianisidine, mutant D152W	524	15134453	21.5
+substrate o-dianisidine, mutant H290Q	525	15134453	0.18
+substrate o-dianisidine, mutant W341A	525	15134453	0.8
+substrate o-dianisidine, mutant D402N	525	15134453	1.8
+substrate o-dianisidine, mutant D402E	525	15134453	2.1
+substrate o-dianisidine, mutant P151A	525	15134453	2.4
+substrate o-dianisidine, wild-type enzyme	525	15134453	3.2
+substrate o-dianisidine, mutant W341F	525	15134453	6.1
+substrate o-dianisidine, mutant D152N	525	15134453	7.5
+substrate o-dianisidine, mutant D152S	525	15134453	7.6
+substrate o-dianisidine, mutant D152W	525	15134453	21.5
+peroxidase activity, pH 7.0, 37°C	551	21996477	743.0
+catalase activity, pH 7.0, 37°C	551	21996477	818.0
+substrate H2O2, pH 7.0, 37°C	551	27016935	55784.0
+catalase activity, mutant enzyme H106Y, at pH 7.0 and 37°C	562	10801338	0.16
+catalase activity, mutant enzyme H106C, at pH 7.0 and 37°C	562	10801338	0.25
+catalase activity, mutant enzyme H267Y, at pH 7.0 and 37°C	562	10801338	0.95
+catalase activity, mutant enzyme W105F, at pH 7.0 and 37°C	562	10801338	1.9
+catalase activity, mutant enzyme W105L, at pH 7.0 and 37°C	562	10801338	5.9
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	562	18178143	8.3
+catalase activity, mutant enzyme R102C, at pH 7.0 and 37°C	562	10801338	10.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	562	18178143	11.0
+peroxidase activity, mutant enzyme H106C, at pH 7.0 and 37°C	562	10801338	11.0
+peroxidase activity, mutant enzyme H267Y, at pH 7.0 and 37°C	562	10801338	12.0
+peroxidase activity, mutant enzyme H106Y, at pH 7.0 and 37°C	562	10801338	18.0
+catalase activity, mutant enzyme R102L, at pH 7.0 and 37°C	562	10801338	19.0
+catalase activity, mutant enzyme R102K, at pH 7.0 and 37°C	562	10801338	35.0
+peroxidase activity, mutant enzyme R102C, at pH 7.0 and 37°C	562	10801338	63.0
+peroxidase activity, mutant enzyme R102K, at pH 7.0 and 37°C; peroxidase activity, mutant enzyme R102L, at pH 7.0 and 37°C	562	10801338	85.0
+peroxidase activity, wild type enzyme, at pH 7.0 and 37°C	562	10801338	660.0
+peroxidase activity, mutant enzyme W105L, at pH 7.0 and 37°C	562	10801338	1300.0
+catalase activity, wild type enzyme, at pH 7.0 and 37°C; peroxidase activity, mutant enzyme W105F, at pH 7.0 and 37°C	562	10801338	1900.0
+catalase specific activity, at pH 7.0 and 37°C	562	18178143	2200.0
+peroxidase activity from crude extract, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	564	11699646	0.45
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	564	18178143	3.2
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	564	18178143	12.0
+peroxidase activity after 3.17fold purification, in 50 mM potassium phosphate/sodium citrate buffer, pH 4.5, at 80°C	564	11699646	23.3
+catalase activity after heat treatment of the crude extract, in 50 mM potassium phosphate/sodium citrate buffer, pH 6.0, at 70°C	564	11699646	2375.0
+catalase specific activity, at pH 7.0 and 37°C	564	18178143	5280.0
+catalase activity after 2.91fold purification, in 50 mM potassium phosphate/sodium citrate buffer, pH 6.0, at 70°C	564	11699646	6922.0
+crude extract, catalatic activity, at 20°C and pH 7.5, in the presence of 1.5 M NaC1	566	7947969	5.0
+after 170fold purification, catalatic activity, at 20°C and pH 7.5, in the presence of 1.5 M NaC1	566	7947969	851.0
+substrate guajacol, mutant P151A	570	12731870	0.5
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	570	12603334	0.55
+substrate guajacol, wild-type enzyme	570	12731870	0.6
+peroxidase activity, using guaiacol as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C; peroxidase activity, using guaiacol as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	570	12603334	0.6
+crude enzyme, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	570	10543446	0.61
+after 2.79fold purification, peroxidase activity, in 67 mM phosphate buffer, pH 7.0, at 25°C	570	10543446	1.7
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153A, in 50 mM phosphate buffer, pH 7.0, and 30°C	570	12603334	1.9
+substrate o-dianisidine, mutant P151A	570	12731870	2.4
+substrate guajacol, mutants D152N and D152S	570	12731870	2.5
+substrate o-dianisidine, wild-type enzyme	570	12731870	3.2
+peroxidase activity, using o-dianisidine as substrate, wild type enzyme, in 50 mM phosphate buffer, pH 7.0, and 30°C	570	12603334	3.8
+substrate guajacol, mutant D152W; substrate pyrogallol, mutant P151A	570	12731870	4.1
+peroxidase activity, using o-dianisidine as substrate, mutant enzyme N153D, in 50 mM phosphate buffer, pH 7.0, and 30°C	570	12603334	4.3
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.3 and 25°C	570	18178143	5.5
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.3 and 25°C	570	18178143	6.4
+substrate pyrogallol, wild-type enzyme	570	12731870	6.6
+substrate pyrogallol, mutant D152W	570	12731870	7.3
+substrate o-dianisidine, mutant D152N	570	12731870	7.5
+substrate o-dianisidine, mutant D152S	570	12731870	7.6
+substrate pyrogallol, mutant D152N	570	12731870	12.5
+substrate pyrogallol, mutant D152S	570	12731870	13.6
+substrate o-dianisidine, mutant D152W	570	12731870	21.5
+crude enzyme, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	570	10543446	368.0
+after 2.67fold purification, catalase activity, in 67 mM phosphate buffer, pH 7.0, at 30°C	570	10543446	983.0
+catalase specific activity, at pH 7.0 and 37°C	570	18178143	5420.0
+isoniazid activation activities of wild-type and mutant enzymes in absence or presence of Mn2+, overview	571	12543676	-999.0
+specific peroxidase activity, using isoniazid as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	0.00904
+specific peroxidase activity, using isoniazid as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	0.0098
+specific peroxidase activity, using NADH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	0.208
+specific peroxidase activity, using NADH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	0.212
+specific peroxidase activity, using NADPH as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	0.264
+specific peroxidase activity, using NADPH as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	0.272
+peroxidase activity, in 50 mM sodium acetate buffer, pH 5.5, at 25°C	571	10933818	0.95
+specific peroxidase activity, using pyrogallol as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	2.12
+specific peroxidase activity, using pyrogallol as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	2.29
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.8 and 25°C	571	18178143	8.8
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.8 and 25°C	571	18178143	10.0
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	22.8
+specific peroxidase activity, using o-dianisidine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	25.9
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified wild type enzyme, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	99.4
+specific peroxidase activity, using 4-phenylendiamine as substrate, purified mutant enzyme R463L, in 50 mM Na2HPO4, pH 5.5, 25°C	571	9006925	100.7
+specific catalase activity, crude extract, in 50 mM Na2HPO4, pH 7.0, 25°C	571	9006925	226.0
+specific catalase activity, after 10.7fold purification, in 50 mM Na2HPO4, pH 7.0, 25°C	571	9006925	2420.0
+catalase specific activity, at pH 7.0 and 37°C	571	18178143	4450.0
+catalase activity, in phosphate buffer, pH 7.5, at 25°C	571	10933818	4500.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	583	18178143	4.8
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	583	18178143	5.3
+purified recombinant enzyme, catalase-specific activity	583	12454496	2200.0
+catalase specific activity, at pH 7.0 and 37°C	583	18178143	3630.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	585	18178143	4.8
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	585	18178143	5.3
+purified recombinant enzyme, catalase-specific activity	585	12454496	2200.0
+catalase specific activity, at pH 7.0 and 37°C	585	18178143	3630.0
+peroxidase specific activity, using 2,2'-azino-bis(3-ethylbenzthiazoline-6-sulfonic acid) as substrate, at pH 4.5 and 25°C	586	18178143	4.8
+peroxidase specific activity, using o-dianisidine as substrate, at pH 4.5 and 25°C	586	18178143	5.3
+purified recombinant enzyme, catalase-specific activity	586	12454496	2200.0
+catalase specific activity, at pH 7.0 and 37°C	586	18178143	3630.0
+peroxidase activity, pH 7.0, 37°C	587	21996477	743.0
+catalase activity, pH 7.0, 37°C	587	21996477	818.0
+substrate H2O2, pH 7.0, 37°C	587	27016935	55784.0

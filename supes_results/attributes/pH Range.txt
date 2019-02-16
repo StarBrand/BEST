@@ -1,0 +1,20 @@
+Commentary	Ref	Literature(PubmedID)	value
+more than 75% of maximum activity within	39	21996477	6.5-8.0
+more than 75% of maximum activity within	40	21996477	6.5-8.0
+more than 75% of maximum activity within	41	21996477	6.5-8.0
+more than 75% of maximum activity within	42	21996477	6.5-8.0
+pH range for both catalase and peroxidase activities, little or no activity is seen at pH 9.0	61	17371508	5.5-8.5
+pH range for both catalase and peroxidase activities, little or no activity is seen at pH 9.0	62	17371508	5.5-8.5
+catalase activity	151	8320233	6.0-7.5
+peroxidase activity	151	8320233	6.5-8.0
+catalase activity	152	8320233	6.0-7.5
+peroxidase activity	152	8320233	6.5-8.0
+catalase activity	153	8320233	6.0-7.5
+peroxidase activity	153	8320233	6.5-8.0
+peroxidatic activity	164	2029529	4.5-7.0
+peroxidatic activity	165	2029529	4.5-7.0
+peroxidatic activity	166	2029529	4.5-7.0
+peroxidatic activity	167	2029529	4.5-7.0
+for catalase activity	419	0	5.0-10.0
+more than 75% of maximum activity within	551	21996477	6.5-8.0
+more than 75% of maximum activity within	587	21996477	6.5-8.0

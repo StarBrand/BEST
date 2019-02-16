@@ -1,0 +1,43 @@
+Commentary	Ref	Literature(PubmedID)	value
+	56	1645695	5.8-6.4
+	57	1645695	5.8-6.4
+	58	1645695	5.8-6.4
+isoelectric focusing	151	8320233	3.8
+isoelectric focusing	152	8320233	3.8
+isoelectric focusing	153	8320233	3.8
+isoelectric focusing; isoelectric focusing	181	19000033	5.7
+calculated from amino acid sequence; calculated from amino acid sequence	181	19000033	6.0
+isoelectric focusing; isoelectric focusing	182	19000033	5.7
+calculated from amino acid sequence; calculated from amino acid sequence	182	19000033	6.0
+isoelectric focusing; isoelectric focusing	183	19000033	5.7
+calculated from amino acid sequence; calculated from amino acid sequence	183	19000033	6.0
+isoelectric focusing	237	14553939	4.8
+isoelectric focusing	238	14553939	4.8
+isoelectric focusing	239	14553939	4.8
+isoelectric focusing	240	14553939	4.8
+isoelectric focusing	243	9395452	3.7-3.8
+isoelectric focusing	244	9395452	3.7-3.8
+isoelectric focusing	245	9395452	3.7-3.8
+isoelectric focusing	246	9395452	3.7-3.8
+isoelectric focusing	247	9395452	3.7-3.8
+isoelectric focusing	248	9395452	3.7-3.8
+isoelectric focusing	470	3571290	4.5
+isoelectric focusing	471	3571290	4.5
+isoelectric focusing	472	3571290	4.5
+isoelectric focusing	512	9207193	4.7
+isoelectric focusing	513	9207193	4.7
+isoelectric focusing	514	9207193	4.7
+isoelectric focusing	515	9207193	4.7
+isoelectric focusing	519	10543446	5.4
+isoelectric focusing	520	10543446	5.4
+isoelectric focusing	521	10543446	5.4
+isoelectric focusing	522	10543446	5.4
+isoelectric focusing	523	10543446	5.4
+isoelectric focusing; isoelectric focusing	553	19000033	5.7
+calculated from amino acid sequence; calculated from amino acid sequence	553	19000033	6.0
+isoelectric focusing; isoelectric focusing	554	19000033	5.7
+calculated from amino acid sequence; calculated from amino acid sequence	554	19000033	6.0
+isoelectric focusing; isoelectric focusing	560	19000033	5.7
+calculated from amino acid sequence; calculated from amino acid sequence	560	19000033	6.0
+isoelectric focusing	570	10543446	5.4
+isoelectric focusing	571	9395452	3.7-3.8

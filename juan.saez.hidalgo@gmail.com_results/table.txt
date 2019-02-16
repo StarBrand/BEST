@@ -1,0 +1,352 @@
+EC_Number	Systematic_name	Recommended_name	UniProt	Organism	Commentary	Literature(PubmedID)	Ref
+3.4.24.3		microbial collagenase		Achromobacter	AMENDA reliability ++	6329035; 3019185; 6266487; 202322; 6251892	0
+3.4.24.3		microbial collagenase		Achromobacter lyticus	FRENDA	8282691	1
+3.4.24.3		microbial collagenase		Actinomyces	AMENDA reliability ++	4363287	2
+3.4.24.3		microbial collagenase		Aggregatibacter actinomycetemcomitans	FRENDA	10148563	3
+3.4.24.3		microbial collagenase		Alitta virens	AMENDA reliability ++	6321095; 199599	4
+3.4.24.3		microbial collagenase		Aloe vera	FRENDA	12479983	5
+3.4.24.3		microbial collagenase		Anemone	FRENDA	1730224	6
+3.4.24.3		microbial collagenase		Anguilla rostrata	FRENDA	10792969	7
+3.4.24.3		microbial collagenase		animal	AMENDA reliability +	2606899; 9378518	8
+3.4.24.3		microbial collagenase		animal	AMENDA reliability ++	2551572	9
+3.4.24.3		microbial collagenase		animal	AMENDA reliability ++	2160142; 2562168; 3019184; 10425590; 11501122; 2846288; 2155638; 6290134	10
+3.4.24.3		microbial collagenase		animal	FRENDA	8027086; 10625734; 1426158; 7849368; 8933461; 10419784; 15459476; 15995776; 19041895; 19554035; 27524026; 9040695; 25879165; 28423680; 21725723; 21725724; 100155713; 10363252; 17726491	11
+3.4.24.3		microbial collagenase		Anthoathecata	FRENDA	28305494	12
+3.4.24.3		microbial collagenase		Anthrax	AMENDA reliability +	22214451	13
+3.4.24.3		microbial collagenase		Anthrax	FRENDA	15819985	14
+3.4.24.3		microbial collagenase		Arachis hypogaea	AMENDA reliability ++	1323644	15
+3.4.24.3		microbial collagenase		Araneae	FRENDA	1358516	16
+3.4.24.3		microbial collagenase		Areas	AMENDA reliability ++	1649003; 6097568	17
+3.4.24.3		microbial collagenase		Areas	FRENDA	19374494; 26176793; 3565908; 8717101; 11804755; 12881607; 15459476; 17218400; 26498936; 21988112; 28423680; 26374391	18
+3.4.24.3		microbial collagenase		Armoracia rusticana	AMENDA reliability ++	2540672; 2160204	19
+3.4.24.3		microbial collagenase		Armoracia rusticana	FRENDA	2430929	20
+3.4.24.3		microbial collagenase		Ascaris	AMENDA reliability ++	175053	21
+3.4.24.3		microbial collagenase		Ascaris lumbricoides	AMENDA reliability ++	2982639	22
+3.4.24.3		microbial collagenase		Ascaris lumbricoides	AMENDA reliability ++	175053	23
+3.4.24.3		microbial collagenase		Ascaris suum	FRENDA	1978529; 3409662	24
+3.4.24.3		microbial collagenase		Astacoidea	AMENDA reliability ++	2437524	25
+3.4.24.3		microbial collagenase		Aureobasidium pullulans	AMENDA reliability +	100155713	26
+3.4.24.3		microbial collagenase		Autographa californica nucleopolyhedrovirus	FRENDA	18769621	27
+3.4.24.3		microbial collagenase		Bacillus	FRENDA	29485268	28
+3.4.24.3		microbial collagenase		Bacillus anthracis	AMENDA reliability +	15819985	29
+3.4.24.3		microbial collagenase		Bacillus cereus		3040751	30
+3.4.24.3		microbial collagenase		Bacillus cereus Q1	FRENDA	28820255	31
+3.4.24.3		microbial collagenase		Bacillus sp. (in: Bacteria)	FRENDA	11693905	32
+3.4.24.3		microbial collagenase		Bacillus subtilis	AMENDA reliability +	9013490	33
+3.4.24.3		microbial collagenase		Bacillus subtilis	AMENDA reliability ++	6251892	34
+3.4.24.3		microbial collagenase		Bacteria	AMENDA reliability ++	2561866; 6248261	35
+3.4.24.3		microbial collagenase		Bacteria	AMENDA reliability ++	2562264; 3019185	36
+3.4.24.3		microbial collagenase		Bacteria	FRENDA	15819985; 12111749; 22214451; 11238041; 18523385; 19187667; 21947205; 28166091	37
+3.4.24.3		microbial collagenase		Basidiomycota	AMENDA reliability ++	11933148	38
+3.4.24.3		microbial collagenase		Beijerinckia derxii subsp. venezuelae	AMENDA reliability ++	6092769	39
+3.4.24.3		microbial collagenase		Bos taurus	AMENDA reliability +	3905816; 11696990; 3359803; 949480; 7182108; 7929987; 10382830; 12011738; 3456007; 8950592; 10065816; 18390171; 21920588; 25575060; 27473847; 8292381; 2139124; 7679459; 2430929; 1471956; 1892641; 2160256; 3392020; 3964671; 8814144; 12489190; 27777071; 8226224; 9699958; 10732079; 15068040; 22055648; 100297786; 100338369	40
+3.4.24.3		microbial collagenase		Bos taurus	AMENDA reliability ++	21789568; 177066; 164935; 1323568; 1851178; 167862; 6245663; 9827355	41
+3.4.24.3		microbial collagenase		Bos taurus	AMENDA reliability ++	6247153; 172071; 1851244; 2545877; 2562168; 3027232; 6314948; 6329265; 1323644; 1649003; 6297940; 2560868; 6272735; 3014920; 188641; 1310410; 6203913; 6250829; 2993303; 6090057; 1325154; 17650099; 1315581; 2551572; 2556985; 2843102; 3025090; 6290134; 6766924; 3030445; 6313063	42
+3.4.24.3		microbial collagenase		Bos taurus	FRENDA	7346226; 9040485; 391267; 1478946; 3950543; 1400327; 2070381; 3427900; 1864364; 2405843; 3527259; 3919026; 8433566; 1426158; 1770007; 3140605; 6083863; 6196324; 8864855; 10963960; 11557368; 18425302; 28464265; 3135090; 6353999; 1480059; 16728203; 25130877; 1559392; 16816338; 17805859; 1380073; 1303307; 1339349; 6630235; 6715415; 3654622; 8207026; 12085592; 16395192; 18523385; 22059816; 4084589; 6872492; 945152; 2037086; 2376121; 3651393; 3711680; 6693495; 8783183; 9157784; 11108030; 12635161; 16187906; 19187667; 20429513; 24795891; 27259301; 9013490; 11020282; 7895687; 14674693; 26833780; 2551903	43
+3.4.24.3		microbial collagenase		Bothrops jararaca	FRENDA	1336630; 9241780	44
+3.4.24.3		microbial collagenase		Brevibacillus	FRENDA	21515782	45
+3.4.24.3		microbial collagenase		Brevibacillus choshinensis	FRENDA	21515782	46
+3.4.24.3		microbial collagenase		Brucella	FRENDA	22214451	47
+3.4.24.3		microbial collagenase		Brucella suis	FRENDA	22214451	48
+3.4.24.3		microbial collagenase		Calendula	FRENDA	27956358	49
+3.4.24.3		microbial collagenase		Calendula officinalis	FRENDA	27956358	50
+3.4.24.3		microbial collagenase		Callithrix jacchus	AMENDA reliability ++	1658384	51
+3.4.24.3		microbial collagenase		Camellia sinensis	FRENDA	29414808	52
+3.4.24.3		microbial collagenase		Canis lupus familiaris	AMENDA reliability +	26678369; 1380073; 19967451	53
+3.4.24.3		microbial collagenase		Canis lupus familiaris	AMENDA reliability ++	167916; 74261	54
+3.4.24.3		microbial collagenase		Canis lupus familiaris	AMENDA reliability ++	184702; 6253969; 3023710; 8253805	55
+3.4.24.3		microbial collagenase		Canis lupus familiaris	FRENDA	8027086; 2917154; 3839068; 3863100; 1988071; 2037086; 2079701	56
+3.4.24.3		microbial collagenase		Cannula	FRENDA	15497050	57
+3.4.24.3		microbial collagenase		Capra hircus	AMENDA reliability +	15995776	58
+3.4.24.3		microbial collagenase		Capra hircus	FRENDA	6395720; 11804755	59
+3.4.24.3		microbial collagenase		Carassius auratus	AMENDA reliability +	183509	60
+3.4.24.3		microbial collagenase		Cardiospermum halicacabum	AMENDA reliability ++	21789568	61
+3.4.24.3		microbial collagenase		Carica papaya	AMENDA reliability +	100155713	62
+3.4.24.3		microbial collagenase		Cassiopea frondosa	FRENDA	9319729	63
+3.4.24.3		microbial collagenase		Cavia	AMENDA reliability ++	6092769	64
+3.4.24.3		microbial collagenase		Cavia	FRENDA	6309911; 16305324	65
+3.4.24.3		microbial collagenase		Cavia porcellus	AMENDA reliability ++	167916; 6263673	66
+3.4.24.3		microbial collagenase		Cavia porcellus	AMENDA reliability ++	6092769; 170602; 6313800	67
+3.4.24.3		microbial collagenase		Cavia porcellus	FRENDA	6309911; 3711680	68
+3.4.24.3		microbial collagenase		Chandipura virus	AMENDA reliability +	3338498	69
+3.4.24.3		microbial collagenase		Chandipura virus	FRENDA	9040485	70
+3.4.24.3		microbial collagenase		Chondrosia reniformis	AMENDA reliability ++	6309474	71
+3.4.24.3		microbial collagenase		Cinnamomum verum	FRENDA	10510272	72
+3.4.24.3		microbial collagenase		Citrus	FRENDA	27365982	73
+3.4.24.3		microbial collagenase		Citrus reticulata	AMENDA reliability +	27365982	74
+3.4.24.3		microbial collagenase		Clostridia	FRENDA	29485268; 24125730; 19333597	75
+3.4.24.3		microbial collagenase		Clostridium	AMENDA reliability +	18164255; 21869859	76
+3.4.24.3		microbial collagenase		Clostridium	AMENDA reliability ++	6266487; 10732980; 10699384; 10785556; 2822167	77
+3.4.24.3		microbial collagenase		Clostridium	AMENDA reliability ++	15490040; 6290002; 184822; 210785; 1663343; 21860332; 11913772	78
+3.4.24.3		microbial collagenase		Clostridium	FRENDA	22214451; 1480012	79
+3.4.24.3		microbial collagenase		Clostridium capitorale		0	80
+3.4.24.3		microbial collagenase		Clostridium perfringens		0	81
+3.4.24.3		microbial collagenase		Clostridium perfringens	FRENDA	9922257; 8282691; 18629492	82
+3.4.24.3		microbial collagenase		Clostridium sp.		18407417	83
+3.4.24.3		microbial collagenase		Clostridium tetani		18937627	84
+3.4.24.3		microbial collagenase		Clostridium tetani	AMENDA reliability +	24125730; 19333597	85
+3.4.24.3		microbial collagenase		Clostridium tetani	FRENDA	28820255	86
+3.4.24.3		microbial collagenase		Clostridium welchii		0	87
+3.4.24.3		microbial collagenase		Cnidaria	FRENDA	1730224	88
+3.4.24.3		microbial collagenase		Coffea	FRENDA	21961901	89
+3.4.24.3		microbial collagenase		Corynebacterium	AMENDA reliability +	8064799; 7945258	90
+3.4.24.3		microbial collagenase		Cotyledon	AMENDA reliability +	10732079	91
+3.4.24.3		microbial collagenase		Cotyledon	AMENDA reliability ++	1315581	92
+3.4.24.3		microbial collagenase		Cricetinae	FRENDA	23305770	93
+3.4.24.3		microbial collagenase		Cricetulus griseus	AMENDA reliability ++	204330; 6286232	94
+3.4.24.3		microbial collagenase		Crotalinae	FRENDA	9241780	95
+3.4.24.3		microbial collagenase		Crotalus atrox	FRENDA	1519250	96
+3.4.24.3		microbial collagenase		Cryptobia salmositica	FRENDA	9660140	97
+3.4.24.3		microbial collagenase		Cucumaria frondosa	FRENDA	9512889; 9319729	98
+3.4.24.3		microbial collagenase		Cucumis sativus	FRENDA	9512889; 9319729	99
+3.4.24.3		microbial collagenase		Cyberlindnera jadinii	FRENDA	7945458	100
+3.4.24.3		microbial collagenase		Cytophaga sp.	L43-1 strain	7764338	101
+3.4.24.3		microbial collagenase		Cytophaga sp. L43-1	L43-1 strain	7764338	102
+3.4.24.3		microbial collagenase		Didelphis marsupialis	FRENDA	9241780	103
+3.4.24.3		microbial collagenase		Elizabethkingia meningoseptica	FRENDA	8185308	104
+3.4.24.3		microbial collagenase		Empedobacter collagenolyticum		1399271	105
+3.4.24.3		microbial collagenase		Enema	FRENDA	28166091	106
+3.4.24.3		microbial collagenase		Enterococcus	FRENDA	22214451	107
+3.4.24.3		microbial collagenase		Entomophthora	AMENDA reliability ++	219780	108
+3.4.24.3		microbial collagenase		Equidae	AMENDA reliability +	19684346; 26374391	109
+3.4.24.3		microbial collagenase		Equidae	AMENDA reliability ++	12641846	110
+3.4.24.3		microbial collagenase		Equidae	FRENDA	21950378	111
+3.4.24.3		microbial collagenase		Equus caballus	AMENDA reliability +	9699958	112
+3.4.24.3		microbial collagenase		Equus caballus	AMENDA reliability ++	12641846	113
+3.4.24.3		microbial collagenase		Equus caballus	AMENDA reliability +++	26374391	114
+3.4.24.3		microbial collagenase		Equus caballus	FRENDA	2113705; 10732079	115
+3.4.24.3		microbial collagenase		Escherichia	FRENDA	9013490	116
+3.4.24.3		microbial collagenase		Escherichia coli	AMENDA reliability +	19333597; 18453715	117
+3.4.24.3		microbial collagenase		Escherichia coli	AMENDA reliability ++	2573529; 1658384; 2562264; 2846288	118
+3.4.24.3		microbial collagenase		Escherichia coli	AMENDA reliability ++	22685155	119
+3.4.24.3		microbial collagenase		Escherichia coli	FRENDA	8577257; 22214451; 6087342; 8282691	120
+3.4.24.3		microbial collagenase		eukaryota	AMENDA reliability +	7945458	121
+3.4.24.3		microbial collagenase		Euphausiacea	AMENDA reliability +	11121112	122
+3.4.24.3		microbial collagenase		Euphausiacea	FRENDA	10785384; 12437096	123
+3.4.24.3		microbial collagenase		Felis catus	FRENDA	6723807	124
+3.4.24.3		microbial collagenase		Fucus vesiculosus	FRENDA	26463947	125
+3.4.24.3		microbial collagenase		Fusobacterium	AMENDA reliability ++	21860332	126
+3.4.24.3		microbial collagenase		Galleria mellonella	FRENDA	29485268	127
+3.4.24.3		microbial collagenase		Gallus gallus	AMENDA reliability +	1339349; 8157677	128
+3.4.24.3		microbial collagenase		Gallus gallus	AMENDA reliability ++	2542788	129
+3.4.24.3		microbial collagenase		Gallus gallus	AMENDA reliability ++	3015364; 6100555; 6203793	130
+3.4.24.3		microbial collagenase		Gallus gallus	FRENDA	6692838; 3857602; 7532541; 10472852; 12019301; 29427807; 8125749; 22059816; 6087342; 16758574; 15484638	131
+3.4.24.3		microbial collagenase		Garcia	FRENDA	24518201	132
+3.4.24.3		microbial collagenase		Geobacillus	AMENDA reliability +	16952949	133
+3.4.24.3		microbial collagenase		Glycine max	AMENDA reliability ++	6247153; 7815896; 182274; 6766924	134
+3.4.24.3		microbial collagenase		Glycine max	FRENDA	6353999; 3542919	135
+3.4.24.3		microbial collagenase		Gossypium hirsutum	AMENDA reliability ++	6309474	136
+3.4.24.3		microbial collagenase		Grimontia	FRENDA	21515782	137
+3.4.24.3		microbial collagenase		Grimontia hollisae	FRENDA	21515782	138
+3.4.24.3		microbial collagenase		Guinea	AMENDA reliability ++	6092769	139
+3.4.24.3		microbial collagenase		Guinea	FRENDA	6309911	140
+3.4.24.3		microbial collagenase		Haemonchus	FRENDA	2591199	141
+3.4.24.3		microbial collagenase		Haemonchus contortus	AMENDA reliability ++	2552312	142
+3.4.24.3		microbial collagenase		Haemonchus contortus	FRENDA	2591199	143
+3.4.24.3		microbial collagenase		Haemophilus influenzae	FRENDA	22214451	144
+3.4.24.3		microbial collagenase		Hathewaya histolytica		0; 2990251; 4340512; 6087888; 6266487; 9452493; 9013490; 12713832; 10732980; 11724807; 10938538; 12357383; 16682189; 17577383; 17569004; 17650099; 18937627; 20499930; 20529148; 21348512; 21823836; 22099748; 0; 192599	145
+3.4.24.3		microbial collagenase		Hathewaya histolytica	2 fractions differ in specificity	4322486	146
+3.4.24.3		microbial collagenase		Hathewaya histolytica	2 multiple forms: I and II differ in substrate specificity	14240635; 3002445	147
+3.4.24.3		microbial collagenase		Hathewaya histolytica	2-6 different collagenase fractions can be differentiated on the basis of substrate preference	0	148
+3.4.24.3		microbial collagenase		Hathewaya histolytica	2-6 different collagenase fractions can be differentiated on the basis of substrate preference; 2 multiple forms: I and II differ in substrate specificity	8171590	149
+3.4.24.3		microbial collagenase		Hathewaya histolytica	3 forms: A-alpha, B-alpha and B-beta differ in substrate specificity	4297964	150
+3.4.24.3		microbial collagenase		Hathewaya histolytica	3 forms: C1, C2, C3 differ in molecular weight	6095892	151
+3.4.24.3		microbial collagenase		Hathewaya histolytica	4 forms: I, II, IIIa, IIIb	184822	152
+3.4.24.3		microbial collagenase		Hathewaya histolytica	6 forms: alpha, beta, gamma, delta, epsilon, zeta differ in substrate specificity	6087887; 1325154	153
+3.4.24.3		microbial collagenase		Hathewaya histolytica	AMENDA reliability +	21961901; 27365982; 9922257; 9224638; 19945332; 27956358; 2481676; 6392121; 26678369; 12111749; 24125730; 12751815; 12479983; 18260138; 27373458; 23561530; 8250226; 22214451; 1417889; 19388774; 21871007; 22584606; 2430929; 9618531; 11108030; 19333597; 22898990; 24844188; 25956801; 26032978; 28761877; 28820255; 29519629; 100155713; 9452493; 9013490; 11020282; 18937627; 21823836; 21947205; 25783848; 8539958; 11693905; 18629492; 21515782; 22529049; 27649672; 1480013; 8539957; 13534676; 15440885; 23144771; 26683137; 2462561	154
+3.4.24.3		microbial collagenase		Hathewaya histolytica	AMENDA reliability ++	6315459; 2561866; 6252691; 12217351; 184702; 178615; 6295413; 6095892; 6266487; 184822; 12713832; 177067; 2830001; 3010771	155
+3.4.24.3		microbial collagenase		Hathewaya histolytica	AMENDA reliability ++	15490040; 6190922; 21789568; 169202; 2167850; 10794702; 11405662; 12517437; 164935; 213904; 1322986; 1335359; 1662269; 6286227; 6263099; 15723562; 15499995; 2167319; 226285; 6321095; 15207729; 21060335; 27117216; 2990251; 4340512; 4322486; 210785; 2822678; 8171590; 1325154; 10913755; 16682189; 22685155; 1324862; 165833; 167862; 218961; 1663343; 7915609; 21860332; 175053; 214494; 1666017; 4137716; 4175206; 4319428; 4363287; 6269461; 6272790; 11913772; 11933148; 12818668; 25973613; 6313063	156
+3.4.24.3		microbial collagenase		Hathewaya histolytica	AMENDA reliability +++	18453715; 20499930; 21127696; 26833780; 27547932; 28098745	157
+3.4.24.3		microbial collagenase		Hathewaya histolytica	AMENDA reliability ++++	10732980; 10699384; 10938538; 12357383; 10743957; 10785556; 2832171; 2992578; 7859945; 9258514; 19490118; 22875519; 22912868; 23775724; 24124060; 25332216	158
+3.4.24.3		microbial collagenase		Hathewaya histolytica	class I collagenase	12682007	159
+3.4.24.3		microbial collagenase		Hathewaya histolytica	collagenase type VII	10699384	160
+3.4.24.3		microbial collagenase		Hathewaya histolytica	FRENDA	7945458; 14506914; 24608089; 22059816; 21348512; 25760606; 22055648	161
+3.4.24.3		microbial collagenase		Hathewaya histolytica	type I collagenase ColG	11121400	162
+3.4.24.3		microbial collagenase		Helicobacter pylori	FRENDA	22214451	163
+3.4.24.3		microbial collagenase		Helicoverpa armigera	FRENDA	18769621	164
+3.4.24.3		microbial collagenase		Hepatitis B virus	FRENDA	21596708	165
+3.4.24.3		microbial collagenase		Homo sapiens	AMENDA reliability +	391267; 91167; 2502732; 3101739; 6809283; 26011565; 27956358; 111833; 3936547; 2372946; 3547403; 8650669; 8950592; 10148563; 16109566; 17218400; 19710545; 23633267; 28450938; 6353999; 9169591; 1480017; 28494752; 27195301; 17402704; 1339349; 2139124; 10578056; 1062413; 7679459; 8621148; 11238041; 11759871; 18523385; 26816633; 3476610; 6941676; 8814144; 17711631; 21596708; 28820255; 11891230; 8144618; 9699958; 22472561; 11217300; 15619437; 28098745; 2462561	166
+3.4.24.3		microbial collagenase		Homo sapiens	AMENDA reliability ++	15490040; 1312412; 2983994; 6314948; 6325223; 6286238; 167916; 192198; 213904; 2163444; 2540672; 6286227; 10425590; 3011868; 199265; 6097568; 1851178; 3027636; 15207729; 17577383; 3023710; 33059; 2822167; 6260204; 6272744; 6320746; 12464480; 230433; 1309465; 3002711; 11933148; 23775724; 24124060; 3030445	167
+3.4.24.3		microbial collagenase		Homo sapiens	AMENDA reliability ++	6190922; 6247153; 6315462; 2573529; 2562264; 3020132; 3002790; 181190; 204938; 230574; 3023157; 6325224; 6331269; 26055808; 12217351; 184829; 12616370; 11501122; 2165873; 6315746; 15661487; 3014920; 185972; 1315984; 1663847; 6250829; 6274953; 6090057; 1851794; 2163587; 6100555; 2844149; 1325154; 17569004; 2547836; 3021541; 74261; 218961; 1650234; 2830001; 2843102; 3025090; 6157326; 21860332; 22912868; 25332216; 16671457; 3000352	168
+3.4.24.3		microbial collagenase		Homo sapiens	AMENDA reliability +++	16334577	169
+3.4.24.3		microbial collagenase		Homo sapiens	AMENDA reliability ++++	12357383; 2996104	170
+3.4.24.3		microbial collagenase		Homo sapiens	FRENDA	9837861; 6383479; 11108661; 16542506; 8027086; 10226073; 22770555; 3905816; 19711256; 11696990; 1478946; 3359803; 3950543; 8168508; 8421066; 10200539; 2606899; 3458761; 6395720; 6626246; 6870834; 7066911; 7488334; 9204059; 9224638; 14568426; 15757635; 18006063; 26717112; 29386206; 29485268; 2481676; 17225860; 1271012; 1402475; 2361966; 2405843; 7370260; 7870276; 8433566; 9022684; 24594343; 511208; 932639; 1281605; 1333823; 1494606; 2133806; 2677627; 3208719; 3456007; 3503658; 3814656; 3839068; 3985384; 7000964; 7839077; 8235291; 8665688; 8864855; 8900119; 8933461; 9546109; 10065816; 10947951; 11557368; 11822407; 12881607; 15334926; 15995776; 16510565; 19041895; 19554035; 20818776; 22384158; 24252180; 25101157; 25543848; 26387045; 26678369; 28464265; 29499303; 16305324; 6870839; 12479983; 24698215; 25130877; 9063449; 24608089; 2684928; 6824735; 21882896; 28552561; 15507895; 9488598; 21988112; 28278213; 22871215; 3654622; 6427226; 9228935; 12034863; 20650510; 22819310; 2502170; 7174792; 9072327; 9083095; 856725; 945152; 1184037; 1699117; 3536967; 3711680; 7362844; 7608132; 7699947; 7980961; 8468188; 8472358; 8858126; 9039287; 14675190; 16187906; 21725723; 23762223; 25260647; 25931468; 27777071; 29483394; 29519629; 11020282; 18635848; 21348512; 21947205; 9685420; 11824946; 3057737; 8118455; 14674693; 16210957; 17726491; 21118210; 23305770; 27649672; 21127696; 23023153; 26374391; 26683137; 26833780; 27547932; 14756560	171
+3.4.24.3		microbial collagenase		Hordeum vulgare	AMENDA reliability +	100155713	172
+3.4.24.3		microbial collagenase		Hypoderma	FRENDA	1480012	173
+3.4.24.3		microbial collagenase		Indicator	AMENDA reliability ++	6263099; 16682189	174
+3.4.24.3		microbial collagenase		Indicator	FRENDA	2372946; 21920588; 9228935	175
+3.4.24.3		microbial collagenase		Ipomoea batatas	AMENDA reliability +	100155713	176
+3.4.24.3		microbial collagenase		Ixora parviflora	FRENDA	22203872	177
+3.4.24.3		microbial collagenase		Klebsiella pneumoniae	AMENDA reliability ++	2846288	178
+3.4.24.3		microbial collagenase		Komagataella pastoris	FRENDA	10785384; 12437096; 12869537	179
+3.4.24.3		microbial collagenase		Lactobacillus acidophilus	FRENDA	18523385	180
+3.4.24.3		microbial collagenase		Lamiinae	FRENDA	9671281; 6196324; 28098745	181
+3.4.24.3		microbial collagenase		Lamina	AMENDA reliability +	23023153	182
+3.4.24.3		microbial collagenase		Lamina	AMENDA reliability ++	2160142; 11913772	183
+3.4.24.3		microbial collagenase		Lamina	FRENDA	91167; 9671281; 9671282; 6885907; 7000964; 2684928; 11428165; 3338498; 9083095; 8247322; 9109878	184
+3.4.24.3		microbial collagenase		Lanceolata	FRENDA	100049430	185
+3.4.24.3		microbial collagenase		Legionella pneumophila	FRENDA	22214451	186
+3.4.24.3		microbial collagenase		Lens culinaris	AMENDA reliability ++	1323644	187
+3.4.24.3		microbial collagenase		Lens culinaris	FRENDA	6427226	188
+3.4.24.3		microbial collagenase		Lentivirus	FRENDA	28464265	189
+3.4.24.3		microbial collagenase		Leptospira	AMENDA reliability +	23305770	190
+3.4.24.3		microbial collagenase		Leptospira interrogans serovar Pyrogenes	FRENDA	23305770	191
+3.4.24.3		microbial collagenase		Listeria	FRENDA	22214451	192
+3.4.24.3		microbial collagenase		Lobster	FRENDA	12869537	193
+3.4.24.3		microbial collagenase		Macropus sp.	AMENDA reliability +	2126427	194
+3.4.24.3		microbial collagenase		Mammalia	AMENDA reliability +	27195301	195
+3.4.24.3		microbial collagenase		Mammalia	FRENDA	10792969	196
+3.4.24.3		microbial collagenase		Meniscus	FRENDA	15995776; 8468188	197
+3.4.24.3		microbial collagenase		Mentha	FRENDA	29414808	198
+3.4.24.3		microbial collagenase		Mesocricetus auratus	FRENDA	23305770	199
+3.4.24.3		microbial collagenase		Metazoa	AMENDA reliability +	26717112	200
+3.4.24.3		microbial collagenase		Metazoa	AMENDA reliability ++	7370216	201
+3.4.24.3		microbial collagenase		Metazoa	AMENDA reliability ++	1980558; 1337476; 12641846; 6246885	202
+3.4.24.3		microbial collagenase		Metazoa	FRENDA	26176793; 9043095; 15819985; 22770555; 124336; 1448828; 3129168; 7831705; 10625734; 15087712; 17346685; 100049430; 17225860; 28474628; 1426158; 1603033; 1854714; 2677627; 2721823; 3378683; 3985384; 6309911; 8933461; 9546109; 10963960; 12468045; 12881607; 15995776; 17218400; 19554035; 20080148; 20818776; 23261767; 24518201; 25543848; 26463947; 28529954; 16305324; 16011743; 4084589; 8023712; 8501708; 10510272; 20429513; 21725724; 25931468; 21348512; 1336302	203
+3.4.24.3		microbial collagenase		Microtome	FRENDA	3458761; 7839077	204
+3.4.24.3		microbial collagenase		mouse mammary tumor virus	FRENDA	1480017	205
+3.4.24.3		microbial collagenase		Mus musculus	AMENDA reliability +	7512303; 3936547; 6885907; 8650669; 8893376; 23261767; 24252180; 12687245; 25956801; 8144618	206
+3.4.24.3		microbial collagenase		Mus musculus	AMENDA reliability ++	2844066; 2850175; 6320746; 15449423; 3030445	207
+3.4.24.3		microbial collagenase		Mus musculus	AMENDA reliability ++	6315459; 3011814; 1851244; 3027232; 6305319; 6297850; 184702; 2168840; 11501122; 1310410; 6250829; 176659	208
+3.4.24.3		microbial collagenase		Mus musculus	FRENDA	26176793; 9043095; 10434051; 11108661; 12037677; 8027086; 3950543; 8079660; 2493326; 2460426; 7066911; 2481676; 17225860; 1281605; 1283163; 3547403; 3985384; 6156797; 6302102; 7532541; 7906197; 8717101; 10419784; 15497050; 17218400; 18425302; 20818776; 24518201; 28529954; 7323412; 1480059; 7489723; 1699117; 7153245; 8814144; 9618531; 24844188; 29483394; 1358516; 12713552	209
+3.4.24.3		microbial collagenase		Mus sp.	AMENDA reliability +	26176793; 29301581; 17225860; 8717101; 8988346; 17218400; 18425302; 19554035; 20818776; 24518201; 26251254; 26463947; 28529954; 16011743; 29212744; 28166091	210
+3.4.24.3		microbial collagenase		Mus sp.	AMENDA reliability ++	2155638; 15449423	211
+3.4.24.3		microbial collagenase		Mus sp.	AMENDA reliability ++	24124060	212
+3.4.24.3		microbial collagenase		Mus sp.	AMENDA reliability +++	23023153	213
+3.4.24.3		microbial collagenase		Mus sp.	FRENDA	19374494; 9043095; 10434051; 15819985; 22300708; 3129168; 7512303; 21128737; 24594343; 7906197; 10419784; 11557368; 21251212; 22384158; 23261767; 2684928; 15692122; 21666116; 12489190; 21725723; 25956801; 1358516; 8144618; 26833780	214
+3.4.24.3		microbial collagenase		Mycobacterium tuberculosis		0	215
+3.4.24.3		microbial collagenase		Mycobacterium tuberculosis	FRENDA	22214451	216
+3.4.24.3		microbial collagenase		Mycoplasma	FRENDA	19187667	217
+3.4.24.3		microbial collagenase		Naja kaouthia	FRENDA	28474628	218
+3.4.24.3		microbial collagenase		Neisseria	FRENDA	22214451	219
+3.4.24.3		microbial collagenase		Nematoda	AMENDA reliability ++	2552312	220
+3.4.24.3		microbial collagenase		Nematoda	FRENDA	3409662	221
+3.4.24.3		microbial collagenase		Nereis	AMENDA reliability ++	199599	222
+3.4.24.3		microbial collagenase		Oryctolagus cuniculus	AMENDA reliability +	3359803; 19122394; 27259301	223
+3.4.24.3		microbial collagenase		Oryctolagus cuniculus	AMENDA reliability ++	1648730; 1665295; 1658384; 6314948; 6286238; 1323644; 1852087; 2552312; 1310410; 6274953; 6090057; 165833; 2843102; 6260204; 6272744; 3002711	224
+3.4.24.3		microbial collagenase		Oryctolagus cuniculus	AMENDA reliability ++	169202; 167916; 6252879; 223334; 221908; 180847; 196653; 6320746; 4350501	225
+3.4.24.3		microbial collagenase		Oryctolagus cuniculus	FRENDA	15819985; 6395720; 9224638; 2405843; 2372946; 6392121; 8158287; 15938912; 6619153; 2196181; 6872492; 50285; 1144059; 1699117; 7326020; 7608132; 8432560; 8468188; 21725723; 8118455; 10770652; 14674693	226
+3.4.24.3		microbial collagenase		Ovis aries	AMENDA reliability +	7738061; 7738060; 8672629	227
+3.4.24.3		microbial collagenase		Ovis aries	FRENDA	949480; 2591199; 8501708	228
+3.4.24.3		microbial collagenase		Panax ginseng	FRENDA	11885696	229
+3.4.24.3		microbial collagenase		Pandalus borealis	FRENDA	12869537	230
+3.4.24.3		microbial collagenase		Paralithodes camtschaticus	AMENDA reliability ++	2822167	231
+3.4.24.3		microbial collagenase		Petromyzontiformes	FRENDA	11163407	232
+3.4.24.3		microbial collagenase		Phaseolus lunatus	AMENDA reliability ++	6766924	233
+3.4.24.3		microbial collagenase		Phocidae	AMENDA reliability ++	2437524	234
+3.4.24.3		microbial collagenase		Pichia	FRENDA	10785384	235
+3.4.24.3		microbial collagenase		Pinna	AMENDA reliability ++	21854418	236
+3.4.24.3		microbial collagenase		plant	FRENDA	27365982; 11885696; 27956358; 10472852; 22055648	237
+3.4.24.3		microbial collagenase		Plantago lanceolata	FRENDA	100049430	238
+3.4.24.3		microbial collagenase		Platyrrhini	AMENDA reliability ++	167916	239
+3.4.24.3		microbial collagenase		Platyrrhini	FRENDA	124336	240
+3.4.24.3		microbial collagenase		Plica	FRENDA	7512303; 1283163	241
+3.4.24.3		microbial collagenase		Polymyxa	AMENDA reliability ++	6329035	242
+3.4.24.3		microbial collagenase		Porifera	AMENDA reliability ++	10425590	243
+3.4.24.3		microbial collagenase		Porifera	FRENDA	124336	244
+3.4.24.3		microbial collagenase		Porphyromonas gingivalis	AMENDA reliability +	8250226	245
+3.4.24.3		microbial collagenase		Porphyromonas gingivalis	AMENDA reliability ++	2562264; 1966677	246
+3.4.24.3		microbial collagenase		Porphyromonas gingivalis	Bacteroides gingivalis	1312517	247
+3.4.24.3		microbial collagenase		Porphyromonas gingivalis W83	AMENDA reliability +	9038323	248
+3.4.24.3		microbial collagenase		Prevotella intermedia	AMENDA reliability ++	2562264	249
+3.4.24.3		microbial collagenase		Prevotella melaninogenica		13705066	250
+3.4.24.3		microbial collagenase		Pseudoalteromonas mariniglutinosa		0	251
+3.4.24.3		microbial collagenase		Pseudomonas	AMENDA reliability ++	21860332	252
+3.4.24.3		microbial collagenase		Pseudomonas aeruginosa		0; 4348965	253
+3.4.24.3		microbial collagenase		Pseudomonas aeruginosa	AMENDA reliability +	28166091	254
+3.4.24.3		microbial collagenase		Pseudomonas aeruginosa	AMENDA reliability ++	169202; 21860332	255
+3.4.24.3		microbial collagenase		Pseudomonas aeruginosa	FRENDA	29485268; 22214451	256
+3.4.24.3		microbial collagenase		Pterygia	AMENDA reliability ++	6283234	257
+3.4.24.3		microbial collagenase		quail	AMENDA reliability +	9671281; 9671282	258
+3.4.24.3		microbial collagenase		Rattus	AMENDA reliability +	22770555; 1448828; 7831705; 8091453; 9731619; 10625734; 15087712; 17346685; 29386206; 28474628; 6885907; 2133806; 7740582; 7849368; 8160804; 8214165; 8969799; 9622595; 12212154; 12881607; 16395282; 17218400; 19499884; 19710545; 20080148; 20476585; 21721041; 25543848; 26387045; 26498936; 29499303; 25131077; 11428165; 1417889; 9040695; 17266965; 25879165; 945152; 3968183; 10410467; 21306771; 24941993; 25147331; 25931468; 7933992; 11891230; 8144618; 10363252; 20488031; 1336302; 4203599; 23768818; 9109878	259
+3.4.24.3		microbial collagenase		Rattus	AMENDA reliability ++	1648730; 6190922; 1312412; 1708647; 6248261; 6287320; 7370216; 2156574; 2553700; 2858220; 6181164; 6260217; 6297850; 26055808; 193569; 2542743; 2994518; 3035467; 6290002; 6298256; 1310410; 176163; 221908; 6254577; 1325154; 18407417; 1324862; 2830001; 6157326; 8253805; 175053; 23775724; 6246885; 16671457	260
+3.4.24.3		microbial collagenase		Rattus	AMENDA reliability ++	6282126; 23357948; 223158; 1182587; 2160142; 6329035; 167916; 10406016; 184702; 1980558; 6252371; 10425590; 21846994; 6254591; 6263099; 199265; 199901; 1337476; 1851178; 39609; 182274; 6320746; 7915609; 4353200; 6317390; 7859945; 3010771; 6313063	261
+3.4.24.3		microbial collagenase		Rattus	AMENDA reliability +++	8247322; 28098745	262
+3.4.24.3		microbial collagenase		Rattus	AMENDA reliability ++++	180847; 9258514	263
+3.4.24.3		microbial collagenase		Rattus	FRENDA	8027086; 21863269; 9224638; 15757635; 19945332; 23828426; 26011565; 26717112; 17225860; 6776472; 7346223; 265954; 1281605; 1603033; 2037618; 2677627; 2721823; 3208719; 3285135; 3378683; 3839068; 6156797; 6685057; 7054066; 8185628; 8933461; 12468045; 15459476; 15744245; 17121715; 18157480; 18390171; 19041895; 19866678; 20818776; 23261767; 7727041; 8006040; 12555205; 9486138; 17156988; 21988112; 8292381; 6477596; 19388774; 28423680; 3338498; 6358223; 9072327; 401359; 444208; 488004; 1293960; 1510790; 1699117; 1962567; 3711680; 4004846; 7130174; 7153245; 7608132; 8432560; 8662884; 9378518; 10510272; 11800014; 12054485; 21725723; 18635848; 25783848; 7895687; 17726491; 14756560; 2462561	264
+3.4.24.3		microbial collagenase		Rattus norvegicus	AMENDA reliability +	23828426; 15459476	265
+3.4.24.3		microbial collagenase		Ricinus	AMENDA reliability ++	6274953	266
+3.4.24.3		microbial collagenase		Ricinus communis	AMENDA reliability ++	1323644; 6274953	267
+3.4.24.3		microbial collagenase		Riftia pachyptila	FRENDA	8757292	268
+3.4.24.3		microbial collagenase		Rodentia	FRENDA	9731619; 10625734; 15757635; 12468045; 19041895; 21721041; 23261767; 9040695; 21725724; 23023153	269
+3.4.24.3		microbial collagenase		Saccharomyces cerevisiae	AMENDA reliability ++	6329265	270
+3.4.24.3		microbial collagenase		Saccharomyces cerevisiae	FRENDA	7945458; 10785384	271
+3.4.24.3		microbial collagenase		Saimiriine gammaherpesvirus 2	AMENDA reliability ++	1658384	272
+3.4.24.3		microbial collagenase		salmon	FRENDA	1281605; 945152	273
+3.4.24.3		microbial collagenase		Salmonella enterica	FRENDA	22214451	274
+3.4.24.3		microbial collagenase		Schistosoma mansoni	AMENDA reliability ++	6190922	275
+3.4.24.3		microbial collagenase		Scleroderma	FRENDA	9204059	276
+3.4.24.3		microbial collagenase		Sepia	FRENDA	12397379	277
+3.4.24.3		microbial collagenase		Sepia officinalis	FRENDA	12397379	278
+3.4.24.3		microbial collagenase		Serratia marcescens	AMENDA reliability +	28166091	279
+3.4.24.3		microbial collagenase		shrimp	AMENDA reliability +	12869537	280
+3.4.24.3		microbial collagenase		snake	FRENDA	1336630; 1519250; 28474628; 9241780	281
+3.4.24.3		microbial collagenase		Spondias purpurea	AMENDA reliability ++	233322	282
+3.4.24.3		microbial collagenase		Staphylococcus aureus	AMENDA reliability ++	6095892	283
+3.4.24.3		microbial collagenase		Staphylococcus aureus V8	AMENDA reliability ++	6331392	284
+3.4.24.3		microbial collagenase		Strawberry green petal phytoplasma	FRENDA	7182108	285
+3.4.24.3		microbial collagenase		Streptococcus mutans	AMENDA reliability ++	6248261	286
+3.4.24.3		microbial collagenase		Streptococcus mutans	FRENDA	25130877; 18523385	287
+3.4.24.3		microbial collagenase		Streptococcus pneumoniae	FRENDA	22214451	288
+3.4.24.3		microbial collagenase		Streptomyces	AMENDA reliability ++	2822678	289
+3.4.24.3		microbial collagenase		Streptomyces	AMENDA reliability ++	6766924	290
+3.4.24.3		microbial collagenase		Streptomyces	FRENDA	6824735; 16816338; 6501414	291
+3.4.24.3		microbial collagenase		Streptomyces parvulus subsp. citrinus	AMENDA reliability +	21869859	292
+3.4.24.3		microbial collagenase		Streptomyces sp.		3023269; 2822678	293
+3.4.24.3		microbial collagenase		Streptomyces spp.	FRENDA	22214451	294
+3.4.24.3		microbial collagenase		Strongyloides ratti	AMENDA reliability ++	6313800	295
+3.4.24.3		microbial collagenase		Suidae	AMENDA reliability +	27195301	296
+3.4.24.3		microbial collagenase		Suidae	AMENDA reliability ++	4375690	297
+3.4.24.3		microbial collagenase		Suidae	FRENDA	3565908; 9546109; 21725723	298
+3.4.24.3		microbial collagenase		Sus scrofa	AMENDA reliability +	20362860; 8982476; 9546109; 20554623; 8329452; 9135163; 9241583; 2430929; 9918675; 100155713	299
+3.4.24.3		microbial collagenase		Sus scrofa	AMENDA reliability ++	2560868; 6254577	300
+3.4.24.3		microbial collagenase		Sus scrofa	AMENDA reliability ++	1323644; 6092769; 1980558; 3035467; 74261; 21860332	301
+3.4.24.3		microbial collagenase		Sus scrofa	FRENDA	1854714; 3396304; 3409662; 3565908; 6309911; 25864740; 26405097; 27195301; 401359; 23352993	302
+3.4.24.3		microbial collagenase		Taenia solium	FRENDA	7240181	303
+3.4.24.3		microbial collagenase		Theobroma cacao	AMENDA reliability ++	1966677	304
+3.4.24.3		microbial collagenase		Theobroma cacao	FRENDA	20650510	305
+3.4.24.3		microbial collagenase		Thrombus	FRENDA	391267	306
+3.4.24.3		microbial collagenase		Trachea	AMENDA reliability ++	11913772	307
+3.4.24.3		microbial collagenase		Trachea	FRENDA	1400327; 2684928; 2196181; 2079701	308
+3.4.24.3		microbial collagenase		Triticum aestivum	AMENDA reliability +	100155713	309
+3.4.24.3		microbial collagenase		Triticum aestivum	AMENDA reliability ++	6286232	310
+3.4.24.3		microbial collagenase		Triticum aestivum	FRENDA	6156797; 3542919; 134868; 626742	311
+3.4.24.3		microbial collagenase		Trypanosoma	FRENDA	9224638	312
+3.4.24.3		microbial collagenase		Trypanosoma cruzi	FRENDA	9224638	313
+3.4.24.3		microbial collagenase		Ursidae	AMENDA reliability ++	178375	314
+3.4.24.3		microbial collagenase		Veretillum	FRENDA	1730224	315
+3.4.24.3		microbial collagenase		vertebrata	FRENDA	9512889; 10792969; 22584606; 11020282	316
+3.4.24.3		microbial collagenase		Vibrio	AMENDA reliability +	100297786	317
+3.4.24.3		microbial collagenase		Vibrio	AMENDA reliability ++	210785	318
+3.4.24.3		microbial collagenase		Vibrio	FRENDA	22214451; 1480012	319
+3.4.24.3		microbial collagenase		Vibrio alginolyticus		6310026	320
+3.4.24.3		microbial collagenase		Vibrio alginolyticus	AMENDA reliability +	24698215	321
+3.4.24.3		microbial collagenase		Vibrio alginolyticus	chemovar iophagus, two forms: A1 and A2 without difference in substrate specificity	0	322
+3.4.24.3		microbial collagenase		Vibrio alginolyticus	FRENDA	1480012; 8282691; 21515782	323
+3.4.24.3		microbial collagenase		Vibrio alginolyticus chemovar iophagus	AMENDA reliability +	1480012	324
+3.4.24.3		microbial collagenase		Vibrio alginolyticus chemovar iophagus	AMENDA reliability ++	6266487	325
+3.4.24.3		microbial collagenase		Vibrio alginolyticus chemovar iophagus	AMENDA reliability ++	6309474; 1963217; 1651124; 2835204; 165833; 177067; 202322; 6251892; 219780	326
+3.4.24.3		microbial collagenase		Vibrio alginolyticus chemovar iophagus	AMENDA reliability ++++	3021459	327
+3.4.24.3		microbial collagenase		Vibrio parahaemolyticus		10206692	328
+3.4.24.3		microbial collagenase		Vibrio parahaemolyticus	FRENDA	21515782	329
+3.4.24.3		microbial collagenase		Vibrio sp.	B-30	0; 210785	330
+3.4.24.3		microbial collagenase		Vibrio sp. B-30	B-30	0; 210785	331
+3.4.24.3		microbial collagenase		Vibrio sp. B-30	B-30	0; 210785	332
+3.4.24.3		microbial collagenase		Vibrio vulnificus	CYK279H	0	333
+3.4.24.3		microbial collagenase		Vibrio vulnificus CYK279H	CYK279H	0	334
+3.4.24.3		microbial collagenase		Viola philippica	AMENDA reliability +	22529049	335
+3.4.24.3		microbial collagenase		Viperinae	FRENDA	9241780	336
+3.4.24.3		microbial collagenase		Viruses	FRENDA	16510565	337
+3.4.24.3		microbial collagenase		Vitis vinifera	AMENDA reliability +	16395192	338
+3.4.24.3		microbial collagenase		Vitis vinifera	AMENDA reliability ++	24935065	339
+3.4.24.3		microbial collagenase		Vitis vinifera	FRENDA	12011738; 12635161	340
+3.4.24.3		microbial collagenase		Withania somnifera	AMENDA reliability ++	21789568	341
+3.4.24.3		microbial collagenase	Q0KK26	Geobacillus sp.		16952949	342
+3.4.24.3		microbial collagenase	Q0KK26	Geobacillus sp. MO-1		16952949	343
+3.4.24.3		microbial collagenase	Q46085	Hathewaya histolytica		22685155; 25783848	344
+3.4.24.3		microbial collagenase	Q46085	Hathewaya histolytica	isoform ColH	25760606; 23144249; 23703618	345
+3.4.24.3		microbial collagenase	Q899Y1	Clostridium tetani	isoform ColT	23703618	346
+3.4.24.3		microbial collagenase	Q899Y1	Clostridium tetani E88	isoform ColT	23703618	347
+3.4.24.3		microbial collagenase	Q9X721	Hathewaya histolytica		21947205	348
+3.4.24.3		microbial collagenase	Q9X721	Hathewaya histolytica	gene colG	18453715	349
+3.4.24.3		microbial collagenase	Q9X721	Hathewaya histolytica	isoform ColG	25760606; 23144249; 23703618	350

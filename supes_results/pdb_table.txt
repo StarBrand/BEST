@@ -1,1 +1,150 @@
 EC_Number	Organism	PDB	link
+1.11.1.21	Burkholderia	5kq0	https://www.rcsb.org/structure/5kq0
+1.11.1.21	Burkholderia	5kq2	https://www.rcsb.org/structure/5kq2
+1.11.1.21	Burkholderia	5kq3	https://www.rcsb.org/structure/5kq3
+1.11.1.21	Burkholderia	5kq6	https://www.rcsb.org/structure/5kq6
+1.11.1.21	Burkholderia	5kqh	https://www.rcsb.org/structure/5kqh
+1.11.1.21	Burkholderia	5kqi	https://www.rcsb.org/structure/5kqi
+1.11.1.21	Burkholderia	5kqk	https://www.rcsb.org/structure/5kqk
+1.11.1.21	Burkholderia	5kqn	https://www.rcsb.org/structure/5kqn
+1.11.1.21	Burkholderia	5kqq	https://www.rcsb.org/structure/5kqq
+1.11.1.21	Burkholderia	5ksf	https://www.rcsb.org/structure/5ksf
+1.11.1.21	Burkholderia	5ksg	https://www.rcsb.org/structure/5ksg
+1.11.1.21	Burkholderia	5ksk	https://www.rcsb.org/structure/5ksk
+1.11.1.21	Burkholderia	5ksn	https://www.rcsb.org/structure/5ksn
+1.11.1.21	Burkholderia	5kt8	https://www.rcsb.org/structure/5kt8
+1.11.1.21	Burkholderia	5kt9	https://www.rcsb.org/structure/5kt9
+1.11.1.21	Burkholderia	5l02	https://www.rcsb.org/structure/5l02
+1.11.1.21	Burkholderia	5l05	https://www.rcsb.org/structure/5l05
+1.11.1.21	Burkholderia	5sw4	https://www.rcsb.org/structure/5sw4
+1.11.1.21	Burkholderia	5sw5	https://www.rcsb.org/structure/5sw5
+1.11.1.21	Burkholderia	5sw6	https://www.rcsb.org/structure/5sw6
+1.11.1.21	Burkholderia	5sx0	https://www.rcsb.org/structure/5sx0
+1.11.1.21	Burkholderia	5sx1	https://www.rcsb.org/structure/5sx1
+1.11.1.21	Burkholderia	5sx2	https://www.rcsb.org/structure/5sx2
+1.11.1.21	Burkholderia	5sx3	https://www.rcsb.org/structure/5sx3
+1.11.1.21	Burkholderia	5sx6	https://www.rcsb.org/structure/5sx6
+1.11.1.21	Burkholderia	5sx7	https://www.rcsb.org/structure/5sx7
+1.11.1.21	Burkholderia	5sxq	https://www.rcsb.org/structure/5sxq
+1.11.1.21	Burkholderia	5sxr	https://www.rcsb.org/structure/5sxr
+1.11.1.21	Burkholderia	5sxs	https://www.rcsb.org/structure/5sxs
+1.11.1.21	Burkholderia	5sxt	https://www.rcsb.org/structure/5sxt
+1.11.1.21	Burkholderia	5sxw	https://www.rcsb.org/structure/5sxw
+1.11.1.21	Burkholderia	5sxx	https://www.rcsb.org/structure/5sxx
+1.11.1.21	Burkholderia	5syh	https://www.rcsb.org/structure/5syh
+1.11.1.21	Burkholderia	5syi	https://www.rcsb.org/structure/5syi
+1.11.1.21	Burkholderia	5syj	https://www.rcsb.org/structure/5syj
+1.11.1.21	Burkholderia	5syk	https://www.rcsb.org/structure/5syk
+1.11.1.21	Burkholderia	5syl	https://www.rcsb.org/structure/5syl
+1.11.1.21	Burkholderia	5syu	https://www.rcsb.org/structure/5syu
+1.11.1.21	Burkholderia	5syv	https://www.rcsb.org/structure/5syv
+1.11.1.21	Burkholderia	5syw	https://www.rcsb.org/structure/5syw
+1.11.1.21	Burkholderia	5syx	https://www.rcsb.org/structure/5syx
+1.11.1.21	Burkholderia	5syy	https://www.rcsb.org/structure/5syy
+1.11.1.21	Burkholderia	5txq	https://www.rcsb.org/structure/5txq
+1.11.1.21	Burkholderia	5v4o	https://www.rcsb.org/structure/5v4o
+1.11.1.21	Burkholderia	5v53	https://www.rcsb.org/structure/5v53
+1.11.1.21	Burkholderia	6b9b	https://www.rcsb.org/structure/6b9b
+1.11.1.21	Burkholderia	6caw	https://www.rcsb.org/structure/6caw
+1.11.1.21	Burkholderia	6cc6	https://www.rcsb.org/structure/6cc6
+1.11.1.21	Burkholderia	6cdq	https://www.rcsb.org/structure/6cdq
+1.11.1.21	Burkholderia	6cek	https://www.rcsb.org/structure/6cek
+1.11.1.21	Burkholderia	6cfq	https://www.rcsb.org/structure/6cfq
+1.11.1.21	Burkholderia	6mpy	https://www.rcsb.org/structure/6mpy
+1.11.1.21	Burkholderia	6mq0	https://www.rcsb.org/structure/6mq0
+1.11.1.21	Burkholderia	6mq1	https://www.rcsb.org/structure/6mq1
+1.11.1.21	Burkholderia pseudomallei	5kq0	https://www.rcsb.org/structure/5kq0
+1.11.1.21	Burkholderia pseudomallei	5kq2	https://www.rcsb.org/structure/5kq2
+1.11.1.21	Burkholderia pseudomallei	5kq3	https://www.rcsb.org/structure/5kq3
+1.11.1.21	Burkholderia pseudomallei	5kq6	https://www.rcsb.org/structure/5kq6
+1.11.1.21	Burkholderia pseudomallei	5kqh	https://www.rcsb.org/structure/5kqh
+1.11.1.21	Burkholderia pseudomallei	5kqi	https://www.rcsb.org/structure/5kqi
+1.11.1.21	Burkholderia pseudomallei	5kqk	https://www.rcsb.org/structure/5kqk
+1.11.1.21	Burkholderia pseudomallei	5kqn	https://www.rcsb.org/structure/5kqn
+1.11.1.21	Burkholderia pseudomallei	5kqq	https://www.rcsb.org/structure/5kqq
+1.11.1.21	Burkholderia pseudomallei	5ksf	https://www.rcsb.org/structure/5ksf
+1.11.1.21	Burkholderia pseudomallei	5ksg	https://www.rcsb.org/structure/5ksg
+1.11.1.21	Burkholderia pseudomallei	5ksk	https://www.rcsb.org/structure/5ksk
+1.11.1.21	Burkholderia pseudomallei	5ksn	https://www.rcsb.org/structure/5ksn
+1.11.1.21	Burkholderia pseudomallei	5kt8	https://www.rcsb.org/structure/5kt8
+1.11.1.21	Burkholderia pseudomallei	5kt9	https://www.rcsb.org/structure/5kt9
+1.11.1.21	Burkholderia pseudomallei	5l02	https://www.rcsb.org/structure/5l02
+1.11.1.21	Burkholderia pseudomallei	5l05	https://www.rcsb.org/structure/5l05
+1.11.1.21	Burkholderia pseudomallei	5sw4	https://www.rcsb.org/structure/5sw4
+1.11.1.21	Burkholderia pseudomallei	5sw5	https://www.rcsb.org/structure/5sw5
+1.11.1.21	Burkholderia pseudomallei	5sw6	https://www.rcsb.org/structure/5sw6
+1.11.1.21	Burkholderia pseudomallei	5sx0	https://www.rcsb.org/structure/5sx0
+1.11.1.21	Burkholderia pseudomallei	5sx1	https://www.rcsb.org/structure/5sx1
+1.11.1.21	Burkholderia pseudomallei	5sx2	https://www.rcsb.org/structure/5sx2
+1.11.1.21	Burkholderia pseudomallei	5sx3	https://www.rcsb.org/structure/5sx3
+1.11.1.21	Burkholderia pseudomallei	5sx6	https://www.rcsb.org/structure/5sx6
+1.11.1.21	Burkholderia pseudomallei	5sx7	https://www.rcsb.org/structure/5sx7
+1.11.1.21	Burkholderia pseudomallei	5sxq	https://www.rcsb.org/structure/5sxq
+1.11.1.21	Burkholderia pseudomallei	5sxr	https://www.rcsb.org/structure/5sxr
+1.11.1.21	Burkholderia pseudomallei	5sxs	https://www.rcsb.org/structure/5sxs
+1.11.1.21	Burkholderia pseudomallei	5sxt	https://www.rcsb.org/structure/5sxt
+1.11.1.21	Burkholderia pseudomallei	5sxw	https://www.rcsb.org/structure/5sxw
+1.11.1.21	Burkholderia pseudomallei	5sxx	https://www.rcsb.org/structure/5sxx
+1.11.1.21	Burkholderia pseudomallei	5syh	https://www.rcsb.org/structure/5syh
+1.11.1.21	Burkholderia pseudomallei	5syi	https://www.rcsb.org/structure/5syi
+1.11.1.21	Burkholderia pseudomallei	5syj	https://www.rcsb.org/structure/5syj
+1.11.1.21	Burkholderia pseudomallei	5syk	https://www.rcsb.org/structure/5syk
+1.11.1.21	Burkholderia pseudomallei	5syl	https://www.rcsb.org/structure/5syl
+1.11.1.21	Burkholderia pseudomallei	5syu	https://www.rcsb.org/structure/5syu
+1.11.1.21	Burkholderia pseudomallei	5syv	https://www.rcsb.org/structure/5syv
+1.11.1.21	Burkholderia pseudomallei	5syw	https://www.rcsb.org/structure/5syw
+1.11.1.21	Burkholderia pseudomallei	5syx	https://www.rcsb.org/structure/5syx
+1.11.1.21	Burkholderia pseudomallei	5syy	https://www.rcsb.org/structure/5syy
+1.11.1.21	Burkholderia pseudomallei	5txq	https://www.rcsb.org/structure/5txq
+1.11.1.21	Burkholderia pseudomallei	5v4o	https://www.rcsb.org/structure/5v4o
+1.11.1.21	Burkholderia pseudomallei	5v53	https://www.rcsb.org/structure/5v53
+1.11.1.21	Burkholderia pseudomallei	6b9b	https://www.rcsb.org/structure/6b9b
+1.11.1.21	Burkholderia pseudomallei	6caw	https://www.rcsb.org/structure/6caw
+1.11.1.21	Burkholderia pseudomallei	6cc6	https://www.rcsb.org/structure/6cc6
+1.11.1.21	Burkholderia pseudomallei	6cdq	https://www.rcsb.org/structure/6cdq
+1.11.1.21	Burkholderia pseudomallei	6cek	https://www.rcsb.org/structure/6cek
+1.11.1.21	Burkholderia pseudomallei	6cfq	https://www.rcsb.org/structure/6cfq
+1.11.1.21	Burkholderia pseudomallei	6mpy	https://www.rcsb.org/structure/6mpy
+1.11.1.21	Burkholderia pseudomallei	6mq0	https://www.rcsb.org/structure/6mq0
+1.11.1.21	Burkholderia pseudomallei	6mq1	https://www.rcsb.org/structure/6mq1
+1.11.1.21	Escherichia	1u2j	https://www.rcsb.org/structure/1u2j
+1.11.1.21	Escherichia	1u2k	https://www.rcsb.org/structure/1u2k
+1.11.1.21	Escherichia	1u2l	https://www.rcsb.org/structure/1u2l
+1.11.1.21	Escherichia coli	1u2j	https://www.rcsb.org/structure/1u2j
+1.11.1.21	Escherichia coli	1u2k	https://www.rcsb.org/structure/1u2k
+1.11.1.21	Escherichia coli	1u2l	https://www.rcsb.org/structure/1u2l
+1.11.1.21	Haloarcula marismortui	1itk	https://www.rcsb.org/structure/1itk
+1.11.1.21	Haloarcula marismortui	3uw8	https://www.rcsb.org/structure/3uw8
+1.11.1.21	Haloarcula marismortui	3vlh	https://www.rcsb.org/structure/3vlh
+1.11.1.21	Haloarcula marismortui	3vli	https://www.rcsb.org/structure/3vli
+1.11.1.21	Haloarcula marismortui	3vlj	https://www.rcsb.org/structure/3vlj
+1.11.1.21	Haloarcula marismortui	3vlk	https://www.rcsb.org/structure/3vlk
+1.11.1.21	Haloarcula marismortui	3vll	https://www.rcsb.org/structure/3vll
+1.11.1.21	Haloarcula marismortui	3vlm	https://www.rcsb.org/structure/3vlm
+1.11.1.21	Magnaporthe	3ut2	https://www.rcsb.org/structure/3ut2
+1.11.1.21	Magnaporthe	5cjh	https://www.rcsb.org/structure/5cjh
+1.11.1.21	Magnaporthe	5jhx	https://www.rcsb.org/structure/5jhx
+1.11.1.21	Magnaporthe	5jhy	https://www.rcsb.org/structure/5jhy
+1.11.1.21	Magnaporthe	5jhz	https://www.rcsb.org/structure/5jhz
+1.11.1.21	Magnaporthe oryzae	3ut2	https://www.rcsb.org/structure/3ut2
+1.11.1.21	Magnaporthe oryzae	5cjh	https://www.rcsb.org/structure/5cjh
+1.11.1.21	Magnaporthe oryzae	5jhx	https://www.rcsb.org/structure/5jhx
+1.11.1.21	Magnaporthe oryzae	5jhy	https://www.rcsb.org/structure/5jhy
+1.11.1.21	Magnaporthe oryzae	5jhz	https://www.rcsb.org/structure/5jhz
+1.11.1.21	Mycobacterium	1sj2	https://www.rcsb.org/structure/1sj2
+1.11.1.21	Mycobacterium	2cca	https://www.rcsb.org/structure/2cca
+1.11.1.21	Mycobacterium	2ccd	https://www.rcsb.org/structure/2ccd
+1.11.1.21	Mycobacterium	4c50	https://www.rcsb.org/structure/4c50
+1.11.1.21	Mycobacterium	4c51	https://www.rcsb.org/structure/4c51
+1.11.1.21	Mycobacterium tuberculosis	1sj2	https://www.rcsb.org/structure/1sj2
+1.11.1.21	Mycobacterium tuberculosis	2cca	https://www.rcsb.org/structure/2cca
+1.11.1.21	Mycobacterium tuberculosis	2ccd	https://www.rcsb.org/structure/2ccd
+1.11.1.21	Mycobacterium tuberculosis	4c50	https://www.rcsb.org/structure/4c50
+1.11.1.21	Mycobacterium tuberculosis	4c51	https://www.rcsb.org/structure/4c51
+1.11.1.21	Neurospora crassa	5whq	https://www.rcsb.org/structure/5whq
+1.11.1.21	Neurospora crassa	5whs	https://www.rcsb.org/structure/5whs
+1.11.1.21	Synechococcus elongatus	1ub2	https://www.rcsb.org/structure/1ub2
+1.11.1.21	Synechococcus elongatus	3wnu	https://www.rcsb.org/structure/3wnu
+1.11.1.21	Synechococcus elongatus	3wxo	https://www.rcsb.org/structure/3wxo
+1.11.1.21	Synechococcus elongatus	3x16	https://www.rcsb.org/structure/3x16
+1.11.1.21	Synechococcus elongatus	4pae	https://www.rcsb.org/structure/4pae

@@ -1,1 +1,38 @@
 UniProt	Enzyme	Organism	Source	Found_using_Brenda
+A0A143G976	catalase-peroxidase	Bacillus pumilus	TrEMBL	TRUE
+A0A143G976	catalase-peroxidase	Bacillus pumilus ML 413	TrEMBL	TRUE
+A4QUT2	catalase-peroxidase	Magnaporthe grisea	Swiss-Prot	TRUE
+A4QUT2	catalase-peroxidase	Magnaporthe grisea	Swiss-Prot	TRUE
+A4QUT2	catalase-peroxidase	Magnaporthe grisea 70-15	Swiss-Prot	TRUE
+A4QUT2	catalase-peroxidase	Magnaporthe grisea ATCC MYA-4617	Swiss-Prot	TRUE
+A4QUT2	catalase-peroxidase	Magnaporthe grisea ATCC MYA-4617	Swiss-Prot	TRUE
+A4QUT2	catalase-peroxidase	Magnaporthe grisea ATCC MYA-4617	Swiss-Prot	TRUE
+A4QUT2	catalase-peroxidase	Magnaporthe grisea ATCC MYA-4617	Swiss-Prot	TRUE
+A4R5S9	catalase-peroxidase	Magnaporthe grisea	Swiss-Prot	TRUE
+A4R5S9	catalase-peroxidase	Magnaporthe grisea ATCC MYA-4617	Swiss-Prot	TRUE
+B1IVD5	catalase-peroxidase	Escherichia coli	Swiss-Prot	TRUE
+B1IVD5	catalase-peroxidase	Escherichia coli DSM 1576	Swiss-Prot	TRUE
+O28050	catalase-peroxidase	Archaeoglobus fulgidus	Swiss-Prot	TRUE
+O31066	catalase-peroxidase	Caulobacter vibrioides	Swiss-Prot	TRUE
+O59651	catalase-peroxidase	Haloarcula marismortui	Swiss-Prot	TRUE
+O59651	catalase-peroxidase	Haloarcula marismortui DSM 3752	Swiss-Prot	TRUE
+O59651	catalase-peroxidase	Haloarcula marismortui DSM 3752	Swiss-Prot	TRUE
+O59651	catalase-peroxidase	Haloarcula marismortui DSM 3752	Swiss-Prot	TRUE
+P73911	catalase-peroxidase	Synechocystis sp.	Swiss-Prot	TRUE
+P9WIE5	catalase-peroxidase	Mycobacterium tuberculosis	Swiss-Prot	TRUE
+P9WIE5	catalase-peroxidase	Mycobacterium tuberculosis H37Rv	Swiss-Prot	TRUE
+P9WIE5	catalase-peroxidase	Mycobacterium tuberculosis H37Rv	Swiss-Prot	TRUE
+P9WIE5	catalase-peroxidase	Mycobacterium tuberculosis H37Rv	Swiss-Prot	TRUE
+P9WIE5	catalase-peroxidase	Mycobacterium tuberculosis H37Rv	Swiss-Prot	TRUE
+P9WIE5	catalase-peroxidase	Mycobacterium tuberculosis H37Rv	Swiss-Prot	TRUE
+P9WIE5	catalase-peroxidase	Mycobacterium tuberculosis H37Rv	Swiss-Prot	TRUE
+Q31MN3	catalase-peroxidase	Synechococcus elongatus	Swiss-Prot	TRUE
+Q31MN3	catalase-peroxidase	Synechococcus elongatus PCC7942	Swiss-Prot	TRUE
+Q31MN3	catalase-peroxidase	Synechococcus elongatus PCC7942	Swiss-Prot	TRUE
+Q31MN3	catalase-peroxidase	Synechococcus sp.	Swiss-Prot	TRUE
+Q31MN3	catalase-peroxidase	Synechococcus sp. PCC 7942	Swiss-Prot	TRUE
+Q3JNW6	catalase-peroxidase	Burkholderia pseudomallei	Swiss-Prot	TRUE
+Q3JNW6	catalase-peroxidase	Burkholderia pseudomallei 1710b	Swiss-Prot	TRUE
+Q939D2	catalase-peroxidase	Burkholderia pseudomallei	Swiss-Prot	TRUE
+Q939D2	catalase-peroxidase	Burkholderia pseudomallei	Swiss-Prot	TRUE
+W8QL66	catalase-peroxidase	Bacillus pumilus	TrEMBL	TRUE

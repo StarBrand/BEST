@@ -1,0 +1,197 @@
+Commentary	Substrate	Ref	Literature(PubmedID)	value
+wild-type ColT, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	84	18937627	0.97
+isoform ColT with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	84	18937627	1.24
+wild-type ColT, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	85	18937627	0.97
+isoform ColT with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	85	18937627	1.24
+wild-type ColT, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	86	18937627	0.97
+isoform ColT with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	86	18937627	1.24
+	more	145	6087888	-999.0
+	more	145	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	145	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	145	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	145	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	145	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	145	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	145	18937627	1.26
+	more	146	6087888	-999.0
+	more	146	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	146	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	146	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	146	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	146	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	146	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	146	18937627	1.26
+	more	147	6087888	-999.0
+	more	147	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	147	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	147	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	147	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	147	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	147	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	147	18937627	1.26
+	more	148	6087888	-999.0
+	more	148	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	148	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	148	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	148	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	148	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	148	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	148	18937627	1.26
+	more	149	6087888	-999.0
+	more	149	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	149	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	149	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	149	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	149	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	149	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	149	18937627	1.26
+	more	150	6087888	-999.0
+	more	150	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	150	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	150	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	150	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	150	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	150	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	150	18937627	1.26
+	more	151	6087888	-999.0
+	more	151	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	151	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	151	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	151	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	151	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	151	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	151	18937627	1.26
+	more	152	6087888	-999.0
+	more	152	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	152	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	152	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	152	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	152	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	152	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	152	18937627	1.26
+	more	153	6087888	-999.0
+	more	153	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	153	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	153	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	153	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	153	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	153	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	153	18937627	1.26
+	more	154	6087888	-999.0
+	more	154	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	154	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	154	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	154	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	154	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	154	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	154	18937627	1.26
+	more	155	6087888	-999.0
+	more	155	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	155	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	155	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	155	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	155	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	155	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	155	18937627	1.26
+	more	156	6087888	-999.0
+	more	156	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	156	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	156	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	156	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	156	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	156	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	156	18937627	1.26
+	more	157	6087888	-999.0
+	more	157	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	157	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	157	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	157	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	157	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	157	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	157	18937627	1.26
+	more	158	6087888	-999.0
+	more	158	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	158	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	158	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	158	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	158	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	158	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	158	18937627	1.26
+	more	159	6087888	-999.0
+	more	159	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	159	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	159	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	159	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	159	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	159	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	159	18937627	1.26
+	more	160	6087888	-999.0
+	more	160	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	160	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	160	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	160	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	160	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	160	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	160	18937627	1.26
+	more	161	6087888	-999.0
+	more	161	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	161	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	161	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	161	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	161	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	161	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	161	18937627	1.26
+	more	162	6087888	-999.0
+	more	162	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	162	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	162	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	162	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	162	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	162	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	162	18937627	1.26
+	more	328	10206692	-999.0
+	2-furanacryloyl-Leu-Gly-Pro-Ala	328	10206692	1.06
+	more	329	10206692	-999.0
+	2-furanacryloyl-Leu-Gly-Pro-Ala	329	10206692	1.06
+	more	344	6087888	-999.0
+	more	344	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	344	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	344	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	344	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	344	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	344	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	344	18937627	1.26
+	more	345	6087888	-999.0
+	more	345	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	345	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	345	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	345	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	345	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	345	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	345	18937627	1.26
+wild-type ColT, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	346	18937627	0.97
+isoform ColT with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	346	18937627	1.24
+	more	348	6087888	-999.0
+	more	348	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	348	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	348	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	348	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	348	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	348	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	348	18937627	1.26
+	more	349	6087888	-999.0
+	more	349	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	349	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	349	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	349	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	349	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	349	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	349	18937627	1.26
+	more	350	6087888	-999.0
+	more	350	3002445	-999.0
+wild-type ColH, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	350	18937627	0.269
+isoform ColH with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	350	18937627	0.425
+pH 7.5, 25°C	N-[3-(2-furyl) acryloyl]-L-Leu-Gly-L-Pro-L-Ala	350	21823836	0.555
+	Carbobenzoxy-Gly-Pro-Gly-Gly-Pro-Ala	350	4340512	0.71
+wild-type ColG, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	350	18937627	0.84
+isoform ColG with N-terminal His6-tag, pH 7.5, 25°C	furylacryloyl-Leu-Gly-Pro-Ala	350	18937627	1.26

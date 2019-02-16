@@ -1,5 +1,8 @@
 UniProt	Enzyme	Organism	Source	Found_using_Brenda
-P29933	cobaltochelatase	Pseudomonas denitrificans (nomen rejiciendum)	Swiss-Prot	TRUE
-P29934	cobaltochelatase	Pseudomonas denitrificans (nomen rejiciendum)	Swiss-Prot	TRUE
-Q9HZQ3	cobaltochelatase	Pseudomonas denitrificans (nomen rejiciendum)	Swiss-Prot	TRUE
-P29929	cobaltochelatase	Pseudomonas denitrificans (nomen rejiciendum)	Swiss-Prot	TRUE
+P42404	6-phospho-3-hexuloisomerase	Bacillus subtilis	Swiss-Prot	TRUE
+Q58644	6-phospho-3-hexuloisomerase	Methanocaldococcus jannaschii	Swiss-Prot	TRUE
+Q9S0X3	6-phospho-3-hexuloisomerase	Methylomonas aminofaciens	Swiss-Prot	TRUE
+Q9S0X3	6-phospho-3-hexuloisomerase	Methylomonas aminofaciens 77a	Swiss-Prot	TRUE
+Q9LBW5	6-phospho-3-hexuloisomerase	Mycobacterium gastri	Swiss-Prot	TRUE
+Q9LBW5	6-phospho-3-hexuloisomerase	Mycobacterium gastri MB19	Swiss-Prot	TRUE
+O59601	6-phospho-3-hexuloisomerase	Pyrococcus horikoshii	TrEMBL	TRUE

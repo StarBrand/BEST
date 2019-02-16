@@ -1,42 +1,114 @@
 UniProt	Enzyme	Organism	Source	Found_using_Brenda
-A0A125SUY5	alcohol dehydrogenase (NADP+)	Mycobacterium sp.	TrEMBL	TRUE
-A0A125SUY5	alcohol dehydrogenase (NADP+)	Mycobacterium sp. B-009	TrEMBL	TRUE
-A1R6C3	alcohol dehydrogenase (NADP+)	Paenarthrobacter aurescens	TrEMBL	TRUE
-A1R6C3	alcohol dehydrogenase (NADP+)	Paenarthrobacter aurescens TC1	TrEMBL	TRUE
-A3GHL4	alcohol dehydrogenase (NADP+)	Scheffersomyces stipitis	TrEMBL	TRUE
-A3GHL4	alcohol dehydrogenase (NADP+)	Scheffersomyces stipitis ATCC 58785	TrEMBL	TRUE
-A3GHR6	alcohol dehydrogenase (NADP+)	Scheffersomyces stipitis	TrEMBL	TRUE
-A3GHR6	alcohol dehydrogenase (NADP+)	Scheffersomyces stipitis ATCC 58785	TrEMBL	TRUE
-B0K3U7	alcohol dehydrogenase (NADP+)	Thermoanaerobacter sp.	TrEMBL	TRUE
-B0KB53	alcohol dehydrogenase (NADP+)	Thermoanaerobacter pseudethanolicus	TrEMBL	TRUE
-B0KB53	alcohol dehydrogenase (NADP+)	Thermoanaerobacter pseudethanolicus ATCC 33223	TrEMBL	TRUE
-C1IWT4	alcohol dehydrogenase (NADP+)	Thermococcus sp.	TrEMBL	TRUE
-C1IWT4	alcohol dehydrogenase (NADP+)	Thermococcus sp. ES1	TrEMBL	TRUE
-C6A190	alcohol dehydrogenase (NADP+)	Thermococcus sibiricus	TrEMBL	TRUE
-C6A190	alcohol dehydrogenase (NADP+)	Thermococcus sibiricus DSM 12597	TrEMBL	TRUE
-C6A190	alcohol dehydrogenase (NADP+)	Thermococcus sibiricus DSM 12597	TrEMBL	TRUE
-C6A190	alcohol dehydrogenase (NADP+)	Thermococcus sibiricus DSM 12597	TrEMBL	TRUE
-C6A190	alcohol dehydrogenase (NADP+)	Thermococcus sibiricus MM 739	TrEMBL	TRUE
-F8S123	alcohol dehydrogenase (NADP+)	Thermococcus guaymasensis	TrEMBL	TRUE
-O73949	alcohol dehydrogenase (NADP+)	Pyrococcus furiosus	TrEMBL	TRUE
-P07943	alcohol dehydrogenase (NADP+)	Rattus norvegicus	Swiss-Prot	TRUE
-P07943	alcohol dehydrogenase (NADP+)	Rattus norvegicus Wistar	Swiss-Prot	TRUE
-P07943	alcohol dehydrogenase (NADP+)	Rattus norvegicus Wistar	Swiss-Prot	TRUE
-P07943	alcohol dehydrogenase (NADP+)	Rattus norvegicus Wistar	Swiss-Prot	TRUE
-P14550	alcohol dehydrogenase (NADP+)	Homo sapiens	Swiss-Prot	TRUE
-P14941	alcohol dehydrogenase (NADP+)	Thermoanaerobacter brockii	Swiss-Prot	TRUE
-P35630	alcohol dehydrogenase (NADP+)	Entamoeba histolytica	Swiss-Prot	TRUE
-P49384	alcohol dehydrogenase (NADP+)	Kluyveromyces lactis	Swiss-Prot	TRUE
-P50578	alcohol dehydrogenase (NADP+)	Sus scrofa	Swiss-Prot	TRUE
-P51635	alcohol dehydrogenase (NADP+)	Rattus norvegicus	Swiss-Prot	TRUE
-P51635	alcohol dehydrogenase (NADP+)	Rattus norvegicus Wistar	Swiss-Prot	TRUE
-P51635	alcohol dehydrogenase (NADP+)	Rattus norvegicus Wistar	Swiss-Prot	TRUE
-Q46856	alcohol dehydrogenase (NADP+)	Escherichia coli	Swiss-Prot	TRUE
-Q8ZUP0	alcohol dehydrogenase (NADP+)	Pyrobaculum aerophilum	TrEMBL	TRUE
-Q8ZUP0	alcohol dehydrogenase (NADP+)	Pyrobaculum aerophilum DSM 7523	TrEMBL	TRUE
-Q8ZUP0	alcohol dehydrogenase (NADP+)	Pyrobaculum aerophilum DSM 7523	TrEMBL	TRUE
-Q8ZUP0	alcohol dehydrogenase (NADP+)	Pyrobaculum aerophilum DSM 7523	TrEMBL	TRUE
-Q9JII6	alcohol dehydrogenase (NADP+)	Mus musculus	Swiss-Prot	TRUE
-Q9JII6	alcohol dehydrogenase (NADP+)	Mus musculus C57BL/6	Swiss-Prot	TRUE
-U6CL97	alcohol dehydrogenase (NADP+)	Pectobacterium atrosepticum	TrEMBL	TRUE
-U6CL97	alcohol dehydrogenase (NADP+)	Pectobacterium atrosepticum DSM 18077	TrEMBL	TRUE
+A0A060TBM3	alcohol dehydrogenase	Blastobotrys adeninivorans	TrEMBL	TRUE
+A0A075B5H4	alcohol dehydrogenase	Sphingomonas sp. A1	TrEMBL	TRUE
+A0A0J9X1L6	alcohol dehydrogenase	Parageobacillus thermoglucosidasius		FALSE
+A0A0J9X1L6	alcohol dehydrogenase	Parageobacillus thermoglucosidasius C56-YS93		FALSE
+A0A1D8PP43	alcohol dehydrogenase	Candida albicans	TrEMBL	TRUE
+A1IIA3	alcohol dehydrogenase	Kluyveromyces marxianus	TrEMBL	TRUE
+A1IIA3	alcohol dehydrogenase	Kluyveromyces marxianus DMKU 3-1042	TrEMBL	TRUE
+A1IIA4	alcohol dehydrogenase	Kluyveromyces marxianus	TrEMBL	TRUE
+A1IIA4	alcohol dehydrogenase	Kluyveromyces marxianus DMKU 3-1042	TrEMBL	TRUE
+A3DCI2	alcohol dehydrogenase	Ruminiclostridium thermocellum	TrEMBL	TRUE
+A3DCI2	alcohol dehydrogenase	Ruminiclostridium thermocellum DSM 1237	TrEMBL	TRUE
+A3DCI2	alcohol dehydrogenase	Ruminiclostridium thermocellum DSM 1237	TrEMBL	TRUE
+A3DCI2	alcohol dehydrogenase	Ruminiclostridium thermocellum DSM 1237	TrEMBL	TRUE
+A3DCI2	alcohol dehydrogenase	Ruminiclostridium thermocellum DSM 1237	TrEMBL	TRUE
+A3MVR8	alcohol dehydrogenase	Pyrobaculum calidifontis	TrEMBL	TRUE
+A3MVR8	alcohol dehydrogenase	Pyrobaculum calidifontis JCM 11548	TrEMBL	TRUE
+A4IP64	alcohol dehydrogenase	Geobacillus thermodenitrificans	Swiss-Prot	TRUE
+A4IP64	alcohol dehydrogenase	Geobacillus thermodenitrificans NG80-2	Swiss-Prot	TRUE
+A4ISB9	alcohol dehydrogenase	Geobacillus thermodenitrificans	Swiss-Prot	TRUE
+A4ISB9	alcohol dehydrogenase	Geobacillus thermodenitrificans NG80-2	Swiss-Prot	TRUE
+AE010289.1	alcohol dehydrogenase	Pyrococcus furiosus		FALSE
+B0K3U7	alcohol dehydrogenase	Thermoanaerobacter sp.	TrEMBL	TRUE
+B0K4A2	alcohol dehydrogenase	Thermoanaerobacter sp.	TrEMBL	TRUE
+B0K4A2	alcohol dehydrogenase	Thermoanaerobacter sp. X514	TrEMBL	TRUE
+B0KBJ9	alcohol dehydrogenase	Thermoanaerobacter pseudethanolicus	TrEMBL	TRUE
+B0KBJ9	alcohol dehydrogenase	Thermoanaerobacter pseudethanolicus ATCC 3322	TrEMBL	TRUE
+B0KBL1	alcohol dehydrogenase	Thermoanaerobacter pseudethanolicus	TrEMBL	TRUE
+B0KBL1	alcohol dehydrogenase	Thermoanaerobacter pseudethanolicus ATCC 33223	TrEMBL	TRUE
+B2KJ46	alcohol dehydrogenase	Candida parapsilosis	TrEMBL	TRUE
+B2ZRE3	alcohol dehydrogenase	Thermus sp.	TrEMBL	TRUE
+B2ZRE3	alcohol dehydrogenase	Thermus sp. ATN1	TrEMBL	TRUE
+B6UQD0	alcohol dehydrogenase	Saccharomyces pastorianus	TrEMBL	TRUE
+B6UQD0	alcohol dehydrogenase	Saccharomyces pastorianus Y379-50	TrEMBL	TRUE
+B8QU18	alcohol dehydrogenase	Euglena gracilis	TrEMBL	TRUE
+B8QU18	alcohol dehydrogenase	Euglena gracilis Z	TrEMBL	TRUE
+C7IV28	alcohol dehydrogenase	Thermoanaerobacter ethanolicus	TrEMBL	TRUE
+C7IV28	alcohol dehydrogenase	Thermoanaerobacter ethanolicus JW200	TrEMBL	TRUE
+C7R702	alcohol dehydrogenase	Kangiella koreensis	TrEMBL	TRUE
+D4GSN2	alcohol dehydrogenase	Haloferax volcanii	TrEMBL	TRUE
+D4GSN2	alcohol dehydrogenase	Haloferax volcanii DSM 3757	TrEMBL	TRUE
+E7FHL9	alcohol dehydrogenase	Pyrococcus furiosus	TrEMBL	TRUE
+F9VMI9	alcohol dehydrogenase	Sulfolobus tokodaii	TrEMBL	TRUE
+G3FFC9	alcohol dehydrogenase	Kluyveromyces marxianus	TrEMBL	TRUE
+G3FFC9	alcohol dehydrogenase	Kluyveromyces marxianus GX-UN120	TrEMBL	TRUE
+H9ZGN0	alcohol dehydrogenase	Ogataea angusta	TrEMBL	TRUE
+H9ZGN0	alcohol dehydrogenase	Ogataea angusta DL-1	TrEMBL	TRUE
+I3VSF1	alcohol dehydrogenase	Thermoanaerobacterium saccharolyticum	TrEMBL	TRUE
+I3VSF1	alcohol dehydrogenase	Thermoanaerobacterium saccharolyticum DSM 8691	TrEMBL	TRUE
+P00326	alcohol dehydrogenase	Homo sapiens	Swiss-Prot	TRUE
+P00327	alcohol dehydrogenase	Equus caballus	Swiss-Prot	TRUE
+P00330	alcohol dehydrogenase	Saccharomyces cerevisiae	Swiss-Prot	TRUE
+P00331	alcohol dehydrogenase	Saccharomyces cerevisiae	Swiss-Prot	TRUE
+P08319	alcohol dehydrogenase	Homo sapiens	Swiss-Prot	TRUE
+P0DJA2	alcohol dehydrogenase	Zymomonas mobilis subsp. mobilis	Swiss-Prot	TRUE
+P0DJA2	alcohol dehydrogenase	Zymomonas mobilis subsp. mobilis ATCC 31821	Swiss-Prot	TRUE
+P39462	alcohol dehydrogenase	Sulfolobus solfataricus	Swiss-Prot	TRUE
+P39462	alcohol dehydrogenase	Sulfolobus solfataricus P2	Swiss-Prot	TRUE
+P42328	alcohol dehydrogenase	Geobacillus stearothermophilus	Swiss-Prot	TRUE
+P42328	alcohol dehydrogenase	Geobacillus stearothermophilus LLD-R	Swiss-Prot	TRUE
+P50381	alcohol dehydrogenase	Sulfolobus sp.	Swiss-Prot	TRUE
+P50381	alcohol dehydrogenase	Sulfolobus sp. RC3	Swiss-Prot	TRUE
+P81786	alcohol dehydrogenase	Moraxella sp.	Swiss-Prot	TRUE
+P81786	alcohol dehydrogenase	Moraxella sp. TAE123	Swiss-Prot	TRUE
+P86883	alcohol dehydrogenase	Columba livia	Swiss-Prot	TRUE
+P86884	alcohol dehydrogenase	Scyliorhinus canicula	Swiss-Prot	TRUE
+Q09669	alcohol dehydrogenase	Schizosaccharomyces pombe	Swiss-Prot	TRUE
+Q0PH30	alcohol dehydrogenase	Thermoanaerobacter ethanolicus		FALSE
+Q0PH30	alcohol dehydrogenase	Thermoanaerobacter ethanolicus JW 200		FALSE
+Q1G151	alcohol dehydrogenase	Bombyx mori	TrEMBL	TRUE
+Q4J702	alcohol dehydrogenase	Sulfolobus acidocaldarius	TrEMBL	TRUE
+Q4J702	alcohol dehydrogenase	Sulfolobus acidocaldarius DSM 639	TrEMBL	TRUE
+Q4J9F2	alcohol dehydrogenase	Sulfolobus acidocaldarius	TrEMBL	TRUE
+Q4J9F2	alcohol dehydrogenase	Sulfolobus acidocaldarius DSM 639	TrEMBL	TRUE
+Q4J9F2	alcohol dehydrogenase	Sulfolobus acidocaldarius DSM 639	TrEMBL	TRUE
+Q5JI09	alcohol dehydrogenase	Thermococcus kodakarensis	TrEMBL	TRUE
+Q5M4K4	alcohol dehydrogenase	Streptococcus thermophilus	TrEMBL	TRUE
+Q5M4K4	alcohol dehydrogenase	Streptococcus thermophilus LMG 18311	TrEMBL	TRUE
+Q6L0S1	alcohol dehydrogenase	Picrophilus torridus	TrEMBL	TRUE
+Q6RS93	alcohol dehydrogenase	Parageobacillus thermoglucosidasius	TrEMBL	TRUE
+Q6RS93	alcohol dehydrogenase	Parageobacillus thermoglucosidasius M10EXG	TrEMBL	TRUE
+Q70YJ9	alcohol dehydrogenase	Polytomella sp. Pringsheim 198.80	TrEMBL	TRUE
+Q76HN6	alcohol dehydrogenase	Pseudomonas putida	TrEMBL	TRUE
+Q76HN6	alcohol dehydrogenase	Pseudomonas putida S-5	TrEMBL	TRUE
+Q8KLT9	alcohol dehydrogenase	Rhodococcus ruber	TrEMBL	TRUE
+Q8L3C9	alcohol dehydrogenase	Flavobacterium frigidimaris	TrEMBL	TRUE
+Q8L3C9	alcohol dehydrogenase	Flavobacterium frigidimaris KUC-1	TrEMBL	TRUE
+Q8TZM9	alcohol dehydrogenase	Pyrococcus furiosus	TrEMBL	TRUE
+Q8U259	alcohol dehydrogenase	Pyrococcus furiosus	Swiss-Prot	TRUE
+Q96XE0	alcohol dehydrogenase	Sulfolobus tokodaii	Swiss-Prot	TRUE
+Q96XE0	alcohol dehydrogenase	Sulfolobus tokodaii DSM 16993	Swiss-Prot	TRUE
+Q9CEN0	alcohol dehydrogenase	Lactococcus lactis subsp. lactis	TrEMBL	TRUE
+Q9CEN0	alcohol dehydrogenase	Lactococcus lactis subsp. lactis IL1403	TrEMBL	TRUE
+Q9HIM3	alcohol dehydrogenase	Thermoplasma acidophilum	TrEMBL	TRUE
+Q9P6C8	alcohol dehydrogenase	Neurospora crassa	Swiss-Prot	TRUE
+Q9P6C8	alcohol dehydrogenase	Neurospora crassa DSM 1257	Swiss-Prot	TRUE
+Q9QYY9	alcohol dehydrogenase	Mus musculus	Swiss-Prot	TRUE
+Q9UXF1	alcohol dehydrogenase	Sulfolobus solfataricus	TrEMBL	TRUE
+Q9UXF1	alcohol dehydrogenase	Sulfolobus solfataricus P2	TrEMBL	TRUE
+Q9Y9P9	alcohol dehydrogenase	Aeropyrum pernix		FALSE
+Q9Y9P9	alcohol dehydrogenase	Aeropyrum pernix ATCC 700893 / DSM 11879 / JCM 9820 / NBRC 100138 / K1		FALSE
+Q9Y9P9	alcohol dehydrogenase	Aeropyrum pernix DSM 11879		FALSE
+Q9Y9P9	alcohol dehydrogenase	Aeropyrum pernix DSM 11879		FALSE
+Q9ZT38	alcohol dehydrogenase	Glycine max	TrEMBL	TRUE
+Q9ZT38	alcohol dehydrogenase	Glycine max Enrei	TrEMBL	TRUE
+V9SCJ1	alcohol dehydrogenase	Kluyveromyces marxianus	TrEMBL	TRUE
+V9SCJ1	alcohol dehydrogenase	Kluyveromyces marxianus GX-UN120	TrEMBL	TRUE
+V9SDP6	alcohol dehydrogenase	Kluyveromyces marxianus	TrEMBL	TRUE
+V9SDP6	alcohol dehydrogenase	Kluyveromyces marxianus GX-UN120	TrEMBL	TRUE
+V9SFA1	alcohol dehydrogenase	Kluyveromyces marxianus	TrEMBL	TRUE
+V9SFA1	alcohol dehydrogenase	Kluyveromyces marxianus GX-UN120	TrEMBL	TRUE
+W6CX26	alcohol dehydrogenase	Yokenella sp.	TrEMBL	TRUE
+W8VSK8	alcohol dehydrogenase	Mycobacterium sp.	TrEMBL	TRUE
+W8VSK8	alcohol dehydrogenase	Mycobacterium sp. B-009	TrEMBL	TRUE

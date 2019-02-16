@@ -1,31 +1,63 @@
 EC_Number	Systematic_name	Recommended_name	UniProt	Organism	Commentary	Literature(PubmedID)	Ref
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Archaea	AMENDA reliability +	12686546; 12917443	0
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Archaea	FRENDA	12869542; 17584754	1
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Archaeoglobus fulgidus	AMENDA reliability +++	16835730	2
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Bacillus megaterium	AMENDA reliability +	14612231; 10051442; 12686546; 12408752	3
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Bacillus megaterium	FRENDA	12917443; 24657453	4
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Bacillus subtilis	FRENDA	12408752	5
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Bacteria	FRENDA	27486032; 12869542; 12686546	6
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Bacteria	AMENDA reliability +	12917443	7
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Brucella melitensis	cobaltochelatase consists of three subunits, CobN, CobS and CobT, while subunits CobS and CobT form a chaperone-like complex, characteristic for the AAA+ class of proteins	19545636	8
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Brucella melitensis	FRENDA	19545636	9
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Desulfovibrio	FRENDA	27486032	10
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Desulfovibrio vulgaris	AMENDA reliability +	27486032	11
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Desulfovibrio vulgaris		21173279	12
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Escherichia coli	FRENDA	10051442; 12686546; 12408752; 12917443; 24673795	13
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Klebsiella pneumoniae	AMENDA reliability ++	40960	14
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Methanosarcina barkeri	FRENDA	12686546	15
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Methanothermobacter	FRENDA	12686546	16
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Paracoccus pantotrophus	FRENDA	24673795	17
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase	P29933 AND P29934 AND Q9HZQ3 AND P29929  	Pseudomonas denitrificans (nomen rejiciendum)		1429466	18
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Pseudomonas denitrificans (nomen rejiciendum)	FRENDA	10051442	19
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Pseudomonas denitrificans (nomen rejiciendum)		8226690	20
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Pseudomonas denitrificans (nomen rejiciendum)	AMENDA reliability +++	1429466	21
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Saccharomyces cerevisiae	AMENDA reliability +	10051442	22
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Salmonella enterica	AMENDA reliability +	12408752	23
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Salmonella enterica		21173279	24
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Salmonella enterica subsp. enterica serovar Typhimurium	FRENDA	10051442	25
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Streptomyces coelicolor	FRENDA	14612231	26
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Streptomyces seoulensis	AMENDA reliability +	14612231	27
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Sus scrofa	FRENDA	3370141	28
-6.6.1.2	hydrogenobyrinic-acid-a,c-diamide:cobalt cobalt-ligase (ADP-forming)	cobaltochelatase		Synechocystis	FRENDA	12917443	29
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Archaea	FRENDA	10648518; 16428816	0
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		archaeon	AMENDA reliability +	15901685	1
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		archaeon	FRENDA	16788179	2
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Bacillus methanolicus	AMENDA reliability +	25595770	3
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Bacillus methanolicus		19593556	4
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Bacillus methanolicus	FRENDA	26276544; 25596507	5
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Bacillus subtilis	AMENDA reliability +	25595770	6
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Bacillus subtilis	concomitant induction of 3-hexulose 6-phosphate synthase and 6-phospho-3-hexuloisomerase by formaldehyde	10572115	7
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Bacillus subtilis	FRENDA	10572115; 15978081	8
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Bacillus subtilis		19593556	9
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase	P42404	Bacillus subtilis		11468398	10
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Bacteria	AMENDA reliability +	17675378; 15901685	11
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Bacteria	FRENDA	26276544; 14532071; 10648518; 12351229; 17436647; 10572115; 16428816; 19593556; 25596507	12
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Brevibacillus brevis	AMENDA reliability +	12351229	13
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Brevibacillus brevis		19593556	14
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Burkholderia cepacia TM1	AMENDA reliability +	14532071	15
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Corynebacterium glutamicum	FRENDA	26276544; 25595770	16
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Escherichia coli	FRENDA	10418139; 17520247; 15901685; 15978081; 25596507	17
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Methanocaldococcus jannaschii	AMENDA reliability +	11839305	18
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase	Q58644	Methanocaldococcus jannaschii		11839305	19
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Methanosarcina	FRENDA	16428816	20
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Methanosarcina sp.		19593556	21
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Methylobacillus flagellatus KT		19593556	22
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Methylococcus capsulatus	grown on methane	4219834	23
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Methylococcus capsulatus	AMENDA reliability +	4219834	24
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Methylococcus capsulatus		19593556	25
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Methylomonas aminofaciens		19593556	26
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase	Q9S0X3	Methylomonas aminofaciens		27321011	27
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Methylomonas aminofaciens 77a	FRENDA	14532071; 10418139	28
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase	Q9S0X3	Methylomonas aminofaciens 77a		27321011	29
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		methylotrophic bacterium	FRENDA	14532071; 10418139; 10648518; 17520247	30
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Mycobacterium gastri	FRENDA	10648518	31
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Mycobacterium gastri		19593556; 20549541	32
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase	Q9LBW5	Mycobacterium gastri		17520247	33
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Mycobacterium gastri MB19	FRENDA	10648518; 17520247	34
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Mycobacterium gastri MB19		20549541	35
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Mycobacterium gastri MB19		20549541	36
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Mycobacterium gastri MB19		20549541	37
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Mycobacterium gastri MB19		20549541	38
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Mycobacterium gastri MB19		20549541	39
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Mycobacterium gastri MB19		20549541	40
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase	Q9LBW5	Mycobacterium gastri MB19		17520247	41
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		no activity in Hansenula polymorpha		0	42
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		no activity in Hansenula polymorpha DL-1		0	43
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		no activity in Kloeckera sp.		0	44
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		no activity in Kloeckera sp. 2201		0	45
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		oligotrophic bacterium	FRENDA	17675378	46
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Pyrococcus	FRENDA	16428816	47
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase	O59601	Pyrococcus horikoshii	bifunctional 3-hexulose 6-phosphate synthase/6-phospho-3-hexuloisomerase, constitutive expression	15901685	48
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Pyrococcus horikoshii	FRENDA	15901685	49
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Pyrococcus horikoshii		19593556	50
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Pyrococcus horikoshii OT3	AMENDA reliability +	15901685	51
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Pyrococcus sp.		19593556	52
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Rhodococcus	FRENDA	17675378	53
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Rhodococcus erythropolis N9T-4	FRENDA	17675378	54
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Thermococcus kodakarensis	bifunctional 3-hexulose-6-phosphate synthase/6-phospho-3-hexuloisomerase	16788179	55
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Thermococcus kodakarensis	FRENDA	16788179	56
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Thermococcus kodakarensis		19593556	57
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Thermococcus kodakarensis KOD1	FRENDA	16788179	58
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		Thermococcus sp.		19593556	59
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		uncultured bacterium		0	60
+5.3.1.27	D-arabino-hex-3-ulose-6-phosphate isomerase	6-phospho-3-hexuloisomerase		uncultured bacterium 77a		0	61

@@ -1,5 +1,11 @@
 Commentary	Ref	Literature(PubmedID)	value
-0.0057 units for CobST subunit, 1 unit of CobN is defined as the amount of CobST necessary to reconstruct 1 unit of the entire complex. 0.006 for CobN subunit, 1 unit of CobN is defined as the amount of CobN necessary to reconstruct 1 unit of the entire complex	18	1429466	-999.0
-0.0057 units for CobST subunit, 1 unit of CobN is defined as the amount of CobST necessary to reconstruct 1 unit of the entire complex. 0.006 for CobN subunit, 1 unit of CobN is defined as the amount of CobN necessary to reconstruct 1 unit of the entire complex	19	1429466	-999.0
-0.0057 units for CobST subunit, 1 unit of CobN is defined as the amount of CobST necessary to reconstruct 1 unit of the entire complex. 0.006 for CobN subunit, 1 unit of CobN is defined as the amount of CobN necessary to reconstruct 1 unit of the entire complex	20	1429466	-999.0
-0.0057 units for CobST subunit, 1 unit of CobN is defined as the amount of CobST necessary to reconstruct 1 unit of the entire complex. 0.006 for CobN subunit, 1 unit of CobN is defined as the amount of CobN necessary to reconstruct 1 unit of the entire complex	21	1429466	-999.0
+30°C, pH 7.0	23	4219834	1560.0
+30°C, pH 7.0	24	4219834	1560.0
+30°C, pH 7.0	25	4219834	1560.0
+3-hexulose-6-phosphate synthase/6-phospho-3-hexuloisomerasefusion enzyme, 30°C	31	17520247	154.0
+6-phospho-3-hexuloisomerase, 30°C	31	17520247	563.0
+3-hexulose-6-phosphate synthase/6-phospho-3-hexuloisomerasefusion enzyme, 30°C	32	17520247	154.0
+6-phospho-3-hexuloisomerase, 30°C	32	17520247	563.0
+3-hexulose-6-phosphate synthase/6-phospho-3-hexuloisomerasefusion enzyme, 30°C	33	17520247	154.0
+6-phospho-3-hexuloisomerase, 30°C	33	17520247	563.0
+pH 7.0, 30°C	60	0	20.0

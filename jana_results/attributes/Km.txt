@@ -1,13 +1,9 @@
 Commentary	Substrate	Ref	Literature(PubmedID)	value
-pH 8.0, 30°C	hydrogenobyrinic acid a,c-diamide	18	1429466	8.5E-5
-pH 8.0, 30°C	Co2+	18	1429466	0.0042
-pH 8.0, 30°C	ATP	18	1429466	0.22
-pH 8.0, 30°C	hydrogenobyrinic acid a,c-diamide	19	1429466	8.5E-5
-pH 8.0, 30°C	Co2+	19	1429466	0.0042
-pH 8.0, 30°C	ATP	19	1429466	0.22
-pH 8.0, 30°C	hydrogenobyrinic acid a,c-diamide	20	1429466	8.5E-5
-pH 8.0, 30°C	Co2+	20	1429466	0.0042
-pH 8.0, 30°C	ATP	20	1429466	0.22
-pH 8.0, 30°C	hydrogenobyrinic acid a,c-diamide	21	1429466	8.5E-5
-pH 8.0, 30°C	Co2+	21	1429466	0.0042
-pH 8.0, 30°C	ATP	21	1429466	0.22
+30°C, pH 7.0	D-arabino-3-hexulose 6-phosphate	23	4219834	0.1
+30°C, pH 7.0	D-fructose 6-phosphate	23	4219834	1.1
+30°C, pH 7.0	D-arabino-3-hexulose 6-phosphate	24	4219834	0.1
+30°C, pH 7.0	D-fructose 6-phosphate	24	4219834	1.1
+30°C, pH 7.0	D-arabino-3-hexulose 6-phosphate	25	4219834	0.1
+30°C, pH 7.0	D-fructose 6-phosphate	25	4219834	1.1
+pH 7.0, 30°C	D-arabino-hex-3-ulose 6-phosphate	60	0	0.029
+pH 7.0, 30°C	D-fructose 6-phosphate	60	0	0.67

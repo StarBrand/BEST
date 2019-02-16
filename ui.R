@@ -33,7 +33,7 @@ dashboardPage(skin = "green",
                menuSubItem("Parameter Table", tabName = "parameterTable"),
                menuSubItem("Information Available", tabName = "info")
                ),
-      menuItem("Visualization", tabName = "visualization", icon = icon("chart-area"), startExpanded = TRUE,
+      menuItem("Visualization", tabName = "visualization", icon = icon("chart-area"), startExpanded = FALSE,
                menuSubItem("Parameters Found", tabName = "histogram"),
                menuSubItem("Distribution", tabName = "distribution"),
                menuSubItem("Correlation", tabName = "correlation")
@@ -41,6 +41,9 @@ dashboardPage(skin = "green",
       menuItem("Suggestion", tabName = "suggestion", icon = icon("eye")),
       menuItem("Acknowledgments", tabName = "acknowledgments", icon = icon("award")),
       menuItem("FAQ", tabName = "faq", icon = icon("question")),
+      ### Hidden ones ###
+      shinyjs::hidden(
+        menuItem("phylogenyTree", tabName = "phylogenyTree")),
       tags$hr(),
       div(style="text-align:center",
       h3("First time?"),
@@ -277,6 +280,9 @@ dashboardPage(skin = "green",
                     checkboxInput(inputId = 'up',
                                   label = 'Look up just for the proteins that has UniProt code'
                                   ),
+                    tags$br(),
+                    actionButton("phylogeny", "Select by phylogeny", class = "btn-warning"),
+                    tags$hr(),
                     actionButton("parameters", "Search for parameters", class = "btn-success"),
                     tags$br(),
                     tags$br(),
@@ -299,6 +305,15 @@ dashboardPage(skin = "green",
                   div(style='height:60vh; overflow-y: scroll',
                   DTOutput("distProteinTable", height = '60vh'))
                 )
+      ),
+      
+      # Phylogeny tree
+      tabItem(tabName = "phylogenyTree",
+              box(title = "Taxa selected", width = 3, height = '90vh'),
+              box(
+                title = "Phylogenetic Tree", width = 9, heigth = '70vh',
+                plotOutput("treeOut")
+              )
       ),
       
       # FASTA sequence
@@ -437,7 +452,7 @@ dashboardPage(skin = "green",
                 tags$br(),
                 title = "Parameter Table", width = 8, height = '80vh',
                 div(style='height:60vh; overflow-y: scroll',
-                DTOutput("distParameterTable"), height = '60vh')
+                DTOutput("distParameterTable"), height = '55vh')
               )
       ),
       
@@ -498,7 +513,10 @@ dashboardPage(skin = "green",
                            "to match the format of the tables of this side, ",
                            "to avoid posibles error."),
                   div(style = "text-align:center;",
-                    actionButton("getDistribution", "Watch distribution", class = "btn-primary"))
+                    actionButton("getDistribution", "Watch distribution", class = "btn-primary")),
+                  tags$br(),
+                  div(style = "text-align:center;",
+                      actionButton("getCorrelation", "Watch correlation", class = "btn-primary"))
               ),
               box(title = "Parameters Found", width = 9,
                   height = '85vh',
@@ -519,7 +537,14 @@ dashboardPage(skin = "green",
       
       # Correlation
       tabItem(tabName = "correlation",
-              h1("Correlation")
+              box(title = "Sidebar", width = 3, height = '90vh'
+                  ),
+              box(tile = "Distribution", width = 9,
+                  height = '70vh',
+                  div(
+                    plotlyOutput("correlationOut"),
+                    height = '70vh')
+              )
       ),
       
       # Suggestions

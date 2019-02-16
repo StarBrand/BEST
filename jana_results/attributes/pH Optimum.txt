@@ -1,0 +1,5 @@
+Commentary	Ref	Literature(PubmedID)	value
+	23	4219834	8.3
+	24	4219834	8.3
+	25	4219834	8.3
+	60	0	7.5
