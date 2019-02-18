@@ -55,6 +55,11 @@ noSearch <- function(what){
                    sep = ""),
              type = "error")
 }
+noProteins <- function(){
+  shinyalert("Cannot add",
+             "It is not necessary to add enzymes, because you are not enter yet",
+             type = "error")
+}
 wrongPassword <- function(){
   shinyalert("Wrong password",
              "Type it again or make sure your password is the same of your Brenda account",

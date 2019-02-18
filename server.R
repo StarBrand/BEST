@@ -20,10 +20,12 @@ library(shinyalert)
 library(plotly)
 library(plyr)
 library(rlist)
+library(shinyBS)
 .jinit('BrendaSOAP.jar')
 source("correlation.R")
 source("functions.R")
 source("tree.R")
+source("helpers.R")
 
 # Define server logic
 shinyServer(function(input, output, session) {
@@ -31,6 +33,7 @@ shinyServer(function(input, output, session) {
   # Flags
   isThereUser <- reactiveVal(FALSE)
   proteinSearch <- reactiveVal(FALSE)
+  addEcNumber <- reactiveVal(FALSE)
   pdbSearch <- reactiveVal(FALSE)
   fastaSearch <- reactiveVal(FALSE)
   paramSearch <- reactiveVal(FALSE)
@@ -83,8 +86,23 @@ shinyServer(function(input, output, session) {
   # Define folder
   folder <- reactiveVal("_results\\")
   
+  # Principal buttons
+  observeEvent(input$goHelp, {
+    updateTabItems(session, "inTabset", "help")
+  })
+  observeEvent(input$goProtein, {
+    updateTabItems(session, "inTabset", "proteinTable")
+  })
+  observeEvent(input$goSummary, {
+    updateTabItems(session, "inTabset", "info")
+  })
+  observeEvent(input$goAccount, {
+    updateTabItems(session, "inTabset", "account")
+  })
+  
   # Disable user
   observeEvent(input$logIn, {
+    shinyjs::disable("logIn")
     withProgress(value = 0, message = "Verify account with Brenda", {
       keep <- user()$verifyAccount()
       incProgress(1)
@@ -105,12 +123,14 @@ shinyServer(function(input, output, session) {
       noAccount()
       shinyjs::click("logOut")
     }
+    shinyjs::enable("logIn")
   })
   
   # Enable user
   observeEvent(input$logOut, {
     isThereUser(FALSE)
     proteinSearch(FALSE)
+    addEcNumber(FALSE)
     pdbSearch(FALSE)
     fastaSearch(FALSE)
     paramSearch(FALSE)
@@ -175,20 +195,23 @@ shinyServer(function(input, output, session) {
   })
   
   # EC Number
-  ec_number <- reactiveVal("1.1.1.1")
+  ecNumbers <- reactiveVal(list(NULL))
   
   # Update selector
-  observeEvent(input$subclass, {
+  observeEvent(input$enterSubclass, {
     file <- paste("synonyms", input$subclass, "\\subclasses.txt.txt", sep = "")
     table <- read.table(file,
                         sep = "\t",
                         header = TRUE)
     subclass <- as.list(table$EC)
     subclass <- setNames(subclass, table$subclass)
+    shinyjs::hide("enterSubclass")
+    shinyjs::show("subsubclass")
+    shinyjs::show("enterSubsubclass")
     updateSelectInput(session, "subsubclass",
                       choices = subclass)
   })
-  observeEvent(input$subsubclass, {
+  observeEvent(input$enterSubsubclass, {
     if(input$subsubclass != ""){
       file <- paste("synonyms", input$subclass, "\\", input$subsubclass , ".txt", sep = "")
       table <- read.table(file, sep = "\t", header = TRUE, fill = TRUE)
@@ -196,6 +219,9 @@ shinyServer(function(input, output, session) {
       table <- aggregate(table[,c("value")], by=list(table$synonyms), paste, collapse="\t")
       choices <- as.list(table$x)
       choices <- setNames(choices, table$Group.1)
+      shinyjs::hide("enterSubsubclass")
+      shinyjs::show("enzyme_name")
+      shinyjs::show("enzymeName")
       updateSelectizeInput(session, "enzyme_name",
                            choices = choices)
     }
@@ -213,6 +239,7 @@ shinyServer(function(input, output, session) {
     updateRadioButtons(session, "pick", choices = choices)
     shinyjs::show("pick")
     shinyjs::show("enzymeNameFinal")
+    shinyjs::hide("enzymeName")
   })
   
   # Generate Protein Table
@@ -225,7 +252,11 @@ shinyServer(function(input, output, session) {
       paramSearch(FALSE)
       attributeFound(rep(FALSE, 12))
       incProgress(0.25, detail = "Entering data...")
-      main <- .jnew("main.BrendaSOAP", ec_number(), user(), as.integer(0), as.integer(0))
+      main <- .jnew("main.BrendaSOAP", ecNumbers()[[1]], user(), as.integer(0), as.integer(0))
+      n <- length(ecNumbers())
+      if(n > 1) list.apply(ecNumbers()[2:n], function(e){
+        main$addEnzyme(e)
+      })
       incProgress(0.25, detail = "Searching proteins... (No more than 2 minutes)")
       main$getProtein()
       incProgress(0.25, detail = "Proteins found, showing...")
@@ -238,6 +269,7 @@ shinyServer(function(input, output, session) {
   
   # EC Number
   observeEvent(input$ecNumber, {
+    withBusyIndicatorServer("ecNumber",{
     if(!isThereUser()){noSession()}
     else{
       shinyjs::disable("ecNumber")
@@ -246,19 +278,58 @@ shinyServer(function(input, output, session) {
                              input$ec_number3,
                              input$ec_number4,
                              sep = ".")
-      ec_number(new_ec_number)
+      if(addEcNumber()){ecno <- ecNumbers()
+        ecno <- list.append(ecno, new_ec_number)
+        ecNumbers(ecno)}
+      else{ecNumbers(list(new_ec_number))}
+      addEcNumber(FALSE)
       generateProteinTable()
       shinyjs::enable("ecNumber")
     }
+    })
   })
   
   # Enzyme Name
   observeEvent(input$enzymeNameFinal, {
     if(!isThereUser()){noSession()}
-    else{ec_number(input$pick)
+    else{
+      if(addEcNumber()){ecno <- ecNumbers()
+      ecno <- list.append(ecno, input$pick)
+      ecNumbers(ecno)}
+      else{ecNumbers(list(input$pick))}
+      addEcNumber(FALSE)
       shinyjs::disable("enzymeNameFinal")
       generateProteinTable()
-      shinyjs::enable("enzymeNameFinal")}
+      shinyjs::enable("enzymeNameFinal")
+      shinyjs::hide("subsubclass")
+      shinyjs::hide("enzyme_name")
+      shinyjs::hide("enzymeName")
+      shinyjs::hide("pick")
+      shinyjs::hide("enzymeNameFinal")
+      shinyjs::show("enterSubclass")}
+  })
+  
+  # Add Enzyme
+  observeEvent(input$addEnzyme, {
+    if(!proteinSearch()){
+      noProteins()
+    } else{
+      addEcNumber(TRUE)
+      updateTabItems(session, "inTabset", "enzyme")}
+  })
+  
+  # Message to the enzyme searcher
+  output$enzymeWillBe <- renderUI({
+    if(addEcNumber()){
+      h4("The enzyme your enter will be added to the search")
+    } else if(proteinSearch()){
+      h4("The enzyme your enter will erase the previous ones")
+    } else{
+      div(style="text-align:center",
+      h3("Welcome!!"),
+      h4("Enter the type of enzyme(s) you want to work with"),
+      p(icon("hand-point-left"), "From now on, we recommend to hide the dashboard menu to have a better visualization"))
+    }
   })
   
   # Protein Table
@@ -300,6 +371,7 @@ shinyServer(function(input, output, session) {
   # Back to enzyme select
   observeEvent(input$toEnzyme, {
     updateTabItems(session, "inTabset", "enzyme")
+    addEcNumber(FALSE)
   })
   
   # Generate Fasta Table
@@ -311,7 +383,11 @@ shinyServer(function(input, output, session) {
         shinyjs::disable("toFasta")
         updateTabItems(session, "inTabset", "fasta")
         incProgress(0, detail = "Enter parameter")
-        main <- .jnew("main.BrendaSOAP", ec_number(), user(), as.integer(0), as.integer(0))
+        main <- .jnew("main.BrendaSOAP", ecNumbers()[[1]], user(), as.integer(0), as.integer(0))
+        n <- length(ecNumbers())
+        if(n > 1) list.apply(ecNumbers()[2:n], function(e){
+          main$addEnzyme(e)
+        })
         main$getProtein()
         incProgress(0.3, detail = "This can take a few minutes")
         main$getFastaSequence()
@@ -359,7 +435,11 @@ shinyServer(function(input, output, session) {
       withProgress(message = "Searching PDB", value = 0, {
         updateTabItems(session, "inTabset", "pdb")
         incProgress(0, detail = "Enter parameter")
-        main <- .jnew("main.BrendaSOAP", ec_number(), user(), as.integer(0), as.integer(0))
+        main <- .jnew("main.BrendaSOAP", ecNumbers()[[1]], user(), as.integer(0), as.integer(0))
+        n <- length(ecNumbers())
+        if(n > 1) list.apply(ecNumbers()[2:n], function(e){
+          main$addEnzyme(e)
+        })
         main$getProtein()
         incProgress(0.25, detail = "This can take a few minutes")
         main$getPDB()
@@ -473,7 +553,11 @@ shinyServer(function(input, output, session) {
     updateTabItems(session, "inTabset", "parameterTable")
     withProgress(message = "Searching numerical Parameters, this can take a few minutes", value = 0, {
       incProgress(0, detail = "Enter parameter for searching...")
-      main <- .jnew("main.BrendaSOAP", ec_number(), user(), as.integer(encoder_param(input$attributes)), as.integer(encoder_filter(input$up)))
+      main <- .jnew("main.BrendaSOAP", ecNumbers()[[1]], user(), as.integer(encoder_param(input$attributes)), as.integer(encoder_filter(input$up)))
+      n <- length(ecNumbers())
+      if(n > 1) list.apply(ecNumbers()[2:n], function(e){
+        main$addEnzyme(e)
+      })
       main$getProtein()
       incProgress(0.2, detail = "Selecting proteins for search")
       s <- input$distProteinTable_rows_selected
@@ -675,10 +759,11 @@ shinyServer(function(input, output, session) {
       if(fastaSearch()){
         ft <- fastaTable()
         ft$Found_using_Brenda <- as.numeric(ft$Found_using_Brenda)
-        ft <- aggregate(ft[,"Found_using_Brenda"],
-                        by = list(ft$Enzyme,
-                                  ft$Organism,
-                                  ft$UniProt), sum)
+        if(nrow(ft) != 0){
+          ft <- aggregate(ft[,"Found_using_Brenda"],
+                          by = list(ft$Enzyme,
+                                    ft$Organism,
+                                    ft$UniProt), sum)}
         attributes(ft)$names[1] <- "Recommended_name"
         attributes(ft)$names[2] <- "Organism"
         attributes(ft)$names[3] <- "UniProt"
@@ -690,10 +775,11 @@ shinyServer(function(input, output, session) {
       if(pdbSearch()){
         pdb <- pdbTable()
         pdb$PDB <- 1
-        pdb <- aggregate(pdb[,"PDB"],
-                         by = list(pdb$EC_Number,
-                                   pdb$Organism),
-                         sum)
+        if(nrow(pdb) != 0){
+          pdb <- aggregate(pdb[,"PDB"],
+                           by = list(pdb$EC_Number,
+                                     pdb$Organism),
+                           sum)}
         attributes(pdb)$names[1] <- "EC_Number"
         attributes(pdb)$names[2] <- "Organism"
         attributes(pdb)$names[3] <- "PDB"
@@ -826,6 +912,16 @@ shinyServer(function(input, output, session) {
   # Enzyme name section
   observeEvent(input$enzymeHelp, {
     updateTabItems(session, "inTabset", "enzyme")
+  })
+  
+  # To pairs Plot
+  observeEvent(input$pairs, {
+    updateTabItems(session, "inTabset", "pairsPlot")
+  })
+  
+  # To visualization
+  observeEvent(input$backVisualization, {
+    updateTabItems(session, "inTabset", "histogram")
   })
   
 })

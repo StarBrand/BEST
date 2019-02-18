@@ -1,2 +1,0 @@
-Commentary	Ref	Literature(PubmedID)	value
-for catalase activity	419	0	30.0-60.0
