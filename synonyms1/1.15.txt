@@ -17,7 +17,7 @@ cuprein	1.15.1.1	superoxide dismutase
 hepatocuprein	1.15.1.1	superoxide dismutase
 perMn-SOD	1.15.1.1	superoxide dismutase
 mitMn-SOD	1.15.1.1	superoxide dismutase
-1,11,12,13,15,16,17,18,32,33,36,38,50,57,70,80,115,127,128,148,149,152	1.15.1.1	superoxide dismutase
+SOD	1.15.1.1	superoxide dismutase
 superoxide dismutase	1.15.1.1	superoxide dismutase
 Cu/Zn SOD	1.15.1.1	superoxide dismutase
 Cu/Zn superoxide dismutase 1	1.15.1.1	superoxide dismutase
@@ -27,10 +27,10 @@ CuZn-SOD	1.15.1.1	superoxide dismutase
 copper, zinc superoxide dismutase	1.15.1.1	superoxide dismutase
 ECSOD	1.15.1.1	superoxide dismutase
 Cu,Zn superoxide dismutase	1.15.1.1	superoxide dismutase
-More	1.15.1.1	superoxide dismutase
+the enzyme belongs to the superoxide dismutase familyof important antioxidant metalloenzymes that catalyze superoxideradicals from cellular oxidative metabolism into hydrogen peroxideandmolecular oxygen	1.15.1.1	superoxide dismutase
 intracellular Cu-Zn superoxide dismutase	1.15.1.1	superoxide dismutase
 CpSOD	1.15.1.1	superoxide dismutase
-CuZnSOD	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
 FeSOD	1.15.1.1	superoxide dismutase
 Cu-Zn SOD	1.15.1.1	superoxide dismutase
 Cu,Zn-superoxide dismutase	1.15.1.1	superoxide dismutase
@@ -47,7 +47,7 @@ Fe-type SOD	1.15.1.1	superoxide dismutase
 Fe/Mn-type SOD	1.15.1.1	superoxide dismutase
 Mn-type SOD	1.15.1.1	superoxide dismutase
 Fe-superoxide dismutase	1.15.1.1	superoxide dismutase
-SSO0316	1.15.1.1	superoxide dismutase
+locus name	1.15.1.1	superoxide dismutase
 Cu,Zn-SOD	1.15.1.1	superoxide dismutase
 Cu/Zn-SOD	1.15.1.1	superoxide dismutase
 MnSOD1	1.15.1.1	superoxide dismutase
@@ -68,17 +68,17 @@ mtSOD	1.15.1.1	superoxide dismutase
 copper/zinc-superoxide dismutase	1.15.1.1	superoxide dismutase
 Cu, Zn-superoxide dismutase	1.15.1.1	superoxide dismutase
 Cu, ZnSOD	1.15.1.1	superoxide dismutase
-CtSOD	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
 cambialistic superoxide dismutase	1.15.1.1	superoxide dismutase
 PASOD	1.15.1.1	superoxide dismutase
-APE0743	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
 iron-dependent superoxide dismutase	1.15.1.1	superoxide dismutase
 Fe-SOD_ASAC	1.15.1.1	superoxide dismutase
-ASAC_0498	1.15.1.1	superoxide dismutase
+locus name	1.15.1.1	superoxide dismutase
 SOD3	1.15.1.1	superoxide dismutase
-superoxide dismutase [Cu-Zn]	1.15.1.1	superoxide dismutase
+UniProt	1.15.1.1	superoxide dismutase
 MnSOD47	1.15.1.1	superoxide dismutase
-GTNG_2884	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
 Cu/Zn-superoxide dismutase	1.15.1.1	superoxide dismutase
 SodB	1.15.1.1	superoxide dismutase
 MnSOD-2	1.15.1.1	superoxide dismutase
@@ -97,7 +97,8 @@ SOD2	1.15.1.1	superoxide dismutase
 superoxide dismutase 1	1.15.1.1	superoxide dismutase
 extracellular superoxide dismutase	1.15.1.1	superoxide dismutase
 SOD1	1.15.1.1	superoxide dismutase
-EC-SOD	1.15.1.1	superoxide dismutase
+manganese superoxide dismutase	1.15.1.1	superoxide dismutase
+extracellular superoxide dismutase	1.15.1.1	superoxide dismutase
 Cu-Zn superoxide dismutase	1.15.1.1	superoxide dismutase
 Fe/MnSOD	1.15.1.1	superoxide dismutase
 iron-containing superoxide dismutase	1.15.1.1	superoxide dismutase
@@ -107,14 +108,14 @@ Mn-SOD	1.15.1.1	superoxide dismutase
 desulforedoxin	1.15.1.2	superoxide reductase
 SOR	1.15.1.2	superoxide reductase
 rubredoxin oxidoreductase	1.15.1.2	superoxide reductase
-More	1.15.1.2	superoxide reductase
+Dfx belongs to the class I ofsuperoxide reductases, while Nlr belongs to the class II superoxidereductases	1.15.1.2	superoxide reductase
 neelaredoxin	1.15.1.2	superoxide reductase
-Nlr	1.15.1.2	superoxide reductase
+gene name	1.15.1.2	superoxide reductase
 superoxide reductase	1.15.1.2	superoxide reductase
 1Fe SOR	1.15.1.2	superoxide reductase
 Fe-SOR	1.15.1.2	superoxide reductase
 neelaredoxin-type SOR	1.15.1.2	superoxide reductase
-MM_0632	1.15.1.2	superoxide reductase
+locus name	1.15.1.2	superoxide reductase
 cytochrome c–superoxide oxidoreductase	1.15.1.2	superoxide reductase
 desulfoferrodoxin	1.15.1.2	superoxide reductase
 Dfx	1.15.1.2	superoxide reductase

@@ -13,13 +13,13 @@ HoxF	1.12.1.2	hydrogen dehydrogenase
 HoxU	1.12.1.2	hydrogen dehydrogenase
 Hox hydrogenase	1.12.1.2	hydrogen dehydrogenase
 NAD+-reducing hydrogenase	1.12.1.2	hydrogen dehydrogenase
-SH	1.12.1.2	hydrogen dehydrogenase
+i.e. soluble cytoplasmic hydrogenase	1.12.1.2	hydrogen dehydrogenase
 soluble hydrogenase	1.12.1.2	hydrogen dehydrogenase
 NAD-reducing hydrogenase	1.12.1.2	hydrogen dehydrogenase
 soluble [NiFe]-hydrogenase	1.12.1.2	hydrogen dehydrogenase
 NAD-dependent hydrogenase	1.12.1.2	hydrogen dehydrogenase
 NAD+-reducing [NiFe]-hydrogenase	1.12.1.2	hydrogen dehydrogenase
-HoxFUYHI2	1.12.1.2	hydrogen dehydrogenase
+hexameric enzyme form	1.12.1.2	hydrogen dehydrogenase
 [NiFe] hydrogenase	1.12.1.2	hydrogen dehydrogenase
 NADH-dependent Fe-only hydrogenase	1.12.1.2	hydrogen dehydrogenase
 NiFe hydrogenase	1.12.1.2	hydrogen dehydrogenase
@@ -75,9 +75,9 @@ HysAB	1.12.2.1	cytochrome-c3 hydrogenase
 Fe-only hydrogenase	1.12.2.1	cytochrome-c3 hydrogenase
 HydAB	1.12.2.1	cytochrome-c3 hydrogenase
 hydrogen:menaquinone oxidoreductase	1.12.5.1	hydrogen:quinone oxidoreductase
-hydrogenase	1.12.5.1	hydrogen:quinone oxidoreductase
-hydrogenase	1.12.5.1	hydrogen:quinone oxidoreductase
-hydrogenase	1.12.5.1	hydrogen:quinone oxidoreductase
+hydrogenase (Wolinella succinogenes clone pHyd1 gene hydB subunitprecursor reduced)	1.12.5.1	hydrogen:quinone oxidoreductase
+hydrogenase (Wolinella succinogenes clone pHyd1 gene hydC subunit)	1.12.5.1	hydrogen:quinone oxidoreductase
+hydrogenase (Wolinella succinogenes clone pHyd1 gene hydA subunitprecursor reduced)	1.12.5.1	hydrogen:quinone oxidoreductase
 EC 1.12.99.3	1.12.5.1	hydrogen:quinone oxidoreductase
 Hydrogen:quinone oxidoreductase	1.12.5.1	hydrogen:quinone oxidoreductase
 HydABC	1.12.5.1	hydrogen:quinone oxidoreductase
@@ -95,7 +95,7 @@ EC 1.12.7.1	1.12.7.2	ferredoxin hydrogenase
 EC 1.18.3.1	1.12.7.2	ferredoxin hydrogenase
 EC 1.18.99.1	1.12.7.2	ferredoxin hydrogenase
 EC 1.98.1.1	1.12.7.2	ferredoxin hydrogenase
-hydrogenase	1.12.7.2	ferredoxin hydrogenase
+hydrogenase (ferredoxin)	1.12.7.2	ferredoxin hydrogenase
 H2 oxidizing hydrogenase	1.12.7.2	ferredoxin hydrogenase
 bidirectional hydrogenase	1.12.7.2	ferredoxin hydrogenase
 hydrogenase I	1.12.7.2	ferredoxin hydrogenase
@@ -108,20 +108,20 @@ Fe-Fe hydrogenase	1.12.7.2	ferredoxin hydrogenase
 ferredoxin-dependent [FeFe] hydrogenase	1.12.7.2	ferredoxin hydrogenase
 EHb	1.12.7.2	ferredoxin hydrogenase
 energy-conserving hydrogenase B	1.12.7.2	ferredoxin hydrogenase
-EhbM	1.12.7.2	ferredoxin hydrogenase
-EhbN	1.12.7.2	ferredoxin hydrogenase
+small subunit of energy-conserving hydrogenase B	1.12.7.2	ferredoxin hydrogenase
+large subunit of energy-conserving hydrogenase B	1.12.7.2	ferredoxin hydrogenase
 [Ni-Fe] hydrogenase	1.12.7.2	ferredoxin hydrogenase
-MbhJ	1.12.7.2	ferredoxin hydrogenase
+subunit of membrane-bound hydrogenase	1.12.7.2	ferredoxin hydrogenase
 reversible Fe-hydrogenase	1.12.7.2	ferredoxin hydrogenase
-HydA2	1.12.7.2	ferredoxin hydrogenase
+isozyme	1.12.7.2	ferredoxin hydrogenase
 hydrogenase of the Fe-only type	1.12.7.2	ferredoxin hydrogenase
 [FeFe]-hydrogenase	1.12.7.2	ferredoxin hydrogenase
-HydA1	1.12.7.2	ferredoxin hydrogenase
+isozyme	1.12.7.2	ferredoxin hydrogenase
 [FeFe] hydrogenase	1.12.7.2	ferredoxin hydrogenase
-MbhK	1.12.7.2	ferredoxin hydrogenase
-MbhL	1.12.7.2	ferredoxin hydrogenase
-C-MBH	1.12.7.2	ferredoxin hydrogenase
-MbhJKLN	1.12.7.2	ferredoxin hydrogenase
+membrane-bound hydrogenase subunit beta	1.12.7.2	ferredoxin hydrogenase
+membrane-bound hydrogenase subunit alpha	1.12.7.2	ferredoxin hydrogenase
+engineered minimal catalytically active 4-subunitsubcomplex of respiratory membrane-bound hydrogenase	1.12.7.2	ferredoxin hydrogenase
+engineered minimal catalytically active 4-subunitsubcomplex of respiratory membrane-bound hydrogenase, MbhJKLN	1.12.7.2	ferredoxin hydrogenase
 hydA	1.12.7.2	ferredoxin hydrogenase
 membrane bound NiFe hydrogenase	1.12.7.2	ferredoxin hydrogenase
 Mbh	1.12.7.2	ferredoxin hydrogenase
@@ -132,15 +132,15 @@ CpI	1.12.7.2	ferredoxin hydrogenase
 coenzyme F420-dependent hydrogenase	1.12.98.1	coenzyme F420 hydrogenase
 8-hydroxy-5-deazaflavin-reducing hydrogenase	1.12.98.1	coenzyme F420 hydrogenase
 deazaflavin-reducing hydrogenase	1.12.98.1	coenzyme F420 hydrogenase
-hydrogen:	1.12.98.1	coenzyme F420 hydrogenase
+hydrogen:(acceptor) oxidoreductase	1.12.98.1	coenzyme F420 hydrogenase
 EC 1.12.99.1	1.12.98.1	coenzyme F420 hydrogenase
 F420-reducing hydrogenase	1.12.98.1	coenzyme F420 hydrogenase
 VhuD	1.12.98.1	coenzyme F420 hydrogenase
 FRH	1.12.98.1	coenzyme F420 hydrogenase
 F420-reducing [NiFe]-hydrogenase	1.12.98.1	coenzyme F420 hydrogenase
-Mbar_A0449	1.12.98.1	coenzyme F420 hydrogenase
-Mbar_A0452	1.12.98.1	coenzyme F420 hydrogenase
-Mbar_A0450	1.12.98.1	coenzyme F420 hydrogenase
+subunit beta	1.12.98.1	coenzyme F420 hydrogenase
+subunit alpha	1.12.98.1	coenzyme F420 hydrogenase
+subunit gamma	1.12.98.1	coenzyme F420 hydrogenase
 8-hydroxy-5-deazaflavin-reactive hydrogenase	1.12.98.1	coenzyme F420 hydrogenase
 coenzyme F420-reducing dehydrogenase	1.12.98.1	coenzyme F420 hydrogenase
 Dehydrogenase, methylenetetrahydromethanopterin	1.12.98.2	5,10-methenyltetrahydromethanopterin hydrogenase
@@ -148,7 +148,7 @@ N5,N10-Methylenetetrahydromethanopterin dehydrogenase	1.12.98.2	5,10-methenyltet
 H2-forming N5,N10-Methenyltetrahydromethanopterin dehydrogenase	1.12.98.2	5,10-methenyltetrahydromethanopterin hydrogenase
 5,10-methylene-H4MPT dehydrogenase	1.12.98.2	5,10-methenyltetrahydromethanopterin hydrogenase
 methylenetetrahydromethanopterin dehydrogenase	1.12.98.2	5,10-methenyltetrahydromethanopterin hydrogenase
-N5,N10-methylenetetrahydromethanopterin dehydrogenase	1.12.98.2	5,10-methenyltetrahydromethanopterin hydrogenase
+N5,N10-methylenetetrahydromethanopterin dehydrogenase (H2-forming)	1.12.98.2	5,10-methenyltetrahydromethanopterin hydrogenase
 EC 1.12.99.4	1.12.98.2	5,10-methenyltetrahydromethanopterin hydrogenase
 N5,N10-methenyltetrahydromethanopterin hydrogenase	1.12.98.2	5,10-methenyltetrahydromethanopterin hydrogenase
 Hmd	1.12.98.2	5,10-methenyltetrahydromethanopterin hydrogenase
@@ -164,11 +164,11 @@ H2:sulfuroxidoreductase complex	1.12.98.4	sulfhydrogenase
 hydrogenase II	1.12.98.4	sulfhydrogenase
 H-II	1.12.98.4	sulfhydrogenase
 sulfur reductase	1.12.98.4	sulfhydrogenase
-sulhydrogenase	1.12.98.4	sulfhydrogenase
+bifunctional emzyme	1.12.98.4	sulfhydrogenase
 SH2ase	1.12.98.4	sulfhydrogenase
-sulfhydrogenase	1.12.98.4	sulfhydrogenase
-polysulfide dehydrogenase	1.12.98.4	sulfhydrogenase
-polysulfide reductase	1.12.98.4	sulfhydrogenase
+homology of hydrogenase and sulfurreductase	1.12.98.4	sulfhydrogenase
+PDH	1.12.98.4	sulfhydrogenase
+Psr A, Psr B, Psr C	1.12.98.4	sulfhydrogenase
 FRH	1.12.99.1	coenzyme F420 hydrogenase
 H2 producing hydrogenase [ambiguous]	1.12.99.6	hydrogenase (acceptor)
 hydrogen-lyase [ambiguous]	1.12.99.6	hydrogenase (acceptor)
@@ -181,7 +181,7 @@ hydrogen dehydrogenase	1.12.99.6	hydrogenase (acceptor)
 hydrogen-lyase	1.12.99.6	hydrogenase (acceptor)
 hydrogen:ferredoxin oxidoreductase	1.12.99.6	hydrogenase (acceptor)
 hydrogen:methylviologen oxidoreductase	1.12.99.6	hydrogenase (acceptor)
-hydrogenase	1.12.99.6	hydrogenase (acceptor)
+hydrogenase (ferredoxin)	1.12.99.6	hydrogenase (acceptor)
 methyl viologen-reducing hydrogenase	1.12.99.6	hydrogenase (acceptor)
 methylviologen hydrogenase	1.12.99.6	hydrogenase (acceptor)
 nickel-iron hydrogenase	1.12.99.6	hydrogenase (acceptor)
@@ -198,9 +198,9 @@ HoxG	1.12.99.6	hydrogenase (acceptor)
 hydrogenase-Fe-S	1.12.99.6	hydrogenase (acceptor)
 Hfs	1.12.99.6	hydrogenase (acceptor)
 Hya	1.12.99.6	hydrogenase (acceptor)
-16,19,26,27,28,36,38,39,40,44,49,52,54,66,67,68,69,70,71,74,75,76,77	1.12.99.6	hydrogenase (acceptor)
-16,19,26,27,36,38,39,44,49,52,54,66,67,68,69,71,74,75,76,77,78,100,101	1.12.99.6	hydrogenase (acceptor)
-16,19,27,36,38,39,44,46,49,52,54,55,66,67,68,69,71,74,78,79,80,100,101	1.12.99.6	hydrogenase (acceptor)
+uptake hydrogenase	1.12.99.6	hydrogenase (acceptor)
+large subunit of uptake hydrogenase	1.12.99.6	hydrogenase (acceptor)
+[NiFe]hydrogenase	1.12.99.6	hydrogenase (acceptor)
 uptake [NiFe] hydrogenase:	1.12.99.6	hydrogenase (acceptor)
 HoxEFUYH type [NiFe] hydrogenase	1.12.99.6	hydrogenase (acceptor)
 NiFe hydrogenase	1.12.99.6	hydrogenase (acceptor)
@@ -220,10 +220,10 @@ hydA	1.12.99.6	hydrogenase (acceptor)
 [NiFe]hydrogenase	1.12.99.6	hydrogenase (acceptor)
 [NiFe]H2ase	1.12.99.6	hydrogenase (acceptor)
 [NiFeSe]-hydrogenase	1.12.99.6	hydrogenase (acceptor)
-HycE	1.12.99.6	hydrogenase (acceptor)
 hydrogenase 3	1.12.99.6	hydrogenase (acceptor)
-hydrogenase 2	1.12.99.6	hydrogenase (acceptor)
-hydrogenase 1	1.12.99.6	hydrogenase (acceptor)
+hydrogen uptake and synthesis activity	1.12.99.6	hydrogenase (acceptor)
+hydrogen uptake activity only	1.12.99.6	hydrogenase (acceptor)
+hydrogen uptake activity only	1.12.99.6	hydrogenase (acceptor)
 hydrogen uptake hydrogenase	1.12.99.6	hydrogenase (acceptor)
 [NiFe]-hydrogenase-2	1.12.99.6	hydrogenase (acceptor)
 Hyd-2	1.12.99.6	hydrogenase (acceptor)
@@ -237,7 +237,7 @@ NIFeSe-hydrogenase	1.12.99.6	hydrogenase (acceptor)
 NiFe-hydrogenase	1.12.99.6	hydrogenase (acceptor)
 Fe-only hydrogenase	1.12.99.6	hydrogenase (acceptor)
 [FeFe]-H2ase	1.12.99.6	hydrogenase (acceptor)
-HyhL	1.12.99.6	hydrogenase (acceptor)
+large subunit	1.12.99.6	hydrogenase (acceptor)
 ECH	1.12.99.6	hydrogenase (acceptor)
 EchE	1.12.99.6	hydrogenase (acceptor)
 hupSLW	1.12.99.6	hydrogenase (acceptor)
@@ -248,9 +248,9 @@ EchA	1.12.99.6	hydrogenase (acceptor)
 Hyb	1.12.99.6	hydrogenase (acceptor)
 Ni-Fe hydrogenase	1.12.99.6	hydrogenase (acceptor)
 [Ni-Fe] hydrogenase	1.12.99.6	hydrogenase (acceptor)
-HupS	1.12.99.6	hydrogenase (acceptor)
-hydrogenase I	1.12.99.6	hydrogenase (acceptor)
-hydrogenase II	1.12.99.6	hydrogenase (acceptor)
+small subunit of uptake hydrogenase	1.12.99.6	hydrogenase (acceptor)
+catalyzes H2 oxidation andreduction at similar rates	1.12.99.6	hydrogenase (acceptor)
+preferentially catalyzes H2 oxidation	1.12.99.6	hydrogenase (acceptor)
 [Fe]-hydA	1.12.99.6	hydrogenase (acceptor)
 hydrogenase II	1.12.99.6	hydrogenase (acceptor)
 membrane-bound [NiFe]-hydrogenase	1.12.99.6	hydrogenase (acceptor)

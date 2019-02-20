@@ -22,15 +22,16 @@ catechol oxygenase	1.13.11.1	catechol 1,2-dioxygenase
 TfdC	1.13.11.1	catechol 1,2-dioxygenase
 C1,2O	1.13.11.1	catechol 1,2-dioxygenase
 3-chlorocatechol 1,2-dioxygenase	1.13.11.1	catechol 1,2-dioxygenase
-putative catechol 2,3-dioxygenase	1.13.11.1	catechol 1,2-dioxygenase
+involved in benzenemetabolism	1.13.11.1	catechol 1,2-dioxygenase
 BC-C23O	1.13.11.1	catechol 1,2-dioxygenase
 catechol 1,2 dioxygenase	1.13.11.1	catechol 1,2-dioxygenase
 IsoB	1.13.11.1	catechol 1,2-dioxygenase
 1,2 CTD	1.13.11.1	catechol 1,2-dioxygenase
-6,18,28,38,39,40,41,42,43,44,45,46,47,48,50,51,52,53,54,55,56,60,65	1.13.11.1	catechol 1,2-dioxygenase
+(chloro-)catechol 1,2-dioxygenase	1.13.11.1	catechol 1,2-dioxygenase
+C12O	1.13.11.1	catechol 1,2-dioxygenase
 pyrocatechase	1.13.11.1	catechol 1,2-dioxygenase
 C12D	1.13.11.1	catechol 1,2-dioxygenase
-8,30,33,38,39,40,41,42,43,44,45,46,47,48,50,51,52,53,54,55,56,57,58,59	1.13.11.1	catechol 1,2-dioxygenase
+catechol 1,2-dioxygenase	1.13.11.1	catechol 1,2-dioxygenase
 7,8-dihydroxykynurenate 8,8alpha-dioxygenase	1.13.11.10	7,8-dihydroxykynurenate 8,8a-dioxygenase
 7,8-dihydroxykynurenate oxygenase	1.13.11.10	7,8-dihydroxykynurenate 8,8a-dioxygenase
 EC 1.13.1.10	1.13.11.10	7,8-dihydroxykynurenate 8,8a-dioxygenase
@@ -53,7 +54,7 @@ TDO2	1.13.11.11	tryptophan 2,3-dioxygenase
 Vermilion protein	1.13.11.11	tryptophan 2,3-dioxygenase
 CG5163	1.13.11.11	tryptophan 2,3-dioxygenase
 INDO	1.13.11.11	tryptophan 2,3-dioxygenase
-tryptophan 2,3-dioxygenase	1.13.11.11	tryptophan 2,3-dioxygenase
+three splicingvariants	1.13.11.11	tryptophan 2,3-dioxygenase
 indoleamine 2,3-dioxygenase-like protein	1.13.11.11	tryptophan 2,3-dioxygenase
 indoleamine 2,3-dioxygenase-2	1.13.11.11	tryptophan 2,3-dioxygenase
 proto-indoleamine 2,3-dioxygenase	1.13.11.11	tryptophan 2,3-dioxygenase
@@ -102,6 +103,7 @@ SBLO-1	1.13.11.12	linoleate 13S-lipoxygenase
 13-LOX	1.13.11.12	linoleate 13S-lipoxygenase
 liipoxygenase	1.13.11.12	linoleate 13S-lipoxygenase
 iron 13S-lipoxygenase	1.13.11.12	linoleate 13S-lipoxygenase
+(13S)-lipoxygenase	1.13.11.12	linoleate 13S-lipoxygenase
 o-pyrocatechuate oxygenase	1.13.11.14	2,3-dihydroxybenzoate 3,4-dioxygenase
 oxygenase, 2,3-dihydroxybenzoate 3,4-di-	1.13.11.14	2,3-dihydroxybenzoate 3,4-dioxygenase
 2,3-dihydroxybenzoate 1,2-dioxygenase	1.13.11.14	2,3-dihydroxybenzoate 3,4-dioxygenase
@@ -111,13 +113,13 @@ oxygenase, homoprotocatechuate 2,3-di-	1.13.11.15	3,4-dihydroxyphenylacetate 2,3
 3,4-dihydroxyphenylacetic acid 2,3-dioxygenase	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
 HPC dioxygenase	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
 HPADO	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
-Mn	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
-Mn-MndD	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
-Fe-MndD	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
-homoprotocatechuate 2,3-dioxygenase	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+Mn(II)-dependent 3,4-dihydroxyphenylacetate 2,3-dioxygenase	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+Mn(II) incorporated	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+Fe incorporated	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+involved inbiodegradation of catechol	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
 HPCD	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
-Fe-HPCD	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
-Mn-HPCD	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+Fe(II) incorporated	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
+Mn(II) incorporated	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
 MnHPCD	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
 2,3-HPCD	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
 FeHPCD	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
@@ -127,7 +129,7 @@ HPCA 2,3-dioxygenase	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
 Bf 2,3-HPCD	1.13.11.15	3,4-dihydroxyphenylacetate 2,3-dioxygenase
 2,3-dihydroxy-beta-phenylpropionic dioxygenase	1.13.11.16	3-carboxyethylcatechol 2,3-dioxygenase
 2,3-dihydroxy-beta-phenylpropionate oxygenase	1.13.11.16	3-carboxyethylcatechol 2,3-dioxygenase
-3-	1.13.11.16	3-carboxyethylcatechol 2,3-dioxygenase
+3-(2,3-dihydroxyphenyl)propanoate:oxygen 1,2-oxidoreductase	1.13.11.16	3-carboxyethylcatechol 2,3-dioxygenase
 2,3-dihydroxy-beta-phenylpropionate 1,2-oxygenase	1.13.11.16	3-carboxyethylcatechol 2,3-dioxygenase
 indoleamine 2,3-dioxygenase	1.13.11.17	indole 2,3-dioxygenase
 IDO	1.13.11.17	indole 2,3-dioxygenase
@@ -140,7 +142,7 @@ SDO	1.13.11.18	persulfide dioxygenase
 SOR	1.13.11.18	persulfide dioxygenase
 sulfur oxygenase/reductase	1.13.11.18	persulfide dioxygenase
 sulfur dioxygenase	1.13.11.18	persulfide dioxygenase
-ETHE1	1.13.11.18	persulfide dioxygenase
+gene name	1.13.11.18	persulfide dioxygenase
 oxygenase, cysteamine di-	1.13.11.19	cysteamine dioxygenase
 persulfurase	1.13.11.19	cysteamine dioxygenase
 cysteamine oxygenase	1.13.11.19	cysteamine dioxygenase
@@ -166,18 +168,19 @@ tbuE	1.13.11.2	catechol 2,3-dioxygenase
 extradiol dioxygenase MhpB	1.13.11.2	catechol 2,3-dioxygenase
 ECDO	1.13.11.2	catechol 2,3-dioxygenase
 Extradiol-cleaving catecholic dioxygenase	1.13.11.2	catechol 2,3-dioxygenase
-PheB	1.13.11.2	catechol 2,3-dioxygenase
-XylE	1.13.11.2	catechol 2,3-dioxygenase
+one of the XylE-group enzyms	1.13.11.2	catechol 2,3-dioxygenase
+one extradiol-cleaving catecholic dioxygenases group	1.13.11.2	catechol 2,3-dioxygenase
 SsoC2,3O	1.13.11.2	catechol 2,3-dioxygenase
-SSO1223	1.13.11.2	catechol 2,3-dioxygenase
+locus name	1.13.11.2	catechol 2,3-dioxygenase
 CbzE	1.13.11.2	catechol 2,3-dioxygenase
 TdnC	1.13.11.2	catechol 2,3-dioxygenase
 A23O	1.13.11.2	catechol 2,3-dioxygenase
 BupB	1.13.11.2	catechol 2,3-dioxygenase
-Saci_2295	1.13.11.2	catechol 2,3-dioxygenase
-ssol_2912	1.13.11.2	catechol 2,3-dioxygenase
+locus name	1.13.11.2	catechol 2,3-dioxygenase
+gene name	1.13.11.2	catechol 2,3-dioxygenase
 CD-2,3	1.13.11.2	catechol 2,3-dioxygenase
 catechol-2,3-dioxygenase	1.13.11.2	catechol 2,3-dioxygenase
+C23o	1.13.11.2	catechol 2,3-dioxygenase
 metapyrocatechase	1.13.11.2	catechol 2,3-dioxygenase
 TodE	1.13.11.2	catechol 2,3-dioxygenase
 catechol 2,3-dioxygenase	1.13.11.2	catechol 2,3-dioxygenase
@@ -186,10 +189,10 @@ C2,3O	1.13.11.2	catechol 2,3-dioxygenase
 oxygenase, cysteine di-	1.13.11.20	cysteine dioxygenase
 cysteine oxidase	1.13.11.20	cysteine dioxygenase
 CDO	1.13.11.20	cysteine dioxygenase
-3-mercaptopropionate dioxygenase	1.13.11.20	cysteine dioxygenase
+cysteine dioxygenasehomologue	1.13.11.20	cysteine dioxygenase
 CDO2	1.13.11.20	cysteine dioxygenase
 CDO1	1.13.11.20	cysteine dioxygenase
-Fe	1.13.11.20	cysteine dioxygenase
+Fe(II) cysteine dioxygenase	1.13.11.20	cysteine dioxygenase
 cysteine dioxygenase	1.13.11.20	cysteine dioxygenase
 flavonol 2,4-oxygenase	1.13.11.24	quercetin 2,3-dioxygenase
 QDO	1.13.11.24	quercetin 2,3-dioxygenase
@@ -241,7 +244,7 @@ p-hydroxyphenylpyruvate dioxygenase	1.13.11.27	4-hydroxyphenylpyruvate dioxygena
 YS103B	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
 4-hydroxyphenylpyruvare dioxygenase	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
 Pt_Hpd	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
-PTO1369	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
+locus name	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
 hpdA	1.13.11.27	4-hydroxyphenylpyruvate dioxygenase
 2,3-dihydroxybenzoate 2,3-oxygenase	1.13.11.28	2,3-dihydroxybenzoate 2,3-dioxygenase
 EC 1.13.1.3	1.13.11.3	protocatechuate 3,4-dioxygenase
@@ -262,7 +265,7 @@ protocatechuate 3,4-dioxygenase	1.13.11.3	protocatechuate 3,4-dioxygenase
 3,4-PCD	1.13.11.3	protocatechuate 3,4-dioxygenase
 PCA 3,4-dioxygenase	1.13.11.3	protocatechuate 3,4-dioxygenase
 PcaHG	1.13.11.3	protocatechuate 3,4-dioxygenase
-More	1.13.11.3	protocatechuate 3,4-dioxygenase
+Experiments with mutants where the pcaG genes containvariations in repeat sequences capable of producing a selectablephenotype following a specific deletion give following results: As alower limit a sequence repition of 8 bp or greater in length isrequired for deletion frequencies to rise significantly above 1.5 x10-8. Deletions occurr with a frequency of 7.2 x 10-8 in strainscontaining repetitions of 12 bp in length separated by 30 bp	1.13.11.3	protocatechuate 3,4-dioxygenase
 oygenase, arachidonate 12-lip-	1.13.11.31	arachidonate 12-lipoxygenase
 DELTA 12-lipoxygenase	1.13.11.31	arachidonate 12-lipoxygenase
 12DELTA-lipoxygenase	1.13.11.31	arachidonate 12-lipoxygenase
@@ -272,7 +275,7 @@ LTA4 synthase	1.13.11.31	arachidonate 12-lipoxygenase
 Platelet-type lipoxygenase 12	1.13.11.31	arachidonate 12-lipoxygenase
 leukocyte-type lipoxygenase	1.13.11.31	arachidonate 12-lipoxygenase
 epidermal-type lipoxygenase	1.13.11.31	arachidonate 12-lipoxygenase
-12	1.13.11.31	arachidonate 12-lipoxygenase
+12(R)-lipoxygenase	1.13.11.31	arachidonate 12-lipoxygenase
 leukocyte-type 12-lipoxygenase	1.13.11.31	arachidonate 12-lipoxygenase
 platelet-type 12-LOX	1.13.11.31	arachidonate 12-lipoxygenase
 leukocyte-type 12-LOX	1.13.11.31	arachidonate 12-lipoxygenase
@@ -301,8 +304,8 @@ Alox12b	1.13.11.31	arachidonate 12-lipoxygenase
 12R-LOX	1.13.11.31	arachidonate 12-lipoxygenase
 12S-lipoxygenase	1.13.11.31	arachidonate 12-lipoxygenase
 12-hLO	1.13.11.31	arachidonate 12-lipoxygenase
-12	1.13.11.31	arachidonate 12-lipoxygenase
-platelet-type 12	1.13.11.31	arachidonate 12-lipoxygenase
+12(S)-lipoxygenase	1.13.11.31	arachidonate 12-lipoxygenase
+platelet-type 12(S)-lipoxygenase	1.13.11.31	arachidonate 12-lipoxygenase
 12R-LOX-2	1.13.11.31	arachidonate 12-lipoxygenase
 p12-LO	1.13.11.31	arachidonate 12-lipoxygenase
 LOX-12	1.13.11.31	arachidonate 12-lipoxygenase
@@ -310,6 +313,8 @@ lipoxygenase 12	1.13.11.31	arachidonate 12-lipoxygenase
 ALOX12	1.13.11.31	arachidonate 12-lipoxygenase
 ALOX15B	1.13.11.31	arachidonate 12-lipoxygenase
 LOX	1.13.11.31	arachidonate 12-lipoxygenase
+(12R)-lipoxygenase	1.13.11.31	arachidonate 12-lipoxygenase
+(12R)-LOX	1.13.11.31	arachidonate 12-lipoxygenase
 12/15-lipoxygenases	1.13.11.31	arachidonate 12-lipoxygenase
 nitronate monooxygenase	1.13.11.32	2-nitropropane dioxygenase
 NMO	1.13.11.32	2-nitropropane dioxygenase
@@ -344,7 +349,7 @@ human prostate epithelial 15-lipoxygenase-2	1.13.11.33	arachidonate 15-lipoxygen
 15-lipoxygenase type-1	1.13.11.33	arachidonate 15-lipoxygenase
 reticulocyte-type of 15-LOX-1	1.13.11.33	arachidonate 15-lipoxygenase
 15LO1	1.13.11.33	arachidonate 15-lipoxygenase
-15	1.13.11.33	arachidonate 15-lipoxygenase
+15(S)-lipoxygenase-1	1.13.11.33	arachidonate 15-lipoxygenase
 15-hLO-2	1.13.11.33	arachidonate 15-lipoxygenase
 ALOX15B	1.13.11.33	arachidonate 15-lipoxygenase
 15-LOX-2	1.13.11.33	arachidonate 15-lipoxygenase
@@ -353,7 +358,7 @@ ALOX15B	1.13.11.33	arachidonate 15-lipoxygenase
 15-LOX-1	1.13.11.33	arachidonate 15-lipoxygenase
 15-lipoxygenase 1	1.13.11.33	arachidonate 15-lipoxygenase
 15-LO	1.13.11.33	arachidonate 15-lipoxygenase
-More	1.13.11.33	arachidonate 15-lipoxygenase
+cf. EC 1.13.11.12	1.13.11.33	arachidonate 15-lipoxygenase
 LOX2	1.13.11.33	arachidonate 15-lipoxygenase
 reticulocyte 15-lipoxygenase-1	1.13.11.33	arachidonate 15-lipoxygenase
 15-lipoxygenase-I	1.13.11.33	arachidonate 15-lipoxygenase
@@ -406,12 +411,12 @@ oxygenase, hydroxyquinol 1,2-di-	1.13.11.37	hydroxyquinol 1,2-dioxygenase
 oxygenase, hydroxyquinol di-	1.13.11.37	hydroxyquinol 1,2-dioxygenase
 PnpG	1.13.11.37	hydroxyquinol 1,2-dioxygenase
 hydroxyquinol-1,2-dioxygenase	1.13.11.37	hydroxyquinol 1,2-dioxygenase
-PnpC	1.13.11.37	hydroxyquinol 1,2-dioxygenase
-PdcC	1.13.11.37	hydroxyquinol 1,2-dioxygenase
+gene name	1.13.11.37	hydroxyquinol 1,2-dioxygenase
+gene name	1.13.11.37	hydroxyquinol 1,2-dioxygenase
 hydroxyquinol 1,2-dioxygenase	1.13.11.37	hydroxyquinol 1,2-dioxygenase
 1,2-HQD	1.13.11.37	hydroxyquinol 1,2-dioxygenase
 cphA-2	1.13.11.37	hydroxyquinol 1,2-dioxygenase
-More	1.13.11.37	hydroxyquinol 1,2-dioxygenase
+cphA-1 encode hydroxyquinol 1,2-dioxygenases. Theamino acid sequence of CphA-2 is 78.4% identical to that of CphA-1.	1.13.11.37	hydroxyquinol 1,2-dioxygenase
 cphA-1	1.13.11.37	hydroxyquinol 1,2-dioxygenase
 cphA-I	1.13.11.37	hydroxyquinol 1,2-dioxygenase
 NpcC	1.13.11.37	hydroxyquinol 1,2-dioxygenase
@@ -421,11 +426,11 @@ oxygenase, 1-hydroxy-2-naphthoate di-	1.13.11.38	1-hydroxy-2-naphthoate 1,2-diox
 1-hydroxy-2-naphthoic acid dioxygenase	1.13.11.38	1-hydroxy-2-naphthoate 1,2-dioxygenase
 1-hydroxy-2-naphthoate 1,2-dioxygenase	1.13.11.38	1-hydroxy-2-naphthoate 1,2-dioxygenase
 1H2NDO	1.13.11.38	1-hydroxy-2-naphthoate 1,2-dioxygenase
-Diox1	1.13.11.38	1-hydroxy-2-naphthoate 1,2-dioxygenase
+gene name	1.13.11.38	1-hydroxy-2-naphthoate 1,2-dioxygenase
 1-H2NA dioxygenase	1.13.11.38	1-hydroxy-2-naphthoate 1,2-dioxygenase
 1-hydroxy-2-naphthoate dioxygenase	1.13.11.38	1-hydroxy-2-naphthoate 1,2-dioxygenase
 Sphe3 1-H2NA dioxygenase	1.13.11.38	1-hydroxy-2-naphthoate 1,2-dioxygenase
-Diox2	1.13.11.38	1-hydroxy-2-naphthoate 1,2-dioxygenase
+gene name	1.13.11.38	1-hydroxy-2-naphthoate 1,2-dioxygenase
 biphenyl-2,3-diol dioxygenase	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 RrbphCI	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 2,3-dihydroxybiphenyl-1,2-dioxygenase	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
@@ -436,11 +441,11 @@ DHB12O	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 BphC1-BN6	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 BphC2-BN6	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 2,3-diOH-biphenyl 1,2-dioxygenase	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
-BphC1	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
-BphC2	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
+gene name	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
+gene name	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 DHBD	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 3-phenylcatechol dioxygenase	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
-EtbC	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
+strain RDC1, bphC gene mutant	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 BphC_JF8	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 2,3-dihydroxybiphenyl dioxygenase	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 2'-aminobiphenyl-2,3-diol 1,2-dioxygenase	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
@@ -448,7 +453,7 @@ CarBaBb	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 2,3-dihydroxybiphenyl 1,2-dioxygenases	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 2,3-DHBD	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 2,3-dihydroxybiphenyl 1,2-dioxygenase	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
-BphC	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
+gene name	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 BphCLA-4	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 BphC_LA-4	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 2,3DHBD	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
@@ -457,8 +462,8 @@ C23o	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 23 OHBP oxygnase	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 2-aminobiphenyl-2,3-diol-1,2-dioxygenase	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 CarB	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
-BphC3	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
-manganese	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
+gene name	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
+manganese(II)-dependent 2,3-dihydroxybiphenyl 1,2-dioxygenase	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 BPDO	1.13.11.39	biphenyl-2,3-diol 1,2-dioxygenase
 gentisate oxygenase	1.13.11.4	gentisate 1,2-dioxygenase
 2,5-dihydroxybenzoate dioxygenase	1.13.11.4	gentisate 1,2-dioxygenase
@@ -470,9 +475,9 @@ gdoA	1.13.11.4	gentisate 1,2-dioxygenase
 eGDO	1.13.11.4	gentisate 1,2-dioxygenase
 GDOsp	1.13.11.4	gentisate 1,2-dioxygenase
 gtdA-2	1.13.11.4	gentisate 1,2-dioxygenase
-Nagl1	1.13.11.4	gentisate 1,2-dioxygenase
-Nagl2	1.13.11.4	gentisate 1,2-dioxygenase
-Nagl3	1.13.11.4	gentisate 1,2-dioxygenase
+gene name	1.13.11.4	gentisate 1,2-dioxygenase
+gene name	1.13.11.4	gentisate 1,2-dioxygenase
+gene name	1.13.11.4	gentisate 1,2-dioxygenase
 SDO	1.13.11.4	gentisate 1,2-dioxygenase
 salicylate 1,2-dioxygenase	1.13.11.4	gentisate 1,2-dioxygenase
 NarI	1.13.11.4	gentisate 1,2-dioxygenase
@@ -483,8 +488,8 @@ P35X gentisate 1,2-dioxygenase	1.13.11.4	gentisate 1,2-dioxygenase
 P25X gentisate 1,2-dioxygenase	1.13.11.4	gentisate 1,2-dioxygenase
 GDO-II	1.13.11.4	gentisate 1,2-dioxygenase
 hbzE	1.13.11.4	gentisate 1,2-dioxygenase
-8	1.13.11.40	arachidonate 8-lipoxygenase
-More	1.13.11.40	arachidonate 8-lipoxygenase
+8(R)-lipoxygenase	1.13.11.40	arachidonate 8-lipoxygenase
+the enzyme belongs to the LOX family	1.13.11.40	arachidonate 8-lipoxygenase
 8-lipoxygenase	1.13.11.40	arachidonate 8-lipoxygenase
 8-LOX	1.13.11.40	arachidonate 8-lipoxygenase
 8S-lipoxygenase	1.13.11.40	arachidonate 8-lipoxygenase
@@ -492,6 +497,7 @@ More	1.13.11.40	arachidonate 8-lipoxygenase
 8R-lipoxygenase	1.13.11.40	arachidonate 8-lipoxygenase
 8R-LOX	1.13.11.40	arachidonate 8-lipoxygenase
 arachidonic acid C-8 lipoxygenase	1.13.11.40	arachidonate 8-lipoxygenase
+(4-hydroxybenzoyl)methanol oxygenase	1.13.11.41	2,4'-dihydroxyacetophenone dioxygenase
 DAD	1.13.11.41	2,4'-dihydroxyacetophenone dioxygenase
 DHAP dioxygenase	1.13.11.41	2,4'-dihydroxyacetophenone dioxygenase
 lignostilbenedioxygenase II	1.13.11.43	lignostilbene alphabeta-dioxygenase
@@ -504,11 +510,13 @@ Mn-LOX	1.13.11.45	linoleate 11-lipoxygenase
 13 R -MnLOX	1.13.11.45	linoleate 11-lipoxygenase
 Mn-LO	1.13.11.45	linoleate 11-lipoxygenase
 4-hydroxyphenylpyruvate dioxygenase II	1.13.11.46	4-hydroxymandelate synthase
-4-	1.13.11.46	4-hydroxymandelate synthase
+4-(S) hydroxymandelate synthase	1.13.11.46	4-hydroxymandelate synthase
+(S)-hydroxymandelate synthase	1.13.11.46	4-hydroxymandelate synthase
 HMS	1.13.11.46	4-hydroxymandelate synthase
 hydroxymandelate synthase	1.13.11.46	4-hydroxymandelate synthase
+(1H)-3-Hydroxy-4-oxoquinoline 2,4-dioxygenase	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 3-Hydroxy-4-oxo-1,4-dihydroquinoline 2,4-dioxygenase	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
-3-Hydroxy-4	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
+3-Hydroxy-4(1H)-one, 2,4-dioxygenase	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 Quinoline-3,4-diol 2,4-dioxygenase	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 Oxygenase, 1H-3-hydroxy-4-oxoquinoline 2,4-di	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 1H-3-Hydroxy-4-oxo-quinoline oxygenase	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
@@ -518,23 +526,23 @@ MeQDO	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 EC 1.13.99.5	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 EC 1.12.99.5	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 3,4-dihydroxyquinoline 2,4-dioxygenase	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
-quinoline-3,4-diol 2,4-dioxygenase	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
+quinoline-3,4-diol 2,4-dioxygenase (carbon monoxide-forming)	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 1H-3-Hydroxy-4-oxoquinoline 2,4-dioxygenase	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 QDO	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 1-H-3-hydroxy-4-oxoquinoline 2,4-dioxygenase	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
-More	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
+the dioxygenase belongs to the alpha/beta-hydrolasefold superfamily. Members of this family typically catalyze hydrolyticprocesses rather than oxygenation reactions, but the enzymes crystalstructure shows a typical alpha/beta fold	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 HOD	1.13.11.47	3-hydroxy-4-oxoquinoline 2,4-dioxygenase
 3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase	1.13.11.48	3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase
 1H-3-hydroxy-4-oxoquinaldine oxygenase	1.13.11.48	3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase
 1H-3-Hydroxy-4-oxoquinaldine 2,4-dioxygenase	1.13.11.48	3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase
 HodC	1.13.11.48	3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase
-More	1.13.11.48	3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase
+HOD belongs to the alpha/beta-hydrolase-foldsuperfamily of enzymes	1.13.11.48	3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase
 HOD	1.13.11.48	3-hydroxy-2-methylquinolin-4-one 2,4-dioxygenase
 dimutase, chlorite	1.13.11.49	chlorite O2-lyase
-HemQ	1.13.11.49	chlorite O2-lyase
-chlorite dismutase	1.13.11.49	chlorite O2-lyase
+gene name	1.13.11.49	chlorite O2-lyase
+involved inchlorate metabolism	1.13.11.49	chlorite O2-lyase
 PitA	1.13.11.49	chlorite O2-lyase
-Pfam chlorite dismutase	1.13.11.49	chlorite O2-lyase
+N-terminus of PitA	1.13.11.49	chlorite O2-lyase
 CLD	1.13.11.49	chlorite O2-lyase
 homogentisicase	1.13.11.5	homogentisate 1,2-dioxygenase
 homogentisate oxygenase	1.13.11.5	homogentisate 1,2-dioxygenase
@@ -548,7 +556,7 @@ EC 1.99.2.5	1.13.11.5	homogentisate 1,2-dioxygenase
 HmgA	1.13.11.5	homogentisate 1,2-dioxygenase
 ElHDO	1.13.11.5	homogentisate 1,2-dioxygenase
 HPT	1.13.11.5	homogentisate 1,2-dioxygenase
-homogentisate phytyl-transferase	1.13.11.5	homogentisate 1,2-dioxygenase
+involved in isoprenoidbiosynthetic pathway	1.13.11.5	homogentisate 1,2-dioxygenase
 HGOb	1.13.11.5	homogentisate 1,2-dioxygenase
 HGOa	1.13.11.5	homogentisate 1,2-dioxygenase
 homogentisate 1,2 dioxygenase	1.13.11.5	homogentisate 1,2-dioxygenase
@@ -576,12 +584,12 @@ nine-cis-epoxy dioxygenase	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 NSC2	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 NSC3	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 NSC1	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
-VvNCED1	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
-9-cis-epoxcarotenoid dioxygenase	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
+two genes encoding NCED: VvNCED1 and VvNCED2	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
+key enzyme in abscisic acid biosynthesis and infruit ripening	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 nine-cis-epoxycarotenoid dioxygenase	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 VP14 protein	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 VP14 epoxy-carotenoid dioxygenase	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
-2,3,4,6,10,11,12,13,14,15,16,17,18,19,20,24,26,27,31,32,33,34,35,45,46	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
+involved in abscisic acid biosynthesis	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 AtNCED3	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 CitNCED2	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 NCED2	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
@@ -599,12 +607,12 @@ CCD7	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 CCD8	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 NCED3	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 9-cis-epoxycarotenoid dioxygenase 6	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
-NCED6	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
+gene name	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 9-cis epoxycarotenoid dioxygenase	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 carotenoid cleavage dioxygenase 1	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 CCD1	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
-9-cis-epoxycarotenoid dioxygenase	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
-9-cis-epoxycarotenoid dioxygenase 3	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
+involved in abscisic acid biosynthesis	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
+involved in abscisicacid biosynthesis	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 NCED9	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 LsNCED1	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 LsNCED2	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
@@ -615,7 +623,7 @@ PpNCED1	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 PpNCED2	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 CMNCED1	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 9-cis-epoxycarotenoid dioxygenase1	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
-NCED1	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
+gene name	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 DKNCED1	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 carotenoid cleavage dioxygenase	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
 Nostoc carotenoid cleavage dioxygenase	1.13.11.51	9-cis-epoxycarotenoid dioxygenase
@@ -636,11 +644,11 @@ indoleamine 2,3-dioxygenase-1	1.13.11.52	indoleamine 2,3-dioxygenase
 indoleamine 2,3-dioxygenase-2	1.13.11.52	indoleamine 2,3-dioxygenase
 indoleamine 2,3 dioxygenase	1.13.11.52	indoleamine 2,3-dioxygenase
 indoleamine 2,3-dioxygenase	1.13.11.52	indoleamine 2,3-dioxygenase
-IDO1	1.13.11.52	indoleamine 2,3-dioxygenase
+isozyme	1.13.11.52	indoleamine 2,3-dioxygenase
 indoleamine 2,3-dioxygenase 1	1.13.11.52	indoleamine 2,3-dioxygenase
 INDOL1	1.13.11.52	indoleamine 2,3-dioxygenase
 indoleamine 2,3-dioxygenase-like protein	1.13.11.52	indoleamine 2,3-dioxygenase
-IDO2	1.13.11.52	indoleamine 2,3-dioxygenase
+isozyme	1.13.11.52	indoleamine 2,3-dioxygenase
 indoleamine 2,3-dioxygenase 2	1.13.11.52	indoleamine 2,3-dioxygenase
 IDO	1.13.11.52	indoleamine 2,3-dioxygenase
 Indoleamine-pyrrole 2,3-dioxygenase	1.13.11.52	indoleamine 2,3-dioxygenase
@@ -652,13 +660,13 @@ IDO-1	1.13.11.52	indoleamine 2,3-dioxygenase
 indoleamine 2, 3-dioxygenase	1.13.11.52	indoleamine 2,3-dioxygenase
 tryptophan dioxygenase	1.13.11.52	indoleamine 2,3-dioxygenase
 aci-reductone dioxygenase	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
-membrane-type 1 matrix metalloproteinase cytoplasmic tail binding	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
+MTCBP-1	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
 human aci-reductone dioxygenase 1	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
 ADI1	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
-2-hydroxy-3-keto-5-thiomethylpent-1-ene dioxygenase	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
-acidoreductone dioxygenase	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
+ambiguous	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
+ambiguous	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
 ARD	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
-Ni	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
+Ni(II)-ARD	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
 acireductone dioxygenase	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
 ARD1	1.13.11.53	acireductone dioxygenase (Ni2+-requiring)
 MTCBP-1	1.13.11.54	acireductone dioxygenase [iron(II)-requiring]
@@ -704,7 +712,7 @@ ZmLOX3	1.13.11.58	linoleate 9S-lipoxygenase
 9-LO	1.13.11.58	linoleate 9S-lipoxygenase
 9-LOX	1.13.11.58	linoleate 9S-lipoxygenase
 LOX	1.13.11.58	linoleate 9S-lipoxygenase
-Nb-9-LOX	1.13.11.58	linoleate 9S-lipoxygenase
+gene name	1.13.11.58	linoleate 9S-lipoxygenase
 Cao2	1.13.11.59	torulene dioxygenase
 Cao-2	1.13.11.59	torulene dioxygenase
 CarT	1.13.11.59	torulene dioxygenase
@@ -720,25 +728,27 @@ EC 1.13.1.6	1.13.11.6	3-hydroxyanthranilate 3,4-dioxygenase
 3-hydroxyanthranilate 3,4-dioxygenase	1.13.11.6	3-hydroxyanthranilate 3,4-dioxygenase
 HAD	1.13.11.6	3-hydroxyanthranilate 3,4-dioxygenase
 5,8-linoleate diol synthases	1.13.11.60	linoleate 8R-lipoxygenase
-5,8-LDS	1.13.11.60	linoleate 8R-lipoxygenase
+bifunctional enzyme	1.13.11.60	linoleate 8R-lipoxygenase
 PpoA	1.13.11.60	linoleate 8R-lipoxygenase
 8R-dioxygenase	1.13.11.60	linoleate 8R-lipoxygenase
 8-DOX	1.13.11.60	linoleate 8R-lipoxygenase
-5,8-linoleate diol synthase	1.13.11.60	linoleate 8R-lipoxygenase
+bifunktional enzyme	1.13.11.60	linoleate 8R-lipoxygenase
 linoleic acid 8R-dioxygenase	1.13.11.60	linoleate 8R-lipoxygenase
-7,8-LDS	1.13.11.60	linoleate 8R-lipoxygenase
-7,8-linoleate diol synthase	1.13.11.60	linoleate 8R-lipoxygenase
+bifunctional enzyme	1.13.11.60	linoleate 8R-lipoxygenase
+bifunctional enzyme	1.13.11.60	linoleate 8R-lipoxygenase
 8R-DOX	1.13.11.60	linoleate 8R-lipoxygenase
-8	1.13.11.60	linoleate 8R-lipoxygenase
+8(R)-dioxygenase	1.13.11.60	linoleate 8R-lipoxygenase
 linoleate 9R-dioxygenase	1.13.11.61	linolenate 9R-lipoxygenase
-NspLOX	1.13.11.61	linolenate 9R-lipoxygenase
+NspLOX C-terminal portion exhibits activity as ainoleate 9R-lipoxygenase	1.13.11.61	linolenate 9R-lipoxygenase
+(9R)-LOX	1.13.11.61	linolenate 9R-lipoxygenase
 9R-lipoxygenase	1.13.11.61	linolenate 9R-lipoxygenase
+(10R)-dioxygenase	1.13.11.62	linoleate 10R-lipoxygenase
 10R-DOX	1.13.11.62	linoleate 10R-lipoxygenase
 10R-dioxygenase	1.13.11.62	linoleate 10R-lipoxygenase
 PpoC	1.13.11.62	linoleate 10R-lipoxygenase
 beta,beta-carotene 15,15'-monooxygenase 1	1.13.11.63	beta-carotene 15,15'-dioxygenase
 beta,beta-carotene 15,15'-monooxygenase-1	1.13.11.63	beta-carotene 15,15'-dioxygenase
-Bcmo1	1.13.11.63	beta-carotene 15,15'-dioxygenase
+gene name	1.13.11.63	beta-carotene 15,15'-dioxygenase
 Ci-BCO	1.13.11.63	beta-carotene 15,15'-dioxygenase
 Bcox	1.13.11.63	beta-carotene 15,15'-dioxygenase
 beta-carotene dioxygenase 1	1.13.11.63	beta-carotene 15,15'-dioxygenase
@@ -752,7 +762,7 @@ beta-carotene 15,15-monooxygenase	1.13.11.63	beta-carotene 15,15'-dioxygenase
 beta-carotene 15,15'-oxygenase	1.13.11.63	beta-carotene 15,15'-dioxygenase
 beta-carotene 15,15'-monooxygenase 1	1.13.11.63	beta-carotene 15,15'-dioxygenase
 beta-carotene oxygenase 2	1.13.11.63	beta-carotene 15,15'-dioxygenase
-BCO2	1.13.11.63	beta-carotene 15,15'-dioxygenase
+gene name	1.13.11.63	beta-carotene 15,15'-dioxygenase
 BLH	1.13.11.63	beta-carotene 15,15'-dioxygenase
 beta,beta-carotene 15,15-monooxygenase 1	1.13.11.63	beta-carotene 15,15'-dioxygenase
 NinaB	1.13.11.63	beta-carotene 15,15'-dioxygenase
@@ -768,18 +778,18 @@ betaCO	1.13.11.63	beta-carotene 15,15'-dioxygenase
 beta,beta-carotene-15,15'-oxygenase	1.13.11.63	beta-carotene 15,15'-dioxygenase
 naaB	1.13.11.64	5-nitrosalicylate dioxygenase
 5NSA dioxygenase	1.13.11.64	5-nitrosalicylate dioxygenase
-NinaB	1.13.11.65	carotenoid isomerooxygenase
+gene name	1.13.11.65	carotenoid isomerooxygenase
 CCO	1.13.11.65	carotenoid isomerooxygenase
 carotenoid cleavage oxygenase	1.13.11.65	carotenoid isomerooxygenase
-Rv0654	1.13.11.65	carotenoid isomerooxygenase
+gene locus	1.13.11.65	carotenoid isomerooxygenase
 SIR-1	1.13.11.65	carotenoid isomerooxygenase
-ppsir_15490	1.13.11.65	carotenoid isomerooxygenase
-sala_1698	1.13.11.65	carotenoid isomerooxygenase
+gene name	1.13.11.65	carotenoid isomerooxygenase
+gene name	1.13.11.65	carotenoid isomerooxygenase
 hydroquinone dioxygenase	1.13.11.66	hydroquinone 1,2-dioxygenase
 PnpC1	1.13.11.66	hydroquinone 1,2-dioxygenase
 hydroquinone 1,2-dioxygenase	1.13.11.66	hydroquinone 1,2-dioxygenase
 PdcDE	1.13.11.66	hydroquinone 1,2-dioxygenase
-mnpC	1.13.11.66	hydroquinone 1,2-dioxygenase
+gen name	1.13.11.66	hydroquinone 1,2-dioxygenase
 LinE	1.13.11.66	hydroquinone 1,2-dioxygenase
 PcpA	1.13.11.66	hydroquinone 1,2-dioxygenase
 PnpC2	1.13.11.66	hydroquinone 1,2-dioxygenase
@@ -794,7 +804,7 @@ OsCCD7	1.13.11.68	9-cis-beta-carotene 9',10'-cleaving dioxygenase
 MAX3/CCD7	1.13.11.68	9-cis-beta-carotene 9',10'-cleaving dioxygenase
 CCD7	1.13.11.68	9-cis-beta-carotene 9',10'-cleaving dioxygenase
 NCED8	1.13.11.69	carlactone synthase
-MAX4	1.13.11.69	carlactone synthase
+gene name	1.13.11.69	carlactone synthase
 CCD8	1.13.11.69	carlactone synthase
 SlCCD8	1.13.11.69	carlactone synthase
 MORE AXILLARY BRANCHING 4	1.13.11.69	carlactone synthase
@@ -802,7 +812,7 @@ carotenoid cleavage dioxygenase	1.13.11.69	carlactone synthase
 NCED8	1.13.11.70	all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase
 Rms1	1.13.11.70	all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase
 CCD8	1.13.11.70	all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase
-MAX4	1.13.11.70	all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase
+gene name	1.13.11.70	all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase
 MORE AXILLARY BRANCHING 4	1.13.11.70	all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase
 carotenoid cleavage dioxygenase	1.13.11.70	all-trans-10'-apo-beta-carotenal 13,14-cleaving dioxygenase
 beta-carotene-9',10'-oxygenase	1.13.11.71	carotenoid-9',10'-cleaving dioxygenase
@@ -816,11 +826,11 @@ HEPD	1.13.11.72	2-hydroxyethylphosphonate dioxygenase
 phpD	1.13.11.72	2-hydroxyethylphosphonate dioxygenase
 PhdP	1.13.11.72	2-hydroxyethylphosphonate dioxygenase
 mpnS	1.13.11.73	methylphosphonate synthase
-amnBA	1.13.11.74	2-aminophenol 1,6-dioxygenase
-amnA	1.13.11.74	2-aminophenol 1,6-dioxygenase
-amnB	1.13.11.74	2-aminophenol 1,6-dioxygenase
+gene name	1.13.11.74	2-aminophenol 1,6-dioxygenase
+alpha-subunit	1.13.11.74	2-aminophenol 1,6-dioxygenase
+beta-subunit	1.13.11.74	2-aminophenol 1,6-dioxygenase
 APD	1.13.11.74	2-aminophenol 1,6-dioxygenase
-More	1.13.11.75	all-trans-8'-apo-beta-carotenal 15,15'-oxygenase
+ACO belongs to an outgroup of the CCO enzyme family	1.13.11.75	all-trans-8'-apo-beta-carotenal 15,15'-oxygenase
 apocarotenoid cleavage oxygenase	1.13.11.75	all-trans-8'-apo-beta-carotenal 15,15'-oxygenase
 apocarotenoid-15-15'-oxygenase	1.13.11.75	all-trans-8'-apo-beta-carotenal 15,15'-oxygenase
 ACO	1.13.11.75	all-trans-8'-apo-beta-carotenal 15,15'-oxygenase
@@ -833,8 +843,10 @@ cnbC	1.13.11.76	2-amino-5-chlorophenol 1,6-dioxygenase
 CnbcA	1.13.11.76	2-amino-5-chlorophenol 1,6-dioxygenase
 10S-DOX	1.13.11.77	oleate 10S-lipoxygenase
 10S-dioxygenase	1.13.11.77	oleate 10S-lipoxygenase
+(10S)-dioxygenase	1.13.11.77	oleate 10S-lipoxygenase
+(10S)-DOX	1.13.11.77	oleate 10S-lipoxygenase
 LOX	1.13.11.77	oleate 10S-lipoxygenase
-phnZ	1.13.11.78	2-amino-1-hydroxyethylphosphonate dioxygenase (glycine-forming)
+gene name	1.13.11.78	2-amino-1-hydroxyethylphosphonate dioxygenase (glycine-forming)
 BluB	1.13.11.79	5,6-dimethylbenzimidazole synthase
 DMB-synthase	1.13.11.79	5,6-dimethylbenzimidazole synthase
 protocatechuate 4,5-oxygenase	1.13.11.8	protocatechuate 4,5-dioxygenase
@@ -846,11 +858,11 @@ PCA 4,5-dioxygenase	1.13.11.8	protocatechuate 4,5-dioxygenase
 PmdAB	1.13.11.8	protocatechuate 4,5-dioxygenase
 PCD 4,5	1.13.11.8	protocatechuate 4,5-dioxygenase
 DpgC	1.13.11.80	(3,5-dihydroxyphenyl)acetyl-CoA 1,2-dioxygenase
-Y54F mutant of dihydroneopterin aldolase	1.13.11.81	7,8-dihydroneopterin oxygenase
+substitution of aconserved tyrosine residue at the active site of dihydroneopterinaldolase by phenylalanine converts the enzyme to a cofactor-independentoxygenase, which generates mainly 7,8-dihydroxanthopterin rather than6-hydroxymethyl-7,8-dihydropterin	1.13.11.81	7,8-dihydroneopterin oxygenase
 dihydroneopterin oxygenase	1.13.11.81	7,8-dihydroneopterin oxygenase
 DHNA	1.13.11.81	7,8-dihydroneopterin oxygenase
-Rv3607c	1.13.11.81	7,8-dihydroneopterin oxygenase
-Y53F mutant of dihydroneopterin aldolase	1.13.11.81	7,8-dihydroneopterin oxygenase
+gene name	1.13.11.81	7,8-dihydroneopterin oxygenase
+substitution of aconserved tyrosine residue at the active site of dihydroneopterinaldolase by phenylalanine converts the enzyme to a cofactor-independentoxygenase, which generates mainly 7,8-dihydroxanthopterin rather than6-hydroxymethyl-7,8-dihydropterin	1.13.11.81	7,8-dihydroneopterin oxygenase
 NACOX1	1.13.11.82	8'-apo-carotenoid 13,14-cleaving dioxygenase
 2,5-dihydroxypyridine oxygenase	1.13.11.9	2,5-dihydroxypyridine 5,6-dioxygenase
 oxygenase, 2,5-dihydroxypyridine 5,6-di-	1.13.11.9	2,5-dihydroxypyridine 5,6-dioxygenase
@@ -864,10 +876,10 @@ NicX	1.13.11.9	2,5-dihydroxypyridine 5,6-dioxygenase
 oxygenase, arginine 2-mono-	1.13.12.1	arginine 2-monooxygenase
 arginine monooxygenase	1.13.12.1	arginine 2-monooxygenase
 arginine decarboxylase	1.13.12.1	arginine 2-monooxygenase
-arginine oxygenase	1.13.12.1	arginine 2-monooxygenase
+arginine oxygenase (decarboxylating)	1.13.12.1	arginine 2-monooxygenase
 arginine decarboxy-oxidase	1.13.12.1	arginine 2-monooxygenase
 luciferase	1.13.12.13	Oplophorus-luciferin 2-monooxygenase
-nanoKAZ	1.13.12.13	Oplophorus-luciferin 2-monooxygenase
+mutated catalytic component of Oplophorus luciferase	1.13.12.13	Oplophorus-luciferin 2-monooxygenase
 19kOLase	1.13.12.13	Oplophorus-luciferin 2-monooxygenase
 Oplophorus luciferase	1.13.12.13	Oplophorus-luciferin 2-monooxygenase
 imidazopyrazinone-type luciferase	1.13.12.13	Oplophorus-luciferin 2-monooxygenase
@@ -895,9 +907,9 @@ Sa-NAO	1.13.12.16	nitronate monooxygenase
 P450 StaP	1.13.12.17	dichloroarcyriaflavin A synthase
 cytochrome P450 StaP	1.13.12.17	dichloroarcyriaflavin A synthase
 CYP245A1	1.13.12.17	dichloroarcyriaflavin A synthase
-StaP	1.13.12.17	dichloroarcyriaflavin A synthase
-D2-LCF	1.13.12.18	dinoflagellate luciferase
-D3-LCF	1.13.12.18	dinoflagellate luciferase
+gene name	1.13.12.17	dichloroarcyriaflavin A synthase
+second luciferase domain	1.13.12.18	dinoflagellate luciferase
+third luciferase domain	1.13.12.18	dinoflagellate luciferase
 LCF	1.13.12.18	dinoflagellate luciferase
 ethylene forming enzyme	1.13.12.19	2-oxoglutarate dioxygenase (ethylene-forming)
 EFE	1.13.12.19	2-oxoglutarate dioxygenase (ethylene-forming)
@@ -924,14 +936,14 @@ lactate monooxygenase	1.13.12.4	lactate 2-monooxygenase
 L-lactate-2-monooxygenase	1.13.12.4	lactate 2-monooxygenase
 EC 1.1.3.2	1.13.12.4	lactate 2-monooxygenase
 Renilla-type luciferase	1.13.12.5	Renilla-luciferin 2-monooxygenase
-luciferase	1.13.12.5	Renilla-luciferin 2-monooxygenase
+luciferase (Renilla luciferin)	1.13.12.5	Renilla-luciferin 2-monooxygenase
 Renilla luciferin 2-monooxygenase	1.13.12.5	Renilla-luciferin 2-monooxygenase
 Luc	1.13.12.5	Renilla-luciferin 2-monooxygenase
 Renilla reniformis luciferase	1.13.12.5	Renilla-luciferin 2-monooxygenase
 RLase	1.13.12.5	Renilla-luciferin 2-monooxygenase
-Renilla luciferase-547	1.13.12.5	Renilla-luciferin 2-monooxygenase
-RLase-547	1.13.12.5	Renilla-luciferin 2-monooxygenase
-m-Rluc8	1.13.12.5	Renilla-luciferin 2-monooxygenase
+red shift variant	1.13.12.5	Renilla-luciferin 2-monooxygenase
+red shift variant	1.13.12.5	Renilla-luciferin 2-monooxygenase
+mutant Renilla luciferase	1.13.12.5	Renilla-luciferin 2-monooxygenase
 luciferase	1.13.12.5	Renilla-luciferin 2-monooxygenase
 Renilla luciferase	1.13.12.5	Renilla-luciferin 2-monooxygenase
 RLuc	1.13.12.5	Renilla-luciferin 2-monooxygenase
@@ -949,62 +961,62 @@ Renilla muelleri luciferase	1.13.12.5	Renilla-luciferin 2-monooxygenase
 membrane-anchored RLUc	1.13.12.5	Renilla-luciferin 2-monooxygenase
 extRLuc	1.13.12.5	Renilla-luciferin 2-monooxygenase
 Renilla-luciferase	1.13.12.5	Renilla-luciferin 2-monooxygenase
-RLuc8	1.13.12.5	Renilla-luciferin 2-monooxygenase
+eight-point mutation variant of RLuc	1.13.12.5	Renilla-luciferin 2-monooxygenase
 short peptide-inserted-Renilla luciferase	1.13.12.5	Renilla-luciferin 2-monooxygenase
 PI-Rluc	1.13.12.5	Renilla-luciferin 2-monooxygenase
 fluc	1.13.12.5	Renilla-luciferin 2-monooxygenase
 aequorin-1	1.13.12.5	Renilla-luciferin 2-monooxygenase
 aequorin	1.13.12.5	Renilla-luciferin 2-monooxygenase
-blue fluorescent protein from the calcium-binding photoprotein	1.13.12.5	Renilla-luciferin 2-monooxygenase
-BFP-aq	1.13.12.5	Renilla-luciferin 2-monooxygenase
-GFP-aq	1.13.12.5	Renilla-luciferin 2-monooxygenase
+a complex of Ca2+-bound apoaequorin and coelenteramide	1.13.12.5	Renilla-luciferin 2-monooxygenase
+a complex of Ca2+-bound apoaequorin and coelenteramide	1.13.12.5	Renilla-luciferin 2-monooxygenase
+a non-covalent complex of apoaequorin withcoelenteramide (oxyluciferin) in a molar ratio of 1:1	1.13.12.5	Renilla-luciferin 2-monooxygenase
 clytin	1.13.12.5	Renilla-luciferin 2-monooxygenase
-luciferase	1.13.12.6	Cypridina-luciferin 2-monooxygenase
+luciferase (Cypridina luciferin)	1.13.12.6	Cypridina-luciferin 2-monooxygenase
 Cypridina-type luciferase	1.13.12.6	Cypridina-luciferin 2-monooxygenase
 Cypridina luciferin 2-monooxygenase	1.13.12.6	Cypridina-luciferin 2-monooxygenase
 Cypridina luciferase	1.13.12.6	Cypridina-luciferin 2-monooxygenase
 Cypridina noctiluca luciferase	1.13.12.6	Cypridina-luciferin 2-monooxygenase
 CLuc	1.13.12.6	Cypridina-luciferin 2-monooxygenase
-Fbp	1.13.12.6	Cypridina-luciferin 2-monooxygenase
-PGE2-luciferase	1.13.12.6	Cypridina-luciferin 2-monooxygenase
-FBP-IgG	1.13.12.6	Cypridina-luciferin 2-monooxygenase
+biotinylated Cypridina luciferase conjugated to far-redfluorescent indocyanine derivative	1.13.12.6	Cypridina-luciferin 2-monooxygenase
+recombinant luciferase conjugated withN-hydroxysuccinimidyl ester of prostaglandin E2	1.13.12.6	Cypridina-luciferin 2-monooxygenase
+conjugate of reduced monoclonal antibody to conjugatedenyzme FBP	1.13.12.6	Cypridina-luciferin 2-monooxygenase
 Vargula luciferase	1.13.12.6	Cypridina-luciferin 2-monooxygenase
-luciferase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
-Photinus luciferin 4-monooxygenase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
+luciferase (firefly luciferin)	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
+Photinus luciferin 4-monooxygenase (ATP-hydrolyzing)	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 firefly luciferin luciferase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 Photinus pyralis luciferase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 FFL	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 PpLase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 fluc	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
-luciferase FM	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
+mutant luciferase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 lucPpy	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 oxygen 4-oxidoreductase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 PC3-Luc	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
-Ppy	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
+recombinant firefly luciferase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 luciferase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 firefly luciferase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 luciferin	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 Luc	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
-Ppy RE-TS	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
-Ppy GR-TS	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
+red-emitting luciferase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
+green-emitting luciferase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 lucPpe	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 PML	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
-CBG99luc	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
-CBRluc	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
+red-emitting luciferase, commercial preparation	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
+green-emitting luciferase, commercial preparation	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 beetle luciferase	1.13.12.7	Photinus-luciferin 4-monooxygenase (ATP-hydrolysing)
 Watasenia-type luciferase	1.13.12.8	Watasenia-luciferin 2-monooxygenase
-alkanal monooxygenase	1.13.12.8	Watasenia-luciferin 2-monooxygenase
-luciferase	1.13.12.8	Watasenia-luciferin 2-monooxygenase
+alkanal monooxygenase (FMN-linked)	1.13.12.8	Watasenia-luciferin 2-monooxygenase
+luciferase (Photobacterium leiognathi)	1.13.12.8	Watasenia-luciferin 2-monooxygenase
 Photorhabdus luminescens luciferase	1.13.12.8	Watasenia-luciferin 2-monooxygenase
 Vibrio fischeri luuciferase	1.13.12.8	Watasenia-luciferin 2-monooxygenase
 bacterial luciferase	1.13.12.8	Watasenia-luciferin 2-monooxygenase
 LuxAB	1.13.12.8	Watasenia-luciferin 2-monooxygenase
 luciferase	1.13.12.8	Watasenia-luciferin 2-monooxygenase
-oxidase, phenylalanine	1.13.12.9	phenylalanine 2-monooxygenase
-proPAO	1.13.12.9	phenylalanine 2-monooxygenase
+oxidase, phenylalanine (deaminating, decarboxylating)	1.13.12.9	phenylalanine 2-monooxygenase
+noncatalytic proenzyme, activated by proteolyticcleavage	1.13.12.9	phenylalanine 2-monooxygenase
 L-phenylalanine oxidase	1.13.12.9	phenylalanine 2-monooxygenase
-PAOpt	1.13.12.9	phenylalanine 2-monooxygenase
-L-phenylalanine oxidase	1.13.12.9	phenylalanine 2-monooxygenase
+activated enzyme	1.13.12.9	phenylalanine 2-monooxygenase
+L-phenylalanine oxidase (deaminating and decarboxylating)	1.13.12.9	phenylalanine 2-monooxygenase
 L-Phe oxidase	1.13.12.9	phenylalanine 2-monooxygenase
 EC 1.13.1.11	1.13.99.1	inositol oxygenase
 EC 1.99.2.6	1.13.99.1	inositol oxygenase

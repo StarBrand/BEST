@@ -6,13 +6,13 @@ sulfurtransferase, thiosulfate	2.8.1.1	thiosulfate sulfurtransferase
 STR1	2.8.1.1	thiosulfate sulfurtransferase
 r-RhdA	2.8.1.1	thiosulfate sulfurtransferase
 CysA3	2.8.1.1	thiosulfate sulfurtransferase
-MtbCysA3	2.8.1.1	thiosulfate sulfurtransferase
+rhodanese-like thiosulfate sulfurtransferaseprotein	2.8.1.1	thiosulfate sulfurtransferase
 PspE	2.8.1.1	thiosulfate sulfurtransferase
 GlpE	2.8.1.1	thiosulfate sulfurtransferase
 Aq-477	2.8.1.1	thiosulfate sulfurtransferase
 thiosulfate cyanide sulfurtransferase	2.8.1.1	thiosulfate sulfurtransferase
 thiosulfate:cyanide transferase	2.8.1.1	thiosulfate sulfurtransferase
-Aq-1599	2.8.1.1	thiosulfate sulfurtransferase
+gene name	2.8.1.1	thiosulfate sulfurtransferase
 RhdB2	2.8.1.1	thiosulfate sulfurtransferase
 CST	2.8.1.1	thiosulfate sulfurtransferase
 CsoR-like sulfurtransferase repressor	2.8.1.1	thiosulfate sulfurtransferase
@@ -21,10 +21,10 @@ rhodanese	2.8.1.1	thiosulfate sulfurtransferase
 THI1	2.8.1.10	thiazole synthase
 thiamine thiazole synthase	2.8.1.10	thiazole synthase
 Thi4	2.8.1.10	thiazole synthase
-ThiG	2.8.1.10	thiazole synthase
+gene name	2.8.1.10	thiazole synthase
 IscS	2.8.1.11	molybdopterin synthase sulfurtransferase
 L-cysteine desulfurase	2.8.1.11	molybdopterin synthase sulfurtransferase
-MoeB	2.8.1.11	molybdopterin synthase sulfurtransferase
+gene name	2.8.1.11	molybdopterin synthase sulfurtransferase
 molybdopterin synthase sulfurylase	2.8.1.11	molybdopterin synthase sulfurtransferase
 molybdenum cofactor synthesis protein 3	2.8.1.11	molybdopterin synthase sulfurtransferase
 MOCS3	2.8.1.11	molybdopterin synthase sulfurtransferase
@@ -34,24 +34,24 @@ molybdopterin synthase sulfurase	2.8.1.11	molybdopterin synthase sulfurtransfera
 MOCS3 rhodanese-like domain	2.8.1.11	molybdopterin synthase sulfurtransferase
 molybdenum cofactor biosynthesis protein	2.8.1.11	molybdopterin synthase sulfurtransferase
 MPT synthase	2.8.1.12	molybdopterin synthase
-MoaX	2.8.1.12	molybdopterin synthase
+carrier subunit	2.8.1.12	molybdopterin synthase
 Rv3323c	2.8.1.12	molybdopterin synthase
-MoaD	2.8.1.12	molybdopterin synthase
-MoaE	2.8.1.12	molybdopterin synthase
+subunit	2.8.1.12	molybdopterin synthase
+catalytic subunit	2.8.1.12	molybdopterin synthase
 TTHA0341	2.8.1.12	molybdopterin synthase
 MoaB	2.8.1.12	molybdopterin synthase
-CnxG	2.8.1.12	molybdopterin synthase
-CnxH	2.8.1.12	molybdopterin synthase
+small subunit, gene name	2.8.1.12	molybdopterin synthase
+large ubunit, gene name	2.8.1.12	molybdopterin synthase
 MnmA	2.8.1.13	tRNA-uridine 2-sulfurtransferase
 TRMU	2.8.1.14	tRNA-5-taurinomethyluridine 2-sulfurtransferase
 MTU1	2.8.1.14	tRNA-5-taurinomethyluridine 2-sulfurtransferase
 MTO2	2.8.1.14	tRNA-5-taurinomethyluridine 2-sulfurtransferase
 SLM3	2.8.1.14	tRNA-5-taurinomethyluridine 2-sulfurtransferase
-TT_C0106	2.8.1.15	tRNA-5-methyluridine54 2-sulfurtransferase
+gene name	2.8.1.15	tRNA-5-methyluridine54 2-sulfurtransferase
 Veg136 protein	2.8.1.15	tRNA-5-methyluridine54 2-sulfurtransferase
-TTC0106	2.8.1.15	tRNA-5-methyluridine54 2-sulfurtransferase
-TtuA	2.8.1.15	tRNA-5-methyluridine54 2-sulfurtransferase
-PH0300	2.8.1.15	tRNA-5-methyluridine54 2-sulfurtransferase
+gene name	2.8.1.15	tRNA-5-methyluridine54 2-sulfurtransferase
+gene name	2.8.1.15	tRNA-5-methyluridine54 2-sulfurtransferase
+gene name	2.8.1.15	tRNA-5-methyluridine54 2-sulfurtransferase
 sulfurtransferase, 3-mercaptopyruvate	2.8.1.2	3-mercaptopyruvate sulfurtransferase
 beta-mercaptopyruvate sulfurtransferase	2.8.1.2	3-mercaptopyruvate sulfurtransferase
 beta-mercaptopyruvate trans-sulfurase	2.8.1.2	3-mercaptopyruvate sulfurtransferase
@@ -64,7 +64,7 @@ rhodanese	2.8.1.2	3-mercaptopyruvate sulfurtransferase
 3-MPST	2.8.1.2	3-mercaptopyruvate sulfurtransferase
 TUM1	2.8.1.2	3-mercaptopyruvate sulfurtransferase
 3-mercaptopyruvate:cyanide sulfurtransferase	2.8.1.2	3-mercaptopyruvate sulfurtransferase
-More	2.8.1.2	3-mercaptopyruvate sulfurtransferase
+rhodanese activity, EC 2.8.1.1 is a minor function ofhuman erythrocyte beta-mercaptopyruvate sulfurtransferase	2.8.1.2	3-mercaptopyruvate sulfurtransferase
 3-mercaptopyruvate sulphurtransferase	2.8.1.2	3-mercaptopyruvate sulfurtransferase
 MPST	2.8.1.2	3-mercaptopyruvate sulfurtransferase
 3-mercaptopyruvate sulfurtransferase	2.8.1.2	3-mercaptopyruvate sulfurtransferase
@@ -82,32 +82,32 @@ Ctu1	2.8.1.4	tRNA uracil 4-sulfurtransferase
 thiouridylase	2.8.1.4	tRNA uracil 4-sulfurtransferase
 wobble uridine-34 thiolase	2.8.1.4	tRNA uracil 4-sulfurtransferase
 ThiI	2.8.1.4	tRNA uracil 4-sulfurtransferase
-MMP1354	2.8.1.4	tRNA uracil 4-sulfurtransferase
+locus name	2.8.1.4	tRNA uracil 4-sulfurtransferase
 TSR	2.8.1.5	thiosulfate-dithiol sulfurtransferase
 reductase, thiosulfate	2.8.1.5	thiosulfate-dithiol sulfurtransferase
 thiosulfate reductase	2.8.1.5	thiosulfate-dithiol sulfurtransferase
 synthetase, biotin	2.8.1.6	biotin synthase
 biotin synthetase	2.8.1.6	biotin synthase
-synthetase, biotin	2.8.1.6	biotin synthase
-biotin synthetase	2.8.1.6	biotin synthase
-BIO2 protein	2.8.1.6	biotin synthase
+synthetase, biotin (Arabidopsis thaliana clone lambdaBIO2 gene bioB)	2.8.1.6	biotin synthase
+biotin synthetase (Arabidopsis thaliana clone pMB101 gene BIO2 reduced)	2.8.1.6	biotin synthase
+BIO2 protein (Arabidopsis thaliana clone pMP101 gene BIO2 reduced)	2.8.1.6	biotin synthase
 GenBank U24147-derived protein	2.8.1.6	biotin synthase
 GenBank U31806-derived protein GI 1403662	2.8.1.6	biotin synthase
-synthetase, biotin	2.8.1.6	biotin synthase
-synthetase, biotin	2.8.1.6	biotin synthase
-synthetase, biotin	2.8.1.6	biotin synthase
-biotin synthase	2.8.1.6	biotin synthase
-biotin synthase	2.8.1.6	biotin synthase
+synthetase, biotin (Arabidopsis thaliana clone pMP101 gene BIO2reduced)	2.8.1.6	biotin synthase
+synthetase, biotin (Arabidopsis thaliana clone pYESCBS1 gene bioB)	2.8.1.6	biotin synthase
+synthetase, biotin (Saccharomyces cerevisiae strain 20B-12 clonepUCH2.4 gene BIO2 reduced)	2.8.1.6	biotin synthase
+biotin synthase (Saccharomyces cerevisiae strain 20B-12 clone pUCH2.4gene BIO2)	2.8.1.6	biotin synthase
+biotin synthase (Treponema pallidum gene TP0228)	2.8.1.6	biotin synthase
 GenBank AE001204-derived protein GI 3322497	2.8.1.6	biotin synthase
-biotin synthetase	2.8.1.6	biotin synthase
+biotin synthetase (Aquifex aeolicus gene bioB)	2.8.1.6	biotin synthase
 GenBank AE000716-derived protein GI 2983482	2.8.1.6	biotin synthase
-synthetase, biotin	2.8.1.6	biotin synthase
-biotin synthetase	2.8.1.6	biotin synthase
+synthetase, biotin (Bacillus subtilis clone pBIO100/pBIO350/pBIO201gene bioB)	2.8.1.6	biotin synthase
+biotin synthetase (Bacillus subtilis gene bioB)	2.8.1.6	biotin synthase
 GenBank AF008220-derived protein GI 2293187	2.8.1.6	biotin synthase
 GenBank U51869-derived protein GI 1277029	2.8.1.6	biotin synthase
 GenBank Z99119-derived protein GI 2635504	2.8.1.6	biotin synthase
-synthetase, biotin	2.8.1.6	biotin synthase
-biotin synthetase	2.8.1.6	biotin synthase
+synthetase, biotin (Bacillus subtilis gene bioB)	2.8.1.6	biotin synthase
+biotin synthetase (Chlamydia trachomatis gene birA)	2.8.1.6	biotin synthase
 GenBank AE001343-derived protein GI 3329182	2.8.1.6	biotin synthase
 NCgl0071	2.8.1.6	biotin synthase
 BioB	2.8.1.6	biotin synthase
@@ -117,7 +117,7 @@ cysteinedesulfurylase	2.8.1.7	cysteine desulfurase
 cysteine desulfurase	2.8.1.7	cysteine desulfurase
 IscS	2.8.1.7	cysteine desulfurase
 CysD	2.8.1.7	cysteine desulfurase
-Nfs	2.8.1.7	cysteine desulfurase
+formerly IscS2	2.8.1.7	cysteine desulfurase
 NifS4	2.8.1.7	cysteine desulfurase
 NIFS	2.8.1.7	cysteine desulfurase
 SufS2	2.8.1.7	cysteine desulfurase
@@ -129,10 +129,10 @@ CD0387	2.8.1.7	cysteine desulfurase
 DndA	2.8.1.7	cysteine desulfurase
 hAPE	2.8.1.7	cysteine desulfurase
 CSD	2.8.1.7	cysteine desulfurase
-Nfs2	2.8.1.7	cysteine desulfurase
+isoform	2.8.1.7	cysteine desulfurase
 cysteine:SufU sulfurtransferase	2.8.1.7	cysteine desulfurase
 SufS	2.8.1.7	cysteine desulfurase
-Nfs1	2.8.1.7	cysteine desulfurase
+isoform	2.8.1.7	cysteine desulfurase
 CsdB	2.8.1.7	cysteine desulfurase
 CsdA	2.8.1.7	cysteine desulfurase
 c-ISCS	2.8.1.7	cysteine desulfurase
@@ -144,13 +144,13 @@ lipoate synthase	2.8.1.8	lipoyl synthase
 LipA	2.8.1.8	lipoyl synthase
 LS	2.8.1.8	lipoyl synthase
 LipA protein	2.8.1.8	lipoyl synthase
-Lip1	2.8.1.8	lipoyl synthase
-LOS5	2.8.1.9	molybdenum cofactor sulfurtransferase
+isoform	2.8.1.8	lipoyl synthase
+gene name	2.8.1.9	molybdenum cofactor sulfurtransferase
 molybdenum cofactor sulphurase	2.8.1.9	molybdenum cofactor sulfurtransferase
-LOS5/ABA3	2.8.1.9	molybdenum cofactor sulfurtransferase
+gene name	2.8.1.9	molybdenum cofactor sulfurtransferase
 molybdenum-cofactor sulfurase	2.8.1.9	molybdenum cofactor sulfurtransferase
 cysteine desulfurase	2.8.1.9	molybdenum cofactor sulfurtransferase
-ABA3	2.8.1.9	molybdenum cofactor sulfurtransferase
+gene name	2.8.1.9	molybdenum cofactor sulfurtransferase
 molybdenum cofactor sulfurase	2.8.1.9	molybdenum cofactor sulfurtransferase
 MCSU	2.8.1.9	molybdenum cofactor sulfurtransferase
 Pst	2.8.2.1	aryl sulfotransferase
@@ -179,10 +179,10 @@ ST1A2	2.8.2.1	aryl sulfotransferase
 ST1A3	2.8.2.1	aryl sulfotransferase
 ST1A4	2.8.2.1	aryl sulfotransferase
 hippocampal phenol sulfotransferase	2.8.2.1	aryl sulfotransferase
-ST1	2.8.2.1	aryl sulfotransferase
-ST3	2.8.2.1	aryl sulfotransferase
-ST2	2.8.2.1	aryl sulfotransferase
-ST4	2.8.2.1	aryl sulfotransferase
+isoform	2.8.2.1	aryl sulfotransferase
+isoform	2.8.2.1	aryl sulfotransferase
+isoform	2.8.2.1	aryl sulfotransferase
+isoform	2.8.2.1	aryl sulfotransferase
 cytosolic sulfotransferase	2.8.2.1	aryl sulfotransferase
 SULT	2.8.2.1	aryl sulfotransferase
 arylsulfotransferase	2.8.2.1	aryl sulfotransferase
@@ -191,7 +191,7 @@ AST	2.8.2.1	aryl sulfotransferase
 sulphotransferase	2.8.2.1	aryl sulfotransferase
 phenol sulfotransferase	2.8.2.1	aryl sulfotransferase
 sulfotransferase	2.8.2.1	aryl sulfotransferase
-SULT1A1	2.8.2.1	aryl sulfotransferase
+isoform	2.8.2.1	aryl sulfotransferase
 ST	2.8.2.1	aryl sulfotransferase
 SULT1D1	2.8.2.1	aryl sulfotransferase
 SULT1B2	2.8.2.1	aryl sulfotransferase
@@ -199,7 +199,7 @@ SULT1C*2	2.8.2.1	aryl sulfotransferase
 M-PST	2.8.2.1	aryl sulfotransferase
 dopamine sulfotransferase	2.8.2.1	aryl sulfotransferase
 P-PST	2.8.2.1	aryl sulfotransferase
-H-PST	2.8.2.1	aryl sulfotransferase
+i.e. hippocampal phenol sulfotransferase	2.8.2.1	aryl sulfotransferase
 SULT2A1	2.8.2.1	aryl sulfotransferase
 SULT1E1	2.8.2.1	aryl sulfotransferase
 PST-P	2.8.2.1	aryl sulfotransferase
@@ -213,11 +213,11 @@ phenol sulfotransferase 1	2.8.2.1	aryl sulfotransferase
 monoamine-form phenol sulfotransferase	2.8.2.1	aryl sulfotransferase
 SULT1A2	2.8.2.1	aryl sulfotransferase
 phenol sulfotransferase 1A1	2.8.2.1	aryl sulfotransferase
-SULT1A3	2.8.2.1	aryl sulfotransferase
+isoform	2.8.2.1	aryl sulfotransferase
 sulfotransferase 1A3	2.8.2.1	aryl sulfotransferase
-SULT1B1	2.8.2.1	aryl sulfotransferase
+isoform	2.8.2.1	aryl sulfotransferase
 SULT4A1	2.8.2.1	aryl sulfotransferase
-sulfotransferase 1A1	2.8.2.1	aryl sulfotransferase
+isoform	2.8.2.1	aryl sulfotransferase
 SULT1 isoform 4	2.8.2.1	aryl sulfotransferase
 aryl sulfotransferase IV	2.8.2.1	aryl sulfotransferase
 neuronal SULT	2.8.2.1	aryl sulfotransferase
@@ -228,7 +228,7 @@ ArylST	2.8.2.1	aryl sulfotransferase
 aryl SULT	2.8.2.1	aryl sulfotransferase
 SULT1 ST5	2.8.2.1	aryl sulfotransferase
 luciferin sulfokinase	2.8.2.10	Renilla-luciferin sulfotransferase
-luciferin sulfokinase	2.8.2.10	Renilla-luciferin sulfotransferase
+luciferin sulfokinase(3'-phosphoadenylyl sulfate:luciferinsulfotransferase)	2.8.2.10	Renilla-luciferin sulfotransferase
 luciferin sulfotransferase	2.8.2.10	Renilla-luciferin sulfotransferase
 Lst	2.8.2.10	Renilla-luciferin sulfotransferase
 GSase	2.8.2.11	galactosylceramide sulfotransferase
@@ -244,7 +244,7 @@ galactosylceramide sulfotransferase	2.8.2.11	galactosylceramide sulfotransferase
 GST	2.8.2.11	galactosylceramide sulfotransferase
 GalCer sulfotransferase	2.8.2.11	galactosylceramide sulfotransferase
 galactosylceramide 3'-sulfotransferase	2.8.2.11	galactosylceramide sulfotransferase
-Gal3st1	2.8.2.11	galactosylceramide sulfotransferase
+gene name	2.8.2.11	galactosylceramide sulfotransferase
 PAPS:psychosine sulphotransferase	2.8.2.13	psychosine sulfotransferase
 3'-phosphoadenosine 5'-phosphosulfate-psychosine sulphotransferase	2.8.2.13	psychosine sulfotransferase
 bile acid sulfotransferase I	2.8.2.14	bile-salt sulfotransferase
@@ -262,10 +262,10 @@ DHEA-SULT	2.8.2.14	bile-salt sulfotransferase
 sulfotransferase 2A1	2.8.2.14	bile-salt sulfotransferase
 BSS	2.8.2.14	bile-salt sulfotransferase
 dehydroepiandrosterone sulfotransferase	2.8.2.14	bile-salt sulfotransferase
-SULT2A1	2.8.2.14	bile-salt sulfotransferase
-BST 1	2.8.2.14	bile-salt sulfotransferase
+isoform	2.8.2.14	bile-salt sulfotransferase
+main isoenzyme	2.8.2.14	bile-salt sulfotransferase
 BST 2	2.8.2.14	bile-salt sulfotransferase
-BSS I	2.8.2.14	bile-salt sulfotransferase
+predominant isoenzyme	2.8.2.14	bile-salt sulfotransferase
 BSS II	2.8.2.14	bile-salt sulfotransferase
 3beta-hydroxy-5-cholenoate sulfotransferase	2.8.2.14	bile-salt sulfotransferase
 BAST	2.8.2.14	bile-salt sulfotransferase
@@ -275,16 +275,16 @@ testosterone sulfotransferase	2.8.2.15	steroid sulfotransferase
 SULT 1 isoform 6	2.8.2.15	steroid sulfotransferase
 BNST4	2.8.2.15	steroid sulfotransferase
 Pst	2.8.2.15	steroid sulfotransferase
-SULT1D1	2.8.2.15	steroid sulfotransferase
+isoform	2.8.2.15	steroid sulfotransferase
 Sult2a	2.8.2.15	steroid sulfotransferase
 St2b2	2.8.2.15	steroid sulfotransferase
 sulfotransferase SULT2B1b	2.8.2.15	steroid sulfotransferase
-More	2.8.2.15	steroid sulfotransferase
+cf. EC 2.8.2.14, bile salt sulfotransferase 2, SULT2A2	2.8.2.15	steroid sulfotransferase
 cholesterol sulfotransferase	2.8.2.15	steroid sulfotransferase
 steroid/bile acid-sulfotransferase	2.8.2.15	steroid sulfotransferase
 cytosolic sulfotransferase	2.8.2.15	steroid sulfotransferase
 hydroxysteroid sulfotransferase	2.8.2.15	steroid sulfotransferase
-SULT2A1	2.8.2.15	steroid sulfotransferase
+isoform	2.8.2.15	steroid sulfotransferase
 steroid sulfatase	2.8.2.15	steroid sulfotransferase
 STS	2.8.2.15	steroid sulfotransferase
 DHEA sulphotransferase	2.8.2.15	steroid sulfotransferase
@@ -303,8 +303,8 @@ steroid-/bile acid-sulfotransferase	2.8.2.15	steroid sulfotransferase
 ST2A3	2.8.2.15	steroid sulfotransferase
 sulfotransferase 2B1	2.8.2.15	steroid sulfotransferase
 dehydroepiandrosterone sulfotransferase family 1A member 2	2.8.2.15	steroid sulfotransferase
-SULT1B1	2.8.2.15	steroid sulfotransferase
-SULT1C2	2.8.2.15	steroid sulfotransferase
+isoform	2.8.2.15	steroid sulfotransferase
+isoform	2.8.2.15	steroid sulfotransferase
 SULT2B1	2.8.2.15	steroid sulfotransferase
 phenol sulfotransferase	2.8.2.15	steroid sulfotransferase
 sulfotransferase II	2.8.2.15	steroid sulfotransferase
@@ -316,7 +316,7 @@ sulfotransferase, phosphoadenylylsulfate-thiol	2.8.2.16	thiol sulfotransferase
 adenosine 3'-phosphate 5'-sulphatophosphate sulfotransferase	2.8.2.16	thiol sulfotransferase
 CST	2.8.2.17	chondroitin 6-sulfotransferase
 sulfotransferase, chondroitin 6-	2.8.2.17	chondroitin 6-sulfotransferase
-3'-phosphoadenosine 5'-phosphosulfate:chondroitin sulfate	2.8.2.17	chondroitin 6-sulfotransferase
+3'-phosphoadenosine 5'-phosphosulfate:chondroitin sulfatesulfotransferase	2.8.2.17	chondroitin 6-sulfotransferase
 terminal 6-sulfotransferase	2.8.2.17	chondroitin 6-sulfotransferase
 carbohydrate sulfotransferase 3	2.8.2.17	chondroitin 6-sulfotransferase
 CHST3	2.8.2.17	chondroitin 6-sulfotransferase
@@ -348,8 +348,8 @@ sterol sulfotransferase	2.8.2.2	alcohol sulfotransferase
 alcohol/hydroxysteroid sulfotransferase	2.8.2.2	alcohol sulfotransferase
 thyroid hormone sulfotransferase	2.8.2.2	alcohol sulfotransferase
 SULT	2.8.2.2	alcohol sulfotransferase
-SULT1A2	2.8.2.2	alcohol sulfotransferase
-SULT1B1	2.8.2.2	alcohol sulfotransferase
+isoform	2.8.2.2	alcohol sulfotransferase
+isoform	2.8.2.2	alcohol sulfotransferase
 sulfotransferase 2B1b	2.8.2.2	alcohol sulfotransferase
 sulphotransferase	2.8.2.2	alcohol sulfotransferase
 cytosolic sulfotransferase	2.8.2.2	alcohol sulfotransferase
@@ -365,43 +365,43 @@ SOT12	2.8.2.2	alcohol sulfotransferase
 Sult2a	2.8.2.2	alcohol sulfotransferase
 estrogen sulfotransferase	2.8.2.2	alcohol sulfotransferase
 hydroxysteroid sulfotransferase	2.8.2.2	alcohol sulfotransferase
-SULT2A1	2.8.2.2	alcohol sulfotransferase
+previously DHEA-ST	2.8.2.2	alcohol sulfotransferase
 AST	2.8.2.2	alcohol sulfotransferase
 alcohol sulfotransferase	2.8.2.2	alcohol sulfotransferase
 DHEA-ST	2.8.2.2	alcohol sulfotransferase
 EST	2.8.2.2	alcohol sulfotransferase
 hEST1	2.8.2.2	alcohol sulfotransferase
 type 1 estrogen sulfotransferase	2.8.2.2	alcohol sulfotransferase
-hydroxysteroid sulfotransferase ST2A3	2.8.2.2	alcohol sulfotransferase
+also variously named asSULT2A1 or human DHEA-ST	2.8.2.2	alcohol sulfotransferase
 SULT1A3	2.8.2.2	alcohol sulfotransferase
 hydroxysteroid sulfotransferase SULT2A1	2.8.2.2	alcohol sulfotransferase
 SULT 2A1	2.8.2.2	alcohol sulfotransferase
 iodothyronine sulfotransferase	2.8.2.2	alcohol sulfotransferase
 steroid/sterol sulfotransferase	2.8.2.2	alcohol sulfotransferase
-More	2.8.2.2	alcohol sulfotransferase
+cf. EC 2.8.2.15	2.8.2.2	alcohol sulfotransferase
 SULT2B1	2.8.2.2	alcohol sulfotransferase
 SULT2B1b	2.8.2.2	alcohol sulfotransferase
 cholesterol sulfotransferase	2.8.2.2	alcohol sulfotransferase
 SULT2B1a	2.8.2.2	alcohol sulfotransferase
-SULT1A1	2.8.2.2	alcohol sulfotransferase
+isoform	2.8.2.2	alcohol sulfotransferase
 STA	2.8.2.2	alcohol sulfotransferase
 phenol sulfotransferase	2.8.2.2	alcohol sulfotransferase
 hydroxysteroid sulfotransferase 1	2.8.2.2	alcohol sulfotransferase
 hydroxysteroid sulfotransferase Sta	2.8.2.2	alcohol sulfotransferase
 AST-RB2	2.8.2.2	alcohol sulfotransferase
-sulfotransferase, protein	2.8.2.20	protein-tyrosine sulfotransferase
-TPST-2	2.8.2.20	protein-tyrosine sulfotransferase
-TPST-1	2.8.2.20	protein-tyrosine sulfotransferase
+sulfotransferase, protein (tyrosine)	2.8.2.20	protein-tyrosine sulfotransferase
+isoform	2.8.2.20	protein-tyrosine sulfotransferase
+isoform	2.8.2.20	protein-tyrosine sulfotransferase
 tyrosylprotein sulfotransferase	2.8.2.20	protein-tyrosine sulfotransferase
 TPST	2.8.2.20	protein-tyrosine sulfotransferase
-AQC1	2.8.2.20	protein-tyrosine sulfotransferase
+gene name	2.8.2.20	protein-tyrosine sulfotransferase
 tyrosylprotein sulfotransferase-A	2.8.2.20	protein-tyrosine sulfotransferase
 TPST-A	2.8.2.20	protein-tyrosine sulfotransferase
 tyrosylprotein sulfotransferase 1	2.8.2.20	protein-tyrosine sulfotransferase
 tyrosylprotein sulfotransferase-1	2.8.2.20	protein-tyrosine sulfotransferase
-TPST1	2.8.2.20	protein-tyrosine sulfotransferase
+isoform	2.8.2.20	protein-tyrosine sulfotransferase
 tyrosylprotein sulfotransferase-2	2.8.2.20	protein-tyrosine sulfotransferase
-TPST2	2.8.2.20	protein-tyrosine sulfotransferase
+isoform	2.8.2.20	protein-tyrosine sulfotransferase
 tyrosylprotein sulfotransferase 2	2.8.2.20	protein-tyrosine sulfotransferase
 sulfotransferase, keratan	2.8.2.21	keratan sulfotransferase
 3'-phosphoadenylyl keratan sulfotransferase	2.8.2.21	keratan sulfotransferase
@@ -428,7 +428,7 @@ KSGal6ST	2.8.2.21	keratan sulfotransferase
 keratan sulfate 6-O-sulfotransferase	2.8.2.21	keratan sulfotransferase
 KS6ST	2.8.2.21	keratan sulfotransferase
 keratan sulfate Gal-6-sulfotransferase	2.8.2.21	keratan sulfotransferase
-CHST1	2.8.2.21	keratan sulfotransferase
+gene name	2.8.2.21	keratan sulfotransferase
 arylsulfotransferase	2.8.2.22	aryl-sulfate sulfotransferase
 sulfotransferase, arylsulfate	2.8.2.22	aryl-sulfate sulfotransferase
 arylsulfate-phenol sulfotransferase	2.8.2.22	aryl-sulfate sulfotransferase
@@ -445,11 +445,11 @@ heparan sulfate D-glucosaminyl 3-O-sulfotransferase	2.8.2.23	[heparan sulfate]-g
 gD-type 3-O-sulfotransferase-4	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 gD-type-3-OST-4	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 gD-type-3-OST-1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
-More	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
+the enzyme belongs to the 3-OST gene family with twodistinct 3-OST family subgroups	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 HS3ST-2	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 heparan sulfate D-glucosaminyl 3-O-sulfotransferase 2	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 3-OST-1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
-heparan sulfate 3-O-sulfotransferase	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
+isoform 1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 3-OST1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 heparan sulfate 3-O-sulfotransferase 1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 HS 3-O-sulfotransferase 1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
@@ -458,14 +458,14 @@ HS3ST1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 heparan sulfate sulfotransferase	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 heparan sulfate 3-O-sulfotransferase-1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 3-O-sulfotransferases-1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
-3OST1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
+isoform	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 3-O-sulfotransferase-1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 heparan sulfate 3-O-sulfotransferase isoform-1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 Hs3st-1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 heparan sulfate glucosamine 3-O-sulfotransferase	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 sulfotransferase, desulfoglucosinolate	2.8.2.24	desulfoglucosinolate sulfotransferase
 PAPS-desulfoglucosinolate sulfotransferase	2.8.2.24	desulfoglucosinolate sulfotransferase
-3'-phosphoadenosine-5'-phosphosulfate:desulfoglucosinolate	2.8.2.24	desulfoglucosinolate sulfotransferase
+3'-phosphoadenosine-5'-phosphosulfate:desulfoglucosinolatesulfotransferase	2.8.2.24	desulfoglucosinolate sulfotransferase
 desulfo-glucosinolate sulfotransferase	2.8.2.24	desulfoglucosinolate sulfotransferase
 SOT18	2.8.2.24	desulfoglucosinolate sulfotransferase
 SOT16	2.8.2.24	desulfoglucosinolate sulfotransferase
@@ -493,10 +493,10 @@ glucosaminyl 3-O-sulfotransferase 3a,3b	2.8.2.29	[heparan sulfate]-glucosamine 3
 heparan sulfate D-glucosaminy 3-O-sulfotransferase	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
 gD-type 3-O-sulfotransferase-2	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
 gD-type-3-OST-2	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
-More	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
+the enzyme belongs to the 3-OST gene family with twodistinct 3-OST family subgroups	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
 HS3ST2	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
 3-OST2	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
-heparan sulfate	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
+heparan sulfate (glucosamine) 3-O-sulfotransferase 2	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
 heparan sulfate 3-O-sulfotransferase 2	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
 heparan sulfate 3-O-sulfotransferase	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
 HS 3-O-sulfotransferase 2	2.8.2.29	[heparan sulfate]-glucosamine 3-sulfotransferase 2
@@ -509,7 +509,7 @@ sulfotransferase, aryl amine	2.8.2.3	amine sulfotransferase
 cytosolic sulfotransferase	2.8.2.3	amine sulfotransferase
 SULT3A2	2.8.2.3	amine sulfotransferase
 amine N-sulfotransferase	2.8.2.3	amine sulfotransferase
-SULT3A1	2.8.2.3	amine sulfotransferase
+isoform	2.8.2.3	amine sulfotransferase
 glucosaminyl 3-O-sulfotransferase 3a,3b	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 heparan sulfate D-glucosamine 3-O-sulfotransferase 3A	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 isoform 3a	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
@@ -525,7 +525,7 @@ HS3ST3B	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 heparan sulfate sulfotransferase	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 HS 3-OST-3	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 3-O-sulfotransferase 3	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
-heparan sulfate D-glucosaminyl 3-O-sulfotransferase-3A	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
+theenzyme generates a binding site for the envelope glycoprotein D ofherpes simplex virus 1	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 3-O-sulfotransferase-3A	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 3-OST3	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 D-glucosaminyl 3-O-sulfotransferase-3a	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
@@ -533,14 +533,14 @@ heparin sulphate D-glucosaminyl 3-O-sulfotransferase 3B1	2.8.2.30	[heparan sulfa
 3-OST3-B	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 heparan sulfate D-glucosaminyl 3-O-sulfotransferase-3B1	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 3-OST-3B1	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
-3OST3A1	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
+isoform	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 heparan sulfate 3-O-sulfotransferase 3B	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 heparan sulfate sulfotransferase 3-OST3A	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 3-OST3A	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 3-O-sulfotransferase-3	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 HS3ST3B1	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 HS 3-O-sulfotransferase isoform 3	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
-More	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
+the enzyme belongs to the 3-OST gene family with twodistinct 3-OST family subgroups	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 heparan sulfate 3-O-sulfotransferase	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 HS 3-O-sulfotransferase 3	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 glucosaminyl 3-O-sulfotransferase-3	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
@@ -554,18 +554,18 @@ Hs3st-3	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 heparan sulfate D-glucosamine 3-O-sulfotransferase 3B1	2.8.2.30	[heparan sulfate]-glucosamine 3-sulfotransferase 3
 PZ-SULT	2.8.2.31	petromyzonol sulfotransferase
 GalNAc4S-6ST	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
-N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
+4,6-ST	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
 GALNAC4S-6ST/BRAG	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
 BRAG	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
 B-cell RAG associated protein	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
 GalNAc4S 6-O-sulfotransferase	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
 GalNAc 4-sulfate 6-O-sulfotransferase	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
 mGalNAc4S-6ST	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
-GalNAc	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
+GalNAc(4S)-6-O-sulfotransferase	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
 GalNAc4S6ST	2.8.2.33	N-acetylgalactosamine 4-sulfate 6-O-sulfotransferase
 bile acid sulfotransferase	2.8.2.34	glycochenodeoxycholate sulfotransferase
 BAST	2.8.2.34	glycochenodeoxycholate sulfotransferase
-More	2.8.2.34	glycochenodeoxycholate sulfotransferase
+the enzyme is identical with the hydrosteroidsulfotransferase 2	2.8.2.34	glycochenodeoxycholate sulfotransferase
 bile acid sulfotransferase I	2.8.2.34	glycochenodeoxycholate sulfotransferase
 bile acid:3'phosphoadenosine-5'phosphosulfate:sulfotransferase	2.8.2.34	glycochenodeoxycholate sulfotransferase
 BAST I	2.8.2.34	glycochenodeoxycholate sulfotransferase
@@ -574,7 +574,7 @@ bile acid:PAPS:sulfotransferase	2.8.2.34	glycochenodeoxycholate sulfotransferase
 Chst14/D4st1	2.8.2.35	dermatan 4-sulfotransferase
 dermatan-4O-sulfotransferase1	2.8.2.35	dermatan 4-sulfotransferase
 carbohydrate sulfotransferase 14	2.8.2.35	dermatan 4-sulfotransferase
-CHST14	2.8.2.35	dermatan 4-sulfotransferase
+gene name	2.8.2.35	dermatan 4-sulfotransferase
 dermatan 4-O-sulfotransferase-1	2.8.2.35	dermatan 4-sulfotransferase
 dermatan-4-sulfotransferase	2.8.2.35	dermatan 4-sulfotransferase
 N-acetylgalactosamine 4-O-sulfotransferase 1	2.8.2.35	dermatan 4-sulfotransferase
@@ -594,20 +594,20 @@ Stf0 sulfotransferase	2.8.2.37	trehalose 2-sulfotransferase
 3'-phosphoadenylyl sulfate-estrone 3-sulfotransferase	2.8.2.4	estrone sulfotransferase
 estrogen sulphotransferase	2.8.2.4	estrone sulfotransferase
 3'-phosphoadenylyl sulfate:oestrone sulfotransferase	2.8.2.4	estrone sulfotransferase
-EST	2.8.2.4	estrone sulfotransferase
+2 isoforms	2.8.2.4	estrone sulfotransferase
 cytosolic sulfotransferase	2.8.2.4	estrone sulfotransferase
 E-ST	2.8.2.4	estrone sulfotransferase
 estrogen-specific sulfotransferase	2.8.2.4	estrone sulfotransferase
 oestrogen sulfotransferase	2.8.2.4	estrone sulfotransferase
 sulfotransferase 1E1	2.8.2.4	estrone sulfotransferase
-SULT1E1	2.8.2.4	estrone sulfotransferase
+isoform	2.8.2.4	estrone sulfotransferase
 estrogen sulfotransferase	2.8.2.4	estrone sulfotransferase
-More	2.8.2.4	estrone sulfotransferase
+SULT1E1 belongs tot he superfamily of cytosolic SULTs	2.8.2.4	estrone sulfotransferase
 steroid sulfotransferase	2.8.2.4	estrone sulfotransferase
 oestrogen sulphotransferase	2.8.2.4	estrone sulfotransferase
 hEST	2.8.2.4	estrone sulfotransferase
 ESFT	2.8.2.4	estrone sulfotransferase
-SULT1A1	2.8.2.4	estrone sulfotransferase
+active in breast cancer cells	2.8.2.4	estrone sulfotransferase
 sulfotransferase	2.8.2.4	estrone sulfotransferase
 estrone sulfotransferase	2.8.2.4	estrone sulfotransferase
 E2-inactivating estrogen sulfotransferase	2.8.2.4	estrone sulfotransferase
@@ -623,20 +623,20 @@ sulfotransferase, chondroitin	2.8.2.5	chondroitin 4-sulfotransferase
 chondroitin sulfotransferase	2.8.2.5	chondroitin 4-sulfotransferase
 sulfotransferase, chondroitin 4-	2.8.2.5	chondroitin 4-sulfotransferase
 CS-sulfotransferase	2.8.2.5	chondroitin 4-sulfotransferase
-C41C4.1	2.8.2.5	chondroitin 4-sulfotransferase
+gene name	2.8.2.5	chondroitin 4-sulfotransferase
 chst-1	2.8.2.5	chondroitin 4-sulfotransferase
 carbohydrate sulfotransferase	2.8.2.5	chondroitin 4-sulfotransferase
 Chn 4-O-sulfotransferase	2.8.2.5	chondroitin 4-sulfotransferase
 C4ST1	2.8.2.5	chondroitin 4-sulfotransferase
-carbohydrate	2.8.2.5	chondroitin 4-sulfotransferase
-More	2.8.2.5	chondroitin 4-sulfotransferase
+carbohydrate (chondroitin-4)sulfotransferase 11	2.8.2.5	chondroitin 4-sulfotransferase
+the enzyme belongs to the chondroitin/dermatan4-O-sulfotransferase, C4ST/D4ST, family	2.8.2.5	chondroitin 4-sulfotransferase
 chondroitin 4-sulfotransferase 2	2.8.2.5	chondroitin 4-sulfotransferase
 C4ST-2	2.8.2.5	chondroitin 4-sulfotransferase
 chondroitin 4-O-sulfotransferase-2	2.8.2.5	chondroitin 4-sulfotransferase
 chondroitin 4-sulfotransferase 1	2.8.2.5	chondroitin 4-sulfotransferase
 chondroitin 4-O-sulfotransferase-1	2.8.2.5	chondroitin 4-sulfotransferase
 C4ST-1	2.8.2.5	chondroitin 4-sulfotransferase
-CHST11	2.8.2.5	chondroitin 4-sulfotransferase
+gene name	2.8.2.5	chondroitin 4-sulfotransferase
 C4ST	2.8.2.5	chondroitin 4-sulfotransferase
 CS GalNAc 4-O-sulfotransferase	2.8.2.5	chondroitin 4-sulfotransferase
 chondroitin 4-O-sulfotransferase	2.8.2.5	chondroitin 4-sulfotransferase
@@ -676,17 +676,17 @@ NDST-2	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
 N-deacetylase-N-sulfotransferase-1	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
 glucosaminyl N-deacetylase/N-sulfotransferase	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
 N-deacetylase/N-sulfotransferase-2	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
-Ndst1	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
+isoform	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
 N-deacetylase/N-sulfotransferase	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
-NDST2	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
+isoform	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
 N-deacetylase/N-sulfotransferase-1	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
-NDST-1	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
+bifunctional enzyme	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
 HSNST	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
-heparan sulfate N-deacetylase/N-sulfotransferase 2	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
-heparan sulfate/heparin N-deacetylase/N-sulfotransferase-1	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
+bifunctional enzyme	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
+bifunctional enzyme	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
 N-deacetylase/N-sulfotransferase 1	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
 NDST3	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
-N-deacetylase/N-sulfotransferase	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
+N-deacetylase/N-sulfotransferase (heparan glucosaminyl) 3	2.8.2.8	[heparan sulfate]-glucosamine N-sulfotransferase
 sulfotransferase, tyrosine ester	2.8.2.9	tyrosine-ester sulfotransferase
 L-tyrosine methyl ester sulfotransferase	2.8.2.9	tyrosine-ester sulfotransferase
 tyrosine ester sulfotransferase	2.8.2.9	tyrosine-ester sulfotransferase
@@ -702,7 +702,7 @@ propionate coenzyme A-transferase	2.8.3.1	propionate CoA-transferase
 propionate-CoA:lactoyl-CoA transferase	2.8.3.1	propionate CoA-transferase
 propionyl CoA:acetate CoA transferase	2.8.3.1	propionate CoA-transferase
 propionate CoA-transferase	2.8.3.1	propionate CoA-transferase
-PCT	2.8.3.1	propionate CoA-transferase
+gene name	2.8.3.1	propionate CoA-transferase
 propionate-CoA transferase	2.8.3.1	propionate CoA-transferase
 propionyl-CoA:succinate CoA transferase	2.8.3.1	propionate CoA-transferase
 CoAT	2.8.3.1	propionate CoA-transferase
@@ -717,11 +717,12 @@ coenzyme A-transferase, citramalate	2.8.3.11	citramalate CoA-transferase
 citramalyl-CoA transferase	2.8.3.11	citramalate CoA-transferase
 GCT	2.8.3.12	glutaconate CoA-transferase
 coenzyme A-transferase, glutaconate	2.8.3.12	glutaconate CoA-transferase
+(E)-glutaconate CoA-transferase	2.8.3.12	glutaconate CoA-transferase
 hydroxymethylglutarate coenzyme A-transferase	2.8.3.13	succinate-hydroxymethylglutarate CoA-transferase
-dicarboxyl-CoA:dicarboxylic acid coenzyme A transferase	2.8.3.13	succinate-hydroxymethylglutarate CoA-transferase
+thisseems to be a more appropriate name than the recommended or systematicname, due to the substrate specificity as documented	2.8.3.13	succinate-hydroxymethylglutarate CoA-transferase
 succinylCoA:3-hydroxy-3-methylglutarate coenzyme A transferase	2.8.3.13	succinate-hydroxymethylglutarate CoA-transferase
 succinylCoA:HMG coenzyme A transferase	2.8.3.13	succinate-hydroxymethylglutarate CoA-transferase
-C7orf10	2.8.3.13	succinate-hydroxymethylglutarate CoA-transferase
+gene locus	2.8.3.13	succinate-hydroxymethylglutarate CoA-transferase
 5-hydroxyvalerate CoA-transferase	2.8.3.14	5-hydroxypentanoate CoA-transferase
 5-hydroxyvalerate coenzyme A-transferase	2.8.3.14	5-hydroxypentanoate CoA-transferase
 benzylsuccinate CoA-transferase	2.8.3.15	succinyl-CoA:(R)-benzylsuccinate CoA-transferase
@@ -733,15 +734,15 @@ succinyl-CoA:phenylsuccinate CoA-transferase	2.8.3.15	succinyl-CoA:(R)-benzylsuc
 formyl-CoA oxalate CoA-transferase	2.8.3.16	formyl-CoA transferase
 coenzyme A-transferase, formyl coenzyme A-oxalate	2.8.3.16	formyl-CoA transferase
 YfdW	2.8.3.16	formyl-CoA transferase
-1,2,3,4,5,6,7,9,10,12,13,15,16,19,20,21,22,23,24,25,26,27,28,29,30,31	2.8.3.16	formyl-CoA transferase
+formyl-CoA-transferase	2.8.3.16	formyl-CoA transferase
 formyl coenzyme A transferase	2.8.3.16	formyl-CoA transferase
 formyl-CoA:oxalate CoA-transferase	2.8.3.16	formyl-CoA transferase
 FCOCT	2.8.3.16	formyl-CoA transferase
-uctB	2.8.3.16	formyl-CoA transferase
-FRC	2.8.3.16	formyl-CoA transferase
+gene name	2.8.3.16	formyl-CoA transferase
+gene name	2.8.3.16	formyl-CoA transferase
 formyl-coenzyme A transferase	2.8.3.16	formyl-CoA transferase
 FldA	2.8.3.17	cinnamoyl-CoA:phenyllactate CoA-transferase
-coenzyme A-transferase, cinnamoyl-coenzyme A:	2.8.3.17	cinnamoyl-CoA:phenyllactate CoA-transferase
+coenzyme A-transferase, cinnamoyl-coenzyme A:(R)-phenyllactate	2.8.3.17	cinnamoyl-CoA:phenyllactate CoA-transferase
 acetate CoA-transferase	2.8.3.18	succinyl-CoA:acetate CoA-transferase
 succinyl-CoA:acetate CoA-transferase	2.8.3.18	succinyl-CoA:acetate CoA-transferase
 SCACT	2.8.3.18	succinyl-CoA:acetate CoA-transferase
@@ -752,7 +753,7 @@ TvASCT	2.8.3.18	succinyl-CoA:acetate CoA-transferase
 SCOT	2.8.3.18	succinyl-CoA:acetate CoA-transferase
 succinyl-CoA:3-oxoacid CoA-transferase	2.8.3.18	succinyl-CoA:acetate CoA-transferase
 succinyl-coenzyme A:acetate CoA-transferase	2.8.3.18	succinyl-CoA:acetate CoA-transferase
-AarC	2.8.3.18	succinyl-CoA:acetate CoA-transferase
+gene name	2.8.3.18	succinyl-CoA:acetate CoA-transferase
 acetic acid resistance factor	2.8.3.18	succinyl-CoA:acetate CoA-transferase
 acetate/succinate CoA-transferase	2.8.3.18	succinyl-CoA:acetate CoA-transferase
 acetyl-coenzyme A transferase	2.8.3.19	CoA:oxalate CoA-transferase
@@ -773,7 +774,8 @@ SmtAB	2.8.3.22	succinyl-CoA-L-malate CoA-transferase
 succinyl-CoA:L-malate coenzyme A transferase	2.8.3.22	succinyl-CoA-L-malate CoA-transferase
 CarA	2.8.3.23	caffeate CoA-transferase
 YdiF	2.8.3.23	caffeate CoA-transferase
-HadA	2.8.3.24	(R)-2-hydroxy-4-methylpentanoate CoA-transferase
+gene name	2.8.3.24	(R)-2-hydroxy-4-methylpentanoate CoA-transferase
+(R)-2-hydroxyisocaproate CoA transferase	2.8.3.24	(R)-2-hydroxy-4-methylpentanoate CoA-transferase
 baiK	2.8.3.25	bile acid CoA-transferase
 bile acid coenzyme A transferase	2.8.3.25	bile acid CoA-transferase
 baiF	2.8.3.25	bile acid CoA-transferase
@@ -798,9 +800,9 @@ succinyl-CoA:acetoacetate coenzyme A transferase	2.8.3.5	3-oxoacid CoA-transfera
 succinyl-CoA:3-oxoacid coenzyme A transferase	2.8.3.5	3-oxoacid CoA-transferase
 succinyl-CoA:3-ketoacid coenzyme A transferase-1	2.8.3.5	3-oxoacid CoA-transferase
 succinyl-CoA: 3-ketoacid-coenzyme A transferase	2.8.3.5	3-oxoacid CoA-transferase
-ScoA	2.8.3.5	3-oxoacid CoA-transferase
+subunit	2.8.3.5	3-oxoacid CoA-transferase
 succinyl-coenzyme A:3-oxoacid coenzyme A transferase	2.8.3.5	3-oxoacid CoA-transferase
-OXCT1	2.8.3.5	3-oxoacid CoA-transferase
+gene name	2.8.3.5	3-oxoacid CoA-transferase
 succinyl-CoA:3-ketoacid-CoA transferase	2.8.3.5	3-oxoacid CoA-transferase
 SCOT	2.8.3.5	3-oxoacid CoA-transferase
 succinyl-CoA:3-ketoacid CoA transferase	2.8.3.5	3-oxoacid CoA-transferase
@@ -844,7 +846,7 @@ butyryl coenzyme A-acetoacetate coenzyme A-transferase	2.8.3.9	butyrate-acetoace
 butyryl-CoA-acetoacetate CoA-transferase	2.8.3.9	butyrate-acetoacetate CoA-transferase
 ctfAB	2.8.3.9	butyrate-acetoacetate CoA-transferase
 methyl coenzyme M reductase	2.8.4.1	coenzyme-B sulfoethylthiotransferase
-2-	2.8.4.1	coenzyme-B sulfoethylthiotransferase
+2-(methylthio)ethanesulfonic acid reductase	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 S-methyl-coenzyme M reductase	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 Coenzyme-B sulfoethylthiotransferase alpha	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 Coenzyme-B sulfoethylthiotransferase beta	2.8.4.1	coenzyme-B sulfoethylthiotransferase
@@ -857,10 +859,10 @@ MCR II beta	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 MCR II gamma	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 methyl coenzyme M reductase A	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 MCR	2.8.4.1	coenzyme-B sulfoethylthiotransferase
-MCR I	2.8.4.1	coenzyme-B sulfoethylthiotransferase
-methyl-coenzyme M	2.8.4.1	coenzyme-B sulfoethylthiotransferase
-MCR II	2.8.4.1	coenzyme-B sulfoethylthiotransferase
-mcrA	2.8.4.1	coenzyme-B sulfoethylthiotransferase
+isoform	2.8.4.1	coenzyme-B sulfoethylthiotransferase
+methyl-coenzyme Mreductase	2.8.4.1	coenzyme-B sulfoethylthiotransferase
+isoform	2.8.4.1	coenzyme-B sulfoethylthiotransferase
+gene name	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 methyl-coenzyme M reductase A	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 methylcoenzyme M reductase	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 MCRox1	2.8.4.1	coenzyme-B sulfoethylthiotransferase
@@ -871,19 +873,19 @@ methyl-ScoM reductase	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 methyl coenzyme-M reductase	2.8.4.1	coenzyme-B sulfoethylthiotransferase
 Cg_ArsC1	2.8.4.2	arsenate-mycothiol transferase
 Cg_ArsC2	2.8.4.2	arsenate-mycothiol transferase
-ArsC2	2.8.4.2	arsenate-mycothiol transferase
-ArsC1	2.8.4.2	arsenate-mycothiol transferase
+isoform	2.8.4.2	arsenate-mycothiol transferase
+isoform	2.8.4.2	arsenate-mycothiol transferase
 mycothiol-dependent arsenate reductase	2.8.4.2	arsenate-mycothiol transferase
 MiaB	2.8.4.3	tRNA-2-methylthio-N6-dimethylallyladenosine synthase
 2-methylthio-N-6-isopentenyl adenosine synthase	2.8.4.3	tRNA-2-methylthio-N6-dimethylallyladenosine synthase
 tRNA-i6A37 methylthiotransferase	2.8.4.3	tRNA-2-methylthio-N6-dimethylallyladenosine synthase
-TM0653	2.8.4.3	tRNA-2-methylthio-N6-dimethylallyladenosine synthase
+locus name	2.8.4.3	tRNA-2-methylthio-N6-dimethylallyladenosine synthase
 RimO	2.8.4.4	[ribosomal protein S12] (aspartate89-C3)-methylthiotransferase
-yliG	2.8.4.4	[ribosomal protein S12] (aspartate89-C3)-methylthiotransferase
+gene name	2.8.4.4	[ribosomal protein S12] (aspartate89-C3)-methylthiotransferase
 ribosomal protein S12 methylthiotransferase	2.8.4.4	[ribosomal protein S12] (aspartate89-C3)-methylthiotransferase
 ribosome maturation factor RimO	2.8.4.4	[ribosomal protein S12] (aspartate89-C3)-methylthiotransferase
 S12 methylthiotransferase	2.8.4.4	[ribosomal protein S12] (aspartate89-C3)-methylthiotransferase
 MtaB	2.8.4.5	tRNA (N6-L-threonylcarbamoyladenosine37-C2)-methylthiotransferase
 YqeV	2.8.4.5	tRNA (N6-L-threonylcarbamoyladenosine37-C2)-methylthiotransferase
 methylthio-threonylcarbamoyl-adenosine transferase B	2.8.4.5	tRNA (N6-L-threonylcarbamoyladenosine37-C2)-methylthiotransferase
-CDKAL1	2.8.4.5	tRNA (N6-L-threonylcarbamoyladenosine37-C2)-methylthiotransferase
+gene name	2.8.4.5	tRNA (N6-L-threonylcarbamoyladenosine37-C2)-methylthiotransferase

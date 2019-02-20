@@ -6,8 +6,8 @@ aliphatic halogenase	3.8.1.1	alkylhalidase
 SyrB2	3.8.1.1	alkylhalidase
 2-haloalkanoic acid dehalogenase	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
 2-haloalkanoid acid halidohydrolase	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
-DL-2-haloacid dehalogenase	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
-DL-2-haloacid halidohydrolase	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
+DL-2-haloacid dehalogenase (inversion of configuration)	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
+DL-2-haloacid halidohydrolase (inversion of configuration)	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
 DL-DEXi	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
 DL DEX 113	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
 L-2-haloacid dehalogenase	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
@@ -41,7 +41,7 @@ HADIIBSW	3.8.1.2	(S)-2-haloacid dehalogenase
 L-haloacid dehalogenase	3.8.1.2	(S)-2-haloacid dehalogenase
 L-HAD	3.8.1.2	(S)-2-haloacid dehalogenase
 L-2_HAD	3.8.1.2	(S)-2-haloacid dehalogenase
-STK_25700	3.8.1.2	(S)-2-haloacid dehalogenase
+locus name	3.8.1.2	(S)-2-haloacid dehalogenase
 DEH99	3.8.1.2	(S)-2-haloacid dehalogenase
 S-2-haloacid dehalogenase	3.8.1.2	(S)-2-haloacid dehalogenase
 Rhodobacteraceae family L-haloacid dehalogenase	3.8.1.2	(S)-2-haloacid dehalogenase
@@ -54,7 +54,7 @@ haloacid dehalogenase	3.8.1.3	haloacetate dehalogenase
 PH0459	3.8.1.3	haloacetate dehalogenase
 FAc-Dex FA1	3.8.1.3	haloacetate dehalogenase
 fluoroacetate-specific defluorinase	3.8.1.3	haloacetate dehalogenase
-More	3.8.1.3	haloacetate dehalogenase
+the enzyme belongs to the haloacid dehalogenase HADsuperfamily of enzymes	3.8.1.3	haloacetate dehalogenase
 magnesium-dependent acid phosphatase-1	3.8.1.3	haloacetate dehalogenase
 MDP-1	3.8.1.3	haloacetate dehalogenase
 fluoroacetate dehalogenase	3.8.1.3	haloacetate dehalogenase
@@ -63,22 +63,22 @@ FAc-Dex H1	3.8.1.3	haloacetate dehalogenase
 1-chlorohexane halidohydrolase	3.8.1.5	haloalkane dehalogenase
 1-haloalkane dehalogenase	3.8.1.5	haloalkane dehalogenase
 1,3,4,6,-tetrachloro-1,4-cyclohexadiene halidohydrolase	3.8.1.5	haloalkane dehalogenase
-LinB	3.8.1.5	haloalkane dehalogenase
-DatA	3.8.1.5	haloalkane dehalogenase
-DmmA	3.8.1.5	haloalkane dehalogenase
-DmsA	3.8.1.5	haloalkane dehalogenase
-haloalkane	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamilyHLD-II	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamily HLD-II	3.8.1.5	haloalkane dehalogenase
+formerly CurN	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamily HLD-II	3.8.1.5	haloalkane dehalogenase
+haloalkanedehalogenase	3.8.1.5	haloalkane dehalogenase
 DspA	3.8.1.5	haloalkane dehalogenase
-DhlA	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamily HLD-I	3.8.1.5	haloalkane dehalogenase
 LinBMI	3.8.1.5	haloalkane dehalogenase
 DmxA	3.8.1.5	haloalkane dehalogenase
-dmlA	3.8.1.5	haloalkane dehalogenase
-DbjA	3.8.1.5	haloalkane dehalogenase
-3,4,6,10,12,14,15,17,19,20,21,22,28,31,32,33,34,37,38,39,43,44,46,48	3.8.1.5	haloalkane dehalogenase
-DrbA	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamily HLD-II	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamily HLD-II	3.8.1.5	haloalkane dehalogenase
+HLD	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamily HLD-III	3.8.1.5	haloalkane dehalogenase
 DbeA	3.8.1.5	haloalkane dehalogenase
 DhaA31	3.8.1.5	haloalkane dehalogenase
-DhaA	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamilyHLD-II	3.8.1.5	haloalkane dehalogenase
 Rv2579	3.8.1.5	haloalkane dehalogenase
 DmtA	3.8.1.5	haloalkane dehalogenase
 LinBUT	3.8.1.5	haloalkane dehalogenase
@@ -92,14 +92,14 @@ DhAf	3.8.1.5	haloalkane dehalogenase
 DhaB	3.8.1.5	haloalkane dehalogenase
 DhaC	3.8.1.5	haloalkane dehalogenase
 DmaA	3.8.1.5	haloalkane dehalogenase
-DhmA	3.8.1.5	haloalkane dehalogenase
-dmbA	3.8.1.5	haloalkane dehalogenase
-DmbC	3.8.1.5	haloalkane dehalogenase
-DmbB	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamily HLD-I	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamily HLD-II	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamily HLD-III	3.8.1.5	haloalkane dehalogenase
+phylogenetic analysis, subfamily HLD-I	3.8.1.5	haloalkane dehalogenase
 FcbB	3.8.1.6	4-chlorobenzoate dehalogenase
 dehalogenase, 4-chlorobenzoyl coenzyme A	3.8.1.7	4-chlorobenzoyl-CoA dehalogenase
 4-chlorobenzoate-coenzyme A dehalogenase	3.8.1.7	4-chlorobenzoyl-CoA dehalogenase
-dehalogenase, 4-chlorobenzoyl coenzyme A	3.8.1.7	4-chlorobenzoyl-CoA dehalogenase
+dehalogenase, 4-chlorobenzoyl coenzyme A (Pseudomonas strain CBS-3clone pMMB22 reduced)	3.8.1.7	4-chlorobenzoyl-CoA dehalogenase
 4-chlorobenzoyl CoA dehalogenase	3.8.1.7	4-chlorobenzoyl-CoA dehalogenase
 4-CBS-CoA dehalogenase	3.8.1.7	4-chlorobenzoyl-CoA dehalogenase
 4-CBA-CoA dehalogenase	3.8.1.7	4-chlorobenzoyl-CoA dehalogenase
@@ -110,12 +110,12 @@ dehalogenase, 4-chlorobenzoyl coenzyme A	3.8.1.7	4-chlorobenzoyl-CoA dehalogenas
 FcbB	3.8.1.7	4-chlorobenzoyl-CoA dehalogenase
 CHD	3.8.1.7	4-chlorobenzoyl-CoA dehalogenase
 atrazine dechlorinase	3.8.1.8	atrazine chlorohydrolase
-dechlorinase, atrazine	3.8.1.8	atrazine chlorohydrolase
+dechlorinase, atrazine (9CI)	3.8.1.8	atrazine chlorohydrolase
 AtzA	3.8.1.8	atrazine chlorohydrolase
 atrazine chlorohydrolase	3.8.1.8	atrazine chlorohydrolase
 triazine hydrolase	3.8.1.8	atrazine chlorohydrolase
 atrazine chlorohydrolase 2	3.8.1.8	atrazine chlorohydrolase
-More	3.8.1.8	atrazine chlorohydrolase
+enzyme shows 98% amino acid sequence identitiy withmelamine deaminase from Pseudomonas sp. strain NRRL B-12227, but doesnot catalyse the same reaction	3.8.1.8	atrazine chlorohydrolase
 AtzB	3.8.1.8	atrazine chlorohydrolase
 hydroxyatrazine N-ethylaminohydrolase	3.8.1.8	atrazine chlorohydrolase
 TrZN	3.8.1.8	atrazine chlorohydrolase

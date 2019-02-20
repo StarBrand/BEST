@@ -7,12 +7,12 @@ ACTP10	4.6.1.1	adenylate cyclase
 Adenylate cyclase, olfactive type	4.6.1.1	adenylate cyclase
 Adenylyl cyclase type 10	4.6.1.1	adenylate cyclase
 ATP pyrophosphate-lyase	4.6.1.1	adenylate cyclase
-Ca	4.6.1.1	adenylate cyclase
-Ca	4.6.1.1	adenylate cyclase
+Ca(2+)-inhibitable adenylyl cyclase	4.6.1.1	adenylate cyclase
+Ca(2+)/calmodulin activated adenylyl cyclase	4.6.1.1	adenylate cyclase
 Rutabaga protein	4.6.1.1	adenylate cyclase
 xlAC	4.6.1.1	adenylate cyclase
 AC	4.6.1.1	adenylate cyclase
-1,5,6,11,12,13,14,19,20,22,29,32,38,45,58,64,65,68,86,93,98,102,103	4.6.1.1	adenylate cyclase
+adenylyl cyclase	4.6.1.1	adenylate cyclase
 ion-channel adenylyl cyclase	4.6.1.1	adenylate cyclase
 CyaG	4.6.1.1	adenylate cyclase
 TczAC	4.6.1.1	adenylate cyclase
@@ -33,7 +33,7 @@ type 1 adenylyl cyclase	4.6.1.1	adenylate cyclase
 type 1 Ca2+/calmodulin-stimulated adenylyl cyclase	4.6.1.1	adenylate cyclase
 adenylyl cyclase-5	4.6.1.1	adenylate cyclase
 adenylate cyclase 5	4.6.1.1	adenylate cyclase
-adenylyl cyclase 6	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
 sAC	4.6.1.1	adenylate cyclase
 soluble adenylyl cyclase	4.6.1.1	adenylate cyclase
 ACVI	4.6.1.1	adenylate cyclase
@@ -47,7 +47,7 @@ adenylyl cyclase type VI	4.6.1.1	adenylate cyclase
 PfACalpha	4.6.1.1	adenylate cyclase
 type 3 adenylyl cyclase	4.6.1.1	adenylate cyclase
 class I AC	4.6.1.1	adenylate cyclase
-MAP2672	4.6.1.1	adenylate cyclase
+functional orthologue of Rv1120c	4.6.1.1	adenylate cyclase
 MAP1357	4.6.1.1	adenylate cyclase
 MAP2507c	4.6.1.1	adenylate cyclase
 MAP3844	4.6.1.1	adenylate cyclase
@@ -57,7 +57,7 @@ MAP2250c	4.6.1.1	adenylate cyclase
 MAP0426c	4.6.1.1	adenylate cyclase
 MAP2440	4.6.1.1	adenylate cyclase
 MAP2695c	4.6.1.1	adenylate cyclase
-type VI adenylyl cyclase	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
 type 8 adenylyl cyclase	4.6.1.1	adenylate cyclase
 transmembrane adenylyl cyclase type 1	4.6.1.1	adenylate cyclase
 transmembrane adenylyl cyclase type 3	4.6.1.1	adenylate cyclase
@@ -73,12 +73,12 @@ AC 9	4.6.1.1	adenylate cyclase
 adenylate cyclase 10	4.6.1.1	adenylate cyclase
 ADCY10	4.6.1.1	adenylate cyclase
 type I adenylate cyclase	4.6.1.1	adenylate cyclase
-type V adenylyl cyclase	4.6.1.1	adenylate cyclase
-ACI	4.6.1.1	adenylate cyclase
-ACII	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
 adenylate cyclase 1	4.6.1.1	adenylate cyclase
 tmAC	4.6.1.1	adenylate cyclase
-ACV	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
 soluble adenylate cyclase	4.6.1.1	adenylate cyclase
 adenylate cyclase	4.6.1.1	adenylate cyclase
 type 6 adenylyl cyclase	4.6.1.1	adenylate cyclase
@@ -93,11 +93,11 @@ CyaB2	4.6.1.1	adenylate cyclase
 IIC2	4.6.1.1	adenylate cyclase
 type II AC	4.6.1.1	adenylate cyclase
 type VIII adenylyl cyclase	4.6.1.1	adenylate cyclase
-adenylate cyclase [ATP pyrophosphate-lyase	4.6.1.1	adenylate cyclase
+adenylate cyclase [ATP pyrophosphate-lyase (cyclizing)]	4.6.1.1	adenylate cyclase
 adenylyl cyclase type 6	4.6.1.1	adenylate cyclase
 adenylyl cyclase 2	4.6.1.1	adenylate cyclase
 membrane adenylyl cyclases	4.6.1.1	adenylate cyclase
-mAC	4.6.1.1	adenylate cyclase
+C1 domain of type V mAC (VC1)	4.6.1.1	adenylate cyclase
 soluble AC	4.6.1.1	adenylate cyclase
 Rv1647	4.6.1.1	adenylate cyclase
 Rv0891c	4.6.1.1	adenylate cyclase
@@ -146,15 +146,15 @@ GRESAG4.1	4.6.1.1	adenylate cyclase
 GRESAG 4.1	4.6.1.1	adenylate cyclase
 GRESAG 4.3	4.6.1.1	adenylate cyclase
 adenylate cyclase 6	4.6.1.1	adenylate cyclase
-AC6	4.6.1.1	adenylate cyclase
-AC9	4.6.1.1	adenylate cyclase
-AC2	4.6.1.1	adenylate cyclase
-AC3	4.6.1.1	adenylate cyclase
-AC7	4.6.1.1	adenylate cyclase
-AC4	4.6.1.1	adenylate cyclase
-AC8	4.6.1.1	adenylate cyclase
-AC5	4.6.1.1	adenylate cyclase
-AC1	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
+isoform	4.6.1.1	adenylate cyclase
 CyaA	4.6.1.1	adenylate cyclase
 adenylate cyclase toxin	4.6.1.1	adenylate cyclase
 ACA	4.6.1.1	adenylate cyclase
@@ -162,8 +162,8 @@ ACB	4.6.1.1	adenylate cyclase
 ACG	4.6.1.1	adenylate cyclase
 VC1	4.6.1.1	adenylate cyclase
 type V AC	4.6.1.1	adenylate cyclase
-Ma1120	4.6.1.1	adenylate cyclase
-ML1399	4.6.1.1	adenylate cyclase
+functional orthologue of Rv1120c	4.6.1.1	adenylate cyclase
+Rv1647 orthologue	4.6.1.1	adenylate cyclase
 Ry1625c	4.6.1.1	adenylate cyclase
 AC Rv1625c	4.6.1.1	adenylate cyclase
 Rv1625c	4.6.1.1	adenylate cyclase
@@ -174,8 +174,8 @@ class III adenylate cyclase	4.6.1.1	adenylate cyclase
 class VI AC	4.6.1.1	adenylate cyclase
 Cyr1p	4.6.1.1	adenylate cyclase
 class IV AC	4.6.1.1	adenylate cyclase
-5,8,9,11,14,16,21,22,27,29,31,33,34,35,37,38,42,46,55,56,57,62,80,94	4.6.1.1	adenylate cyclase
-class	4.6.1.1	adenylate cyclase
+class III adenylylcyclase	4.6.1.1	adenylate cyclase
+classIII AC	4.6.1.1	adenylate cyclase
 adenylyl cyclase-beta	4.6.1.1	adenylate cyclase
 ACbeta	4.6.1.1	adenylate cyclase
 class IVadenylyl cyclase	4.6.1.1	adenylate cyclase
@@ -187,17 +187,17 @@ pituitary adenylate cyclase	4.6.1.1	adenylate cyclase
 CyaB1 adenylyl cyclase	4.6.1.1	adenylate cyclase
 cyaB1	4.6.1.1	adenylate cyclase
 Slr1991 adenylyl cyclase	4.6.1.1	adenylate cyclase
-CyaA toxin	4.6.1.1	adenylate cyclase
+causative agent of whooping cough	4.6.1.1	adenylate cyclase
 Cya	4.6.1.1	adenylate cyclase
 ACT	4.6.1.1	adenylate cyclase
 AC toxin	4.6.1.1	adenylate cyclase
 particulate adenylyl cyclase	4.6.1.1	adenylate cyclase
 transmembrane adenylyl cyclase	4.6.1.1	adenylate cyclase
-More	4.6.1.1	adenylate cyclase
+26 isoforms	4.6.1.1	adenylate cyclase
 Cya1	4.6.1.1	adenylate cyclase
 class V AC	4.6.1.1	adenylate cyclase
 Edema factor	4.6.1.1	adenylate cyclase
-Ca	4.6.1.1	adenylate cyclase
+Ca(II)- and calmodulin-dependent adenylyl cyclase edema factor	4.6.1.1	adenylate cyclase
 MM0157	4.6.1.1	adenylate cyclase
 MM0935	4.6.1.1	adenylate cyclase
 MM2454	4.6.1.1	adenylate cyclase
@@ -229,9 +229,9 @@ MM4438	4.6.1.1	adenylate cyclase
 MM5137	4.6.1.1	adenylate cyclase
 MM3640	4.6.1.1	adenylate cyclase
 MM0730	4.6.1.1	adenylate cyclase
-sACI/II	4.6.1.1	adenylate cyclase
+mammalian soluble AC chimaera	4.6.1.1	adenylate cyclase
 adenylyl cyclase VII	4.6.1.1	adenylate cyclase
-IspE	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+monofunctional enzyme	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
 MEC synthase	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
 2-methylerythritol 2,4-cyclodiphosphate synthase	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
 IspF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
@@ -245,7 +245,7 @@ YGBB	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
 MDS	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
 ME-CPP synthase	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
 2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
-IspDF	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
+bifunctional methylerythritol 4-phosphatecytidyltransferase methylerythritol 2,4-cyclodidiphosphate synthase.Complex formation of IspDF with4-diphosphocytidyl-2C-methyl-D-erythritol kinase is observed insolution	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
 MECDP synthase	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
 2-C-methyl-D-erythritol-2,4-cyclodiphosphate synthase	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
 MECS	4.6.1.12	2-C-methyl-D-erythritol 2,4-cyclodiphosphate synthase
@@ -256,12 +256,12 @@ monophosphatidylinositol phosphodiesterase	4.6.1.13	phosphatidylinositol diacylg
 phosphatidylinositol phospholipase C	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 phosphatidylinositol phosphodiesterase	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 1-phosphatidylinositol phosphodiesterase	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
-1-phosphatidyl-D-myo-inositol inositolphosphohydrolase	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
+1-phosphatidyl-D-myo-inositol inositolphosphohydrolase(cyclic-phosphate-forming)	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 EC 3.1.4.10	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 Phosphatidylinositol diacylglycerol-lyase	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 phosphatidylinositol-specific phospholipase C	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 phosphatidylinositolphospholipase C	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
-More	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
+cf. EC 3.1.4.11	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 PLC	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 phosphatidylinositol-specific PLC	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 PI-PLC	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
@@ -273,16 +273,17 @@ PLC6	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 PI-phospholipase C	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 PLC1	4.6.1.13	phosphatidylinositol diacylglycerol-lyase
 glycosyl inositol phospholipid anchor-hydrolyzing enzyme	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
+(glycosyl)phosphatidylinositol-specific phospholipase C	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 phospholipase C, glycosylphosphatidylinositol	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 glycosylphosphatidylinositol-phospholipase C	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 VSG-lipase	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 variant-surface-glycoprotein phospholipase C	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
-variant-surface-glycoprotein-1,2-didecanoyl-sn-phosphatidylinositol	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
+variant-surface-glycoprotein-1,2-didecanoyl-sn-phosphatidylinositolinositolphosphohydrolase	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 EC 3.1.4.47	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 GPI-specific phospholipase C	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 GPI-PLD	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 glycosylphosphatidylinositol-specific phospholipase D	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
-glycosylphosphatidylinositol-specific phospholipase C	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
+regulates transferrin endocytosis in the African trypanosome, surmisethat GPI-PLC regulates transferrin endocytosis in Trypanosoma brucei	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 GPI-PLC	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 glycan-phosphatidylinositol-specific phospholipase C	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
 GPI-PC	4.6.1.14	glycosylphosphatidylinositol diacylglycerol-lyase
@@ -295,10 +296,10 @@ glycosylphosphatidylinositol phospholipase C	4.6.1.14	glycosylphosphatidylinosit
 Flavine-adenine-dinucleotide cyclase	4.6.1.15	FAD-AMP lyase (cyclizing)
 Rivoflavin cyclic phosphate synthase	4.6.1.15	FAD-AMP lyase (cyclizing)
 FMN cyclase	4.6.1.15	FAD-AMP lyase (cyclizing)
-dAK	4.6.1.15	FAD-AMP lyase (cyclizing)
+gene name	4.6.1.15	FAD-AMP lyase (cyclizing)
 triokinase/FMN cyclase	4.6.1.15	FAD-AMP lyase (cyclizing)
 TKFC	4.6.1.15	FAD-AMP lyase (cyclizing)
-FMN cyclase/dha kinase	4.6.1.15	FAD-AMP lyase (cyclizing)
+bifunctional enzyme	4.6.1.15	FAD-AMP lyase (cyclizing)
 nuclease, transfer ribonucleate intron endoribo-	4.6.1.16	tRNA-intron lyase
 transfer splicing endonuclease	4.6.1.16	tRNA-intron lyase
 tRNA intron endonuclease	4.6.1.16	tRNA-intron lyase
@@ -314,31 +315,31 @@ AFN	4.6.1.16	tRNA-intron lyase
 archaeal pre-tRNA splicing endonuclease	4.6.1.16	tRNA-intron lyase
 tRNA intron-splicing endonuclease	4.6.1.16	tRNA-intron lyase
 EndATa	4.6.1.16	tRNA-intron lyase
-More	4.6.1.16	tRNA-intron lyase
+fourth type of archaeal tRNA splicing endonuclease	4.6.1.16	tRNA-intron lyase
 three-unit tRNA splicing endonuclease	4.6.1.16	tRNA-intron lyase
 epsilon2 endonuclease	4.6.1.16	tRNA-intron lyase
 ARMAN-2 EndA	4.6.1.16	tRNA-intron lyase
 Gamma-toxin	4.6.1.16	tRNA-intron lyase
-tRNA anticodon nucleases	4.6.1.16	tRNA-intron lyase
-AF_0900	4.6.1.16	tRNA-intron lyase
-STK_03580	4.6.1.16	tRNA-intron lyase
-MJ1424	4.6.1.16	tRNA-intron lyase
-ssol_1416	4.6.1.16	tRNA-intron lyase
+tRNA anticodon nucleases (ACNs)	4.6.1.16	tRNA-intron lyase
+locus name	4.6.1.16	tRNA-intron lyase
+locus name	4.6.1.16	tRNA-intron lyase
+locus name	4.6.1.16	tRNA-intron lyase
+locus name	4.6.1.16	tRNA-intron lyase
 hClp1	4.6.1.16	tRNA-intron lyase
-HEAB	4.6.1.16	tRNA-intron lyase
+human homologue to a hypothetical Caenorhabditis elegansATP/GTP-binding protein	4.6.1.16	tRNA-intron lyase
 tRNA splicing ligase	4.6.1.16	tRNA-intron lyase
-HSPC117	4.6.1.16	tRNA-intron lyase
+subunit	4.6.1.16	tRNA-intron lyase
 tRNA splicing endonuclease	4.6.1.16	tRNA-intron lyase
-tRNA-splicing endonuclease	4.6.1.16	tRNA-intron lyase
+mutations causepontocerebellar hypoplasia (Homo sapiens)	4.6.1.16	tRNA-intron lyase
 tRNA SEN	4.6.1.16	tRNA-intron lyase
-Sen2	4.6.1.16	tRNA-intron lyase
+catalytic core of the enzyme complex	4.6.1.16	tRNA-intron lyase
 RNA-splicing endonuclease	4.6.1.16	tRNA-intron lyase
-splicing endonuclease	4.6.1.16	tRNA-intron lyase
+ambiguous	4.6.1.16	tRNA-intron lyase
 tRNA endonuclease	4.6.1.16	tRNA-intron lyase
-EndA	4.6.1.16	tRNA-intron lyase
+gene name	4.6.1.16	tRNA-intron lyase
 pre-tRNA splicing endonuclease	4.6.1.16	tRNA-intron lyase
 cnx3	4.6.1.17	cyclic pyranopterin monophosphate synthase
-MoaC	4.6.1.17	cyclic pyranopterin monophosphate synthase
+the formation of the cyclic pyranopterinmonophosphate from GTP is catalyzed by MaoA and requires the action ofMoaC	4.6.1.17	cyclic pyranopterin monophosphate synthase
 ST0472	4.6.1.17	cyclic pyranopterin monophosphate synthase
 Moco-biosynthesis protein	4.6.1.17	cyclic pyranopterin monophosphate synthase
 molybdenum cofactor biosynthesis protein C	4.6.1.17	cyclic pyranopterin monophosphate synthase
@@ -364,16 +365,16 @@ ROS-GC2	4.6.1.2	guanylate cyclase
 STA receptor	4.6.1.2	guanylate cyclase
 nitric oxide-sensitive guanylate cyclase	4.6.1.2	guanylate cyclase
 NO-sensitive GC	4.6.1.2	guanylate cyclase
-soluble	4.6.1.2	guanylate cyclase
-1,2,3,5,6,7,8,9,10,13,14,15,17,18,19,22,24,25,26,31,33,34,35,36,37,38	4.6.1.2	guanylate cyclase
-1,2,3,5,6,7,8,9,10,13,14,15,17,19,22,24,31,33,34,35,36,38,39,41,42,56	4.6.1.2	guanylate cyclase
+solubleguanylate cyclase	4.6.1.2	guanylate cyclase
+sGC	4.6.1.2	guanylate cyclase
+soluble guanylyl cyclase	4.6.1.2	guanylate cyclase
 GTP-pyrophosphate liase cyclizing	4.6.1.2	guanylate cyclase
 BR1-GC	4.6.1.2	guanylate cyclase
 brassinosteroid receptor 1	4.6.1.2	guanylate cyclase
 PepR1-GC	4.6.1.2	guanylate cyclase
 NOGC1	4.6.1.2	guanylate cyclase
 PSK receptor	4.6.1.2	guanylate cyclase
-PSKR1	4.6.1.2	guanylate cyclase
+shows dual guanylate cyclase and kinase catalyticactivities in vivo and in vitro	4.6.1.2	guanylate cyclase
 phytosulfokine receptor	4.6.1.2	guanylate cyclase
 particulate guanylyl cyclase	4.6.1.2	guanylate cyclase
 soluble GC	4.6.1.2	guanylate cyclase
@@ -386,11 +387,11 @@ L1 H-NOX	4.6.1.2	guanylate cyclase
 L2 H-NOX	4.6.1.2	guanylate cyclase
 NO-sGC	4.6.1.2	guanylate cyclase
 nitric-oxide-sensitive guanylyl cyclase	4.6.1.2	guanylate cyclase
-Gyc-88E	4.6.1.2	guanylate cyclase
+atypical sGC	4.6.1.2	guanylate cyclase
 Gyca-99B	4.6.1.2	guanylate cyclase
 Gycb-100B	4.6.1.2	guanylate cyclase
-Gyc-89Db	4.6.1.2	guanylate cyclase
-Gyc-89Da	4.6.1.2	guanylate cyclase
+atypical sGC	4.6.1.2	guanylate cyclase
+atypical sGC	4.6.1.2	guanylate cyclase
 H-NOX	4.6.1.2	guanylate cyclase
 SONO	4.6.1.2	guanylate cyclase
 guanylate cyclase 1	4.6.1.2	guanylate cyclase
@@ -413,15 +414,15 @@ ANF-RGC	4.6.1.2	guanylate cyclase
 membrane guanylate cyclase	4.6.1.2	guanylate cyclase
 sGCalpha2beta1	4.6.1.2	guanylate cyclase
 sGCalpha1	4.6.1.2	guanylate cyclase
-RetGC2	4.6.1.2	guanylate cyclase
+isozyme	4.6.1.2	guanylate cyclase
 guanylyl cyclase-C	4.6.1.2	guanylate cyclase
-RetGC1	4.6.1.2	guanylate cyclase
+isozyme	4.6.1.2	guanylate cyclase
 GC-C	4.6.1.2	guanylate cyclase
 membrane guanylyl cyclase receptor	4.6.1.2	guanylate cyclase
-GC-A	4.6.1.2	guanylate cyclase
+isoform	4.6.1.2	guanylate cyclase
 guanylyl cyclase C	4.6.1.2	guanylate cyclase
 GTP-pyrophosphate lyase	4.6.1.2	guanylate cyclase
-More	4.6.1.2	guanylate cyclase
+GC-C is a member of the particulateguanylyl cyclase family	4.6.1.2	guanylate cyclase
 PGC	4.6.1.2	guanylate cyclase
 particulate guanylate cyclase	4.6.1.2	guanylate cyclase
 NO-sensitive guanylyl cyclase	4.6.1.2	guanylate cyclase
@@ -459,13 +460,13 @@ guanylyl cyclase A	4.6.1.2	guanylate cyclase
 membrane-bound GC	4.6.1.2	guanylate cyclase
 membrane-bound guanylate cyclase	4.6.1.2	guanylate cyclase
 GCC	4.6.1.2	guanylate cyclase
-GC-B	4.6.1.2	guanylate cyclase
+isoform	4.6.1.2	guanylate cyclase
 ROS-GC1	4.6.1.2	guanylate cyclase
 soluble guanylyl cyclases	4.6.1.2	guanylate cyclase
-NO receptor	4.6.1.2	guanylate cyclase
+alpha1*beta1 isoform of soluble guanylyl cyclase	4.6.1.2	guanylate cyclase
 ONE-GC	4.6.1.2	guanylate cyclase
 ONE-GC membrane guanylate cyclase	4.6.1.2	guanylate cyclase
-sGCbeta1	4.6.1.2	guanylate cyclase
+beta1 subunit of soluble guanylyl cyclase	4.6.1.2	guanylate cyclase
 nitric oxide sensitive-guanylyl cyclase	4.6.1.2	guanylate cyclase
 sGC alpha2 inhibitory isoform	4.6.1.2	guanylate cyclase
 sGC alpha2 isoform	4.6.1.2	guanylate cyclase
@@ -475,7 +476,7 @@ NO sensitive guanylyl cyclase	4.6.1.2	guanylate cyclase
 guanylate cyclase A	4.6.1.2	guanylate cyclase
 guanylate cyclase B	4.6.1.2	guanylate cyclase
 RET-GC1	4.6.1.2	guanylate cyclase
-sGCbeta3	4.6.1.2	guanylate cyclase
+soluble guanylyl cyclase beta-3 subunit	4.6.1.2	guanylate cyclase
 CNP-sensitive guanyly cyclase	4.6.1.2	guanylate cyclase
 membrane bound guanylyl cyclase	4.6.1.2	guanylate cyclase
 membrane bound guanylate cyclase	4.6.1.2	guanylate cyclase
@@ -488,6 +489,6 @@ alpha1beta1 guanylyl cyclase	4.6.1.2	guanylate cyclase
 NPR-B	4.6.1.2	guanylate cyclase
 3',5'-cyclic-CMP synthase	4.6.1.6	cytidylate cyclase
 cytidyl cyclase	4.6.1.6	cytidylate cyclase
-CyaA	4.6.1.6	cytidylate cyclase
+also possesses cytidylyl cyclase activity	4.6.1.6	cytidylate cyclase
 cytidylyl cyclase	4.6.1.6	cytidylate cyclase
-Edema factor	4.6.1.6	cytidylate cyclase
+also possesses cytidylyl cyclase activity	4.6.1.6	cytidylate cyclase

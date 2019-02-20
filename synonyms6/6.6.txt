@@ -7,24 +7,24 @@ Mg-protoporphyrin IX magnesio-lyase	6.6.1.1	magnesium chelatase
 ChlHID	6.6.1.1	magnesium chelatase
 chelatase H subunit	6.6.1.1	magnesium chelatase
 chelatase H	6.6.1.1	magnesium chelatase
-Oil Yellow1	6.6.1.1	magnesium chelatase
-Oy1	6.6.1.1	magnesium chelatase
+Oil yellow1 (Oy1) gene encodes the I subunit ofmagnesium chelatase	6.6.1.1	magnesium chelatase
+Oil yellow1 (Oy1) gene encodes the I subunit ofmagnesium chelatase	6.6.1.1	magnesium chelatase
 ZmChlI	6.6.1.1	magnesium chelatase
-BchI	6.6.1.1	magnesium chelatase
-BchD	6.6.1.1	magnesium chelatase
+38 kDa subunit I, Mg-chelatase consists of threesubunits BchH, BchD and BchI, subunits D and I form the AAA+ motorcomplex in the presence of ATP and Mg2+, whereas subunit H bindsprotoporphyrin IX	6.6.1.1	magnesium chelatase
+magnesium chelatase subunit	6.6.1.1	magnesium chelatase
 Mg chelatase	6.6.1.1	magnesium chelatase
-XanF	6.6.1.1	magnesium chelatase
-Xantha-f	6.6.1.1	magnesium chelatase
-BchH	6.6.1.1	magnesium chelatase
-Mg-chelatase	6.6.1.1	magnesium chelatase
+subunit H	6.6.1.1	magnesium chelatase
+gene name of subunit H	6.6.1.1	magnesium chelatase
+magnesium chelatase subunit	6.6.1.1	magnesium chelatase
+consists of three subunits interactionsBchH or ChlH, BchD or ChlD, and BchI or ChlI	6.6.1.1	magnesium chelatase
 CHLI protein	6.6.1.1	magnesium chelatase
 magnesium-protoporphyrin IX chelatase	6.6.1.1	magnesium chelatase
 CHLI	6.6.1.1	magnesium chelatase
-ABAR/CHLH	6.6.1.1	magnesium chelatase
-ABAR	6.6.1.1	magnesium chelatase
-Mg-chelatase H	6.6.1.1	magnesium chelatase
+putative abscisic acid receptor/chelatase H subunit	6.6.1.1	magnesium chelatase
+369 amino acid residues (631-999) of chelatase H subunit	6.6.1.1	magnesium chelatase
+subunit	6.6.1.1	magnesium chelatase
 H subunit of Mg-chelatase	6.6.1.1	magnesium chelatase
-ChlH	6.6.1.1	magnesium chelatase
+subunit	6.6.1.1	magnesium chelatase
 magnesium chelatase	6.6.1.1	magnesium chelatase
 BchID	6.6.1.1	magnesium chelatase
 CobN–CobST	6.6.1.2	cobaltochelatase

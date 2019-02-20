@@ -3,7 +3,7 @@ source("variables.R")
 
 # Standard readtable
 new_table <- function(name){
-  read.table(name, header = TRUE, na.strings = "null", sep = "\t")
+  read.delim(name, header = TRUE, na.strings = "null", sep = "\t")
 }
 
 # Standard do function for parameter
@@ -37,7 +37,7 @@ addNoData <- function(n, ...){
 }
 # Same table in and out
 noTable <- function(n, ...){
-  tb <- data.frame(Ref = 0, data = NA)
+  tb <- data.frame(Ref = 0, data = NA, Mutant = FALSE)
   attributes(tb)$names[2] <- nat[n]
   tb
 }
@@ -87,8 +87,14 @@ encoder_filter<-function(up){
   cond
 }
 
+# Generar imagen
+imageEnzymeTab <- function(n){
+  file = paste("www\\0", n, " Subclases.png", sep = "")
+  list(src = file, contentType = "image/png")
+}
+
 # Process Fasta to download
-processFasta <- function(folder, no_filter){
+processFasta <- function(folder, no_filter, rows_selected){
   file <- paste(folder, "fasta_output.txt", sep = "")
   if(no_filter){
     table <- read.table(file, header = FALSE, sep = "\t", col.names = "")
@@ -96,7 +102,7 @@ processFasta <- function(folder, no_filter){
   }
   else{
     fasta <- readAAStringSet(file)
-    s <- input$fastaTable_rows_selected
+    s <- rows_selected
     int <- c()
     if(length(s)){int <- c(int, s)}
     table <- paste(">", names(fasta[int]), "\n", fasta[int], sep = "")

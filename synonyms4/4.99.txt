@@ -5,10 +5,10 @@ iron chelatase	4.99.1.1	protoporphyrin ferrochelatase
 heme synthetase	4.99.1.1	protoporphyrin ferrochelatase
 Protoheme ferro-lyase	4.99.1.1	protoporphyrin ferrochelatase
 HEM15	4.99.1.1	protoporphyrin ferrochelatase
-FC1	4.99.1.1	protoporphyrin ferrochelatase
-FC2	4.99.1.1	protoporphyrin ferrochelatase
-protoporphyrin	4.99.1.1	protoporphyrin ferrochelatase
-hemH	4.99.1.1	protoporphyrin ferrochelatase
+isoform	4.99.1.1	protoporphyrin ferrochelatase
+isoform	4.99.1.1	protoporphyrin ferrochelatase
+protoporphyrin (IX) ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
+gene name	4.99.1.1	protoporphyrin ferrochelatase
 PPIX ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
 protohaem ferrolyase	4.99.1.1	protoporphyrin ferrochelatase
 type II ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
@@ -20,8 +20,8 @@ PfFC	4.99.1.1	protoporphyrin ferrochelatase
 protoporhyrin IX ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
 FeCH	4.99.1.1	protoporphyrin ferrochelatase
 heme synthase	4.99.1.1	protoporphyrin ferrochelatase
-ferrochelatase I	4.99.1.1	protoporphyrin ferrochelatase
-ferrochelatase II	4.99.1.1	protoporphyrin ferrochelatase
+isoform	4.99.1.1	protoporphyrin ferrochelatase
+isoform	4.99.1.1	protoporphyrin ferrochelatase
 ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
 protoporphyrin IX ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
 protoheme ferrolyase	4.99.1.1	protoporphyrin ferrochelatase
@@ -30,21 +30,21 @@ SGRL	4.99.1.10	magnesium dechelatase
 Mg-dechelatase	4.99.1.10	magnesium dechelatase
 cfbA	4.99.1.11	sirohydrochlorin nickelchelatase
 lyase, alkylmercury	4.99.1.2	alkylmercury lyase
-merB	4.99.1.2	alkylmercury lyase
+gene name	4.99.1.2	alkylmercury lyase
 organomercury lyase	4.99.1.2	alkylmercury lyase
-MerB3	4.99.1.2	alkylmercury lyase
+isoform	4.99.1.2	alkylmercury lyase
 alkylmercury mercuric-lyase	4.99.1.2	alkylmercury lyase
 organomercurial lyase	4.99.1.2	alkylmercury lyase
-MerB1	4.99.1.2	alkylmercury lyase
-MerB2	4.99.1.2	alkylmercury lyase
+isoform	4.99.1.2	alkylmercury lyase
+gene name	4.99.1.2	alkylmercury lyase
 anaerobic cobalt chelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
 CbiK	4.99.1.3	sirohydrochlorin cobaltochelatase
 cobalt chelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
 CbiXOH	4.99.1.3	sirohydrochlorin cobaltochelatase
-More	4.99.1.3	sirohydrochlorin cobaltochelatase
+the enzyme belongs to the AAA+ superfamily of proteins	4.99.1.3	sirohydrochlorin cobaltochelatase
 sirohydrochlorin cobalt-lyase	4.99.1.3	sirohydrochlorin cobaltochelatase
 archaeal cobaltochelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
-CbiXS	4.99.1.3	sirohydrochlorin cobaltochelatase
+small, single-domain chelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
 sirohydrochlorin cobaltochelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
 CbiX	4.99.1.3	sirohydrochlorin cobaltochelatase
 cobaltochelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
@@ -55,11 +55,11 @@ sirohydrochlorin cobalt chelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
 cobalamin cobalt chelatase	4.99.1.3	sirohydrochlorin cobaltochelatase
 CbiX0H	4.99.1.3	sirohydrochlorin cobaltochelatase
 CbiXL	4.99.1.3	sirohydrochlorin cobaltochelatase
-Met8p	4.99.1.4	sirohydrochlorin ferrochelatase
-More	4.99.1.4	sirohydrochlorin ferrochelatase
+Saccharomyces cerevisiae	4.99.1.4	sirohydrochlorin ferrochelatase
+member of the class 2 chelatases	4.99.1.4	sirohydrochlorin ferrochelatase
 sirohydrochlorin ferrochelatase	4.99.1.4	sirohydrochlorin ferrochelatase
-SirB	4.99.1.4	sirohydrochlorin ferrochelatase
-CysG	4.99.1.4	sirohydrochlorin ferrochelatase
+Bacillus megaterium	4.99.1.4	sirohydrochlorin ferrochelatase
+Salmonella enterica	4.99.1.4	sirohydrochlorin ferrochelatase
 CbiX	4.99.1.4	sirohydrochlorin ferrochelatase
 sirohydrochlorin-ferrochelatase	4.99.1.4	sirohydrochlorin ferrochelatase
 OxdB	4.99.1.5	aliphatic aldoxime dehydratase
@@ -87,4 +87,4 @@ heme-detoxification protein	4.99.1.8	heme ligase
 heme detoxification protein	4.99.1.8	heme ligase
 HDP	4.99.1.8	heme ligase
 alpha-HDP	4.99.1.8	heme ligase
-hemH	4.99.1.9	coproporphyrin ferrochelatase
+gene name	4.99.1.9	coproporphyrin ferrochelatase

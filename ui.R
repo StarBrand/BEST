@@ -16,6 +16,7 @@ library(shinyalert)
 library(plotly)
 library(shinyBS)
 source("helpers.R")
+source("variables.R")
 
 dashboardPage(skin = "green",
   dashboardHeader(title = "Title",
@@ -132,7 +133,7 @@ dashboardPage(skin = "green",
       # Enzyme
       tabItem(tabName = "enzyme",
               box( title = "Select Enzyme", width = 4,
-                   div(style='height:80vh; overflow-y: scroll',
+                   div(style='height:75vh; overflow-y: scroll',
                    h3("Chooce an input to look for the enzymes you need"),
                    helpText("The ... app allows multiple type of",
                             "inputs. Such as enter the ,",
@@ -209,15 +210,16 @@ dashboardPage(skin = "green",
               box(width = 8, heigth = '10vh',
                   uiOutput("enzymeWillBe")
               ),
-              box(width = 8, heigth = '70vh'
-                
+              box(width = 8, heigth = '80vh',
+                div(style = "text-align: center;",
+                imageOutput("subclass"))
               )
       ),
       
       # Protein Table
       tabItem(tabName = "proteinTable",
-                box(title = "Select Parameters", width = 3, height = '90vh',
-                    div(style='height:80vh; overflow-y: scroll',
+                box(title = "Select Parameters", width = 3, height = '85vh',
+                    div(style='height:75vh; overflow-y: scroll',
                     h4('Parameters to be look up'),
                     materialSwitch("allParameters", "Select all functional parameters", right = TRUE, value = FALSE, status = "primary"),
                     checkboxGroupInput("attributes", "",
@@ -254,11 +256,12 @@ dashboardPage(skin = "green",
                               "right", trigger = "hover", options = list(container = "body"))),
                     tags$hr(),
                     div(style = "float: right;",
+                        circleButton("helpParameters", icon("question"), status = "success", size = "xs"),
                         actionButton("parameters", "Search for parameters", class = "btn-success")),
-                    bsTooltip("parameters", "Here you can obtain numerical parameters of the enzymes you want to", "right")
+                    bsTooltip("helpParameters", "Here you can obtain numerical parameters of the enzymes you want to", "top")
                 )),
                 box(
-                  title = "Protein Table", width = 9,
+                  title = "Protein Table", width = 9, height = '85vh',
                   div(style="display: inline-block;",downloadButton("downloadProtein", "Download table(.csv)", class = "btn-primary")),
                   bsTooltip("downloadProtein", "Download this table in .csv format (comment column will be included)", "bottom", "hover"),
                   div(style="display: inline-block;",actionButton("toFasta", "Get sequence", class = "btn-success")),
@@ -278,7 +281,7 @@ dashboardPage(skin = "green",
                   div(style="display: inline-block;", checkboxInput("showLiterature1", "Show the Literature column (Pubmed ID)", value = FALSE)),
                   tags$br(),
                   div(style='height:60vh; overflow-y: scroll',
-                  DTOutput("distProteinTable", height = '60vh'))
+                  DTOutput("distProteinTable", height = '20vh'))
                 )
       ),
       
@@ -465,7 +468,10 @@ dashboardPage(skin = "green",
                 div(style="display: inline-block;",
                 p("To filter the list by parameters: ")),
                 div(style="display: inline-block;",
-                actionLink("filterInput", "click here"))
+                actionLink("filterInput", "click here")),
+                tags$hr(),
+                h5("Summary"),
+                tableOutput("informationTable")
                 )
               ),
               box(
@@ -480,7 +486,7 @@ dashboardPage(skin = "green",
       
       # Parameters Found show with an Histogram
       tabItem(tabName = "histogram",
-              box(title = "Sidebar", width = 3, height = '90vh',
+              box(width = 3, height = '80vh',
                   checkboxInput("new_table", "Work with a new table"),
                   conditionalPanel(condition = "input.new_table",
                                    fileInput("uploadTable", "Upload a new table")
@@ -501,14 +507,14 @@ dashboardPage(skin = "green",
                   bsTooltip("getCorrelation", "Generate the correlation matrix of the data found. Note: This can take several minutes")
               ),
               box(title = "Parameters Found", width = 9,
-                  height = '85vh',
+                  height = '80vh',
                   div(plotlyOutput("histogram"), height = '70vh', width = '70vh')
               )
       ),
       
       # Distribution
       tabItem(tabName = "distribution",
-              box(title = "Information", width = 3, height = '90vh',
+              box(title = "Information", width = 3, height = '85vh',
                   helpText("This show the distribution of every functional parameters filtered and found. ",
                            "The box plot contains the measures of position, such as the quartils, median and ",
                            "average. The outliers are shown as point indicating value, organism and recommended ",
@@ -531,7 +537,7 @@ dashboardPage(skin = "green",
       
       # Correlation
       tabItem(tabName = "correlation",
-              box(title = "Options", width = 3, height = '90vh',
+              box(title = "Options", width = 3, height = '85vh',
                   radioButtons("correlationEquation", "Change the type of correlation calculated",
                                choices = list("Pearson" = "pearson",
                                               "Kendall" = "kendall",
@@ -541,7 +547,7 @@ dashboardPage(skin = "green",
                   tags$hr(),
                   actionButton("pairs", "Generate a correlation scatterplot", class = "btn-danger")
                   ),
-              box(tile = "Distribution", width = 9,
+              box(tile = "Correlation Matrix", width = 9,
                   height = '70vh',
                   div(
                     plotlyOutput("correlationOut"),

@@ -23,22 +23,22 @@ MsTopA	5.99.1.2	DNA topoisomerase
 bcTopo I	5.99.1.2	DNA topoisomerase
 MtbTopA	5.99.1.2	DNA topoisomerase
 MtTOP1	5.99.1.2	DNA topoisomerase
-LdTOP1L	5.99.1.2	DNA topoisomerase
-LdTOP1S	5.99.1.2	DNA topoisomerase
+large subunit	5.99.1.2	DNA topoisomerase
+small subunit	5.99.1.2	DNA topoisomerase
 bi-subunit topoisomerase I	5.99.1.2	DNA topoisomerase
 LdTOP1LS	5.99.1.2	DNA topoisomerase
 LdTop1	5.99.1.2	DNA topoisomerase
 Type I DNA topoisomerase	5.99.1.2	DNA topoisomerase
 Topo I	5.99.1.2	DNA topoisomerase
-DNA topoisomerase	5.99.1.2	DNA topoisomerase
-vTopo	5.99.1.2	DNA topoisomerase
+DNA topoisomeraseI	5.99.1.2	DNA topoisomerase
+closely related to the human type I topoisomerase(hTopo)	5.99.1.2	DNA topoisomerase
 type IB topoisomerase	5.99.1.2	DNA topoisomerase
 Vaccinia DNA topoisomerase I	5.99.1.2	DNA topoisomerase
 DNA topoisomerase type I	5.99.1.2	DNA topoisomerase
 PfTopI	5.99.1.2	DNA topoisomerase
 PfTopoI	5.99.1.2	DNA topoisomerase
 YTOP	5.99.1.2	DNA topoisomerase
-Reverse gyrase	5.99.1.2	DNA topoisomerase
+is a DNA topoisomerase, specific tomicroorganisms living at high temperatures, which comprises a type IAtopoisomerase fused to an SF2 helicase-like module and catalyzes ATPhydrolysis-dependent DNA positive supercoiling	5.99.1.2	DNA topoisomerase
 TopR1	5.99.1.2	DNA topoisomerase
 SsTop3	5.99.1.2	DNA topoisomerase
 topoisomerase V	5.99.1.2	DNA topoisomerase
@@ -51,36 +51,37 @@ ATP-independent type I topoisomerase	5.99.1.2	DNA topoisomerase
 OpTop1	5.99.1.2	DNA topoisomerase
 Ca-Top1	5.99.1.2	DNA topoisomerase
 MimiTopIB	5.99.1.2	DNA topoisomerase
-variola topoisomerase IB	5.99.1.2	DNA topoisomerase
+type IB	5.99.1.2	DNA topoisomerase
 Poxviridae topoisomerase IB	5.99.1.2	DNA topoisomerase
-topoisomerase IIIbeta	5.99.1.2	DNA topoisomerase
+subfamily of prokaryotic type IAtopoisomerases that are different from the prototypical ecTopo I andecTopo III-like enzymes	5.99.1.2	DNA topoisomerase
 bcTopo IIIbeta	5.99.1.2	DNA topoisomerase
 mTopoI	5.99.1.2	DNA topoisomerase
 YpTOP	5.99.1.2	DNA topoisomerase
 OlTop1	5.99.1.2	DNA topoisomerase
+type IB topoisomerase	5.99.1.2	DNA topoisomerase
 topoisomerase 1	5.99.1.2	DNA topoisomerase
 Top1	5.99.1.2	DNA topoisomerase
 OjTop1	5.99.1.2	DNA topoisomerase
 AtTop1	5.99.1.2	DNA topoisomerase
 type IA DNA topoisomerase	5.99.1.2	DNA topoisomerase
 LdTopIIIbeta	5.99.1.2	DNA topoisomerase
-DNA topoisomerase III	5.99.1.2	DNA topoisomerase
+belongs to the type IA family of DNAtopoisomerases	5.99.1.2	DNA topoisomerase
 topoisomerase IV	5.99.1.2	DNA topoisomerase
 topoIV	5.99.1.2	DNA topoisomerase
 EcTOP	5.99.1.2	DNA topoisomerase
 ETOP	5.99.1.2	DNA topoisomerase
 topoisomerase I homolog	5.99.1.2	DNA topoisomerase
 YrdD	5.99.1.2	DNA topoisomerase
-TopA	5.99.1.2	DNA topoisomerase
+gene name	5.99.1.2	DNA topoisomerase
 type IA topoisomerase	5.99.1.2	DNA topoisomerase
 topoisomerase III	5.99.1.2	DNA topoisomerase
 MttopoI	5.99.1.2	DNA topoisomerase
-SiRe_1176	5.99.1.2	DNA topoisomerase
+locus name	5.99.1.2	DNA topoisomerase
 htopo I	5.99.1.2	DNA topoisomerase
 DNA topoisomerase IIIalpha	5.99.1.2	DNA topoisomerase
 topoisomerase IIIalpha	5.99.1.2	DNA topoisomerase
 hTopo IIIalpha	5.99.1.2	DNA topoisomerase
-hTopoI	5.99.1.2	DNA topoisomerase
+htopoI readily and very efficiently forms doublecleavage complexes after the relaxation of negatively supercoiledplasmid DNA both with recombinant enzyme and with purified htopoI. Whentopo I is isolated from HeLa S3 cells, a considerable fraction migratesto the same gel electrophoretic position as topo I bearing a covalentlybound 13-mer oligonucleotide. This may suggest that double cleavagecomplexes also form under intracellular conditions	5.99.1.2	DNA topoisomerase
 TopI	5.99.1.2	DNA topoisomerase
 hTopo	5.99.1.2	DNA topoisomerase
 top I	5.99.1.2	DNA topoisomerase
@@ -107,7 +108,7 @@ Topoisomerase type II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 Type II-DNA-topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 NP170 proteins	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 Nuclear proteins 170,000-mol.wt.	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-Proteins , NP170	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Proteins , NP170 (specific proteins and subclasses nuclear protein,170,000-mol.-wt.)	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 Protein Gp39	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 Protein Gp52	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 Protein Gp60	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
@@ -120,9 +121,9 @@ MmT6	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 topoVI	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 topoisomerase VI	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 topoVI-B	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-top6B	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-topR	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-More	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+gene name	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+gene name	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+topoisomerase II is an ATPase belonging to the GHKLfamily	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 DNA topoisomerases II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 toposiomerase II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 topo II alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
@@ -144,7 +145,7 @@ TOPOII	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 Top2alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 type II topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 type II DNA topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-topoisomerase II alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+isoform	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 type IIA topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 TopoNM	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 topoisomerase IIA	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
@@ -152,16 +153,16 @@ Topo IIA	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 DNA topoisomerase II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 TOP2mt	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 topoisomerase-II	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-Reverse gyrase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+Sulfolobus solfataricus, like mostCrenarchaeota, contains two genes each encoding a reverse gyrase, TopR1and TopR2	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 type I topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 TopII	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-TopR1	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-TopR2	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+gene name	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+gene name	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 topo VI	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 DNA topoisomerase VI	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 topoIV	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-DNA topoisomerase IV	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-5,7,10,19,21,23,25,26,27,28,29,32,33,34,35,37,44,51,52,54,55,56,61,62	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+type IIA DNA topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+DNA gyrase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 DNA gyrase-B	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 ATP-dependent type I 5'-topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 top2a	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
@@ -171,14 +172,14 @@ ATP-dependent topoisomerase	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 hTopoIIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 topo2alpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 SsT6	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-topoIIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-Topo IIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-topoIIbeta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+isozyme	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+isozyme	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+isozyme	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 DNA topoisomerase IIbeta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 DNA Top IIbeta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-Topo IIbeta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-topoisomerase IIbeta	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
-topoisomerase IIalpha	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+isozyme	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+isozyme	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
+isozyme	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 Top2	5.99.1.3	DNA topoisomerase (ATP-hydrolysing)
 2HC2CA isomerase	5.99.1.4	2-hydroxychromene-2-carboxylate isomerase
 2HCCAI	5.99.1.4	2-hydroxychromene-2-carboxylate isomerase

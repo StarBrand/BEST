@@ -1,5 +1,5 @@
 synonyms	ec_number	recommended_name
-aldehyde dehydrogenase	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
+aldehyde dehydrogenase (acylating)	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 CoA-dependent aldehyde dehydrogenase	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 acetyl-CoA reductase	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 coenzyme A linked aldehyde dehydrogenase	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
@@ -8,23 +8,23 @@ NAD+/CoA-dependent aldehyde dehydrogenase	1.2.1.10	acetaldehyde dehydrogenase (a
 DmpF	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 acylating acetaldehyde dehydrogenase	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 MhpF	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
-acetaldehyde dehydrogenase	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
+acetaldehyde dehydrogenasefrom Leuconostoc mesenteroides is a bifunctional enzyme possessingalcohol dehydrogenase und acetaldehyde dehydrogenase domains	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 aldehyde dehydrogenase	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 ALDH	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 ACDH	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 BphJ	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 nonphosphorylating acylating aldehyde dehydrogenase	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
-TTHB247	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
+gene name	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 DmpFG	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
-Tsac_0416	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
-Teth514_0627	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
+gene name	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
+gene name	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 BAD	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
-Teth514_1942	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
-4-hydroxy-2-ketovalerate aldolase/acylating acetaldehyde	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
-AdhE	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
+gene name	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
+bifunctional enzyme	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
+bifunctional alcohol andaldehyde dehydrogenase gene	1.2.1.10	acetaldehyde dehydrogenase (acetylating)
 dehydrogenase, aspartate semialdehyde	1.2.1.11	aspartate-semialdehyde dehydrogenase
 aspartic semialdehyde dehydrogenase	1.2.1.11	aspartate-semialdehyde dehydrogenase
-L-aspartate-beta-semialdehyde:NADP oxidoreductase	1.2.1.11	aspartate-semialdehyde dehydrogenase
+L-aspartate-beta-semialdehyde:NADP oxidoreductase (phosphorylating)	1.2.1.11	aspartate-semialdehyde dehydrogenase
 aspartic beta-semialdehyde dehydrogenase	1.2.1.11	aspartate-semialdehyde dehydrogenase
 ASA dehydrogenase	1.2.1.11	aspartate-semialdehyde dehydrogenase
 ASA DH	1.2.1.11	aspartate-semialdehyde dehydrogenase
@@ -52,8 +52,8 @@ phosphoglyceraldehyde dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrog
 triose phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 3-phosphoglyceraldehyde dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 NAD-dependent glyceraldehyde phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-glyceraldehyde phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+glyceraldehyde phosphate dehydrogenase (NAD)	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+glyceraldehyde-3-phosphate dehydrogenase (NAD)	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 NADH-glyceraldehyde phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 glyceraldehyde-3-P-dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 dehydrogenase, glyceraldehyde phosphate	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
@@ -74,15 +74,15 @@ AsGAPDH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 GAPDH1	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 GAP1	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 glyceraldehyde-3-phosphate dehydrogenase 1	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-GAPDS	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-D-glyceraldehyde-3-phosphate	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-GAPD	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+sperm-specific GADPH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+D-glyceraldehyde-3-phosphatedehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+somatic isoenzyme ofglyceraldehyde-3-phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 gap2	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-CgGAP	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+gene name	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 G3PD	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 HsGAPDH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 glyceraldehyde 3-phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-D-glyceraldehyde-3-phosphate: NAD+ oxidoreductase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+D-glyceraldehyde-3-phosphate: NAD+ oxidoreductase(phosphorylating)	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 TDH1	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 TDH2	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 TDH3	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
@@ -92,21 +92,21 @@ phosphorylating NAD+-dependent GAPDH	1.2.1.12	glyceraldehyde-3-phosphate dehydro
 AnBn-GAPDH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 A4-GAPDH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 NAD-dependent glyceraldehyde-3-phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-GapB	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+resulting from the fusion of GapA with the C-terminalhalf of the regulatory peptide CP12	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 AB-GAPDH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 A4-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 GapC-1	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-GapA	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-GapC1	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-GapC2	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+A4 isoform of GAPDH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+isozyme	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+isozyme	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 GAPN	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-NAD-dependent non-phosphorylating glyceraldehyde-3-phosphate	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-NAD-dependent phosphorylating glyceraldehyde-3-phosphate	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-kmGAPDH1p	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+NAD-dependent non-phosphorylating glyceraldehyde-3-phosphatedehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+NAD-dependent phosphorylating glyceraldehyde-3-phosphatedehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+formerly referred to as p37	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 PfGAPDH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 pmGAPDH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-glyceraldehyde-3-phosphate	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-5,7,8,11,13,14,15,17,18,19,22,25,28,29,36,38,41,42,46,48,50,53,54,55	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+glyceraldehyde-3-phosphatedehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+GAPDH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 NAD+-dependent glyceraldehyde-3-phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 GADPH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 cytosolic phosphorylating glyceraldehyde-3-phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
@@ -114,12 +114,12 @@ GAPC	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 sperm-specific glyceraldehyde-3-phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 glyceraldehyde-3 phosphate dehydrogenase	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
 G3PDH	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-At3g04120	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
-dehydrogenase, glyceraldehyde phosphate	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-glyceraldehyde 3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-glyceraldehyde phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+gene name	1.2.1.12	glyceraldehyde-3-phosphate dehydrogenase (phosphorylating)
+dehydrogenase, glyceraldehyde phosphate (nicotinamide adeninedinucleotide phosphate phosphorylating)	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+glyceraldehyde 3-phosphate dehydrogenase (NADP)	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+glyceraldehyde phosphate dehydrogenase (nicotinamide adeninedinucleotide phosphate phosphorylating)	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 glyceraldehyde-P dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-NAD	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+NAD(P)-GAPDH	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADP-dependent glyceraldehyde phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADP-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADP-glyceraldehyde phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
@@ -127,26 +127,26 @@ NADP-triose phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrog
 NADP+-dependent G-3-P dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADP-GPD	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADPH-D-GA3P	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-triosephosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+triosephosphate dehydrogenase (NADP+)	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADP-dependent glyceraldehydephosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADP-dependent glyceraldehyde 3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 D-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 A4-GAPDH	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 A2B2-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-A2B2-GAPDH	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+fully active enzyme	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 glyceraldehyde-3-P dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 GAPD	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NAPD-linked glyceraldehyde-3-P dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+glyceraldehyde-3-phosphate dehydrogenase (NADP+)	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADP-GAPDH	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 glyceraldehyde-3-dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-NADP	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-GAPC	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+NADP(H)-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+gene name	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADP-dependent GAPDH	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADP-dependent glyceradehdye-3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 Ov-GAPDH	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 A4 glyceraldehyde 3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-GAPDH	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+GAPDH (A4)	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 NADPH-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 GAPDH	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 glyceraldehyde-3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
@@ -157,29 +157,29 @@ phosphorylating glyceraldehyde-3-phosphate dehydrogenase	1.2.1.13	glyceraldehyde
 GapA-1	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 photosynthetic GAPDH	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 GraP-DH	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-SSO0528	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+locus name	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 GapA	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
-glyceraldehyde-3-phosphate dehhydrogenase	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
+glyceraldehyde-3-phosphate dehhydrogenase (NADP+)(phoshphorylating)	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 GapB	1.2.1.13	glyceraldehyde-3-phosphate dehydrogenase (NADP+) (phosphorylating)
 dehydrogenase, malonate semialdehyde	1.2.1.15	malonate-semialdehyde dehydrogenase
 IolA	1.2.1.15	malonate-semialdehyde dehydrogenase
-dehydrogenase, succinate semialdehyde	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
-succinate semialdehyde dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
+dehydrogenase, succinate semialdehyde (nicotinamide adeninedinucleotide (phosphate))	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
+succinate semialdehyde dehydrogenase (nicotinamide adeninedinucleotide (phosphate))	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 SSDH	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
-succinate-semialdehyde dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
-succinate-semialdehyde dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
+succinate-semialdehyde dehydrogenase (NAD(P)+)	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
+succinate-semialdehyde dehydrogenase (NAD(P))	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 NAD+/NADP+-dependent benzaldehyde dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 NAD+/NADP+-dependent SSADH	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 succinic semialdehyde dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
-GabD1	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
+isoform	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 ALDH	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
-succinic semialdehyde:NAD	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
-NAD	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
+succinic semialdehyde:NAD(P)+ oxidoreductase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
+NAD(P)+-coupled 3-sulfopropanal dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 succinate-semialdehyde dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 3-sulfopropanal dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 sulfopropanal dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 ST0064	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
-NAD	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
+NAD(P)+-dependent succinate semialdehyde dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 YneI	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 succinate semialdehyde dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 GabD dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
@@ -188,8 +188,8 @@ SSO1842	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 SSADH-II	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 gapN-2	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 BADH	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
-NAD	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
-NAD	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
+NAD(P)+-dependent benzaldehyde dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
+NAD(P)-dependent benzaldehyde dehydrogenase	1.2.1.16	succinate-semialdehyde dehydrogenase [NAD(P)+]
 acylating glyoxylate dehydrogenase	1.2.1.17	glyoxylate dehydrogenase (acylating)
 AGODH	1.2.1.17	glyoxylate dehydrogenase (acylating)
 oxalyl-CoA reductase	1.2.1.17	glyoxylate dehydrogenase (acylating)
@@ -198,8 +198,8 @@ malonic semialdehyde oxidative decarboxylase	1.2.1.18	malonate-semialdehyde dehy
 dehydrogenase, malonate semialdehyde	1.2.1.18	malonate-semialdehyde dehydrogenase (acetylating)
 malonate semialdehyde oxidative decarboxylase	1.2.1.18	malonate-semialdehyde dehydrogenase (acetylating)
 malonate-semialdehyde: nicotinamide adenine dinucleotide oxidoreductase	1.2.1.18	malonate-semialdehyde dehydrogenase (acetylating)
-malonate-semialdehyde dehydrogenase	1.2.1.18	malonate-semialdehyde dehydrogenase (acetylating)
-Aldh6a1	1.2.1.18	malonate-semialdehyde dehydrogenase (acetylating)
+malonate-semialdehyde dehydrogenase (NADP+) (acylating)	1.2.1.18	malonate-semialdehyde dehydrogenase (acetylating)
+isozyme	1.2.1.18	malonate-semialdehyde dehydrogenase (acetylating)
 ABAL dehydrogenase	1.2.1.19	aminobutyraldehyde dehydrogenase
 dehydrogenase, aminobutyraldehyde	1.2.1.19	aminobutyraldehyde dehydrogenase
 4-aminobutanal dehydrogenase	1.2.1.19	aminobutyraldehyde dehydrogenase
@@ -208,9 +208,9 @@ gamma-guanidinobutyraldehyde dehydrogenase	1.2.1.19	aminobutyraldehyde dehydroge
 gamma-aminobutyraldehyde dehydrogenase	1.2.1.19	aminobutyraldehyde dehydrogenase
 YdcW	1.2.1.19	aminobutyraldehyde dehydrogenase
 ABALDH	1.2.1.19	aminobutyraldehyde dehydrogenase
-AMADH1	1.2.1.19	aminobutyraldehyde dehydrogenase
+isozyme	1.2.1.19	aminobutyraldehyde dehydrogenase
 aminoaldehyde dehydrogenase	1.2.1.19	aminobutyraldehyde dehydrogenase
-AMADH2	1.2.1.19	aminobutyraldehyde dehydrogenase
+isozyme	1.2.1.19	aminobutyraldehyde dehydrogenase
 4-aminobutyraldehyde dehydrogenase	1.2.1.19	aminobutyraldehyde dehydrogenase
 AMADH	1.2.1.19	aminobutyraldehyde dehydrogenase
 formate-NAD oxidoreductase	1.2.1.2	formate dehydrogenase
@@ -220,7 +220,7 @@ FDH II	1.2.1.2	formate dehydrogenase
 N-FDH	1.2.1.2	formate dehydrogenase
 dehydrogenase, formate	1.2.1.2	formate dehydrogenase
 NAD-linked formate dehydrogenase	1.2.1.2	formate dehydrogenase
-formate dehydrogenase	1.2.1.2	formate dehydrogenase
+formate dehydrogenase (NAD)	1.2.1.2	formate dehydrogenase
 NAD-formate dehydrogenase	1.2.1.2	formate dehydrogenase
 formate benzyl-viologen oxidoreductase	1.2.1.2	formate dehydrogenase
 formic acid dehydrogenase	1.2.1.2	formate dehydrogenase
@@ -230,23 +230,23 @@ FdsABG	1.2.1.2	formate dehydrogenase
 Mo-FDH	1.2.1.2	formate dehydrogenase
 tungsten-containing formate dehydrogenase	1.2.1.2	formate dehydrogenase
 FoDH1	1.2.1.2	formate dehydrogenase
-Fdh-N	1.2.1.2	formate dehydrogenase
-Fdh-H	1.2.1.2	formate dehydrogenase
-FDH-O	1.2.1.2	formate dehydrogenase
+isozyme	1.2.1.2	formate dehydrogenase
+isozyme	1.2.1.2	formate dehydrogenase
+isozyme	1.2.1.2	formate dehydrogenase
 molybdenum-containing formate dehydrogenase H	1.2.1.2	formate dehydrogenase
 NAD-dependent formate dehydrogenase	1.2.1.2	formate dehydrogenase
 NAD-FDH	1.2.1.2	formate dehydrogenase
 FDH4	1.2.1.2	formate dehydrogenase
 NAD-specific formate dehydrogenase	1.2.1.2	formate dehydrogenase
 SceFDH	1.2.1.2	formate dehydrogenase
-FDH1	1.2.1.2	formate dehydrogenase
+gene name	1.2.1.2	formate dehydrogenase
 FDH	1.2.1.2	formate dehydrogenase
-NAD+-dependent formate	1.2.1.2	formate dehydrogenase
+NAD+-dependent formatedehydrogenase	1.2.1.2	formate dehydrogenase
 Fdh2	1.2.1.2	formate dehydrogenase
 Fdh3	1.2.1.2	formate dehydrogenase
 MycFDH	1.2.1.2	formate dehydrogenase
-FDB2	1.2.1.2	formate dehydrogenase
-NAD	1.2.1.2	formate dehydrogenase
+isozyme	1.2.1.2	formate dehydrogenase
+NAD(P)+.dependent formate dehydrogenase	1.2.1.2	formate dehydrogenase
 formate dehydrogenase H	1.2.1.2	formate dehydrogenase
 FDHH	1.2.1.2	formate dehydrogenase
 formate dehydrogenase	1.2.1.2	formate dehydrogenase
@@ -254,12 +254,12 @@ PseFDH	1.2.1.2	formate dehydrogenase
 dehydrogenase, glutarate semialdehyde	1.2.1.20	glutarate-semialdehyde dehydrogenase
 GSA dehydrogenase	1.2.1.20	glutarate-semialdehyde dehydrogenase
 glutarate dialdehyde dehydrogenase	1.2.1.20	glutarate-semialdehyde dehydrogenase
-davDT davDT	1.2.1.20	glutarate-semialdehyde dehydrogenase
+gene name	1.2.1.20	glutarate-semialdehyde dehydrogenase
 glutarate semialdehyde dehydrogenase	1.2.1.20	glutarate-semialdehyde dehydrogenase
 dehydrogenase, glycol aldehyde	1.2.1.21	glycolaldehyde dehydrogenase
 dehydrogenase, lactaldehyde	1.2.1.22	lactaldehyde dehydrogenase
 L-lactaldehyde:NAD oxidoreductase	1.2.1.22	lactaldehyde dehydrogenase
-nicotinamide adenine dinucleotide	1.2.1.22	lactaldehyde dehydrogenase
+nicotinamide adenine dinucleotide (NAD)-linked dehydrogenase	1.2.1.22	lactaldehyde dehydrogenase
 ALDH	1.2.1.22	lactaldehyde dehydrogenase
 AldA	1.2.1.22	lactaldehyde dehydrogenase
 PsLADH	1.2.1.22	lactaldehyde dehydrogenase
@@ -278,21 +278,21 @@ NAD-dependent alpha-ketoaldehyde dehydrogenase	1.2.1.23	2-oxoaldehyde dehydrogen
 dehydrogenase, succinate semialdehyde	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 succinyl semialdehyde dehydrogenase	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 succinate semialdehyde:NAD+ oxidoreductase	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
-NAD	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
+NAD(+)-dependent succinic semialdehyde dehydrogenase	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 succinate semialdehyde dehydrogenase	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 SSADH	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 aldehyde dehydrogenase 5a1	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 ALDH5A1	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
-succinic semialdehyde	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
+succinic semialdehydedehydrogenase	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 YneI dehydrogenase	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 alphaKGSA dehydrogenase	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 SSALDH	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 SSADH-I	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
-SSO1629	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
+ordered locus name	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 SSADH/ALDH5A1	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 ALDH5A	1.2.1.24	succinate-semialdehyde dehydrogenase (NAD+)
 alpha-ketoisovalerate dehydrogenase	1.2.1.25	2-oxoisovalerate dehydrogenase (acylating)
-dehydrogenase, 2-oxoisovalerate	1.2.1.25	2-oxoisovalerate dehydrogenase (acylating)
+dehydrogenase, 2-oxoisovalerate (acylating)	1.2.1.25	2-oxoisovalerate dehydrogenase (acylating)
 2-oxoisovalerate dehydrogenase	1.2.1.25	2-oxoisovalerate dehydrogenase (acylating)
 2-oxoglutarate semialdehyde dehydrogenase	1.2.1.26	2,5-dioxovalerate dehydrogenase
 KGSADH-II	1.2.1.26	2,5-dioxovalerate dehydrogenase
@@ -300,7 +300,7 @@ KGSADH-III	1.2.1.26	2,5-dioxovalerate dehydrogenase
 alpha-ketoglutarate semialdehyde dehydrogenase	1.2.1.26	2,5-dioxovalerate dehydrogenase
 alpha-KGSA dehydrogenase	1.2.1.26	2,5-dioxovalerate dehydrogenase
 alphaKGSADH	1.2.1.26	2,5-dioxovalerate dehydrogenase
-SSO3117	1.2.1.26	2,5-dioxovalerate dehydrogenase
+gene name	1.2.1.26	2,5-dioxovalerate dehydrogenase
 DopDH	1.2.1.26	2,5-dioxovalerate dehydrogenase
 KGSADH	1.2.1.26	2,5-dioxovalerate dehydrogenase
 ycbD protein	1.2.1.26	2,5-dioxovalerate dehydrogenase
@@ -316,9 +316,9 @@ PA3570	1.2.1.27	methylmalonate-semialdehyde dehydrogenase (CoA-acylating)
 methylmalonate-semialdehyde dehydrogenase	1.2.1.27	methylmalonate-semialdehyde dehydrogenase (CoA-acylating)
 methylmalonic acid semialdehyde dehydrogenase	1.2.1.27	methylmalonate-semialdehyde dehydrogenase (CoA-acylating)
 MMSDH	1.2.1.27	methylmalonate-semialdehyde dehydrogenase (CoA-acylating)
-Aldh6a1	1.2.1.27	methylmalonate-semialdehyde dehydrogenase (CoA-acylating)
+gene name	1.2.1.27	methylmalonate-semialdehyde dehydrogenase (CoA-acylating)
 methylmalonate semialdehyde dehydrogenase protein	1.2.1.27	methylmalonate-semialdehyde dehydrogenase (CoA-acylating)
-benzaldehyde dehydrogenase	1.2.1.28	benzaldehyde dehydrogenase (NAD+)
+benzaldehyde dehydrogenase (NAD)	1.2.1.28	benzaldehyde dehydrogenase (NAD+)
 XylC	1.2.1.28	benzaldehyde dehydrogenase (NAD+)
 BZDH	1.2.1.28	benzaldehyde dehydrogenase (NAD+)
 benzaldehyde dehydrogenase	1.2.1.28	benzaldehyde dehydrogenase (NAD+)
@@ -349,41 +349,41 @@ Allergen Alt a 10	1.2.1.3	aldehyde dehydrogenase (NAD+)
 Brassica turgor-responsive/drought-induced gene 26 protein	1.2.1.3	aldehyde dehydrogenase (NAD+)
 Btg-26	1.2.1.3	aldehyde dehydrogenase (NAD+)
 ETA-crystallin	1.2.1.3	aldehyde dehydrogenase (NAD+)
-K	1.2.1.3	aldehyde dehydrogenase (NAD+)
-K	1.2.1.3	aldehyde dehydrogenase (NAD+)
+K(+)-ACDH	1.2.1.3	aldehyde dehydrogenase (NAD+)
+K(+)-activated acetaldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 Matured fruit 60 kDa protein	1.2.1.3	aldehyde dehydrogenase (NAD+)
 MF-60	1.2.1.3	aldehyde dehydrogenase (NAD+)
-Mg	1.2.1.3	aldehyde dehydrogenase (NAD+)
-Mg	1.2.1.3	aldehyde dehydrogenase (NAD+)
+Mg(2+)-ACDH	1.2.1.3	aldehyde dehydrogenase (NAD+)
+Mg(2+)-activated acetaldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 Non-lens ALDH1	1.2.1.3	aldehyde dehydrogenase (NAD+)
 P51	1.2.1.3	aldehyde dehydrogenase (NAD+)
 PM-ALDH9	1.2.1.3	aldehyde dehydrogenase (NAD+)
 R-aminobutyraldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 RALDH	1.2.1.3	aldehyde dehydrogenase (NAD+)
-RALDH	1.2.1.3	aldehyde dehydrogenase (NAD+)
+RALDH(II)	1.2.1.3	aldehyde dehydrogenase (NAD+)
 Retinal dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 Turgor-responsive protein 26G	1.2.1.3	aldehyde dehydrogenase (NAD+)
 aldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH2	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH3H1	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isozyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
+cytosolic isoform	1.2.1.3	aldehyde dehydrogenase (NAD+)
 BADH	1.2.1.3	aldehyde dehydrogenase (NAD+)
 phosphonoacetaldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 PnAA dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 phnY	1.2.1.3	aldehyde dehydrogenase (NAD+)
 ADH	1.2.1.3	aldehyde dehydrogenase (NAD+)
-AdhE	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH2C4	1.2.1.3	aldehyde dehydrogenase (NAD+)
-aldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
+bifunctional protein with alcohol dehydrogenaseand aldehyde dehydrogenase activities	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isoform	1.2.1.3	aldehyde dehydrogenase (NAD+)
+aldehyde dehydrogenase (NAD)	1.2.1.3	aldehyde dehydrogenase (NAD+)
 coniferyl-aldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH22A1	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isoform	1.2.1.3	aldehyde dehydrogenase (NAD+)
 aryl-aldehyde dehydrogenases	1.2.1.3	aldehyde dehydrogenase (NAD+)
-Aldh1a2	1.2.1.3	aldehyde dehydrogenase (NAD+)
+previously known as retinaldehyde dehydrogenase 2	1.2.1.3	aldehyde dehydrogenase (NAD+)
 aldehyde dehydrogenase 3A1	1.2.1.3	aldehyde dehydrogenase (NAD+)
 ALDH	1.2.1.3	aldehyde dehydrogenase (NAD+)
-Aldh7a1	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isozyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
 aldehyde dehydrogenase 7A1	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH3A1	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH1	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isoform	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isozyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
 class I ALDH	1.2.1.3	aldehyde dehydrogenase (NAD+)
 irreversible NAD+-dependent aldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 Bt-Aldh	1.2.1.3	aldehyde dehydrogenase (NAD+)
@@ -393,17 +393,17 @@ PhnN	1.2.1.3	aldehyde dehydrogenase (NAD+)
 phenylacetaldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 FeaB-K-12	1.2.1.3	aldehyde dehydrogenase (NAD+)
 ALDH5A	1.2.1.3	aldehyde dehydrogenase (NAD+)
-Aldh8a1	1.2.1.3	aldehyde dehydrogenase (NAD+)
-Aldh1a7	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isozyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isozyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
 RalDH1	1.2.1.3	aldehyde dehydrogenase (NAD+)
 benzaldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 ALDH 2	1.2.1.3	aldehyde dehydrogenase (NAD+)
 aldehyde dehydrogenase class 1	1.2.1.3	aldehyde dehydrogenase (NAD+)
-Aldh1a3	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isozyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
 class 1 aldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 class 2 aldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 hALDH2	1.2.1.3	aldehyde dehydrogenase (NAD+)
-Aldh3b1	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isozyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
 ALDH I	1.2.1.3	aldehyde dehydrogenase (NAD+)
 ALDH II	1.2.1.3	aldehyde dehydrogenase (NAD+)
 retinal dehydrogenase type I	1.2.1.3	aldehyde dehydrogenase (NAD+)
@@ -411,18 +411,18 @@ salvery aldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 sALDH	1.2.1.3	aldehyde dehydrogenase (NAD+)
 aldehyde dehydrogenase type 2	1.2.1.3	aldehyde dehydrogenase (NAD+)
 aldehyde dehydrogenase 1	1.2.1.3	aldehyde dehydrogenase (NAD+)
-aldehyde dehydrogenase 1B1	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isoform	1.2.1.3	aldehyde dehydrogenase (NAD+)
 aldehyde dehydrogenase 1A3	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALD1A1	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isoform	1.2.1.3	aldehyde dehydrogenase (NAD+)
 mitochondrial aldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
-Aldh1b1	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH2	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isozyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
+mutant enzyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
 aldehyde dehydrogenase-2	1.2.1.3	aldehyde dehydrogenase (NAD+)
 ALDH-2	1.2.1.3	aldehyde dehydrogenase (NAD+)
 aldehyde dehydrogenase 2	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH3A2	1.2.1.3	aldehyde dehydrogenase (NAD+)
-aldehyde dehydrogenase 1A1	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH1A1	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isozyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isoform	1.2.1.3	aldehyde dehydrogenase (NAD+)
+isozyme	1.2.1.3	aldehyde dehydrogenase (NAD+)
 NAD+-dependent aldehyde dehydrogenase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 PuuC	1.2.1.3	aldehyde dehydrogenase (NAD+)
 NAD+-specific ALDH	1.2.1.3	aldehyde dehydrogenase (NAD+)
@@ -431,9 +431,9 @@ ALDH7	1.2.1.3	aldehyde dehydrogenase (NAD+)
 phosphonoacetaldehyde oxidase	1.2.1.3	aldehyde dehydrogenase (NAD+)
 ALDH2B8	1.2.1.3	aldehyde dehydrogenase (NAD+)
 ALDDH	1.2.1.3	aldehyde dehydrogenase (NAD+)
-Cphy_1178	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH2	1.2.1.3	aldehyde dehydrogenase (NAD+)
-ALDH2	1.2.1.3	aldehyde dehydrogenase (NAD+)
+locus name	1.2.1.3	aldehyde dehydrogenase (NAD+)
+ALDH2(1)	1.2.1.3	aldehyde dehydrogenase (NAD+)
+ALDH2(3)	1.2.1.3	aldehyde dehydrogenase (NAD+)
 p-ALDH2	1.2.1.3	aldehyde dehydrogenase (NAD+)
 YneI	1.2.1.3	aldehyde dehydrogenase (NAD+)
 NAD+-dependent ALDH	1.2.1.3	aldehyde dehydrogenase (NAD+)
@@ -447,14 +447,14 @@ alpha-aminoadipate-semialdehyde dehydrogenase	1.2.1.31	L-aminoadipate-semialdehy
 2-aminoadipic semialdehyde dehydrogenase	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 L-alpha-aminoadipate delta-semialdehyde oxidoreductase	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 L-alpha-aminoadipate delta-semialdehyde:NAD oxidoreductase	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
-L-alpha-aminoadipate delta-semialdehyde:nicotinamide adenine	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
+L-alpha-aminoadipate delta-semialdehyde:nicotinamide adeninedinucleotide oxidoreductase	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 Alpha-AR	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 adipic 6-semialdehyde dehydrogenase	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 L-aminoadipate-semialdehyde dehydrogenase	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 Nalpha-Z-L-AASA dehydrogenase	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 human U26	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 U26	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
-Aldh7a1	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
+isozyme	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 alpha-aminoadipic acid-delta-semialdehyde dehydrogenase	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 2-aminoadipic 6-semialdehyde dehydrogenase	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
 alpha-aminoadipic semialdehyde dehydrogenase	1.2.1.31	L-aminoadipate-semialdehyde dehydrogenase
@@ -481,7 +481,7 @@ AMDH	1.2.1.32	aminomuconate-semialdehyde dehydrogenase
 aminomuconate-semialdehyde dehydrogenase	1.2.1.32	aminomuconate-semialdehyde dehydrogenase
 D-aldopantoate dehydrogenase	1.2.1.33	(R)-dehydropantoate dehydrogenase
 dehydrogenase, D-aldopantoate	1.2.1.33	(R)-dehydropantoate dehydrogenase
-D-2-hydroxy-3,3-dimethyl-3-formylpropionate:diphosphopyridine	1.2.1.33	(R)-dehydropantoate dehydrogenase
+D-2-hydroxy-3,3-dimethyl-3-formylpropionate:diphosphopyridinenucleotide(DPN+) oxidoreductase	1.2.1.33	(R)-dehydropantoate dehydrogenase
 dehydrogenase, retinal	1.2.1.36	retinal dehydrogenase
 cytosolic retinal dehydrogenase	1.2.1.36	retinal dehydrogenase
 RDH12	1.2.1.36	retinal dehydrogenase
@@ -492,16 +492,16 @@ type 2 retinaldehyde dehydrogenase	1.2.1.36	retinal dehydrogenase
 testis-specific aldehyde dehydrogenase	1.2.1.36	retinal dehydrogenase
 retinal dehydrogenase 4	1.2.1.36	retinal dehydrogenase
 retinal dehydrogenase 1	1.2.1.36	retinal dehydrogenase
-RALDH3	1.2.1.36	retinal dehydrogenase
+isoform	1.2.1.36	retinal dehydrogenase
 retinal dehydrogenase 3	1.2.1.36	retinal dehydrogenase
 retinaldehyde dehydrogenase 1	1.2.1.36	retinal dehydrogenase
-RalDH1	1.2.1.36	retinal dehydrogenase
+isoform	1.2.1.36	retinal dehydrogenase
 ALDH1A1	1.2.1.36	retinal dehydrogenase
 aldehyde dehydrogenase 1A1	1.2.1.36	retinal dehydrogenase
-Raldh4	1.2.1.36	retinal dehydrogenase
+isoform	1.2.1.36	retinal dehydrogenase
 RALDH	1.2.1.36	retinal dehydrogenase
 retinal dehydrogenase 2	1.2.1.36	retinal dehydrogenase
-RALDH2	1.2.1.36	retinal dehydrogenase
+isoform	1.2.1.36	retinal dehydrogenase
 Retinal dehydrogenase	1.2.1.36	retinal dehydrogenase
 retinaldehyde dehydrogenase	1.2.1.36	retinal dehydrogenase
 retialdehyde dehydrogenase	1.2.1.36	retinal dehydrogenase
@@ -509,8 +509,8 @@ retinalaldehyde dehydrogenase 2	1.2.1.36	retinal dehydrogenase
 retinaldehyde dehydrogenase 3	1.2.1.36	retinal dehydrogenase
 RALDH-1	1.2.1.36	retinal dehydrogenase
 RALDH-3	1.2.1.36	retinal dehydrogenase
-ALDH-1A1	1.2.1.36	retinal dehydrogenase
-ALDH-3A1	1.2.1.36	retinal dehydrogenase
+ambiguous	1.2.1.36	retinal dehydrogenase
+ambiguous	1.2.1.36	retinal dehydrogenase
 ALDH 1A1	1.2.1.36	retinal dehydrogenase
 ALDH 1A2	1.2.1.36	retinal dehydrogenase
 retSDR1	1.2.1.36	retinal dehydrogenase
@@ -528,7 +528,7 @@ Aldh1a3	1.2.1.36	retinal dehydrogenase
 retinaldehyde dehydrogenase-2	1.2.1.36	retinal dehydrogenase
 NAD-dependent retinal dehydrogenase	1.2.1.36	retinal dehydrogenase
 retinaldehyde dehydrogenases	1.2.1.36	retinal dehydrogenase
-Aldh1a2	1.2.1.36	retinal dehydrogenase
+isozyme	1.2.1.36	retinal dehydrogenase
 ALDH1	1.2.1.36	retinal dehydrogenase
 thyroid-hormone-binding protein	1.2.1.36	retinal dehydrogenase
 xCTBP	1.2.1.36	retinal dehydrogenase
@@ -541,7 +541,7 @@ reductase, acetyl-gamma-glutamyl phosphate	1.2.1.38	N-acetyl-gamma-glutamyl-phos
 N-acetylglutamate 5-semialdehyde dehydrogenase	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
 NAGSD	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
 N-acetylglutamic gamma-semialdehyde dehydrogenase	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
-N-acetyl-L-glutamate gamma-semialdehyde:NADP oxidoreductase	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
+N-acetyl-L-glutamate gamma-semialdehyde:NADP oxidoreductase(phosphorylating)	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
 AGPreductase	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
 N-acetyl-glutamate semialdehyde dehydrogenase	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
 NAGSA dehydrogenase	1.2.1.38	N-acetyl-gamma-glutamyl-phosphate reductase
@@ -553,21 +553,21 @@ PeaE	1.2.1.39	phenylacetaldehyde dehydrogenase
 PAAL dehydrogenase	1.2.1.39	phenylacetaldehyde dehydrogenase
 PAD	1.2.1.39	phenylacetaldehyde dehydrogenase
 PadA	1.2.1.39	phenylacetaldehyde dehydrogenase
-feaB	1.2.1.39	phenylacetaldehyde dehydrogenase
+gene name	1.2.1.39	phenylacetaldehyde dehydrogenase
 PeaE protein	1.2.1.39	phenylacetaldehyde dehydrogenase
 phenylacetaldehyde dehydrogenase	1.2.1.39	phenylacetaldehyde dehydrogenase
 PADH	1.2.1.39	phenylacetaldehyde dehydrogenase
-dehydrogenase, aldehyde	1.2.1.4	aldehyde dehydrogenase (NADP+)
+dehydrogenase, aldehyde (nicotinamide adenine dinucleotide phosphate)	1.2.1.4	aldehyde dehydrogenase (NADP+)
 NADP-acetaldehyde dehydrogenase	1.2.1.4	aldehyde dehydrogenase (NADP+)
 ALDH3A1	1.2.1.4	aldehyde dehydrogenase (NADP+)
 aldehyde dehydrogenase 3A1	1.2.1.4	aldehyde dehydrogenase (NADP+)
-aldehyde dehydrogenase	1.2.1.4	aldehyde dehydrogenase (NADP+)
+aldehyde dehydrogenase (NADP+)	1.2.1.4	aldehyde dehydrogenase (NADP+)
 ALDH	1.2.1.4	aldehyde dehydrogenase (NADP+)
 aldehyde reductase	1.2.1.4	aldehyde dehydrogenase (NADP+)
 AKR1A4	1.2.1.4	aldehyde dehydrogenase (NADP+)
 NADP-dependent aldehyde dehydrogenase	1.2.1.4	aldehyde dehydrogenase (NADP+)
 AlDHPyr1147	1.2.1.4	aldehyde dehydrogenase (NADP+)
-Kvbeta2	1.2.1.4	aldehyde dehydrogenase (NADP+)
+subunit of the voltage-dependent Kv1 potassium channel	1.2.1.4	aldehyde dehydrogenase (NADP+)
 ALDH1	1.2.1.4	aldehyde dehydrogenase (NADP+)
 Seegmiller enzyme	1.2.1.4	aldehyde dehydrogenase (NADP+)
 NADP dependent aldehyde dehydrogenase	1.2.1.4	aldehyde dehydrogenase (NADP+)
@@ -581,9 +581,9 @@ glutamic gamma-semialdehyde dehydrogenase	1.2.1.41	glutamate-5-semialdehyde dehy
 Glutamyl-gamma-semialdehyde dehydrogenase	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
 GPR	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
 glutamic-gamma-semialdehyde dehydrogenase	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
-pyrroline-5-carboxylate synthase	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
-pyrroline-5-carboxylate synthetase	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
-P5CS	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
+bifunctional enzyme, encompasses thegamma-glutamyl kinase and the glutamic-gamma-semialdehyde dehydrogenaseactivities	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
+bifunctional enzyme, encompasses thegamma-glutamyl kinase and the glutamic-gamma-semialdehyde dehydrogenaseactivities	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
+bifunctional enzyme,encompasses the gamma-glutamyl kinase and theglutamic-gamma-semialdehyde dehydrogenase activities	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
 glutamate 5-semialdehyde dehydrogenase	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
 OsALDH18-1	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
 gamma-GPR	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
@@ -593,18 +593,18 @@ gamma glutamyl semialdehyde dehydrogenase	1.2.1.41	glutamate-5-semialdehyde dehy
 GGSALDH	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
 pyrroline 5-carboxylate dehydrogenase	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
 ALDH4	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
-Aldh18a1	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
-dehydrogenase, hexadecanal	1.2.1.42	hexadecanal dehydrogenase (acylating)
-FAR1	1.2.1.42	hexadecanal dehydrogenase (acylating)
+isozyme	1.2.1.41	glutamate-5-semialdehyde dehydrogenase
+dehydrogenase, hexadecanal (acylating)	1.2.1.42	hexadecanal dehydrogenase (acylating)
+isozyme	1.2.1.42	hexadecanal dehydrogenase (acylating)
 fatty acyl-CoA reductase	1.2.1.42	hexadecanal dehydrogenase (acylating)
 FACoAR	1.2.1.42	hexadecanal dehydrogenase (acylating)
-FAR2	1.2.1.42	hexadecanal dehydrogenase (acylating)
+isozyme	1.2.1.42	hexadecanal dehydrogenase (acylating)
 FAR	1.2.1.42	hexadecanal dehydrogenase (acylating)
 fatty acid reductase	1.2.1.42	hexadecanal dehydrogenase (acylating)
-FAR6	1.2.1.42	hexadecanal dehydrogenase (acylating)
-dehydrogenase, formate	1.2.1.43	formate dehydrogenase (NADP+)
+isozyme	1.2.1.42	hexadecanal dehydrogenase (acylating)
+dehydrogenase, formate (nicotinamide adenine dinucleotide phosphate)	1.2.1.43	formate dehydrogenase (NADP+)
 NADP-dependent formate dehydrogenase	1.2.1.43	formate dehydrogenase (NADP+)
-formate dehydrogenase	1.2.1.43	formate dehydrogenase (NADP+)
+formate dehydrogenase (NADP)	1.2.1.43	formate dehydrogenase (NADP+)
 NADPH-dependent formate dehydrogenase	1.2.1.43	formate dehydrogenase (NADP+)
 NADPH-FDH	1.2.1.43	formate dehydrogenase (NADP+)
 FDH	1.2.1.43	formate dehydrogenase (NADP+)
@@ -616,9 +616,9 @@ feruloyl coenzyme A reductase	1.2.1.44	cinnamoyl-CoA reductase
 p-hydroxycinnamoyl coenzyme A reductase	1.2.1.44	cinnamoyl-CoA reductase
 cinnamoyl-CoA:NADPH reductase	1.2.1.44	cinnamoyl-CoA reductase
 Ta-CCR2	1.2.1.44	cinnamoyl-CoA reductase
-CCR	1.2.1.44	cinnamoyl-CoA reductase
+ambiguous	1.2.1.44	cinnamoyl-CoA reductase
 cinnamoyl-CoA reductase 1	1.2.1.44	cinnamoyl-CoA reductase
-CCR1	1.2.1.44	cinnamoyl-CoA reductase
+isoform	1.2.1.44	cinnamoyl-CoA reductase
 cinnamoyl CoA reductase 1	1.2.1.44	cinnamoyl-CoA reductase
 CCRH1	1.2.1.44	cinnamoyl-CoA reductase
 cinnamoyl CoA reductase	1.2.1.44	cinnamoyl-CoA reductase
@@ -628,7 +628,7 @@ cinnamoyl-coenzyme A reductase	1.2.1.44	cinnamoyl-CoA reductase
 PvCCR1	1.2.1.44	cinnamoyl-CoA reductase
 PvCCR2	1.2.1.44	cinnamoyl-CoA reductase
 AtCCR1	1.2.1.44	cinnamoyl-CoA reductase
-CCR2	1.2.1.44	cinnamoyl-CoA reductase
+isoform	1.2.1.44	cinnamoyl-CoA reductase
 cinnamoyl-CoA reductase	1.2.1.44	cinnamoyl-CoA reductase
 OsCCR1	1.2.1.44	cinnamoyl-CoA reductase
 dehydrogenase, formaldehyde	1.2.1.46	formaldehyde dehydrogenase
@@ -653,7 +653,7 @@ TMABA dehydrogenase	1.2.1.47	4-trimethylammoniobutyraldehyde dehydrogenase
 TMABA-DH	1.2.1.47	4-trimethylammoniobutyraldehyde dehydrogenase
 4-trimethylammoniobutyraldehyde dehydrogenase	1.2.1.47	4-trimethylammoniobutyraldehyde dehydrogenase
 4-N-trimethylaminobutyraldehyde dehydrogenase	1.2.1.47	4-trimethylammoniobutyraldehyde dehydrogenase
-Aldh9a1	1.2.1.47	4-trimethylammoniobutyraldehyde dehydrogenase
+isozyme	1.2.1.47	4-trimethylammoniobutyraldehyde dehydrogenase
 gamma-trimethylaminobutyraldehyde dehydrogenase	1.2.1.47	4-trimethylammoniobutyraldehyde dehydrogenase
 4-N-trimethylaminobutyraldehyde dehydrogenase II	1.2.1.47	4-trimethylammoniobutyraldehyde dehydrogenase
 TMABaldehyde-DH II	1.2.1.47	4-trimethylammoniobutyraldehyde dehydrogenase
@@ -662,7 +662,7 @@ long-chain aldehyde dehydrogenase	1.2.1.48	long-chain-aldehyde dehydrogenase
 long-chain fatty aldehyde dehydrogenase	1.2.1.48	long-chain-aldehyde dehydrogenase
 fatty aldehyde:NAD+ oxidoreductase	1.2.1.48	long-chain-aldehyde dehydrogenase
 fatty aldehyde dehydrogenase	1.2.1.48	long-chain-aldehyde dehydrogenase
-ALDH3A2	1.2.1.48	long-chain-aldehyde dehydrogenase
+Sjögren-Larsson syndrome is caused by mutationsin the ALDH3A2 gene that codes for FALDH	1.2.1.48	long-chain-aldehyde dehydrogenase
 long-chain-aldehyde dehydrogenase	1.2.1.48	long-chain-aldehyde dehydrogenase
 Bt-Aldh	1.2.1.48	long-chain-aldehyde dehydrogenase
 ALDH10	1.2.1.48	long-chain-aldehyde dehydrogenase
@@ -673,7 +673,7 @@ methylglyoxal dehydrogenase	1.2.1.49	2-oxoaldehyde dehydrogenase (NADP+)
 2-ketoaldehyde dehydrogenase	1.2.1.49	2-oxoaldehyde dehydrogenase (NADP+)
 NADP-linked alpha-ketoaldehyde dehydrogenase	1.2.1.49	2-oxoaldehyde dehydrogenase (NADP+)
 NADP-dependent alpha-ketoaldehyde dehydrogenase	1.2.1.49	2-oxoaldehyde dehydrogenase (NADP+)
-dehydrogenase, aldehyde	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+dehydrogenase, aldehyde (nicotinamide adenine dinucleotide (phosphate))	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 ALDHIII	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 BCP54	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 Corneal 15.8 kDa protein	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
@@ -688,51 +688,51 @@ OsALDH3-5	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH5	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH22	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH2-2	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH1b	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+former name	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH2-3	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH3H1	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH3F1	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH3I1	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isoform	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isoform	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isoform	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 nicotinprotein aldehyde dehydrogenase	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 PEG-ALDH	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH3A1	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-Aldh1a3	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH3	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isozyme	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isozyme	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isozyme	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 class 3 aldehyde dehydrogenase	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 ALDH1	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH1A1	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isotype	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 aldehyde dehydrogenase	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 ALDH2	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 ALDH	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-Aldh3b1	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-aldehyde dehydrogenase 1A3	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isozyme	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isoform	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 myo-inositol dehydrogenase	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 MI dehydrogenase	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH2-5	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH2b	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+former name	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH3-1	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH3-2	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH3-3	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH3-4	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH7	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH7B7	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+former name	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH2-1	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH1a	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+former name	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 OsALDH2-4	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH2a	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ST0064	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+former name	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+gene name	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 acetaldehyde dehydrogenase	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALD4	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+previously named ALD7	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 K-ACDH	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 aldehyde dehydrogenase 2	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH9	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH13	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ALDH17	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-PuuC	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-NAD	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-NAD	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-ybcD	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
-aldehyde: NAD	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isoform	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isoform	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+isoform	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+gene name	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+NAD(P)(+)-dependent aldehyde dehydrogenase	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+NAD(P)+-dependent aldehyde dehydrogenase	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+gene name	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
+aldehyde: NAD(P)+ oxidoreductase	1.2.1.5	aldehyde dehydrogenase [NAD(P)+]
 acyl coenzyme A reductase	1.2.1.50	long-chain acyl-protein thioester reductase
 long-chain-fatty-acyl-CoA reductase	1.2.1.50	long-chain acyl-protein thioester reductase
 CpFAS1-R	1.2.1.50	long-chain acyl-protein thioester reductase
@@ -762,22 +762,22 @@ alpha-guanidinobutyraldehyde dehydrogenase	1.2.1.54	gamma-guanidinobutyraldehyde
 4-guanidinobutyraldehyde dehydrogenase	1.2.1.54	gamma-guanidinobutyraldehyde dehydrogenase
 GBAL dehydrogenase	1.2.1.54	gamma-guanidinobutyraldehyde dehydrogenase
 Butyraldehyde dehydrogenase	1.2.1.57	butanal dehydrogenase
-Dehydrogenase, phenylglyoxylate	1.2.1.58	phenylglyoxylate dehydrogenase (acylating)
-Phenylglyoxylate dehydrogenase	1.2.1.58	phenylglyoxylate dehydrogenase (acylating)
-Phenylglyoxal:NAD+ oxidoreductase	1.2.1.58	phenylglyoxylate dehydrogenase (acylating)
+Dehydrogenase, phenylglyoxylate (CoA-benzoylating)	1.2.1.58	phenylglyoxylate dehydrogenase (acylating)
+Phenylglyoxylate dehydrogenase (CoA benzoylating)	1.2.1.58	phenylglyoxylate dehydrogenase (acylating)
+Phenylglyoxal:NAD+ oxidoreductase (CoA benzoylating)	1.2.1.58	phenylglyoxylate dehydrogenase (acylating)
 Phenylglyoxylate:acceptor oxidoreductase	1.2.1.58	phenylglyoxylate dehydrogenase (acylating)
 Phenylglyoxylate-acceptor oxidoreductase	1.2.1.58	phenylglyoxylate dehydrogenase (acylating)
-Triosephosphate dehydrogenase	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
-Dehydrogenase, glyceraldehyde phosphate	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
-Glyceraldehyde-3-phosphate dehydrogenase	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
-NAD	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
+Triosephosphate dehydrogenase (NAD(P))	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
+Dehydrogenase, glyceraldehyde phosphate (nicotinamide adeninedinucleotide (phosphate))	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
+Glyceraldehyde-3-phosphate dehydrogenase (NAD(P))	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
+NAD(P)-dependent glyceraldehyde-3-phosphate dehydrogenase	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
 GAPDH2	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
-NAD	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
-NAD	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
-cgap	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
+NAD(NADP)-dependent glyceraldehyde-3-phosphate dehydrogenase	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
+NAD(P)-dependent G3P dehydrogenase	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
+gene name	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
 GAPDH	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
-STK_13560	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
-GapB	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
+locus name	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
+gene name	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
 NADP-dependent glyceraldehyde 3-phosphate dehydrogenase	1.2.1.59	glyceraldehyde-3-phosphate dehydrogenase (NAD(P)+) (phosphorylating)
 5-carboxymethyl-2-hydroxymuconic semialdehyde dehydrogenase	1.2.1.60	5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase
 carboxymethylhydroxymuconic semialdehyde dehydrogenase	1.2.1.60	5-carboxymethyl-2-hydroxymuconic-semialdehyde dehydrogenase
@@ -800,7 +800,7 @@ salicylaldehyde dehydrogenase	1.2.1.65	salicylaldehyde dehydrogenase
 VDH	1.2.1.67	vanillin dehydrogenase
 vanillin dehydrogenase	1.2.1.67	vanillin dehydrogenase
 LigV	1.2.1.67	vanillin dehydrogenase
-ro02986	1.2.1.67	vanillin dehydrogenase
+gene name	1.2.1.67	vanillin dehydrogenase
 CALDH	1.2.1.68	coniferyl-aldehyde dehydrogenase
 coniferyl aldehyde dehydrogenase	1.2.1.68	coniferyl-aldehyde dehydrogenase
 NADP-linked benzaldehyde dehydrogenase	1.2.1.7	benzaldehyde dehydrogenase (NADP+)
@@ -816,7 +816,7 @@ glutamyl transfer RNA reductase	1.2.1.70	glutamyl-tRNA reductase
 HEMA2	1.2.1.70	glutamyl-tRNA reductase
 AtHEMA1	1.2.1.70	glutamyl-tRNA reductase
 GluRS	1.2.1.70	glutamyl-tRNA reductase
-hemA	1.2.1.70	glutamyl-tRNA reductase
+gene name	1.2.1.70	glutamyl-tRNA reductase
 succinic semialdehyde dehydrogenase	1.2.1.71	succinylglutamate-semialdehyde dehydrogenase
 succinylglutamic semialdehyde dehydrogenase	1.2.1.71	succinylglutamate-semialdehyde dehydrogenase
 N-succinylglutamate 5-semialdehyde dehydrogenase	1.2.1.71	succinylglutamate-semialdehyde dehydrogenase
@@ -825,23 +825,23 @@ AstD	1.2.1.71	succinylglutamate-semialdehyde dehydrogenase
 aruD	1.2.1.71	succinylglutamate-semialdehyde dehydrogenase
 erythrose 4-phosphate dehydrogenase	1.2.1.72	erythrose-4-phosphate dehydrogenase
 E4PDH	1.2.1.72	erythrose-4-phosphate dehydrogenase
-GapB	1.2.1.72	erythrose-4-phosphate dehydrogenase
+renamed as epd	1.2.1.72	erythrose-4-phosphate dehydrogenase
 Epd dehydrogenase	1.2.1.72	erythrose-4-phosphate dehydrogenase
 E4P dehydrogenase	1.2.1.72	erythrose-4-phosphate dehydrogenase
-gapB-encoded dehydrogenase	1.2.1.72	erythrose-4-phosphate dehydrogenase
-gap2	1.2.1.72	erythrose-4-phosphate dehydrogenase
+renamed as epd	1.2.1.72	erythrose-4-phosphate dehydrogenase
+renamed as epd	1.2.1.72	erythrose-4-phosphate dehydrogenase
 epd	1.2.1.72	erythrose-4-phosphate dehydrogenase
 GapB-encoded protein	1.2.1.72	erythrose-4-phosphate dehydrogenase
 E4PD	1.2.1.72	erythrose-4-phosphate dehydrogenase
 NAD-coupled sulfoacetaldehyde dehydrogenase	1.2.1.73	sulfoacetaldehyde dehydrogenase
-More	1.2.1.73	sulfoacetaldehyde dehydrogenase
+the enzyme belongs to the NAD-dependent aldehydedehydrogenase superfamily	1.2.1.73	sulfoacetaldehyde dehydrogenase
 SafD	1.2.1.73	sulfoacetaldehyde dehydrogenase
 abieta-7-13-dien-18-al dehydrogenase	1.2.1.74	abieta-7,13-dien-18-al dehydrogenase
-malonyl CoA reductase	1.2.1.75	malonyl-CoA reductase (malonate semialdehyde-forming)
+malonyl CoA reductase (malonate semialdehyde-forming)	1.2.1.75	malonyl-CoA reductase (malonate semialdehyde-forming)
 malonate-semialdehyde dehydrogenase	1.2.1.75	malonyl-CoA reductase (malonate semialdehyde-forming)
 malonyl-CoA reductase	1.2.1.75	malonyl-CoA reductase (malonate semialdehyde-forming)
 MCR	1.2.1.75	malonyl-CoA reductase (malonate semialdehyde-forming)
-Tneu_0421	1.2.1.76	succinate-semialdehyde dehydrogenase (acylating)
+locus name	1.2.1.76	succinate-semialdehyde dehydrogenase (acylating)
 ALDHC	1.2.1.77	3,4-dehydroadipyl-CoA semialdehyde dehydrogenase (NADP+)
 BoxD	1.2.1.77	3,4-dehydroadipyl-CoA semialdehyde dehydrogenase (NADP+)
 3,4-dehydroadipyl-CoA semialdehyde dehydrogenase	1.2.1.77	3,4-dehydroadipyl-CoA semialdehyde dehydrogenase (NADP+)
@@ -852,21 +852,21 @@ phdK	1.2.1.78	2-formylbenzoate dehydrogenase
 GabD1	1.2.1.79	succinate-semialdehyde dehydrogenase (NADP+)
 SySSADH	1.2.1.79	succinate-semialdehyde dehydrogenase (NADP+)
 Sp2771	1.2.1.79	succinate-semialdehyde dehydrogenase (NADP+)
-SSO1842	1.2.1.79	succinate-semialdehyde dehydrogenase (NADP+)
+ordered locus name	1.2.1.79	succinate-semialdehyde dehydrogenase (NADP+)
 SSADH-II	1.2.1.79	succinate-semialdehyde dehydrogenase (NADP+)
 SSADH	1.2.1.79	succinate-semialdehyde dehydrogenase (NADP+)
 succinic semialdehyde dehydrogenase	1.2.1.79	succinate-semialdehyde dehydrogenase (NADP+)
-gabD	1.2.1.79	succinate-semialdehyde dehydrogenase (NADP+)
+gene name	1.2.1.79	succinate-semialdehyde dehydrogenase (NADP+)
 dehydrogenase, betaine aldehyde	1.2.1.8	betaine-aldehyde dehydrogenase
 betaine aldehyde oxidase	1.2.1.8	betaine-aldehyde dehydrogenase
-1,2,7,8,10,11,13,14,15,17,22,24,26,39,40,41,42,43,44,45,46,47,48,49,50	1.2.1.8	betaine-aldehyde dehydrogenase
+former name	1.2.1.8	betaine-aldehyde dehydrogenase
 BetB	1.2.1.8	betaine-aldehyde dehydrogenase
 ALDH10	1.2.1.8	betaine-aldehyde dehydrogenase
 betaine aldehyde:NAD+ oxidoreductase	1.2.1.8	betaine-aldehyde dehydrogenase
-betaine aldehyde:NAD	1.2.1.8	betaine-aldehyde dehydrogenase
+betaine aldehyde:NAD(P)+ oxidoreductase	1.2.1.8	betaine-aldehyde dehydrogenase
 PaBADH	1.2.1.8	betaine-aldehyde dehydrogenase
-betaine aldehyde: NAD	1.2.1.8	betaine-aldehyde dehydrogenase
-2,7,8,9,10,11,13,14,15,17,21,39,40,41,42,43,44,45,46,47,48,50,51,52,53	1.2.1.8	betaine-aldehyde dehydrogenase
+betaine aldehyde: NAD(P)+ oxidoreductase	1.2.1.8	betaine-aldehyde dehydrogenase
+betaine aldehyde dehydrogenase	1.2.1.8	betaine-aldehyde dehydrogenase
 betaine aldehyde dehydrogenase 1	1.2.1.8	betaine-aldehyde dehydrogenase
 betaine aldehyde dehydrogenase 2	1.2.1.8	betaine-aldehyde dehydrogenase
 aldehyde dehydrogenase	1.2.1.8	betaine-aldehyde dehydrogenase
@@ -882,16 +882,16 @@ OsALDH10-2	1.2.1.8	betaine-aldehyde dehydrogenase
 betaine aldehyde dehydrogenase, chloroplastic	1.2.1.8	betaine-aldehyde dehydrogenase
 ALD10	1.2.1.8	betaine-aldehyde dehydrogenase
 betaine aldehyde dehydrogenase 1, chloroplastic	1.2.1.8	betaine-aldehyde dehydrogenase
-ALDH10A8	1.2.1.8	betaine-aldehyde dehydrogenase
-ALDH10A9	1.2.1.8	betaine-aldehyde dehydrogenase
-badh2-E2	1.2.1.8	betaine-aldehyde dehydrogenase
-badh2-E7	1.2.1.8	betaine-aldehyde dehydrogenase
+gene name	1.2.1.8	betaine-aldehyde dehydrogenase
+gene name	1.2.1.8	betaine-aldehyde dehydrogenase
+recessive allele, truncated form, with a 7-bpdeletion in exon 2 (82 residues)	1.2.1.8	betaine-aldehyde dehydrogenase
+recessive allele, truncated form (251 amino acidpolypeptide)	1.2.1.8	betaine-aldehyde dehydrogenase
 LcBADH	1.2.1.8	betaine-aldehyde dehydrogenase
 SACOL2628	1.2.1.8	betaine-aldehyde dehydrogenase
 betaine aldehyde: NAD+ oxidoreductase	1.2.1.8	betaine-aldehyde dehydrogenase
 pkBADH	1.2.1.8	betaine-aldehyde dehydrogenase
-BADH1	1.2.1.8	betaine-aldehyde dehydrogenase
-BADH2	1.2.1.8	betaine-aldehyde dehydrogenase
+isozyme	1.2.1.8	betaine-aldehyde dehydrogenase
+isozyme	1.2.1.8	betaine-aldehyde dehydrogenase
 CpFAS1-R	1.2.1.80	long-chain acyl-[acyl-carrier-protein] reductase
 CpFAS1 acyl reductase	1.2.1.80	long-chain acyl-[acyl-carrier-protein] reductase
 AtFAR6	1.2.1.80	long-chain acyl-[acyl-carrier-protein] reductase
@@ -899,13 +899,13 @@ fatty aldehyde-generating acyl-ACP reductase	1.2.1.80	long-chain acyl-[acyl-carr
 AAR	1.2.1.80	long-chain acyl-[acyl-carrier-protein] reductase
 acyl-ACP reductase	1.2.1.80	long-chain acyl-[acyl-carrier-protein] reductase
 acyl-acyl carrier protein reductase	1.2.1.80	long-chain acyl-[acyl-carrier-protein] reductase
-Npun_R1710	1.2.1.80	long-chain acyl-[acyl-carrier-protein] reductase
+gene name	1.2.1.80	long-chain acyl-[acyl-carrier-protein] reductase
 SauS	1.2.1.81	sulfoacetaldehyde dehydrogenase (acylating)
 YLO-1	1.2.1.82	beta-apo-4'-carotenal oxygenase
-CarD	1.2.1.82	beta-apo-4'-carotenal oxygenase
-ALD	1.2.1.83	3-succinoylsemialdehyde-pyridine dehydrogenase
+gene name	1.2.1.82	beta-apo-4'-carotenal oxygenase
+gene name	1.2.1.83	3-succinoylsemialdehyde-pyridine dehydrogenase
 SapD	1.2.1.83	3-succinoylsemialdehyde-pyridine dehydrogenase
-fatty acyl-CoA:NADPH oxidoreductase	1.2.1.84	alcohol-forming fatty acyl-CoA reductase
+fatty acyl-CoA:NADPH oxidoreductase (long chain alcohol forming)	1.2.1.84	alcohol-forming fatty acyl-CoA reductase
 intestinal acyl-CoA reductase	1.2.1.84	alcohol-forming fatty acyl-CoA reductase
 FAR1	1.2.1.84	alcohol-forming fatty acyl-CoA reductase
 fatty acyl-Coenzyme A reductase	1.2.1.84	alcohol-forming fatty acyl-CoA reductase
@@ -918,13 +918,13 @@ FAR	1.2.1.84	alcohol-forming fatty acyl-CoA reductase
 FAR4	1.2.1.84	alcohol-forming fatty acyl-CoA reductase
 FAR5	1.2.1.84	alcohol-forming fatty acyl-CoA reductase
 5C-2HMS dehydrogenase	1.2.1.85	2-hydroxymuconate-6-semialdehyde dehydrogenase
-XylG	1.2.1.85	2-hydroxymuconate-6-semialdehyde dehydrogenase
+gene name	1.2.1.85	2-hydroxymuconate-6-semialdehyde dehydrogenase
 2-hydroxymuconic semialdehyde dehydrogenase	1.2.1.85	2-hydroxymuconate-6-semialdehyde dehydrogenase
 NAD+-dependent 2-hydroxy-muconic 6-semialdehyde dehydrogenase	1.2.1.85	2-hydroxymuconate-6-semialdehyde dehydrogenase
-praB	1.2.1.85	2-hydroxymuconate-6-semialdehyde dehydrogenase
+gene name	1.2.1.85	2-hydroxymuconate-6-semialdehyde dehydrogenase
 HMS dehydrogenase	1.2.1.85	2-hydroxymuconate-6-semialdehyde dehydrogenase
 GADH	1.2.1.86	geranial dehydrogenase
-geoB	1.2.1.86	geranial dehydrogenase
+gene name	1.2.1.86	geranial dehydrogenase
 NAD+-dependent citral dehydrogenase	1.2.1.86	geranial dehydrogenase
 BphJ	1.2.1.87	propanal dehydrogenase (CoA-propanoylating)
 TTHB247	1.2.1.87	propanal dehydrogenase (CoA-propanoylating)
@@ -934,83 +934,83 @@ pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-glutamate gamma-semialdehyde de
 pyrroline-5-carboxylic acid dehydrogenase	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 L-pyrroline-5-carboxylate-NAD+ oxidoreductase	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 P5C-DH	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
-pyrroline-5-carboxylate synthase	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
+two isoforms: short form andlong form	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 P5C synthase	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 OsALDH12	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 P5CD	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 Aldh4a1	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
-P5CS	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
+former name	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 delta1-pyrroline-5-carboxylate synthetase	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 OsALDH18-2	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
-PutA	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
-proline/P5C dehydrogenase	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
-DR_0813	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
+bifunctional enzyme: proline dehydrogenase/L-glutamategamma-semialdehyde dehydrogenase	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
+bifunctional enzyme: prolinedehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
+gene name	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 P5CDH	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 Put2	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
-Tc00.1047053510943.50	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
+gene name	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 P5CDH1	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 PDH	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 LRRP Ba1-651	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 P5C dehydrogenase	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 DELTA1-pyrroline-5-carboxylate dehydrogenase	1.2.1.88	L-glutamate gamma-semialdehyde dehydrogenase
 AldA	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
-GLD	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
+gene name	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
 ALDH	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
-Ta0809	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
+gene name	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
 glyceraldehyde dehydrogenase	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
 TaAlDH	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
 GADH	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
-Pto0332	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
+locus name	1.2.1.89	D-glyceraldehyde dehydrogenase (NADP+)
 triose phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-glyceraldehyde 3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+glyceraldehyde 3-phosphate dehydrogenase (NADP)	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 NADP-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 NADP-glyceraldehyde phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-dehydrogenase, glyceraldehyde phosphate	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-glyceraldehyde phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+dehydrogenase, glyceraldehyde phosphate (nicotinamide adeninedinucleotide phosphate)	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+glyceraldehyde phosphate dehydrogenase (NADP)	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 glyceraldehyde-3-phosphate:NADP reductase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 Glyceraldehyde-3-phosphate dehydrogenase [NADP+]	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 Non-phosphorylating glyceraldehyde 3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 Triosephosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 apo-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 apo-GAPDH	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-non-phosphorylating NADP+-dependent glyceraldehyde-3-phosphate	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-non phosphorylating glyceraldehyde-3-phosphate	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+glyceraldehyde-3-phosphate dehydrogenase(NADP+)	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+non-phosphorylating NADP+-dependent glyceraldehyde-3-phosphatedehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+non phosphorylating glyceraldehyde-3-phosphatedehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 GAPDHN	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-non-phosphorylating NADP-dependent glyceraldehyde-3-phosphate	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+non-phosphorylating NADP-dependent glyceraldehyde-3-phosphatedehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase GAPN	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-nonphosphorylating NADP-dependent glyceraldehyde-3-phosphate	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-glyceraldehyde 3-phosphate:NADP+ reductase,	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+nonphosphorylating NADP-dependent glyceraldehyde-3-phosphatedehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+glyceraldehyde 3-phosphate:NADP+ reductase,non-phosphorylating	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 nonphosphorylating glyceraldehyde-3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 glyceraldehyde 3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 E268A-GAPN	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 non-phosphorylating GAP dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-NADP-dependent nonphosphorylating glyceraldehyde-3-phosphate	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-GAPDH	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+NADP-dependent nonphosphorylating glyceraldehyde-3-phosphatedehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+GAPDH (A4)	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 NADPH-glyceraldehyde-3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 NADPH-dependent GAPDH	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 glyceraldehyde-3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 GAPDH	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-SSO3194	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+locus name	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 GAP dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 NADP-dependent glyceraldehyde-3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 OsALDH11	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 GAPN	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 NP-Ga3PDHase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-non-phosphorylating	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+non-phosphorylatingglyceraldehyde-3-phosphate dehydrogenase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 St-GAPN	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
-STK_24770	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
+locus name	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 NP-GAPDH	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 non-phosphorylating NADP+-dependent Ga3PDHase	1.2.1.9	glyceraldehyde-3-phosphate dehydrogenase (NADP+)
 GAPN	1.2.1.90	glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]
 non-phosphorylating glyceraldehyde-3-phosphate dehydrogenase	1.2.1.90	glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]
 NAD+-dependent glyceraldehyde-3-phosphate dehydrogenase	1.2.1.90	glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]
 nonphosphorylating NAD+-dependent GAPN	1.2.1.90	glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]
-NAD+-dependent non-phosphorylating glyceraldehyde-3-phosphate	1.2.1.90	glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]
-PaaZ-ALDH	1.2.1.91	3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
+NAD+-dependent non-phosphorylating glyceraldehyde-3-phosphatedehydrogenase	1.2.1.90	glyceraldehyde-3-phosphate dehydrogenase [NAD(P)+]
+domain showing 3-oxo-5,6-dehydrosuberyl-CoAsemialdehyde dehydrogenase activity	1.2.1.91	3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
 PacL	1.2.1.91	3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
-oxepin-CoA hydrolase/3-oxo-5,6-dehydrosuberyl-CoA semialdehyde	1.2.1.91	3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
-paaZ	1.2.1.91	3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
+bifunctional fusion proteom	1.2.1.91	3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
+gene name	1.2.1.91	3-oxo-5,6-dehydrosuberyl-CoA semialdehyde dehydrogenase
 AHG dehydrogenase	1.2.1.92	3,6-anhydro-alpha-L-galactose dehydrogenase
 VejAHGD	1.2.1.92	3,6-anhydro-alpha-L-galactose dehydrogenase
 electron-bifurcating formate dehydrogenase	1.2.1.93	formate dehydrogenase (NAD+, ferredoxin)
@@ -1028,28 +1028,28 @@ Nps3	1.2.1.95	L-2-aminoadipate reductase
 Lys1+	1.2.1.95	L-2-aminoadipate reductase
 PHBZ	1.2.1.96	4-hydroxybenzaldehyde dehydrogenase (NADP+)
 p-hydroxybenzaldehyde dehydrogenase	1.2.1.96	4-hydroxybenzaldehyde dehydrogenase (NADP+)
-PchA	1.2.1.96	4-hydroxybenzaldehyde dehydrogenase (NADP+)
+gene name	1.2.1.96	4-hydroxybenzaldehyde dehydrogenase (NADP+)
 PHBDD	1.2.1.96	4-hydroxybenzaldehyde dehydrogenase (NADP+)
 SLA dehydrogenase	1.2.1.97	3-sulfolactaldehyde dehydrogenase
-mpdC	1.2.1.98	2-hydroxy-2-methylpropanal dehydrogenase
+gene name	1.2.1.98	2-hydroxy-2-methylpropanal dehydrogenase
 hydroxyisobutyraldehyde dehydrogenase	1.2.1.98	2-hydroxy-2-methylpropanal dehydrogenase
-gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase [NAD	1.2.1.99	4-(gamma-glutamylamino)butanal dehydrogenase
-NAD+-dependent gamma-glutamyl-gamma-aminobutyraldehyde	1.2.1.99	4-(gamma-glutamylamino)butanal dehydrogenase
-PuuC	1.2.1.99	4-(gamma-glutamylamino)butanal dehydrogenase
-ALDH	1.2.1.99	4-(gamma-glutamylamino)butanal dehydrogenase
+gamma-glutamyl-gamma-aminobutyraldehyde dehydrogenase [NAD(P)+]	1.2.1.99	4-(gamma-glutamylamino)butanal dehydrogenase
+NAD+-dependent gamma-glutamyl-gamma-aminobutyraldehydedehydrogenase	1.2.1.99	4-(gamma-glutamylamino)butanal dehydrogenase
+gene name	1.2.1.99	4-(gamma-glutamylamino)butanal dehydrogenase
+gene name	1.2.1.99	4-(gamma-glutamylamino)butanal dehydrogenase
 gamma-Glu-gamma-aminobutyraldehyde dehydrogenase	1.2.1.99	4-(gamma-glutamylamino)butanal dehydrogenase
-dehydrogenase, formate	1.2.2.1	formate dehydrogenase (cytochrome)
+dehydrogenase, formate (cytochrome)	1.2.2.1	formate dehydrogenase (cytochrome)
 formate dehydrogenase	1.2.2.1	formate dehydrogenase (cytochrome)
 formate:cytochrome b1 oxidoreductase	1.2.2.1	formate dehydrogenase (cytochrome)
-formate dehydrogenase-N	1.2.2.1	formate dehydrogenase (cytochrome)
+isozyme	1.2.2.1	formate dehydrogenase (cytochrome)
 formate:phenazine methosulfate oxidoreductase	1.2.2.1	formate dehydrogenase (cytochrome)
-respiratory formate dehydrogenase	1.2.2.1	formate dehydrogenase (cytochrome)
+respiratory formatedehydrogenases are redox enzymes that comprise three subunits: amolybdenum cofactor- and FeS cluster-containing catalytic subunit, anelectron-transferring ferredoxin, and a membrane-integral cytochrome b	1.2.2.1	formate dehydrogenase (cytochrome)
 FdnG	1.2.2.1	formate dehydrogenase (cytochrome)
-formate dehydrogenase-O	1.2.2.1	formate dehydrogenase (cytochrome)
+isozyme	1.2.2.1	formate dehydrogenase (cytochrome)
 FdoG	1.2.2.1	formate dehydrogenase (cytochrome)
 FDH	1.2.2.1	formate dehydrogenase (cytochrome)
-dehydrogenase, formate	1.2.2.3	formate dehydrogenase (cytochrome-c-553)
-formate dehydrogenase	1.2.2.3	formate dehydrogenase (cytochrome-c-553)
+dehydrogenase, formate (cytochrome)	1.2.2.3	formate dehydrogenase (cytochrome-c-553)
+formate dehydrogenase (cytochrome)	1.2.2.3	formate dehydrogenase (cytochrome-c-553)
 FDH	1.2.2.3	formate dehydrogenase (cytochrome-c-553)
 FdhABC3	1.2.2.3	formate dehydrogenase (cytochrome-c-553)
 formate dehydrogenase	1.2.2.3	formate dehydrogenase (cytochrome-c-553)
@@ -1059,7 +1059,7 @@ Dehydrogenase, carbon monoxide	1.2.2.4	carbon-monoxide dehydrogenase (cytochrome
 Carbon dioxide/carbon monoxide oxidoreductase	1.2.2.4	carbon-monoxide dehydrogenase (cytochrome b-561)
 Carbon monoxide dehydrogenase	1.2.2.4	carbon-monoxide dehydrogenase (cytochrome b-561)
 Carbon monoxide oxidoreductase	1.2.2.4	carbon-monoxide dehydrogenase (cytochrome b-561)
-carbon-monoxide oxygenase	1.2.2.4	carbon-monoxide dehydrogenase (cytochrome b-561)
+carbon-monoxide oxygenase (cytochrome b-561)	1.2.2.4	carbon-monoxide dehydrogenase (cytochrome b-561)
 carbon monoxide, water:cytochrome b-561 oxidoreductase	1.2.2.4	carbon-monoxide dehydrogenase (cytochrome b-561)
 chromaffin granule cytochrome b-561	1.2.2.4	carbon-monoxide dehydrogenase (cytochrome b-561)
 lysosomal cytochrome b-561	1.2.2.4	carbon-monoxide dehydrogenase (cytochrome b-561)
@@ -1068,17 +1068,17 @@ CO dehydrogenase	1.2.2.4	carbon-monoxide dehydrogenase (cytochrome b-561)
 quinoline oxidase	1.2.3.1	aldehyde oxidase
 retinene oxidase	1.2.3.1	aldehyde oxidase
 AO4	1.2.3.1	aldehyde oxidase
-AO3	1.2.3.1	aldehyde oxidase
-AO2	1.2.3.1	aldehyde oxidase
-AO-alpha	1.2.3.1	aldehyde oxidase
-AO-beta	1.2.3.1	aldehyde oxidase
-AO-gamma	1.2.3.1	aldehyde oxidase
-AO-delta	1.2.3.1	aldehyde oxidase
-AO-kappa	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
 Aao4	1.2.3.1	aldehyde oxidase
 ALOD	1.2.3.1	aldehyde oxidase
 AO	1.2.3.1	aldehyde oxidase
-aldehyde oxidase 3	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
 formate oxidase	1.2.3.1	aldehyde oxidase
 FOD	1.2.3.1	aldehyde oxidase
 AOR	1.2.3.1	aldehyde oxidase
@@ -1089,26 +1089,26 @@ AHO2	1.2.3.1	aldehyde oxidase
 aldehyde oxidase 3-like 1	1.2.3.1	aldehyde oxidase
 AOH3	1.2.3.1	aldehyde oxidase
 AOH2	1.2.3.1	aldehyde oxidase
-4,5,6,9,21,25,30,32,34,35,39,41,46,47,48,49,53,57,58,59,60,62,65,68,71	1.2.3.1	aldehyde oxidase
+gene name	1.2.3.1	aldehyde oxidase
 AOH1	1.2.3.1	aldehyde oxidase
 aldehyde oxidase 4	1.2.3.1	aldehyde oxidase
 mAOX3	1.2.3.1	aldehyde oxidase
 AOH	1.2.3.1	aldehyde oxidase
-aldehyde oxidase 2	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
 AOX	1.2.3.1	aldehyde oxidase
-aldehyde oxidase 1	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
 AlOx	1.2.3.1	aldehyde oxidase
 aldehyde-oxygen oxidoreductase	1.2.3.1	aldehyde oxidase
 aldehyde:oxygen oxidoreductase	1.2.3.1	aldehyde oxidase
 AOX3	1.2.3.1	aldehyde oxidase
-AO1	1.2.3.1	aldehyde oxidase
+isoform	1.2.3.1	aldehyde oxidase
 mouse liver aldehyde oxidase 3	1.2.3.1	aldehyde oxidase
 antennae-specific aldehyde oxidase	1.2.3.1	aldehyde oxidase
 AtraAOX2	1.2.3.1	aldehyde oxidase
-EC 1.2.3.1	1.2.3.14	abscisic-aldehyde oxidase
-AAO2	1.2.3.14	abscisic-aldehyde oxidase
+formerly	1.2.3.14	abscisic-aldehyde oxidase
+isozyme	1.2.3.14	abscisic-aldehyde oxidase
 abscisic aldehyde oxidase	1.2.3.14	abscisic-aldehyde oxidase
-AAO3	1.2.3.14	abscisic-aldehyde oxidase
+isozyme	1.2.3.14	abscisic-aldehyde oxidase
 AO-3	1.2.3.14	abscisic-aldehyde oxidase
 AOd	1.2.3.14	abscisic-aldehyde oxidase
 AOdelta	1.2.3.14	abscisic-aldehyde oxidase
@@ -1119,8 +1119,8 @@ ABA-specific aldehyde oxidase	1.2.3.14	abscisic-aldehyde oxidase
 Arabidopsis aldehyde oxidase 3	1.2.3.14	abscisic-aldehyde oxidase
 AAO1	1.2.3.14	abscisic-aldehyde oxidase
 AO3	1.2.3.14	abscisic-aldehyde oxidase
-GLX2	1.2.3.15	(methyl)glyoxal oxidase
-Glx1	1.2.3.15	(methyl)glyoxal oxidase
+gene name	1.2.3.15	(methyl)glyoxal oxidase
+gene name	1.2.3.15	(methyl)glyoxal oxidase
 GLOX	1.2.3.15	(methyl)glyoxal oxidase
 GLX	1.2.3.15	(methyl)glyoxal oxidase
 methylglyoxal oxidase	1.2.3.15	(methyl)glyoxal oxidase
@@ -1129,7 +1129,7 @@ PoxF	1.2.3.3	pyruvate oxidase
 poxB	1.2.3.3	pyruvate oxidase
 POX	1.2.3.3	pyruvate oxidase
 pyruvate oxidase	1.2.3.3	pyruvate oxidase
-pyruvate:oxygen-2-oxidoreductase	1.2.3.3	pyruvate oxidase
+pyruvate:oxygen-2-oxidoreductase (phosphorylating)	1.2.3.3	pyruvate oxidase
 POX-2	1.2.3.3	pyruvate oxidase
 PyrOx	1.2.3.3	pyruvate oxidase
 acetyl phosphate-producing pyruvate oxidase	1.2.3.3	pyruvate oxidase
@@ -1141,12 +1141,12 @@ aero-oxalo dehydrogenase	1.2.3.4	oxalate oxidase
 oxalic acid oxidase	1.2.3.4	oxalate oxidase
 Germin GF-2.8	1.2.3.4	oxalate oxidase
 Germin GF-3.8	1.2.3.4	oxalate oxidase
-OXO1	1.2.3.4	oxalate oxidase
-OXO2	1.2.3.4	oxalate oxidase
-OXO3	1.2.3.4	oxalate oxidase
-OXO4	1.2.3.4	oxalate oxidase
-OXO-G	1.2.3.4	oxalate oxidase
-GLP2	1.2.3.4	oxalate oxidase
+isoform	1.2.3.4	oxalate oxidase
+isoform	1.2.3.4	oxalate oxidase
+isoform	1.2.3.4	oxalate oxidase
+isoform	1.2.3.4	oxalate oxidase
+G-isoform	1.2.3.4	oxalate oxidase
+germin-like protein 2 has oxalate oxidase activity	1.2.3.4	oxalate oxidase
 TaOxo1	1.2.3.4	oxalate oxidase
 TaOxo2	1.2.3.4	oxalate oxidase
 gl-OXO	1.2.3.4	oxalate oxidase
@@ -1173,34 +1173,34 @@ dehydrogenase, pyruvate	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 pyruvic acid dehydrogenase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 VEG220	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 Vegetative protein 220	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-PDHE1alpha1	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-PDH E1alpha	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-Pda1p	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+subunit	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+subunit	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+alpha subunit of the pyruvate dehydrogenase complex	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 pyruvate decarboxylase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 E1 component of the pyruvate dehydrogenase multienzyme complex	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 thiamine diphosphate-dependent 2-oxo acid decarboxylase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-pyruvate:[dihydrolipoyllysine-residue	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+pyruvate:[dihydrolipoyllysine-residueacetyltransferase]-lipoyllysine 2-oxidoreductase (decarboxylating,acceptor-acetylating)	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PDCp	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 plastidial pyruvate dehydrogenase complex	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 E1 component of pyruvate dehydrogenase complex	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-E1alpha	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+component of the pyruvate dehydrogenasemultienzyme complex	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 pyruvate dehydrogenase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PDH	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 aceE	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 pyruvate dehydrogenase E1 component	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 pyruvate dehydrogenase, E1	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-thiamin-dependent pyruvate dehydrogenase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+part of thepyruvate dehydrogenase multienzyme complex PDHc as component E1	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 pyruvate dehydrogenase complex,	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PDH subunit E1-beta	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PdhB	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 pyruvate dehydrogenase E1 component subunit beta	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 MdeB	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PDHA1a	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-PDHE1alpha	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+E1 alpha subunit of pyruvate dehydrogenase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 pyruvate dehydrogenase multienzyme complex	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PDHc-E1	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-pyruvate dehydrogenase complex	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-pyruvate dehydrogenase E1	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+enzyme incomplex with alpha-ketoglutarate dehydrogenase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+bound to the E1-binding domain ofdihydrolipoamide acetyltransferase (E2) in pyruvate dehydrogenasecomplex (PDC)	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PDC	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PDHc E1	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 E1ec	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
@@ -1210,16 +1210,16 @@ E1 component of pyruvate dehydrogenase multienzyme complex	1.2.4.1	pyruvate dehy
 pyruvate dehydrogenase multienzyme complex E1	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 E1 component of pyruvate dehydrogenase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 thiamin diphosphate-dependent pyruvate dehydrogenase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-More	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+component of the pyruvate dehydrogenase multienzymecomplex	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 E1p	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PDH complex	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-PDHC	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+enzyme in complex with alpha-ketoglutaratedehydrogenase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 mitochondrial pyruvate dehydrogenase	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 pyruvate dehydrogenase alpha subunit	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PDHalpha	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 PDH-E1 catalytic subunit	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 pyruvate dehydrogenase E1 alpha subunit	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
-PDHa	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
+subunit alpha of pyruvate dehydrogenase E1	1.2.4.1	pyruvate dehydrogenase (acetyl-transferring)
 oxoglutarate decarboxylase	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 dehydrogenase, oxoglutarate	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 alpha-ketoglutaric dehydrogenase	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
@@ -1235,38 +1235,38 @@ E1 subunit of the alpha-ketoglutarate dehydrogenase complex	1.2.4.2	oxoglutarate
 alpha-KGDH	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 alpha-ketoglutarate dehydrogenase	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 KG dehydrogenase	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-dihydrolipoyl succinyltransferase E2	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+part of themultisubunit alpha-ketoglutarate dehydrogenase complex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 alpha-KDE2	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 ODH	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 OdhA	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 KGDHC	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-alpha-ketoglutarate dehydrogenase complex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-E1k	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+enzyme in complex with pyruvate dehydrogenase	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+part of the alpha-ketoglutarate dehydrogenasecomplex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 alpha-ketoglutarate dehydrogenase multienzyme complex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-KGDH	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-DHTKD1	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+KGDH is a multienzyme complex that consists ofmultiple copies of three subunits: E1 (alpha-ketoacid decarboxylase),E2(dihydrolipoyl transacetylase), and E3 (dihydrolipoamidedehydrogenase)	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+2-oxoglutarate dehydrogenase-like hypotheticalprotein	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 2OGDH	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-2-oxoglutarate decarboxylase	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-E1 component of the 2-oxoglutarate dehydrogenase multienzyme	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+part of the 2-oxoglutaratedehydrogenase complex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+E1 component of the 2-oxoglutarate dehydrogenase multienzymecomplex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 E1o component	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-E2	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-E1o	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-2-oxoglutarate dehydrogenase	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-OGDH	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-More	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-OGHDC-E2	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+component of the 2-oxo acid dehydrogenasemultienzyme complex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+component of the 2-oxoglutaratedehydrogenase multienzyme complex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+firstand rate-limiting component of the multienzyme 2-oxoglutaratedehydrogenase complex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+part of the 2-oxoglutarate dehydrogenasecomplex multienzyme system	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+enzyme is part of the alpha-ketoglutarate dehydrogenasecomplex KGDHC	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+component of the 2-oxoglutarate dehydrogenasemultienzyme complex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 2-oxoglutarate dehydrogenase complex E1 component	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-2-oxoglutarate dehydrogenase complex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+tricarboxylicacid cycle multienzyme	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 2-ketoglutarate dehydrogenase	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-PDHC	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+enzyme in complex with alpha-ketoglutarate dehydrogenase	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 E1o component 2-oxoglutarate dehydrogenase complex	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-2-oxoglutarate dehydrogenase-like protein	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+brain-specificisozyme	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 OGDHC	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 KDH	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 oxoglutarate dehydrogenase	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-OGDHL	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
+2-oxoglutarate dehydrogenase-like hypotheticalprotein	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
 OGDC	1.2.4.2	oxoglutarate dehydrogenase (succinyl-transferring)
-2-oxoisovalerate dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+2-oxoisovalerate dehydrogenase (lipoate)	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 2-oxoisocaproate dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 alpha-keto-beta-methylvalerate dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 alpha-ketoisocaproic-alpha-keto-beta-methylvaleric dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
@@ -1276,38 +1276,38 @@ alpha-ketoisocaproate dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenas
 alpha-ketoisovalerate dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCKADC	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCOAD	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
-branched-chain	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+branched-chain (-2-oxoacid BCD) dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain alpha-oxo acid dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain ketoacid dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain 2-oxo acid dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched chain keto acid dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain 2-keto acid dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
-dehydrogenase, 2-oxoisovalerate	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+dehydrogenase, 2-oxoisovalerate (lipoate)	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 dehydrogenase, branched chain alpha-keto acid	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 dehydrogenase, 2-oxoisocaproate	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 EC 1.2.4.3	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCKDH E1-alpha	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCKDH E1-beta	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain keto acid dehydrogenase complex	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
-branched chain alpha-ketoacid dehydrogenase complex	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+components E2 and E1	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 E2	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCKDH	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCKDC	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain alpha-keto acid dehydrogenase complex	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain alpha-ketoacid dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain ketoacid dehydrogenase E1	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
-branched-chain keto acid dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+contains threecomponents: E1 (alpha2/beta2, dehydrogenase-decarboxylase), E2(transacylase), and E3 (lipoamide dehydrogenase)	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 Bkd	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
-dihydrolipoyl acyl-transferase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+E2 component of thebranched-chain 2-oxoacid dehydrogenase complex	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCDH	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
-bkdF	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+subunit	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCOA	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 E1b component of the 2-oxo acid dehydrogenase complex	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCKDHc	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
-More	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+E1b and E2b are components of the branched-chainalpha-ketoacid dehydrogenase multienzyme complex BCKD	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCKD	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain alpha-keto acid decarboxylase/dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
-alpha-ketoacid dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+i.e. E1b enzyme complex component	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain alpha-ketoacid dehydrogenase multienzyme complex	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 E1b	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCKDHB	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
@@ -1315,25 +1315,25 @@ branched-chain alpha-keto acid dehydrogenase E1beta subunit	1.2.4.4	3-methyl-2-o
 E1b component	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain alpha-ketoacid dehydrogenase complex	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain alpha-keto acid dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
-dihydrolipoyl transacylase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
+i.e. E2b enzyme complexcomponent	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 branched-chain alpha-ketoacid dehydrogenase enzyme complex	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 BCKA dehydrogenase	1.2.4.4	3-methyl-2-oxobutanoate dehydrogenase (2-methylpropanoyl-transferring)
 pyruvate:ubiquinone-8-oxidoreductase	1.2.5.1	pyruvate dehydrogenase (quinone)
 ubiquinione-dependent pyruvate oxidase	1.2.5.1	pyruvate dehydrogenase (quinone)
 POXEC	1.2.5.1	pyruvate dehydrogenase (quinone)
-EC 1.2.2.2	1.2.5.1	pyruvate dehydrogenase (quinone)
+formerly	1.2.5.1	pyruvate dehydrogenase (quinone)
 ubiquinone-dependent pyruvate oxidase	1.2.5.1	pyruvate dehydrogenase (quinone)
 pyruvate oxidase B	1.2.5.1	pyruvate dehydrogenase (quinone)
-pyruvate oxidase	1.2.5.1	pyruvate dehydrogenase (quinone)
+enzyme also catalyzes the formation ofacetoin from pyruvate and acetaldehyde	1.2.5.1	pyruvate dehydrogenase (quinone)
 poxB	1.2.5.1	pyruvate dehydrogenase (quinone)
 POX	1.2.5.1	pyruvate dehydrogenase (quinone)
 pyruvate:quinone oxidoreductase	1.2.5.1	pyruvate dehydrogenase (quinone)
-pqo	1.2.5.1	pyruvate dehydrogenase (quinone)
-pyruvate	1.2.5.1	pyruvate dehydrogenase (quinone)
+gene name	1.2.5.1	pyruvate dehydrogenase (quinone)
+pyruvate (quinone) dehydrogenase	1.2.5.1	pyruvate dehydrogenase (quinone)
 ECPOX	1.2.5.1	pyruvate dehydrogenase (quinone)
-dehydrogenase, aldehyde	1.2.5.2	aldehyde dehydrogenase (quinone)
+dehydrogenase, aldehyde (acceptor)	1.2.5.2	aldehyde dehydrogenase (quinone)
 ALDH	1.2.5.2	aldehyde dehydrogenase (quinone)
-aldehyde dehydrogenase	1.2.5.2	aldehyde dehydrogenase (quinone)
+aldehyde dehydrogenase (acceptor)	1.2.5.2	aldehyde dehydrogenase (quinone)
 quinohemoprotein dehydrogenase	1.2.5.2	aldehyde dehydrogenase (quinone)
 ADH IIG	1.2.5.2	aldehyde dehydrogenase (quinone)
 ADH IIB	1.2.5.2	aldehyde dehydrogenase (quinone)
@@ -1369,32 +1369,32 @@ pyruvate:ferredoxin oxidoreductase	1.2.7.1	pyruvate synthase
 pyruvate-ferredoxin oxidoreductase	1.2.7.1	pyruvate synthase
 PFO	1.2.7.1	pyruvate synthase
 OFOR	1.2.7.1	pyruvate synthase
-Ape2126/2128	1.2.7.1	pyruvate synthase
+ordered locus name	1.2.7.1	pyruvate synthase
 PFR1	1.2.7.1	pyruvate synthase
 PFR	1.2.7.1	pyruvate synthase
 PFOR	1.2.7.1	pyruvate synthase
-bifunctional pyruvate decarboxylase/pyruvate ferredoxin	1.2.7.1	pyruvate synthase
-PorEDABG	1.2.7.1	pyruvate synthase
-TTE0445	1.2.7.1	pyruvate synthase
+bifunctional pyruvate decarboxylase/pyruvate ferredoxinoxidoreductase	1.2.7.1	pyruvate synthase
+five-subunit type enzyme	1.2.7.1	pyruvate synthase
+gene name	1.2.7.1	pyruvate synthase
 PforA	1.2.7.1	pyruvate synthase
-Tsac_0046	1.2.7.1	pyruvate synthase
-POR	1.2.7.1	pyruvate synthase
+gene name	1.2.7.1	pyruvate synthase
+bifunctional enzyme that catalyzes both theoxidative and nonoxidative decarboxylation of pyruvate	1.2.7.1	pyruvate synthase
 pyruvate ferredoxin oxidoreductase	1.2.7.1	pyruvate synthase
 PFO A	1.2.7.1	pyruvate synthase
 pyruvate:ferredoxin oxidoreductase A	1.2.7.1	pyruvate synthase
 AP120	1.2.7.1	pyruvate synthase
 OOR	1.2.7.10	oxalate oxidoreductase
-StOFOR1	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
-StOFOR2	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
-OFOR2	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
-OFOR1	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
+StOFOR1 and StOFOR2 are paralogs, the 2-oxoacidoxidoreductase activity in Sulfolobus tokodaii cells is mainly due toStOFOR1. A paralogous gene set (stk_24350/stk_24330) of the StOFOR1genes (stk_23000/stk_22980) is present in the Sulfolobus tokodaiigenome. STK_24350 (alpha-subunit) and STK_24330 (beta-subunit) havesimilar domain architectures to STK_23000 and STK_22980, with highamino acid sequence identity for both subunits (59% and 71%). 2-oxoacidoxidoreductase activity in Sulfolobus tokodaii cells is mainly due toStOFOR1, and there is no evidence for the expression of thetk_24350/stk_24330 genes	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
+there is no evidence for the expression of theStOFOR2 (tk_24350/stk_24330 genes) in Sulfolobus tokodaii. Recombinantprotein samples of STK_24350/STK_24330 are prepared and this enzyme isdesignated as StOFOR2. StOFOR1 and StOFOR2 are paralog. The 2-oxoacidoxidoreductase activity in Sulfolobus tokodaii cells is mainly due toStOFOR1. A paralogous gene set (stk_24350/stk_24330) of the StOFOR1genes (stk_23000/stk_22980) is present in the Sulfolobus tokodaiigenome. STK_24350 (alpha-subunit) and STK_24330 (beta-subunit) havesimilar domain architectures to STK_23000 and STK_22980, with highamino acid sequence identity for both subunits (59% and 71%)	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
+isoform	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
+isoform	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
 OFOR	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
 2-oxoacid:ferredoxin oxidoreductase	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
 2-oxoacid: ferredoxin oxidoreductase	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
 KOR	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
 2-ketoacid:ferredoxin oxidoreductase	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
 2-oxoacid:ferredoxin oxidoreductases	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
-Ape1473/1472	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
+ordered locus name	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
 StOFOR	1.2.7.11	2-oxoacid oxidoreductase (ferredoxin)
 Dehydrogenase, formylmethanofuran	1.2.7.12	formylmethanofuran dehydrogenase
 Fmd	1.2.7.12	formylmethanofuran dehydrogenase
@@ -1404,8 +1404,8 @@ PF02663	1.2.7.12	formylmethanofuran dehydrogenase
 FmdE	1.2.7.12	formylmethanofuran dehydrogenase
 molybdenum-type formylmethanofuran dehydrogenase	1.2.7.12	formylmethanofuran dehydrogenase
 tungsten-type formylmethanofuran dehydrogenase	1.2.7.12	formylmethanofuran dehydrogenase
-FWD1	1.2.7.12	formylmethanofuran dehydrogenase
-FWD2	1.2.7.12	formylmethanofuran dehydrogenase
+isoform	1.2.7.12	formylmethanofuran dehydrogenase
+isoform	1.2.7.12	formylmethanofuran dehydrogenase
 tungsten-dependent formylmethanofuran dehydrogenase	1.2.7.12	formylmethanofuran dehydrogenase
 Fwd	1.2.7.12	formylmethanofuran dehydrogenase
 formyl-MFR dehydrogenase	1.2.7.12	formylmethanofuran dehydrogenase
@@ -1414,20 +1414,20 @@ FwdA-DFGH/FwdAFmdBCE	1.2.7.12	formylmethanofuran dehydrogenase
 alpha-ketoglutarate-ferredoxin oxidoreductase	1.2.7.3	2-oxoglutarate synthase
 2-ketoglutarate ferredoxin oxidoreductase	1.2.7.3	2-oxoglutarate synthase
 2-oxoglutarate ferredoxin oxidoreductase	1.2.7.3	2-oxoglutarate synthase
-2-oxoglutarate:ferredoxin 2-oxidoreductase	1.2.7.3	2-oxoglutarate synthase
+2-oxoglutarate:ferredoxin 2-oxidoreductase (CoA-succinylating)	1.2.7.3	2-oxoglutarate synthase
 OOR	1.2.7.3	2-oxoglutarate synthase
 2-oxoglutarate oxidoreductase	1.2.7.3	2-oxoglutarate synthase
 alpha-ketoglutarate oxidoreductase	1.2.7.3	2-oxoglutarate synthase
-oorDABC	1.2.7.3	2-oxoglutarate synthase
+operon name	1.2.7.3	2-oxoglutarate synthase
 CoA-dependent 2-ketoglutarate oxidoreductase	1.2.7.3	2-oxoglutarate synthase
 KGOR	1.2.7.3	2-oxoglutarate synthase
 alpha-ketoglutarate synthase	1.2.7.3	2-oxoglutarate synthase
 2-oxoglutarate:ferredoxin oxidoreductase	1.2.7.3	2-oxoglutarate synthase
 OGOR	1.2.7.3	2-oxoglutarate synthase
-Kor	1.2.7.3	2-oxoglutarate synthase
+Kor(OGOR)	1.2.7.3	2-oxoglutarate synthase
 KOR enzyme	1.2.7.3	2-oxoglutarate synthase
-For	1.2.7.3	2-oxoglutarate synthase
-forDABGE	1.2.7.3	2-oxoglutarate synthase
+For(OGOR)	1.2.7.3	2-oxoglutarate synthase
+gene name, five-subunit-structure: ForA, ForB, ForG,ForD, and ForE	1.2.7.3	2-oxoglutarate synthase
 FOR enzyme	1.2.7.3	2-oxoglutarate synthase
 Dehydrogenase, carbon monoxide	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 Carbon dioxide/carbon monoxide oxidoreductase	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
@@ -1437,7 +1437,7 @@ Cdh	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 CO dehydrogenase/acetyl-CoA synthase	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 carbon monoxide dehydrogenase-corrinoid enzyme complex	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 Carbon monoxide dehydrogenase	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
-coos	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
+catalytic subunit	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 CO dehydrogenase complex	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 CO dehydrogenase complex II	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 CODHase	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
@@ -1449,27 +1449,27 @@ Ni,Fe-dependent carbon monoxide dehydrogenase	1.2.7.4	anaerobic carbon-monoxide 
 Ni,Fe-CODH	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 CODH II	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 CO dehydrogenase	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
-CO-DH	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
+possesses also nitric oxid dehydrogenaseactivity in mycobacteria	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 Ni-CODH	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 Ni-containing carbon monoxide dehydrogenase	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
-ACS/CODH	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
+bifunctional enzyme	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
 acetyl coenzyme A synthase/carbon monoxide dehydrogenase	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
-acetyl-CoA synthase/carbon monoxide dehydrogenase	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
-CODHACS	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
-CODH/ACS	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
-carbon monoxide dehydrogenase/acetyl-CoA synthase	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
-6,9,11,12,14,25,26,30,31,32,33,34,35,36,37,38,39,40,45,46,47,48,49,50	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
-oxidase, aldehyde	1.2.7.5	aldehyde ferredoxin oxidoreductase
-aldehyde oxidase	1.2.7.5	aldehyde ferredoxin oxidoreductase
-More	1.2.7.5	aldehyde ferredoxin oxidoreductase
+bifunctionalenzyme	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
+bifunctional enzyme, CODHACS is a macromolecularmachine that catalyzes the last step of the Wood-Ljungdahl pathway ofanaerobic carbon dioxide fixation	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
+bifunctional enzyme	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
+bifunctional enzyme	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
+beta subunit of the bifunctional acetyl coenzyme Asynthase/carbon monoxide dehydrogenase complex	1.2.7.4	anaerobic carbon-monoxide dehydrogenase
+oxidase, aldehyde (ferredoxin)	1.2.7.5	aldehyde ferredoxin oxidoreductase
+aldehyde oxidase (ferredoxin)	1.2.7.5	aldehyde ferredoxin oxidoreductase
+formaldehyde ferredoxin oxidoreductase and aldehydeferredoxin oxidoreductase are 2 separate enzymes	1.2.7.5	aldehyde ferredoxin oxidoreductase
 POR	1.2.7.5	aldehyde ferredoxin oxidoreductase
 FOR	1.2.7.5	aldehyde ferredoxin oxidoreductase
 AOR	1.2.7.5	aldehyde ferredoxin oxidoreductase
 tungsten-containing aldehyde ferredoxin oxidoreductases	1.2.7.5	aldehyde ferredoxin oxidoreductase
-Aor1	1.2.7.5	aldehyde ferredoxin oxidoreductase
-Aor2	1.2.7.5	aldehyde ferredoxin oxidoreductase
-Aor3	1.2.7.5	aldehyde ferredoxin oxidoreductase
-Aor4	1.2.7.5	aldehyde ferredoxin oxidoreductase
+isoform	1.2.7.5	aldehyde ferredoxin oxidoreductase
+isoform	1.2.7.5	aldehyde ferredoxin oxidoreductase
+isoform	1.2.7.5	aldehyde ferredoxin oxidoreductase
+isoform	1.2.7.5	aldehyde ferredoxin oxidoreductase
 tungsten-containing aldehyde:ferredoxin oxidoreductase	1.2.7.5	aldehyde ferredoxin oxidoreductase
 phenylacetaldehyde:ferredoxin oxidoreductase	1.2.7.5	aldehyde ferredoxin oxidoreductase
 formaldehyde ferredoxin oxidoreductase	1.2.7.5	aldehyde ferredoxin oxidoreductase
@@ -1478,8 +1478,8 @@ aldehyde Fd oxidoreductase	1.2.7.5	aldehyde ferredoxin oxidoreductase
 aldehyde ferredoxin oxidoreductase	1.2.7.5	aldehyde ferredoxin oxidoreductase
 aldehyde oxidoreductase	1.2.7.5	aldehyde ferredoxin oxidoreductase
 glyceraldehyde-3-phosphate Fd oxidoreductase	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
-dehydrogenase, glyceraldehyde phosphate	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
-glyceraldehyde phosphate dehydrogenase	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
+dehydrogenase, glyceraldehyde phosphate (ferredoxin)	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
+glyceraldehyde phosphate dehydrogenase (ferredoxin)	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
 glyceraldehyde-3-phosphate ferredoxin reductase	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
 glyceraldehyde 3-phosphate oxidoreductase	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
 glyceraldehyde-3-phosphate ferredoxin oxidoreductase	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
@@ -1490,8 +1490,8 @@ G3P:ferredoxin oxidoreductase	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (
 GAPOR	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
 glyceraldehyde 3-phosphate ferredoxin oxidoreductase	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
 aldehyde ferredoxin oxidoreductase	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
-PAE1029	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
-3-methyl-2-oxobutanoate synthase	1.2.7.7	3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
+gene name	1.2.7.6	glyceraldehyde-3-phosphate dehydrogenase (ferredoxin)
+3-methyl-2-oxobutanoate synthase (ferredoxin)	1.2.7.7	3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
 branched-chain ketoacid ferredoxin reductase	1.2.7.7	3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
 branched-chain oxo acid ferredoxin reductase	1.2.7.7	3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
 keto-valine-ferredoxin oxidoreductase	1.2.7.7	3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
@@ -1502,13 +1502,13 @@ ketoisovalerate ferredoxin reductase	1.2.7.7	3-methyl-2-oxobutanoate dehydrogena
 VOR	1.2.7.7	3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
 2-ketoisovalerate ferredoxin oxidoreductase	1.2.7.7	3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
 3-methyl-2-oxobutanoate dehydrogenase	1.2.7.7	3-methyl-2-oxobutanoate dehydrogenase (ferredoxin)
-3-	1.2.7.8	indolepyruvate ferredoxin oxidoreductase
+3-(indol-3-yl)pyruvate synthase (ferredoxin)	1.2.7.8	indolepyruvate ferredoxin oxidoreductase
 arylpyruvate-ferredoxin oxidoreductase	1.2.7.8	indolepyruvate ferredoxin oxidoreductase
 hydroxyphenylpyruvate oxidase	1.2.7.8	indolepyruvate ferredoxin oxidoreductase
 indolepyruvate oxidase	1.2.7.8	indolepyruvate ferredoxin oxidoreductase
 phenylpyruvate oxidase	1.2.7.8	indolepyruvate ferredoxin oxidoreductase
 indolepyruvate-ferredoxin oxidoreductase	1.2.7.8	indolepyruvate ferredoxin oxidoreductase
-IOR	1.2.7.8	indolepyruvate ferredoxin oxidoreductase
+Methanococcus maripaludis has two IOR homologs	1.2.7.8	indolepyruvate ferredoxin oxidoreductase
 dismutase, formaldehyde	1.2.98.1	formaldehyde dismutase
 aldehyde dismutase	1.2.98.1	formaldehyde dismutase
 FDM	1.2.98.1	formaldehyde dismutase
@@ -1532,19 +1532,19 @@ MOP molybdenum-containing protein	1.2.99.7	aldehyde dehydrogenase (FAD-independe
 AOR	1.2.99.7	aldehyde dehydrogenase (FAD-independent)
 aldehyde oxidoreductase	1.2.99.7	aldehyde dehydrogenase (FAD-independent)
 glyceraldehyde oxidoreductase	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
-ST1781	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
-ST1783	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
-ST1782	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
+gene name	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
+gene name	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
+gene name	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
 Gaor1	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
-ST2339	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
+gene name	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
 Gaor2	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
-ST0562	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
-ST0561	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
-ST2484	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
+gene name	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
+gene name	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
+gene name	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
 Gaor3	1.2.99.8	glyceraldehyde dehydrogenase (FAD-containing)
 coenzyme F420 reducing formate dehydrogenase	1.2.99.9	formate dehydrogenase (coenzyme F420)
 coenzyme F420-dependent formate dehydrogenase	1.2.99.9	formate dehydrogenase (coenzyme F420)
 coenzyme F420-reducing formate dehydrogenase	1.2.99.9	formate dehydrogenase (coenzyme F420)
 FDH	1.2.99.9	formate dehydrogenase (coenzyme F420)
-Fdh2	1.2.99.9	formate dehydrogenase (coenzyme F420)
-FDH1	1.2.99.9	formate dehydrogenase (coenzyme F420)
+isoform	1.2.99.9	formate dehydrogenase (coenzyme F420)
+isoform	1.2.99.9	formate dehydrogenase (coenzyme F420)

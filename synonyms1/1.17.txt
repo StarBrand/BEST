@@ -3,11 +3,11 @@ reductase, cytidine diphospho-4-keto-6-deoxy-D-glucose	1.17.1.1	CDP-4-dehydro-6-
 cytidine diphosphate 4-keto-6-deoxy-D-glucose-3-dehydrogenase	1.17.1.1	CDP-4-dehydro-6-deoxyglucose reductase
 CDP-4-keto-deoxy-glucose reductase	1.17.1.1	CDP-4-dehydro-6-deoxyglucose reductase
 CDP-4-keto-6-deoxy-D-glucose-3-dehydrogenase system	1.17.1.1	CDP-4-dehydro-6-deoxyglucose reductase
-NAD	1.17.1.1	CDP-4-dehydro-6-deoxyglucose reductase
-More	1.17.1.1	CDP-4-dehydro-6-deoxyglucose reductase
+NAD(P)H:CDP-4-keto-6-deoxy-D-glucose oxidoreductase	1.17.1.1	CDP-4-dehydro-6-deoxyglucose reductase
+2 proteins E1 and E3 are involved but no partialreaction has been observed in the presence of either alone	1.17.1.1	CDP-4-dehydro-6-deoxyglucose reductase
 leucocyanidin reductase	1.17.1.3	leucoanthocyanidin reductase
 reductase, leucoanthocyanidin	1.17.1.3	leucoanthocyanidin reductase
-More	1.17.1.3	leucoanthocyanidin reductase
+enzyme is part of the isoflavone reductase group ofthe reductase-epimerase-dehydrogenase family of enzymes	1.17.1.3	leucoanthocyanidin reductase
 ANR	1.17.1.3	leucoanthocyanidin reductase
 anthocyanidin reductase	1.17.1.3	leucoanthocyanidin reductase
 BAN	1.17.1.3	leucoanthocyanidin reductase
@@ -28,7 +28,7 @@ Rosy locus protein	1.17.1.4	xanthine dehydrogenase
 XOR	1.17.1.4	xanthine dehydrogenase
 xanthine oxidoreductase	1.17.1.4	xanthine dehydrogenase
 XDH	1.17.1.4	xanthine dehydrogenase
-More	1.17.1.4	xanthine dehydrogenase
+mammalian XOR exists in two interconvertibleforms, the xanthine dehydrogenase, XDH, form and the xanthine oxidase,XO, form. The primary gene product is XDH, which can be converted intoXO	1.17.1.4	xanthine dehydrogenase
 XDH1	1.17.1.4	xanthine dehydrogenase
 xanthine dehydrogenase	1.17.1.4	xanthine dehydrogenase
 AtXDH1	1.17.1.4	xanthine dehydrogenase
@@ -44,16 +44,16 @@ EC 1.5.1.13	1.17.1.5	nicotinate dehydrogenase
 dehydrogenase, nicotinate	1.17.1.5	nicotinate dehydrogenase
 nicotinate dehydrogenase	1.17.1.5	nicotinate dehydrogenase
 NDH	1.17.1.5	nicotinate dehydrogenase
-NdhS	1.17.1.5	nicotinate dehydrogenase
-NdhL	1.17.1.5	nicotinate dehydrogenase
-NdhM	1.17.1.5	nicotinate dehydrogenase
+gene name	1.17.1.5	nicotinate dehydrogenase
+gene name	1.17.1.5	nicotinate dehydrogenase
+gene name	1.17.1.5	nicotinate dehydrogenase
 reductase, dihydrodipicolinate	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
 dihydrodipicolinic acid reductase	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
 DHDP reductase	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
 AbDHDPR	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
 MRSA-DHDPR	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
-EC 1.3.1.26	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
-DapB	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+formerly	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
+gene name	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
 dihydrodipicolinate reductase	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
 DHDPR	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
 DHPR	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
@@ -61,8 +61,8 @@ dihydrodipicolinate reductase-like protein	1.17.1.8	4-hydroxy-tetrahydrodipicoli
 CRR1	1.17.1.8	4-hydroxy-tetrahydrodipicolinate reductase
 NicA	1.17.2.1	nicotinate dehydrogenase (cytochrome)
 NicB	1.17.2.1	nicotinate dehydrogenase (cytochrome)
-ndhSL	1.17.2.1	nicotinate dehydrogenase (cytochrome)
-lupanine dehydrogenase	1.17.2.2	lupanine 17-hydroxylase (cytochrome c)
+gene name	1.17.2.1	nicotinate dehydrogenase (cytochrome)
+lupanine dehydrogenase (cytochrome c)	1.17.2.2	lupanine 17-hydroxylase (cytochrome c)
 lupanine hydroxylase	1.17.2.2	lupanine 17-hydroxylase (cytochrome c)
 oxidase, pteridine	1.17.3.1	pteridine oxidase
 Schardinger enzyme	1.17.3.2	xanthine oxidase
@@ -74,17 +74,17 @@ EC 1.2.3.2.	1.17.3.2	xanthine oxidase
 EC 1.1.3.22	1.17.3.2	xanthine oxidase
 hypoxanthine-xanthine oxidase	1.17.3.2	xanthine oxidase
 xanthine:O2 oxidoreductase	1.17.3.2	xanthine oxidase
-XOR	1.17.3.2	xanthine oxidase
-xanthine oxidoreductase	1.17.3.2	xanthine oxidase
+xanthine oxidoreductase can exists in adehydrogenase form, XD, and an oxidase form, XO	1.17.3.2	xanthine oxidase
+xanthineoxidoreductase can exists in a dehydrogenase form, XD, and an oxidaseform, XO	1.17.3.2	xanthine oxidase
 xanthine:oxygen oxidoreductase	1.17.3.2	xanthine oxidase
-AXOR	1.17.3.2	xanthine oxidase
+gene name	1.17.3.2	xanthine oxidase
 XOD	1.17.3.2	xanthine oxidase
 xanthine: oxygen oxidoreductase	1.17.3.2	xanthine oxidase
-More	1.17.3.2	xanthine oxidase
+formerly EC 1.1.3.22	1.17.3.2	xanthine oxidase
 XO	1.17.3.2	xanthine oxidase
-EC 1.1.3.2	1.17.3.2	xanthine oxidase
+formerly	1.17.3.2	xanthine oxidase
 XnOx	1.17.3.2	xanthine oxidase
-xanthine oxidase	1.17.3.2	xanthine oxidase
+one of two conformational stages ofthe enzyme with different activities, the second is xanthinedehydrogenase	1.17.3.2	xanthine oxidase
 6-hydroxynicotinic acid hydroxylase	1.17.3.3	6-hydroxynicotinate dehydrogenase
 6-hydroxynicotinic acid dehydrogenase	1.17.3.3	6-hydroxynicotinate dehydrogenase
 6-hydroxynicotinate hydroxylase	1.17.3.3	6-hydroxynicotinate dehydrogenase
@@ -102,16 +102,16 @@ ADP reductase	1.17.4.1	ribonucleoside-diphosphate reductase
 nucleoside diphosphate reductase	1.17.4.1	ribonucleoside-diphosphate reductase
 ribonucleoside 5'-diphosphate reductase	1.17.4.1	ribonucleoside-diphosphate reductase
 ribonucleotide diphosphate reductase	1.17.4.1	ribonucleoside-diphosphate reductase
-2'-deoxyribonucleoside-diphosphate:oxidized-thioredoxin	1.17.4.1	ribonucleoside-diphosphate reductase
+2'-deoxyribonucleoside-diphosphate:oxidized-thioredoxin2'-oxidoreductase	1.17.4.1	ribonucleoside-diphosphate reductase
 class I RNR	1.17.4.1	ribonucleoside-diphosphate reductase
 class Ib RNR	1.17.4.1	ribonucleoside-diphosphate reductase
-class II RNR	1.17.4.1	ribonucleoside-diphosphate reductase
+cf. EC 1.17.4.2	1.17.4.1	ribonucleoside-diphosphate reductase
 R2F	1.17.4.1	ribonucleoside-diphosphate reductase
 manganese-ribonucleotide reductase	1.17.4.1	ribonucleoside-diphosphate reductase
 Mn-RNR	1.17.4.1	ribonucleoside-diphosphate reductase
 class Ic ribonucleotide reductase	1.17.4.1	ribonucleoside-diphosphate reductase
 RNR	1.17.4.1	ribonucleoside-diphosphate reductase
-More	1.17.4.1	ribonucleoside-diphosphate reductase
+a class I ribonucleotide reductase	1.17.4.1	ribonucleoside-diphosphate reductase
 class I ribonucleotide reductase	1.17.4.1	ribonucleoside-diphosphate reductase
 ribonucleotide reductase	1.17.4.1	ribonucleoside-diphosphate reductase
 ribonucleoside-diphosphate reductase subunit M2 B	1.17.4.1	ribonucleoside-diphosphate reductase
@@ -131,18 +131,18 @@ NrdB	1.17.4.1	ribonucleoside-diphosphate reductase
 NrdA	1.17.4.1	ribonucleoside-diphosphate reductase
 p53-inducible ribonucleotide reductase	1.17.4.1	ribonucleoside-diphosphate reductase
 class I RR	1.17.4.1	ribonucleoside-diphosphate reductase
-2'-deoxyribonucleoside-triphosphate:oxidized-thioredoxin	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
+2'-deoxyribonucleoside-triphosphate:oxidized-thioredoxin2'-oxidoreductase	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 class III RNR	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 class II ribonucleotide reductase	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 ribonucleoside triphosphate reductase	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 nucleoside triphosphate reductase	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 RTPR	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
-class II RNR	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
+cf. EC 1.17.4.1	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 RNR	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 ribonucleotide reductase	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
-RNR2	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
+small subunit of RNR	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 adenosylcobalamin-dependent ribonucleoside-triphosphate reductase	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
-More	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
+ribonucleotide diphosphate reductase class Ia	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 ribonucleotide diphosphate reductase	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 RNR class Ia	1.17.4.2	ribonucleoside-triphosphate reductase (thioredoxin)
 reductase, phylloquinone epoxide	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
@@ -153,7 +153,7 @@ vitamin K 2,3-epoxide reductase	1.17.4.4	vitamin-K-epoxide reductase (warfarin-s
 vitamin K 2,3-epoxide reductase complex subunit 1	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
 Vitamin K reductase	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
 vitamin K epoxide reductase complex subunit 1	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
-VKORC1	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
+catalytic subunit of the VKOR complex	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
 vitamin K epoxide reductase	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
 warfarin-sensitive vitamin K1 2,3-epoxide reductase	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
 vitamin K-epoxide reductase	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
@@ -168,9 +168,9 @@ vitamin K-2,3-epoxide reductase	1.17.4.4	vitamin-K-epoxide reductase (warfarin-s
 VKOR complex	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
 warfarin sensitive vitamin K 2,3-epoxide reductase	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
 vitamin K-2,3-epoxide reductase subunit 1	1.17.4.4	vitamin-K-epoxide reductase (warfarin-sensitive)
-reductase, vitamin K epoxide	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
+reductase, vitamin K epoxide (warfarin-insensitive)	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
 vitamin K 2,3 epoxide reductase	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
-vitamin K epoxide reductase	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
+vitamin K epoxide reductase (warfarin-insensitive)	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
 vitamin KO reductase	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
 vitamin K epoxide reductase	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
 VKOR	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
@@ -179,20 +179,20 @@ non-VKOR	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
 VKOR-like1	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
 VKORL1	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
 vitamin K epoxide reductase-like1	1.17.4.5	vitamin-K-epoxide reductase (warfarin-insensitive)
-More	1.17.5.1	phenylacetyl-CoA dehydrogenase
+catalyzes the first step in the conversion ofphenylacetyl-CoA to phenylglyoxylate, the second step being carried outby EC 3.1.2.25	1.17.5.1	phenylacetyl-CoA dehydrogenase
 phenylacetyl-CoA:acceptor oxidoreductase	1.17.5.1	phenylacetyl-CoA dehydrogenase
 phenylacetyl-CoA-acceptor oxidoreductase	1.17.5.1	phenylacetyl-CoA dehydrogenase
 phenylacetyl-CoA alpha-carbon-oxidizing oxidase	1.17.5.1	phenylacetyl-CoA dehydrogenase
-oxidase, phenylacetyl coenzyme A	1.17.5.1	phenylacetyl-CoA dehydrogenase
+oxidase, phenylacetyl coenzyme A (alpha-oxidizing)	1.17.5.1	phenylacetyl-CoA dehydrogenase
 Cdh	1.17.5.2	caffeine dehydrogenase
-cdhABC	1.17.5.2	caffeine dehydrogenase
+gene name	1.17.5.2	caffeine dehydrogenase
 caffeine dehydrogenase	1.17.5.2	caffeine dehydrogenase
 gcpE gene product	1.17.7.1	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
 IspG protein	1.17.7.1	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
-GcpE	1.17.7.1	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
-IspG	1.17.7.1	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
-GcpE/IspG	1.17.7.1	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
-1-hydroxy-2-methyl-2-	1.17.7.1	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
+ambiguous	1.17.7.1	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
+ambiguous	1.17.7.1	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
+ambiguous	1.17.7.1	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
+1-hydroxy-2-methyl-2-(E)-butenyl 4-diphosphate synthase	1.17.7.1	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (ferredoxin)
 HCAR	1.17.7.2	7-hydroxymethyl chlorophyll a reductase
 HMChl reductase	1.17.7.2	7-hydroxymethyl chlorophyll a reductase
 AT1G04620	1.17.7.2	7-hydroxymethyl chlorophyll a reductase
@@ -200,16 +200,19 @@ HAR	1.17.7.2	7-hydroxymethyl chlorophyll a reductase
 7-hydroxymethyl chlorophyll a reductase	1.17.7.2	7-hydroxymethyl chlorophyll a reductase
 DVR	1.17.7.2	7-hydroxymethyl chlorophyll a reductase
 3,8-divinyl chlorophyllide reductase	1.17.7.2	7-hydroxymethyl chlorophyll a reductase
+(E)-4-hydroxy-3-methylbut-2-enyl diphosphate synthase	1.17.7.3	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin)
 4-hydroxy-3-methylbut-2-en-1-yl diphosphate synthase	1.17.7.3	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin)
-GcpE	1.17.7.3	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin)
-IspG	1.17.7.3	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin)
-reductase,	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
+(E)-4-hydroxy-3-methylbut-2-en-1-yl-diphosphate:protein-disulfideoxidoreductase (hydrating)	1.17.7.3	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin)
+ambiguous	1.17.7.3	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin)
+ambiguous	1.17.7.3	(E)-4-hydroxy-3-methylbut-2-enyl-diphosphate synthase (flavodoxin)
+reductase, (E)-4-hydroxy-3-methylbut-2-enyl diphosphate	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
 DsHDR	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
-ispH	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
+(E)-4-hydroxy-3-methylbut-2-enyl diphosphatereductase	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
+gene name	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
 SrHDR	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
-HsHDR1	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
-1-hydroxy-2-methyl-2-	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
-HsHDR2	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
+gene name	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
+1-hydroxy-2-methyl-2-(E)-butenyl-4-diphosphate reductase	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
+gene name	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
 4-hydroxy-3-methylbut-2-enyl diphosphate reductase	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
 isoprenoid synthesis H	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
 lysis-tolerant B	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
@@ -220,15 +223,15 @@ HDR	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
 BgHDR1	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
 BgHDR2	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
 E-4-hydroxy-3-methyl-but-2-enyl diphosphate reductase	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
-LytB	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
-hpnE	1.17.8.1	hydroxysqualene dehydroxylase
+gene name	1.17.7.4	4-hydroxy-3-methylbut-2-en-1-yl diphosphate reductase
+gene name	1.17.8.1	hydroxysqualene dehydroxylase
 bciD	1.17.98.2	bacteriochlorophyllide c C-71-hydroxylase
 7-methyl bacteriochlorophyllide c oxygenase	1.17.98.2	bacteriochlorophyllide c C-71-hydroxylase
-p-cresol-	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
-More	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
-p-cresol methylhydroxylase A	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
-p-cresol methylhydroxylase B	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
-pchF	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
+p-cresol-(acceptor) oxidoreductase (hydroxylating)	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
+consists of a c-type cytochrome subunit PchC and twoflavoprotein subunits PchF	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
+2 enzyme forms with various MWand Km are formed during growth on 3,5-xylenol - hydroxylase A - and4-cresol - hydroxylase B	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
+2 enzyme forms with various MWand Km are formed during growth on 3,5-xylenol - formation ofhydroxylase A - and on 4-cresol - formation of hydroxylase B	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
+gene name	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
 p-cresol methylhydroxylase	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
 PCMH	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
 p-cresol methylhydroxylases	1.17.99.1	4-methylphenol dehydrogenase (hydroxylating)
@@ -240,12 +243,12 @@ THC-CoA oxidase	1.17.99.3	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-Co
 THCCox	1.17.99.3	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase
 THCA-CoA oxidase	1.17.99.3	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase
 3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA oxidase	1.17.99.3	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase
-3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oate	1.17.99.3	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase
+3alpha,7alpha,12alpha-trihydroxy-5beta-cholestan-26-oate24-hydroxylase	1.17.99.3	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase
 alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA oxidase	1.17.99.3	3alpha,7alpha,12alpha-trihydroxy-5beta-cholestanoyl-CoA 24-hydroxylase
 dehydrogenase, uracil	1.17.99.4	uracil/thymine dehydrogenase
 EC 1.2.99.1	1.17.99.4	uracil/thymine dehydrogenase
 uracil oxidase	1.17.99.4	uracil/thymine dehydrogenase
-EC 1.1.99.19	1.17.99.4	uracil/thymine dehydrogenase
+formerly	1.17.99.4	uracil/thymine dehydrogenase
 uracil-thymidine oxidase	1.17.99.4	uracil/thymine dehydrogenase
 uracil dehydrogenase	1.17.99.4	uracil/thymine dehydrogenase
 oQ reductase	1.17.99.6	epoxyqueuosine reductase

@@ -4,7 +4,7 @@ chlorate reductase C	1.97.1.1	chlorate reductase
 clr	1.97.1.1	chlorate reductase
 ClrA	1.97.1.1	chlorate reductase
 NarGH	1.97.1.1	chlorate reductase
-chlorate reductase	1.97.1.1	chlorate reductase
+involved in chloratemetabolism	1.97.1.1	chlorate reductase
 perchlorate reductase	1.97.1.1	chlorate reductase
 PSI	1.97.1.12	photosystem I
 PSI core complex	1.97.1.12	photosystem I
@@ -21,7 +21,7 @@ transhydroxylase	1.97.1.2	pyrogallol hydroxytransferase
 pyrogallol phloroglucinol transhydroxylase	1.97.1.2	pyrogallol hydroxytransferase
 pyrogallol hydroxyltransferase	1.97.1.2	pyrogallol hydroxytransferase
 pyrogallol:phloroglucinol hydroxyltransferase	1.97.1.2	pyrogallol hydroxytransferase
-PFL-glycine:S-adenosyl-L-methionine H transferase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+PFL-glycine:S-adenosyl-L-methionine H transferase(flavodoxin-oxidizing, S-adenosyl-L-methionine-cleaving)	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 Activase, pyruvate formate-lyase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 Formate acetyltransferase activase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 Pyruvate formate-lyase activase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
@@ -40,5 +40,5 @@ selenate reductase	1.97.1.9	selenate reductase
 SR	1.97.1.9	selenate reductase
 SER	1.97.1.9	selenate reductase
 SerABC	1.97.1.9	selenate reductase
-More	1.97.1.9	selenate reductase
+enzyme probably belongs to the DMSO reductase family ofmononuclear molybdenum enzymes	1.97.1.9	selenate reductase
 SrdA	1.97.1.9	selenate reductase

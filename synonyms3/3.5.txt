@@ -8,7 +8,7 @@ DiAsp	3.5.1.1	asparaginase
 EcAIII	3.5.1.1	asparaginase
 L-asparaginase I	3.5.1.1	asparaginase
 EcAII	3.5.1.1	asparaginase
-AnsA	3.5.1.1	asparaginase
+gene name	3.5.1.1	asparaginase
 asparaginase II	3.5.1.1	asparaginase
 asparaginase	3.5.1.1	asparaginase
 L-ASNase	3.5.1.1	asparaginase
@@ -16,16 +16,16 @@ L-asparaginase-I	3.5.1.1	asparaginase
 ASNase	3.5.1.1	asparaginase
 At3g16150	3.5.1.1	asparaginase
 ASNase3	3.5.1.1	asparaginase
-HPA	3.5.1.1	asparaginase
+Helicobacter pylori L-asparaginase	3.5.1.1	asparaginase
 L-asparaginase type II	3.5.1.1	asparaginase
-Ypa	3.5.1.1	asparaginase
+gene name	3.5.1.1	asparaginase
 14270 ASNase	3.5.1.1	asparaginase
 PfA	3.5.1.1	asparaginase
 L-asparaginase type III	3.5.1.1	asparaginase
 Asn	3.5.1.1	asparaginase
 type II L-asparaginase	3.5.1.1	asparaginase
-L-asparaginase III	3.5.1.1	asparaginase
-ansA3	3.5.1.1	asparaginase
+isoform	3.5.1.1	asparaginase
+gene name	3.5.1.1	asparaginase
 L-asparaginase-II	3.5.1.1	asparaginase
 ASNase1	3.5.1.1	asparaginase
 ASPG	3.5.1.1	asparaginase
@@ -34,7 +34,7 @@ ASPGA1	3.5.1.1	asparaginase
 ASPGB1	3.5.1.1	asparaginase
 potassium-dependent asparaginase	3.5.1.1	asparaginase
 potassium-independent asparaginase	3.5.1.1	asparaginase
-3,10,11,16,22,29,44,45,47,49,54,55,57,58,59,65,71,86,87,109,111,112	3.5.1.1	asparaginase
+type II	3.5.1.1	asparaginase
 SGR ASNase	3.5.1.1	asparaginase
 asparagine amidohydrolase	3.5.1.1	asparaginase
 Erwinase	3.5.1.1	asparaginase
@@ -44,14 +44,14 @@ EcaL-ASNase	3.5.1.1	asparaginase
 glutaminase-free L-asparaginase	3.5.1.1	asparaginase
 L-asparagine amino hydrolase	3.5.1.1	asparaginase
 L-asparagine amidohydrolase	3.5.1.1	asparaginase
-ansZ	3.5.1.1	asparaginase
+gene name	3.5.1.1	asparaginase
 L-asparaginase II	3.5.1.1	asparaginase
-ASPG II	3.5.1.1	asparaginase
+three forms, ASPG I, ASPG II, and ASPG III. ASPG IIshows the highest specific activity	3.5.1.1	asparaginase
 type I L-asparaginase	3.5.1.1	asparaginase
 L-asparagine aminohydrolase	3.5.1.1	asparaginase
 PhA	3.5.1.1	asparaginase
-glutamine-	3.5.1.1	asparaginase
-Formyl-FH	3.5.1.10	formyltetrahydrofolate deformylase
+glutamine-(asparagin-)ase	3.5.1.1	asparaginase
+Formyl-FH(4) hydrolase	3.5.1.10	formyltetrahydrofolate deformylase
 10-formyltetrahydrofolate hydrolase	3.5.1.10	formyltetrahydrofolate deformylase
 FTH	3.5.1.10	formyltetrahydrofolate deformylase
 formyltetrahydrofolate hydrolase	3.5.1.10	formyltetrahydrofolate deformylase
@@ -63,20 +63,20 @@ S-stereoselective piperazine-2-tert-butylcarboxamide hydrolase	3.5.1.101	L-proli
 LaaA	3.5.1.101	L-proline amide hydrolase
 L-amino acid amidase	3.5.1.101	L-proline amide hydrolase
 ArfB	3.5.1.102	2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one
-MJ0116	3.5.1.102	2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one
-2-amino-5-formylamino-6-ribosylamino-4	3.5.1.102	2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one
-MshB	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
+gene name	3.5.1.102	2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one
+2-amino-5-formylamino-6-ribosylamino-4(3H)-pyrimidinone5'-monophosphate deformylase	3.5.1.102	2-amino-5-formylamino-6-ribosylaminopyrimidin-4(3H)-one
+gene name	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
 N-acetylglucosaminylinositol-deacetylase	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
 GlcNAc-Ins-deacetylase	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
 GlcNAc-Ins deacetylase	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
-Rv1170	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
-N-acetyl-1-D-myo-inosityl-2-deoxy-alpha-D-glucopyranoside	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
-N-acetyl-1-D-myo-inosityl-2-amino-2-deoxy-alpha-D-glucopyranoside	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
-1D-myo-inosityl-2-acetamido-2-deoxy-alpha-D-glucopyranoside	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
-1-D-myo-inosityl 2-N-acetamido-2-deoxy-alpha-D-glucopyranoside	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
+gene name	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
+N-acetyl-1-D-myo-inosityl-2-deoxy-alpha-D-glucopyranosidedeacetylase	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
+N-acetyl-1-D-myo-inosityl-2-amino-2-deoxy-alpha-D-glucopyranosidedeacetylase	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
+1D-myo-inosityl-2-acetamido-2-deoxy-alpha-D-glucopyranosidedeacetylase	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
+1-D-myo-inosityl 2-N-acetamido-2-deoxy-alpha-D-glucopyranosidedeacetylase	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
 AcGI deacetylase	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
-1-D-myo-inosityl 2-acetamido-2-deoxy-alpha-D-glucopyranoside	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
-N-acetyl-1-D-myo-inosityl-2-amino-2-deoxy-D-glucopyranoside	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
+1-D-myo-inosityl 2-acetamido-2-deoxy-alpha-D-glucopyranosidedeacetylase	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
+N-acetyl-1-D-myo-inosityl-2-amino-2-deoxy-D-glucopyranosidedeacetylase	3.5.1.103	N-acetyl-1-D-myo-inositol-2-amino-2-deoxy-alpha-D-glucopyranoside
 polysaccharide deacetylase C	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 PdaC	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 YjeA	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
@@ -84,14 +84,14 @@ GlcNAc deacetylase	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 MurNAc deacetylase	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 N-acetylglucosamine deacetylase	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 polysaccharide deacetylase	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
-HP0310	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
+gene name	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 HpPgdA	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 peptidoglycan deacetlyase	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
-BA2944	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
-BA1977	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
-BC3618	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
+gene name	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
+gene name	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
+gene name	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 Rv1096 protein	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
-pgdA	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
+gene name	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 peptidoglycan N-acetylglucosamine deacetylase	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 peptidoglycan GlcNAc deacetylase	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 SpPgdA	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
@@ -105,7 +105,7 @@ Pgd	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 SfPgdA	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 peptidoglycan N-acetylglucosamine deacetylase BC1960	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 N-acetylglucosamine deacetylase BC1960	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
-BC1960	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
+gene name	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 PGNG-dac	3.5.1.104	peptidoglycan-N-acetylglucosamine deacetylase
 Pa-COD	3.5.1.105	chitin disaccharide deacetylase
 carbohydrate esterase family 4 chitin oligosaccharide deacetylase	3.5.1.105	chitin disaccharide deacetylase
@@ -113,42 +113,42 @@ chitin oligosaccharide deacetylase	3.5.1.105	chitin disaccharide deacetylase
 CE family 4 COD	3.5.1.105	chitin disaccharide deacetylase
 COD	3.5.1.105	chitin disaccharide deacetylase
 Ph-Dac	3.5.1.105	chitin disaccharide deacetylase
-PH0499	3.5.1.105	chitin disaccharide deacetylase
+locus name	3.5.1.105	chitin disaccharide deacetylase
 Dacph	3.5.1.105	chitin disaccharide deacetylase
 diacetylchitobiose deacetylase	3.5.1.105	chitin disaccharide deacetylase
 N,N'-diacetylchitobiose deacetylase	3.5.1.105	chitin disaccharide deacetylase
 Tk-Dac	3.5.1.105	chitin disaccharide deacetylase
 GlcNAc2 deacetylase	3.5.1.105	chitin disaccharide deacetylase
-TK1764	3.5.1.105	chitin disaccharide deacetylase
-PF0354	3.5.1.105	chitin disaccharide deacetylase
+locus name	3.5.1.105	chitin disaccharide deacetylase
+locus name	3.5.1.105	chitin disaccharide deacetylase
 chitooligosaccharide deacetylase	3.5.1.105	chitin disaccharide deacetylase
-ChbG	3.5.1.105	chitin disaccharide deacetylase
+gene name	3.5.1.105	chitin disaccharide deacetylase
 deacetylase DA1	3.5.1.105	chitin disaccharide deacetylase
 Vp-COD	3.5.1.105	chitin disaccharide deacetylase
 NicD	3.5.1.106	N-formylmaleamate deformylase
 NicF	3.5.1.107	maleamate amidohydrolase
-Bb1774	3.5.1.107	maleamate amidohydrolase
+gene name	3.5.1.107	maleamate amidohydrolase
 LpxC enzyme	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
-UDP-3-O-	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+UDP-3-O-(R-3-hydroxymyristoyl)-Nacetylglucosamine deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 EnvA protein	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 DHTase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
-UDP-3-O-	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+UDP-3-O-(R-3-hydroxymyristoyl)-N-acetylglucosamine deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 UDP-3-O-acyl-GlcNAc deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
-UDP-3-O-	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+UDP-3-O-((R)-3-hydroxymyristoyl)-N-acetylglucosamine deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 UDP-3-O-[R-3-hydroxymyristoyl]-GlcNAc deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
-UDP-3-O-	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+UDP-3-O-(R-3-hydroxymyristoyl)-GlcNAc deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 LpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
-UDP-3-O-	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+UDP-3-O-(acyl)-N-acetylglucosamine deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 deacetylase LpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
-UDP-3-O-	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
-UDP-	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+UDP-3-O-(R-3-hydroxyacyl)-N-acetylglucosamine deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+UDP-(3-O-acyl)-N-acetylglucosamine deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 LpxC protein	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 UDP-3-O-acyl-N-acetylglucosamine deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 UDP-3-O-[R-3-hydroxymyristoyl]-GlcNAc deacetylase enzyme	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 zinc deacetylase LpxC	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
-uridine	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
-UDP-	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+uridinediphosphate-(3-O-(R-3-hydroxymyristoyl))-N-acetylglucosaminedeacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
+UDP-(3-O-(R-3-hydroxymyristoyl))-N-acetylglucosamine deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 LpxC deacetylase	3.5.1.108	UDP-3-O-acyl-N-acetylglucosamine deacetylase
 SM deacylase	3.5.1.109	sphingomyelin deacylase
 GcSM deacylase	3.5.1.109	sphingomyelin deacylase
@@ -166,13 +166,13 @@ alpha-acylamino-beta-lactam acylhydrolase	3.5.1.11	penicillin amidase
 ampicillin acylase	3.5.1.11	penicillin amidase
 Penicillin G amidohydrolase	3.5.1.11	penicillin amidase
 Penicillin V amidase	3.5.1.11	penicillin amidase
-penicillin acylase	3.5.1.11	penicillin amidase
+Bsh3 and, to a lesser extent,Bsh2 and Bsh4 have a acylase activity of penicillin V, also activitiestoward penicillin G, ketocaproyl-homoserine lactone, andoxooctanoyl-homoserine lactone	3.5.1.11	penicillin amidase
 KcPGA	3.5.1.11	penicillin amidase
 AuAAC	3.5.1.11	penicillin amidase
 penicillin V acylase	3.5.1.11	penicillin amidase
 PVA	3.5.1.11	penicillin amidase
-More	3.5.1.11	penicillin amidase
-penicillin amidase	3.5.1.11	penicillin amidase
+PVA is a member of the N-terminal nucleophile, Ntn,hydrolase superfamily	3.5.1.11	penicillin amidase
+belongs to the family of N-terminalnucleophile hydrolases acting on carbon nitrogen bonds in linear amides	3.5.1.11	penicillin amidase
 penicillin G acylase	3.5.1.11	penicillin amidase
 PA	3.5.1.11	penicillin amidase
 PGA	3.5.1.11	penicillin amidase
@@ -211,10 +211,12 @@ UAH	3.5.1.116	ureidoglycolate amidohydrolase
 ureidoglycolate hydrolase	3.5.1.116	ureidoglycolate amidohydrolase
 AtUAH	3.5.1.116	ureidoglycolate amidohydrolase
 UGLYAH	3.5.1.116	ureidoglycolate amidohydrolase
+(S)-ureidoglycolate amidohydrolase	3.5.1.116	ureidoglycolate amidohydrolase
+(S)-ureidoglycine aminohydrolase	3.5.1.116	ureidoglycolate amidohydrolase
 6-aminohexanoate-oligomer hydrolase	3.5.1.117	6-aminohexanoate-oligomer endohydrolase 
 EII	3.5.1.117	6-aminohexanoate-oligomer endohydrolase 
 6-aminohexanoic acid-oligomer hydrolase	3.5.1.117	6-aminohexanoate-oligomer endohydrolase 
-NylB	3.5.1.117	6-aminohexanoate-oligomer endohydrolase 
+gene name	3.5.1.117	6-aminohexanoate-oligomer endohydrolase 
 6-aminohexanoate-oligomer-hydrolase	3.5.1.117	6-aminohexanoate-oligomer endohydrolase 
 6-aminohexanoate-hydrolase	3.5.1.117	6-aminohexanoate-oligomer endohydrolase 
 nylon oligomer-hydrolyzing enzyme	3.5.1.117	6-aminohexanoate-oligomer endohydrolase 
@@ -235,32 +237,32 @@ nylonase	3.5.1.117	6-aminohexanoate-oligomer endohydrolase
 Ahx endo-type-oligomer hydrolase	3.5.1.117	6-aminohexanoate-oligomer endohydrolase 
 endo-type 6-aminohexanoate oligomer hydrolase	3.5.1.117	6-aminohexanoate-oligomer endohydrolase 
 EgtC	3.5.1.118	gamma-glutamyl hercynylcysteine S-oxide hydrolase
-Dop	3.5.1.119	Pup amidohydrolase
-Rv2112c	3.5.1.119	Pup amidohydrolase
+gene name	3.5.1.119	Pup amidohydrolase
+locus name	3.5.1.119	Pup amidohydrolase
 depupylase/deamidase	3.5.1.119	Pup amidohydrolase
 depupylase	3.5.1.119	Pup amidohydrolase
-Rv2112	3.5.1.119	Pup amidohydrolase
+locus name	3.5.1.119	Pup amidohydrolase
 deamidase of Pup	3.5.1.119	Pup amidohydrolase
 DPUP	3.5.1.119	Pup amidohydrolase
 Pup deamidase	3.5.1.119	Pup amidohydrolase
 deamidase/depupylase Dop	3.5.1.119	Pup amidohydrolase
 amidohydrolase biotinidase	3.5.1.12	biotinidase
 lipoyl-X-hydrolase	3.5.1.12	biotinidase
-lipoamidase	3.5.1.12	biotinidase
-lipolysine hydrolase	3.5.1.12	biotinidase
+biotinidase and lipoamidase can be separatedfrom each other	3.5.1.12	biotinidase
+not yet given an EC number, seems to beidentical with biotinidase	3.5.1.12	biotinidase
 biocytin hydrolyzing amidase	3.5.1.12	biotinidase
 biotinyl-hydrolase	3.5.1.12	biotinidase
 BTD	3.5.1.12	biotinidase
 biotinidase	3.5.1.12	biotinidase
 amidohydrolase for N-terminal asparagine	3.5.1.121	protein N-terminal asparagine amidohydrolase
-NTAN1	3.5.1.121	protein N-terminal asparagine amidohydrolase
+gene name	3.5.1.121	protein N-terminal asparagine amidohydrolase
 protein NH2-terminal asparagine deamidase	3.5.1.121	protein N-terminal asparagine amidohydrolase
 PNAD	3.5.1.121	protein N-terminal asparagine amidohydrolase
 N-terminal asparagine amidohydrolase	3.5.1.121	protein N-terminal asparagine amidohydrolase
 NTAN1 amidase	3.5.1.121	protein N-terminal asparagine amidohydrolase
 NTAN1p amidase	3.5.1.121	protein N-terminal asparagine amidohydrolase
 NtN-amidase	3.5.1.121	protein N-terminal asparagine amidohydrolase
-NTA1	3.5.1.121	protein N-terminal asparagine amidohydrolase
+gene name	3.5.1.121	protein N-terminal asparagine amidohydrolase
 N-terminal amidase	3.5.1.121	protein N-terminal asparagine amidohydrolase
 Nt-amidase	3.5.1.121	protein N-terminal asparagine amidohydrolase
 yNta1	3.5.1.121	protein N-terminal asparagine amidohydrolase
@@ -270,15 +272,15 @@ N-terminal amidase	3.5.1.122	protein N-terminal glutamine amidohydrolase
 Nt-amidase	3.5.1.122	protein N-terminal glutamine amidohydrolase
 yNta1	3.5.1.122	protein N-terminal glutamine amidohydrolase
 Ntaq	3.5.1.122	protein N-terminal glutamine amidohydrolase
-C8orf32	3.5.1.122	protein N-terminal glutamine amidohydrolase
+gene name	3.5.1.122	protein N-terminal glutamine amidohydrolase
 human N-terminal glutamine amidohydrolase isoform 1	3.5.1.122	protein N-terminal glutamine amidohydrolase
 hNtaq1	3.5.1.122	protein N-terminal glutamine amidohydrolase
-FLJ10204	3.5.1.122	protein N-terminal glutamine amidohydrolase
-NTAQ1	3.5.1.122	protein N-terminal glutamine amidohydrolase
+gene name	3.5.1.122	protein N-terminal glutamine amidohydrolase
+gene name	3.5.1.122	protein N-terminal glutamine amidohydrolase
 glutamine-specific N-terminal amidase	3.5.1.122	protein N-terminal glutamine amidohydrolase
 NtQ-amidase	3.5.1.122	protein N-terminal glutamine amidohydrolase
-Cg8253	3.5.1.122	protein N-terminal glutamine amidohydrolase
-Wdyhv1	3.5.1.122	protein N-terminal glutamine amidohydrolase
+gene name	3.5.1.122	protein N-terminal glutamine amidohydrolase
+gene name	3.5.1.122	protein N-terminal glutamine amidohydrolase
 atdA2	3.5.1.123	gamma-glutamylanilide hydrolase
 glutamine amidotransferase-like protein	3.5.1.123	gamma-glutamylanilide hydrolase
 glyoxylase III	3.5.1.124	protein deglycase
@@ -293,35 +295,35 @@ glutathione-independent glyoxalases, also called glyoxalases	3.5.1.124	protein d
 III	3.5.1.124	protein deglycase
 Parkinsonism-associated protein	3.5.1.124	protein deglycase
 yhbO	3.5.1.124	protein deglycase
-More	3.5.1.124	protein deglycase
+cf. EC 4.2.1.130	3.5.1.124	protein deglycase
 yajL	3.5.1.124	protein deglycase
 Hsp31	3.5.1.124	protein deglycase
-hchA	3.5.1.124	protein deglycase
+gene name	3.5.1.124	protein deglycase
 glyoxalase	3.5.1.124	protein deglycase
 glutathione-independent glyoxalase	3.5.1.124	protein deglycase
 doeB	3.5.1.125	N2-acetyl-L-2,4-diaminobutanoate deacetylase
 N-alpha-acetyl-L-2,4-diaminobutyric acid deacetylase	3.5.1.125	N2-acetyl-L-2,4-diaminobutanoate deacetylase
-Helo_3664	3.5.1.125	N2-acetyl-L-2,4-diaminobutanoate deacetylase
+gene name	3.5.1.125	N2-acetyl-L-2,4-diaminobutanoate deacetylase
 HpxW	3.5.1.126	oxamate amidohydrolase
-KPN_01768	3.5.1.126	oxamate amidohydrolase
+gene name	3.5.1.126	oxamate amidohydrolase
 ILL4	3.5.1.127	jasmonoyl-L-amino acid hydrolase
 IAR3	3.5.1.127	jasmonoyl-L-amino acid hydrolase
 ILL6	3.5.1.127	jasmonoyl-L-amino acid hydrolase
 IAA-amino acid hydrolase ILR1-like 6	3.5.1.127	jasmonoyl-L-amino acid hydrolase
 Iaa-amino acid hydrolase ilr1-like 4	3.5.1.127	jasmonoyl-L-amino acid hydrolase
 JIH1	3.5.1.127	jasmonoyl-L-amino acid hydrolase
-ILL4_3	3.5.1.127	jasmonoyl-L-amino acid hydrolase
+gene name	3.5.1.127	jasmonoyl-L-amino acid hydrolase
 pseudocholinesterase	3.5.1.13	aryl-acylamidase
 EC 3.5.1.13, AAA-1	3.5.1.13	aryl-acylamidase
 EC 3.5.1.13 AAA-2	3.5.1.13	aryl-acylamidase
 AAA	3.5.1.13	aryl-acylamidase
-aryl acylamidase	3.5.1.13	aryl-acylamidase
-aryl acylaminidase	3.5.1.13	aryl-acylamidase
+aryl acylamidase activityof fatty acid-free human serum albumin	3.5.1.13	aryl-acylamidase
+aryl acylaminidase activity ofbutyrylcholinesterase	3.5.1.13	aryl-acylamidase
 polyamidase	3.5.1.13	aryl-acylamidase
-More	3.5.1.13	aryl-acylamidase
-PamH	3.5.1.13	aryl-acylamidase
+the enzyme belongs to the amidase signature, AS, enzymefamily	3.5.1.13	aryl-acylamidase
+gene name	3.5.1.13	aryl-acylamidase
 M-1 amidase	3.5.1.13	aryl-acylamidase
-Azl13	3.5.1.13	aryl-acylamidase
+gene name	3.5.1.13	aryl-acylamidase
 acylase	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
 alpha-N-acylaminoacid hydrolase	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
 acylase I	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
@@ -364,7 +366,7 @@ PhoACY	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
 aminoacylase	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
 lepidopteran aminoacylase 1	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
 aminoacylase-1	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
-More	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
+the enzyme belongs to the M20 metallopeptidasefamily	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
 N-acyl-L-amino acid hydrolase	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
 hAcy1	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
 M20	3.5.1.14	N-acyl-aliphatic-L-amino acid amidohydrolase
@@ -383,11 +385,11 @@ Aminoacylase II	3.5.1.15	aspartoacylase
 N-Acetylaspartate amidohydrolase	3.5.1.15	aspartoacylase
 acetyl-aspartic deaminase	3.5.1.15	aspartoacylase
 N-Acetyl-L-aspartate amidohydrolase	3.5.1.15	aspartoacylase
-murine aspartoacylase	3.5.1.15	aspartoacylase
+mASPA	3.5.1.15	aspartoacylase
 aspartoacylase II	3.5.1.15	aspartoacylase
 Aspartoacylase	3.5.1.15	aspartoacylase
-ASPA	3.5.1.15	aspartoacylase
-More	3.5.1.15	aspartoacylase
+gene name	3.5.1.15	aspartoacylase
+the enzyme belongs to the carboxypeptidase metalloproteinfamily	3.5.1.15	aspartoacylase
 human ASPA	3.5.1.15	aspartoacylase
 N-acetylaspartocylase	3.5.1.15	aspartoacylase
 hASPA	3.5.1.15	aspartoacylase
@@ -398,8 +400,8 @@ NAA acylase	3.5.1.15	aspartoacylase
 aspartic acid acylase	3.5.1.15	aspartoacylase
 AO	3.5.1.16	acetylornithine deacetylase
 N-acetylornithinase	3.5.1.16	acetylornithine deacetylase
-N	3.5.1.16	acetylornithine deacetylase
-ArgE	3.5.1.16	acetylornithine deacetylase
+N(alpha)-acetyl-L-ornithine deacetylase	3.5.1.16	acetylornithine deacetylase
+gene name	3.5.1.16	acetylornithine deacetylase
 N-acetylornithine deacetylase	3.5.1.16	acetylornithine deacetylase
 N2-acetylornithine:N-acetylglutamate acetyltransferase	3.5.1.16	acetylornithine deacetylase
 NAOGAcT	3.5.1.16	acetylornithine deacetylase
@@ -415,7 +417,7 @@ acetylornithinase	3.5.1.16	acetylornithine deacetylase
 kidney epsilon-lysine acylase	3.5.1.17	acyl-lysine deacylase
 epsilon-lysine acylase	3.5.1.17	acyl-lysine deacylase
 epsilon-N-acyl-L-lysine amidohydrolase	3.5.1.17	acyl-lysine deacylase
-More	3.5.1.17	acyl-lysine deacylase
+the enzyme belongs to the YtcJ-like metal-dependentamidohydrolase family, which is further characterized as themetallo-dependent hydrolase superfamily	3.5.1.17	acyl-lysine deacylase
 ELA	3.5.1.17	acyl-lysine deacylase
 N-succinyl-L-alpha,epsilon-diaminopimelic acid deacylase	3.5.1.18	succinyl-diaminopimelate desuccinylase
 succinyldiaminopimelate desuccinylase	3.5.1.18	succinyl-diaminopimelate desuccinylase
@@ -424,29 +426,29 @@ SDAP	3.5.1.18	succinyl-diaminopimelate desuccinylase
 Cgl1109	3.5.1.18	succinyl-diaminopimelate desuccinylase
 S-DAP deacylase	3.5.1.18	succinyl-diaminopimelate desuccinylase
 dapE-encoded N-succinyl-LL-diaminopimelic acid desuccinylase	3.5.1.18	succinyl-diaminopimelate desuccinylase
-DapE	3.5.1.18	succinyl-diaminopimelate desuccinylase
+gene name	3.5.1.18	succinyl-diaminopimelate desuccinylase
 N-succinyl-L,L-diaminopimelic acid desuccinylase	3.5.1.18	succinyl-diaminopimelate desuccinylase
 succinyl-diaminopimelate desuccinylase	3.5.1.18	succinyl-diaminopimelate desuccinylase
 nicotinamide amidase	3.5.1.19	nicotinamidase
 YNDase	3.5.1.19	nicotinamidase
 Nicotine deamidase	3.5.1.19	nicotinamidase
-PncA	3.5.1.19	nicotinamidase
+gene name	3.5.1.19	nicotinamidase
 SpNic	3.5.1.19	nicotinamidase
 NIC	3.5.1.19	nicotinamidase
 nicotinamidase PNC-1	3.5.1.19	nicotinamidase
 PNC-1	3.5.1.19	nicotinamidase
-PNC2	3.5.1.19	nicotinamidase
+isoform	3.5.1.19	nicotinamidase
 nicotinamide deaminase	3.5.1.19	nicotinamidase
 pyrazinamidase	3.5.1.19	nicotinamidase
 nicotinamidase	3.5.1.19	nicotinamidase
-ASAC_0847	3.5.1.19	nicotinamidase
+gene name	3.5.1.19	nicotinamidase
 NA_As0847	3.5.1.19	nicotinamidase
 OiNIC	3.5.1.19	nicotinamidase
 PZAse	3.5.1.19	nicotinamidase
-PZAase	3.5.1.19	nicotinamidase
+a single enzyme accounts for both pyrazinamidaseactivity and nicotinamidase activity	3.5.1.19	nicotinamidase
 nicotinamidase Pnc1p	3.5.1.19	nicotinamidase
 Pnc1p	3.5.1.19	nicotinamidase
-Pnc1	3.5.1.19	nicotinamidase
+isoform	3.5.1.19	nicotinamidase
 nicotinamidase/pyrazinamidase	3.5.1.19	nicotinamidase
 glutaminase I	3.5.1.2	glutaminase
 glutamine aminohydrolase	3.5.1.2	glutaminase
@@ -455,7 +457,7 @@ L-glutamine amidohydrolase	3.5.1.2	glutaminase
 glutaminase A	3.5.1.2	glutaminase
 salt-tolerant glutaminase	3.5.1.2	glutaminase
 AoGls	3.5.1.2	glutaminase
-Micrococcus luteus K-3-type glutaminase	3.5.1.2	glutaminase
+only from strainRIB40, not from strain MA-27-IM	3.5.1.2	glutaminase
 L-glutaminase	3.5.1.2	glutaminase
 GahB	3.5.1.2	glutaminase
 glutamine amidohydrolase	3.5.1.2	glutaminase
@@ -463,14 +465,14 @@ phosphate activated glutaminase	3.5.1.2	glutaminase
 phosphate-activated L-glutamine amidohydrolase	3.5.1.2	glutaminase
 YaaE	3.5.1.2	glutaminase
 glutamine deamidating enzyme	3.5.1.2	glutaminase
-GLA	3.5.1.2	glutaminase
+liver glutaminase	3.5.1.2	glutaminase
 omega-amidase	3.5.1.2	glutaminase
 nitrilase 2	3.5.1.2	glutaminase
 Nit 2	3.5.1.2	glutaminase
 GLS	3.5.1.2	glutaminase
-glutaminase C	3.5.1.2	glutaminase
-KGA	3.5.1.2	glutaminase
-GAC	3.5.1.2	glutaminase
+a splicing variant of the kidney-typeglutaminase and has the enzyme activity of the phosphate-activatedglutaminase	3.5.1.2	glutaminase
+isoform	3.5.1.2	glutaminase
+splice variant of GLS1	3.5.1.2	glutaminase
 K-glutaminase	3.5.1.2	glutaminase
 glutaminase 1	3.5.1.2	glutaminase
 GLNase	3.5.1.2	glutaminase
@@ -485,10 +487,10 @@ GLS2	3.5.1.2	glutaminase
 glutaminase 2	3.5.1.2	glutaminase
 liver-type glitaminase	3.5.1.2	glutaminase
 glutaminase-2	3.5.1.2	glutaminase
-GAB	3.5.1.2	glutaminase
+GLS2-isoform	3.5.1.2	glutaminase
 glutaminase-B	3.5.1.2	glutaminase
 glutaminase-1	3.5.1.2	glutaminase
-glutaminase	3.5.1.2	glutaminase
+two isoforms: GAC,KGA	3.5.1.2	glutaminase
 PAG	3.5.1.2	glutaminase
 GLS1	3.5.1.2	glutaminase
 GA	3.5.1.2	glutaminase
@@ -518,18 +520,19 @@ Tncer	3.5.1.23	ceramidase
 znCD	3.5.1.23	ceramidase
 PaCD	3.5.1.23	ceramidase
 N-acylsphingosine amidohydrolase	3.5.1.23	ceramidase
-maCER1	3.5.1.23	ceramidase
-alkaline ceramidase 1	3.5.1.23	ceramidase
+mouse alkaline ceramidase	3.5.1.23	ceramidase
+ACER1	3.5.1.23	ceramidase
 Golgi alkaline ceramidase	3.5.1.23	ceramidase
 CER2	3.5.1.23	ceramidase
-ASAH2	3.5.1.23	ceramidase
+gene name of neutral ceramidase	3.5.1.23	ceramidase
 N-acylsphingosine amidohydrolase 2	3.5.1.23	ceramidase
 N-acylsphingosine amidohydrolase-1	3.5.1.23	ceramidase
 ASAH-1	3.5.1.23	ceramidase
 haCER1	3.5.1.23	ceramidase
-ASAH3	3.5.1.23	ceramidase
+gene name of alkaline ceramidase	3.5.1.23	ceramidase
 pan-ceramidase	3.5.1.23	ceramidase
-CDase	3.5.1.23	ceramidase
+neutral ceramidase	3.5.1.23	ceramidase
+CDase is the only functional ceramidase present in Drosophila	3.5.1.23	ceramidase
 Drosophila alkaline ceramidase	3.5.1.23	ceramidase
 Dacer	3.5.1.23	ceramidase
 AsahA	3.5.1.23	ceramidase
@@ -547,41 +550,42 @@ Ypc1p	3.5.1.23	ceramidase
 yeast phyto-ceramidase 1	3.5.1.23	ceramidase
 Ydc1p	3.5.1.23	ceramidase
 yeast dihydroceramidase 1	3.5.1.23	ceramidase
-AC	3.5.1.23	ceramidase
+acid ceramidase	3.5.1.23	ceramidase
 phytoalkaline ceramidase	3.5.1.23	ceramidase
 alkCDase-1	3.5.1.23	ceramidase
 alkCDase-2	3.5.1.23	ceramidase
 phytoCDase	3.5.1.23	ceramidase
-ACER2	3.5.1.23	ceramidase
-ACER3	3.5.1.23	ceramidase
+gene name of alkaline ceramidase isoform	3.5.1.23	ceramidase
+gene name of alkaline ceramidase isoform	3.5.1.23	ceramidase
 ACER-2	3.5.1.23	ceramidase
-ACER1	3.5.1.23	ceramidase
-alkaline ceramidase 2	3.5.1.23	ceramidase
-ASAH1	3.5.1.23	ceramidase
+gene name of alkaline ceramidase isoform	3.5.1.23	ceramidase
+(dihydro)ceramidase	3.5.1.23	ceramidase
+ACER2	3.5.1.23	ceramidase
+gene name	3.5.1.23	ceramidase
 aCDase	3.5.1.23	ceramidase
 alkCDase	3.5.1.23	ceramidase
-alkaline ceramidase 3	3.5.1.23	ceramidase
+ACER3	3.5.1.23	ceramidase
 N-CDase	3.5.1.23	ceramidase
-mt-CDase	3.5.1.23	ceramidase
+mitochondrial ceramidase	3.5.1.23	ceramidase
 neutral ceramidase 2	3.5.1.23	ceramidase
 CDase II	3.5.1.23	ceramidase
 PaCDase	3.5.1.23	ceramidase
 sphingolipid ceramide N-deacylase	3.5.1.23	ceramidase
 SCDase	3.5.1.23	ceramidase
 glycocholase	3.5.1.24	choloylglycine hydrolase
-BSH3	3.5.1.24	choloylglycine hydrolase
-BSH4	3.5.1.24	choloylglycine hydrolase
-BSH2	3.5.1.24	choloylglycine hydrolase
-BSH1	3.5.1.24	choloylglycine hydrolase
-1,4,5,9,10,11,13,15,17,19,23,25,29,37,39,43,44,45,52,54,57,63,64,66,67	3.5.1.24	choloylglycine hydrolase
+isoform	3.5.1.24	choloylglycine hydrolase
+isoform	3.5.1.24	choloylglycine hydrolase
+isoform	3.5.1.24	choloylglycine hydrolase
+isoform	3.5.1.24	choloylglycine hydrolase
+bile salt hydrolase	3.5.1.24	choloylglycine hydrolase
 BSH	3.5.1.24	choloylglycine hydrolase
 probiotic bile salt hydrolase	3.5.1.24	choloylglycine hydrolase
 CBAH	3.5.1.24	choloylglycine hydrolase
 Conjugated bile acid hydrolase	3.5.1.24	choloylglycine hydrolase
-More	3.5.1.24	choloylglycine hydrolase
+the enzyme is a member of N-terminal nucleophilhydrolase structural superfamily	3.5.1.24	choloylglycine hydrolase
 cholylglycine hydrolase	3.5.1.24	choloylglycine hydrolase
 CGH	3.5.1.24	choloylglycine hydrolase
-conjugated bile salt hydrolase	3.5.1.24	choloylglycine hydrolase
+UniProt	3.5.1.24	choloylglycine hydrolase
 bile acid hydrolase	3.5.1.24	choloylglycine hydrolase
 BSH A	3.5.1.24	choloylglycine hydrolase
 LaciP	3.5.1.24	choloylglycine hydrolase
@@ -593,20 +597,20 @@ acetylaminodeoxyglucosephosphate acetylhydrolase	3.5.1.25	N-acetylglucosamine-6-
 deacetylase, acetylglucosaminephosphate	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 2-acetamido-2-deoxy-D-glucose-6-phosphate amidohydrolase	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 GlcNAc 6-P deacetylase	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
-NAG2	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+gene name	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 GlcNAc-6-phosphate deacetylase	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 CaNAG2/Dac1	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
-Lmo0956 protein	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
-Lmo2108 protein	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+protein with N-acetylglucosamine-6-phosphatede-N-acetylase domain	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+protein with N-acetylglucosamine-6-phosphatede-N-acetylase domain	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 N-acetylglucosamine-6-phosphate de-N-acetylase	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 N-acetylglucosamine-6-P deacetylase	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
-Lmo0956	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+gene name	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 N-acetylglucosamine 6-phosphate deacetylase	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
-Lmo2108	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+gene name	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 GlnNAc6P deacetylase	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 NAGPase	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 N-acetylglucosamine-6-phosphate deacetylase	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
-NagA	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
+gene name	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 N-acetyl-D-glucosamine-6-phosphate deacetylase	3.5.1.25	N-acetylglucosamine-6-phosphate deacetylase
 aspartylglucosylamine deaspartylase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 aspartylglucosylaminase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
@@ -614,13 +618,13 @@ aspartylglycosylamine amidohydrolase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-a
 N-aspartyl-beta-glucosaminidase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 glucosylamidase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 beta-aspartylglucosylamine amidohydrolase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
-N4-	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
+N4-(N-acetyl-beta-glucosaminyl)-L-asparagine amidase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 AGA	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 glycosylasparaginase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 glycoasparaginase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 1-aspartamido-beta-N-acetylglucosamine amidohydrolase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 aspartylglucosaminidase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
-More	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
+belongs to the N-terminal nucleophile hydrolasesuperfamily	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 GA	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 4-L-aspartylglucosylamine amido hydrolase	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
 amidase-1	3.5.1.26	N4-(beta-N-acetylglucosaminyl)-L-asparaginase
@@ -643,32 +647,32 @@ T3 lysozyme	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 T7 lysozyme	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 peptidoglycan recognition protein SC1a	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 PGRP	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-N-acetylmuramoyl-L-alanine amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-LytA	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
+activity of abifunctional autolysin	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
+major autolysin of Streptococcus pneumoniae	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 NAM-amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-AtlE	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
+148 kDa autolysin of Staphylococcus epidermidis	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 autolysin E	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 1,6-anhydro-N-acetylmuramyl-L-alanine amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 anhydroMurNAc-L-Ala amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 AmpD	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 SleC	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-N-acetyl-muramoyl-L-alanine amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-lysostaphin	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
+lysin PlyG	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
+activities: N-acetyl muramyl-L-alanine amidase,glycylglycine endopeptidase and endo-beta-N-acetyl glucosamidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 N-acetyl muramyl-L-alanine amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 Skl	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-More	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
+the enzyme belongs to the peptidoglycan recognitionprotein, PGRP, family	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 Sle1	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-LytN	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
+LytN harbors LysM and histidine-dependentamidohydrolase/peptidase domains, the latter of which functions as bothan N-acetylmuramoyl-L-alanine amidase and D-alanyl-glycineendopeptidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 CwlB protein	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 MurnAc-lAA	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-CwhA	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
+cell wall hydrolytic amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 PGRP-L	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 peptidoglycan recognition protein-L	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 PGLYRP2	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 peptidoglycan recognition protein 2	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 NAMLAA	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 Nacetylmuramoyl-L-alanine amidase activity	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-AmiE	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
+formerly YbbE	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 N-acetylmuramyl-L-alanine amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 LytAB6	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 LytA-like N-acetylmuramoyl-L-alanine amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
@@ -682,28 +686,29 @@ NAMLA amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 amidase 3	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 peptidoglycan amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 PlyCpAmi	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-Rv3717	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
+gene name	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 Mtb peptidoglycan amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 1,6-anhydro-N-acetylmuramic acid-L-alanine amidase	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 N-acetylmuramoyl-l-alanine amidase B	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 AmiB	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
 Autolysin	3.5.1.28	N-acetylmuramoyl-L-alanine amidase
-alpha-	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
+alpha-(N-acetylaminomethylene)succinic acid hydrolase	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
 compound A hydrolase	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
 AAMSAH	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
-alpha-	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
+alpha-(N-acetylaminomethylene)succinic acid amidohydrolase	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
 AAMS amidohydrolase	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
+(E)-2-(acetamidomethylene)succinate hydrolase	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
 E-2AMS hydrolase	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
-mlr6787	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
+gene name	3.5.1.29	2-(acetamidomethylene)succinate hydrolase
 alpha-keto acid-omega-amidase	3.5.1.3	omega-amidase
 alpha-keto acid omega-amidase	3.5.1.3	omega-amidase
 dicarboxylate omega-amidase	3.5.1.3	omega-amidase
 omega-amido dicarboxylate amidohydrolase	3.5.1.3	omega-amidase
 amidase, omega	3.5.1.3	omega-amidase
-NIT2	3.5.1.3	omega-amidase
+a tumor suppressor protein	3.5.1.3	omega-amidase
 nitrilase-like protein 2	3.5.1.3	omega-amidase
 Nit2/omega-amidase	3.5.1.3	omega-amidase
-omega-amidase/Nit2	3.5.1.3	omega-amidase
+omega-amidase has been shown to beidentical to Nit2, a putative tumor suppressor protein	3.5.1.3	omega-amidase
 5-aminovaleramidase	3.5.1.30	5-aminopentanamidase
 5-aminonorvaleramidase	3.5.1.30	5-aminopentanamidase
 delta-aminovaleramide amidohydrolase	3.5.1.30	5-aminopentanamidase
@@ -717,10 +722,10 @@ N-acetyl-D-glucosaminyl N-deacetylase	3.5.1.33	N-acetylglucosamine deacetylase
 glucosaminyl N-deacetylase	3.5.1.33	N-acetylglucosamine deacetylase
 ND	3.5.1.33	N-acetylglucosamine deacetylase
 Ph-Dac	3.5.1.33	N-acetylglucosamine deacetylase
-PH0499	3.5.1.33	N-acetylglucosamine deacetylase
+locus name	3.5.1.33	N-acetylglucosamine deacetylase
 Dacph	3.5.1.33	N-acetylglucosamine deacetylase
 Tk-Dac	3.5.1.33	N-acetylglucosamine deacetylase
-TK1764	3.5.1.33	N-acetylglucosamine deacetylase
+locus name	3.5.1.33	N-acetylglucosamine deacetylase
 pgdA	3.5.1.33	N-acetylglucosamine deacetylase
 Lmo0415	3.5.1.33	N-acetylglucosamine deacetylase
 Pgd	3.5.1.33	N-acetylglucosamine deacetylase
@@ -741,10 +746,10 @@ amide transferase	3.5.1.4	amidase
 acid transferase	3.5.1.4	amidase
 ester transferase	3.5.1.4	amidase
 Wide spectrum amidase	3.5.1.4	amidase
-A-amidase	3.5.1.4	amidase
-More	3.5.1.4	amidase
-C-amidase	3.5.1.4	amidase
-fatty acylamidase	3.5.1.4	amidase
+specificity towards aliphatic amides	3.5.1.4	amidase
+the enzyme belongs to the amidase signaturesuperfamily	3.5.1.4	amidase
+specificity towards chlorinated aliphatic amides	3.5.1.4	amidase
+with FAA I and FAA II	3.5.1.4	amidase
 mycothiol-S-conjugate amidase	3.5.1.4	amidase
 amidase	3.5.1.4	amidase
 SSAM	3.5.1.4	amidase
@@ -752,7 +757,7 @@ signature amidase	3.5.1.4	amidase
 FAAH	3.5.1.4	amidase
 fatty acid amide hydrolase	3.5.1.4	amidase
 acetamidase	3.5.1.4	amidase
-half-amidase	3.5.1.4	amidase
+for half-amide hydrolysis	3.5.1.4	amidase
 murein peptide amidase A	3.5.1.4	amidase
 acylase	3.5.1.4	amidase
 Ana	3.5.1.4	amidase
@@ -770,12 +775,12 @@ N-acylethanolamine-hydrolyzing acid amidase	3.5.1.4	amidase
 NAAA	3.5.1.4	amidase
 RhAmidase	3.5.1.4	amidase
 SsAH	3.5.1.4	amidase
-SSO2122	3.5.1.4	amidase
+ordered locus name	3.5.1.4	amidase
 AmiE	3.5.1.4	amidase
-PYCH_10400	3.5.1.4	amidase
-Azl13	3.5.1.4	amidase
+locus name	3.5.1.4	amidase
+gene name	3.5.1.4	amidase
 4-guanidinobutyramide hydrolase	3.5.1.4	amidase
-PamH	3.5.1.4	amidase
+gene name	3.5.1.4	amidase
 Mhpg	3.5.1.4	amidase
 mHG	3.5.1.4	amidase
 AMI1	3.5.1.4	amidase
@@ -785,12 +790,12 @@ AtFAAH	3.5.1.4	amidase
 acylagmatine amidohydrolase	3.5.1.40	acylagmatine amidase
 acylagmatine deacylase	3.5.1.40	acylagmatine amidase
 ChlD	3.5.1.41	chitin deacetylase
-More	3.5.1.41	chitin deacetylase
-CDA1	3.5.1.41	chitin deacetylase
-CDA2	3.5.1.41	chitin deacetylase
+the enzyme belongs to the carbohydrate esterasefamily CE 4	3.5.1.41	chitin deacetylase
+isoform	3.5.1.41	chitin deacetylase
+isoform	3.5.1.41	chitin deacetylase
 CDA	3.5.1.41	chitin deacetylase
-Fpd1	3.5.1.41	chitin deacetylase
-CDA3	3.5.1.41	chitin deacetylase
+isoform	3.5.1.41	chitin deacetylase
+isoform	3.5.1.41	chitin deacetylase
 chitin amidohydrolase,	3.5.1.41	chitin deacetylase
 ClCDA	3.5.1.41	chitin deacetylase
 chitin deacetylase-like protein	3.5.1.41	chitin deacetylase
@@ -804,9 +809,9 @@ Cda1p	3.5.1.41	chitin deacetylase
 TcCDA9	3.5.1.41	chitin deacetylase
 chitin deacetylase 9	3.5.1.41	chitin deacetylase
 chitin deacetylase RC	3.5.1.41	chitin deacetylase
-RC chitin deacetylase	3.5.1.41	chitin deacetylase
-D2 chitin deacetylase	3.5.1.41	chitin deacetylase
-I3/2 chitin deacetylase	3.5.1.41	chitin deacetylase
+active isoform	3.5.1.41	chitin deacetylase
+inactive isoform	3.5.1.41	chitin deacetylase
+inactive isoform	3.5.1.41	chitin deacetylase
 TcCDA1	3.5.1.41	chitin deacetylase
 chitin deacetylase 2A	3.5.1.41	chitin deacetylase
 TcCDA2B	3.5.1.41	chitin deacetylase
@@ -824,13 +829,13 @@ chitin deacetylase 6	3.5.1.41	chitin deacetylase
 TcCDA7	3.5.1.41	chitin deacetylase
 chitin deacetylase 7	3.5.1.41	chitin deacetylase
 FV-PDA	3.5.1.41	chitin deacetylase
-BmCDA7	3.5.1.41	chitin deacetylase
+gene name	3.5.1.41	chitin deacetylase
 NMN deaminase	3.5.1.42	nicotinamide-nucleotide amidase
 nicotinamide mononucleotide deaminase	3.5.1.42	nicotinamide-nucleotide amidase
 nicotinamide mononucleotide amidohydrolase	3.5.1.42	nicotinamide-nucleotide amidase
 nicotinamide nucleoside amidase	3.5.1.42	nicotinamide-nucleotide amidase
 YgaD	3.5.1.42	nicotinamide-nucleotide amidase
-PncC	3.5.1.42	nicotinamide-nucleotide amidase
+gene name	3.5.1.42	nicotinamide-nucleotide amidase
 nicotinamide mononucleotide deamidase	3.5.1.42	nicotinamide-nucleotide amidase
 NMN deamidase	3.5.1.42	nicotinamide-nucleotide amidase
 OiPncC	3.5.1.42	nicotinamide-nucleotide amidase
@@ -847,7 +852,7 @@ protein-glutaminase	3.5.1.44	protein-glutamine glutaminase
 Nylon oligomers degrading enzyme EII	3.5.1.46	6-aminohexanoate-oligomer exohydrolase
 Nylon oligomers degrading enzyme EII'	3.5.1.46	6-aminohexanoate-oligomer exohydrolase
 6-aminohexanoate-dimer hydrolase	3.5.1.46	6-aminohexanoate-oligomer exohydrolase
-N-	3.5.1.46	6-aminohexanoate-oligomer exohydrolase
+N-(6-aminohexanoyl)-6-aminohexanoate amidohydrolase	3.5.1.46	6-aminohexanoate-oligomer exohydrolase
 NylB	3.5.1.46	6-aminohexanoate-oligomer exohydrolase
 EII	3.5.1.46	6-aminohexanoate-oligomer exohydrolase
 nylon oligomer hydrolase	3.5.1.46	6-aminohexanoate-oligomer exohydrolase
@@ -885,11 +890,11 @@ Urea amidohydrolase	3.5.1.5	urease
 HPU	3.5.1.5	urease
 urea amido hydrolase	3.5.1.5	urease
 acid urease	3.5.1.5	urease
-canatoxin	3.5.1.5	urease
-JBU	3.5.1.5	urease
-3,4,7,8,10,11,12,13,15,16,18,20,23,24,25,26,27,28,29,30,32,33,34,35,37	3.5.1.5	urease
+presence of a family of urease related genes inCanavalia ensiformis with at least three members: canatoxin, JBU andJBURE-II	3.5.1.5	urease
+presence of a family of urease related genes inCanavalia ensiformis with at least three members: canatoxin, JBU andJBURE-II	3.5.1.5	urease
+urease	3.5.1.5	urease
 BPU	3.5.1.5	urease
-JBURE-II	3.5.1.5	urease
+family of urease related genes in Canavaliaensiformis with at least three members: canatoxin, JBU and JBURE-II	3.5.1.5	urease
 jack bean urease	3.5.1.5	urease
 embryo-specific soybean urease	3.5.1.5	urease
 urease JBURE-IIb	3.5.1.5	urease
@@ -908,19 +913,19 @@ PNGase Os	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 PNGase Se	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 glycopeptide N-glycosidase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 L-929 PNGase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
-peptide-N4-	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
+peptide-N4-(N-acetyl-beta-D-glucosaminyl)asparagine amidase F	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 AtPNG1	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 PNGase Yl	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 PNGase A-like enzyme	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 acidic peptide:N-glycanase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 SpPNGase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 PNG-1	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
-peptide N4	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
+peptide N4(N-acetyl-glucosaminyl)asparagine amidase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 Pngl	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 peptide:N-glycanase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 PNGase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 peptide-N-glycosidase F	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
-peptide-N-	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
+peptide-N-(N-acetyl-beta-glucosaminyl) asparagine amidase F	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 N-glycosidase F	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 peptide N-glycosidase F	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 acidic PNGase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
@@ -930,14 +935,14 @@ peptide N-glycanase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine a
 PGNase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 PNGase F	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 N-glycanase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
-peptide-N4-	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
+peptide-N4-(N-acetyl-beta-glucosaminyl) asparagine amidase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 peptide N-glycosidase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 PNGase H+	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 peptidyl N-glycanase F	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 PNGaseF	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 peptide-N-glycanase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 peptide: N-glycanase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
-PNG1	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
+wild type PNG1 has substitutions in essentialcatalytic amino acids, and its deglycosylation activity is lost	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 YPng1	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 yeast peptide: N-glycanase	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
 YPng	3.5.1.52	peptide-N4-(N-acetyl-beta-glucosaminyl)asparagine amidase
@@ -951,9 +956,9 @@ N-carbamoylputrescine amidohydrolase	3.5.1.53	N-carbamoylputrescine amidase
 AphA	3.5.1.53	N-carbamoylputrescine amidase
 acetylpolyamine amidohydrolase	3.5.1.53	N-carbamoylputrescine amidase
 AphB	3.5.1.53	N-carbamoylputrescine amidase
-AguB	3.5.1.53	N-carbamoylputrescine amidase
+gene name	3.5.1.53	N-carbamoylputrescine amidase
 allophanate lyase	3.5.1.54	allophanate hydrolase
-AtzF	3.5.1.54	allophanate hydrolase
+gene name	3.5.1.54	allophanate hydrolase
 urea amidolyase	3.5.1.54	allophanate hydrolase
 TrzF	3.5.1.54	allophanate hydrolase
 long-chain aminoacylase	3.5.1.55	long-chain-fatty-acyl-glutamate deacylase
@@ -981,7 +986,7 @@ beta-ureidopropionate decarbamylase	3.5.1.6	beta-ureidopropionase
 NCbetaA	3.5.1.6	beta-ureidopropionase
 N-carbamyl-beta-alanine decarbamylase	3.5.1.6	beta-ureidopropionase
 betaAS	3.5.1.6	beta-ureidopropionase
-SkbetaAS	3.5.1.6	beta-ureidopropionase
+Saccharomyces kluyveri betaAS	3.5.1.6	beta-ureidopropionase
 beta-ureidopropionase	3.5.1.6	beta-ureidopropionase
 PYD3	3.5.1.6	beta-ureidopropionase
 BUP1	3.5.1.6	beta-ureidopropionase
@@ -1011,7 +1016,7 @@ theanine hydrolyzing enzyme	3.5.1.65	theanine hydrolase
 theanine hydrolytic enzyme	3.5.1.65	theanine hydrolase
 theanine ethylamidohydrolase	3.5.1.65	theanine hydrolase
 hydrolase, theanine	3.5.1.65	theanine hydrolase
-alpha-hydroxymethyl-alpha'-	3.5.1.66	2-(hydroxymethyl)-3-(acetamidomethylene)succinate hydrolase
+alpha-hydroxymethyl-alpha'-(N-acetylaminomethylene)succinic acidhydrolase	3.5.1.66	2-(hydroxymethyl)-3-(acetamidomethylene)succinate hydrolase
 compound B hydrolase	3.5.1.66	2-(hydroxymethyl)-3-(acetamidomethylene)succinate hydrolase
 4-methyleneglutamine deamidase	3.5.1.67	4-methyleneglutaminase
 4-methyleneglutamine amidohydrolase	3.5.1.67	4-methyleneglutaminase
@@ -1076,16 +1081,16 @@ carbamoylase	3.5.1.77	N-carbamoyl-D-amino-acid hydrolase
 N-Carbamyl-D-amino acid amidohydrolase	3.5.1.77	N-carbamoyl-D-amino-acid hydrolase
 Dcase	3.5.1.77	N-carbamoyl-D-amino-acid hydrolase
 DCase-M3	3.5.1.77	N-carbamoyl-D-amino-acid hydrolase
-Glutathionylspermidine amidohydrolase	3.5.1.78	Glutathionylspermidine amidase
+Glutathionylspermidine amidohydrolase (spermidine-forming)	3.5.1.78	Glutathionylspermidine amidase
 Amidase, glutathionylspermidine	3.5.1.78	Glutathionylspermidine amidase
 Glutathionylspermidine amidohydrolase [spermidine-forming]	3.5.1.78	Glutathionylspermidine amidase
-trypanothione synthetase-amidase	3.5.1.78	Glutathionylspermidine amidase
-Gsp synthetase/amidase	3.5.1.78	Glutathionylspermidine amidase
+bifunctional	3.5.1.78	Glutathionylspermidine amidase
+bifunctional enzyme, EC 3.5.1.78 andEC 6.3.1.8	3.5.1.78	Glutathionylspermidine amidase
 GSP amidase	3.5.1.78	Glutathionylspermidine amidase
-GspSA	3.5.1.78	Glutathionylspermidine amidase
-Glutathionylspermidine synthetase/amidase	3.5.1.78	Glutathionylspermidine amidase
+bifunctional enzyme	3.5.1.78	Glutathionylspermidine amidase
+bifunctional enzyme	3.5.1.78	Glutathionylspermidine amidase
 GSS	3.5.1.78	Glutathionylspermidine amidase
-GspA	3.5.1.78	Glutathionylspermidine amidase
+glutathionylspermidine amidase domain of Gspsynthetase/amidase	3.5.1.78	Glutathionylspermidine amidase
 Amidase, phthalyl	3.5.1.79	Phthalyl amidase
 o-Phthalyl amidase	3.5.1.79	Phthalyl amidase
 formylaspartic formylase	3.5.1.8	formylaspartate deformylase
@@ -1125,7 +1130,10 @@ biuret-hydrolyzing enzyme	3.5.1.84	biuret amidohydrolase
 trzE gene product	3.5.1.84	biuret amidohydrolase
 hydrolase, biuret	3.5.1.84	biuret amidohydrolase
 biuret hydrolase	3.5.1.84	biuret amidohydrolase
-hydrolase,	3.5.1.85	(S)-N-acetyl-1-phenylethylamine hydrolase
+(S)-N-acetyl-1-phenylethylamine amidohydrolase	3.5.1.85	(S)-N-acetyl-1-phenylethylamine hydrolase
+(S)-specific N-acetyl-1-phenylethylamine amidohydrolase	3.5.1.85	(S)-N-acetyl-1-phenylethylamine hydrolase
+(S)-specific acylase	3.5.1.85	(S)-N-acetyl-1-phenylethylamine hydrolase
+hydrolase, (S)-N-acetyl-1-phenylethylamine	3.5.1.85	(S)-N-acetyl-1-phenylethylamine hydrolase
 Pseudomonas mandelamide hydrolase	3.5.1.86	mandelamide amidase
 amidase, mandelamide	3.5.1.86	mandelamide amidase
 mandelamide hydrolase	3.5.1.86	mandelamide amidase
@@ -1138,25 +1146,26 @@ SmLcar	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 L-N-carbamoylase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 N-carbamoyl-L-amino-acid hydrolase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 L-NCC amidohydrolase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
-AtcC	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
+gene name	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 L-methionine-N-carbamoylase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 N-carbamoyl-amino-acid amidohydrolase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
-BsLcar	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
+gene name	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 N-carbamoyl-L-amino-acid amidohydrolase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 N-carbamoyl-L-cysteine-acid amidohydrolase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 NCC amidohydrolase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 Lnc	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 LNCA	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 immobilized L-N-carbamoylase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
-N-carbamoyl-L-amino acid amidohydrolase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
+immobilized onEupergit C	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 N-carbamoyl-L-cysteine amidohydrolase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 L-carbamoylase	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
-hyuC	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
+gene name, from the hyu gene cluster containing fourgenes with novel cluster organization characteristics	3.5.1.87	N-carbamoyl-L-amino-acid hydrolase
 deformylase, peptide N-formylmethionine	3.5.1.88	peptide deformylase
 hydrolase, aminoacyl-transfer ribonucleate	3.5.1.88	peptide deformylase
 Polypeptide deformylase	3.5.1.88	peptide deformylase
 EfPDF	3.5.1.88	peptide deformylase
-1,2,3,4,5,6,7,8,10,11,12,13,17,18,19,22,23,24,25,26,29,31,34,38,42,44	3.5.1.88	peptide deformylase
+PDF	3.5.1.88	peptide deformylase
+type I and type II	3.5.1.88	peptide deformylase
 AtPDF2	3.5.1.88	peptide deformylase
 AtPDF1Bt	3.5.1.88	peptide deformylase
 AtPDF1A	3.5.1.88	peptide deformylase
@@ -1173,7 +1182,7 @@ AtDEF1.2	3.5.1.88	peptide deformylase
 AtDEF2	3.5.1.88	peptide deformylase
 mPDF	3.5.1.88	peptide deformylase
 peptide deformylase 1	3.5.1.88	peptide deformylase
-PDF-1	3.5.1.88	peptide deformylase
+isoform	3.5.1.88	peptide deformylase
 HpPDF	3.5.1.88	peptide deformylase
 PdfA	3.5.1.88	peptide deformylase
 PdfB	3.5.1.88	peptide deformylase
@@ -1185,7 +1194,7 @@ LiPDF	3.5.1.88	peptide deformylase
 AtPDF1B	3.5.1.88	peptide deformylase
 peptide deformylase 1B	3.5.1.88	peptide deformylase
 peptide deformylase 1A	3.5.1.88	peptide deformylase
-PDF-2	3.5.1.88	peptide deformylase
+isoform without peptide deformylase activity	3.5.1.88	peptide deformylase
 Ni-peptide deformylase	3.5.1.88	peptide deformylase
 sPDF	3.5.1.88	peptide deformylase
 EcPDF	3.5.1.88	peptide deformylase
@@ -1205,6 +1214,7 @@ PIG-L protein	3.5.1.89	N-acetylglucosaminylphosphatidylinositol deacetylase
 GlcNAc-PI-de-N-acetylase	3.5.1.89	N-acetylglucosaminylphosphatidylinositol deacetylase
 N-acetyl-D-glucosaminylphosphatidylinositol de-N-acetylase	3.5.1.89	N-acetylglucosaminylphosphatidylinositol deacetylase
 GPI	3.5.1.89	N-acetylglucosaminylphosphatidylinositol deacetylase
+2-acetamido-2-deoxy-alpha-D-glucopyranosyl-(1->6)-phosphatidylinositolde-N-acetylase	3.5.1.89	N-acetylglucosaminylphosphatidylinositol deacetylase
 alpha-D-GlcpNAc-PI de-N-acetylase	3.5.1.89	N-acetylglucosaminylphosphatidylinositol deacetylase
 deNAc	3.5.1.89	N-acetylglucosaminylphosphatidylinositol deacetylase
 N-acetylglucosamine-phosphatidylinositolde-N-acetylase	3.5.1.89	N-acetylglucosaminylphosphatidylinositol deacetylase
@@ -1225,19 +1235,19 @@ kynurenine formamidase	3.5.1.9	arylformamidase
 formyl kynurenine formamidase	3.5.1.9	arylformamidase
 FKF	3.5.1.9	arylformamidase
 Bna7p	3.5.1.9	arylformamidase
-cobinamide amidohydrolase	3.5.1.90	adenosylcobinamide hydrolase
-MBP-CbiZ protein	3.5.1.90	adenosylcobinamide hydrolase
+cobinamide amidohydrolase (cobyric acid-forming)	3.5.1.90	adenosylcobinamide hydrolase
+the CbiZ protein is isolated as a fusionprotein with N-terminal maltose binding protein (MBP) and His6 tags	3.5.1.90	adenosylcobinamide hydrolase
 CbiZ	3.5.1.90	adenosylcobinamide hydrolase
 AdoCbi amidohydrolase	3.5.1.90	adenosylcobinamide hydrolase
 corrinoid amidohydrolase	3.5.1.90	adenosylcobinamide hydrolase
 adenosylcobinamide amidohydrolase	3.5.1.90	adenosylcobinamide hydrolase
 NfdA	3.5.1.91	 N-substituted formamide deformylase
-vanin-1	3.5.1.92	pantetheine hydrolase
+belongs to the nitrilase superfamily, whichcontains the invariant catalytic triad residues: glutamate, lysine, andcysteine	3.5.1.92	pantetheine hydrolase
 pantetheinase	3.5.1.92	pantetheine hydrolase
 vanin 1	3.5.1.92	pantetheine hydrolase
 vanin-3	3.5.1.92	pantetheine hydrolase
-VNN-1	3.5.1.92	pantetheine hydrolase
-VNN1	3.5.1.92	pantetheine hydrolase
+gene name	3.5.1.92	pantetheine hydrolase
+gene name	3.5.1.92	pantetheine hydrolase
 vanin	3.5.1.92	pantetheine hydrolase
 pantetheine hydrolase	3.5.1.92	pantetheine hydrolase
 VNN3	3.5.1.92	pantetheine hydrolase
@@ -1249,11 +1259,11 @@ GPI-80	3.5.1.92	pantetheine hydrolase
 VNN2	3.5.1.92	pantetheine hydrolase
 vanin-2	3.5.1.92	pantetheine hydrolase
 glutaryl 7-aminocephalosporanic acid acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
-glutaryl-7-aminocephalosporanic acid acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
+activity of gamma-glutamyltranspeptidase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 CA	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 GCA	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 GA	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
-7beta-	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
+7beta-(4-carboxybutanamido)cephalosporanic acid acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 glutaryl-7-aminocephalosporic acid acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 Gl7ACA acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 CCA	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
@@ -1263,27 +1273,27 @@ GL-7ACA acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 sCPCAcy	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 cephalosporin acylase II	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 adipyl-cephalosporin acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
-GAR	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
+commercial preparation	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 cephalorin acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 CPCAcy	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 glutaryl acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 VAC	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
-glutaryl-7-	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
+glutaryl-7-(7-aminocephalosporanic acid) acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 class III glutaryl acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 class III GA	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 VAC acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 class III acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 GL-7-ACA acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 GLA	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
-glutaryl-7-ACA acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
-cephalosporin acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
+glutaryl-7-ACA acylases andcephalosporin acylases have been collectively referred to ascephalosporin acylases because they all have eitherglutaryl-7-aminocephalosporanic acid or cephalosporin C as theirsubstrates	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
+glutaryl-7-ACA acylases and cephalosporin acylases have beencollectively referred to as cephalosporin acylases because they allhave either glutaryl-7-aminocephalosporanic acid or cephalosporin C astheir substrates	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 CPC acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 cephalosporin C acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 cephalosporin-C acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 J1 acylase	3.5.1.93	glutaryl-7-aminocephalosporanic-acid acylase
 PuuD	3.5.1.94	gamma-glutamyl-gamma-aminobutyrate hydrolase
 ureidomalonase	3.5.1.95	N-malonylurea hydrolase
-aruE	3.5.1.96	succinylglutamate desuccinylase
+gene name	3.5.1.96	succinylglutamate desuccinylase
 QuiP	3.5.1.97	acyl-homoserine-lactone acylase
 quorum-quenching AHL acylase	3.5.1.97	acyl-homoserine-lactone acylase
 PA2385 protein	3.5.1.97	acyl-homoserine-lactone acylase
@@ -1292,14 +1302,14 @@ PA2385	3.5.1.97	acyl-homoserine-lactone acylase
 PA0305	3.5.1.97	acyl-homoserine-lactone acylase
 quorum quenching acylhomoserine lactone acylase	3.5.1.97	acyl-homoserine-lactone acylase
 AHL acylase	3.5.1.97	acyl-homoserine-lactone acylase
-N-acyl-homoserine lactone acylase	3.5.1.97	acyl-homoserine-lactone acylase
-More	3.5.1.97	acyl-homoserine-lactone acylase
+encoded by the aacgene, a probable aculeacin A aclyase is a N-acyl-homoserine lactoneacylase with quorum-quenching activity	3.5.1.97	acyl-homoserine-lactone acylase
+the enzyme belongs to the N-terminal nucleophilehydrolase superfamily	3.5.1.97	acyl-homoserine-lactone acylase
 acyl-homoserine lactone acylase	3.5.1.97	acyl-homoserine-lactone acylase
 HacB	3.5.1.97	acyl-homoserine-lactone acylase
 quorum-quenching N-acyl homoserine lactone acylase PvdQ	3.5.1.97	acyl-homoserine-lactone acylase
 AHL-lactonase	3.5.1.97	acyl-homoserine-lactone acylase
 AiiA	3.5.1.97	acyl-homoserine-lactone acylase
-AmiE	3.5.1.97	acyl-homoserine-lactone acylase
+gene name	3.5.1.97	acyl-homoserine-lactone acylase
 N-acylhomoserine lactone acylase	3.5.1.97	acyl-homoserine-lactone acylase
 long-chain AHL acylase	3.5.1.97	acyl-homoserine-lactone acylase
 AiiC	3.5.1.97	acyl-homoserine-lactone acylase
@@ -1324,7 +1334,7 @@ FB188 HDAH	3.5.1.98	histone deacetylase
 HDAC 3	3.5.1.98	histone deacetylase
 dRPD3	3.5.1.98	histone deacetylase
 HD8	3.5.1.98	histone deacetylase
-Zn	3.5.1.98	histone deacetylase
+Zn(II)-dependent deacetylase	3.5.1.98	histone deacetylase
 class IIa histone deacetylase	3.5.1.98	histone deacetylase
 HosB	3.5.1.98	histone deacetylase
 zinc-dependent histone deacetylase	3.5.1.98	histone deacetylase
@@ -1338,20 +1348,20 @@ HDAC 11	3.5.1.98	histone deacetylase
 histone deacetylase-1	3.5.1.98	histone deacetylase
 histone deacetylase1	3.5.1.98	histone deacetylase
 pfHDAC-1	3.5.1.98	histone deacetylase
-HDAC2-2	3.5.1.98	histone deacetylase
+isoform	3.5.1.98	histone deacetylase
 HD2	3.5.1.98	histone deacetylase
-HDAC2-1	3.5.1.98	histone deacetylase
+isoform	3.5.1.98	histone deacetylase
 cytoplasmic deacetylase	3.5.1.98	histone deacetylase
 histone deacetylase-7	3.5.1.98	histone deacetylase
 HDAC5	3.5.1.98	histone deacetylase
-histone deacetylase 10	3.5.1.98	histone deacetylase
-HDAC6p114	3.5.1.98	histone deacetylase
-HDAC6p131	3.5.1.98	histone deacetylase
+a class IIb histone deacetylase	3.5.1.98	histone deacetylase
+splicing variant of histone deacetylase 6 lackingthe first 152 amino acids from N-terminus in the major isoformHDAC6p131 protein	3.5.1.98	histone deacetylase
+major isoform of histone deacetylase 6	3.5.1.98	histone deacetylase
 histone deacetylase 4	3.5.1.98	histone deacetylase
 HDAC3	3.5.1.98	histone deacetylase
 histone deacetylase 6	3.5.1.98	histone deacetylase
-HDAC6	3.5.1.98	histone deacetylase
-HDAC4	3.5.1.98	histone deacetylase
+class II histone deacetylase	3.5.1.98	histone deacetylase
+class II histone deacetylase	3.5.1.98	histone deacetylase
 class II histone deacetylase	3.5.1.98	histone deacetylase
 HDAC8	3.5.1.98	histone deacetylase
 histone deacetylase 8	3.5.1.98	histone deacetylase
@@ -1359,7 +1369,7 @@ HDAC7	3.5.1.98	histone deacetylase
 histone deacetylase 7	3.5.1.98	histone deacetylase
 histone deacetylase 3	3.5.1.98	histone deacetylase
 histone deacetylase 1	3.5.1.98	histone deacetylase
-HDAC1	3.5.1.98	histone deacetylase
+class I histone deacetylase	3.5.1.98	histone deacetylase
 class I histone deacetylase	3.5.1.98	histone deacetylase
 tubulin deacetylase	3.5.1.98	histone deacetylase
 HDAC10	3.5.1.98	histone deacetylase
@@ -1377,7 +1387,7 @@ FA amide hydrolase	3.5.1.99	fatty acid amide hydrolase
 FAAH	3.5.1.99	fatty acid amide hydrolase
 hFAAH	3.5.1.99	fatty acid amide hydrolase
 AtFAAH	3.5.1.99	fatty acid amide hydrolase
-FAAH-2	3.5.1.99	fatty acid amide hydrolase
+FAAH-2 is an ancient gene present in primates, butnot murids	3.5.1.99	fatty acid amide hydrolase
 AAH	3.5.1.99	fatty acid amide hydrolase
 oleamide hydrolase	3.5.1.99	fatty acid amide hydrolase
 anandamide amidohydrolase	3.5.1.99	fatty acid amide hydrolase
@@ -1392,15 +1402,15 @@ L-alpha-aminocaprolactam hydrolase	3.5.2.11	L-lysine-lactamase
 L-lysinamidase	3.5.2.11	L-lysine-lactamase
 L-alpha-amino-epsilon-caprolactamase	3.5.2.11	L-lysine-lactamase
 L-alpha-amino-epsilon-caprolactam hydrolase	3.5.2.11	L-lysine-lactamase
-6-aminohexanoate-cyclic- dimer hydrolase	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
-6-aminohexanoate-cyclic- dimer hydrolase	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+6-aminohexanoate-cyclic- dimer hydrolase (Caulobacter crescentus geneCC1323)	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
+6-aminohexanoate-cyclic- dimer hydrolase (Deinococcus radioduransstrain R1 gene DR0235)	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
 hydrolase, aminocaproate cyclic dimer	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
 Nylon oligomers degrading enzyme EI	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
 omega-laurolactam hydrolase	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
 6-aminohexanoate-cyclic-dimer hydrolase	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
 Acd hydrolase	3.5.2.12	6-aminohexanoate-cyclic-dimer hydrolase
-cyclo	3.5.2.13	2,5-dioxopiperazine hydrolase
-hydrolase, cyclo	3.5.2.13	2,5-dioxopiperazine hydrolase
+cyclo(Gly-Gly) hydrolase	3.5.2.13	2,5-dioxopiperazine hydrolase
+hydrolase, cyclo(glycylglycine)	3.5.2.13	2,5-dioxopiperazine hydrolase
 5,10-methylenetetrahydrofolate dehydrogenase/cyclohydrolase	3.5.2.13	2,5-dioxopiperazine hydrolase
 MTHFDC	3.5.2.13	2,5-dioxopiperazine hydrolase
 N-methylhydantoin amidohydohydrolase	3.5.2.14	N-methylhydantoinase (ATP-hydrolysing)
@@ -1414,7 +1424,7 @@ amidase, cyanurate	3.5.2.15	cyanuric acid amidohydrolase
 AtzD	3.5.2.15	cyanuric acid amidohydrolase
 TrzD	3.5.2.15	cyanuric acid amidohydrolase
 imidase	3.5.2.16	maleimide hydrolase
-cyclic-imide amidohydrolase	3.5.2.16	maleimide hydrolase
+cyclic-imide amidohydrolase (decyclicizing)	3.5.2.16	maleimide hydrolase
 cyclic imide hydrolase	3.5.2.16	maleimide hydrolase
 CIH	3.5.2.16	maleimide hydrolase
 PucM	3.5.2.17	hydroxyisourate hydrolase
@@ -1436,13 +1446,13 @@ transthyretin-related protein	3.5.2.17	hydroxyisourate hydrolase
 TRP	3.5.2.17	hydroxyisourate hydrolase
 HIU hydrolase	3.5.2.17	hydroxyisourate hydrolase
 enamidase	3.5.2.18	enamidase
-sttH	3.5.2.19	streptothricin hydrolase
-sstH	3.5.2.19	streptothricin hydrolase
+gene name	3.5.2.19	streptothricin hydrolase
+gene name	3.5.2.19	streptothricin hydrolase
 hydantoin peptidase	3.5.2.2	dihydropyrimidinase
 hydropyrimidine hydrase	3.5.2.2	dihydropyrimidinase
 pyrimidine hydrase	3.5.2.2	dihydropyrimidinase
 bsHYD	3.5.2.2	dihydropyrimidinase
-14,18,19,25,26,27,31,35,36,38,39,40,43,59,61,62,75,76,77,79,80,85,86	3.5.2.2	dihydropyrimidinase
+hydantoinase	3.5.2.2	dihydropyrimidinase
 D-hydantoinase	3.5.2.2	dihydropyrimidinase
 PYD2	3.5.2.2	dihydropyrimidinase
 microbial hydantoinase	3.5.2.2	dihydropyrimidinase
@@ -1468,7 +1478,7 @@ DHP-2	3.5.2.2	dihydropyrimidinase
 hyuH	3.5.2.2	dihydropyrimidinase
 HYD	3.5.2.2	dihydropyrimidinase
 Dihydropyrimidinase	3.5.2.2	dihydropyrimidinase
-SmelDhp	3.5.2.2	dihydropyrimidinase
+possesses both hydantoinase and dihydropyrimidinaseactivities	3.5.2.2	dihydropyrimidinase
 DHTase	3.5.2.2	dihydropyrimidinase
 D-hydantoin-hydrolyzing enzyme	3.5.2.2	dihydropyrimidinase
 isatin amidohydrolase	3.5.2.20	isatin hydrolase
@@ -1479,11 +1489,11 @@ hDHOase	3.5.2.3	dihydroorotase
 BcDHOase	3.5.2.3	dihydroorotase
 type I DHOase	3.5.2.3	dihydroorotase
 DHO	3.5.2.3	dihydroorotase
-DHOase	3.5.2.3	dihydroorotase
+the malarial enzyme shares characteristics of both type I and type IIDHOases	3.5.2.3	dihydroorotase
 dihydroorotase	3.5.2.3	dihydroorotase
 hydantoin hydrolase	3.5.2.4	carboxymethylhydantoinase
-IsoI	3.5.2.5	allantoinase
-IsoII	3.5.2.5	allantoinase
+45000 Da enzyme	3.5.2.5	allantoinase
+42000 Da enzyme	3.5.2.5	allantoinase
 allantoin amidohydrolase	3.5.2.5	allantoinase
 allantoinase	3.5.2.5	allantoinase
 puuE	3.5.2.5	allantoinase
@@ -1507,12 +1517,13 @@ BLAIMP	3.5.2.6	beta-lactamase
 Cefuroximase	3.5.2.6	beta-lactamase
 Imipenem-cefoxitin hydrolyzing enzyme	3.5.2.6	beta-lactamase
 MFO	3.5.2.6	beta-lactamase
-Est-Y29	3.5.2.6	beta-lactamase
-OXA114	3.5.2.6	beta-lactamase
+oligomeric beta-lactamase	3.5.2.6	beta-lactamase
+AmpC-type plasmid-mediated	3.5.2.6	beta-lactamase
+a class D beta-lactamase	3.5.2.6	beta-lactamase
 FEZ-1 metallo-beta-lactamase	3.5.2.6	beta-lactamase
 B3 MBL	3.5.2.6	beta-lactamase
 BCL-1	3.5.2.6	beta-lactamase
-GES-5	3.5.2.6	beta-lactamase
+an extended-spectrum class A beta-lactamase	3.5.2.6	beta-lactamase
 TEM-116	3.5.2.6	beta-lactamase
 TEM extended-spectrum beta-lactamase	3.5.2.6	beta-lactamase
 metallo-beta-lactamase BceII	3.5.2.6	beta-lactamase
@@ -1520,8 +1531,8 @@ metallo-beta-lactamase BcII	3.5.2.6	beta-lactamase
 BcII	3.5.2.6	beta-lactamase
 B1 metallo-beta-lactamase	3.5.2.6	beta-lactamase
 apo-BcII	3.5.2.6	beta-lactamase
-apo Bacillus cereus 569/H/9 enzyme	3.5.2.6	beta-lactamase
-beta-lactamase I-III	3.5.2.6	beta-lactamase
+metal-free BcII	3.5.2.6	beta-lactamase
+different in molecular weight,localization, metal ion requirement	3.5.2.6	beta-lactamase
 zinc beta-lactamase	3.5.2.6	beta-lactamase
 VIM-3	3.5.2.6	beta-lactamase
 beta-lactamase PSE-1	3.5.2.6	beta-lactamase
@@ -1535,16 +1546,16 @@ metallo-beta-lactamase VIM-6	3.5.2.6	beta-lactamase
 VIM-6	3.5.2.6	beta-lactamase
 VIM-6 enzyme	3.5.2.6	beta-lactamase
 SHV-55	3.5.2.6	beta-lactamase
-CTX-M-64	3.5.2.6	beta-lactamase
+a hybrid of CTX-M-15-like and CTX-M-14beta-lactamases	3.5.2.6	beta-lactamase
 CTX-M-64 beta-lactamase	3.5.2.6	beta-lactamase
 class D OXA-1 beta-lactamase	3.5.2.6	beta-lactamase
 MIR-4 beta-lactamase	3.5.2.6	beta-lactamase
 CMY-1	3.5.2.6	beta-lactamase
 plasmidic class C beta-lactamase	3.5.2.6	beta-lactamase
 CMY-10	3.5.2.6	beta-lactamase
-VIM-12	3.5.2.6	beta-lactamase
+a hybrid VIM-1/VIM-2 metallo-beta-lactamase	3.5.2.6	beta-lactamase
 SHV beta-lactamase	3.5.2.6	beta-lactamase
-ACT-3	3.5.2.6	beta-lactamase
+plasmid-encoded class C beta-lactamase	3.5.2.6	beta-lactamase
 AmpC-type beta-lactamase	3.5.2.6	beta-lactamase
 ImiS	3.5.2.6	beta-lactamase
 CTX-M beta-lactamase	3.5.2.6	beta-lactamase
@@ -1555,7 +1566,7 @@ PenB4	3.5.2.6	beta-lactamase
 class A TEM-2 enzyme	3.5.2.6	beta-lactamase
 PenB1 beta-lactamase	3.5.2.6	beta-lactamase
 Ambler class A beta-lactamase	3.5.2.6	beta-lactamase
-BlaC	3.5.2.6	beta-lactamase
+gene name	3.5.2.6	beta-lactamase
 AmpC-A	3.5.2.6	beta-lactamase
 AmpC-B2	3.5.2.6	beta-lactamase
 KHM-1	3.5.2.6	beta-lactamase
@@ -1564,16 +1575,16 @@ TEM-149	3.5.2.6	beta-lactamase
 L2 beta-lactamase	3.5.2.6	beta-lactamase
 L1 beta-lactamase	3.5.2.6	beta-lactamase
 KPC beta-lactamase	3.5.2.6	beta-lactamase
-blaKPC-2	3.5.2.6	beta-lactamase
+gene name	3.5.2.6	beta-lactamase
 OXA-48 carbapenemase	3.5.2.6	beta-lactamase
 Toho-1	3.5.2.6	beta-lactamase
 TRU-1	3.5.2.6	beta-lactamase
 KPC-2 beta-lactamase	3.5.2.6	beta-lactamase
-blaLUT-1	3.5.2.6	beta-lactamase
+gene name	3.5.2.6	beta-lactamase
 LUT-1 beta-lactamase	3.5.2.6	beta-lactamase
 PenP	3.5.2.6	beta-lactamase
 SHV-5	3.5.2.6	beta-lactamase
-penicillinase I, II	3.5.2.6	beta-lactamase
+different in substrate specificity, pHand temperature stability, molecular weight	3.5.2.6	beta-lactamase
 TMB-1	3.5.2.6	beta-lactamase
 class D beta lactamase	3.5.2.6	beta-lactamase
 ST1585	3.5.2.6	beta-lactamase
@@ -1588,7 +1599,7 @@ exo-small beta-lactamase	3.5.2.6	beta-lactamase
 New Delhi MbetaL-1	3.5.2.6	beta-lactamase
 BlaMab	3.5.2.6	beta-lactamase
 ALI-1	3.5.2.6	beta-lactamase
-New Delhi	3.5.2.6	beta-lactamase
+New Delhimetallo-beta-lactamase	3.5.2.6	beta-lactamase
 NDM	3.5.2.6	beta-lactamase
 New Delhi MBL	3.5.2.6	beta-lactamase
 NDM-2	3.5.2.6	beta-lactamase
@@ -1609,7 +1620,7 @@ Mox-1	3.5.2.6	beta-lactamase
 Mox-1 beta-lactamase	3.5.2.6	beta-lactamase
 GES-1	3.5.2.6	beta-lactamase
 GES-type beta-lactamase	3.5.2.6	beta-lactamase
-beta-lactamse A-D	3.5.2.6	beta-lactamase
+A,C and D enzymes utilize anucleophilic serine at the active center which becomes acylated bysubstrate, B enzymes are metalloenzymes requiring Zn2+ for activity	3.5.2.6	beta-lactamase
 carbapenemase CphA	3.5.2.6	beta-lactamase
 CphA	3.5.2.6	beta-lactamase
 GES-2	3.5.2.6	beta-lactamase
@@ -1617,7 +1628,7 @@ IMP-2	3.5.2.6	beta-lactamase
 subclass B1 metallo-?-lactamase	3.5.2.6	beta-lactamase
 IMP-2 MBL	3.5.2.6	beta-lactamase
 SIM-1	3.5.2.6	beta-lactamase
-beta-lactamase A-C	3.5.2.6	beta-lactamase
+different in substrate specifity, aminoacid sequence, mechanistic properties, metal ion requirement	3.5.2.6	beta-lactamase
 CMY-37	3.5.2.6	beta-lactamase
 PER-2	3.5.2.6	beta-lactamase
 class A beta-lactamase	3.5.2.6	beta-lactamase
@@ -1643,10 +1654,10 @@ cephamycinase	3.5.2.6	beta-lactamase
 class C cephalosporinase	3.5.2.6	beta-lactamase
 AmpC	3.5.2.6	beta-lactamase
 metallo-beta-lactamase L1	3.5.2.6	beta-lactamase
-TEM-1 beta-lactamase	3.5.2.6	beta-lactamase
+class A beta-lactamase	3.5.2.6	beta-lactamase
 TEM-1	3.5.2.6	beta-lactamase
 beta-lactamase OXA-10	3.5.2.6	beta-lactamase
-oxa-1 beta-lactamase	3.5.2.6	beta-lactamase
+class D enzyme	3.5.2.6	beta-lactamase
 OXA-1	3.5.2.6	beta-lactamase
 serine beta-lactamase	3.5.2.6	beta-lactamase
 extended-spectrum beta-lactamase	3.5.2.6	beta-lactamase
@@ -1654,20 +1665,20 @@ Oxacillinase	3.5.2.6	beta-lactamase
 ESBL	3.5.2.6	beta-lactamase
 Cephalosporinase	3.5.2.6	beta-lactamase
 SFC-1	3.5.2.6	beta-lactamase
-blaoxa-1	3.5.2.6	beta-lactamase
+gene name	3.5.2.6	beta-lactamase
 Bla1	3.5.2.6	beta-lactamase
 Bla2	3.5.2.6	beta-lactamase
 P99	3.5.2.6	beta-lactamase
 GC1 beta-lactamase	3.5.2.6	beta-lactamase
 beta-lactamase P99	3.5.2.6	beta-lactamase
 class C P99 beta-lactamase	3.5.2.6	beta-lactamase
-P99 beta-lactamase	3.5.2.6	beta-lactamase
+class C enzyme	3.5.2.6	beta-lactamase
 VIM-1	3.5.2.6	beta-lactamase
-5,7,8,9,11,13,20,22,73,74,96,99,112,117,118,119,121,122,125,128,132	3.5.2.6	beta-lactamase
+metallo-beta-lactamase	3.5.2.6	beta-lactamase
 IMP-1	3.5.2.6	beta-lactamase
-5,7,8,9,13,22,74,99,112,116,117,134,142,183,184,185,186,187,188,189	3.5.2.6	beta-lactamase
+MBL	3.5.2.6	beta-lactamase
 class C beta-lactamase	3.5.2.6	beta-lactamase
-blaSHV-1	3.5.2.6	beta-lactamase
+gene name	3.5.2.6	beta-lactamase
 OXA-57	3.5.2.6	beta-lactamase
 PenA	3.5.2.6	beta-lactamase
 KLUA-9	3.5.2.6	beta-lactamase
@@ -1725,9 +1736,9 @@ extended spectrum beta-lactamase	3.5.2.6	beta-lactamase
 IMP-18	3.5.2.6	beta-lactamase
 VIM-type MBL	3.5.2.6	beta-lactamase
 GIM-1	3.5.2.6	beta-lactamase
-More	3.5.2.6	beta-lactamase
+no metallo-beta-lactamase, MBL, in Pseudomonasaeruginosa	3.5.2.6	beta-lactamase
 VIM-2	3.5.2.6	beta-lactamase
-carbapenemase	3.5.2.6	beta-lactamase
+UniProt	3.5.2.6	beta-lactamase
 LHK-5	3.5.2.6	beta-lactamase
 BEL-1	3.5.2.6	beta-lactamase
 oxycillinase	3.5.2.6	beta-lactamase
@@ -1759,9 +1770,9 @@ class A beta-lactamase CKO-2	3.5.2.6	beta-lactamase
 class A beta-lactamase CKO-3	3.5.2.6	beta-lactamase
 class A beta-lactamase CKO-4	3.5.2.6	beta-lactamase
 beta-lactamase Bla-A	3.5.2.6	beta-lactamase
-Bla-A	3.5.2.6	beta-lactamase
+constitutive class A penicillinase	3.5.2.6	beta-lactamase
 beta-lactamase Bla-B	3.5.2.6	beta-lactamase
-Bla-B	3.5.2.6	beta-lactamase
+inducible class C cephalosporinase	3.5.2.6	beta-lactamase
 beta-lactamase YRC-1	3.5.2.6	beta-lactamase
 ambler class C beta-lactamase	3.5.2.6	beta-lactamase
 YRC-1	3.5.2.6	beta-lactamase
@@ -1771,7 +1782,7 @@ metallo-beta -lactamase	3.5.2.6	beta-lactamase
 TEM-type beta-lactamase	3.5.2.6	beta-lactamase
 IMP-type beta-lactamase	3.5.2.6	beta-lactamase
 subclass B3 metallo-beta-lactamase	3.5.2.6	beta-lactamase
-SMB-1	3.5.2.6	beta-lactamase
+gene name	3.5.2.6	beta-lactamase
 class B beta-lactamase SLB-1	3.5.2.6	beta-lactamase
 class B beta-lactamase SFB-1	3.5.2.6	beta-lactamase
 blaVIM-2	3.5.2.6	beta-lactamase
@@ -1786,7 +1797,7 @@ imidazolonepropionase	3.5.2.7	imidazolonepropionase
 HutI	3.5.2.7	imidazolonepropionase
 imidazolone-5-propanoate hydrolase	3.5.2.7	imidazolonepropionase
 pyroglutamase	3.5.2.9	5-oxoprolinase (ATP-hydrolysing)
-pyroglutamase	3.5.2.9	5-oxoprolinase (ATP-hydrolysing)
+pyroglutamase (ATP-hydrolysing)	3.5.2.9	5-oxoprolinase (ATP-hydrolysing)
 pyroglutamate hydrolase	3.5.2.9	5-oxoprolinase (ATP-hydrolysing)
 L-pyroglutamate hydrolase	3.5.2.9	5-oxoprolinase (ATP-hydrolysing)
 pyroglutamic hydrolase	3.5.2.9	5-oxoprolinase (ATP-hydrolysing)
@@ -1808,13 +1819,13 @@ Non-hepatic arginase	3.5.3.1	arginase
 ARG	3.5.3.1	arginase
 ARGAH1	3.5.3.1	arginase
 ARGAH2	3.5.3.1	arginase
-arginine amidohydrolase-1	3.5.3.1	arginase
-arginine amidohydrolase-2	3.5.3.1	arginase
-More	3.5.3.1	arginase
+gene ARGAH1	3.5.3.1	arginase
+gene ARGAH2	3.5.3.1	arginase
+enzyme belongs to the arginase superfamily	3.5.3.1	arginase
 RocF	3.5.3.1	arginase
-arginase	3.5.3.1	arginase
-arginase I	3.5.3.1	arginase
-arginase II	3.5.3.1	arginase
+gene RocF	3.5.3.1	arginase
+isozyme	3.5.3.1	arginase
+isozyme	3.5.3.1	arginase
 L-arginine amidinohydrolase	3.5.3.1	arginase
 L-arginine amidohydrolase	3.5.3.1	arginase
 L-arginine ureahydrolase	3.5.3.1	arginase
@@ -1825,7 +1836,7 @@ ARG2	3.5.3.1	arginase
 arginase 1	3.5.3.1	arginase
 human arginase type I	3.5.3.1	arginase
 ArgI	3.5.3.1	arginase
-ARG1	3.5.3.1	arginase
+gene name	3.5.3.1	arginase
 SmARG	3.5.3.1	arginase
 type II arginase	3.5.3.1	arginase
 arginase type I	3.5.3.1	arginase
@@ -1835,18 +1846,18 @@ tissue arginase	3.5.3.1	arginase
 serum arginase	3.5.3.1	arginase
 arginase1	3.5.3.1	arginase
 PMN arginase	3.5.3.1	arginase
-rhArg1	3.5.3.1	arginase
+recombinant human arginase	3.5.3.1	arginase
 L-arginine amidino hydrolase	3.5.3.1	arginase
 arginase-2	3.5.3.1	arginase
 D-arginine-splitting arginase	3.5.3.10	D-arginase
-More	3.5.3.10	D-arginase
+enzyme is identical with guanidinobutyrase, EC 3.5.3.7	3.5.3.10	D-arginase
 AUH	3.5.3.11	agmatinase
 Proclavaminic acid amidino hydrolase	3.5.3.11	agmatinase
 agmatine ureohydrolase	3.5.3.11	agmatinase
-SpeB	3.5.3.11	agmatinase
-MJ0309	3.5.3.11	agmatinase
+gene name	3.5.3.11	agmatinase
+locus name	3.5.3.11	agmatinase
 Alr2310	3.5.3.11	agmatinase
-HVO_2299	3.5.3.11	agmatinase
+gene name	3.5.3.11	agmatinase
 N130D variant of arginase type I	3.5.3.11	agmatinase
 agmatinase	3.5.3.11	agmatinase
 agmatinase-like protein	3.5.3.11	agmatinase
@@ -1858,15 +1869,15 @@ agmatine deiminases	3.5.3.12	agmatine deiminase
 SmAgD	3.5.3.12	agmatine deiminase
 AgD	3.5.3.12	agmatine deiminase
 AguA1	3.5.3.12	agmatine deiminase
-aguA2	3.5.3.12	agmatine deiminase
-More	3.5.3.12	agmatine deiminase
+gene name	3.5.3.12	agmatine deiminase
+enzyme belongs to the family of C-N-hydrolases	3.5.3.12	agmatine deiminase
 AIH	3.5.3.12	agmatine deiminase
 agu2A	3.5.3.12	agmatine deiminase
 agmatine iminohydrolase	3.5.3.12	agmatine deiminase
 aguA protein	3.5.3.12	agmatine deiminase
 agmatine deiminase	3.5.3.12	agmatine deiminase
 AgDI	3.5.3.12	agmatine deiminase
-AguA	3.5.3.12	agmatine deiminase
+gene name	3.5.3.12	agmatine deiminase
 putrescine synthase	3.5.3.12	agmatine deiminase
 formiminoglutamate deiminase	3.5.3.13	formimidoylglutamate deiminase
 formiminoglutamic iminohydrolase	3.5.3.13	formimidoylglutamate deiminase
@@ -1881,7 +1892,7 @@ FIG iminohydrolase	3.5.3.13	formimidoylglutamate deiminase
 amidinoaspartic amidinohydrolase	3.5.3.14	amidinoaspartase
 N-amidino-L-aspartic acid amidinohydrolase	3.5.3.14	amidinoaspartase
 Mn2+-dependent amidinoaspartase	3.5.3.14	amidinoaspartase
-deiminase, protein	3.5.3.15	protein-arginine deiminase
+deiminase, protein (arginine)	3.5.3.15	protein-arginine deiminase
 HL-60 PAD	3.5.3.15	protein-arginine deiminase
 PAD-H19	3.5.3.15	protein-arginine deiminase
 PAD-R11	3.5.3.15	protein-arginine deiminase
@@ -1892,18 +1903,18 @@ peptidylarginine deiminase 3	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase type III	3.5.3.15	protein-arginine deiminase
 PADI3	3.5.3.15	protein-arginine deiminase
 protein arginine deiminase 3	3.5.3.15	protein-arginine deiminase
-PAD3	3.5.3.15	protein-arginine deiminase
+isoform	3.5.3.15	protein-arginine deiminase
 protein arginine deiminase 2	3.5.3.15	protein-arginine deiminase
 PAD IV	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase type 4	3.5.3.15	protein-arginine deiminase
 peptidyl arginine deiminase 2	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase 6	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase 2	3.5.3.15	protein-arginine deiminase
-PAD6	3.5.3.15	protein-arginine deiminase
+isoform	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase	3.5.3.15	protein-arginine deiminase
-PAD2	3.5.3.15	protein-arginine deiminase
+isoform	3.5.3.15	protein-arginine deiminase
 PAD	3.5.3.15	protein-arginine deiminase
-PAD4	3.5.3.15	protein-arginine deiminase
+isozyme	3.5.3.15	protein-arginine deiminase
 protein arginine deiminase	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase type VI	3.5.3.15	protein-arginine deiminase
 hPADVI	3.5.3.15	protein-arginine deiminase
@@ -1917,15 +1928,15 @@ peptidyl arginine deiminas 4	3.5.3.15	protein-arginine deiminase
 PADI1	3.5.3.15	protein-arginine deiminase
 PAD-4	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase-4	3.5.3.15	protein-arginine deiminase
-PAD 1	3.5.3.15	protein-arginine deiminase
-PAD 3	3.5.3.15	protein-arginine deiminase
-PAD 4	3.5.3.15	protein-arginine deiminase
+isozyme	3.5.3.15	protein-arginine deiminase
+isozyme	3.5.3.15	protein-arginine deiminase
+isozyme	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase isoform VI	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase type I	3.5.3.15	protein-arginine deiminase
-PAD1	3.5.3.15	protein-arginine deiminase
+isoform	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase 4	3.5.3.15	protein-arginine deiminase
 peptidylarginine deiminase IV	3.5.3.15	protein-arginine deiminase
-protein arginine deiminase 4	3.5.3.15	protein-arginine deiminase
+isozyme	3.5.3.15	protein-arginine deiminase
 PAD type 2	3.5.3.15	protein-arginine deiminase
 PAD II	3.5.3.15	protein-arginine deiminase
 peptidyl-arginine deiminase	3.5.3.15	protein-arginine deiminase
@@ -1944,9 +1955,9 @@ dimethylarginine dimethylaminohydrolase 1	3.5.3.18	dimethylargininase
 dimethylarginine dimethylaminohydrolase1	3.5.3.18	dimethylargininase
 dimethylarginine dimethylaminohydrolase isoform 1	3.5.3.18	dimethylargininase
 dimethylarginine dimethylaminohydrolase-2	3.5.3.18	dimethylargininase
-dimethylarginine	3.5.3.18	dimethylargininase
-DDAH-2	3.5.3.18	dimethylargininase
-DDAH	3.5.3.18	dimethylargininase
+dimethylargininedimethylaminohydrolase	3.5.3.18	dimethylargininase
+isozyme	3.5.3.18	dimethylargininase
+two seperate DDAH-proteins: Ddah1 and Ddah2	3.5.3.18	dimethylargininase
 dimethylarginine dimethylamino-hydrolase	3.5.3.18	dimethylargininase
 dimethlarginine dimethylaminohydrolase	3.5.3.18	dimethylargininase
 human dimethylarginine dimethylaminohydrolase-1	3.5.3.18	dimethylargininase
@@ -1954,7 +1965,7 @@ human DDAH-1	3.5.3.18	dimethylargininase
 Adv-DDAH	3.5.3.18	dimethylargininase
 hDDAH-1	3.5.3.18	dimethylargininase
 DDAH2	3.5.3.18	dimethylargininase
-DDAH-1	3.5.3.18	dimethylargininase
+isozyme	3.5.3.18	dimethylargininase
 DDAH-I	3.5.3.18	dimethylargininase
 Nomega,Nomega-dimethyl-L-arginine dimethylaminohydrolase-1	3.5.3.18	dimethylargininase
 dimethylarginine-dimethylaminohydrolase	3.5.3.18	dimethylargininase
@@ -1968,7 +1979,7 @@ MDUase	3.5.3.21	methylenediurea deaminase
 Proclavaminic acid amidino hydrolase	3.5.3.22	proclavaminate amidinohydrolase
 PAH	3.5.3.22	proclavaminate amidinohydrolase
 proclavaminate amidino hydrolase	3.5.3.22	proclavaminate amidinohydrolase
-proclavaminic acid amidino hydrolaseproclavaminic acid amidino	3.5.3.22	proclavaminate amidinohydrolase
+proclavaminic acid amidino hydrolaseproclavaminic acid amidinohydrolase	3.5.3.22	proclavaminate amidinohydrolase
 PAH2	3.5.3.22	proclavaminate amidinohydrolase
 proclavaminate amidinohydrolase	3.5.3.22	proclavaminate amidinohydrolase
 AstB	3.5.3.23	N-succinylarginine dihydrolase
@@ -1989,7 +2000,7 @@ ALLC	3.5.3.4	allantoicase
 allantoate amidohydrolase	3.5.3.4	allantoicase
 AAH	3.5.3.4	allantoicase
 Allantoate amidinohydrolase	3.5.3.4	allantoicase
-allantoicase	3.5.3.4	allantoicase
+YIR029W	3.5.3.4	allantoicase
 formiminoaspartate deaminase	3.5.3.5	formimidoylaspartate deiminase
 FIA hydrolase	3.5.3.5	formimidoylaspartate deiminase
 arginine dihydrolase	3.5.3.6	arginine deiminase
@@ -2002,12 +2013,12 @@ L-arginine deiminase	3.5.3.6	arginine deiminase
 peptidylarginine deiminase	3.5.3.6	arginine deiminase
 PAD	3.5.3.6	arginine deiminase
 arginine-degrading enzyme	3.5.3.6	arginine deiminase
-lymphocyte blastogenesis inhibitory factor	3.5.3.6	arginine deiminase
+the lymphocyteblastogenesis inhibitory factor from human histiocytic lymphoma U937originates from Mycoplasma arginini and bears the arginine deiminaseactivity	3.5.3.6	arginine deiminase
 LADI	3.5.3.6	arginine deiminase
-ArcA	3.5.3.6	arginine deiminase
+gene name	3.5.3.6	arginine deiminase
 PaADI	3.5.3.6	arginine deiminase
 PpADI	3.5.3.6	arginine deiminase
-More	3.5.3.6	arginine deiminase
+the enzyme belongs to the L-arginine metabolizing,guanidino-transferring enzyme superfamily	3.5.3.6	arginine deiminase
 gamma-guanidobutyrase	3.5.3.7	guanidinobutyrase
 gamma-guanidinobutyrate amidinohydrolase	3.5.3.7	guanidinobutyrase
 G-Base	3.5.3.7	guanidinobutyrase
@@ -2018,7 +2029,7 @@ GbuA	3.5.3.7	guanidinobutyrase
 guanidinobutyrase	3.5.3.7	guanidinobutyrase
 GBase	3.5.3.7	guanidinobutyrase
 tench liver isoenzyme II	3.5.3.7	guanidinobutyrase
-More	3.5.3.7	guanidinobutyrase
+enzyme is identical with D-arginase, EC 3.5.3.10	3.5.3.7	guanidinobutyrase
 4-guanidinobutyrate amidinobutyrase	3.5.3.7	guanidinobutyrase
 Zn2+-guanidinobutyrase	3.5.3.7	guanidinobutyrase
 formylglutamate amidohydrolase	3.5.3.8	formimidoylglutamase
@@ -2032,7 +2043,7 @@ Allantoate amidinohydrolase	3.5.3.9	allantoate deiminase
 ADE2	3.5.3.9	allantoate deiminase
 ALAH	3.5.3.9	allantoate deiminase
 allantoate-degrading enzyme	3.5.3.9	allantoate deiminase
-allantoate amidohydrolase	3.5.3.9	allantoate deiminase
+ALAH	3.5.3.9	allantoate deiminase
 ALLC	3.5.3.9	allantoate deiminase
 AtAAH	3.5.3.9	allantoate deiminase
 AAH	3.5.3.9	allantoate deiminase
@@ -2065,12 +2076,12 @@ IMPCH	3.5.4.10	IMP cyclohydrolase
 AICAR transformylase/inosine 5'-monophosphate cyclohydrolase	3.5.4.10	IMP cyclohydrolase
 ATIC	3.5.4.10	IMP cyclohydrolase
 AICAR-FT/IMP-CHase	3.5.4.10	IMP cyclohydrolase
-ITGA2	3.5.4.10	IMP cyclohydrolase
+gene name	3.5.4.10	IMP cyclohydrolase
 MjPurO	3.5.4.10	IMP cyclohydrolase
 PurO	3.5.4.10	IMP cyclohydrolase
 inosine 5'-monophosphate cyclohydrolase	3.5.4.10	IMP cyclohydrolase
 acrasinase	3.5.4.11	pterin deaminase
-Sgx9339a	3.5.4.11	pterin deaminase
+gene name	3.5.4.11	pterin deaminase
 PDA	3.5.4.11	pterin deaminase
 Arad3529	3.5.4.11	pterin deaminase
 deoxy-CMP-deaminase	3.5.4.12	dCMP deaminase
@@ -2082,9 +2093,9 @@ dCMPase	3.5.4.12	dCMP deaminase
 deoxycytidine nucleotide deaminase	3.5.4.12	dCMP deaminase
 deaminase, deoxycytidylate	3.5.4.12	dCMP deaminase
 deoxycytidine-5'-monophosphate deaminase	3.5.4.12	dCMP deaminase
-T2-dCMP deaminase	3.5.4.12	dCMP deaminase
-T2-deoxycytidylate deaminase	3.5.4.12	dCMP deaminase
-T2-phage deoxycytidylate deaminase	3.5.4.12	dCMP deaminase
+T2-phage infected	3.5.4.12	dCMP deaminase
+T2-phage infected	3.5.4.12	dCMP deaminase
+T2-phage infected	3.5.4.12	dCMP deaminase
 dCMP-dCTP deaminase	3.5.4.12	dCMP deaminase
 deoxycytidine monophosphate deaminase	3.5.4.12	dCMP deaminase
 dCMPD	3.5.4.12	dCMP deaminase
@@ -2095,9 +2106,9 @@ dCMP deaminase	3.5.4.12	dCMP deaminase
 dCDA	3.5.4.12	dCMP deaminase
 deoxycytidine deaminase	3.5.4.12	dCMP deaminase
 DCD1	3.5.4.12	dCMP deaminase
-T4-dCMP deaminase	3.5.4.12	dCMP deaminase
-T4-deaminase	3.5.4.12	dCMP deaminase
-T4-phage deoxycytidylate deaminase	3.5.4.12	dCMP deaminase
+T4-phage infected	3.5.4.12	dCMP deaminase
+T4-phage infected	3.5.4.12	dCMP deaminase
+T4-phage infected	3.5.4.12	dCMP deaminase
 2-deoxycytidylate deaminase	3.5.4.12	dCMP deaminase
 DCD	3.5.4.12	dCMP deaminase
 STRIPE2	3.5.4.12	dCMP deaminase
@@ -2107,8 +2118,8 @@ deoxycytidine triphosphate deaminase	3.5.4.13	dCTP deaminase
 dCTP deaminase	3.5.4.13	dCTP deaminase
 dCTP deaminase:dUTPase	3.5.4.13	dCTP deaminase
 dCTP deaminase:deoxyuridine triphosphatase	3.5.4.13	dCTP deaminase
-DCD:DUT	3.5.4.13	dCTP deaminase
-dcdB	3.5.4.13	dCTP deaminase
+bifunctional enzyme with dCTP deaminase and dUTPaseactivities	3.5.4.13	dCTP deaminase
+gene name	3.5.4.13	dCTP deaminase
 dCMP-dCTP deaminase	3.5.4.13	dCTP deaminase
 guanosine aminase	3.5.4.15	guanosine deaminase
 guanosine deaminase	3.5.4.15	guanosine deaminase
@@ -2127,10 +2138,10 @@ GTPCH	3.5.4.16	GTP cyclohydrolase I
 GTPCHI	3.5.4.16	GTP cyclohydrolase I
 GCHI	3.5.4.16	GTP cyclohydrolase I
 Punch	3.5.4.16	GTP cyclohydrolase I
-GTP cyclohydrolase IA	3.5.4.16	GTP cyclohydrolase I
-GTP cyclohydrolase IB	3.5.4.16	GTP cyclohydrolase I
-GCYH-IB	3.5.4.16	GTP cyclohydrolase I
-GCYH-IA	3.5.4.16	GTP cyclohydrolase I
+isozyme	3.5.4.16	GTP cyclohydrolase I
+isozyme	3.5.4.16	GTP cyclohydrolase I
+isozyme	3.5.4.16	GTP cyclohydrolase I
+isozyme	3.5.4.16	GTP cyclohydrolase I
 GTP-CH	3.5.4.16	GTP cyclohydrolase I
 guanosine 5'-triphosphate-cyclohydrolase I	3.5.4.16	GTP cyclohydrolase I
 GTP-CH1	3.5.4.16	GTP cyclohydrolase I
@@ -2150,14 +2161,14 @@ GCH1	3.5.4.16	GTP cyclohydrolase I
 GCH-1	3.5.4.16	GTP cyclohydrolase I
 adenylate deaminase	3.5.4.17	adenosine-phosphate deaminase
 adenine nucleotide deaminase	3.5.4.17	adenosine-phosphate deaminase
-adenosine	3.5.4.17	adenosine-phosphate deaminase
+adenosine (phosphate) deaminase	3.5.4.17	adenosine-phosphate deaminase
 adenosine triphosphate deaminase	3.5.4.18	ATP deaminase
 PRAMP-cyclohydrolase	3.5.4.19	phosphoribosyl-AMP cyclohydrolase
 phosphoribosyladenosine monophosphate cyclohydrolase	3.5.4.19	phosphoribosyl-AMP cyclohydrolase
 PRA-CH	3.5.4.19	phosphoribosyl-AMP cyclohydrolase
-HisI	3.5.4.19	phosphoribosyl-AMP cyclohydrolase
+gene name	3.5.4.19	phosphoribosyl-AMP cyclohydrolase
 PR-AMP cyclohydrolase	3.5.4.19	phosphoribosyl-AMP cyclohydrolase
-N1-	3.5.4.19	phosphoribosyl-AMP cyclohydrolase
+N1-(5'-phosphoribosyl) adenosine-5'-monophosphate cyclohydrolase	3.5.4.19	phosphoribosyl-AMP cyclohydrolase
 adenase	3.5.4.2	adenine deaminase
 adenine aminase	3.5.4.2	adenine deaminase
 ADase	3.5.4.2	adenine deaminase
@@ -2177,19 +2188,19 @@ creatinine desaminase	3.5.4.21	creatinine deaminase
 HPC deaminase	3.5.4.22	1-pyrroline-4-hydroxy-2-carboxylate deaminase
 DELTA1-pyrroline-4-hydroxy-2-carboxylate deaminase	3.5.4.22	1-pyrroline-4-hydroxy-2-carboxylate deaminase
 Pyr4H2C deaminase	3.5.4.22	1-pyrroline-4-hydroxy-2-carboxylate deaminase
-LhpC	3.5.4.22	1-pyrroline-4-hydroxy-2-carboxylate deaminase
+gene name	3.5.4.22	1-pyrroline-4-hydroxy-2-carboxylate deaminase
 BS deaminase	3.5.4.23	blasticidin-S deaminase
 Bc S deaminase	3.5.4.23	blasticidin-S deaminase
 blasticidin S deaminase	3.5.4.23	blasticidin-S deaminase
 BSD	3.5.4.23	blasticidin-S deaminase
 RIBIV	3.5.4.25	GTP cyclohydrolase II
-More	3.5.4.25	GTP cyclohydrolase II
+cf. EC 4.1.99.12	3.5.4.25	GTP cyclohydrolase II
 RibA	3.5.4.25	GTP cyclohydrolase II
 GCH II	3.5.4.25	GTP cyclohydrolase II
-NbRibA	3.5.4.25	GTP cyclohydrolase II
-guanosine triphosphate cyclohydrolase	3.5.4.25	GTP cyclohydrolase II
+gene name	3.5.4.25	GTP cyclohydrolase II
+guanosine triphosphate cyclohydrolaseII/3,4-dihydroxy-2-butanone-4-phosphate synthase	3.5.4.25	GTP cyclohydrolase II
 GTPCH II	3.5.4.25	GTP cyclohydrolase II
-ribA2	3.5.4.25	GTP cyclohydrolase II
+bifunctional enzyme with 3,4-dihydroxy-2-butanone4-phosphate synthase and GTP cyclohydrolase II activities	3.5.4.25	GTP cyclohydrolase II
 GCHII	3.5.4.25	GTP cyclohydrolase II
 GCH-II	3.5.4.25	GTP cyclohydrolase II
 GTP-8-formylhydrolase	3.5.4.25	GTP cyclohydrolase II
@@ -2197,11 +2208,11 @@ guanosine triphosphate cyclohydrolase II	3.5.4.25	GTP cyclohydrolase II
 GTP cyclohydrolase-II	3.5.4.25	GTP cyclohydrolase II
 GTPCH-II	3.5.4.25	GTP cyclohydrolase II
 guanosine-5'-triphosphate cyclohydrolase-II	3.5.4.25	GTP cyclohydrolase II
-GCH II/III	3.5.4.25	GTP cyclohydrolase II
+enzyme variant SCO 6655 shares features of GCH IIand GCH III	3.5.4.25	GTP cyclohydrolase II
 GTP cyclohydrolase II	3.5.4.25	GTP cyclohydrolase II
 3,4-dihydroxy-2-butanone 4-phosphate synthase	3.5.4.25	GTP cyclohydrolase II
 Riboflavin-specific deaminase	3.5.4.26	diaminohydroxyphosphoribosylaminopyrimidine deaminase
-RibD	3.5.4.26	diaminohydroxyphosphoribosylaminopyrimidine deaminase
+bifunctional enzyme withdiaminohydroxyphosphoribosylaminopyrimidine deaminase and5-amino-6-(5-phosphoribosylamino)uracil reductase activities	3.5.4.26	diaminohydroxyphosphoribosylaminopyrimidine deaminase
 hydrolase, methenyltetrahydromethanopterin cyclo-	3.5.4.27	methenyltetrahydromethanopterin cyclohydrolase
 5,10-methenyltetrahydromethanopterin cyclohydrolase	3.5.4.27	methenyltetrahydromethanopterin cyclohydrolase
 N5,N10-methenyltetrahydromethanopterin cyclohydrolase	3.5.4.27	methenyltetrahydromethanopterin cyclohydrolase
@@ -2209,11 +2220,11 @@ Mch	3.5.4.27	methenyltetrahydromethanopterin cyclohydrolase
 methenyl-H4MPT cyclohydrolase	3.5.4.27	methenyltetrahydromethanopterin cyclohydrolase
 methenyltetrahydromethanopterin cyclohydrolase	3.5.4.27	methenyltetrahydromethanopterin cyclohydrolase
 methenyl-H4MPT+ cyclohydrolase	3.5.4.27	methenyltetrahydromethanopterin cyclohydrolase
-CBH37751	3.5.4.27	methenyltetrahydromethanopterin cyclohydrolase
+gene name	3.5.4.27	methenyltetrahydromethanopterin cyclohydrolase
 deaminase, adenosylhomocysteine	3.5.4.28	S-adenosylhomocysteine deaminase
-MJ1541	3.5.4.28	S-adenosylhomocysteine deaminase
+locus name	3.5.4.28	S-adenosylhomocysteine deaminase
 GTP cyclohydrolase III	3.5.4.29	GTP cyclohydrolase IIa
-MJ0145	3.5.4.29	GTP cyclohydrolase IIa
+locus name	3.5.4.29	GTP cyclohydrolase IIa
 GCH III	3.5.4.29	GTP cyclohydrolase IIa
 guanine aminase	3.5.4.3	guanine deaminase
 GDEase	3.5.4.3	guanine deaminase
@@ -2228,29 +2239,29 @@ GAH	3.5.4.3	guanine deaminase
 GUA	3.5.4.3	guanine deaminase
 human guanine deaminase	3.5.4.3	guanine deaminase
 guanase	3.5.4.3	guanine deaminase
-More	3.5.4.3	guanine deaminase
+cypin is a member of the metal-dependent aminohydrolasefamily	3.5.4.3	guanine deaminase
 cytosolic PSD-95 interactor	3.5.4.3	guanine deaminase
 GDA	3.5.4.3	guanine deaminase
 cypin	3.5.4.3	guanine deaminase
 GUD1	3.5.4.3	guanine deaminase
 dCTP deaminase-dUTP pyrophosphatase	3.5.4.30	dCTP deaminase (dUMP-forming)
 DCD-DUT	3.5.4.30	dCTP deaminase (dUMP-forming)
-dCTP deaminase-dUTPase	3.5.4.30	dCTP deaminase (dUMP-forming)
-MJ0430	3.5.4.30	dCTP deaminase (dUMP-forming)
+bifunctional enzyme	3.5.4.30	dCTP deaminase (dUMP-forming)
+locus name	3.5.4.30	dCTP deaminase (dUMP-forming)
 DCDDUT	3.5.4.30	dCTP deaminase (dUMP-forming)
-DCD:DUT	3.5.4.30	dCTP deaminase (dUMP-forming)
-dcdB	3.5.4.30	dCTP deaminase (dUMP-forming)
+bifunctional enzyme with dCTP deaminase and dUTPaseactivities	3.5.4.30	dCTP deaminase (dUMP-forming)
+gene name	3.5.4.30	dCTP deaminase (dUMP-forming)
 5-methylthioadenosine deaminase	3.5.4.31	S-methyl-5'-thioadenosine deaminase
-5-methylthioadenosine/S-adenosylhomocysteine deaminase	3.5.4.31	S-methyl-5'-thioadenosine deaminase
-Tm0936	3.5.4.31	S-methyl-5'-thioadenosine deaminase
+bifunctional enzyme EC 3.5.4.21/EC 3.5.4.28	3.5.4.31	S-methyl-5'-thioadenosine deaminase
+gene name	3.5.4.31	S-methyl-5'-thioadenosine deaminase
 MTA deaminase	3.5.4.31	S-methyl-5'-thioadenosine deaminase
-MJ1541	3.5.4.31	S-methyl-5'-thioadenosine deaminase
+gene name	3.5.4.31	S-methyl-5'-thioadenosine deaminase
 DadD	3.5.4.31	S-methyl-5'-thioadenosine deaminase
 MtaD	3.5.4.31	S-methyl-5'-thioadenosine deaminase
 MTADA	3.5.4.31	S-methyl-5'-thioadenosine deaminase
 PA3170	3.5.4.31	S-methyl-5'-thioadenosine deaminase
 8-OGD	3.5.4.32	8-oxoguanine deaminase
-Pa0142	3.5.4.32	8-oxoguanine deaminase
+gene name	3.5.4.32	8-oxoguanine deaminase
 TadA	3.5.4.33	tRNA(adenine34) deaminase
 tadA protein	3.5.4.33	tRNA(adenine34) deaminase
 tRNA:A34 deaminase	3.5.4.33	tRNA(adenine34) deaminase
@@ -2268,29 +2279,29 @@ ADAT1	3.5.4.34	tRNAAla(adenine37) deaminase
 hADAT1	3.5.4.34	tRNAAla(adenine37) deaminase
 Tad1p/scADAT1	3.5.4.34	tRNAAla(adenine37) deaminase
 CDAT8	3.5.4.35	tRNA(cytosine8) deaminase
-MK0935	3.5.4.35	tRNA(cytosine8) deaminase
+gene name	3.5.4.35	tRNA(cytosine8) deaminase
 apolipoprotein B mRNA editing enzyme	3.5.4.36	mRNA(cytosine6666) deaminase
-APOBEC-1	3.5.4.36	mRNA(cytosine6666) deaminase
+catalytic subunit of the apoB mRNA editingcomplex	3.5.4.36	mRNA(cytosine6666) deaminase
 apolipoprotein B mRNA editing enzyme, catalytic polypeptide 1	3.5.4.36	mRNA(cytosine6666) deaminase
-APOBEC1	3.5.4.36	mRNA(cytosine6666) deaminase
-apoB mRNA-editing enzyme catalytic polypeptide 1	3.5.4.36	mRNA(cytosine6666) deaminase
+catalytic component of anRNA-editing complex	3.5.4.36	mRNA(cytosine6666) deaminase
+catalyticsubunit of the apoB mRNA editing complex	3.5.4.36	mRNA(cytosine6666) deaminase
 apo B messenger RNA editing protein	3.5.4.36	mRNA(cytosine6666) deaminase
 REPR	3.5.4.36	mRNA(cytosine6666) deaminase
 ADAR	3.5.4.37	double-stranded RNA adenine deaminase
-APOBEC1	3.5.4.37	double-stranded RNA adenine deaminase
+catalytic component of an RNA-editing complex	3.5.4.37	double-stranded RNA adenine deaminase
 hADAR2-D	3.5.4.37	double-stranded RNA adenine deaminase
 dADAR	3.5.4.37	double-stranded RNA adenine deaminase
 double-stranded RNA-specific adenosine deaminase	3.5.4.37	double-stranded RNA adenine deaminase
 adenosine deaminase acting on RNA 1	3.5.4.37	double-stranded RNA adenine deaminase
-ADAR2	3.5.4.37	double-stranded RNA adenine deaminase
-ADAR1	3.5.4.37	double-stranded RNA adenine deaminase
+ADAR2 lacks a part of the N-terminus region ofADAR1, upstream of its RNA binding domain, where ADAR1 contains tworepeats of a Z-DNA binding motif	3.5.4.37	double-stranded RNA adenine deaminase
+two major isoforms of ADAR1, P150 andP110, named following their molecular weights, are yielded by differentRNA splicings. The 150 kDa isoform, translated from exon 1a, is thefull length protein that is mainly distributed in the cytosol. The 110kDa isoform, coded by other alternative first exons and lacking theZ-DNA binding domains, is mainly located in the cell nucleus	3.5.4.37	double-stranded RNA adenine deaminase
 dsRNA adenosine deaminase	3.5.4.37	double-stranded RNA adenine deaminase
 DRADA1	3.5.4.37	double-stranded RNA adenine deaminase
 hADAR1	3.5.4.37	double-stranded RNA adenine deaminase
 hADAR1a	3.5.4.37	double-stranded RNA adenine deaminase
 adenosine deaminase acting on RNA-1	3.5.4.37	double-stranded RNA adenine deaminase
-ADAR1L	3.5.4.37	double-stranded RNA adenine deaminase
-ADAR1S	3.5.4.37	double-stranded RNA adenine deaminase
+isoform	3.5.4.37	double-stranded RNA adenine deaminase
+isoform	3.5.4.37	double-stranded RNA adenine deaminase
 hADAR2	3.5.4.37	double-stranded RNA adenine deaminase
 bADAR1a	3.5.4.37	double-stranded RNA adenine deaminase
 double-stranded RNA adenosine deaminase	3.5.4.37	double-stranded RNA adenine deaminase
@@ -2298,15 +2309,16 @@ dsRAD	3.5.4.37	double-stranded RNA adenine deaminase
 double-stranded RNA-specific adenosine deaminase 1	3.5.4.37	double-stranded RNA adenine deaminase
 CiADAR1	3.5.4.37	double-stranded RNA adenine deaminase
 activation-induced cytidine deaminase	3.5.4.38	single-stranded DNA cytosine deaminase
-AICDA	3.5.4.38	single-stranded DNA cytosine deaminase
+gene name	3.5.4.38	single-stranded DNA cytosine deaminase
 activation-induced deaminase	3.5.4.38	single-stranded DNA cytosine deaminase
 AID	3.5.4.38	single-stranded DNA cytosine deaminase
 MptA	3.5.4.39	GTP cyclohydrolase IV
 GTP cyclohydrolase MptA	3.5.4.39	GTP cyclohydrolase IV
-ADA2	3.5.4.4	adenosine deaminase
-adenosine deaminase 1	3.5.4.4	adenosine deaminase
-adenosine deaminase 2	3.5.4.4	adenosine deaminase
-ADA1	3.5.4.4	adenosine deaminase
+isozyme	3.5.4.4	adenosine deaminase
+isozyme	3.5.4.4	adenosine deaminase
+isozyme	3.5.4.4	adenosine deaminase
+isozyme	3.5.4.4	adenosine deaminase
+ADA	3.5.4.4	adenosine deaminase
 SCO4901	3.5.4.4	adenosine deaminase
 MadA	3.5.4.4	adenosine deaminase
 adenosine deaminase	3.5.4.4	adenosine deaminase
@@ -2314,7 +2326,7 @@ ADAIII	3.5.4.4	adenosine deaminase
 ADAI	3.5.4.4	adenosine deaminase
 ADAII	3.5.4.4	adenosine deaminase
 PvADA	3.5.4.4	adenosine deaminase
-MJ1541	3.5.4.4	adenosine deaminase
+locus name	3.5.4.4	adenosine deaminase
 Adenosine aminohydrolase	3.5.4.4	adenosine deaminase
 TadA	3.5.4.4	adenosine deaminase
 LADA	3.5.4.4	adenosine deaminase
@@ -2323,31 +2335,31 @@ AD	3.5.4.4	adenosine deaminase
 ciADA	3.5.4.4	adenosine deaminase
 AFL deaminase	3.5.4.40	aminodeoxyfutalosine deaminase
 aminofutalosine deaminase	3.5.4.40	aminodeoxyfutalosine deaminase
-mqnX	3.5.4.40	aminodeoxyfutalosine deaminase
-Acel_0264	3.5.4.40	aminodeoxyfutalosine deaminase
+gene name	3.5.4.40	aminodeoxyfutalosine deaminase
+gene name	3.5.4.40	aminodeoxyfutalosine deaminase
 Acel0264	3.5.4.40	aminodeoxyfutalosine deaminase
 Dr0824	3.5.4.40	aminodeoxyfutalosine deaminase
 Sav2595	3.5.4.40	aminodeoxyfutalosine deaminase
 Nis0429	3.5.4.40	aminodeoxyfutalosine deaminase
 SCO5662	3.5.4.40	aminodeoxyfutalosine deaminase
-MJ1541	3.5.4.41	5'-deoxyadenosine deaminase
+locus name	3.5.4.41	5'-deoxyadenosine deaminase
 DadD	3.5.4.41	5'-deoxyadenosine deaminase
 amidase, N-isopropylammelide	3.5.4.42	N-isopropylammelide isopropylaminohydrolase
 N-isopropylammelide amidase	3.5.4.42	N-isopropylammelide isopropylaminohydrolase
-AtzC	3.5.4.42	N-isopropylammelide isopropylaminohydrolase
+gene name	3.5.4.42	N-isopropylammelide isopropylaminohydrolase
 IAIA	3.5.4.42	N-isopropylammelide isopropylaminohydrolase
 N-isopropylammelide isopropylamidohydrolase	3.5.4.42	N-isopropylammelide isopropylaminohydrolase
 Hydroxyatrazine hydrolase	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
-FRAAL1473	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
+gene name	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
 adenosine aminohydrolase 3	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
-FraEuI1c_5875	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
-AtzB	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
+gene name	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
+gene name	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
 hydroxyatrazine ethylaminohydrolase	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
 HAEA	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
-More	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
+the enzyme belongs to the amidohydrolase superfamily	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
 hydroxyatrazine N-ethylaminohydrolase	3.5.4.43	hydroxydechloroatrazine ethylaminohydrolase
 doeA	3.5.4.44	ectoine hydrolase
-Helo_3665	3.5.4.44	ectoine hydrolase
+gene name	3.5.4.44	ectoine hydrolase
 triA	3.5.4.45	melamine deaminase
 cyclic adenylate deaminase	3.5.4.46	cAMP deaminase
 ADD	3.5.4.46	cAMP deaminase
@@ -2392,22 +2404,22 @@ AMP deaminase H-type	3.5.4.6	AMP deaminase
 Erythrocyte AMP deaminase	3.5.4.6	AMP deaminase
 Heart-type AMPD	3.5.4.6	AMP deaminase
 Myoadenylate deaminase	3.5.4.6	AMP deaminase
-embryonic factor 1	3.5.4.6	AMP deaminase
-FAC1	3.5.4.6	AMP deaminase
+encodes an AMP deaminase	3.5.4.6	AMP deaminase
+gene that encodes AMP deaminase	3.5.4.6	AMP deaminase
 EMBRYONIC FACTOR1	3.5.4.6	AMP deaminase
 AMP-aminohydrolase	3.5.4.6	AMP deaminase
 AMPDA	3.5.4.6	AMP deaminase
 5'-adenylic acid deaminase	3.5.4.6	AMP deaminase
 adenosine monophosphate deaminase 3	3.5.4.6	AMP deaminase
 AMP deaminase 3	3.5.4.6	AMP deaminase
-AMPD3	3.5.4.6	AMP deaminase
+isozyme	3.5.4.6	AMP deaminase
 AmpD	3.5.4.6	AMP deaminase
 AMP deaminase1	3.5.4.6	AMP deaminase
 AMP deaminase isoform E	3.5.4.6	AMP deaminase
 adenosine monophosphate deaminase-1	3.5.4.6	AMP deaminase
 5'-adenosine monophosphate deaminase	3.5.4.6	AMP deaminase
-AMPD1	3.5.4.6	AMP deaminase
-AMPD2	3.5.4.6	AMP deaminase
+isozyme	3.5.4.6	AMP deaminase
+isozyme	3.5.4.6	AMP deaminase
 AMP-deaminase	3.5.4.6	AMP deaminase
 AMP deaminase	3.5.4.6	AMP deaminase
 AMP deaminase type 3	3.5.4.6	AMP deaminase
@@ -2419,23 +2431,23 @@ non-specific acid ADP-deaminating enzyme	3.5.4.7	ADP deaminase
 ADP-deaminating enzyme	3.5.4.7	ADP deaminase
 4-aminoimidazole hydrolase	3.5.4.8	aminoimidazolase
 Citrovorum factor cyclodehydrase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-formyl-methenyl-methylenetetrahydrofolate synthetase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+formyl-methenyl-methylenetetrahydrofolate synthetase (combined)	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 5,10-methenyl-H4folate cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-More	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+5,10-methenyltetrahydrofolate cyclohydrolase and5,10-methenyltetrahydrofolate synthetase might be 2 different enzymes	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 5,10-Methenyltetrahydrofolate synthetase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 5,10-CH=H4 folate synthetase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 5,10-CH+-H4PteGlu cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 CHF4CH	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 mosquito cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-bifunctional methylenetetrahydrofolate	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+bifunctional methylenetetrahydrofolatedehydrogenase-methenyltetrahydrofolate cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 DHCH1	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 methylene tetrahydrofolate dehydrogenase/cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-5,10-methenyltetrahydrofolate cyclohydrolase/5,10-methylene	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-methylene-tetrahydrofolate dehydrogenase/cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-DHCH 1	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-DHCH 2	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+5,10-methenyltetrahydrofolate cyclohydrolase/5,10-methylenetetrahydrofolate dehydrogenase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+bifunctional enzyme	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+isozyme	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+isozyme	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 methenylH4F cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-methylenetetrahydrofolate dehydrogenase-methenyltetrahydrofolate	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+methylenetetrahydrofolate dehydrogenase-methenyltetrahydrofolatecyclohydrolase-formyltetrahydrofolate synthetase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 5,10-methylenetetrahydrofolate dehydrogenase/cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 MTHFDC	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 MIS1	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
@@ -2443,50 +2455,50 @@ dehydrogenasse-cyclohydrolase-synthetase	3.5.4.9	methenyltetrahydrofolate cycloh
 ADE3	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 methylenetetrahydrofolate dehydrogenase/cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 N5,N10-methylenetetrahydrofolate dehydrogenase/cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-N5,N10-methylenetetrahydrofolate	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+N5,N10-methylenetetrahydrofolatedehydrogenase/N5,N10-methenyltetrahydrofolate cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 DHCH	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-bifunctional N5,N10-methylene-H4F	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+bifunctionalenzyme EC 1.5.1.15/EC 3.5.4.9	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 methenyl-H4F cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-FolD	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-N5,N10-methylenetetrahydrofolate dehydrogenase-cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+bifunctional enzyme EC 1.5.1.15/EC 3.5.4.9	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+bifunctional enzyme	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 methenyl-THF cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 methenyl-tetrahydrofolate cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 5,10-methenyl-THF cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-MTHFD2L	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+bifunctional enzyme with methylenetetrahydrofolatedehydrogenase and methenyltetrahydrofolate cyclohydrolase activities	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 CH+-THF cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-MTHFD2	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+bifunctional enzyme possessingmethenyl-tetrahydrofolate cyclohydrolase and dehydrogenase activities	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 methyleneH4folate cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 methenyltetrahydrofolate dehydrogenase/cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-methylenetetrahydrofolate dehydrogenase/methenyltetrahydrofolate	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
-NAD-dependent methylenetetrahydrofolate	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+trifunctionalfolate enzyme	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
+NAD-dependent methylenetetrahydrofolatedehydrogenase-cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 5,10-methenyltetrahydrofolate cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 MTHFD1	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 methenyltetrahydrofolate cyclohydrolase	3.5.4.9	methenyltetrahydrofolate cyclohydrolase
 acetonitrilase	3.5.5.1	nitrilase
 benzonitrilase	3.5.5.1	nitrilase
 Arylacetonitrilase	3.5.5.1	nitrilase
-Nlase	3.5.5.1	nitrilase
+shows nitrilase and nitrile hydratase activities	3.5.5.1	nitrilase
 benzonitrilase A	3.5.5.1	nitrilase
 benzonitrilase B	3.5.5.1	nitrilase
-NIT4A/B1	3.5.5.1	nitrilase
-NIT4A/B2	3.5.5.1	nitrilase
+active isozyme complex	3.5.5.1	nitrilase
+actice isozyme complex	3.5.5.1	nitrilase
 nitrile hydratase/amidase	3.5.5.1	nitrilase
 NIT2	3.5.5.1	nitrilase
 BrNIT-T	3.5.5.1	nitrilase
 3-cyanopyridinase	3.5.5.1	nitrilase
 NIT1	3.5.5.1	nitrilase
 auxin-producing nitrilase	3.5.5.1	nitrilase
-More	3.5.5.1	nitrilase
+enzyme belong to branch 10 of the nitrilasesuperfamily, overview	3.5.5.1	nitrilase
 nitrilase bll6402	3.5.5.1	nitrilase
 bll6402	3.5.5.1	nitrilase
 humanNIT1	3.5.5.1	nitrilase
-NIT-T2	3.5.5.1	nitrilase
+isozyme	3.5.5.1	nitrilase
 NIT	3.5.5.1	nitrilase
 nitrilase	3.5.5.1	nitrilase
 SsAH	3.5.5.1	nitrilase
-SSO2122	3.5.5.1	nitrilase
-cyc705	3.5.5.1	nitrilase
+ordered locus name	3.5.5.1	nitrilase
+gene name	3.5.5.1	nitrilase
 nitrilase I	3.5.5.1	nitrilase
 nirilase II	3.5.5.1	nitrilase
 nitrilase 1	3.5.5.1	nitrilase
@@ -2497,20 +2509,20 @@ NIT3	3.5.5.1	nitrilase
 beta-cyanoalanine synthase	3.5.5.4	cyanoalanine nitrilase
 beta-cyanoalanine nitrilase	3.5.5.4	cyanoalanine nitrilase
 PinA	3.5.5.4	cyanoalanine nitrilase
-NIT4-3	3.5.5.4	cyanoalanine nitrilase
-NIT4-4	3.5.5.4	cyanoalanine nitrilase
-NIT4-1	3.5.5.4	cyanoalanine nitrilase
-NIT4-2	3.5.5.4	cyanoalanine nitrilase
-NIT4A/B1	3.5.5.4	cyanoalanine nitrilase
-NIT4A/B2	3.5.5.4	cyanoalanine nitrilase
+isoform	3.5.5.4	cyanoalanine nitrilase
+isoform	3.5.5.4	cyanoalanine nitrilase
+isoform	3.5.5.4	cyanoalanine nitrilase
+isoform	3.5.5.4	cyanoalanine nitrilase
+active isozyme complex	3.5.5.4	cyanoalanine nitrilase
+actice isozyme complex	3.5.5.4	cyanoalanine nitrilase
 cyanoalanine hydratase	3.5.5.4	cyanoalanine nitrilase
-NIT4B1	3.5.5.4	cyanoalanine nitrilase
-2,3,4,5,6,7,8,13,14,15,16,17,18,19,20,21,22,23,24,25,26,27,28,29,30,31	3.5.5.4	cyanoalanine nitrilase
-NIT4A	3.5.5.4	cyanoalanine nitrilase
-NIT4B	3.5.5.4	cyanoalanine nitrilase
+isoform	3.5.5.4	cyanoalanine nitrilase
+nitrilase 4	3.5.5.4	cyanoalanine nitrilase
+isoform	3.5.5.4	cyanoalanine nitrilase
+isoform	3.5.5.4	cyanoalanine nitrilase
 NIT-T4	3.5.5.4	cyanoalanine nitrilase
-NIT4B2	3.5.5.4	cyanoalanine nitrilase
-NIT2	3.5.5.4	cyanoalanine nitrilase
+isoform	3.5.5.4	cyanoalanine nitrilase
+isoform	3.5.5.4	cyanoalanine nitrilase
 NIT1	3.5.5.4	cyanoalanine nitrilase
 Nit4	3.5.5.4	cyanoalanine nitrilase
 Nitrilase, arylaceto-	3.5.5.5	Arylacetonitrilase
@@ -2531,14 +2543,14 @@ NitPf5	3.5.5.7	Aliphatic nitrilase
 NIT	3.5.5.7	Aliphatic nitrilase
 NIT1	3.5.5.7	Aliphatic nitrilase
 nitrilase	3.5.5.7	Aliphatic nitrilase
-More	3.5.5.7	Aliphatic nitrilase
+Candida guilliermondii is the teleomorph of Pichiaguilliermondii NRRL Y-2075	3.5.5.7	Aliphatic nitrilase
 nitrile hydratase/amidase	3.5.5.7	Aliphatic nitrilase
 SCNase	3.5.5.8	thiocyanate hydrolase
-yjgF	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
-ridA	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
-enamine/imine deaminase	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+gene name	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+gene name	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
+ambiguous	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
 ST0811	3.5.99.10	2-iminobutanoate/2-iminopropanoate deaminase
-cnbZ	3.5.99.11	2-aminomuconate deaminase (2-hydroxymuconate-forming)
+gene name	3.5.99.11	2-aminomuconate deaminase (2-hydroxymuconate-forming)
 thiaminase type II	3.5.99.2	aminopyrimidine aminohydrolase
 TenA	3.5.99.2	aminopyrimidine aminohydrolase
 thiaminase II	3.5.99.2	aminopyrimidine aminohydrolase
@@ -2553,7 +2565,7 @@ amnD	3.5.99.5	2-aminomuconate deaminase
 2-AM deaminase	3.5.99.5	2-aminomuconate deaminase
 nbzE	3.5.99.5	2-aminomuconate deaminase
 AMD	3.5.99.5	2-aminomuconate deaminase
-2-amino-2-deoxy-D-glucose-6-phosphate ketol isomerase	3.5.99.6	glucosamine-6-phosphate deaminase
+2-amino-2-deoxy-D-glucose-6-phosphate ketol isomerase (deaminating)	3.5.99.6	glucosamine-6-phosphate deaminase
 glucosamine-P isomerase	3.5.99.6	glucosamine-6-phosphate deaminase
 glucosaminephosphate isomerase	3.5.99.6	glucosamine-6-phosphate deaminase
 glucosamine phosphate deaminase	3.5.99.6	glucosamine-6-phosphate deaminase
@@ -2569,9 +2581,9 @@ phoshoglucosamine isomerase	3.5.99.6	glucosamine-6-phosphate deaminase
 NagB	3.5.99.6	glucosamine-6-phosphate deaminase
 GlmD	3.5.99.6	glucosamine-6-phosphate deaminase
 glucosamine-6-phosphate deaminase	3.5.99.6	glucosamine-6-phosphate deaminase
-5.3.1.10	3.5.99.6	glucosamine-6-phosphate deaminase
-2-amino-2-deoxy-D-glucose-6-phosphate aminohydrolase	3.5.99.6	glucosamine-6-phosphate deaminase
-More	3.5.99.6	glucosamine-6-phosphate deaminase
+formerly	3.5.99.6	glucosamine-6-phosphate deaminase
+2-amino-2-deoxy-D-glucose-6-phosphate aminohydrolase(ketol-isomerizing)	3.5.99.6	glucosamine-6-phosphate deaminase
+formerly EC 5.3.1.10	3.5.99.6	glucosamine-6-phosphate deaminase
 NAG1	3.5.99.6	glucosamine-6-phosphate deaminase
 gnd	3.5.99.6	glucosamine-6-phosphate deaminase
 SMU.636 protein	3.5.99.6	glucosamine-6-phosphate deaminase
@@ -2579,22 +2591,22 @@ GNPDA	3.5.99.6	glucosamine-6-phosphate deaminase
 glucosamine-6P deaminase	3.5.99.6	glucosamine-6-phosphate deaminase
 GlcN6P deaminase	3.5.99.6	glucosamine-6-phosphate deaminase
 glucosamine-6-phosphate isomerase	3.5.99.6	glucosamine-6-phosphate deaminase
-1-aminocyclopropane-1-carboxylate endolyase	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
+1-aminocyclopropane-1-carboxylate endolyase (deaminating)	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
 deaminase, 1-aminocyclopropane-1-carboxylate	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
 ACPC deaminase	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
 ACD	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
-1,2,3,4,5,6,7,8,11,12,17,18,19,20,24,25,28,31,32,33,34,35,36,37,38,39	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
-AcdS	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
+ACCdeaminase	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
+gene name	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
 ACC-deaminase	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
-More	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
+formerly EC 4.1.99.4	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
 ACCD	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
 1-aminocyclopropane-1-carboxylic acid-deaminase	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
-EC 4.1.99.4	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
+formerly	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
 1-aminocyclopropane-1-carboxylate deaminase	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
 1-aminocyclopropane-1-carboxylic acid deaminase	3.5.99.7	1-aminocyclopropane-1-carboxylate deaminase
 NAAA	3.5.99.8	5-nitroanthranilic acid aminohydrolase
 5NAA deaminase	3.5.99.8	5-nitroanthranilic acid aminohydrolase
 5NAA aminohydrolase	3.5.99.8	5-nitroanthranilic acid aminohydrolase
-NnhA	3.5.99.9	2-nitroimidazole nitrohydrolase
+gene name	3.5.99.9	2-nitroimidazole nitrohydrolase
 2NI nitrohydrolase	3.5.99.9	2-nitroimidazole nitrohydrolase
 2NI denitrase	3.5.99.9	2-nitroimidazole nitrohydrolase

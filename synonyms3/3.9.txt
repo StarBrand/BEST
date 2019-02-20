@@ -19,6 +19,6 @@ PHPT1	3.9.1.3	phosphohistidine phosphatase
 PHP14	3.9.1.3	phosphohistidine phosphatase
 protein-histidine phosphatase	3.9.1.3	phosphohistidine phosphatase
 phosphopolyhistidine phosphatase	3.9.1.3	phosphohistidine phosphatase
-PP1	3.9.1.3	phosphohistidine phosphatase
-PP2A	3.9.1.3	phosphohistidine phosphatase
+isoform	3.9.1.3	phosphohistidine phosphatase
+isoform	3.9.1.3	phosphohistidine phosphatase
 phosphohistidine phosphatase	3.9.1.3	phosphohistidine phosphatase

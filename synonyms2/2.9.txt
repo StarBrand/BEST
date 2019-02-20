@@ -5,12 +5,12 @@ CysteinyltRNASel-selenium transferase	2.9.1.1	L-seryl-tRNASec selenium transfera
 Cysteinyl-tRNASec-selenium transferase	2.9.1.1	L-seryl-tRNASec selenium transferase
 Synthase, selenocysteinyl-transfer ribonucleate	2.9.1.1	L-seryl-tRNASec selenium transferase
 Selenocysteine-tRNA synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
-Synthase, selenocysteine	2.9.1.1	L-seryl-tRNASec selenium transferase
+Synthase, selenocysteine (Moorella thermoacetica clone pCTA100/pCTAB1gene selA)	2.9.1.1	L-seryl-tRNASec selenium transferase
 GenBank Y14814-derived protein GI 2440135	2.9.1.1	L-seryl-tRNASec selenium transferase
-Selenocysteine synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
-Cysteinyl-tRNA	2.9.1.1	L-seryl-tRNASec selenium transferase
-Selenocysteinyl-tRNA	2.9.1.1	L-seryl-tRNASec selenium transferase
-More	2.9.1.1	L-seryl-tRNASec selenium transferase
+Selenocysteine synthase (Moorella thermoacetica strain DSM521 clonepCTA 100/pCTAB1 gene selA)	2.9.1.1	L-seryl-tRNASec selenium transferase
+Cysteinyl-tRNA(Sec) selenium transferase	2.9.1.1	L-seryl-tRNASec selenium transferase
+Selenocysteinyl-tRNA(Sec) synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
+SecS is a member of the fold type I family ofPLP-dependent enzymes with distinct structural elements	2.9.1.1	L-seryl-tRNASec selenium transferase
 Selenocysteine synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
 Sec synthase	2.9.1.1	L-seryl-tRNASec selenium transferase
 SecS	2.9.1.1	L-seryl-tRNASec selenium transferase

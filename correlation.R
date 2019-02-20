@@ -11,7 +11,7 @@ mergeTables <- function(attr){
   m <- list()
   m <- list.apply(x, function(i){
     list.append(m, list.apply(i, function(j){
-      attr[[j]][, c("Ref", nat[j])]
+      attr[[j]][, c("Ref", nat[j], "Mutant")]
     }))
   })
   m
@@ -27,6 +27,15 @@ doMerge <- function(mergeTable){
     m <- list.append(m, temp)
   }
   m
+}
+
+# Delete the Mutant columns
+deleteMutantColumn <- function(listTable){
+  listOut <- list.apply(listTable, function(table){
+    table$Mutant <- NULL
+    table
+  })
+  listOut
 }
 
 # Do the correlation to every table

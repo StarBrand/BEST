@@ -3,8 +3,8 @@ DDT-ase	4.5.1.1	DDT-dehydrochlorinase
 dehydrochlorinase	4.5.1.1	DDT-dehydrochlorinase
 DDT-dehydrohalogenase	4.5.1.1	DDT-dehydrochlorinase
 DDT dehydrochlorinase	4.5.1.1	DDT-dehydrochlorinase
-GSTE2-2	4.5.1.1	DDT-dehydrochlorinase
-GSTE5-5	4.5.1.1	DDT-dehydrochlorinase
+isoform	4.5.1.1	DDT-dehydrochlorinase
+isoform	4.5.1.1	DDT-dehydrochlorinase
 DDTase	4.5.1.1	DDT-dehydrochlorinase
 beta-chloro-D-alanine dehydrochlorinase	4.5.1.2	3-chloro-D-alanine dehydrochlorinase
 3-chloro-D-alanine chloride-lyase	4.5.1.2	3-chloro-D-alanine dehydrochlorinase

@@ -49,6 +49,7 @@ shinyServer(function(input, output, session) {
   # Parameter Table
   parameterTable <- reactiveVal(NULL)
   # Summary Table
+  infoTable <- reactiveVal(NULL)
   summaryTable <- reactiveVal(NULL)
   # Subclass Table
   subclassTable <- reactiveVal(NULL)
@@ -64,6 +65,8 @@ shinyServer(function(input, output, session) {
   groupMerging <- reactiveVal(list(NULL))
   
   # Plots
+  # Image enzyme tab
+  imageWordCloud <- reactiveVal(NULL)
   # Phylogeny
   treePlot <- reactiveVal(NULL)
   # Histogram
@@ -128,7 +131,6 @@ shinyServer(function(input, output, session) {
   
   # Enable user
   observeEvent(input$logOut, {
-    isThereUser(FALSE)
     proteinSearch(FALSE)
     addEcNumber(FALSE)
     pdbSearch(FALSE)
@@ -140,12 +142,15 @@ shinyServer(function(input, output, session) {
     shinyjs::hide("logOut")
     shinyjs::hide("pick")
     shinyjs::hide("enzymeNameFinal")
-    updateTextInput(session, "mail", value = "")
+    if(isThereUser()){
+      updateTextInput(session, "mail", value = "")
+      isThereUser(FALSE)}
     updateTextInput(session, "pass", value = "")
     proteinTable(NULL)
     fastaTable(NULL)
     pdbTable(NULL)
     parameterTable(NULL)
+    infoTable(NULL)
     summaryTable(NULL)
     attrTable(list(NULL))
     fproteinTable(NULL)
@@ -198,20 +203,24 @@ shinyServer(function(input, output, session) {
   ecNumbers <- reactiveVal(list(NULL))
   
   # Update selector
-  observeEvent(input$enterSubclass, {
+  observeEvent(input$subclass, {
     file <- paste("synonyms", input$subclass, "\\subclasses.txt.txt", sep = "")
     table <- read.table(file,
                         sep = "\t",
                         header = TRUE)
     subclass <- as.list(table$EC)
     subclass <- setNames(subclass, table$subclass)
-    shinyjs::hide("enterSubclass")
-    shinyjs::show("subsubclass")
-    shinyjs::show("enterSubsubclass")
     updateSelectInput(session, "subsubclass",
                       choices = subclass)
   })
-  observeEvent(input$enterSubsubclass, {
+  observeEvent(input$enterSubclass, {
+    shinyjs::disable("enterSubclass")
+    shinyjs::hide("enterSubclass")
+    shinyjs::show("subsubclass")
+    shinyjs::show("enterSubsubclass")
+    shinyjs::enable("enterSubclass")
+  })
+  observeEvent(input$subsubclass, {
     if(input$subsubclass != ""){
       file <- paste("synonyms", input$subclass, "\\", input$subsubclass , ".txt", sep = "")
       table <- read.table(file, sep = "\t", header = TRUE, fill = TRUE)
@@ -219,14 +228,17 @@ shinyServer(function(input, output, session) {
       table <- aggregate(table[,c("value")], by=list(table$synonyms), paste, collapse="\t")
       choices <- as.list(table$x)
       choices <- setNames(choices, table$Group.1)
-      shinyjs::hide("enterSubsubclass")
-      shinyjs::show("enzyme_name")
-      shinyjs::show("enzymeName")
       updateSelectizeInput(session, "enzyme_name",
                            choices = choices)
     }
   })
-  
+  observeEvent(input$enterSubsubclass, {
+    shinyjs::disable("enterSubsubclass")
+    shinyjs::hide("enterSubsubclass")
+    shinyjs::show("enzyme_name")
+    shinyjs::show("enzymeName")
+    shinyjs::enable("enterSubsubclass")
+  })
   
   # Search
   observeEvent(input$enzymeName, {
@@ -241,6 +253,19 @@ shinyServer(function(input, output, session) {
     shinyjs::show("enzymeNameFinal")
     shinyjs::hide("enzymeName")
   })
+  
+  # WordCloud on enzyme tab
+  observeEvent(input$ec_number1, {
+    imageWordCloud(imageEnzymeTab(input$ec_number1))
+  })
+  
+  observeEvent(input$subclass, {
+    imageWordCloud(imageEnzymeTab(input$subclass))
+  })
+  
+  output$subclass <- renderImage({
+    imageWordCloud()
+  }, deleteFile = FALSE)
   
   # Generate Protein Table
   generateProteinTable <- function(){
@@ -328,7 +353,7 @@ shinyServer(function(input, output, session) {
       div(style="text-align:center",
       h3("Welcome!!"),
       h4("Enter the type of enzyme(s) you want to work with"),
-      p(icon("hand-point-left"), "From now on, we recommend to hide the dashboard menu to have a better visualization"))
+      p(icon("hand-point-left"), "From now on, we recommend hiding the dashboard menu to have a better visualization"))
     }
   })
   
@@ -338,7 +363,7 @@ shinyServer(function(input, output, session) {
     table$Ref <- NULL
     if(!input$showComments1){table$Commentary <- NULL}
     if(!input$showLiterature1){table$Literature.PubmedID. <- NULL}
-    DT::datatable(table, options = list(scrollX = TRUE, lengthMenu = c(5, 10, 50, 100), pageLength = 5))
+    DT::datatable(table, options = list(scrollX = TRUE, heigth = '20vh', lengthMenu = c(5, 10, 50, 100), pageLength = 5))
   })
   
   # Download Protein Table
@@ -413,7 +438,7 @@ shinyServer(function(input, output, session) {
     filename <- 'sequences.txt',
     content <- function(name){
       if(fastaSearch()){
-        table <- processFasta(folder(), input$no_filter)
+        table <- processFasta(folder(), input$no_filter, input$fastaTable_rows_selected)
       } else{
         table <- NULL
       }
@@ -506,6 +531,17 @@ shinyServer(function(input, output, session) {
     fattrTable(ftaf)
     attributeFound(af)
   }
+  eraseParam <- function(n, ...){
+    af <- attributeFound()
+    taf <- attrTable()
+    ftaf <- fattrTable()
+    af[n] <- FALSE
+    taf[[n]] <- NULL
+    ftaf[[n]] <- NULL
+    attributeFound(af)
+    attrTable(taf)
+    fattrTable(ftaf)
+  }
   
   # Add to output Table
   addTable <- function(n, ...){
@@ -528,7 +564,7 @@ shinyServer(function(input, output, session) {
                       value = c(a, b), min = a,
                       max = b, step = s)
   }
-  # Not fount
+  # Not found
   update_filter_notFound <- function(filterId, name){
     label <- paste(name, "not found")
     updateSliderInput(session, filterId, label = label,
@@ -571,7 +607,7 @@ shinyServer(function(input, output, session) {
       proteinTable(table)
       for(i in 1:12){
         incProgress(0.2/12, detail = "Showing results...")
-        do_function(i, do_nothing, importParamTable, do_nothing, input$attributes, attributeFound(), mol = molList[i])
+        do_function(i, eraseParam, importParamTable, eraseParam, input$attributes, attributeFound(), mol = molList[i])
         table <- do_function(i, addTable, addNoTable, addNoTable, input$attributes, attributeFound(), table = table, with_mol = bool_mol[i])
       }
       table <- as.data.frame(sapply(table,gsub,pattern="-999.0",replacement="Additional Information"))
@@ -744,6 +780,20 @@ shinyServer(function(input, output, session) {
   })
   
   # Generate Summary
+  infoSummary <- function(n, ...){
+    op <- list(...)
+    y <- sum(op$table[,nat[n]])
+    y
+  }
+  
+  notfoundInfoSummary <- function(n, ...){
+    "Not found"
+  }
+  
+  notSelectInfoSummary <- function(n, ...){
+    "No searched"
+  }
+  
   observeEvent(input$generateSummary, {
     if(!proteinSearch()){
       noSearch("Information")
@@ -787,9 +837,29 @@ shinyServer(function(input, output, session) {
         table[is.na(table)] <- 0
         table$Found_info <- table$Found_info + table$PDB
       }
+      infotable <- data.frame(Information = c(), n = c())
+      infotable[1, "Information"] <- "Enzymes"
+      infotable[1, "n"] <- paste(unique(table$EC_Number), sep = "; ", collapse = "; ")
+      infotable[2, "Information"] <- "Organism"
+      infotable[2, "n"] <- length(unique(table$Organism))
+      infotable[3, "Information"] <- "Functional Parameters"
+      total <- c()
+      for(n in 1:12){
+        infotable[n + 3, "Information"] <- paste("==>", nat[n])
+        infotable[n + 3, "n"] <- do_function(n, infoSummary, notfoundInfoSummary, notSelectInfoSummary, input$attributes, attributeFound(), table = table)
+        total <- c(total, as.double(infotable[n + 3, "n"]))
+      }
+      infotable[3, "n"] <- sum(na.omit(total))
+      infotable[16, "Information"] <- "FASTA"
+      if(fastaSearch()){infotable[16, "n"] <- sum(table$Sequence_FASTA)}
+      else{infotable[16, "n"] <- "No searched"}
+      infotable[17, "Information"] <- "PDB"
+      if(pdbSearch()){infotable[17, "n"] <- sum(table$PDB)}
+      else{infotable[17, "n"] <- "No searched"}
       table$EC_Number <- NULL
       table$Ref <- NULL
       summaryTable(table)
+      infoTable(infotable)
     }
   })
   
@@ -800,6 +870,10 @@ shinyServer(function(input, output, session) {
                                  lengthMenu = c(5, 10, 50, 100),
                                  pageLength = 5))
   })
+  
+  output$informationTable <- renderTable({
+    infoTable()
+  },rownames = FALSE, colnames = FALSE)
   
   # Count Attributes
   countAttr <- function(n, ...){
@@ -873,7 +947,13 @@ shinyServer(function(input, output, session) {
   # Correlation
   correlationTable <- function(n, ...){
     tb <- getValue(fattrTable()[[n]], nat[n])
-    tb <- tb[,c("Ref", nat[n])]
+    tb <- tb[,c("Ref", nat[n], "Commentary")]
+    tb$Mutant <- unlist(lapply(tb$Commentary, function(x){
+      if(grepl("mutant", x)){m <- TRUE}
+      else{m <- FALSE}
+      m
+    }))
+    tb$Commentary <- NULL
     tb
   }
   
@@ -891,6 +971,7 @@ shinyServer(function(input, output, session) {
       incProgress(0.25, detail = "Merging tables")
       tableMerging <- doMerge(tableMerging)
       groupMerging(tableMerging)
+      tableMerging <- deleteMutantColumn(tableMerging)
       incProgress(0.25, detail = "Doing the correlation")
       m <- correlation(tableMerging, "pearson")
       incProgress(0.125, detail = "Binding matrices")

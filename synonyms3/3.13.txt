@@ -1,8 +1,8 @@
 synonyms	ec_number	recommended_name
 synthase, uridine diphosphosulfoquinovose	3.13.1.1	UDP-sulfoquinovose synthase
-SQD1	3.13.1.1	UDP-sulfoquinovose synthase
-Saci_0423	3.13.1.1	UDP-sulfoquinovose synthase
-SqdB	3.13.1.1	UDP-sulfoquinovose synthase
+gene name	3.13.1.1	UDP-sulfoquinovose synthase
+gene name	3.13.1.1	UDP-sulfoquinovose synthase
+gene name	3.13.1.1	UDP-sulfoquinovose synthase
 UDP-sulfoquinovose synthase	3.13.1.1	UDP-sulfoquinovose synthase
 sulfite:UDP-glucose sulfotransferase	3.13.1.1	UDP-sulfoquinovose synthase
 UDPsulfoquinovose synthase	3.13.1.1	UDP-sulfoquinovose synthase
@@ -12,15 +12,15 @@ Desulfinase	3.13.1.1	UDP-sulfoquinovose synthase
 DszB	3.13.1.1	UDP-sulfoquinovose synthase
 Agl3	3.13.1.1	UDP-sulfoquinovose synthase
 gene dszB-encoded hydrolase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
-hydrolase, 2,	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
-2-	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
-2-	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+hydrolase, 2,(2'-hydroxyphenyl)benzene sulfinate	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+2-(2'-hydroxyphenyl)benzene sulfinate hydrolase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+2-(2-hydroxyphenyl)benzenesulfinate:H2O hydrolase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
 DszB	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
 Desulfinase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
 2'-hydroxybiphenyl-2-sulfinate desulfinase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
-2-	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+2-(2'-hydroxyphenyl)benzenesulfinate desulfinase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
 2'-hydroxybiphenyl-2-sulfinic acid desulfinase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
-2-	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+2-(2'-hydroxyphenyl)benzene sulfinate desulfinase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
 TdsB	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
 3-sulfinopropionyl-CoA desulfinase	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
 AcdN-1	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
