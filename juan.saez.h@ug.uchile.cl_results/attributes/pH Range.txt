@@ -1,0 +1,33 @@
+Commentary	Ref	Literature(PubmedID)	value
+	167	19127444	5.0 - 6.2
+	168	19127444	5.0 - 6.2
+	169	19127444	5.0 - 6.2
+	170	19127444	5.0 - 6.2
+	171	19127444	5.0 - 6.2
+pH 4.0: about 40% of maximal activity, pH 7.0: about 45% of maximal activity	647	17345128	4.0 - 7.0
+85% of maximal activity at both pH 4.0 and 6.0	979	12086179	4.0 - 6.0
+85% of maximal activity at both pH 4.0 and 6.0	980	12086179	4.0 - 6.0
+pH 5: about 30% of maximal activity, pH 7.0: about 50% of maximal activity, crude inulinase	1097	17111131	5.0 - 7.0
+pH 5.0: about 30% of maximal activity, pH 7.0: about 55% of maximal activity	1097	17345128	5.0 - 7.0
+pH 5: about 30% of maximal activity, pH 7.0: about 50% of maximal activity, crude inulinase	1098	17111131	5.0 - 7.0
+pH 5.0: about 30% of maximal activity, pH 7.0: about 55% of maximal activity	1098	17345128	5.0 - 7.0
+pH 5: about 30% of maximal activity, pH 7.0: about 50% of maximal activity, crude inulinase	1099	17111131	5.0 - 7.0
+pH 5.0: about 30% of maximal activity, pH 7.0: about 55% of maximal activity	1099	17345128	5.0 - 7.0
+above and below rapid decrease of enzyme activity	1253	18456943	4.0 - 6.5
+pH 4.0: about 20% of maximal activity, pH 7.0: about 45% of maximal activity	1253	17345128	4.0 - 7.0
+above and below rapid decrease of enzyme activity	1254	18456943	4.0 - 6.5
+pH 4.0: about 20% of maximal activity, pH 7.0: about 45% of maximal activity	1254	17345128	4.0 - 7.0
+above and below rapid decrease of enzyme activity	1255	18456943	4.0 - 6.5
+pH 4.0: about 20% of maximal activity, pH 7.0: about 45% of maximal activity	1255	17345128	4.0 - 7.0
+little fructanase activity at or above pH 7.0	1658	3308844	3.5 - 7.0
+little fructanase activity at or above pH 7.0	1659	3308844	3.5 - 7.0
+little fructanase activity at or above pH 7.0	1660	3308844	3.5 - 7.0
+little fructanase activity at or above pH 7.0	1661	3308844	3.5 - 7.0
+little fructanase activity at or above pH 7.0	1662	3308844	3.5 - 7.0
+little fructanase activity at or above pH 7.0	1663	3308844	3.5 - 7.0
+little fructanase activity at or above pH 7.0	1664	3308844	3.5 - 7.0
+	1680	3965399	4.5 - 8.0
+	1681	3965399	4.5 - 8.0
+	1682	3965399	4.5 - 8.0
+	1683	3965399	4.5 - 8.0
+	1684	3965399	4.5 - 8.0

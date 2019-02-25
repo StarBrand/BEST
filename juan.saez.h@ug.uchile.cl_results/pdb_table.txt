@@ -1,0 +1,15 @@
+EC_Number	Organism	PDB	link
+3.2.1.80	Aspergillus	1y4w	https://www.rcsb.org/structure/1y4w
+3.2.1.80	Aspergillus	1y9g	https://www.rcsb.org/structure/1y9g
+3.2.1.80	Aspergillus	1y9m	https://www.rcsb.org/structure/1y9m
+3.2.1.80	Aspergillus awamori	1y4w	https://www.rcsb.org/structure/1y4w
+3.2.1.80	Aspergillus awamori	1y9g	https://www.rcsb.org/structure/1y9g
+3.2.1.80	Aspergillus awamori	1y9m	https://www.rcsb.org/structure/1y9m
+3.2.1.80	Bacillus	4azz	https://www.rcsb.org/structure/4azz
+3.2.1.80	Bacillus	4b1l	https://www.rcsb.org/structure/4b1l
+3.2.1.80	Bacillus	4b1m	https://www.rcsb.org/structure/4b1m
+3.2.1.80	Bacillus subtilis	4azz	https://www.rcsb.org/structure/4azz
+3.2.1.80	Bacillus subtilis	4b1l	https://www.rcsb.org/structure/4b1l
+3.2.1.80	Bacillus subtilis	4b1m	https://www.rcsb.org/structure/4b1m
+3.2.1.80	Cichorium	1st8	https://www.rcsb.org/structure/1st8
+3.2.1.80	Cichorium intybus	1st8	https://www.rcsb.org/structure/1st8

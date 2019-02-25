@@ -1,4 +1,5 @@
 library(shinyalert)
+library(shinyjs)
 source("variables.R")
 
 # Standard readtable
@@ -41,6 +42,11 @@ noTable <- function(n, ...){
   attributes(tb)$names[2] <- nat[n]
   tb
 }
+# Same list in and out
+addNoList <- function(n, ...){
+  op <- list(...)
+  out <- op$listA
+}
 
 # Errors
 noSession <- function(){
@@ -68,6 +74,24 @@ wrongPassword <- function(){
 noAccount <- function(){
   shinyalert("This is not a Brenda Account",
              "Type it again or register an account on the Brenda page",
+             type = "error")
+}
+kmeansError <- function(s){
+  n <- 2 - s
+  m <- abs(3 - s)
+  if(n < 0){con2 <- "deselect"
+  } else {con2 <- "select"}
+  if(m == 1){con3 <- "parameter"
+  } else {con3 <- "parameters"}
+  shinyalert("Wrong number of parameter selected",
+             paste("The visualization takes each parameter as a dimension, therefore, you need to",
+                   con2, abs(n), "(for a two dimensional clustering) or ",
+                   m, con3, "(for a three dimensional one)"),
+             type = "error")
+}
+noParameters <- function(art, what){
+  shinyalert(paste(what, "of what?"),
+             paste("To do", art, what, "a functional parameter query must be done"),
              type = "error")
 }
 
@@ -134,12 +158,12 @@ numericalValue <- function(param){
   p <- with(param, param[value != "-999.0",])
   p <- with(p, p[value != "-999",])
   p$min <- lapply(p$value, function(i){
-    str_split(i, "-")[[1]][1]})
+    str_split(i, " - ")[[1]][1]})
   p$min <- as.double(p$min)
   p$max <- lapply(p$value, function(i){
-    str_split(i, "-")[[1]][2]})
-  p_s <- with(p, p[!grepl("-", value),])
-  p_r <- with(p, p[grepl("-", value),])
+    str_split(i, " - ")[[1]][2]})
+  p_s <- with(p, p[!grepl(" - ", value),])
+  p_r <- with(p, p[grepl(" - ", value),])
   p_r$max <- as.double(p_r$max)
   p <- rbind(p_s, p_r)
 }
@@ -147,8 +171,8 @@ numericalValue <- function(param){
 # Get usable values
 getValue <- function(param, name){
   p <- numericalValue(param)
-  p_s <- with(p, p[!grepl("-", value),])
-  p_r <- with(p, p[grepl("-", value),])
+  p_s <- with(p, p[!grepl(" - ", value),])
+  p_r <- with(p, p[grepl(" - ", value),])
   p_s$min <- as.double(p_s$min)
   p_r$min <- as.double(p_r$min)
   p_r$max <- as.double(p_r$max)
@@ -168,6 +192,38 @@ min_max <- function(param){
   a <- c(min(use, na.rm = TRUE), max(use, na.rm = TRUE))
 }
 
+# Update filter
+update_filter <- function(session, table, filterId, name, tag){
+  label <- paste(name, " filter")
+  table <- numericalValue(table)
+  r <- min_max(table)
+  a <- as.double(r[1])
+  b <- as.double(r[2])
+  s <- (b - a)/40
+  updateSliderInput(session, filterId, label,
+                    value = c(a, b), min = a,
+                    max = b, step = s)
+  
+  shinyjs::show(filterId)
+  shinyjs::show(paste(tag, "2", sep = ""))
+}
+# Not found
+update_filter_notFound <- function(session, filterId, name){
+  label <- paste(name, "not found")
+  updateSliderInput(session, filterId, label = label,
+                    min = NA, max = NA)
+  shinyjs::show(filterId)
+}
+
+updateKmeans <- function(n, ...){
+  op <- list(...)
+  new <- list(n)
+  new <- setNames(new, nat[n])
+  if(length(op$listA) == 0){out <- new}
+  else{out <- list.merge(op$listA, new)}
+  out
+}
+
 extractNotFound <- function(n, ...){
   op <- list(...)
   table <- op$table
@@ -180,8 +236,8 @@ extractNotFound <- function(n, ...){
 filterParam <- function(table, f1, f2, mol){
   param <- table
   p <- numericalValue(param)
-  p_s <- with(p, p[!grepl("-", value),])
-  p_r <- with(p, p[grepl("-", value),])
+  p_s <- with(p, p[!grepl(" - ", value),])
+  p_r <- with(p, p[grepl(" - ", value),])
   # Filter range
   fmin <- as.double(f1)
   fmax <- as.double(f2)
@@ -193,3 +249,30 @@ filterParam <- function(table, f1, f2, mol){
   p$max <- NULL
   p
 }
+
+# Label data
+labeling <- function(data, table){
+  Ref <- unique(data$Ref)
+  Recommended_name <- sapply(Ref, function(x){with(table, table[Ref == x, "Recommended_name"])})
+  Organism <- sapply(Ref, function(x){with(table, table[Ref == x, "Organism"])})
+  label <- data.frame(Ref, Recommended_name, Organism)
+  out <- merge(data, label, x.all = TRUE)
+  out$Ref <- NULL
+  out
+}
+
+# Show expceted time
+showTime <- function(time){
+  show <- ""
+  if(time < 0) time <- 0
+  if(time < 200) show <- paste(time%/%1 + 1, "sec", sep = " ")
+  else{t <- time%/%60 + 1
+  if(t < 200) show <- paste(t%/%1 + 1, "min", sep = " ")
+  else show <- paste(t%/%60 + 1, "hours", sep = " ")}
+  show
+}
+
+timeProtein <- function(n){linealprotein[1] + linealprotein[2]*n}
+timePDB <- function(n){linealpdb[1] + linealpdb[2]*n}
+timeParameters <- function(n){linealparameters[1] + linealparameters[2]*n}
+timeFasta <- function(n){fastatime*n}

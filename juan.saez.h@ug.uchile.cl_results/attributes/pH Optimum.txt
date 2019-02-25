@@ -1,0 +1,161 @@
+Commentary	Ref	Literature(PubmedID)	value
+at 55&Acirc;&ordm;C, enzyme retains only 90% of its activity	76	12974403	4.5
+	122	21463533	5.8
+	167	19127444	5.4
+	168	19127444	5.4
+	169	19127444	5.4
+	170	19127444	5.4
+	171	19127444	5.4
+	179	15126701	5.5
+	180	15126701	5.5
+	181	15126701	5.5
+	182	15126701	5.5
+at 55&Acirc;&ordm;C	197	15135402	4.5
+at 55&Acirc;&ordm;C	198	15135402	4.5
+at 55&Acirc;&ordm;C	199	15135402	4.5
+at 55&Acirc;&ordm;C	200	15135402	4.5
+at 55&Acirc;&ordm;C	201	15135402	4.5
+at 55&Acirc;&ordm;C	202	15135402	4.5
+neokestin	238	8742337	4.5 - 5.5
+neokestin	239	8742337	4.5 - 5.5
+at pH 8.0, 58% of maximal activity	287	11837654	6.5 - 7.0
+at pH 8.0, 58% of maximal activity	288	11837654	6.5 - 7.0
+at pH 8.0, 58% of maximal activity	289	11837654	6.5 - 7.0
+inulin	538	0	5.0 - 5.5
+inulin	539	0	5.0 - 5.5
+inulin	540	0	5.0 - 5.5
+inulin	541	0	5.0 - 5.5
+inulin	542	0	5.0 - 5.5
+inulin	543	0	5.0 - 5.5
+inulin	544	0	5.0 - 5.5
+inulin	545	0	5.0 - 5.5
+inulin	546	0	5.0 - 5.5
+inulin	547	0	5.0 - 5.5
+inulin	548	0	5.0 - 5.5
+	647	17345128	5.0
+for Agave tequilana fructan as substrate, the enzymatic activity is constant from pH 4.0 to 6.5	934	21067917	4.0 - 6.5
+using levan as substrate	934	21067917	4.5 - 5.0
+using inulin, Actilight and sucrose as substrates	934	21067917	5.0
+	934	18051293	5.5
+for Agave tequilana fructan as substrate, the enzymatic activity is constant from pH 4.0 to 6.5	935	21067917	4.0 - 6.5
+using levan as substrate	935	21067917	4.5 - 5.0
+using inulin, Actilight and sucrose as substrates	935	21067917	5.0
+	935	18051293	5.5
+for Agave tequilana fructan as substrate, the enzymatic activity is constant from pH 4.0 to 6.5	936	21067917	4.0 - 6.5
+using levan as substrate	936	21067917	4.5 - 5.0
+using inulin, Actilight and sucrose as substrates	936	21067917	5.0
+	936	18051293	5.5
+for Agave tequilana fructan as substrate, the enzymatic activity is constant from pH 4.0 to 6.5	937	21067917	4.0 - 6.5
+using levan as substrate	937	21067917	4.5 - 5.0
+using inulin, Actilight and sucrose as substrates	937	21067917	5.0
+	937	18051293	5.5
+for Agave tequilana fructan as substrate, the enzymatic activity is constant from pH 4.0 to 6.5	938	21067917	4.0 - 6.5
+using levan as substrate	938	21067917	4.5 - 5.0
+using inulin, Actilight and sucrose as substrates	938	21067917	5.0
+	938	18051293	5.5
+for Agave tequilana fructan as substrate, the enzymatic activity is constant from pH 4.0 to 6.5	939	21067917	4.0 - 6.5
+using levan as substrate	939	21067917	4.5 - 5.0
+using inulin, Actilight and sucrose as substrates	939	21067917	5.0
+	939	18051293	5.5
+	979	12086179	5.5
+	980	12086179	5.5
+	1033	17456505	5.5
+	1034	17456505	5.5
+	1035	17456505	5.5
+	1036	17456505	5.5
+	1037	17456505	5.5
+	1038	17456505	5.5
+	1039	17456505	5.5
+crude inulinase	1097	17111131	6.0
+	1097	17345128	6.0
+crude inulinase	1098	17111131	6.0
+	1098	17345128	6.0
+crude inulinase	1099	17111131	6.0
+	1099	17345128	6.0
+	1253	17345128	5.0
+	1253	18456943	5.0
+	1254	17345128	5.0
+	1254	18456943	5.0
+	1255	17345128	5.0
+	1255	18456943	5.0
+	1293	18065000	4.0 - 5.5
+at 40&Acirc;&ordm;C	1305	12400688	4.0
+substrate: inulin or sucrose, recombinant enzyme InuE	1305	17502268	4.0
+substrate: inulin and sucrose, InuE:D' hybrid	1305	17502268	4.5
+at 40&Acirc;&ordm;C	1306	12400688	4.0
+substrate: inulin or sucrose, recombinant enzyme InuE	1306	17502268	4.0
+substrate: inulin and sucrose, InuE:D' hybrid	1306	17502268	4.5
+at 40&Acirc;&ordm;C	1307	12400688	4.0
+substrate: inulin or sucrose, recombinant enzyme InuE	1307	17502268	4.0
+substrate: inulin and sucrose, InuE:D' hybrid	1307	17502268	4.5
+at 40&Acirc;&ordm;C	1308	12400688	4.0
+substrate: inulin or sucrose, recombinant enzyme InuE	1308	17502268	4.0
+substrate: inulin and sucrose, InuE:D' hybrid	1308	17502268	4.5
+at 40&Acirc;&ordm;C	1309	12400688	4.0
+substrate: inulin or sucrose, recombinant enzyme InuE	1309	17502268	4.0
+substrate: inulin and sucrose, InuE:D' hybrid	1309	17502268	4.5
+at 40&Acirc;&ordm;C	1310	12400688	4.0
+substrate: inulin or sucrose, recombinant enzyme InuE	1310	17502268	4.0
+substrate: inulin and sucrose, InuE:D' hybrid	1310	17502268	4.5
+	1333	21317211	5.5
+	1334	21317211	5.5
+	1335	21317211	5.5
+	1336	21317211	5.5
+	1337	21317211	5.5
+sucrose	1658	3308844	4.5
+sucrose	1658	1522814	5.0
+fructan polymers	1658	3308844	5.5
+levan	1658	1522814	5.5
+linulin	1658	1522814	6.0
+sucrose	1659	3308844	4.5
+sucrose	1659	1522814	5.0
+fructan polymers	1659	3308844	5.5
+levan	1659	1522814	5.5
+linulin	1659	1522814	6.0
+sucrose	1660	3308844	4.5
+sucrose	1660	1522814	5.0
+fructan polymers	1660	3308844	5.5
+levan	1660	1522814	5.5
+linulin	1660	1522814	6.0
+sucrose	1661	3308844	4.5
+sucrose	1661	1522814	5.0
+fructan polymers	1661	3308844	5.5
+levan	1661	1522814	5.5
+linulin	1661	1522814	6.0
+sucrose	1662	3308844	4.5
+sucrose	1662	1522814	5.0
+fructan polymers	1662	3308844	5.5
+levan	1662	1522814	5.5
+linulin	1662	1522814	6.0
+sucrose	1663	3308844	4.5
+sucrose	1663	1522814	5.0
+fructan polymers	1663	3308844	5.5
+levan	1663	1522814	5.5
+linulin	1663	1522814	6.0
+sucrose	1664	3308844	4.5
+sucrose	1664	1522814	5.0
+fructan polymers	1664	3308844	5.5
+levan	1664	1522814	5.5
+linulin	1664	1522814	6.0
+	1680	3965399	7.0
+	1681	3965399	7.0
+	1682	3965399	7.0
+	1683	3965399	7.0
+	1684	3965399	7.0
+	1817	24128552	5.5
+	1818	24128552	5.5
+	1819	24128552	5.5
+	1820	24128552	5.5
+	1821	24128552	5.5
+both isoforms w1 and w2	1878	12586886	4.5 - 5.5
+both isoforms w1 and w2	1879	12586886	4.5 - 5.5
+both isoforms w1 and w2	1880	12586886	4.5 - 5.5
+both isoforms w1 and w2	1881	12586886	4.5 - 5.5
+both isoforms w1 and w2	1882	12586886	4.5 - 5.5
+both isoforms w1 and w2	1883	12586886	4.5 - 5.5
+both isoforms w1 and w2	1884	12586886	4.5 - 5.5
+both isoforms w1 and w2	1885	12586886	4.5 - 5.5
+both isoforms w1 and w2	1886	12586886	4.5 - 5.5
+both isoforms w1 and w2	1887	12586886	4.5 - 5.5
+broad	1996	6468391	6.0 - 9.0
+broad	1997	6468391	6.0 - 9.0

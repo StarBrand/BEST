@@ -1,0 +1,33 @@
+Commentary	Ref	Literature(PubmedID)	value
+	167	19127444	30.0 - 50.0
+	168	19127444	30.0 - 50.0
+	169	19127444	30.0 - 50.0
+	170	19127444	30.0 - 50.0
+	171	19127444	30.0 - 50.0
+40°C: about 55% of maximal activity, 65°C: about 65% of maximal activity	647	17345128	40.0 - 65.0
+65% of maximal activity at 15°C, 70% of maximal activity at 35°C	979	12086179	15.0 - 35.0
+65% of maximal activity at 15°C, 70% of maximal activity at 35°C	980	12086179	15.0 - 35.0
+40°C: about 70% of maximal activity 70°C: about 70% of maximal activity, crude inulinase	1097	17111131	40.0 - 70.0
+40°C: about 70% of maximal activity, 70°C: about 70% of maximal activity	1097	17345128	40.0 - 70.0
+40°C: about 70% of maximal activity 70°C: about 70% of maximal activity, crude inulinase	1098	17111131	40.0 - 70.0
+40°C: about 70% of maximal activity, 70°C: about 70% of maximal activity	1098	17345128	40.0 - 70.0
+40°C: about 70% of maximal activity 70°C: about 70% of maximal activity, crude inulinase	1099	17111131	40.0 - 70.0
+40°C: about 70% of maximal activity, 70°C: about 70% of maximal activity	1099	17345128	40.0 - 70.0
+	1253	18456943	35.0 - 70.0
+40°C: about 65% of maximal activity, 65°C: about 55% of maximal activity	1253	17345128	40.0 - 65.0
+	1254	18456943	35.0 - 70.0
+40°C: about 65% of maximal activity, 65°C: about 55% of maximal activity	1254	17345128	40.0 - 65.0
+	1255	18456943	35.0 - 70.0
+40°C: about 65% of maximal activity, 65°C: about 55% of maximal activity	1255	17345128	40.0 - 65.0
+	1658	1522814	40.0 - 60.0
+	1659	1522814	40.0 - 60.0
+	1660	1522814	40.0 - 60.0
+	1661	1522814	40.0 - 60.0
+	1662	1522814	40.0 - 60.0
+	1663	1522814	40.0 - 60.0
+	1664	1522814	40.0 - 60.0
+rapid inactivation at 60°C	1680	3965399	20.0 - 55.0
+rapid inactivation at 60°C	1681	3965399	20.0 - 55.0
+rapid inactivation at 60°C	1682	3965399	20.0 - 55.0
+rapid inactivation at 60°C	1683	3965399	20.0 - 55.0
+rapid inactivation at 60°C	1684	3965399	20.0 - 55.0

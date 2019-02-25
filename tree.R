@@ -3,7 +3,7 @@ library(rlist)
 library(taxize)
 library(ggtree)
 library(shiny)
-source("variables.R")
+source("functions.R")
 
 # Generate de ID code from NCBI
 getID <- function(species){
@@ -45,15 +45,15 @@ getTreePlot <- function(tree){
 
 # Do all
 getTreeSelective <- function(species){
-  incProgress(0, detail = paste("Getting NCBI ID, this takes ",
+  incProgress(0, detail = paste("Getting NCBI ID, this might takes ",
                                showTime(timeID(length(species))),
                                sep = ""))
   uids <- getID(species)
-  incProgress(0.3, detail = paste("Getting taxa from ID, this takes ",
+  incProgress(0.3, detail = paste("Getting taxa from ID, this might takes ",
                                 showTime(timeTaxa(length(uids))),
                                 sep = ""))
   taxa <- getTaxa(uids)
-  incProgress(0.4, detail = paste("Generating tree, this takes ",
+  incProgress(0.4, detail = paste("Generating tree, this might takes ",
                                 showTime(timeTree(length(taxa))),
                                 sep = ""))
   tree <- getTree(taxa)
@@ -66,11 +66,3 @@ getTreeSelective <- function(species){
 timeID <- function(n){idLineal[1] + idLineal[2]*n}
 timeTaxa <- function(n){taxaLineal[1] + taxaLineal[2]*n}
 timeTree <- function(n){treeLineal[1] + treeLineal[2]*n}
-showTime <- function(time){
-  show <- ""
-  if(time < 200) show <- paste(time%/%1 + 1, "sec", sep = " ")
-  else{t <- time%/%60 + 1
-    if(t < 200) show <- paste(t%/%1 + 1, "min", sep = " ")
-    else show <- paste(t%/%60 + 1, "hours", sep = " ")}
-  show
-}

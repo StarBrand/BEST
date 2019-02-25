@@ -1,0 +1,674 @@
+Commentary	Ref	Literature(PubmedID)	value
+assay at, forward and reverse reaction	35	12834271	25.0
+assay at, forward and reverse reaction	36	12834271	25.0
+assay at, forward and reverse reaction	37	12834271	25.0
+assay at, forward and reverse reaction	38	12834271	25.0
+assay at, forward and reverse reaction	39	12834271	25.0
+assay at, forward and reverse reaction	40	12834271	25.0
+assay at, forward and reverse reaction	41	12834271	25.0
+	81	2231596	33.0
+	82	2231596	33.0
+	83	2231596	33.0
+	84	2231596	33.0
+	85	2231596	33.0
+	86	2231596	33.0
+catalytic activity increased up to 95°C	133	16233615	95.0
+catalytic activity increased up to 95°C	134	16233615	95.0
+catalytic activity increased up to 95°C	135	16233615	95.0
+catalytic activity increased up to 95°C	136	16233615	95.0
+assay at	743	21670533	30.0
+assay at	744	21670533	30.0
+assay at	745	21670533	30.0
+	748	17435004	35.0
+	749	17435004	35.0
+	750	17435004	35.0
+	751	17435004	35.0
+	752	17435004	35.0
+above	757	0	70.0
+above	758	0	70.0
+	795	23160740	70.0
+	930	26216639	40.0
+	931	26216639	40.0
+assay at	932	26216639	30.0
+reaction with ethanol + NAD+	1095	17646983	50.0
+reaction with ethanol + NAD+	1096	17646983	50.0
+	1254	8491707	40.0
+	1255	8491707	40.0
+	1256	8491707	40.0
+	1257	8491707	40.0
+	1266	0	55.0
+assay at room temperature	1544	12058720	22.0
+assay at room temperature	1545	12058720	22.0
+assay at room temperature	1546	12058720	22.0
+assay at room temperature	1547	12058720	22.0
+assay at room temperature	1548	12058720	22.0
+assay at room temperature	1549	12058720	22.0
+assay at room temperature	1550	12058720	22.0
+assay at room temperature	1551	12058720	22.0
+assay at	1572	12604203	30.0 - 37.0
+assay at	1572	12184789	37.0
+approximately 70°C	1572	0	70.0
+assay at	1573	12604203	30.0 - 37.0
+assay at	1573	12184789	37.0
+approximately 70°C	1573	0	70.0
+assay at	1574	12604203	30.0 - 37.0
+assay at	1574	12184789	37.0
+approximately 70°C	1574	0	70.0
+assay at	1575	12604203	30.0 - 37.0
+assay at	1575	12184789	37.0
+approximately 70°C	1575	0	70.0
+assay at	1576	12604203	30.0 - 37.0
+assay at	1576	12184789	37.0
+approximately 70°C	1576	0	70.0
+assay at	1577	12604203	30.0 - 37.0
+assay at	1577	12184789	37.0
+approximately 70°C	1577	0	70.0
+assay at	1578	12604203	30.0 - 37.0
+assay at	1578	12184789	37.0
+approximately 70°C	1578	0	70.0
+assay at	1579	12604203	30.0 - 37.0
+assay at	1579	12184789	37.0
+approximately 70°C	1579	0	70.0
+assay at	1580	12604203	30.0 - 37.0
+assay at	1580	12184789	37.0
+approximately 70°C	1580	0	70.0
+	1719	17072683	70.0
+	1720	17072683	70.0
+recombinant enzyme	1775	0	70.0
+recombinant enzyme	1776	0	70.0
+recombinant enzyme	1777	0	70.0
+recombinant enzyme	1778	0	70.0
+recombinant enzyme	1779	0	70.0
+recombinant enzyme	1780	0	70.0
+recombinant enzyme	1781	0	70.0
+; 	1784	19383697	60.0
+	1908	22526808	80.0
+	1909	22526808	80.0
+	1910	22526808	80.0
+	1911	22526808	80.0
+	1912	22526808	80.0
+	1913	22526808	80.0
+assay at	1986	15369820	25.0
+assay at	1986	11964133	25.0
+assay at	1986	15096205	25.0
+assay at	1986	11997393	25.0
+assay at	1986	21784063	25.0
+assay at	1986	12604203	30.0 - 37.0
+assay at	1987	15369820	25.0
+assay at	1987	11964133	25.0
+assay at	1987	15096205	25.0
+assay at	1987	11997393	25.0
+assay at	1987	21784063	25.0
+assay at	1987	12604203	30.0 - 37.0
+assay at	1988	15369820	25.0
+assay at	1988	11964133	25.0
+assay at	1988	15096205	25.0
+assay at	1988	11997393	25.0
+assay at	1988	21784063	25.0
+assay at	1988	12604203	30.0 - 37.0
+assay at	1989	15369820	25.0
+assay at	1989	11964133	25.0
+assay at	1989	15096205	25.0
+assay at	1989	11997393	25.0
+assay at	1989	21784063	25.0
+assay at	1989	12604203	30.0 - 37.0
+assay at	1990	15369820	25.0
+assay at	1990	11964133	25.0
+assay at	1990	15096205	25.0
+assay at	1990	11997393	25.0
+assay at	1990	21784063	25.0
+assay at	1990	12604203	30.0 - 37.0
+assay at	1991	15369820	25.0
+assay at	1991	11964133	25.0
+assay at	1991	15096205	25.0
+assay at	1991	11997393	25.0
+assay at	1991	21784063	25.0
+assay at	1991	12604203	30.0 - 37.0
+assay at	1992	15369820	25.0
+assay at	1992	11964133	25.0
+assay at	1992	15096205	25.0
+assay at	1992	11997393	25.0
+assay at	1992	21784063	25.0
+assay at	1992	12604203	30.0 - 37.0
+assay at	1993	15369820	25.0
+assay at	1993	11964133	25.0
+assay at	1993	15096205	25.0
+assay at	1993	11997393	25.0
+assay at	1993	21784063	25.0
+assay at	1993	12604203	30.0 - 37.0
+assay at	1994	15369820	25.0
+assay at	1994	11964133	25.0
+assay at	1994	15096205	25.0
+assay at	1994	11997393	25.0
+assay at	1994	21784063	25.0
+assay at	1994	12604203	30.0 - 37.0
+assay at	1995	15369820	25.0
+assay at	1995	11964133	25.0
+assay at	1995	15096205	25.0
+assay at	1995	11997393	25.0
+assay at	1995	21784063	25.0
+assay at	1995	12604203	30.0 - 37.0
+assay at	1996	15369820	25.0
+assay at	1996	11964133	25.0
+assay at	1996	15096205	25.0
+assay at	1996	11997393	25.0
+assay at	1996	21784063	25.0
+assay at	1996	12604203	30.0 - 37.0
+assay at	1997	15369820	25.0
+assay at	1997	11964133	25.0
+assay at	1997	15096205	25.0
+assay at	1997	11997393	25.0
+assay at	1997	21784063	25.0
+assay at	1997	12604203	30.0 - 37.0
+assay at	1998	15369820	25.0
+assay at	1998	11964133	25.0
+assay at	1998	15096205	25.0
+assay at	1998	11997393	25.0
+assay at	1998	21784063	25.0
+assay at	1998	12604203	30.0 - 37.0
+assay at	1999	15369820	25.0
+assay at	1999	11964133	25.0
+assay at	1999	15096205	25.0
+assay at	1999	11997393	25.0
+assay at	1999	21784063	25.0
+assay at	1999	12604203	30.0 - 37.0
+assay at	2000	15369820	25.0
+assay at	2000	11964133	25.0
+assay at	2000	15096205	25.0
+assay at	2000	11997393	25.0
+assay at	2000	21784063	25.0
+assay at	2000	12604203	30.0 - 37.0
+assay at	2001	15369820	25.0
+assay at	2001	11964133	25.0
+assay at	2001	15096205	25.0
+assay at	2001	11997393	25.0
+assay at	2001	21784063	25.0
+assay at	2001	12604203	30.0 - 37.0
+assay at	2002	15369820	25.0
+assay at	2002	11964133	25.0
+assay at	2002	15096205	25.0
+assay at	2002	11997393	25.0
+assay at	2002	21784063	25.0
+assay at	2002	12604203	30.0 - 37.0
+assay at	2003	15369820	25.0
+assay at	2003	11964133	25.0
+assay at	2003	15096205	25.0
+assay at	2003	11997393	25.0
+assay at	2003	21784063	25.0
+assay at	2003	12604203	30.0 - 37.0
+assay at	2004	15369820	25.0
+assay at	2004	11964133	25.0
+assay at	2004	15096205	25.0
+assay at	2004	11997393	25.0
+assay at	2004	21784063	25.0
+assay at	2004	12604203	30.0 - 37.0
+assay at	2005	15369820	25.0
+assay at	2005	11964133	25.0
+assay at	2005	15096205	25.0
+assay at	2005	11997393	25.0
+assay at	2005	21784063	25.0
+assay at	2005	12604203	30.0 - 37.0
+assay at	2006	15369820	25.0
+assay at	2006	11964133	25.0
+assay at	2006	15096205	25.0
+assay at	2006	11997393	25.0
+assay at	2006	21784063	25.0
+assay at	2006	12604203	30.0 - 37.0
+assay at	2007	15369820	25.0
+assay at	2007	11964133	25.0
+assay at	2007	15096205	25.0
+assay at	2007	11997393	25.0
+assay at	2007	21784063	25.0
+assay at	2007	12604203	30.0 - 37.0
+assay at	2008	15369820	25.0
+assay at	2008	11964133	25.0
+assay at	2008	15096205	25.0
+assay at	2008	11997393	25.0
+assay at	2008	21784063	25.0
+assay at	2008	12604203	30.0 - 37.0
+assay at	2009	15369820	25.0
+assay at	2009	11964133	25.0
+assay at	2009	15096205	25.0
+assay at	2009	11997393	25.0
+assay at	2009	21784063	25.0
+assay at	2009	12604203	30.0 - 37.0
+assay at	2010	15369820	25.0
+assay at	2010	11964133	25.0
+assay at	2010	15096205	25.0
+assay at	2010	11997393	25.0
+assay at	2010	21784063	25.0
+assay at	2010	12604203	30.0 - 37.0
+; 	2135	24885162	45.0
+	2135	24885162	50.0
+	2135	24885162	55.0
+; 	2136	24885162	45.0
+	2136	24885162	50.0
+	2136	24885162	55.0
+; 	2137	24885162	45.0
+	2137	24885162	50.0
+	2137	24885162	55.0
+; 	2138	24885162	45.0
+	2138	24885162	50.0
+	2138	24885162	55.0
+; 	2139	24885162	45.0
+	2139	24885162	50.0
+	2139	24885162	55.0
+; 	2140	24885162	45.0
+	2140	24885162	50.0
+	2140	24885162	55.0
+; 	2141	24885162	45.0
+	2141	24885162	50.0
+	2141	24885162	55.0
+	2271	16000771	50.0
+	2272	16000771	50.0
+	2273	16000771	50.0
+reduction of N-benzyl-3-pyrrolidinone	2375	17368401	30.0
+reduction of N-benzyl-3-pyrrolidinone	2376	17368401	30.0
+	2516	0	50.0 - 55.0
+	2517	0	50.0 - 55.0
+	2518	0	50.0 - 55.0
+assay at	2577	15096205	25.0
+assay at	2578	15096205	25.0
+assay at	2579	15096205	25.0
+assay at	2580	15096205	25.0
+assay at	2581	15096205	25.0
+assay at	2582	15096205	25.0
+assay at	2583	15096205	25.0
+assay at	2584	15096205	25.0
+assay at	2585	15096205	25.0
+assay at	2586	15096205	25.0
+	2651	18189118	70.0
+	2652	18189118	70.0
+	2679	0	33.0
+	2680	0	33.0
+	2681	0	33.0
+	2682	0	33.0
+	2683	0	33.0
+	2729	23385476	50.0 - 60.0
+	2730	23385476	50.0 - 60.0
+	2731	23385476	50.0 - 60.0
+	2732	23385476	50.0 - 60.0
+	2733	23385476	50.0 - 60.0
+assay at room temperature	2738	22249723	22.0
+assay at room temperature	2739	22249723	22.0
+assay at room temperature	2740	22249723	22.0
+assay at room temperature	2741	22249723	22.0
+assay at room temperature	2742	22249723	22.0
+	3020	17989975	83.0
+	3021	17989975	83.0
+assay at	3172	15152088	40.0
+assay at	3173	15152088	40.0
+assay at	3174	15152088	40.0
+assay at	3175	15152088	40.0
+assay at	3176	15152088	40.0
+assay at	3177	15152088	40.0
+assay at	3178	15152088	40.0
+	3191	12172614	25.0
+	3192	12172614	25.0
+	3193	12172614	25.0
+	3194	12172614	25.0
+	3195	12172614	25.0
+	3262	29022135	80.0
+assay at	3266	0	37.0
+assay at	3266	0	37.0
+assay at	3266	0	45.0
+assay at	3266	20632378	45.0
+assay at	3266	28201792	45.0
+assay at	3266	16463078	70.0
+	3266	16391048	100.0
+assay at	3267	0	37.0
+assay at	3267	0	37.0
+assay at	3267	0	45.0
+assay at	3267	20632378	45.0
+assay at	3267	28201792	45.0
+assay at	3267	16463078	70.0
+	3267	16391048	100.0
+assay at	3268	0	37.0
+assay at	3268	0	37.0
+assay at	3268	0	45.0
+assay at	3268	20632378	45.0
+assay at	3268	28201792	45.0
+assay at	3268	16463078	70.0
+	3268	16391048	100.0
+assay at	3269	0	37.0
+assay at	3269	0	37.0
+assay at	3269	0	45.0
+assay at	3269	20632378	45.0
+assay at	3269	28201792	45.0
+assay at	3269	16463078	70.0
+	3269	16391048	100.0
+assay at	3270	0	37.0
+assay at	3270	0	37.0
+assay at	3270	0	45.0
+assay at	3270	20632378	45.0
+assay at	3270	28201792	45.0
+assay at	3270	16463078	70.0
+	3270	16391048	100.0
+assay at	3271	0	37.0
+assay at	3271	0	37.0
+assay at	3271	0	45.0
+assay at	3271	20632378	45.0
+assay at	3271	28201792	45.0
+assay at	3271	16463078	70.0
+	3271	16391048	100.0
+	3374	18629898	25.0
+	3375	18629898	25.0
+	3376	18629898	25.0
+	3377	18629898	25.0
+	3378	18629898	25.0
+	3379	18629898	25.0
+	3380	18629898	25.0
+	3399	15007841	30.0 - 50.0
+recombinant enzyme expressed in Hansenula polymorpha; recombinant enzyme expressed in Saccharomyces cerevisiae; reductive reaction, recombinant enzymes expressed from Saccharomyces cerevisiae and Hansenula polymorpha	3399	22584819	35.0
+recombinant enzyme expressed in Arxula adeninivorans; reductive reaction, recombinant enzyme expressed from Arxula adeninivorans	3399	22584819	39.0
+	3400	15007841	30.0 - 50.0
+recombinant enzyme expressed in Hansenula polymorpha; recombinant enzyme expressed in Saccharomyces cerevisiae; reductive reaction, recombinant enzymes expressed from Saccharomyces cerevisiae and Hansenula polymorpha	3400	22584819	35.0
+recombinant enzyme expressed in Arxula adeninivorans; reductive reaction, recombinant enzyme expressed from Arxula adeninivorans	3400	22584819	39.0
+	3401	15007841	30.0 - 50.0
+recombinant enzyme expressed in Hansenula polymorpha; recombinant enzyme expressed in Saccharomyces cerevisiae; reductive reaction, recombinant enzymes expressed from Saccharomyces cerevisiae and Hansenula polymorpha	3401	22584819	35.0
+recombinant enzyme expressed in Arxula adeninivorans; reductive reaction, recombinant enzyme expressed from Arxula adeninivorans	3401	22584819	39.0
+	3402	15007841	30.0 - 50.0
+recombinant enzyme expressed in Hansenula polymorpha; recombinant enzyme expressed in Saccharomyces cerevisiae; reductive reaction, recombinant enzymes expressed from Saccharomyces cerevisiae and Hansenula polymorpha	3402	22584819	35.0
+recombinant enzyme expressed in Arxula adeninivorans; reductive reaction, recombinant enzyme expressed from Arxula adeninivorans	3402	22584819	39.0
+	3403	15007841	30.0 - 50.0
+recombinant enzyme expressed in Hansenula polymorpha; recombinant enzyme expressed in Saccharomyces cerevisiae; reductive reaction, recombinant enzymes expressed from Saccharomyces cerevisiae and Hansenula polymorpha	3403	22584819	35.0
+recombinant enzyme expressed in Arxula adeninivorans; reductive reaction, recombinant enzyme expressed from Arxula adeninivorans	3403	22584819	39.0
+	3404	15007841	30.0 - 50.0
+recombinant enzyme expressed in Hansenula polymorpha; recombinant enzyme expressed in Saccharomyces cerevisiae; reductive reaction, recombinant enzymes expressed from Saccharomyces cerevisiae and Hansenula polymorpha	3404	22584819	35.0
+recombinant enzyme expressed in Arxula adeninivorans; reductive reaction, recombinant enzyme expressed from Arxula adeninivorans	3404	22584819	39.0
+assay at	3475	11809419	25.0
+free enzyme, at 25°C	3475	19578994	25.0
+assay at	3475	12702265	25.0 - 30.0
+	3475	17072683	30.0
+soluble enzyme	3475	18456317	30.0
+approximately 30°C	3475	0	30.0
+reduction of formaldehyde	3475	28265724	30.0
+Zn-ADH and Co-ADH	3475	11893392	35.0
+immobilized enzyme	3475	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	3475	28265724	35.0
+Cu-ADH	3475	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	3475	18456317	40.0
+	3475	2193901	45.0 - 50.0
+assay at	3476	11809419	25.0
+free enzyme, at 25°C	3476	19578994	25.0
+assay at	3476	12702265	25.0 - 30.0
+	3476	17072683	30.0
+soluble enzyme	3476	18456317	30.0
+approximately 30°C	3476	0	30.0
+reduction of formaldehyde	3476	28265724	30.0
+Zn-ADH and Co-ADH	3476	11893392	35.0
+immobilized enzyme	3476	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	3476	28265724	35.0
+Cu-ADH	3476	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	3476	18456317	40.0
+	3476	2193901	45.0 - 50.0
+assay at	3477	11809419	25.0
+free enzyme, at 25°C	3477	19578994	25.0
+assay at	3477	12702265	25.0 - 30.0
+	3477	17072683	30.0
+soluble enzyme	3477	18456317	30.0
+approximately 30°C	3477	0	30.0
+reduction of formaldehyde	3477	28265724	30.0
+Zn-ADH and Co-ADH	3477	11893392	35.0
+immobilized enzyme	3477	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	3477	28265724	35.0
+Cu-ADH	3477	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	3477	18456317	40.0
+	3477	2193901	45.0 - 50.0
+assay at	3478	11809419	25.0
+free enzyme, at 25°C	3478	19578994	25.0
+assay at	3478	12702265	25.0 - 30.0
+	3478	17072683	30.0
+soluble enzyme	3478	18456317	30.0
+approximately 30°C	3478	0	30.0
+reduction of formaldehyde	3478	28265724	30.0
+Zn-ADH and Co-ADH	3478	11893392	35.0
+immobilized enzyme	3478	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	3478	28265724	35.0
+Cu-ADH	3478	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	3478	18456317	40.0
+	3478	2193901	45.0 - 50.0
+assay at	3479	11809419	25.0
+free enzyme, at 25°C	3479	19578994	25.0
+assay at	3479	12702265	25.0 - 30.0
+	3479	17072683	30.0
+soluble enzyme	3479	18456317	30.0
+approximately 30°C	3479	0	30.0
+reduction of formaldehyde	3479	28265724	30.0
+Zn-ADH and Co-ADH	3479	11893392	35.0
+immobilized enzyme	3479	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	3479	28265724	35.0
+Cu-ADH	3479	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	3479	18456317	40.0
+	3479	2193901	45.0 - 50.0
+assay at	3480	11809419	25.0
+free enzyme, at 25°C	3480	19578994	25.0
+assay at	3480	12702265	25.0 - 30.0
+	3480	17072683	30.0
+soluble enzyme	3480	18456317	30.0
+approximately 30°C	3480	0	30.0
+reduction of formaldehyde	3480	28265724	30.0
+Zn-ADH and Co-ADH	3480	11893392	35.0
+immobilized enzyme	3480	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	3480	28265724	35.0
+Cu-ADH	3480	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	3480	18456317	40.0
+	3480	2193901	45.0 - 50.0
+assay at	3481	11809419	25.0
+free enzyme, at 25°C	3481	19578994	25.0
+assay at	3481	12702265	25.0 - 30.0
+	3481	17072683	30.0
+soluble enzyme	3481	18456317	30.0
+approximately 30°C	3481	0	30.0
+reduction of formaldehyde	3481	28265724	30.0
+Zn-ADH and Co-ADH	3481	11893392	35.0
+immobilized enzyme	3481	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	3481	28265724	35.0
+Cu-ADH	3481	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	3481	18456317	40.0
+	3481	2193901	45.0 - 50.0
+assay at	3482	11809419	25.0
+free enzyme, at 25°C	3482	19578994	25.0
+assay at	3482	12702265	25.0 - 30.0
+	3482	17072683	30.0
+soluble enzyme	3482	18456317	30.0
+approximately 30°C	3482	0	30.0
+reduction of formaldehyde	3482	28265724	30.0
+Zn-ADH and Co-ADH	3482	11893392	35.0
+immobilized enzyme	3482	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	3482	28265724	35.0
+Cu-ADH	3482	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	3482	18456317	40.0
+	3482	2193901	45.0 - 50.0
+assay at	3483	11809419	25.0
+free enzyme, at 25°C	3483	19578994	25.0
+assay at	3483	12702265	25.0 - 30.0
+	3483	17072683	30.0
+soluble enzyme	3483	18456317	30.0
+approximately 30°C	3483	0	30.0
+reduction of formaldehyde	3483	28265724	30.0
+Zn-ADH and Co-ADH	3483	11893392	35.0
+immobilized enzyme	3483	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	3483	28265724	35.0
+Cu-ADH	3483	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	3483	18456317	40.0
+	3483	2193901	45.0 - 50.0
+assay at	3484	11809419	25.0
+free enzyme, at 25°C	3484	19578994	25.0
+assay at	3484	12702265	25.0 - 30.0
+	3484	17072683	30.0
+soluble enzyme	3484	18456317	30.0
+approximately 30°C	3484	0	30.0
+reduction of formaldehyde	3484	28265724	30.0
+Zn-ADH and Co-ADH	3484	11893392	35.0
+immobilized enzyme	3484	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	3484	28265724	35.0
+Cu-ADH	3484	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	3484	18456317	40.0
+	3484	2193901	45.0 - 50.0
+	3735	0	30.0
+assay at	3830	22805786	65.0
+assay at	3830	20049620	65.0
+; 	3830	20049620	75.0
+the reaction rate increases up to 78°C and then decreases rapidly due to thermal inactivation	3830	22805786	78.0
+assay at	3831	22805786	65.0
+assay at	3831	20049620	65.0
+; 	3831	20049620	75.0
+the reaction rate increases up to 78°C and then decreases rapidly due to thermal inactivation	3831	22805786	78.0
+assay at	3832	22805786	65.0
+assay at	3832	20049620	65.0
+; 	3832	20049620	75.0
+the reaction rate increases up to 78°C and then decreases rapidly due to thermal inactivation	3832	22805786	78.0
+assay at	3833	20377222	80.0
+assay at	3834	20377222	80.0
+assay at	3835	20377222	80.0
+assay at	3927	11809419	65.0
+approximately 85°C	3927	0	85.0
+assay at	3928	11809419	65.0
+approximately 85°C	3928	0	85.0
+assay at	3929	11809419	65.0
+approximately 85°C	3929	0	85.0
+assay at	3930	11809419	65.0
+approximately 85°C	3930	0	85.0
+assay at	3931	11809419	65.0
+approximately 85°C	3931	0	85.0
+assay at	3932	11809419	65.0
+approximately 85°C	3932	0	85.0
+assay at	3933	11809419	65.0
+approximately 85°C	3933	0	85.0
+enzyme expressed in Pyrococcus furiosus	3935	28194879	60.0
+enzyme expressed in Pyrococcus furiosus	3936	28194879	60.0
+enzyme expressed in Pyrococcus furiosus	3937	28194879	60.0
+enzyme expressed in Pyrococcus furiosus	3938	28194879	60.0
+	3960	23354700	90.0
+	3970	12031468	70.0
+	3971	12031468	70.0
+	3975	19058034	75.0
+	3976	19058034	75.0
+	3977	19058034	75.0
+	3995	18456852	73.0
+	3996	18456852	73.0
+	3997	18456852	73.0
+	3998	18456852	73.0
+; 	4323	24885162	45.0
+	4323	24885162	50.0
+	4323	24885162	55.0
+; 	4325	24885162	45.0
+	4325	24885162	50.0
+	4325	24885162	55.0
+	4332	29022135	80.0
+; 	4334	19383697	60.0
+; 	4336	19383697	60.0
+assay at	4338	0	37.0
+assay at	4338	0	37.0
+assay at	4338	0	45.0
+assay at	4338	20632378	45.0
+assay at	4338	28201792	45.0
+assay at	4338	16463078	70.0
+	4338	16391048	100.0
+	4346	17435004	35.0
+enzyme expressed in Pyrococcus furiosus	4353	28194879	60.0
+	4356	22526808	80.0
+assay at	4358	0	37.0
+assay at	4358	0	37.0
+assay at	4358	0	45.0
+assay at	4358	20632378	45.0
+assay at	4358	28201792	45.0
+assay at	4358	16463078	70.0
+	4358	16391048	100.0
+assay at	4359	19139244	50.0
+	4359	19139244	85.0
+; 	4360	24885162	45.0
+	4360	24885162	50.0
+	4360	24885162	55.0
+assay at room temperature	4362	22249723	22.0
+assay at	4366	15369820	25.0
+assay at	4366	11964133	25.0
+assay at	4366	15096205	25.0
+assay at	4366	11997393	25.0
+assay at	4366	21784063	25.0
+assay at	4366	12604203	30.0 - 37.0
+assay at	4367	12604203	30.0 - 37.0
+assay at	4367	12184789	37.0
+approximately 70°C	4367	0	70.0
+assay at	4368	11809419	25.0
+free enzyme, at 25°C	4368	19578994	25.0
+assay at	4368	12702265	25.0 - 30.0
+	4368	17072683	30.0
+soluble enzyme	4368	18456317	30.0
+approximately 30°C	4368	0	30.0
+reduction of formaldehyde	4368	28265724	30.0
+Zn-ADH and Co-ADH	4368	11893392	35.0
+immobilized enzyme	4368	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	4368	28265724	35.0
+Cu-ADH	4368	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	4368	18456317	40.0
+	4368	2193901	45.0 - 50.0
+assay at	4369	11809419	25.0
+free enzyme, at 25°C	4369	19578994	25.0
+assay at	4369	12702265	25.0 - 30.0
+	4369	17072683	30.0
+soluble enzyme	4369	18456317	30.0
+approximately 30°C	4369	0	30.0
+reduction of formaldehyde	4369	28265724	30.0
+Zn-ADH and Co-ADH	4369	11893392	35.0
+immobilized enzyme	4369	19578994	35.0
+reduction of glycolaldehyde, furfural, butyraldehyde, and propionaldehyde	4369	28265724	35.0
+Cu-ADH	4369	11893392	40.0
+enzyme covalently immobilized to magnetic Fe3O4 nanoparticles via glutaraldehyde	4369	18456317	40.0
+	4369	2193901	45.0 - 50.0
+assay at	4370	15369820	25.0
+assay at	4370	11964133	25.0
+assay at	4370	15096205	25.0
+assay at	4370	11997393	25.0
+assay at	4370	21784063	25.0
+assay at	4370	12604203	30.0 - 37.0
+assay at	4373	20377222	80.0
+recombinant enzyme	4375	0	70.0
+enzyme expressed in Pyrococcus furiosus	4384	28194879	60.0
+assay at	4387	22805786	65.0
+assay at	4387	20049620	65.0
+; 	4387	20049620	75.0
+the reaction rate increases up to 78°C and then decreases rapidly due to thermal inactivation	4387	22805786	78.0
+assay at	4389	22805786	65.0
+assay at	4389	20049620	65.0
+; 	4389	20049620	75.0
+the reaction rate increases up to 78°C and then decreases rapidly due to thermal inactivation	4389	22805786	78.0
+	4392	23354700	90.0
+	4395	17989975	83.0
+	4401	15007841	30.0 - 50.0
+recombinant enzyme expressed in Hansenula polymorpha; recombinant enzyme expressed in Saccharomyces cerevisiae; reductive reaction, recombinant enzymes expressed from Saccharomyces cerevisiae and Hansenula polymorpha	4401	22584819	35.0
+recombinant enzyme expressed in Arxula adeninivorans; reductive reaction, recombinant enzyme expressed from Arxula adeninivorans	4401	22584819	39.0
+	4402	17072683	70.0
+assay at	4404	0	37.0
+assay at	4404	0	37.0
+assay at	4404	0	45.0
+assay at	4404	20632378	45.0
+assay at	4404	28201792	45.0
+assay at	4404	16463078	70.0
+	4404	16391048	100.0
+assay at	4405	0	37.0
+assay at	4405	0	37.0
+assay at	4405	0	45.0
+assay at	4405	20632378	45.0
+assay at	4405	28201792	45.0
+assay at	4405	16463078	70.0
+	4405	16391048	100.0
+assay at	4406	19139244	50.0
+	4406	19139244	85.0
+	4410	19058034	75.0
+	4411	0	33.0
+assay at	4413	15096205	25.0
+assay at	4414	20377222	80.0
+catalytic activity increased up to 95°C	4416	16233615	95.0
+; 	4422	24885162	45.0
+	4422	24885162	50.0
+	4422	24885162	55.0
+; 	4424	24885162	45.0
+	4424	24885162	50.0
+	4424	24885162	55.0
+; 	4426	24885162	45.0
+	4426	24885162	50.0
+	4426	24885162	55.0
+oxidation of crotyl aclohol	4428	24509923	55.0
+reduction of crotonaldehyde	4428	24509923	65.0

@@ -21,7 +21,7 @@ mergeTables <- function(attr){
 doMerge <- function(mergeTable){
   m <- list()
   for(n in 1:15){
-    temp <- join_all(mergeTable[[n]][[1]], by = "Ref", type = "full")
+    temp <- join_all(mergeTable[[n]][[1]], type = "full")
     temp$Ref <- NULL
     incProgress(0.25/15, detail = "Merging tables")
     m <- list.append(m, temp)
@@ -29,7 +29,9 @@ doMerge <- function(mergeTable){
   m
 }
 
-# Delete the Mutant columns
+# Matrix Heatmap
+
+## Delete the Mutant columns
 deleteMutantColumn <- function(listTable){
   listOut <- list.apply(listTable, function(table){
     table$Mutant <- NULL
@@ -38,12 +40,12 @@ deleteMutantColumn <- function(listTable){
   listOut
 }
 
-# Do the correlation to every table
+## Do the correlation to every table
 correlation <- function(tables, method){
   list.apply(tables, cor, use = "pairwise.complete.obs", method = method)
 }
 
-# Bind the generated matrix into one
+## Bind the generated matrix into one
 bindMatrix <- function(m){
   ma <- do.call("cbind", list(m[[2]][1:2,3:4], m[[3]][1:2,3:4], m[[4]][1:2,3:4], m[[5]][1:2,3:4]))
   mb <- do.call("cbind", list(m[[6]][1:2,3:4], m[[7]][1:2,3:4], m[[8]][1:2,3:4], m[[9]][1:2,3:4]))
@@ -62,3 +64,7 @@ bindMatrix <- function(m){
   mc <- cbind(mc, m[[15]])
   m_ <- do.call("rbind", list(ma, mb, mc))
 }
+
+# Matrix Scatterplot
+
+## Ploting

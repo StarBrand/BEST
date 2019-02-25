@@ -1,0 +1,19 @@
+UniProt	Enzyme	Organism	Source	Found_using_Brenda
+Q67XZ3	fructan beta-fructosidase	Arabidopsis thaliana	Swiss-Prot	TRUE
+Q96TU3	fructan beta-fructosidase	Aspergillus awamori	Swiss-Prot	TRUE
+O74641	fructan beta-fructosidase	Aspergillus niger	Swiss-Prot	TRUE
+O74641	fructan beta-fructosidase	Aspergillus niger AF10	Swiss-Prot	TRUE
+P05656	fructan beta-fructosidase	Bacillus subtilis	Swiss-Prot	TRUE
+Q93X60	fructan beta-fructosidase	Cichorium intybus	TrEMBL	TRUE
+Q93X60	fructan beta-fructosidase	Cichorium intybus	TrEMBL	TRUE
+Q93X60	fructan beta-fructosidase	Cichorium intybus	TrEMBL	TRUE
+D0PQE8	fructan beta-fructosidase	Lolium perenne	TrEMBL	TRUE
+Q64GB3	fructan beta-fructosidase	Lolium perenne	TrEMBL	TRUE
+D0PQE8	fructan beta-fructosidase	Lolium perenne Bravo	TrEMBL	TRUE
+Q8J0G1	fructan beta-fructosidase	Penicillium sp.	TrEMBL	TRUE
+Q8J0G1	fructan beta-fructosidase	Penicillium sp.	TrEMBL	TRUE
+Q8J0G1	fructan beta-fructosidase	Penicillium sp. TN-88	TrEMBL	TRUE
+Q8J0G1	fructan beta-fructosidase	Penicillium sp. TN-88	TrEMBL	TRUE
+Q8J0G1	fructan beta-fructosidase	Penicillium sp. TN-88	TrEMBL	TRUE
+Q8J0G1	fructan beta-fructosidase	Penicillium sp. TN-88	TrEMBL	TRUE
+A9JIF3	fructan beta-fructosidase	Vernonia herbacea	TrEMBL	TRUE

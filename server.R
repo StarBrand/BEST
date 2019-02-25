@@ -21,14 +21,26 @@ library(plotly)
 library(plyr)
 library(rlist)
 library(shinyBS)
-.jinit('BrendaSOAP.jar')
+.jinit("BrendaSOAP.jar")
 source("correlation.R")
 source("functions.R")
 source("tree.R")
+source("clustering.R")
 source("helpers.R")
 
 # Define server logic
 shinyServer(function(input, output, session) {
+  
+  hideStuffs <- function(){
+    for(n in 1:12){shinyjs::hide(paste(at[n], "Filter", sep = ""))
+      shinyjs::hide(paste(at[n], "2", sep = ""))}
+    shinyjs::hide("getCorrelationMatrix")
+    shinyjs::hide("helpCorrelationMatrix")
+    shinyjs::hide("getCorrelationScatter")
+    shinyjs::hide("helpCorrelationScatter")
+  }
+  
+  hideStuffs()
   
   # Flags
   isThereUser <- reactiveVal(FALSE)
@@ -38,8 +50,18 @@ shinyServer(function(input, output, session) {
   fastaSearch <- reactiveVal(FALSE)
   paramSearch <- reactiveVal(FALSE)
   attributeFound <- reactiveVal(rep(FALSE, 12))
+  merged <- reactiveVal(FALSE)
+  ecNumbers <- reactiveVal(NULL)
+  kmeansDim <- reactiveVal(NULL)
+  # Saved
+  proteinSaved <- reactiveVal(FALSE)
+  pdbSaved <- reactiveVal(FALSE)
+  fastaSaved <- reactiveVal(FALSE)
+  paramSaved <- reactiveVal(FALSE)
   
   # Tables
+  # Saved Tables
+  summarySaved <- reactiveVal(NULL)
   # Protein Table
   proteinTable <- reactiveVal(NULL)
   # Fasta Table
@@ -58,11 +80,12 @@ shinyServer(function(input, output, session) {
   # Parameters Table
   attrTable <- reactiveVal(list(NULL))
   # Filtered (f_)
-  fproteinTable <- reactiveVal(NULL)
   fattrTable <- reactiveVal(list(NULL))
   fparameterTable <- reactiveVal(NULL)
   # Merge tables
   groupMerging <- reactiveVal(list(NULL))
+  # Clusterized
+  kmeansTable <- reactiveVal(NULL)
   
   # Plots
   # Image enzyme tab
@@ -75,6 +98,9 @@ shinyServer(function(input, output, session) {
   distributionPlot <- reactiveVal(NULL)
   # Correlation
   correlationPlot <- reactiveVal(NULL)
+  # Clustering: Kmeans
+  elbowPlot <- reactiveVal(NULL)
+  kPlot <- reactiveVal(NULL)
   
   # To tutorial section
   observeEvent(input$help, {
@@ -106,6 +132,8 @@ shinyServer(function(input, output, session) {
   # Disable user
   observeEvent(input$logIn, {
     shinyjs::disable("logIn")
+    shinyjs::disable("mail")
+    shinyjs::disable("pass")
     withProgress(value = 0, message = "Verify account with Brenda", {
       keep <- user()$verifyAccount()
       incProgress(1)
@@ -113,13 +141,12 @@ shinyServer(function(input, output, session) {
     if(keep == "You can search your enzyme"){
       isThereUser(TRUE)
       shinyjs::show("logOut")
-      shinyjs::disable("mail")
       shinyjs::hide("pass")
       shinyjs::hide("logIn")
       new_folder <- paste(input$mail, "_results\\", sep = "")
       folder(new_folder)
-      updateTabItems(session, "inTabset", "enzyme")}
-    else if(keep == "Incorrect password"){
+      updateTabItems(session, "inTabset", "enzyme")
+    } else if(keep == "Incorrect password"){
       wrongPassword()
       shinyjs::click("logOut")
     } else if (keep == "Not a Brenda User"){
@@ -131,13 +158,21 @@ shinyServer(function(input, output, session) {
   
   # Enable user
   observeEvent(input$logOut, {
+    hideStuffs()
     proteinSearch(FALSE)
     addEcNumber(FALSE)
     pdbSearch(FALSE)
     fastaSearch(FALSE)
     paramSearch(FALSE)
+    merged(FALSE)
+    kmeansDim(NULL)
+    proteinSaved(FALSE)
+    pdbSaved(FALSE)
+    fastaSaved(FALSE)
+    paramSaved(FALSE)
     shinyjs::show("logIn")
     shinyjs::enable("mail")
+    shinyjs::enable("pass")
     shinyjs::show("pass")
     shinyjs::hide("logOut")
     shinyjs::hide("pick")
@@ -147,22 +182,121 @@ shinyServer(function(input, output, session) {
       isThereUser(FALSE)}
     updateTextInput(session, "pass", value = "")
     proteinTable(NULL)
+    summarySaved(NULL)
     fastaTable(NULL)
     pdbTable(NULL)
     parameterTable(NULL)
     infoTable(NULL)
     summaryTable(NULL)
     attrTable(list(NULL))
-    fproteinTable(NULL)
     fattrTable(list(NULL))
     fparameterTable(NULL)
+    kmeansTable(NULL)
     attributeFound(rep(FALSE, 12))
     treePlot(NULL)
     histPlot(NULL)
     distributionPlot(NULL)
     correlationPlot(NULL)
+    elbowPlot(NULL)
+    kPlot(NULL)
     groupMerging(list(NULL))
   })
+  
+  # Does she/he/they have a saved table
+  output$savedTable <- renderUI({
+    if(isThereUser() & !proteinSearch() & file.exists(paste(folder(), "table.txt", sep = ""))){
+      out <- div(style = "background-color: #a1fb9e; font-weight: bold;",
+                 h4(icon("exclamation-triangle"),
+                    "You have a saved table ",
+                    actionLink("savedTableLink","more info")))
+    } else{out <- NULL}
+    out
+  })
+  
+  # Link to saved table
+  observeEvent(input$savedTableLink, {
+    updateTabItems(session, "inTabset", "savedTableTab")
+    out <- data.frame(Table = c(), Available = c(), Details = c(), Specific_Details = c())
+    out[1, "Table"] <- "Protein Table"
+    out[1, "Details"] <- "This table has the ec numbers, recommended names, systematic names and organisms from BRENDA database"
+    out[2, "Table"] <- "FASTA Sequence"
+    out[2, "Details"] <- "This is a file contains the amino acids sequence of the enzyme you searched"
+    out[3, "Table"] <- "PDB codes"
+    out[3, "Details"] <- "Contains the PDB codes grouped by enzyme type (ec number) and organism"
+    out[4, "Table"] <- "Functional Parameters Table"
+    out[4, "Details"] <- "Contains the functional parameters, if it is available the details are below"
+    table_file <- paste(folder(), "table.txt", sep = "")
+    fasta_file <- paste(folder(), "report_fasta.txt", sep = "")
+    pdb_file <- paste(folder(), "pdb_table.txt", sep = "")
+    attribute_folder <- paste(folder(), "attributes\\", sep = "")
+    if(file.exists(table_file)){
+      out[1, "Available"] <- TRUE
+      ecno <- as.character(unique(new_table(table_file)$EC_Number))
+      ecNumbers(ecno)
+      out[1, "Specific_Details"]  <- paste("EC Nuber:",
+                                           paste(ecno, collapse = "; "),
+                                           ". Total Organisms:",
+                                           length(unique(new_table(table_file)$Organism)),
+                                           sep = " ")
+      
+    } else{out[1, "Available"] <- FALSE}
+    if(file.exists(fasta_file)){
+      out[2, "Available"] <- TRUE
+      out[2, "Specific_Details"] <- paste("Sequence found: ",
+                                          nrow(new_table(fasta_file)),
+                                          sep = "")
+    } else{out[2, "Available"] <- FALSE}
+    if(file.exists(pdb_file)){
+      out[3, "Available"] <- TRUE
+      out[3, "Specific_Details"] <- paste("Codes found: ",
+                                          nrow(new_table(pdb_file)),
+                                          sep = "")
+    } else{out[3, "Available"] <- FALSE}
+    nat_file <- unlist(list.apply(list(nat), gsub, pattern = "_", replacement = " "))
+    nat_file <- unlist(list.apply(list(nat_file), gsub, pattern = "/", replacement = "_"))
+    isThere <- FALSE
+    detail <- "Parameters saved: "
+    selected <- list()
+    for(n in 1:12){
+      file_name <- paste(attribute_folder, nat_file[n], ".txt", sep = "")
+      if(file.exists(file_name)){
+        detail <- paste(detail, nat[n], ", ", sep = "")
+        isThere <- TRUE
+      }
+    }
+    if(isThere){out[4, "Available"] <- TRUE
+      out[4, "Specific_Details"] <- detail
+      shinyjs::click("allParameters")
+    }else{out[4, "Available"] <- FALSE}
+    out
+    summarySaved(out)
+  })
+  
+  # Summary saved table
+  output$summarySavedTable <- DT::renderDT({
+    DT::datatable(summarySaved(), options = list(searching = FALSE))
+  })
+  
+  # Load tables
+  observeEvent(input$loadTable, {
+    proteinSaved(TRUE)
+    generateProteinTable()
+    if(2 %in% input$summarySavedTable_rows_selected & summarySaved()[2, "Available"]){fastaSaved(TRUE)}
+    if(3 %in% input$summarySavedTable_rows_selected & summarySaved()[3, "Available"]){pdbSaved(TRUE)}
+    if(4 %in% input$summarySavedTable_rows_selected & summarySaved()[4, "Available"]){paramSaved(TRUE)}
+    main <- .jnew("main.BrendaSOAP", "1.1.1.1", user(), as.integer(0), as.integer(0))
+    main$erasePreviousOne(!fastaSaved(), !pdbSaved(), !paramSaved())
+    if(fastaSaved()){shinyjs::click("toFasta")}
+    if(pdbSaved()){shinyjs::click("toPDB")}
+    if(paramSaved()){shinyjs::click("parameters")}
+  })
+  
+  # Or don't
+  observeEvent(input$toEnzyme2, {
+    updateTabItems(session, "inTabset", "enzyme")
+    addEcNumber(FALSE)
+  })
+  
   
   # Enter EC Number functions
   # EC Number 2
@@ -198,9 +332,6 @@ shinyServer(function(input, output, session) {
                            header = TRUE,
                            col.names = "dig4")$dig4)
   })
-  
-  # EC Number
-  ecNumbers <- reactiveVal(list(NULL))
   
   # Update selector
   observeEvent(input$subclass, {
@@ -270,26 +401,31 @@ shinyServer(function(input, output, session) {
   # Generate Protein Table
   generateProteinTable <- function(){
     updateTabItems(session, "inTabset", "proteinTable")
-    withProgress(message = "Searching for enzymes, this can take a few minutes", value = 0, {
+    withProgress(message = "Searching for enzymes", value = 0, {
       proteinSearch(TRUE)
       fastaSearch(FALSE)
       pdbSearch(FALSE)
       paramSearch(FALSE)
       attributeFound(rep(FALSE, 12))
-      incProgress(0.25, detail = "Entering data...")
-      main <- .jnew("main.BrendaSOAP", ecNumbers()[[1]], user(), as.integer(0), as.integer(0))
-      n <- length(ecNumbers())
-      if(n > 1) list.apply(ecNumbers()[2:n], function(e){
-        main$addEnzyme(e)
-      })
-      incProgress(0.25, detail = "Searching proteins... (No more than 2 minutes)")
-      main$getProtein()
-      incProgress(0.25, detail = "Proteins found, showing...")
+      incProgress(0, detail = "Entering data")
+      ecno <- as.character(ecNumbers())
+      main <- .jnew("main.BrendaSOAP", ecno[1], user(), as.integer(0), as.integer(0))
+      if(!proteinSaved()){
+        main$erasePreviousOne(!fastaSaved(), !pdbSaved(), !paramSaved())
+        n <- length(ecno)
+        if(n > 1) lapply(ecno[2:n], function(e){
+          main$addEnzyme(e)})
+        incProgress(0.2, detail = paste("This might takes ",
+                                        showTime(timeProtein(2000)*n),
+                                        sep = " "))
+        main$getProtein()}
+      incProgress(0.7, detail = "Proteins found, showing...")
       table <- new_table(paste(folder(), "table.txt", sep = ""))
-      incProgress(0.25, detail = "Ready!")
+      incProgress(0.1, detail = "Ready!")
     })
+    proteinSaved(FALSE)
     proteinTable(table)
-    fproteinTable(table)
+    ecNumbers(unique(table$EC_Number))
   }
   
   # EC Number
@@ -303,10 +439,10 @@ shinyServer(function(input, output, session) {
                              input$ec_number3,
                              input$ec_number4,
                              sep = ".")
-      if(addEcNumber()){ecno <- ecNumbers()
-        ecno <- list.append(ecno, new_ec_number)
+      if(addEcNumber()){ecno <- as.character(ecNumbers())
+        ecno <- c(ecno, new_ec_number)
         ecNumbers(ecno)}
-      else{ecNumbers(list(new_ec_number))}
+      else{ecNumbers(new_ec_number)}
       addEcNumber(FALSE)
       generateProteinTable()
       shinyjs::enable("ecNumber")
@@ -318,10 +454,10 @@ shinyServer(function(input, output, session) {
   observeEvent(input$enzymeNameFinal, {
     if(!isThereUser()){noSession()}
     else{
-      if(addEcNumber()){ecno <- ecNumbers()
-      ecno <- list.append(ecno, input$pick)
+      if(addEcNumber()){ecno <- as.character(ecNumbers())
+      ecno <- c(ecno, input$pick)
       ecNumbers(ecno)}
-      else{ecNumbers(list(input$pick))}
+      else{ecNumbers(input$pick)}
       addEcNumber(FALSE)
       shinyjs::disable("enzymeNameFinal")
       generateProteinTable()
@@ -346,9 +482,9 @@ shinyServer(function(input, output, session) {
   # Message to the enzyme searcher
   output$enzymeWillBe <- renderUI({
     if(addEcNumber()){
-      h4("The enzyme your enter will be added to the search")
+      h4(icon("exclamation-triangle"), "The enzyme your enter will be added to the search")
     } else if(proteinSearch()){
-      h4("The enzyme your enter will erase the previous ones")
+      h4(icon("exclamation-triangle"), "The enzyme your enter will erase the previous ones")
     } else{
       div(style="text-align:center",
       h3("Welcome!!"),
@@ -407,21 +543,26 @@ shinyServer(function(input, output, session) {
       withProgress(message = "Searching sequence", value = 0, {
         shinyjs::disable("toFasta")
         updateTabItems(session, "inTabset", "fasta")
-        incProgress(0, detail = "Enter parameter")
-        main <- .jnew("main.BrendaSOAP", ecNumbers()[[1]], user(), as.integer(0), as.integer(0))
-        n <- length(ecNumbers())
-        if(n > 1) list.apply(ecNumbers()[2:n], function(e){
-          main$addEnzyme(e)
-        })
-        main$getProtein()
-        incProgress(0.3, detail = "This can take a few minutes")
-        main$getFastaSequence()
-        incProgress(0.4, detail = "Showing")
+        incProgress(0, detail = "Entering parameters")
+        if(!fastaSaved()){
+          ecno <- as.character(ecNumbers())
+          main <- .jnew("main.BrendaSOAP", ecno[1], user(), as.integer(0), as.integer(0))
+          n <- length(ecno)
+          if(n > 1) lapply(ecno[2:n], function(e){
+            main$addEnzyme(e)
+            })
+          main$getProtein()
+          incProgress(0.2, detail = paste("This might takes ",
+                                          showTime(timeFasta(length(ecNumbers()))),
+                                          sep = ""))
+          main$getFastaSequence()}
+        incProgress(0.7, detail = "Showing")
         table <- new_table(paste(folder(),"report_fasta.txt", sep = ""))
-        incProgress(0.3, detail = "Ready")
+        incProgress(0.1, detail = "Ready")
         shinyjs::enable("toFasta")
       })
       fastaTable(table)
+      fastaSaved(FALSE)
     }
   })
   
@@ -460,22 +601,27 @@ shinyServer(function(input, output, session) {
       withProgress(message = "Searching PDB", value = 0, {
         updateTabItems(session, "inTabset", "pdb")
         incProgress(0, detail = "Enter parameter")
-        main <- .jnew("main.BrendaSOAP", ecNumbers()[[1]], user(), as.integer(0), as.integer(0))
-        n <- length(ecNumbers())
-        if(n > 1) list.apply(ecNumbers()[2:n], function(e){
-          main$addEnzyme(e)
-        })
-        main$getProtein()
-        incProgress(0.25, detail = "This can take a few minutes")
-        main$getPDB()
-        incProgress(0.25, detail = "Showing")
+        if(!pdbSaved()){
+          ecno <- as.character(ecNumbers())
+          main <- .jnew("main.BrendaSOAP", ecno[1], user(), as.integer(0), as.integer(0))
+          n <- length(ecno)
+          if(n > 1) lapply(ecno[2:n], function(e){
+            main$addEnzyme(e)
+            })
+          main$getProtein()
+          incProgress(0.2, detail = paste("This might takes ",
+                                          showTime(timePDB(nrow(proteinTable()))*length(ecNumbers())),
+                                          sep = ""))
+          main$getPDB()}
+        incProgress(0.7, detail = "Showing")
         table <- new_table(paste(folder(),"pdb_table.txt", sep = ""))
         table$link <- lapply(table$link, function(i){
           createLink(i)})
-        incProgress(0.25, detail = "Ready")
+        incProgress(0.1, detail = "Ready")
       })
       shinyjs::enable("toPDB")
       pdbTable(table)
+      pdbSaved(FALSE)
     }
   })
   
@@ -516,14 +662,14 @@ shinyServer(function(input, output, session) {
     if(file.exists(table_name)){
       af[n] <- TRUE
       table <- new_table(table_name)
-      update_filter(table, filterId, nat[n])
+      update_filter(session, table, filterId, nat[n], at[n])
       op <- list(...)
       if(!is.null(op$mol) & op$mol != "null"){
         table <- table[,c("Ref", "value", op$mol, "Commentary", "Literature.PubmedID.")]
       } else{table <- table[,c("Ref", "value", "Commentary", "Literature.PubmedID.")]}
       taf[[n]] <- table
       ftaf[[n]] <- table}
-    else{ update_filter_notFound(filterId, nat[n])
+    else{ update_filter_notFound(session, filterId, nat[n])
       af[n] <- FALSE
       taf[[n]] <- NULL
       ftaf[[n]] <- NULL}
@@ -552,25 +698,6 @@ shinyServer(function(input, output, session) {
     table <- merge(table, out, by="Ref", all = TRUE)
   }
   
-  # Update filter
-  update_filter <- function(table, filterId, name){
-    label <- paste(name, " filter")
-    table <- numericalValue(table)
-    r <- min_max(table)
-    a <- as.double(r[1])
-    b <- as.double(r[2])
-    s <- (b - a)/40
-    updateSliderInput(session, filterId, label,
-                      value = c(a, b), min = a,
-                      max = b, step = s)
-  }
-  # Not found
-  update_filter_notFound <- function(filterId, name){
-    label <- paste(name, "not found")
-    updateSliderInput(session, filterId, label = label,
-                      min = NA, max = NA)
-  }
-  
   # Select all
   observeEvent(input$allParameters, {
     if(input$allParameters){
@@ -587,39 +714,50 @@ shinyServer(function(input, output, session) {
     if(proteinSearch()){
     shinyjs::disable("parameters")
     updateTabItems(session, "inTabset", "parameterTable")
-    withProgress(message = "Searching numerical Parameters, this can take a few minutes", value = 0, {
-      incProgress(0, detail = "Enter parameter for searching...")
-      main <- .jnew("main.BrendaSOAP", ecNumbers()[[1]], user(), as.integer(encoder_param(input$attributes)), as.integer(encoder_filter(input$up)))
-      n <- length(ecNumbers())
-      if(n > 1) list.apply(ecNumbers()[2:n], function(e){
-        main$addEnzyme(e)
-      })
-      main$getProtein()
-      incProgress(0.2, detail = "Selecting proteins for search")
-      s <- input$distProteinTable_rows_selected
-      int <- as.integer(c())
-      if(length(s)){int <- as.integer(c(s - 1, int))}
-      int <- .jarray(int)
-      incProgress(0.2, detail = "Searching paremeters (this can take 10 minutes)")
-      main$getParameters(int, input$allProteins)
+    withProgress(message = "Searching numerical Parameters", value = 0, {
+      incProgress(0, detail = "Entering parameters...")
+      if(!paramSaved()){
+        ecno <- as.character(ecNumbers())
+        main <- .jnew("main.BrendaSOAP", ecno[1], user(), as.integer(encoder_param(input$attributes)), as.integer(encoder_filter(input$up)))
+        n <- length(ecno)
+        if(n > 1) lapply(ecno[2:n], function(e){
+          main$addEnzyme(e)
+          })
+        main$getProtein()
+        incProgress(0.1, detail = "Selecting proteins for search")
+        s <- input$distProteinTable_rows_selected
+        int <- as.integer(c())
+        if(length(s)){int <- as.integer(c(s - 1, int))}
+        int <- .jarray(int)
+        if(input$allProteins){n_pro <- nrow(proteinTable())}
+        else{n_pro <- s}
+        incProgress(0.2, detail = paste("This might takes ",
+                                        showTime(timeParameters(n_pro)*length(ecNumbers())),
+                                        sep = ""))
+        main$getParameters(int, input$allProteins)}
       attr_folder <- paste(folder(), "attributes\\", sep = "")
       table <- new_table(paste(folder(), "table.txt", sep = ""))
       proteinTable(table)
-      for(i in 1:12){
-        incProgress(0.2/12, detail = "Showing results...")
-        do_function(i, eraseParam, importParamTable, eraseParam, input$attributes, attributeFound(), mol = molList[i])
-        table <- do_function(i, addTable, addNoTable, addNoTable, input$attributes, attributeFound(), table = table, with_mol = bool_mol[i])
+      incProgress(0.5)
+      listA <- list()
+      for(n in 1:12){
+        incProgress(0.1/12, detail = "Showing results...")
+        do_function(n, eraseParam, importParamTable, eraseParam, input$attributes, attributeFound(), mol = molList[n])
+        table <- do_function(n, addTable, addNoTable, addNoTable, input$attributes, attributeFound(), table = table, with_mol = bool_mol[n])
+        listA <- do_function(n, updateKmeans, addNoList, addNoList, input$attributes, attributeFound(), listA = listA)
       }
+      updateCheckboxGroupInput(session, "kmeans", choices = listA)
+      incProgress(0.05, detail = "Working on data")
       table <- as.data.frame(sapply(table,gsub,pattern="-999.0",replacement="Additional Information"))
       table <- as.data.frame(sapply(table,gsub,pattern="-999",replacement="Additional Information"))
       table <- table[sort(table$Ref, decreasing = FALSE),]
-      incProgress(0.2, detail = "Working in the data")
       table$Ref <- NULL
-      incProgress(1, detail = "Ready")
+      incProgress(0.05, detail = "Ready")
       shinyjs::enable("parameters")
     })
     parameterTable(table)
     fparameterTable(table)
+    paramSaved(FALSE)
     } else{
       noSearch("Parameters")
     }
@@ -799,7 +937,7 @@ shinyServer(function(input, output, session) {
       noSearch("Information")
     }
     else{
-      table <- fproteinTable()
+      table <- proteinTable()
       table <- table[,c("Ref", "Recommended_name", "Organism", "UniProt", "Commentary", "EC_Number")]
       table$Parameters <- 0
       for(n in 1:12){
@@ -889,16 +1027,24 @@ shinyServer(function(input, output, session) {
     v <- c(vector, u)
   }
   
+  observeEvent(input$new_table, {
+    if(input$new_table){
+      shinyjs::show("uploadTable")
+    } else {shinyjs::hide("uploadTable")}
+  })
+  
   # Generate Count plot
   observeEvent(input$visualize, {
-    updateTabItems(session, "inTabset", "histogram")
-    x <- c()
-    for(i in 1:12){
-      x <- do_function(i, countAttr, addNoVector, addNoVector, input$attributes, attributeFound(), vector = x)
-    }
-    data <- data.frame(Parameters = x)
-    p <- plot_ly(data, x = ~Parameters, color = ~Parameters, type = 'histogram', colors = seba_palette)
-    histPlot(p)
+    if(paramSearch()){
+      updateTabItems(session, "inTabset", "histogram")
+      x <- c()
+      for(i in 1:12){
+        x <- do_function(i, countAttr, addNoVector, addNoVector, input$attributes, attributeFound(), vector = x)
+        }
+      data <- data.frame(Parameters = x)
+      p <- plot_ly(data, x = ~Parameters, color = ~Parameters, type = 'histogram', colors = seba_palette)
+      histPlot(p)
+    } else{noParameters("a", "Visualization")}
   })
   
   # Count Plot
@@ -913,12 +1059,10 @@ shinyServer(function(input, output, session) {
     data <- op$data
     param <- fattrTable()[[n]]
     if(nrow(param) != 0){
-    p <- numericalValue(param)
-    p <- getValue(p, "data")
-    p <- p[,c("Ref", "data")]
-    p$Recommended_name <- sapply(p$Ref, function(x){with(table, table[Ref == x, "Recommended_name"])})
-    p$Organism <- sapply(p$Ref, function(x){with(table, table[Ref == x, "Organism"])})
-    p$Ref <- NULL}
+      p <- numericalValue(param)
+      p <- getValue(p, "data")
+      p <- p[,c("Ref", "data")]
+      p <- labeling(p, table)}
     else{p <- param}
     if(nrow(p) != 0){ p$parameter <- nat[n] }
     rbind(data, p)
@@ -926,22 +1070,37 @@ shinyServer(function(input, output, session) {
   
   # Generate Distribution
   observeEvent(input$getDistribution, {
-    updateTabItems(session, "inTabset", "distribution")
-    table <- fproteinTable()
-    table <- table[,c("Recommended_name", "Organism", "Ref")]
-    data <- data.frame(parameter = c(), data = c(), Recommended_name = c(), Organism = c())
-    for(i in 1:12){
-      data <- do_function(i, distFunction, addNoData, addNoData, input$attributes, attributeFound(), table = table, data = data)
-    }
-    p <- plot_ly(data, x = ~data, color = ~parameter, colors = seba_palette,
-                 type = "box",
-                 text = ~paste(Recommended_name, Organism, sep = "\n"))
-    distributionPlot(p)
+    if(paramSearch()){
+      shinyjs::disable("getDistribution")
+      updateTabItems(session, "inTabset", "distribution")
+      withProgress(message = "Calculating distribution", value = 0, {
+        incProgress(0, detail = "Loading tables")
+        table <- proteinTable()
+        table <- table[,c("Recommended_name", "Organism", "Ref")]
+        data <- data.frame(parameter = c(), data = c(), Recommended_name = c(), Organism = c())
+        for(i in 1:12){
+          incProgress(0.5/12, detail = "Analysing tables")
+          data <- do_function(i, distFunction, addNoData, addNoData, input$attributes, attributeFound(), table = table, data = data)
+        }
+        incProgress(0.4, detail = "Plotting")
+        p <- plot_ly(data, x = ~data, color = ~parameter, colors = seba_palette,
+                     type = "box",
+                     text = ~paste(Recommended_name, Organism, sep = "\n"))
+        incProgress(0.1, detail = "Ready")
+        distributionPlot(p)
+      })
+      shinyjs::enable("getDistribution")
+    } else{noParameters("a", "Distribution")}
   })
   
   # Distribution
   output$distributionOut <- renderPlotly({
     distributionPlot()
+  })
+  
+  # Back to visualization
+  observeEvent(input$backVisualization1, {
+    updateTabItems(session, "inTabset", "histogram")
   })
   
   # Correlation
@@ -959,28 +1118,59 @@ shinyServer(function(input, output, session) {
   
   # Generate Correlation
   observeEvent(input$getCorrelation, {
-    shinyjs::disable("getCorrelation")
-    updateTabItems(session, "inTabset", "correlation")
-    withProgress(message = "Calculating correlation...", value = 0, {
-      tableList <- list()
-      for(n in 1:12){
-        tableList[[n]] <- do_function(n, correlationTable, noTable, noTable, input$attributes, attributeFound())
-      }
-      incProgress(0, detail = "Grouping tables")
-      tableMerging <- mergeTables(tableList)
-      incProgress(0.25, detail = "Merging tables")
-      tableMerging <- doMerge(tableMerging)
-      groupMerging(tableMerging)
-      tableMerging <- deleteMutantColumn(tableMerging)
-      incProgress(0.25, detail = "Doing the correlation")
-      m <- correlation(tableMerging, "pearson")
-      incProgress(0.125, detail = "Binding matrices")
-      m <- bindMatrix(m)
-      incProgress(0.125, detail = "Ploting")
-    })
-    p <- plot_ly(x = colnames(m), y = rownames(m), z = m, colors = seba_palette, type = 'heatmap')
-    shinyjs::enable("getCorrelation")
-    correlationPlot(p)
+    if(paramSearch()){
+      shinyjs::toggle("getCorrelationMatrix")
+      shinyjs::toggle("helpCorrelationMatrix")
+      shinyjs::toggle("getCorrelationScatter")
+      shinyjs::toggle("helpCorrelationScatter")
+    } else{noParameters("a", "Correlation")}
+  })
+  
+  # As a heatmap matrix
+  observeEvent(input$getCorrelationMatrix, {
+    if(paramSearch()){
+      shinyjs::disable("getCorrelationMatrix")
+      updateTabItems(session, "inTabset", "correlation")
+      updateTabItems(session, "correlationPlot", "matrix")
+      withProgress(message = "Calculating correlation...", value = 0, {
+        tableList <- list()
+        for(n in 1:12){
+          tableList[[n]] <- do_function(n, correlationTable, noTable, noTable, input$attributes, attributeFound())
+        }
+        incProgress(0, detail = "Grouping tables")
+        tableMerging <- mergeTables(tableList)
+        incProgress(0.25, detail = "Merging tables")
+        tableMerging <- doMerge(tableMerging)
+        groupMerging(tableMerging)
+        tableMerging <- deleteMutantColumn(tableMerging)
+        incProgress(0.25, detail = "Doing the correlation")
+        m <- correlation(tableMerging, "pearson")
+        incProgress(0.125, detail = "Binding matrices")
+        m <- bindMatrix(m)
+        incProgress(0.125, detail = "Ploting")
+      })
+      p <- plot_ly(x = colnames(m), y = rownames(m), z = m, colors = seba_palette2, type = 'heatmap')
+      p <- colorbar(p, limits = c(-1,1))
+      shinyjs::enable("getCorrelationMatrix")
+      merged(TRUE)
+      correlationPlot(p)
+    } else{(noParameters("a", "Correlation"))}
+  })
+  
+  # As a scatterplot
+  observeEvent(input$getCorrelationScatter, {
+    if(paramSearch()){
+      updateTabItems(session, "inTabset", "correlation")
+      updateTabItems(session, "correlationPlot", "scatter")
+    } else{noParameters("a", "Correlation")}
+  })
+  
+  # Back to visualization
+  observeEvent(input$backVisualization2, {
+    updateTabItems(session, "inTabset", "histogram")
+  })
+  observeEvent(input$backVisualization3, {
+    updateTabItems(session, "inTabset", "histogram")
   })
   
   # Distribution
@@ -988,21 +1178,111 @@ shinyServer(function(input, output, session) {
     correlationPlot()
   })
   
+  # Analysis
+  observeEvent(input$analyze, {
+    if(paramSearch()){
+      updateTabItems(session, "inTabset", "cluster")
+      updateTabItems(session, "cluster", "home")
+    } else{noParameters("an", "Analysis")}
+  })
+  
+  # Clustering
+  observeEvent(input$toKMeans, {
+    if(paramSearch()){updateTabItems(session, "clusterPlot", "k-means")}
+    else{noParameters("a", "Clusterization")}
+  })
+  
+  #K-means
+  observeEvent(input$goKmeans, {
+    s <- length(input$kmeans)
+    if(!paramSearch()){noParameters("a", "Clusterization")}
+    else if(s==2 | s==3){
+      shinyjs::disable("goKmeans")
+      withProgress(value = 0, message = "Clustering...", {
+        incProgress(0, detail = "Determinating dimensions")
+        kmeansDim(dimInfo(s, input$kmeans))
+        table <- proteinTable()
+        table <- table[,c("Ref", "Recommended_name", "Organism")]
+        attr <- list()
+        clu <- as.integer(input$kmeans)
+        for(n in clu){
+          tb <- correlationTable(n)
+          tb <- unique(labeling(tb, table))
+          attr <- list.append(attr, tb)
+        }
+        incProgress(0.1, detail = "Merging tables")
+        cluster <- join_all(attr, type = "inner")
+        cluster <- unique(cluster)
+        incProgress(0.2, detail = "Preprocessing")
+        to_cluster <- preKmeans(cluster)
+        incProgress(0.1, detail = "Determinating k, number of clusters")
+        if(nrow(to_cluster) <= 2){shinyalert("Not enough data", "We are sorry, but there are really very few common data beetween parameters")}
+        else{
+          out <- elbow(to_cluster)
+          elbowPlot(out$p)
+          incProgress(0.2, detail = "Do clusterization")
+          data <- clusteringKmeans(to_cluster, cluster, out$k)
+          incProgress(0.1, detail = "Generating and saving clusterization")
+          to_save <- completeData(data, proteinTable())
+          kmeansTable(to_save)
+          incProgress(0.2, detail = "Ploting")
+          datag <- data
+          while(nrow(datag) > 20000){
+            showNotification("Your clusterized data has too many rows to plot, we are reducing it to be able to show it. The whole data is still available to download",
+                             duration = NULL,
+                             closeButton = TRUE,
+                             type = "warning",
+                             session = session)
+            incProgress(-0.1, detail = "To much data, reducing")
+            row.names(datag) <- 1:nrow(datag)
+            datag <- with(datag, datag[as.integer(row.names(datag)) %% 2 == 1,])
+            incProgress(0.1, detail = "To much data, reducing")
+          }
+          if(s == 2){
+            p <- plotingKmeans2d(datag, nat[clu[1]], nat[clu[2]])
+          } else{
+            p <- plotingKmeans(datag, nat[clu[1]], nat[clu[2]], nat[clu[3]])
+          }
+          kPlot(p)
+          incProgress(0.1, detail = "Ready")
+        }
+      })
+      shinyjs::enable("goKmeans")
+    } else{kmeansError(s)
+      kmeansDim(NULL)
+      elbowPlot(NULL)
+      kPlot(NULL)}
+  })
+  
+  output$kmeansDimInfo <- renderUI({
+    kmeansDim()
+  })
+  
+  output$elbowKMeans <- renderPlot({
+    elbowPlot()
+  })
+  output$kmeansPlot <- renderPlotly({
+    kPlot()
+  })
+  
+  # Download Parameter Table
+  output$downloadKmeans <- downloadHandler(
+    filename <- 'clusters.txt',
+    content <- function(name){
+      if(paramSearch()){
+        table <- kmeansTable()
+      }
+      else{
+        table <- NULL
+      }
+      write.table(table, name, quote = FALSE, row.names = FALSE, sep = "\t")
+    }
+  )
   
   # Links on the tutorial
   # Enzyme name section
   observeEvent(input$enzymeHelp, {
     updateTabItems(session, "inTabset", "enzyme")
-  })
-  
-  # To pairs Plot
-  observeEvent(input$pairs, {
-    updateTabItems(session, "inTabset", "pairsPlot")
-  })
-  
-  # To visualization
-  observeEvent(input$backVisualization, {
-    updateTabItems(session, "inTabset", "histogram")
   })
   
 })

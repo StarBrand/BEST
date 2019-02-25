@@ -1,0 +1,254 @@
+EC_Number	Organism	PDB	link
+1.1.1.1	Acinetobacter	6c49	https://www.rcsb.org/structure/6c49
+1.1.1.1	Acinetobacter baumannii	6c49	https://www.rcsb.org/structure/6c49
+1.1.1.1	Aeropyrum pernix	1h2b	https://www.rcsb.org/structure/1h2b
+1.1.1.1	Arabidopsis	3uko	https://www.rcsb.org/structure/3uko
+1.1.1.1	Arabidopsis	4gl4	https://www.rcsb.org/structure/4gl4
+1.1.1.1	Arabidopsis	4jji	https://www.rcsb.org/structure/4jji
+1.1.1.1	Arabidopsis	4l0q	https://www.rcsb.org/structure/4l0q
+1.1.1.1	Arabidopsis	4rqt	https://www.rcsb.org/structure/4rqt
+1.1.1.1	Arabidopsis	4rqu	https://www.rcsb.org/structure/4rqu
+1.1.1.1	Arabidopsis thaliana	3uko	https://www.rcsb.org/structure/3uko
+1.1.1.1	Arabidopsis thaliana	4gl4	https://www.rcsb.org/structure/4gl4
+1.1.1.1	Arabidopsis thaliana	4jji	https://www.rcsb.org/structure/4jji
+1.1.1.1	Arabidopsis thaliana	4l0q	https://www.rcsb.org/structure/4l0q
+1.1.1.1	Arabidopsis thaliana	4rqt	https://www.rcsb.org/structure/4rqt
+1.1.1.1	Arabidopsis thaliana	4rqu	https://www.rcsb.org/structure/4rqu
+1.1.1.1	Candida	3wle	https://www.rcsb.org/structure/3wle
+1.1.1.1	Candida	3wlf	https://www.rcsb.org/structure/3wlf
+1.1.1.1	Candida	3wnq	https://www.rcsb.org/structure/3wnq
+1.1.1.1	Candida	4c4o	https://www.rcsb.org/structure/4c4o
+1.1.1.1	Candida parapsilosis	3wle	https://www.rcsb.org/structure/3wle
+1.1.1.1	Candida parapsilosis	3wlf	https://www.rcsb.org/structure/3wlf
+1.1.1.1	Candida parapsilosis	3wnq	https://www.rcsb.org/structure/3wnq
+1.1.1.1	Candida parapsilosis	4c4o	https://www.rcsb.org/structure/4c4o
+1.1.1.1	Drosophila	1a4u	https://www.rcsb.org/structure/1a4u
+1.1.1.1	Drosophila	1b14	https://www.rcsb.org/structure/1b14
+1.1.1.1	Drosophila	1b15	https://www.rcsb.org/structure/1b15
+1.1.1.1	Drosophila	1b16	https://www.rcsb.org/structure/1b16
+1.1.1.1	Drosophila	1b2l	https://www.rcsb.org/structure/1b2l
+1.1.1.1	Drosophila	1mg5	https://www.rcsb.org/structure/1mg5
+1.1.1.1	Drosophila	1sby	https://www.rcsb.org/structure/1sby
+1.1.1.1	Drosophila	3rj5	https://www.rcsb.org/structure/3rj5
+1.1.1.1	Drosophila	3rj9	https://www.rcsb.org/structure/3rj9
+1.1.1.1	Drosophila	5ilg	https://www.rcsb.org/structure/5ilg
+1.1.1.1	Drosophila	5ilo	https://www.rcsb.org/structure/5ilo
+1.1.1.1	Drosophila melanogaster	1mg5	https://www.rcsb.org/structure/1mg5
+1.1.1.1	Drosophila melanogaster	5ilg	https://www.rcsb.org/structure/5ilg
+1.1.1.1	Drosophila melanogaster	5ilo	https://www.rcsb.org/structure/5ilo
+1.1.1.1	Equus caballus	1a71	https://www.rcsb.org/structure/1a71
+1.1.1.1	Equus caballus	1a72	https://www.rcsb.org/structure/1a72
+1.1.1.1	Equus caballus	1adb	https://www.rcsb.org/structure/1adb
+1.1.1.1	Equus caballus	1adc	https://www.rcsb.org/structure/1adc
+1.1.1.1	Equus caballus	1adf	https://www.rcsb.org/structure/1adf
+1.1.1.1	Equus caballus	1adg	https://www.rcsb.org/structure/1adg
+1.1.1.1	Equus caballus	1axe	https://www.rcsb.org/structure/1axe
+1.1.1.1	Equus caballus	1axg	https://www.rcsb.org/structure/1axg
+1.1.1.1	Equus caballus	1bto	https://www.rcsb.org/structure/1bto
+1.1.1.1	Equus caballus	1ee2	https://www.rcsb.org/structure/1ee2
+1.1.1.1	Equus caballus	1het	https://www.rcsb.org/structure/1het
+1.1.1.1	Equus caballus	1heu	https://www.rcsb.org/structure/1heu
+1.1.1.1	Equus caballus	1hf3	https://www.rcsb.org/structure/1hf3
+1.1.1.1	Equus caballus	1hld	https://www.rcsb.org/structure/1hld
+1.1.1.1	Equus caballus	1ju9	https://www.rcsb.org/structure/1ju9
+1.1.1.1	Equus caballus	1lde	https://www.rcsb.org/structure/1lde
+1.1.1.1	Equus caballus	1ldy	https://www.rcsb.org/structure/1ldy
+1.1.1.1	Equus caballus	1mg0	https://www.rcsb.org/structure/1mg0
+1.1.1.1	Equus caballus	1mgo	https://www.rcsb.org/structure/1mgo
+1.1.1.1	Equus caballus	1n8k	https://www.rcsb.org/structure/1n8k
+1.1.1.1	Equus caballus	1n92	https://www.rcsb.org/structure/1n92
+1.1.1.1	Equus caballus	1p1r	https://www.rcsb.org/structure/1p1r
+1.1.1.1	Equus caballus	1qlh	https://www.rcsb.org/structure/1qlh
+1.1.1.1	Equus caballus	1qlj	https://www.rcsb.org/structure/1qlj
+1.1.1.1	Equus caballus	1qv6	https://www.rcsb.org/structure/1qv6
+1.1.1.1	Equus caballus	1qv7	https://www.rcsb.org/structure/1qv7
+1.1.1.1	Equus caballus	1ye3	https://www.rcsb.org/structure/1ye3
+1.1.1.1	Equus caballus	2jhf	https://www.rcsb.org/structure/2jhf
+1.1.1.1	Equus caballus	2jhg	https://www.rcsb.org/structure/2jhg
+1.1.1.1	Equus caballus	2ohx	https://www.rcsb.org/structure/2ohx
+1.1.1.1	Equus caballus	2oxi	https://www.rcsb.org/structure/2oxi
+1.1.1.1	Equus caballus	3bto	https://www.rcsb.org/structure/3bto
+1.1.1.1	Equus caballus	3oq6	https://www.rcsb.org/structure/3oq6
+1.1.1.1	Equus caballus	4dwv	https://www.rcsb.org/structure/4dwv
+1.1.1.1	Equus caballus	4dxh	https://www.rcsb.org/structure/4dxh
+1.1.1.1	Equus caballus	4nfh	https://www.rcsb.org/structure/4nfh
+1.1.1.1	Equus caballus	4nfs	https://www.rcsb.org/structure/4nfs
+1.1.1.1	Equus caballus	4ng5	https://www.rcsb.org/structure/4ng5
+1.1.1.1	Equus caballus	4xd2	https://www.rcsb.org/structure/4xd2
+1.1.1.1	Equus caballus	5adh	https://www.rcsb.org/structure/5adh
+1.1.1.1	Equus caballus	5cdg	https://www.rcsb.org/structure/5cdg
+1.1.1.1	Equus caballus	5cds	https://www.rcsb.org/structure/5cds
+1.1.1.1	Equus caballus	5cdt	https://www.rcsb.org/structure/5cdt
+1.1.1.1	Equus caballus	5cdu	https://www.rcsb.org/structure/5cdu
+1.1.1.1	Equus caballus	5kcz	https://www.rcsb.org/structure/5kcz
+1.1.1.1	Equus caballus	5kj1	https://www.rcsb.org/structure/5kj1
+1.1.1.1	Equus caballus	5kj6	https://www.rcsb.org/structure/5kj6
+1.1.1.1	Equus caballus	5kjc	https://www.rcsb.org/structure/5kjc
+1.1.1.1	Equus caballus	5kje	https://www.rcsb.org/structure/5kje
+1.1.1.1	Equus caballus	5kjf	https://www.rcsb.org/structure/5kjf
+1.1.1.1	Equus caballus	5vj5	https://www.rcsb.org/structure/5vj5
+1.1.1.1	Equus caballus	5vjg	https://www.rcsb.org/structure/5vjg
+1.1.1.1	Equus caballus	5vkr	https://www.rcsb.org/structure/5vkr
+1.1.1.1	Equus caballus	5vl0	https://www.rcsb.org/structure/5vl0
+1.1.1.1	Equus caballus	5vn1	https://www.rcsb.org/structure/5vn1
+1.1.1.1	Equus caballus	6adh	https://www.rcsb.org/structure/6adh
+1.1.1.1	Equus caballus	6cxx	https://www.rcsb.org/structure/6cxx
+1.1.1.1	Equus caballus	6cy3	https://www.rcsb.org/structure/6cy3
+1.1.1.1	Equus caballus	7adh	https://www.rcsb.org/structure/7adh
+1.1.1.1	Equus caballus	8adh	https://www.rcsb.org/structure/8adh
+1.1.1.1	Escherichia	1ai2	https://www.rcsb.org/structure/1ai2
+1.1.1.1	Escherichia	1ai3	https://www.rcsb.org/structure/1ai3
+1.1.1.1	Escherichia	1bl5	https://www.rcsb.org/structure/1bl5
+1.1.1.1	Escherichia	1cw1	https://www.rcsb.org/structure/1cw1
+1.1.1.1	Escherichia	1cw4	https://www.rcsb.org/structure/1cw4
+1.1.1.1	Escherichia	1cw7	https://www.rcsb.org/structure/1cw7
+1.1.1.1	Escherichia	1gro	https://www.rcsb.org/structure/1gro
+1.1.1.1	Escherichia	1grp	https://www.rcsb.org/structure/1grp
+1.1.1.1	Escherichia	1hj6	https://www.rcsb.org/structure/1hj6
+1.1.1.1	Escherichia	1idc	https://www.rcsb.org/structure/1idc
+1.1.1.1	Escherichia	1idd	https://www.rcsb.org/structure/1idd
+1.1.1.1	Escherichia	1ide	https://www.rcsb.org/structure/1ide
+1.1.1.1	Escherichia	1idf	https://www.rcsb.org/structure/1idf
+1.1.1.1	Escherichia	1ika	https://www.rcsb.org/structure/1ika
+1.1.1.1	Escherichia	1iso	https://www.rcsb.org/structure/1iso
+1.1.1.1	Escherichia	1p8f	https://www.rcsb.org/structure/1p8f
+1.1.1.1	Escherichia	1pb1	https://www.rcsb.org/structure/1pb1
+1.1.1.1	Escherichia	1pb3	https://www.rcsb.org/structure/1pb3
+1.1.1.1	Escherichia	1sjs	https://www.rcsb.org/structure/1sjs
+1.1.1.1	Escherichia	3icd	https://www.rcsb.org/structure/3icd
+1.1.1.1	Escherichia	4aj3	https://www.rcsb.org/structure/4aj3
+1.1.1.1	Escherichia	4aja	https://www.rcsb.org/structure/4aja
+1.1.1.1	Escherichia	4ajb	https://www.rcsb.org/structure/4ajb
+1.1.1.1	Escherichia	4ajc	https://www.rcsb.org/structure/4ajc
+1.1.1.1	Escherichia	4ajr	https://www.rcsb.org/structure/4ajr
+1.1.1.1	Escherichia	4ajs	https://www.rcsb.org/structure/4ajs
+1.1.1.1	Escherichia	4bnp	https://www.rcsb.org/structure/4bnp
+1.1.1.1	Escherichia	4gkv	https://www.rcsb.org/structure/4gkv
+1.1.1.1	Escherichia	4icd	https://www.rcsb.org/structure/4icd
+1.1.1.1	Escherichia	5icd	https://www.rcsb.org/structure/5icd
+1.1.1.1	Escherichia	6icd	https://www.rcsb.org/structure/6icd
+1.1.1.1	Escherichia	7icd	https://www.rcsb.org/structure/7icd
+1.1.1.1	Escherichia	8icd	https://www.rcsb.org/structure/8icd
+1.1.1.1	Escherichia	9icd	https://www.rcsb.org/structure/9icd
+1.1.1.1	Escherichia coli	1ai2	https://www.rcsb.org/structure/1ai2
+1.1.1.1	Escherichia coli	1ai3	https://www.rcsb.org/structure/1ai3
+1.1.1.1	Escherichia coli	1bl5	https://www.rcsb.org/structure/1bl5
+1.1.1.1	Escherichia coli	1cw1	https://www.rcsb.org/structure/1cw1
+1.1.1.1	Escherichia coli	1cw4	https://www.rcsb.org/structure/1cw4
+1.1.1.1	Escherichia coli	1cw7	https://www.rcsb.org/structure/1cw7
+1.1.1.1	Escherichia coli	1gro	https://www.rcsb.org/structure/1gro
+1.1.1.1	Escherichia coli	1grp	https://www.rcsb.org/structure/1grp
+1.1.1.1	Escherichia coli	1hj6	https://www.rcsb.org/structure/1hj6
+1.1.1.1	Escherichia coli	1idc	https://www.rcsb.org/structure/1idc
+1.1.1.1	Escherichia coli	1idd	https://www.rcsb.org/structure/1idd
+1.1.1.1	Escherichia coli	1ide	https://www.rcsb.org/structure/1ide
+1.1.1.1	Escherichia coli	1idf	https://www.rcsb.org/structure/1idf
+1.1.1.1	Escherichia coli	1ika	https://www.rcsb.org/structure/1ika
+1.1.1.1	Escherichia coli	1iso	https://www.rcsb.org/structure/1iso
+1.1.1.1	Escherichia coli	1p8f	https://www.rcsb.org/structure/1p8f
+1.1.1.1	Escherichia coli	1pb1	https://www.rcsb.org/structure/1pb1
+1.1.1.1	Escherichia coli	1pb3	https://www.rcsb.org/structure/1pb3
+1.1.1.1	Escherichia coli	1sjs	https://www.rcsb.org/structure/1sjs
+1.1.1.1	Escherichia coli	3icd	https://www.rcsb.org/structure/3icd
+1.1.1.1	Escherichia coli	4aj3	https://www.rcsb.org/structure/4aj3
+1.1.1.1	Escherichia coli	4aja	https://www.rcsb.org/structure/4aja
+1.1.1.1	Escherichia coli	4ajb	https://www.rcsb.org/structure/4ajb
+1.1.1.1	Escherichia coli	4ajc	https://www.rcsb.org/structure/4ajc
+1.1.1.1	Escherichia coli	4ajr	https://www.rcsb.org/structure/4ajr
+1.1.1.1	Escherichia coli	4ajs	https://www.rcsb.org/structure/4ajs
+1.1.1.1	Escherichia coli	4bnp	https://www.rcsb.org/structure/4bnp
+1.1.1.1	Escherichia coli	4gkv	https://www.rcsb.org/structure/4gkv
+1.1.1.1	Escherichia coli	4icd	https://www.rcsb.org/structure/4icd
+1.1.1.1	Escherichia coli	5icd	https://www.rcsb.org/structure/5icd
+1.1.1.1	Escherichia coli	6icd	https://www.rcsb.org/structure/6icd
+1.1.1.1	Escherichia coli	7icd	https://www.rcsb.org/structure/7icd
+1.1.1.1	Escherichia coli	8icd	https://www.rcsb.org/structure/8icd
+1.1.1.1	Escherichia coli	9icd	https://www.rcsb.org/structure/9icd
+1.1.1.1	Geobacillus	1rjw	https://www.rcsb.org/structure/1rjw
+1.1.1.1	Geobacillus	3pii	https://www.rcsb.org/structure/3pii
+1.1.1.1	Geobacillus stearothermophilus	1rjw	https://www.rcsb.org/structure/1rjw
+1.1.1.1	Geobacillus stearothermophilus	3pii	https://www.rcsb.org/structure/3pii
+1.1.1.1	Homo sapiens	1agn	https://www.rcsb.org/structure/1agn
+1.1.1.1	Homo sapiens	1d1s	https://www.rcsb.org/structure/1d1s
+1.1.1.1	Homo sapiens	1d1t	https://www.rcsb.org/structure/1d1t
+1.1.1.1	Homo sapiens	1deh	https://www.rcsb.org/structure/1deh
+1.1.1.1	Homo sapiens	1hdx	https://www.rcsb.org/structure/1hdx
+1.1.1.1	Homo sapiens	1hdy	https://www.rcsb.org/structure/1hdy
+1.1.1.1	Homo sapiens	1hdz	https://www.rcsb.org/structure/1hdz
+1.1.1.1	Homo sapiens	1hso	https://www.rcsb.org/structure/1hso
+1.1.1.1	Homo sapiens	1hsz	https://www.rcsb.org/structure/1hsz
+1.1.1.1	Homo sapiens	1ht0	https://www.rcsb.org/structure/1ht0
+1.1.1.1	Homo sapiens	1htb	https://www.rcsb.org/structure/1htb
+1.1.1.1	Homo sapiens	1m6h	https://www.rcsb.org/structure/1m6h
+1.1.1.1	Homo sapiens	1m6w	https://www.rcsb.org/structure/1m6w
+1.1.1.1	Homo sapiens	1ma0	https://www.rcsb.org/structure/1ma0
+1.1.1.1	Homo sapiens	1mc5	https://www.rcsb.org/structure/1mc5
+1.1.1.1	Homo sapiens	1mp0	https://www.rcsb.org/structure/1mp0
+1.1.1.1	Homo sapiens	1teh	https://www.rcsb.org/structure/1teh
+1.1.1.1	Homo sapiens	1u3t	https://www.rcsb.org/structure/1u3t
+1.1.1.1	Homo sapiens	1u3u	https://www.rcsb.org/structure/1u3u
+1.1.1.1	Homo sapiens	1u3v	https://www.rcsb.org/structure/1u3v
+1.1.1.1	Homo sapiens	1u3w	https://www.rcsb.org/structure/1u3w
+1.1.1.1	Homo sapiens	2fze	https://www.rcsb.org/structure/2fze
+1.1.1.1	Homo sapiens	2fzw	https://www.rcsb.org/structure/2fzw
+1.1.1.1	Homo sapiens	3cos	https://www.rcsb.org/structure/3cos
+1.1.1.1	Homo sapiens	3hud	https://www.rcsb.org/structure/3hud
+1.1.1.1	Homo sapiens	3qj5	https://www.rcsb.org/structure/3qj5
+1.1.1.1	Lactococcus	4eex	https://www.rcsb.org/structure/4eex
+1.1.1.1	Lactococcus	4eez	https://www.rcsb.org/structure/4eez
+1.1.1.1	Lactococcus lactis	4eex	https://www.rcsb.org/structure/4eex
+1.1.1.1	Lactococcus lactis	4eez	https://www.rcsb.org/structure/4eez
+1.1.1.1	Moraxella	4z6k	https://www.rcsb.org/structure/4z6k
+1.1.1.1	Mus musculus	1e3e	https://www.rcsb.org/structure/1e3e
+1.1.1.1	Mus musculus	1e3i	https://www.rcsb.org/structure/1e3i
+1.1.1.1	Mus musculus	1e3l	https://www.rcsb.org/structure/1e3l
+1.1.1.1	Pseudomonas	1llu	https://www.rcsb.org/structure/1llu
+1.1.1.1	Pseudomonas aeruginosa	1llu	https://www.rcsb.org/structure/1llu
+1.1.1.1	Pyrobaculum aerophilum	4jbg	https://www.rcsb.org/structure/4jbg
+1.1.1.1	Pyrobaculum aerophilum	4jbh	https://www.rcsb.org/structure/4jbh
+1.1.1.1	Pyrobaculum aerophilum	4jbi	https://www.rcsb.org/structure/4jbi
+1.1.1.1	Ralstonia	4bmn	https://www.rcsb.org/structure/4bmn
+1.1.1.1	Ralstonia	4bms	https://www.rcsb.org/structure/4bms
+1.1.1.1	Ralstonia sp.	4bmn	https://www.rcsb.org/structure/4bmn
+1.1.1.1	Ralstonia sp.	4bms	https://www.rcsb.org/structure/4bms
+1.1.1.1	Rhizobium	3uog	https://www.rcsb.org/structure/3uog
+1.1.1.1	Rhizobium	4j6f	https://www.rcsb.org/structure/4j6f
+1.1.1.1	Rhodococcus	2xaa	https://www.rcsb.org/structure/2xaa
+1.1.1.1	Rhodococcus	3jv7	https://www.rcsb.org/structure/3jv7
+1.1.1.1	Rhodococcus ruber	2xaa	https://www.rcsb.org/structure/2xaa
+1.1.1.1	Rhodococcus ruber	3jv7	https://www.rcsb.org/structure/3jv7
+1.1.1.1	Saccharomyces	4w6z	https://www.rcsb.org/structure/4w6z
+1.1.1.1	Saccharomyces	5env	https://www.rcsb.org/structure/5env
+1.1.1.1	Saccharomyces cerevisiae	4w6z	https://www.rcsb.org/structure/4w6z
+1.1.1.1	Saccharomyces cerevisiae	5env	https://www.rcsb.org/structure/5env
+1.1.1.1	Sphingobium	4bmv	https://www.rcsb.org/structure/4bmv
+1.1.1.1	Sphingobium yanoikuyae	4bmv	https://www.rcsb.org/structure/4bmv
+1.1.1.1	Streptococcus	5yln	https://www.rcsb.org/structure/5yln
+1.1.1.1	Streptococcus pneumoniae	5yln	https://www.rcsb.org/structure/5yln
+1.1.1.1	Sulfolobus	1jvb	https://www.rcsb.org/structure/1jvb
+1.1.1.1	Sulfolobus	1nto	https://www.rcsb.org/structure/1nto
+1.1.1.1	Sulfolobus	1nvg	https://www.rcsb.org/structure/1nvg
+1.1.1.1	Sulfolobus	1r37	https://www.rcsb.org/structure/1r37
+1.1.1.1	Sulfolobus	3i4c	https://www.rcsb.org/structure/3i4c
+1.1.1.1	Sulfolobus solfataricus	1jvb	https://www.rcsb.org/structure/1jvb
+1.1.1.1	Sulfolobus solfataricus	1nto	https://www.rcsb.org/structure/1nto
+1.1.1.1	Sulfolobus solfataricus	1nvg	https://www.rcsb.org/structure/1nvg
+1.1.1.1	Sulfolobus solfataricus	1r37	https://www.rcsb.org/structure/1r37
+1.1.1.1	Sulfolobus solfataricus	3i4c	https://www.rcsb.org/structure/3i4c
+1.1.1.1	Sulfurisphaera tokodaii	2eer	https://www.rcsb.org/structure/2eer
+1.1.1.1	Thermotoga	1o2d	https://www.rcsb.org/structure/1o2d
+1.1.1.1	Thermotoga	1vj0	https://www.rcsb.org/structure/1vj0
+1.1.1.1	Thermotoga maritima	1o2d	https://www.rcsb.org/structure/1o2d
+1.1.1.1	Thermotoga maritima	1vj0	https://www.rcsb.org/structure/1vj0
+1.1.1.1	Thermus	4cpd	https://www.rcsb.org/structure/4cpd
+1.1.1.1	Thermus sp.	4cpd	https://www.rcsb.org/structure/4cpd
+1.1.1.1	Zymomonas	3owo	https://www.rcsb.org/structure/3owo
+1.1.1.1	Zymomonas	3ox4	https://www.rcsb.org/structure/3ox4
+1.1.1.1	Zymomonas mobilis	3owo	https://www.rcsb.org/structure/3owo
+1.1.1.1	Zymomonas mobilis	3ox4	https://www.rcsb.org/structure/3ox4
+1.1.1.1	Thermus sp. ATN1	4cpd	https://www.rcsb.org/structure/4cpd
+1.1.1.1	Zymomonas mobilis subsp. mobilis	3owo	https://www.rcsb.org/structure/3owo
+1.1.1.1	Zymomonas mobilis subsp. mobilis	3ox4	https://www.rcsb.org/structure/3ox4
+1.1.1.1	Moraxella sp.	4z6k	https://www.rcsb.org/structure/4z6k
+1.1.1.1	Lactococcus lactis subsp. lactis	4eex	https://www.rcsb.org/structure/4eex
+1.1.1.1	Lactococcus lactis subsp. lactis	4eez	https://www.rcsb.org/structure/4eez

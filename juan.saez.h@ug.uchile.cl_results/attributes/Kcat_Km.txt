@@ -1,0 +1,31 @@
+Commentary	Substrate	Ref	Literature(PubmedID)	value
+purified enzyme, at pH 5.0 and 55°C	inulin	934	21067917	0.1
+purified enzyme, at pH 5.0 and 50°C	levan	934	21067917	0.18
+purified enzyme, at pH 5.0 and 50°C	Agave tequilana fructan	934	21067917	0.9
+purified enzyme, at pH 5.0 and 55°C	Actilight	934	21067917	1.09
+purified enzyme, at pH 5.0 and 55°C	Sucrose	934	21067917	1.27
+purified enzyme, at pH 5.0 and 55°C	inulin	935	21067917	0.1
+purified enzyme, at pH 5.0 and 50°C	levan	935	21067917	0.18
+purified enzyme, at pH 5.0 and 50°C	Agave tequilana fructan	935	21067917	0.9
+purified enzyme, at pH 5.0 and 55°C	Actilight	935	21067917	1.09
+purified enzyme, at pH 5.0 and 55°C	Sucrose	935	21067917	1.27
+purified enzyme, at pH 5.0 and 55°C	inulin	936	21067917	0.1
+purified enzyme, at pH 5.0 and 50°C	levan	936	21067917	0.18
+purified enzyme, at pH 5.0 and 50°C	Agave tequilana fructan	936	21067917	0.9
+purified enzyme, at pH 5.0 and 55°C	Actilight	936	21067917	1.09
+purified enzyme, at pH 5.0 and 55°C	Sucrose	936	21067917	1.27
+purified enzyme, at pH 5.0 and 55°C	inulin	937	21067917	0.1
+purified enzyme, at pH 5.0 and 50°C	levan	937	21067917	0.18
+purified enzyme, at pH 5.0 and 50°C	Agave tequilana fructan	937	21067917	0.9
+purified enzyme, at pH 5.0 and 55°C	Actilight	937	21067917	1.09
+purified enzyme, at pH 5.0 and 55°C	Sucrose	937	21067917	1.27
+purified enzyme, at pH 5.0 and 55°C	inulin	938	21067917	0.1
+purified enzyme, at pH 5.0 and 50°C	levan	938	21067917	0.18
+purified enzyme, at pH 5.0 and 50°C	Agave tequilana fructan	938	21067917	0.9
+purified enzyme, at pH 5.0 and 55°C	Actilight	938	21067917	1.09
+purified enzyme, at pH 5.0 and 55°C	Sucrose	938	21067917	1.27
+purified enzyme, at pH 5.0 and 55°C	inulin	939	21067917	0.1
+purified enzyme, at pH 5.0 and 50°C	levan	939	21067917	0.18
+purified enzyme, at pH 5.0 and 50°C	Agave tequilana fructan	939	21067917	0.9
+purified enzyme, at pH 5.0 and 55°C	Actilight	939	21067917	1.09
+purified enzyme, at pH 5.0 and 55°C	Sucrose	939	21067917	1.27
