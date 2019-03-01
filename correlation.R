@@ -3,15 +3,25 @@ library(plyr)
 library(shiny)
 library(rlist)
 
+# Merge tables
+mergeTable <- function(attr, table){
+  tbl <- list.apply(1:12, function(n){
+    tb <- labeling(attr[[n]], table)
+    tb <- tb[,c("Recommended_name", "Organism", nat[n], "Mutant")]
+    tb <- unique(tb)
+    tb
+  })
+}
+
 # Makes the list of list of tables to be merge
-mergeTables <- function(attr){
-  x <- list(1:4, c(1:2,5:6), c(1:2, 7:8), c(1:2,9:10), c(1:2,11:12),
-            5:8, c(3:4,7:8), c(3:4,9:10), c(3:4,11:12), 5:8,
-            c(5:6,9:10), c(5:6,11:12), 7:10, c(7:8,9:10), 9:12)
+groupTables <- function(attr){
+  x = list(1:4, c(1:2,5:6), c(1:2, 7:8), c(1:2,9:10), c(1:2,11:12),
+           5:8, c(3:4,7:8), c(3:4,9:10), c(3:4,11:12), 5:8,
+           c(5:6,9:10), c(5:6,11:12), 7:10, c(7:8,9:10), 9:12)
   m <- list()
   m <- list.apply(x, function(i){
     list.append(m, list.apply(i, function(j){
-      attr[[j]][, c("Ref", nat[j], "Mutant")]
+      tb <- attr[[j]]
     }))
   })
   m
@@ -20,9 +30,9 @@ mergeTables <- function(attr){
 # Merge every list of tables
 doMerge <- function(mergeTable){
   m <- list()
-  for(n in 1:15){
+  for(n in 1:length(mergeTable)){
     temp <- join_all(mergeTable[[n]][[1]], type = "full")
-    temp$Ref <- NULL
+    temp <- unique(temp)
     incProgress(0.25/15, detail = "Merging tables")
     m <- list.append(m, temp)
   }
@@ -35,6 +45,8 @@ doMerge <- function(mergeTable){
 deleteMutantColumn <- function(listTable){
   listOut <- list.apply(listTable, function(table){
     table$Mutant <- NULL
+    table$Recommended_name <- NULL
+    table$Organism <- NULL
     table
   })
   listOut
@@ -68,3 +80,16 @@ bindMatrix <- function(m){
 # Matrix Scatterplot
 
 ## Ploting
+configureMutant <- function(atable){
+  table <- atable
+  table$Mutant <- unlist(sapply(table$Mutant, function(x){
+    if(x){out <- "Mutant"}
+    else{out <- "Wild Type"}
+    out
+  }))
+  table
+}
+
+mergingScatter <- function(listTables){
+  
+}

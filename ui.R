@@ -15,6 +15,7 @@ library(shinyWidgets)
 library(shinyalert)
 library(plotly)
 library(shinyBS)
+library(rclipboard)
 source("helpers.R")
 source("variables.R")
 
@@ -560,7 +561,10 @@ dashboardPage(skin = "green",
                                                                "Kendall" = "kendall",
                                                                "Spearman" = "spearman")),
                                    radioButtons("correlationColor", "Change the palette of the correlation",
-                                                choices = list("Default" = seba_palette))
+                                                choices = list("Default",
+                                                               "Spectral",
+                                                               "Red/Yellow/Green" = "RdYlGn",
+                                                               "Red/Yellow/Blue" = "RdYlBu"))
                   ),
                   conditionalPanel(condition = "input.correlationPlot == 'scatter'",
                                    h5("Information"),
@@ -570,6 +574,7 @@ dashboardPage(skin = "green",
               tabBox(title = "Correlation", id = "correlationPlot", selected = "matrix", width = 9, height = '70vh',
                      tabPanel(value = "matrix", h5("Heatmap matrix"),
                          div(style = "float: right;", actionButton("backVisualization2", "Go back to visualization", class = "btn-warning")),
+                         tags$br(),
                          plotlyOutput("correlationOut")
                          ),
                      tabPanel(value = "scatter", h5("Scatterplot matrix"),

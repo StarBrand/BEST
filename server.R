@@ -21,6 +21,7 @@ library(plotly)
 library(plyr)
 library(rlist)
 library(shinyBS)
+library(rclipboard)
 .jinit("BrendaSOAP.jar")
 source("correlation.R")
 source("functions.R")
@@ -654,10 +655,7 @@ shinyServer(function(input, output, session) {
     taf <- attrTable()
     ftaf <- fattrTable()
     attr_folder <- paste(folder(), "attributes\\", sep = "")
-    file <- gsub("_", " ", nat[n])
-    file <- gsub("/", "_", file)
-    file <- paste(file, ".txt", sep ="")
-    table_name <- paste(attr_folder, file, sep = "")
+    table_name <- paste(attr_folder, files_name[n], sep = "")
     filterId <- paste(at[n], "Filter", sep = "")
     if(file.exists(table_name)){
       af[n] <- TRUE
@@ -1105,15 +1103,7 @@ shinyServer(function(input, output, session) {
   
   # Correlation
   correlationTable <- function(n, ...){
-    tb <- getValue(fattrTable()[[n]], nat[n])
-    tb <- tb[,c("Ref", nat[n], "Commentary")]
-    tb$Mutant <- unlist(lapply(tb$Commentary, function(x){
-      if(grepl("mutant", x)){m <- TRUE}
-      else{m <- FALSE}
-      m
-    }))
-    tb$Commentary <- NULL
-    tb
+    tb <- simplify(fattrTable()[[n]], nat[n])
   }
   
   # Generate Correlation
@@ -1127,41 +1117,63 @@ shinyServer(function(input, output, session) {
   })
   
   # As a heatmap matrix
-  observeEvent(input$getCorrelationMatrix, {
+  observeEvent(input$getCorrelationMatrix, {#Check!!!
     if(paramSearch()){
       shinyjs::disable("getCorrelationMatrix")
       updateTabItems(session, "inTabset", "correlation")
       updateTabItems(session, "correlationPlot", "matrix")
       withProgress(message = "Calculating correlation...", value = 0, {
-        tableList <- list()
-        for(n in 1:12){
-          tableList[[n]] <- do_function(n, correlationTable, noTable, noTable, input$attributes, attributeFound())
+        if(!merged()){
+          table <- proteinTable()[,c("Ref", "Recommended_name", "Organism")]
+          tableList <- list()
+          for(n in 1:12){
+            tableList[[n]] <- do_function(n, correlationTable, noTable, noTable, input$attributes, attributeFound())
+          }
+          mergedTable <- mergeTable(tableList, table)
+          groupMerging(mergedTable)
         }
         incProgress(0, detail = "Grouping tables")
-        tableMerging <- mergeTables(tableList)
+        tableMerged <- groupTables(groupMerging())
         incProgress(0.25, detail = "Merging tables")
-        tableMerging <- doMerge(tableMerging)
-        groupMerging(tableMerging)
-        tableMerging <- deleteMutantColumn(tableMerging)
+        tableMerged <- doMerge(tableMerged)
+        tableMerged <- deleteMutantColumn(tableMerged)
+        incProgress(0.25, detail = "Doing the correlation")
+        m <- correlation(tableMerged, "pearson")
+        incProgress(0.125, detail = "Binding matrices")
+        m <- bindMatrix(m)
+        incProgress(0.125, detail = "Ploting")
+      })
+      shinyjs::enable("getCorrelationMatrix")
+      merged(TRUE)
+      correlationPlot(m)
+    } else{(noParameters("a", "Correlation"))}
+  })
+  
+  # As a scatterplot
+  observeEvent(input$getCorrelationScatter, { # THIS!!!
+    if(paramSearch()){
+      updateTabItems(session, "inTabset", "correlation")
+      updateTabItems(session, "correlationPlot", "scatter")
+      withProgress(message = "Ploting", value = 0, {
+        if(!merged()){
+          tableList <- list()
+          for(n in 1:12){
+            tableList[[n]] <- do_function(n, correlationTable, noTable, noTable, input$attributes, attributeFound())
+          }
+          incProgress(0, detail = "Grouping tables")
+          table <- proteinTable()[,c("Ref", "Recommended_name", "Organism")]
+          tableMerging <- mergeTables(tableList, table)
+          incProgress(0.25, detail = "Merging tables")
+          tableMerging <- doMerge(tableMerging)
+          groupMerging(tableMerging)
+        }
+        ...
         incProgress(0.25, detail = "Doing the correlation")
         m <- correlation(tableMerging, "pearson")
         incProgress(0.125, detail = "Binding matrices")
         m <- bindMatrix(m)
         incProgress(0.125, detail = "Ploting")
       })
-      p <- plot_ly(x = colnames(m), y = rownames(m), z = m, colors = seba_palette2, type = 'heatmap')
-      p <- colorbar(p, limits = c(-1,1))
-      shinyjs::enable("getCorrelationMatrix")
-      merged(TRUE)
-      correlationPlot(p)
-    } else{(noParameters("a", "Correlation"))}
-  })
-  
-  # As a scatterplot
-  observeEvent(input$getCorrelationScatter, {
-    if(paramSearch()){
-      updateTabItems(session, "inTabset", "correlation")
-      updateTabItems(session, "correlationPlot", "scatter")
     } else{noParameters("a", "Correlation")}
   })
   
@@ -1175,7 +1187,13 @@ shinyServer(function(input, output, session) {
   
   # Distribution
   output$correlationOut <- renderPlotly({
-    correlationPlot()
+    m <- correlationPlot()
+    if(input$correlationColor == "Default"){
+      p <- plot_ly(x = colnames(m), y = rownames(m), z = m, colors = seba_palette2, type = 'heatmap')
+    } else{
+      p <- plot_ly(x = colnames(m), y = rownames(m), z = m, colors = input$correlationColor, type = 'heatmap')
+    }
+    p <- colorbar(p, limits = c(-1,1))
   })
   
   # Analysis
@@ -1227,17 +1245,7 @@ shinyServer(function(input, output, session) {
           kmeansTable(to_save)
           incProgress(0.2, detail = "Ploting")
           datag <- data
-          while(nrow(datag) > 20000){
-            showNotification("Your clusterized data has too many rows to plot, we are reducing it to be able to show it. The whole data is still available to download",
-                             duration = NULL,
-                             closeButton = TRUE,
-                             type = "warning",
-                             session = session)
-            incProgress(-0.1, detail = "To much data, reducing")
-            row.names(datag) <- 1:nrow(datag)
-            datag <- with(datag, datag[as.integer(row.names(datag)) %% 2 == 1,])
-            incProgress(0.1, detail = "To much data, reducing")
-          }
+          datag <- reduceData(2000, datag, session)
           if(s == 2){
             p <- plotingKmeans2d(datag, nat[clu[1]], nat[clu[2]])
           } else{

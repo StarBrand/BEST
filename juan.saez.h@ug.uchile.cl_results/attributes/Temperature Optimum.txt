@@ -5,10 +5,10 @@ pH 4.6	76	12974403	55.0
 	169	19127444	50.0
 	170	19127444	50.0
 	171	19127444	50.0
-enzyme retains 35.9% and 25.8% activities after 4 h at 50 and 55&ordm;C, respectively	179	15126701	60.0
-enzyme retains 35.9% and 25.8% activities after 4 h at 50 and 55&ordm;C, respectively	180	15126701	60.0
-enzyme retains 35.9% and 25.8% activities after 4 h at 50 and 55&ordm;C, respectively	181	15126701	60.0
-enzyme retains 35.9% and 25.8% activities after 4 h at 50 and 55&ordm;C, respectively	182	15126701	60.0
+enzyme retains 35.9% and 25.8% activities after 4 h at 50 and 55&Acirc;&ordm;C, respectively	179	15126701	60.0
+enzyme retains 35.9% and 25.8% activities after 4 h at 50 and 55&Acirc;&ordm;C, respectively	180	15126701	60.0
+enzyme retains 35.9% and 25.8% activities after 4 h at 50 and 55&Acirc;&ordm;C, respectively	181	15126701	60.0
+enzyme retains 35.9% and 25.8% activities after 4 h at 50 and 55&Acirc;&ordm;C, respectively	182	15126701	60.0
 pH 5.5	197	15135402	55.0
 pH 5.5	198	15135402	55.0
 pH 5.5	199	15135402	55.0

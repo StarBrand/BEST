@@ -91,7 +91,7 @@ kmeansError <- function(s){
 }
 noParameters <- function(art, what){
   shinyalert(paste(what, "of what?"),
-             paste("To do", art, what, "a functional parameter query must be done"),
+             paste("To do", art, what, ", a functional parameter query must be done"),
              type = "error")
 }
 
@@ -218,7 +218,7 @@ update_filter_notFound <- function(session, filterId, name){
 updateKmeans <- function(n, ...){
   op <- list(...)
   new <- list(n)
-  new <- setNames(new, nat[n])
+  new <- setNames(new, nat_to_show[n])
   if(length(op$listA) == 0){out <- new}
   else{out <- list.merge(op$listA, new)}
   out
@@ -250,6 +250,18 @@ filterParam <- function(table, f1, f2, mol){
   p
 }
 
+simplify <- function(param, name){
+  tb <- getValue(param, name)
+  tb <- tb[,c("Ref", name, "Commentary")]
+  tb$Mutant <- unlist(lapply(tb$Commentary, function(x){
+    if(grepl("mutant", x)){m <- TRUE}
+    else{m <- FALSE}
+    m
+  }))
+  tb$Commentary <- NULL
+  tb
+}
+
 # Label data
 labeling <- function(data, table){
   Ref <- unique(data$Ref)
@@ -259,6 +271,35 @@ labeling <- function(data, table){
   out <- merge(data, label, x.all = TRUE)
   out$Ref <- NULL
   out
+}
+
+# Reduce data
+reduceData <- function(long, data, session){
+  datag <- data
+  names <- attributes(datag)$names
+  n <- nrow(datag)
+  if(n > long){
+    showNotification("Your clusterized data has too many rows to plot, we are reducing it to be able to show it. The whole data is still available to download",
+                     duration = NULL,
+                     closeButton = TRUE,
+                     session = session)
+  }
+  while(nrow(datag) > long){
+    incProgress(-0.1, detail = "To much data, reducing")
+    row.names(datag) <- 1:nrow(datag)
+    datag <- with(datag, datag[as.integer(row.names(datag)) %% 2 == 1,])
+    datag <- data.frame(datag)
+    attributes(datag)$names <- names
+    incProgress(0.1, detail = "To much data, reducing")
+  }
+  if(n > long){
+    showNotification(paste("Data reduced, original rows:", n, "It was reduced to", nrow(datag), "rows."),
+                    duration = NULL,
+                    closeButton = TRUE,
+                    type = "warning",
+                    session = session)
+  }
+  datag
 }
 
 # Show expceted time
