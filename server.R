@@ -1162,7 +1162,7 @@ shinyServer(function(input, output, session) {
       updateTabItems(session, "correlationPlot", "scatter")
     } else{noParameters("a", "Correlation")}
   })
-      
+  
   # As a scatterplot
   observeEvent(input$getCorrelationScatter2, {
     if(paramSearch()){

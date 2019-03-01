@@ -1,0 +1,67 @@
+Commentary	Ref	Literature(PubmedID)	value
+isoelectric focusing	1775	8729010	4.9
+isoelectric focusing	1776	8729010	4.9
+isoelectric focusing	1777	8729010	4.9
+isoelectric focusing	1778	8729010	4.9
+isoelectric focusing	1779	8729010	4.9
+isoelectric focusing	1780	8729010	4.9
+isoelectric focusing	1781	8729010	4.9
+calculated	2135	17485854	5.7
+calculated	2135	17485854	6.1
+calculated	2136	17485854	5.7
+calculated	2136	17485854	6.1
+calculated	2137	17485854	5.7
+calculated	2137	17485854	6.1
+calculated	2138	17485854	5.7
+calculated	2138	17485854	6.1
+calculated	2139	17485854	5.7
+calculated	2139	17485854	6.1
+calculated	2140	17485854	5.7
+calculated	2140	17485854	6.1
+calculated	2141	17485854	5.7
+calculated	2141	17485854	6.1
+isoelectric focusing	2607	25082080	4.8
+calculated	2607	25082080	5.1
+isoelectric focusing	2608	25082080	4.8
+calculated	2608	25082080	5.1
+calculated from sequence, ADH1	2679	17516063	6.3
+calculated from sequence	2679	17516063	8.3
+calculated from sequence, ADH1	2680	17516063	6.3
+calculated from sequence	2680	17516063	8.3
+calculated from sequence, ADH1	2681	17516063	6.3
+calculated from sequence	2681	17516063	8.3
+calculated from sequence, ADH1	2682	17516063	6.3
+calculated from sequence	2682	17516063	8.3
+calculated from sequence, ADH1	2683	17516063	6.3
+calculated from sequence	2683	17516063	8.3
+sequence calculation	2729	23385476	5.23
+sequence calculation	2730	23385476	5.23
+sequence calculation	2731	23385476	5.23
+sequence calculation	2732	23385476	5.23
+sequence calculation	2733	23385476	5.23
+	3262	29022135	6.6
+	3970	12031468	6.0
+	3971	12031468	6.0
+Ta1316 ADH, calculated from amino acid sequence	3975	19058034	5.5
+Ta1316 ADH, calculated from amino acid sequence	3976	19058034	5.5
+Ta1316 ADH, calculated from amino acid sequence	3977	19058034	5.5
+calculated	4323	17485854	5.7
+calculated	4323	17485854	6.1
+calculated	4325	17485854	5.7
+calculated	4325	17485854	6.1
+	4332	29022135	6.6
+calculated	4360	17485854	5.7
+calculated	4360	17485854	6.1
+isoelectric focusing	4375	8729010	4.9
+calculated from sequence	4398	14756315	6.98
+Ta1316 ADH, calculated from amino acid sequence	4410	19058034	5.5
+calculated from sequence, ADH1	4411	17516063	6.3
+calculated from sequence	4411	17516063	8.3
+calculated	4422	17485854	5.7
+calculated	4422	17485854	6.1
+calculated	4424	17485854	5.7
+calculated	4424	17485854	6.1
+calculated	4426	17485854	5.7
+calculated	4426	17485854	6.1
+isoelectric focusing	4429	25082080	4.8
+calculated	4429	25082080	5.1

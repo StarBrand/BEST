@@ -122,7 +122,9 @@ setPlot <- function(table1, table2, session){
 ## Genereta axis
 axisTitle <- function(numbers){
   lapply(seq_len(length(numbers)), function(n){
-    list(title = nat[numbers[n]])
+    list(title = nat[numbers[n]],
+         titlefont = list(size = 10),
+         tickfont = list(size = 10))
   })
 }
 
@@ -142,7 +144,7 @@ mergingScatter <- function(listTables, numbers, session){
   }
   ax <- axisTitle(numbers)
   incProgress(0.1, detail = "Ploting")
-  p <- subplot(p, shareX = TRUE, shareY = FALSE, nrows = l) %>%
+  p <- subplot(p, shareX = TRUE, shareY = FALSE, nrows = l, margin = 0.03) %>%
     layout(xaxis = ax[[1]], yaxis2 = ax[[1]], xaxis2 = ax[[2]])
   if(l >= 3) p <- layout(p, xaxis3 = ax[[3]])
   if(l >= 4) p <- layout(p, xaxis4 = ax[[4]])

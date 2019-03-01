@@ -1,0 +1,186 @@
+Commentary	Ref	Literature(PubmedID)	value
+pH 7.0: about 70% of maximal activity, pH 9.6: about 50% of maximal activity, reduction of 2-pentanone	133	16233615	7.0 - 9.6
+pH 9.5: about 40% of maximal activity, pH 11.5: about 30% of maximal activity, oxidation of 2-pentanol	133	16233615	9.6 - 11.5
+pH 7.0: about 70% of maximal activity, pH 9.6: about 50% of maximal activity, reduction of 2-pentanone	134	16233615	7.0 - 9.6
+pH 9.5: about 40% of maximal activity, pH 11.5: about 30% of maximal activity, oxidation of 2-pentanol	134	16233615	9.6 - 11.5
+pH 7.0: about 70% of maximal activity, pH 9.6: about 50% of maximal activity, reduction of 2-pentanone	135	16233615	7.0 - 9.6
+pH 9.5: about 40% of maximal activity, pH 11.5: about 30% of maximal activity, oxidation of 2-pentanol	135	16233615	9.6 - 11.5
+pH 7.0: about 70% of maximal activity, pH 9.6: about 50% of maximal activity, reduction of 2-pentanone	136	16233615	7.0 - 9.6
+pH 9.5: about 40% of maximal activity, pH 11.5: about 30% of maximal activity, oxidation of 2-pentanol	136	16233615	9.6 - 11.5
+more than 50% of maximum activity	307	23707506	8.5
+more than 50% of maximum activity	308	23707506	8.5
+more than 50% of maximum activity	309	23707506	8.5
+more than 50% of maximum activity	310	23707506	8.5
+more than 50% of maximum activity	311	23707506	8.5
+more than 50% of maximum activity	312	23707506	8.5
+more than 50% of maximum activity	313	23707506	8.5
+pH 5.0: about 50% of maximal activity, pH 8.0: about 40% of maximal activity, reduction of phenylacetaldehyde	640	16243283	5.0 - 8.0
+pH 8.0: about 50% of maximal activity, pH 12.0: about 50% of maximal activity, oxidation of 2-phenylethanol	640	16243283	8.0 - 12.0
+oxidation reaction activity range, profile overview	743	21670533	4.0 - 8.5
+reduction reaction activity range, profile overview	743	21670533	5.5 - 9.0
+oxidation reaction activity range, profile overview	744	21670533	4.0 - 8.5
+reduction reaction activity range, profile overview	744	21670533	5.5 - 9.0
+oxidation reaction activity range, profile overview	745	21670533	4.0 - 8.5
+reduction reaction activity range, profile overview	745	21670533	5.5 - 9.0
+pH 4.0: about 80% of maximal activity, pH 7.5: about 60% of maximal activity	748	17435004	4.0 - 7.5
+pH 4.0: about 80% of maximal activity, pH 7.5: about 60% of maximal activity	749	17435004	4.0 - 7.5
+pH 4.0: about 80% of maximal activity, pH 7.5: about 60% of maximal activity	750	17435004	4.0 - 7.5
+pH 4.0: about 80% of maximal activity, pH 7.5: about 60% of maximal activity	751	17435004	4.0 - 7.5
+pH 4.0: about 80% of maximal activity, pH 7.5: about 60% of maximal activity	752	17435004	4.0 - 7.5
+complete inactivation	930	26216639	5.5
+complete inactivation	931	26216639	5.5
+pH 9.5: about 40% of maximal activity, pH 11.5: about 85% of maximal activity, ethanol oxidation enzyme form ADH-3	1099	2789998	9.5 - 11.5
+	1572	15023053	6.0 - 10.0
+	1573	15023053	6.0 - 10.0
+	1574	15023053	6.0 - 10.0
+	1575	15023053	6.0 - 10.0
+	1576	15023053	6.0 - 10.0
+	1577	15023053	6.0 - 10.0
+	1578	15023053	6.0 - 10.0
+	1579	15023053	6.0 - 10.0
+	1580	15023053	6.0 - 10.0
+; 	1784	19383697	6.0 - 9.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1986	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1986	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1987	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1987	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1988	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1988	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1989	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1989	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1990	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1990	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1991	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1991	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1992	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1992	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1993	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1993	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1994	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1994	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1995	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1995	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1996	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1996	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1997	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1997	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1998	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1998	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	1999	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	1999	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2000	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2000	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2001	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2001	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2002	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2002	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2003	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2003	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2004	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2004	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2005	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2005	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2006	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2006	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2007	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2007	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2008	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2008	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2009	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2009	6397223	8.0 - 12.0
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	2010	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	2010	6397223	8.0 - 12.0
+pH 9.0: about 25% of maximal activity, pH 12.0: about 80% of maximal activity, pyrazole-sensitive enzyme	2352	7030395	9.0 - 12.0
+pH 10.0: about 50% of maximal activity, pH 11.0: about 75% of maximal activity, pyrazole-insensitive enzyme	2352	7030395	10.0 - 11.0
+pH 9.0: about 25% of maximal activity, pH 12.0: about 80% of maximal activity, pyrazole-sensitive enzyme	2353	7030395	9.0 - 12.0
+pH 10.0: about 50% of maximal activity, pH 11.0: about 75% of maximal activity, pyrazole-insensitive enzyme	2353	7030395	10.0 - 11.0
+pH 9.0: about 25% of maximal activity, pH 12.0: about 80% of maximal activity, pyrazole-sensitive enzyme	2354	7030395	9.0 - 12.0
+pH 10.0: about 50% of maximal activity, pH 11.0: about 75% of maximal activity, pyrazole-insensitive enzyme	2354	7030395	10.0 - 11.0
+pH 9.0: about 25% of maximal activity, pH 12.0: about 80% of maximal activity, pyrazole-sensitive enzyme	2355	7030395	9.0 - 12.0
+pH 10.0: about 50% of maximal activity, pH 11.0: about 75% of maximal activity, pyrazole-insensitive enzyme	2355	7030395	10.0 - 11.0
+pH 9.0: about 25% of maximal activity, pH 12.0: about 80% of maximal activity, pyrazole-sensitive enzyme	2356	7030395	9.0 - 12.0
+pH 10.0: about 50% of maximal activity, pH 11.0: about 75% of maximal activity, pyrazole-insensitive enzyme	2356	7030395	10.0 - 11.0
+pH 4.0: about 35% of maximal activity, pH 8.0: about 70% of maximal activity	2489	16390205	4.0 - 8.0
+pH 8.0: about 70% of maximal activity, pH 12: about 60% of maximal activity	2651	18189118	8.0 - 12.0
+pH 8.0: about 70% of maximal activity, pH 12: about 60% of maximal activity	2652	18189118	8.0 - 12.0
+pH 7: 41% of maximal activity, pH 8: 59% of maximal activity	3020	17989975	7.0 - 8.0
+pH 7: 41% of maximal activity, pH 8: 59% of maximal activity	3021	17989975	7.0 - 8.0
+	3191	12172614	6.0 - 10.0
+	3192	12172614	6.0 - 10.0
+	3193	12172614	6.0 - 10.0
+	3194	12172614	6.0 - 10.0
+	3195	12172614	6.0 - 10.0
+	3475	19578994	5.0 - 9.0
+	3475	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	3475	3282541	8.2 - 9.5
+	3476	19578994	5.0 - 9.0
+	3476	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	3476	3282541	8.2 - 9.5
+	3477	19578994	5.0 - 9.0
+	3477	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	3477	3282541	8.2 - 9.5
+	3478	19578994	5.0 - 9.0
+	3478	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	3478	3282541	8.2 - 9.5
+	3479	19578994	5.0 - 9.0
+	3479	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	3479	3282541	8.2 - 9.5
+	3480	19578994	5.0 - 9.0
+	3480	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	3480	3282541	8.2 - 9.5
+	3481	19578994	5.0 - 9.0
+	3481	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	3481	3282541	8.2 - 9.5
+	3482	19578994	5.0 - 9.0
+	3482	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	3482	3282541	8.2 - 9.5
+	3483	19578994	5.0 - 9.0
+	3483	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	3483	3282541	8.2 - 9.5
+	3484	19578994	5.0 - 9.0
+	3484	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	3484	3282541	8.2 - 9.5
+pH 5.2: about 35% of maximal activity, pH 6.8: about 55% of maximal activity, oxidation of ethanol	3735	0	5.2 - 6.8
+pH 7.2: about 50% of maximal activity, pH 9.2: about 60% of maximal activity	3735	0	7.2 - 9.2
+pH 4.9: about 25% of maximal activity, pH 5.8: about 40% of maximal activity, reduction reaction	3830	20049620	4.9 - 5.8
+pH 6.7: about 40% of maximal activity, pH 8.5: about 85% of maximal activity, oxidation reaction	3830	20049620	6.7 - 8.5
+pH 4.9: about 25% of maximal activity, pH 5.8: about 40% of maximal activity, reduction reaction	3831	20049620	4.9 - 5.8
+pH 6.7: about 40% of maximal activity, pH 8.5: about 85% of maximal activity, oxidation reaction	3831	20049620	6.7 - 8.5
+pH 4.9: about 25% of maximal activity, pH 5.8: about 40% of maximal activity, reduction reaction	3832	20049620	4.9 - 5.8
+pH 6.7: about 40% of maximal activity, pH 8.5: about 85% of maximal activity, oxidation reaction	3832	20049620	6.7 - 8.5
+	3833	11265460	8.8 - 9.6
+	3834	11265460	8.8 - 9.6
+	3835	11265460	8.8 - 9.6
+50% of maximum activity for reduction of aldehydes	3960	23354700	6.0
+	3975	19058034	2.0 - 8.0
+	3976	19058034	2.0 - 8.0
+	3977	19058034	2.0 - 8.0
+; 	4334	19383697	6.0 - 9.0
+; 	4336	19383697	6.0 - 9.0
+pH 4.0: about 80% of maximal activity, pH 7.5: about 60% of maximal activity	4346	17435004	4.0 - 7.5
+pH 5.5: about 35% of maximal activity, pH 7.5: about 55% of maximal activity, reduction of benzaldehyde	4359	19139244	5.5 - 7.5
+pH 7.5: about 35% of maximal activity, pH 10.8: about 50% of maximal activity, oxidation of 1-hexanol	4359	19139244	7.5 - 10.8
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	4366	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	4366	6397223	8.0 - 12.0
+	4367	15023053	6.0 - 10.0
+	4368	19578994	5.0 - 9.0
+	4368	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	4368	3282541	8.2 - 9.5
+	4369	19578994	5.0 - 9.0
+	4369	11893392	6.0 - 9.0
+pH 8.2: about 10% of maximal activity, pH 9.5: about 40% of maximal activity	4369	3282541	8.2 - 9.5
+pH 8.0: about 40% of maximal activity, pH 10.5: about 85% of maximal activity	4370	2099148	8.0 - 10.5
+about 30% of maximal activity at pH 8.0 and at pH 12.0	4370	6397223	8.0 - 12.0
+	4373	11265460	8.8 - 9.6
+pH 4.9: about 25% of maximal activity, pH 5.8: about 40% of maximal activity, reduction reaction	4387	20049620	4.9 - 5.8
+pH 6.7: about 40% of maximal activity, pH 8.5: about 85% of maximal activity, oxidation reaction	4387	20049620	6.7 - 8.5
+pH 4.9: about 25% of maximal activity, pH 5.8: about 40% of maximal activity, reduction reaction	4389	20049620	4.9 - 5.8
+pH 6.7: about 40% of maximal activity, pH 8.5: about 85% of maximal activity, oxidation reaction	4389	20049620	6.7 - 8.5
+50% of maximum activity for reduction of aldehydes	4392	23354700	6.0
+pH 7: 41% of maximal activity, pH 8: 59% of maximal activity	4395	17989975	7.0 - 8.0
+pH 5.5: about 35% of maximal activity, pH 7.5: about 55% of maximal activity, reduction of benzaldehyde	4406	19139244	5.5 - 7.5
+pH 7.5: about 35% of maximal activity, pH 10.8: about 50% of maximal activity, oxidation of 1-hexanol	4406	19139244	7.5 - 10.8
+	4410	19058034	2.0 - 8.0
+	4414	11265460	8.8 - 9.6
+pH 7.0: about 70% of maximal activity, pH 9.6: about 50% of maximal activity, reduction of 2-pentanone	4416	16233615	7.0 - 9.6
+pH 9.5: about 40% of maximal activity, pH 11.5: about 30% of maximal activity, oxidation of 2-pentanol	4416	16233615	9.6 - 11.5
