@@ -545,6 +545,9 @@ dashboardPage(skin = "green",
               box(title = "Distribution", width = 9,
                   height = '70vh',
                   div(style = "float: right;", actionButton("backVisualization1", "Go back to visualization", class = "btn-warning")),
+                  tags$br(),
+                  tags$br(),
+                  tags$br(),
                   div(
                   plotlyOutput("distributionOut"),
                   height = '70vh')
@@ -567,18 +570,30 @@ dashboardPage(skin = "green",
                                                                "Red/Yellow/Blue" = "RdYlBu"))
                   ),
                   conditionalPanel(condition = "input.correlationPlot == 'scatter'",
-                                   h5("Information"),
-                                   helpText("Select one of the plot in the grid to watch the plot on full page.")
+                                   div(style='height:75vh; overflow-y: scroll',
+                                       checkboxGroupInput("corScat", "Select functional parameters to get correlation as a scatter plots, 2 to 6 parameters available"),
+                                       tags$br(),
+                                       actionButton("getCorrelationScatter2", "Get correlation", class = "btn-primary"),
+                                       tags$br(),
+                                       tags$hr(),
+                                       helpText("To generate a good correlation pairing we recommend generate the heatmap matrix first ",
+                                                "in order to make a better decisions of what parameters to choose."))
                   )
               ),
               tabBox(title = "Correlation", id = "correlationPlot", selected = "matrix", width = 9, height = '70vh',
                      tabPanel(value = "matrix", h5("Heatmap matrix"),
                          div(style = "float: right;", actionButton("backVisualization2", "Go back to visualization", class = "btn-warning")),
                          tags$br(),
+                         tags$br(),
+                         tags$br(),
                          plotlyOutput("correlationOut")
                          ),
                      tabPanel(value = "scatter", h5("Scatterplot matrix"),
-                         div(style = "float: right;", actionButton("backVisualization3", "Go back to visualization", class = "btn-warning"))
+                         div(style = "float: right;", actionButton("backVisualization3", "Go back to visualization", class = "btn-warning")),
+                         tags$br(),
+                         tags$br(),
+                         tags$br(),
+                         plotlyOutput("correlationOut2")
                          )
                 
               )

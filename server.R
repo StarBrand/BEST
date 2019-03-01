@@ -99,6 +99,7 @@ shinyServer(function(input, output, session) {
   distributionPlot <- reactiveVal(NULL)
   # Correlation
   correlationPlot <- reactiveVal(NULL)
+  correlationPlotScatter <- reactiveVal(NULL)
   # Clustering: Kmeans
   elbowPlot <- reactiveVal(NULL)
   kPlot <- reactiveVal(NULL)
@@ -198,6 +199,7 @@ shinyServer(function(input, output, session) {
     histPlot(NULL)
     distributionPlot(NULL)
     correlationPlot(NULL)
+    correlationPlotScatter(NULL)
     elbowPlot(NULL)
     kPlot(NULL)
     groupMerging(list(NULL))
@@ -745,6 +747,7 @@ shinyServer(function(input, output, session) {
         listA <- do_function(n, updateKmeans, addNoList, addNoList, input$attributes, attributeFound(), listA = listA)
       }
       updateCheckboxGroupInput(session, "kmeans", choices = listA)
+      updateCheckboxGroupInput(session, "corScat", choices = listA)
       incProgress(0.05, detail = "Working on data")
       table <- as.data.frame(sapply(table,gsub,pattern="-999.0",replacement="Additional Information"))
       table <- as.data.frame(sapply(table,gsub,pattern="-999",replacement="Additional Information"))
@@ -1116,22 +1119,24 @@ shinyServer(function(input, output, session) {
     } else{noParameters("a", "Correlation")}
   })
   
+  commonCorrelation <- function(){
+    table <- proteinTable()[,c("Ref", "Recommended_name", "Organism")]
+    tableList <- list()
+    for(n in 1:12){
+      tableList[[n]] <- do_function(n, correlationTable, noTable, noTable, input$attributes, attributeFound())
+    }
+    mergedTable <- mergeTable(tableList, table)
+    mergedTable
+  }
+  
   # As a heatmap matrix
-  observeEvent(input$getCorrelationMatrix, {#Check!!!
+  observeEvent(input$getCorrelationMatrix, {
     if(paramSearch()){
       shinyjs::disable("getCorrelationMatrix")
       updateTabItems(session, "inTabset", "correlation")
       updateTabItems(session, "correlationPlot", "matrix")
       withProgress(message = "Calculating correlation...", value = 0, {
-        if(!merged()){
-          table <- proteinTable()[,c("Ref", "Recommended_name", "Organism")]
-          tableList <- list()
-          for(n in 1:12){
-            tableList[[n]] <- do_function(n, correlationTable, noTable, noTable, input$attributes, attributeFound())
-          }
-          mergedTable <- mergeTable(tableList, table)
-          groupMerging(mergedTable)
-        }
+        if(!merged()) groupMerging(commonCorrelation())
         incProgress(0, detail = "Grouping tables")
         tableMerged <- groupTables(groupMerging())
         incProgress(0.25, detail = "Merging tables")
@@ -1142,6 +1147,7 @@ shinyServer(function(input, output, session) {
         incProgress(0.125, detail = "Binding matrices")
         m <- bindMatrix(m)
         incProgress(0.125, detail = "Ploting")
+        incProgress(0, detail = "Ready")
       })
       shinyjs::enable("getCorrelationMatrix")
       merged(TRUE)
@@ -1150,29 +1156,28 @@ shinyServer(function(input, output, session) {
   })
   
   # As a scatterplot
-  observeEvent(input$getCorrelationScatter, { # THIS!!!
+  observeEvent(input$getCorrelationScatter, {
     if(paramSearch()){
       updateTabItems(session, "inTabset", "correlation")
       updateTabItems(session, "correlationPlot", "scatter")
+    } else{noParameters("a", "Correlation")}
+  })
+      
+  # As a scatterplot
+  observeEvent(input$getCorrelationScatter2, {
+    if(paramSearch()){
+      shinyjs::disable("getCorrelationScatter2")
       withProgress(message = "Ploting", value = 0, {
-        if(!merged()){
-          tableList <- list()
-          for(n in 1:12){
-            tableList[[n]] <- do_function(n, correlationTable, noTable, noTable, input$attributes, attributeFound())
-          }
-          incProgress(0, detail = "Grouping tables")
-          table <- proteinTable()[,c("Ref", "Recommended_name", "Organism")]
-          tableMerging <- mergeTables(tableList, table)
-          incProgress(0.25, detail = "Merging tables")
-          tableMerging <- doMerge(tableMerging)
-          groupMerging(tableMerging)
-        }
-        ...
-        incProgress(0.25, detail = "Doing the correlation")
-        m <- correlation(tableMerging, "pearson")
-        incProgress(0.125, detail = "Binding matrices")
-        m <- bindMatrix(m)
-        incProgress(0.125, detail = "Ploting")
+        if(!merged()) groupMerging(commonCorrelation())
+        incProgress(0, detail = "Entering selection")
+        numbers <- unlist(as.integer(input$corScat))
+        listTables <- groupMerging()[numbers]
+        listTables <- lapply(listTables, function(tb) configureMutant(tb) )
+        incProgress(0.1, detail = "Merging")
+        p <- mergingScatter(listTables, numbers, session)
+        correlationPlotScatter(p)
+        incProgress(0.1, detail = "Ready")
+        shinyjs::enable("getCorrelationScatter2")
       })
     } else{noParameters("a", "Correlation")}
   })
@@ -1194,6 +1199,11 @@ shinyServer(function(input, output, session) {
       p <- plot_ly(x = colnames(m), y = rownames(m), z = m, colors = input$correlationColor, type = 'heatmap')
     }
     p <- colorbar(p, limits = c(-1,1))
+  })
+  
+  # Distribution
+  output$correlationOut2 <- renderPlotly({
+    correlationPlotScatter()
   })
   
   # Analysis

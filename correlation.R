@@ -3,6 +3,9 @@ library(plyr)
 library(shiny)
 library(rlist)
 
+pal <- seba_palette[c(1,15)]
+pal <- setNames(pal, c("Mutant", "Wild Type"))
+
 # Merge tables
 mergeTable <- function(attr, table){
   tbl <- list.apply(1:12, function(n){
@@ -79,7 +82,7 @@ bindMatrix <- function(m){
 
 # Matrix Scatterplot
 
-## Ploting
+## Configure the mutant parameter
 configureMutant <- function(atable){
   table <- atable
   table$Mutant <- unlist(sapply(table$Mutant, function(x){
@@ -90,6 +93,64 @@ configureMutant <- function(atable){
   table
 }
 
-mergingScatter <- function(listTables){
-  
+## Empty plot
+nPlots <- function(n){
+  lapply(seq_len(n), function(x) plot_ly())
+}
+
+## Histogram diag
+selfHistogram <- function(x, session){
+  temp <- data.frame(x)
+  temp <- setNames(temp, "value")
+  temp <- reduceData(2000, temp, session)
+  p <- ggplot(temp, aes(x = value)) + 
+    geom_histogram(aes(y = ..density..), fill = seba_palette[15]) + 
+    geom_density(fill = seba_palette[1], alpha = 0.5)
+}
+
+## Merged Plot
+setPlot <- function(table1, table2, session){
+  tb <- merge(table1, table2)
+  tb <- reduceData(2000, tb, session)
+  p <- plot_ly(data = tb, x = tb[,5], y = tb[,4],
+               color = ~Mutant, colors = pal,
+               type = "scatter", mode = "markers",
+               text = ~paste(Recommended_name, Organism, sep = "\n"),
+               showlegend = FALSE)
+}
+
+## Genereta axis
+axisTitle <- function(numbers){
+  lapply(seq_len(length(numbers)), function(n){
+    list(title = nat[numbers[n]])
+  })
+}
+
+## Plotting
+mergingScatter <- function(listTables, numbers, session){
+  l <- length(listTables)
+  p <- list()
+  for(n in seq_len(l)){
+    incProgress(0.35/l, detail = "Merging and plotting")
+    p <- c(p, nPlots(n - 1))
+    p <- c(p, list(selfHistogram(listTables[[n]][,3], session)))
+    for(m in seq_len(l)[(1+n):l]){
+      incProgress(0.35/l, detail = "Merging and plotting")
+      if(!is.na(m)) p <- c(p, list(setPlot(listTables[[n]], listTables[[m]], session)))
+      else break
+    }
+  }
+  ax <- axisTitle(numbers)
+  incProgress(0.1, detail = "Ploting")
+  p <- subplot(p, shareX = TRUE, shareY = FALSE, nrows = l) %>%
+    layout(xaxis = ax[[1]], yaxis2 = ax[[1]], xaxis2 = ax[[2]])
+  if(l >= 3) p <- layout(p, xaxis3 = ax[[3]])
+  if(l >= 4) p <- layout(p, xaxis4 = ax[[4]])
+  if(l >= 5) p <- layout(p, xaxis5 = ax[[5]])
+  if(l >= 6) p <- layout(p, xaxis6 = ax[[6]])
+  if(l == 3) p <- layout(p, yaxis6 = ax[[2]])
+  if(l == 4) p <- layout(p, yaxis7 = ax[[2]], yaxis12 = ax[[3]])
+  if(l == 5) p <- layout(p, yaxis8 = ax[[2]], yaxis14 = ax[[3]], yaxis20 = ax[[4]])
+  if(l == 6) p <- layout(p, yaxis9 = ax[[2]], yaxis16 = ax[[3]], yaxis23 = ax[[4]], yaxis30 = ax[[5]])
+  p
 }
