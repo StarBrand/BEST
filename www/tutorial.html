@@ -1,22 +1,115 @@
 <div class="col-sm-3">
   <div class="box" style="height: 90vh">
     <div class="box-body">
-      <li>
-        <a href="#1">Get started</a>
-        <ul>
-          <li>
-            <a href="#1_1">Enzyme query</a>
-            <ul>
-              <li>
-                <a href="#1_1_1">EC Number</a>
-              </li>
-              <li>
-                <a href="#1_1_2">Enzyme name</a>
-              </li>
-            </ul>
-          </li>
-        </ul>
-      </li>
+      <div style="height:80vh; overflow-y: scroll">
+        <li>
+          <a href="#1">Get started</a>
+          <ul>
+            <li>
+              <a href="#1_1">Enzyme query</a>
+              <ul>
+                <li>
+                  <a href="#1_1_1">EC Number</a>
+                </li>
+                <li>
+                  <a href="#1_1_2">Enzyme name</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+          <ul>
+            <li>
+              <a href="#1_2">Before the query</a>
+              <ul>
+                <li>
+                  <a href="#1_2_1">Add enzymes to the query</a>
+                </li>
+                <li>
+                  <a href="#1_2_2">Erase the query</a>
+                </li>
+                <li>
+                  <a href="#1_2_3">Unavoidable errors</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#2">Queries from the organism table</a>
+          <ul>
+            <li>
+              <a href="#2_1">Get PDB</a>
+            </li>
+            <li>
+              <a href="#2_2">Get amino acids sequence</a>
+            </li>
+            <li>
+              <a href="#2_3">Get functional Parameters</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#3">Functional Parameters Query</a>
+          <ul>
+            <li>
+              <a href="#3_1">Selecting parameters</a>
+            </li>
+            <li>
+              <a href="#3_2">Selecting by phylogeny</a>
+            </li>
+            <li>
+              <a href="#3_3">Other options of query</a>
+            </li>
+            <li>
+              <a href="#3_4">Filters</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#4">Summary table and quick access</a>
+          <ul>
+            <li>
+              <a href="#4_1">Summary table and where to find it</a>
+            </li>
+            <li>
+              <a href="#4_2">Quick access toolbar</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#5">Visualize</a>
+          <ul>
+            <li>
+              <a href="#5_1">Distribution as boxplot</a>
+            </li>
+            <li>
+              <a href="#5_2">Correlation</a>
+              <ul>
+                <li>
+                  <a href="#5_2_1">Correlation as a heatmap matrix</a>
+                </li>
+                <li>
+                  <a href="#5_2_1">Correlation as a paired scatter plot</a>
+                </li>
+              </ul>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#6">Cluster</a>
+          <ul>
+            <li>
+              <a href="6_1">K-means</a>
+            </li>
+          </ul>
+        </li>
+        <li>
+          <a href="#7">External tools</a>
+        </li>
+        <li>
+          <a href="#8">Saved tables</a>
+        </li>
+      </div>
     </div>
   </div>
 </div>
@@ -67,7 +160,7 @@
             Enzymes have a lot of names that differ depending on the gen codifiding it, the reaction, 
             historical reasons and so on. Brenda groups them according to its ec number, however, they are associated
             to the multiple names in which they are called in literature. This category is showed in the 
-            <a>Brenda web page</a>
+            <a href="www.brenda-enzymes.org/">Brenda web page</a>
             with the name 'Synonyms'.
           </p>
           <p>
@@ -93,6 +186,237 @@
             for, press 'go', and go on with the numerical parameter selector.
           </p>
           <img src="Tutorial(5).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="1_2" class="seccion level2">
+          <h2>Before the query</h2>
+          <p>
+            At this point, a table showing all the organism that has a protein with the same catalytic function define in the 
+            ec number, available in Brenda is generated. This table contains the next columns that depend on the enzyme type: 
+            ec number, systematic name (this could be empty) and recommended name; and the next columns that depend on the organism: 
+            Uniprot, organism (scientific name) and commentary. This last one is hidden by default, but can be shown selecting the 
+            "show the comentary column" checkbox.
+          </p>
+          <img src="Tutorial(6).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            The way to proceed after this point is described in 
+            <a href="#2">"Queries from the organsm table" section</a>
+            . In this section, the optional proceeds to have a complex query are described.
+          </p>
+        </div>
+        <div id="1_2_1" class="seccion level3">
+          <h3>Add Enzymes to the query</h3>
+          <p>
+            If more than just one enzyme type is needed, you can add another ecnumber to the query. This proccess can be done virtually 
+            undefinely. To add ec numbers to your organism table (or protein table) look for the "Add proteins" button in the side bar 
+            panel.
+          </p>
+          <img src="Tutorial(7).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            After clicking it, you are going to be back at the
+            <a id="enzymeHelp2" href="#" class="action-button">enzyme section</a>
+            , make sure the welcome panel in the top of the page 
+            (just below the toolbar) says "
+            <i class="fa fa-exclamation-triangle"></i>
+            The enzyme your enter will be added to the search"
+            if this is not the case, please go back to the Protein table seccion (by dashboard menu or by the quick access button in 
+            toolbar showed below) and press the "Add proteins" button again.
+          </p>
+          <img src="Tutorial(8).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            If all is set, add enzymes to the query 
+            <a href="#1_1">the same way the first ones were entered.</a>
+          </p>
+        </div>
+        <div id="1_2_2" class="seccion level3">
+          <h3>Erase the query</h3>
+          <p>
+            If you made a mistake and the ec number enter to the query is not the one you want to. You can erase this query and 
+            look for another one by clicking the "Go back and search another Enzyme" in the top//right corner.
+          </p>
+          <img src="Tutorial(9).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>In this case, the welcome panel should show: </p>
+          <img src="Tutorial(10).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            Sadly, if you had more than one enzymes in the query, all of them are going to be erased.
+            <div style="display: inline-block;font-weight: bold;">There is no way to just erase the last one.</div>
+          </p>
+          <p>
+            Log out has the same effect. This is going to erase everything generated in the site. But, this has the advantage that 
+            specific tables is going to be
+            <a href="#8">saved</a>
+          </p>
+          <img src="Tutorial(11).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="1_2_3" class="seccion level3">
+          <h2>Unavoidable errors</h2>
+          <p>This is an app on develpment...</p>
+        </div>
+        <div id="2" class="seccion level1">
+          <h1>Queries from the organism table</h1>
+          <p>
+            After the organism table 
+            (
+            <a id="proteinHelp" href="#" class="action-button">Protein Table</a>
+            ) is generated, it can be used to search for 
+            <a href="#3">numerical parameters</a>
+            , 
+            <a href="#2_2">amino acids sequence</a>
+             or 
+            <a href="#2_1">PDB codes</a>
+             with their respective link to the 
+            <a href="https://www.rcsb.org/#Category-learn">RCSB PDB</a>
+             (The Protein Data Bank of the Research Collaboratory for Structural Bionformatics).
+          </p>
+          <p>
+            If you are interested in just one of this queries, you can skip the other in this tutorial. They are not
+            depended to each other.
+          </p>
+        </div>
+        <div id="2_1" class="seccion level2">
+          <h2>Get PDB</h2>
+          <p>
+            Generete a table with the PDB codes and their links to the 
+            <a href="https://www.rcsb.org/#Category-learn">RCSB PDB</a>
+             is done by clicking the "Get PDB" button above the 
+            <a id="proteinHelp2" href="#" class="action-button">Protein Table</a>
+             as show below.
+          </p>
+          <img src="Tutorial(12).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>The generated table looks like this</p>
+          <img src="Tutorial(13).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            The columns show the ec number, the organism, the PDB code and the link. If you click any of this link, you are going to 
+            be redirected to the PDB site with an image like this
+          </p>
+          <img src="Tutorial(14).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>Also, you can download the whole table clicking the blue button, or return to the Protein table section clicking the orange one</p>
+        </div>
+        <div id="2_2" class="seccion level2">
+          <h2>Get amino acids sequence</h2>
+          <p>
+            The uniprot code that some proteins have, are a distintive code provides by the 
+            <a href="https://www.uniprot.org/help/">Uniprot database</a>
+            , that a particular enzyme has. With this code you can access to the amino acids sequence of the protein. Brenda 
+            provides this code and the sequence with it. By clicking the "Get sequence" blue button, as show below, a table 
+            reporting the sequence found by BRENDA are going to be shown.
+          </p>
+          <img src="Tutorial(15).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>This table look like this</p>
+          <img src="Tutorial(16).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            You can access to the sequence code by download a .txt file clicking the blue button. The sequence to be downloaded can 
+            be selected in the report table clicking the respective row or download all the found sequence switching the "Download 
+            all the list" button in the sidebar.
+          </p>
+        </div>
+        <div id="2_3" class="seccion level2">
+          <h2>Get functional parameters</h2>
+          <p>
+            The complete functional parameters query tutorial is in the 
+            <a href="#3">next section</a>
+            . However, to generete a table with the 12 numerical parameters available in Brenda 
+            for every protein in the Protein table, you have to activate the "Select all functional parameters" switch on the top 
+            of sidebar, let the "Search for all parameters" switch activated above the table and click the "Search for parameters" 
+            green button at the end of the sidebar.
+          </p>
+          <img src="Tutorial(17).jpg" width="400px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="3" class="seccion level1">
+          <h1>Functional Parameters Query</h1>
+        </div>
+        <div id="3_1" class="seccion level2">
+          <h2>Selecting parameters</h2>
+        </div>
+        <div id="3_2" class="seccion level2">
+          <h2>Selecting by phylogeny</h2>
+        </div>
+        <div id="3_3" class="seccion level2">
+          <h2>Other options of query</h2>
+        </div>
+        <div id="3_4" class="seccion level2">
+          <h2>Filters</h2>
+        </div>
+        <div id="4" class="seccion level1">
+          <h1>Summary table and quick access</h1>
+          <p>This section describes 2 tools that are available at any moment in the app.</p>
+        </div>
+        <div id="4_1" class="seccion level2">
+          <h2>Summary table and where to find it</h2>
+          <p>
+            It is possible to generate a table showing how many attributes of each protein (differentating the ec number 
+            and the organism) have been found.
+          </p>
+          <img src="Tutorial(18).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            You can access this table by two ways. In the dashboard menu, located in the "Protein Search" seccion, or, 
+            by clicking the direct access toolbar with the 
+            <i class="fa fa-table"></i>
+             icon. Once in the "Available Information" seccion 
+            click the "Refresh" blue button to generate or update.
+          </p>
+          <img src="Tutorial(19).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="4_2" class="seccion level2">
+          <h2>Quick access toolbar</h2>
+          <p>
+            At the right\top corner there are four buttons in the toolbar. These buttons, called quick access, allow you to 
+            change the current seccion to:
+          </p>
+          <br/>
+          <p>
+            <i class="fa fa-question"></i>
+             = 
+            Tutorial seccion
+          </p>
+          <img src="Tutorial(20).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <br/>
+          <p>
+            <i class="fa fa-asterisk"></i>
+             = 
+            Protein table
+          </p>
+          <img src="Tutorial(21).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <br/>
+          <p>
+            <i class="fa fa-table"></i>
+             = 
+            Summary table
+          </p>
+          <img src="Tutorial(22).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <br/>
+          <p>
+            <i class="fa fa-user"></i>
+             = 
+            Principal page to log in or log out
+          </p>
+          <img src="Tutorial(23).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="5" class="seccion level1">
+          <h1>Visualize</h1>
+        </div>
+        <div id="5_1" class="seccion level2">
+          <h2>Distribution as boxplot</h2>
+        </div>
+        <div id="5_2" class="seccion level2">
+          <h2>Correlation</h2>
+        </div>
+        <div id="5_2_1" class="seccion level3">
+          <h3>Correlation as heatmap matrix</h3>
+        </div>
+        <div id="5_2_2" class="seccion level3">
+          <h3>Correlation as a paired scatter plot</h3>
+        </div>
+        <div id="6" class="seccion level1">
+          <h2>Cluster</h2>
+        </div>
+        <div id="6_1" class="seccion level2">
+          <h2>K-means</h2>
+        </div>
+        <div id="7" class="seccion level1">
+          <h1>External tools</h1>
+        </div>
+        <div id="8" class="seccion level1">
+          <h1>Saved tables</h1>
         </div>
       </div>
     </div>

@@ -105,7 +105,7 @@ mutant T64S, presence of dithiothreitol, pH 3.8, 45°C	152	26686608	687.0
 	162	0	-999.0
 	162	0	378.0
 	164	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	164	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	164	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	164	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	164	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	164	23241981	5.5
@@ -118,7 +118,7 @@ wild type enzyme, at pH 7.0	164	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	164	24888408	6853.0
 pH 5.0. 50°C	164	23670313	22250.0
 	165	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	165	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	165	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	165	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	165	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	165	23241981	5.5
@@ -131,7 +131,7 @@ wild type enzyme, at pH 7.0	165	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	165	24888408	6853.0
 pH 5.0. 50°C	165	23670313	22250.0
 	166	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	166	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	166	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	166	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	166	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	166	23241981	5.5
@@ -144,7 +144,7 @@ wild type enzyme, at pH 7.0	166	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	166	24888408	6853.0
 pH 5.0. 50°C	166	23670313	22250.0
 	167	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	167	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	167	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	167	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	167	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	167	23241981	5.5
@@ -157,7 +157,7 @@ wild type enzyme, at pH 7.0	167	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	167	24888408	6853.0
 pH 5.0. 50°C	167	23670313	22250.0
 	168	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	168	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	168	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	168	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	168	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	168	23241981	5.5
@@ -170,7 +170,7 @@ wild type enzyme, at pH 7.0	168	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	168	24888408	6853.0
 pH 5.0. 50°C	168	23670313	22250.0
 	169	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	169	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	169	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	169	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	169	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	169	23241981	5.5
@@ -183,7 +183,7 @@ wild type enzyme, at pH 7.0	169	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	169	24888408	6853.0
 pH 5.0. 50°C	169	23670313	22250.0
 	170	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	170	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	170	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	170	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	170	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	170	23241981	5.5
@@ -196,7 +196,7 @@ wild type enzyme, at pH 7.0	170	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	170	24888408	6853.0
 pH 5.0. 50°C	170	23670313	22250.0
 	171	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	171	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	171	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	171	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	171	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	171	23241981	5.5
@@ -209,7 +209,7 @@ wild type enzyme, at pH 7.0	171	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	171	24888408	6853.0
 pH 5.0. 50°C	171	23670313	22250.0
 	172	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	172	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	172	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	172	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	172	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	172	23241981	5.5
@@ -222,7 +222,7 @@ wild type enzyme, at pH 7.0	172	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	172	24888408	6853.0
 pH 5.0. 50°C	172	23670313	22250.0
 	173	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	173	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	173	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	173	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	173	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	173	23241981	5.5
@@ -235,7 +235,7 @@ wild type enzyme, at pH 7.0	173	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	173	24888408	6853.0
 pH 5.0. 50°C	173	23670313	22250.0
 	174	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	174	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	174	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	174	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	174	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	174	23241981	5.5
@@ -248,7 +248,7 @@ wild type enzyme, at pH 7.0	174	17445930	5890.0
 substrate birchwood xylan, pH 5.0, 50°C	174	24888408	6853.0
 pH 5.0. 50°C	174	23670313	22250.0
 	175	18553705	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60°C	175	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 60&Atilde;Â?°C	175	19096939	-999.0
 activities of wild-type and mutant enzymes, overview	175	20361933	-999.0
 substrate: xylan, pH 5.0, 70°C	175	23241981	4.5
 substrate: xylan, pH 5.0, 50°C	175	23241981	5.5
@@ -1846,7 +1846,7 @@ purified enzyme	1709	11263969	455.0
 pH 7.0, 50°C	1712	18668373	160.0
 	1715	0	-999.0
 	1715	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1715	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1715	19096939	-999.0
 pH 6.0, 50°C	1715	9648252	889.0
 purified wild-type enzyme	1715	100478004	1660.0
 	1715	10467122	3209.0
@@ -1855,7 +1855,7 @@ wild-type, pH 6.0, 50°C	1715	0	15501.0
 mutant M7, pH 6.0, 50°C	1715	0	17778.0
 	1716	0	-999.0
 	1716	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1716	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1716	19096939	-999.0
 pH 6.0, 50°C	1716	9648252	889.0
 purified wild-type enzyme	1716	100478004	1660.0
 	1716	10467122	3209.0
@@ -1864,7 +1864,7 @@ wild-type, pH 6.0, 50°C	1716	0	15501.0
 mutant M7, pH 6.0, 50°C	1716	0	17778.0
 	1717	0	-999.0
 	1717	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1717	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1717	19096939	-999.0
 pH 6.0, 50°C	1717	9648252	889.0
 purified wild-type enzyme	1717	100478004	1660.0
 	1717	10467122	3209.0
@@ -1873,7 +1873,7 @@ wild-type, pH 6.0, 50°C	1717	0	15501.0
 mutant M7, pH 6.0, 50°C	1717	0	17778.0
 	1718	0	-999.0
 	1718	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1718	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1718	19096939	-999.0
 pH 6.0, 50°C	1718	9648252	889.0
 purified wild-type enzyme	1718	100478004	1660.0
 	1718	10467122	3209.0
@@ -1882,7 +1882,7 @@ wild-type, pH 6.0, 50°C	1718	0	15501.0
 mutant M7, pH 6.0, 50°C	1718	0	17778.0
 	1719	0	-999.0
 	1719	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1719	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1719	19096939	-999.0
 pH 6.0, 50°C	1719	9648252	889.0
 purified wild-type enzyme	1719	100478004	1660.0
 	1719	10467122	3209.0
@@ -1891,7 +1891,7 @@ wild-type, pH 6.0, 50°C	1719	0	15501.0
 mutant M7, pH 6.0, 50°C	1719	0	17778.0
 	1720	0	-999.0
 	1720	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1720	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1720	19096939	-999.0
 pH 6.0, 50°C	1720	9648252	889.0
 purified wild-type enzyme	1720	100478004	1660.0
 	1720	10467122	3209.0
@@ -1900,7 +1900,7 @@ wild-type, pH 6.0, 50°C	1720	0	15501.0
 mutant M7, pH 6.0, 50°C	1720	0	17778.0
 	1721	0	-999.0
 	1721	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1721	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1721	19096939	-999.0
 pH 6.0, 50°C	1721	9648252	889.0
 purified wild-type enzyme	1721	100478004	1660.0
 	1721	10467122	3209.0
@@ -1909,7 +1909,7 @@ wild-type, pH 6.0, 50°C	1721	0	15501.0
 mutant M7, pH 6.0, 50°C	1721	0	17778.0
 	1722	0	-999.0
 	1722	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1722	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1722	19096939	-999.0
 pH 6.0, 50°C	1722	9648252	889.0
 purified wild-type enzyme	1722	100478004	1660.0
 	1722	10467122	3209.0
@@ -1918,7 +1918,7 @@ wild-type, pH 6.0, 50°C	1722	0	15501.0
 mutant M7, pH 6.0, 50°C	1722	0	17778.0
 	1723	0	-999.0
 	1723	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1723	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1723	19096939	-999.0
 pH 6.0, 50°C	1723	9648252	889.0
 purified wild-type enzyme	1723	100478004	1660.0
 	1723	10467122	3209.0
@@ -1927,7 +1927,7 @@ wild-type, pH 6.0, 50°C	1723	0	15501.0
 mutant M7, pH 6.0, 50°C	1723	0	17778.0
 	1724	0	-999.0
 	1724	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1724	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1724	19096939	-999.0
 pH 6.0, 50°C	1724	9648252	889.0
 purified wild-type enzyme	1724	100478004	1660.0
 	1724	10467122	3209.0
@@ -1936,7 +1936,7 @@ wild-type, pH 6.0, 50°C	1724	0	15501.0
 mutant M7, pH 6.0, 50°C	1724	0	17778.0
 	1725	0	-999.0
 	1725	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1725	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1725	19096939	-999.0
 pH 6.0, 50°C	1725	9648252	889.0
 purified wild-type enzyme	1725	100478004	1660.0
 	1725	10467122	3209.0
@@ -1945,7 +1945,7 @@ wild-type, pH 6.0, 50°C	1725	0	15501.0
 mutant M7, pH 6.0, 50°C	1725	0	17778.0
 	1726	0	-999.0
 	1726	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1726	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1726	19096939	-999.0
 pH 6.0, 50°C	1726	9648252	889.0
 purified wild-type enzyme	1726	100478004	1660.0
 	1726	10467122	3209.0
@@ -1954,7 +1954,7 @@ wild-type, pH 6.0, 50°C	1726	0	15501.0
 mutant M7, pH 6.0, 50°C	1726	0	17778.0
 	1727	0	-999.0
 	1727	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1727	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1727	19096939	-999.0
 pH 6.0, 50°C	1727	9648252	889.0
 purified wild-type enzyme	1727	100478004	1660.0
 	1727	10467122	3209.0
@@ -1963,7 +1963,7 @@ wild-type, pH 6.0, 50°C	1727	0	15501.0
 mutant M7, pH 6.0, 50°C	1727	0	17778.0
 	1728	0	-999.0
 	1728	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1728	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1728	19096939	-999.0
 pH 6.0, 50°C	1728	9648252	889.0
 purified wild-type enzyme	1728	100478004	1660.0
 	1728	10467122	3209.0
@@ -1972,7 +1972,7 @@ wild-type, pH 6.0, 50°C	1728	0	15501.0
 mutant M7, pH 6.0, 50°C	1728	0	17778.0
 	1729	0	-999.0
 	1729	10467122	-999.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60°C	1729	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity at a water activity between 0.91 and 0.83, 0.1 M sodium phosphate, pH 6.0, 60&Atilde;Â?°C	1729	19096939	-999.0
 pH 6.0, 50°C	1729	9648252	889.0
 purified wild-type enzyme	1729	100478004	1660.0
 	1729	10467122	3209.0
@@ -2085,21 +2085,21 @@ with glucose as inducer	1853	18607546	0.35
 with xylose as inducer	1853	18607546	0.58
 with lactose as inducer	1853	18607546	3.13
 with birchwood xylan as substrate	1853	18607546	20.34
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50°C	1855	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50&Atilde;Â?°C	1855	19096939	-999.0
 	1855	0	6630.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50°C	1856	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50&Atilde;Â?°C	1856	19096939	-999.0
 	1856	0	6630.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50°C	1857	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50&Atilde;Â?°C	1857	19096939	-999.0
 	1857	0	6630.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50°C	1858	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50&Atilde;Â?°C	1858	19096939	-999.0
 	1858	0	6630.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50°C	1859	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50&Atilde;Â?°C	1859	19096939	-999.0
 	1859	0	6630.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50°C	1860	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50&Atilde;Â?°C	1860	19096939	-999.0
 	1860	0	6630.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50°C	1861	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50&Atilde;Â?°C	1861	19096939	-999.0
 	1861	0	6630.0
-enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50°C	1862	19096939	-999.0
+enzyme activity is proportional to water activity (ratio of the equilibrium water vapor pressure over a material to that over pure water, roughly corresponding to the water content), enzyme activity as low as at a water activity of 0.59, 0.1 M sodium acetate, pH 4.5, 50&Atilde;Â?°C	1862	19096939	-999.0
 	1862	0	6630.0
 	1865	0	-999.0
 purified recombinant enzyme, 281.2 U/ml with birchwood xylan, 211.0 U/ml with beechwood xylan, and 261.0 U/ml with oat spelt xylan	1865	19527524	-999.0

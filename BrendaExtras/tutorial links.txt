@@ -1,0 +1,4 @@
+actionLink("enzymeHelp", "select enzyme") -> enzymes tab
+actionLink("enzymeHelp2", "enzyme section") -> enzymes tab
+actionLink("proteinHelp", "Protein Table") -> protein tab
+actionLink("proteinHelp2", "Protein Table") -> protein tab

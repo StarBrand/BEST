@@ -50,7 +50,7 @@ dashboardPage(skin = "green",
                menuSubItem("FASTA", tabName = "fasta"),
                menuSubItem("PDB", tabName = "pdb"),
                menuSubItem("Parameter Table", tabName = "parameterTable"),
-               menuSubItem("Information Available", tabName = "info")
+               menuSubItem("Available Information", tabName = "info")
                ),
       menuItem("Visualization", tabName = "visualization", icon = icon("chart-area"), startExpanded = FALSE,
                menuSubItem("Parameters Found", tabName = "histogram"),
@@ -109,8 +109,8 @@ dashboardPage(skin = "green",
                             tags$a("Brenda/Registration", href="https://www.brenda-enzymes.org/register.php"))
               ),
               box(width = 9, height = '60vh',
-                  img(src = 'Referential.jpg',
-                      height = '320vh',
+                  img(src = 'Cover.jpg',
+                      height = '390vh',
                       style = "display: block; margin-left: auto; margin-right: auto;")
               ),
               box(width = 9, heigth = '30vh',
