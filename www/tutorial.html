@@ -27,9 +27,6 @@
                 <li>
                   <a href="#1_2_2">Erase the query</a>
                 </li>
-                <li>
-                  <a href="#1_2_3">Unavoidable errors</a>
-                </li>
               </ul>
             </li>
           </ul>
@@ -55,13 +52,27 @@
               <a href="#3_1">Selecting parameters</a>
             </li>
             <li>
-              <a href="#3_2">Selecting by phylogeny</a>
+              <a href="#3_2">Other options of query</a>
+              <ul>
+                <li>
+                  <a href="#3_2_1">Selecting by phylogeny</a>
+                </li>
+                <li>
+                  <a href="#3_2_2">Add enzymes</a>
+                </li>
+                <li>
+                  <a href="#3_2_3">Filter by Uniprot code</a>
+                </li>
+              </ul>
             </li>
             <li>
-              <a href="#3_3">Other options of query</a>
+              <a href="#3_3">The Parameter table</a>
             </li>
             <li>
               <a href="#3_4">Filters</a>
+            </li>
+            <li>
+              <a href="#3_5">Download table</a>
             </li>
           </ul>
         </li>
@@ -74,22 +85,28 @@
             <li>
               <a href="#4_2">Quick access toolbar</a>
             </li>
+            <li>
+              <a href="#4_3">Dashboard Menu</a>
+            </li>
           </ul>
         </li>
         <li>
           <a href="#5">Visualize</a>
           <ul>
             <li>
-              <a href="#5_1">Distribution as boxplot</a>
+              <a href="#5_1">Parameter found as bar plot</a>
             </li>
             <li>
-              <a href="#5_2">Correlation</a>
+              <a href="#5_2">Distribution as boxplot</a>
+            </li>
+            <li>
+              <a href="#5_3">Correlation</a>
               <ul>
                 <li>
-                  <a href="#5_2_1">Correlation as a heatmap matrix</a>
+                  <a href="#5_3_1">Correlation as a heatmap matrix</a>
                 </li>
                 <li>
-                  <a href="#5_2_1">Correlation as a paired scatter plot</a>
+                  <a href="#5_3_2">Correlation as a paired scatter plot</a>
                 </li>
               </ul>
             </li>
@@ -99,7 +116,7 @@
           <a href="#6">Cluster</a>
           <ul>
             <li>
-              <a href="6_1">K-means</a>
+              <a href="#6_1">K-means</a>
             </li>
           </ul>
         </li>
@@ -108,6 +125,17 @@
         </li>
         <li>
           <a href="#8">Saved tables</a>
+        </li>
+        <li>
+          <a href="#9">Errors</a>
+          <ul>
+            <li>
+              <a href="#9_1">Avoidable errors</a>
+            </li>
+            <li>
+              <a href="#9_2">Unavoidable errors</a>
+            </li>
+          </ul>
         </li>
       </div>
     </div>
@@ -120,7 +148,9 @@
         <div id="1" class="section level1">
           <h1>Get started</h1>
           <p>
-            To start looking in Brenda, we need your Brenda account (why?). 
+            To start looking in Brenda, we need your Brenda account (
+            <a id="faqhelp" href="#" class="action-button">why?</a>
+            ).
             If you do not have one, you can visit: 
             <a href="https://www.brenda-enzymes.org/register.php">Brenda Registration</a>
             Once you have your account, we can look for the enzymes you need 
@@ -198,8 +228,14 @@
           </p>
           <img src="Tutorial(6).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
           <p>
+            After the 
+            <a href="#3">parameter query is done</a>
+            , the protein table is going to have a Literature column that 
+            can be show clicking the checkbox next to the "Show commentary columns".
+          </p>
+          <p>
             The way to proceed after this point is described in 
-            <a href="#2">"Queries from the organsm table" section</a>
+            <a href="#2">"Queries from the organism table" section</a>
             . In this section, the optional proceeds to have a complex query are described.
           </p>
         </div>
@@ -231,7 +267,7 @@
           <h3>Erase the query</h3>
           <p>
             If you made a mistake and the ec number enter to the query is not the one you want to. You can erase this query and 
-            look for another one by clicking the "Go back and search another Enzyme" in the top//right corner.
+            look for another one by clicking the "Go back and search another Enzyme" in the top/right corner.
           </p>
           <img src="Tutorial(9).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
           <p>In this case, the welcome panel should show: </p>
@@ -246,10 +282,6 @@
             <a href="#8">saved</a>
           </p>
           <img src="Tutorial(11).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
-        </div>
-        <div id="1_2_3" class="seccion level3">
-          <h2>Unavoidable errors</h2>
-          <p>This is an app on develpment...</p>
         </div>
         <div id="2" class="seccion level1">
           <h1>Queries from the organism table</h1>
@@ -323,18 +355,190 @@
         </div>
         <div id="3" class="seccion level1">
           <h1>Functional Parameters Query</h1>
+          <p>
+            This is the particular functionality this application has and, naturally, one of the tools that has the most options. If you
+            simply want all the numerical parameters available you can do 
+            <a href="#2_3">this</a>
+            .
+          </p>
         </div>
         <div id="3_1" class="seccion level2">
           <h2>Selecting parameters</h2>
+          <p>Brenda has 12 numerical parameters available for most of the ec number. Each of them are showed in different tables like this: </p>
+          <img src="Tutorial(18).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            The functional parameters query generate a single table with the parameters selected separated by the organism (and the commentary) 
+            in which the enzyme is located. To select this parameters, click the checkbox on the left of the list in the sidebar. If you want to 
+            select them all activating the "Select all functional parameters" switch on the top of the sidebar.
+          </p>
+          <img src="Tutorial(19).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            You can also select the enzymes included in the Parameter table by clicking the rows corresponding to the organism you want. But, if the 
+            "Search for all the list" switch above the table is selected, the query is going to include all the enzymes, therefore, if you want to 
+            search just the selected ones, deactivate it.
+          </p>
+          <img src="Tutorial(20).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <span class="help-block">
+            Note: Select the enzymes to the query will re-generate the Protein Table, leaving only those selected. The whole list of enzymes/organism 
+            cannot be recovered, for that, do the 
+            <a href="#1_2">Enzyme query</a>
+             again.
+          </span>
+          <br/>
+          <p>To do the query, click the "Search for parameters" green button at the end of the sidebar. This may takes several minutes.</p>
+          <img src="Tutorial(21).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="3_2" class="seccion level2">
-          <h2>Selecting by phylogeny</h2>
+          <h2>Other options of query</h2>
+        </div>
+        <div id="3_2_1" class="seccion level3">
+          <h3>Selecting by phylogeny</h3>
+          <p>
+            <i class="fa fa-exclamation-triangle"></i>
+            Sorry, but we are still working in this functionallity. It is going to be available soon.
+          </p>
+        </div>
+        <div id="3_2_2" class="seccion level3">
+          <h3>Add enzymes</h3>
+          <p>
+            You can add more ec numbers to the query doing 
+            <a href="#1_2_1">this</a>
+            .
+          </p>
+        </div>
+        <div id="3_2_3" class="seccion level3">
+          <h3>Filter by Uniprot code</h3>
+          <p>
+            If you just want to use the enzymes that have 
+            <a href="https://www.uniprot.org/help/">Uniprot code</a>
+            , activate the switch below the list of parameters.
+          </p>
+          <img src="Tutorial(22).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="3_3" class="seccion level2">
-          <h2>Other options of query</h2>
+          <h2>The Parameter Table</h2>
+          <p>The generated table has:</p>
+          <div style="margin-left: 40px;">
+            <p>
+              <i class="fa fa-arrow-alt-circle-right"></i>
+              6 columns indicating enzyme data, same as the shown in the 
+              <a href="#1_2">protein table</a>
+              :
+            </p>
+            <div style="margin-left: 60px;">
+              <p>
+                <i class="fa fa-arrow-right"></i>
+                EC number
+              </p>
+              <p>
+                <i class="fa fa-arrow-right"></i>
+                Systematic name
+              </p>
+              <p>
+                <i class="fa fa-arrow-right"></i>
+                Recommended name
+              </p>
+              <p>
+                <i class="fa fa-arrow-right"></i>
+                Uniprot
+              </p>
+              <p>
+                <i class="fa fa-arrow-right"></i>
+                (Collapsible) Commentary
+              </p>
+              <p>
+                <i class="fa fa-arrow-right"></i>
+                (Collapsible) Literature: showing the Pubmed ID of the scientific paper
+              </p>
+            </div>
+            <p>
+              <i class="fa fa-arrow-alt-circle-right"></i>
+              3 or 4 columns for each parameter, the amount of columns is determinated by the dependency of molecule, such 
+              as an inhibitor or substrate:
+            </p>
+            <div style="margin-left: 60px;">
+              <p>
+                <i class="fa fa-arrow-right"></i>
+                Value: indicating the value as a single number or as a range (independent if the parameter is defined 
+                as range or not). The column is named with the name of the parameter, an underscore and the word "value"
+              </p>
+              <p>
+                <i class="fa fa-arrow-right"></i>
+                Substrate/Inhibitor: indicating the name of the substrate  or inhibitor. If the parameter does not 
+                depend of a molecule, this columns is missing
+              </p>
+              <p>
+                <i class="fa fa-arrow-right"></i>
+                (Collapsible) Commentary
+              </p>
+              <p>
+                <i class="fa fa-arrow-right"></i>
+                (Collapsible) Literature
+              </p>
+            </div>
+          </div>
+          <p>The parameter table looks like this:</p>
+          <img src="Tutorial(23).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <img src="Tutorial(24).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            Above the table are two checkbox indicating if the commentary and literature column is showed. If it is clicked, any of them, all the 
+            commentary (or literature) columns is showed, that is, of the organism and each parameter found. If both are selected, it will be look 
+            like this:
+          </p>
+          <img src="Tutorial(25).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="3_4" class="seccion level2">
           <h2>Filters</h2>
+          <p>
+            With the parameters table generated, you can also filter the numerical parameters setting the minimum and/or maximum value you 
+            want to preserve. For this there are slide inputs in the sidebar of the paremeters table that also have checkbox on the left. This 
+            sliders are going to be showed if the respective parameter was selected on the previous step. In case the enzyme does not have 
+            any parameter reported on the Brenda database (which can be due to the lack of data reported in the literature), the slider is 
+            going to report that the parameter wasn't found. In the example belox, there is no IC50 reported and the Kcat/Km was not required
+             for query.
+          </p>
+          <img src="Tutorial(26).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            To use one parameter as a filtered, move the slider letting the white circle at the left indicating the minimum value and the one 
+            at the right indicating the maximum value your parameter is going to have. Then, click the checkbox next to the slider. Repite this 
+            for every parameter you want, and leave the checkbox uncheked if the parameter is indifferent to your filtering. Finally, click the 
+            "Filter" blue button to generete the filtered table. In the example below, the molecular weight was used as a filter, it is show 
+            that, the minimum value before and after the filtering, has changed.
+          </p>
+          <img src="Tutorial(27).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <img src="Tutorial(28).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <span class="help-block">
+            Note: There are a few Pubmed ID that have 0 as a code. This mean that searching with Brenda SOAP did not report the Pubmed ID from 
+            the BRENDA literature code used internally on Brenda.
+          </span>
+          <br/>
+          <p>
+            If you want to undone the filtering and recover the generated table as what it was just after the query, unchecked every checkbox on the 
+            sidebar, it doesn't matter any slider input does not have the the selectors on the minimum and maximum respectively. Then, click the "
+            Filter" blue button.
+          </p>
+          <img src="Tutorial(29).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="3_5" class="seccion level2">
+          <h2>Download table</h2>
+          <p>The genereted and filtered table can be download locally by clicking the "Download table" blue button above the table.</p>
+          <img src="Tutorial(30).jpg" width="400px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            The downloaded table is a .txt file which columns are separeted by the tabulator character. It contains the commentary and literature columns 
+            regardless of whether they are shown or not, and it has the parameter as it shown, this is, filtered.
+          </p>
+          <img src="Tutorial(31).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            You can access this table as you want, for reference 
+            <a href="https://support.office.com/en-us/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba">Microsoft Office Excel</a>
+            can generete a workbook from this file, remember it has a header row, it's separeted by TAB character and it doesn't have the row names. With 
+            <a href="https://cran.r-project.org/">R</a>
+            you can open it with the follow command: 
+          </p>
+          <code>read.table(&lt;table_name&gt;, sep = "\t", header = TRUE)</code>
+          <br/>
+          <br/>
+          <p>The protein table can be downloaded too with the same format and particularities.</p>
         </div>
         <div id="4" class="seccion level1">
           <h1>Summary table and quick access</h1>
@@ -346,7 +550,7 @@
             It is possible to generate a table showing how many attributes of each protein (differentating the ec number 
             and the organism) have been found.
           </p>
-          <img src="Tutorial(18).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <img src="Tutorial(32).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
           <p>
             You can access this table by two ways. In the dashboard menu, located in the "Protein Search" seccion, or, 
             by clicking the direct access toolbar with the 
@@ -354,7 +558,7 @@
              icon. Once in the "Available Information" seccion 
             click the "Refresh" blue button to generate or update.
           </p>
-          <img src="Tutorial(19).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <img src="Tutorial(33).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="4_2" class="seccion level2">
           <h2>Quick access toolbar</h2>
@@ -368,55 +572,238 @@
              = 
             Tutorial seccion
           </p>
-          <img src="Tutorial(20).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <img src="Tutorial(34).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
           <br/>
           <p>
             <i class="fa fa-asterisk"></i>
              = 
             Protein table
           </p>
-          <img src="Tutorial(21).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <img src="Tutorial(35).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
           <br/>
           <p>
             <i class="fa fa-table"></i>
              = 
             Summary table
           </p>
-          <img src="Tutorial(22).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <img src="Tutorial(36).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
           <br/>
           <p>
             <i class="fa fa-user"></i>
              = 
             Principal page to log in or log out
           </p>
-          <img src="Tutorial(23).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <img src="Tutorial(37).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="4_3" class="seccion level2">
+          <h2>Dashboard Menu</h2>
+          <p>
+            At any point of your work, you can jump to any seccion using the dashboard menu at the left of the site. This can be hide 
+            or show clicking the 
+            <i class="fa fa-bars"></i>
+            on the toolbar.
+          </p>
+          <img src="Tutorial(38).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="5" class="seccion level1">
           <h1>Visualize</h1>
+          <p>
+            With the genereted tables, there are multiple option to do. The 
+            <a href="#6">Cluster</a>
+            seccion, 
+            <a href="#7">External tools</a>
+             and this one are about that. This seccion shows how to use the available visualizations ... has.
+          </p>
         </div>
         <div id="5_1" class="seccion level2">
-          <h2>Distribution as boxplot</h2>
+          <h2>Parameter found as bar plot</h2>
+          <p>To start the visualization click the "Visualize" green button above the parameter table.</p>
+          <img src="Tutorial(39).jpg" width="300px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <span class="help-block">
+            <div style="display: inline-block;font-weight: bold;">
+              Every visualization generated will be done using the filtered 
+              parameter table, therefore, to use the no filtered one, 
+              <a href="#3_4">recover it</a>
+              .
+            </div>
+          </span>
+          <br/>
+          <p>
+            The first generated graph is a bar plot showing the found data, considering the parameters selected in the 
+            <a>
+              Functional Parameters Query
+              #3
+            </a>
+             and the data
+            <a href="#3_4">filtered (or not)</a>
+            .
+          </p>
+          <img src="Tutorial(40).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <span class="help-block">
+            Note: This graph is done with the 
+            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/">Plotly library</a>
+            . Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make 
+            different type of zooms.
+          </span>
         </div>
         <div id="5_2" class="seccion level2">
+          <h2>Distribution as boxplot</h2>
+          <p>
+            Descriptive statistics quantitatively describes data. In this case, distribution can be analyse with a boxplor that indicates 
+            the quartiles, including the median. The distribution boxplot is generated by clicking the "Watch distribution" blue button 
+            on the sidebar panel.
+          </p>
+          <img src="Tutorial(41).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            The outliers are shown as point indicating value, organism and recommended name of the enzyme. Due to the different scale we 
+            recommend to show the functional parameters separately using the selector. Double click in one parameter is going to hide all 
+            the other parameters, one click and that parameter is going to hide.
+          </p>
+          <br/>
+          <p>The parameters of the same scale are:</p>
+          <div style="margin-left: 40px;">
+            <p>
+              <i class="fa fa-arrow-right"></i>
+              Molecular Weight
+            </p>
+            <p>
+              <i class="fa fa-arrow-right"></i>
+              IC50, Kcat/Km, Ki, Km, Specific Activity, Turmover Number
+            </p>
+            <p>
+              <i class="fa fa-arrow-right"></i>
+              pH Optimum, pH Range, pI
+            </p>
+            <p>
+              <i class="fa fa-arrow-right"></i>
+              Temperature Optimum, Temperature Range
+            </p>
+          </div>
+          <img src="Tutorial(42).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <span class="help-block">
+            Note: This graph is done with the 
+            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/">Plotly library</a>
+            . Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make 
+            different type of zooms.
+          </span>
+          <br/>
+          <br/>
+          <p>
+            To hide the outliers for futher anaylis or visualization you can go back to the parameter table (by going back to visualziation 
+            and then back to parameter table or using the 
+            <a href="#4_3">dashboard menu</a>
+            ) and 
+            <a href="#3_4">filter</a>
+             the data to hide this datum.
+          </p>
+          <img src="Tutorial(43).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <span class="help-block">Note: this also will filter all the organism that hasn't molecular weight reported, and the data of the organism filtered.</span>
+        </div>
+        <div id="5_3" class="seccion level2">
           <h2>Correlation</h2>
+          <p>
+            Data can be correlated, this is, two variables may have any statistical association. This association, called correlation, whether 
+            casual or not. On the Parameters Found seccion, click the "Watch correlation" button, below the "Watch distribution" one. Two 
+            green buttons will be shown.
+          </p>
+          <img src="Tutorial(44).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
-        <div id="5_2_1" class="seccion level3">
+        <div id="5_3_1" class="seccion level3">
           <h3>Correlation as heatmap matrix</h3>
+          <p>
+            A heatmap matrix represents a function of two variables as matrix, the matrix itself represent this two dimension and the function 
+             is represented with a color code (the heatmap). In this case, the two variables are all the functional parameter pairs of the found 
+            data. The heatmap represent a measure of the correlation.
+          </p>
+          <br/>
+          <p>Click the "As heatmap matrix" green button below the "Watch correlation" one. This is going to redirect to the generated heatmap.</p>
+          <img src="Tutorial(45).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>The correlation looks like this: </p>
+          <img src="Tutorial(46).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>The color code (color palette) can be changed by selecting any other palette on the side bar.</p>
+          <img src="Tutorial(47).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
-        <div id="5_2_2" class="seccion level3">
+        <div id="5_3_2" class="seccion level3">
           <h3>Correlation as a paired scatter plot</h3>
+          <p>
+            The correlation also can be analyse visually instead of numerically. To watch a paired scatter plot, click the "As a scatterplot matrix" 
+            green button below the "As a heatmap matrix" one, or change the tab on the Correlation seccion after generate the heatmap matrix.
+          </p>
+          <img src="Tutorial(48).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            For storage reason, the paired scatter plot is able to have six parameters maximum, and, two minimum. Select the parameters to analyse 
+            an click the "Get correlation" button below. Keep in mind, if the correlated observations are more than 2000, the data is going to be 
+            uniformly filtered.
+          </p>
+          <img src="Tutorial(49).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            The genereted plot shown the scatter plots relating two variables, the distribution as a density histogram and whether the data was obtained 
+            from an wild type or mutant enzyme.
+          </p>
+          <img src="Tutorial(50).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <span class="help-block">
+            Note: This graph is done with the 
+            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/">Plotly library</a>
+            . Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make 
+            different type of zooms.
+          </span>
         </div>
         <div id="6" class="seccion level1">
-          <h2>Cluster</h2>
+          <h1>Cluster</h1>
+          <p>
+            <a href="https://dl.acm.org/citation.cfm?doid=568574.568575">Cluster analysis</a>
+             is a technic of exploratory data mining and statistical data analysis. It consist on group a set of object related to each other more that 
+            those on other groups (clusters). To do clustering click the "Analyze" green button above the parameter table.
+          </p>
+          <img src="Tutorial(51).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="6_1" class="seccion level2">
           <h2>K-means</h2>
+          <p>
+            <a href="https://ieeexplore.ieee.org/document/1056489">K-means</a>
+             is a clustering algorithm consisting on generete random points and calculate 
+            a distance among the nearest point, discarting the most distant one and repeting until the k (number of cluster) are generated. To do the k-means clustering 
+            click the "K-means clustering" green button on the Cluster seccion or change the tab to the K-means clustering.
+          </p>
+          <img src="Tutorial(52).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            On the sidebar select 2 (for a 2 dimensional clustering) or 3 (for a 3 dimensional one) and click the "Clusterize" blue button below the parameters 
+            list.
+          </p>
+          <img src="Tutorial(53).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            The k (number of cluster) is determined by calculating the within-cluster sum of square (WSS), which a measure of the distant of the point within each cluster.
+            Then, the biggest decrease is choosen, this is called the "Elbow" method.
+          </p>
+          <img src="Tutorial(54).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <span class="help-block">
+            Note: This graph is done with the 
+            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/">Plotly library</a>
+            . Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make 
+            different type of zooms.
+          </span>
+          <br/>
+          <p>
+            You also can download the clustering as a .txt file, the format has described 
+            <a href="#3_5">before</a>
+            , containing the cluster as a column with the number of the cluster. This is more useful in case the data was reduced in order to 
+            allow the visualization.
+          </p>
         </div>
         <div id="7" class="seccion level1">
           <h1>External tools</h1>
         </div>
         <div id="8" class="seccion level1">
           <h1>Saved tables</h1>
+        </div>
+        <div id="9" class="seccion level1">
+          <h1>Errors</h1>
+        </div>
+        <div id="9_1" class="seccion level2">
+          <h2>Avoidable errors</h2>
+        </div>
+        <div id="9_2" class="seccion level2">
+          <h2>Unavoidable errors</h2>
         </div>
       </div>
     </div>

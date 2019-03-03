@@ -429,6 +429,8 @@ shinyServer(function(input, output, session) {
     proteinSaved(FALSE)
     proteinTable(table)
     ecNumbers(unique(table$EC_Number))
+    merged(FALSE)
+    hideStuffs()
   }
   
   # EC Number
@@ -507,7 +509,7 @@ shinyServer(function(input, output, session) {
   
   # Download Protein Table
   output$downloadProtein <- downloadHandler(
-    filename <- 'protein_table.csv',
+    filename <- 'protein_table.txt',
     content <- function(name){
       table <- proteinTable()
       table$Ref <- NULL
@@ -713,6 +715,7 @@ shinyServer(function(input, output, session) {
     paramSearch(TRUE)
     if(proteinSearch()){
     shinyjs::disable("parameters")
+    hideStuffs()
     updateTabItems(session, "inTabset", "parameterTable")
     withProgress(message = "Searching numerical Parameters", value = 0, {
       incProgress(0, detail = "Entering parameters...")
@@ -759,6 +762,7 @@ shinyServer(function(input, output, session) {
     parameterTable(table)
     fparameterTable(table)
     paramSaved(FALSE)
+    merged(FALSE)
     } else{
       noSearch("Parameters")
     }
@@ -779,7 +783,7 @@ shinyServer(function(input, output, session) {
   
   # Download Parameter Table
   output$downloadTable <- downloadHandler(
-    filename <- 'table.csv',
+    filename <- 'table.txt',
     content <- function(name){
       if(paramSearch()){
         table <- fparameterTable()
@@ -889,6 +893,7 @@ shinyServer(function(input, output, session) {
       incProgress(0.25, detail = "Ready")
       table$Ref <- NULL
       shinyjs::enable("filter")
+      merged(FALSE)
     })
     fparameterTable(table)}
   })
@@ -1053,6 +1058,12 @@ shinyServer(function(input, output, session) {
     histPlot()
   })
   
+  
+  # Back to parameter table
+  observeEvent(input$backParameter1, {
+    updateTabItems(session, "inTabset", "parameterTable")
+  })
+  
   # Distribution function
   distFunction <- function(n, ...){
     op <- list(...)
@@ -1212,6 +1223,11 @@ shinyServer(function(input, output, session) {
       updateTabItems(session, "inTabset", "cluster")
       updateTabItems(session, "cluster", "home")
     } else{noParameters("an", "Analysis")}
+  })
+  
+  # Back to Parameter Table
+  observeEvent(input$backParameter2, {
+    updateTabItems(session, "inTabset", "parameterTable")
   })
   
   # Clustering
