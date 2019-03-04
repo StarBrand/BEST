@@ -592,20 +592,26 @@ dashboardPage(skin = "green",
               ),
               tabBox(title = "Correlation", id = "correlationPlot", selected = "matrix", width = 9, height = '70vh',
                      tabPanel(value = "matrix", h5("Heatmap matrix"),
-                         div(style = "float: right;", actionButton("backVisualization2", "Go back to visualization", class = "btn-warning")),
-                         tags$br(),
-                         tags$br(),
-                         tags$br(),
-                         plotlyOutput("correlationOut")
-                         ),
+                              div(style = "float: right;", actionButton("backVisualization2", "Go back to visualization", class = "btn-warning")),
+                              tags$br(),
+                              tags$br(),
+                              tags$br(),
+                              plotlyOutput("correlationOut")
+                              ),
                      tabPanel(value = "scatter", h5("Scatterplot matrix"),
-                         div(style = "float: right;", actionButton("backVisualization3", "Go back to visualization", class = "btn-warning")),
-                         tags$br(),
-                         tags$br(),
-                         tags$br(),
-                         plotlyOutput("correlationOut2")
-                         )
-                
+                              div(style = "display: inline-block; color: #202453", icon("circle")),
+                              div(style = "display: inline-block; width: 10px;", tags$br()),
+                              div(style = "display: inline-block; ", "Wild Type"),
+                              div(style = "display: inline-block; width: 40px;", tags$br()),
+                              div(style = "display: inline-block; color: #4c9e4a", icon("circle")),
+                              div(style = "display: inline-block; width: 10px;", tags$br()),
+                              div(style = "display: inline-block; ", "Mutant"),
+                              div(style = "display: inline-block; float: right;", actionButton("backVisualization3", "Go back to visualization", class = "btn-warning")),
+                              tags$br(),
+                              tags$br(),
+                              tags$br(),
+                              plotlyOutput("correlationOut2")
+                              )
               )
       ),
       
@@ -660,7 +666,42 @@ dashboardPage(skin = "green",
       
       # Suggestions
       tabItem(tabName = "suggestions",
-              h1("Suggestions")
+              column(width = 1),
+              box(title = h1(icon("eye"), "Suggestions"), width = 10, height = '90vh', solidHeader = TRUE, status = "success", 
+                  div(style='height:70vh; overflow-y: scroll;',
+                      div(style = "margin-right: 50px; margin-left: 50px;",
+                      p(icon("check"), "This is a project in development. Hence, in order to make this application more functional ",
+                        "and useful for the generation of knowledge and to contribute to the scientific community, ",
+                        "we are open to any suggestion to improve this app."),
+                      tags$br(),
+                      p("So, first, choose the kind of suggestion you want us to know:"),
+                      div(style = "width: 800px",
+                      pickerInput("suggestionType", "", choices = list("functions", "tutorial", "graphics", "bug",
+                                                                       "wrong_data", "question", "others", "unclasified"),
+                                  choicesOpt = list(content = c(I(paste(icon("check"), "A new useful functionalty")),
+                                                                I(paste(icon("graduation-cap"), "Improve the tutorial")),
+                                                                I(paste(icon("chart-line"), "User graphical interface can be better")),
+                                                                I(paste(icon("bug"), "Report a bug or an unexpected system failure")),
+                                                                I(paste(icon("exclamation-triangle"), "There is a datum or information wrong")),
+                                                                I(paste(icon("question"), "A particular question")),
+                                                                I(paste(icon("plus-square"), "None of the list")),
+                                                                I(paste(icon("times-circle"), "Don't know the most accurate type (unclasified suggestion)"))
+                                                                ))
+                                  )),
+                      tags$hr(),
+                      p("Now, be more accurate about the type"),
+                      div(style = "width: 800px", selectInput("suggestionSubtype", "", choices = list(""))),
+                      shinyjs::hidden(textInputAddon("newType", "What do you think the type of your suggestion is?", addon = "Suggestion type")),
+                      div(style = "display: inline-block;", checkboxInput("allowMail", "Want to receive a mail with the answer")),
+                      div(style = "display: inline-block; width: 20px;", tags$br()),
+                      div(style = "display: inline-block;", checkboxInput("showMail", "Want us to know your mail")),
+                      tags$hr(),
+                      p("Write your suggestion, be as specific as you want. Any idea, complain or gratitude are welcome."),
+                      div(style = "text-align: center;", textAreaInput("suggestionText", label = "", placeholder = "Suggestion", height = "250px", resize = "vertical")),
+                      div(style = "float: right;", actionButton("enterSuggestion", "Submit", class = "btn-primary"))
+                  ))
+              ),
+              column(width = 1)
       ),
       
       # Acknowledgments

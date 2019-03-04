@@ -39,6 +39,7 @@ shinyServer(function(input, output, session) {
     shinyjs::hide("helpCorrelationMatrix")
     shinyjs::hide("getCorrelationScatter")
     shinyjs::hide("helpCorrelationScatter")
+    shinyjs::hide("showLiterature1")
   }
   
   hideStuffs()
@@ -520,13 +521,19 @@ shinyServer(function(input, output, session) {
   # Generate phylogeny selector
   observeEvent(input$phylogeny, {
     if(!proteinSearch()){noSearch("Phylogeny")}
-    else{table <- proteinTable()
+    else{
+      if(TRUE){
+        shinyalert("Tool is not available",
+                   "We're sorry, but this functionality isn't implemented yet. We're working hard on it to launch it soon",
+                   type = "error")
+      } else{
+      table <- proteinTable()
       updateTabItems(session, "inTabset", "phylogenyTree")
       shinyjs::disable("phylogeny")
       withProgress(message = "Generating tree", value = 0, {
       tree <- getTreeSelective(table$Organism)})
       shinyjs::enable("phylogeny")
-      treePlot(tree)
+      treePlot(tree)}
     }
   })
   
@@ -756,6 +763,7 @@ shinyServer(function(input, output, session) {
       table <- as.data.frame(sapply(table,gsub,pattern="-999",replacement="Additional Information"))
       table <- table[sort(table$Ref, decreasing = FALSE),]
       table$Ref <- NULL
+      shinyjs::show("showLiterature1")
       incProgress(0.05, detail = "Ready")
       shinyjs::enable("parameters")
     })
@@ -1043,13 +1051,19 @@ shinyServer(function(input, output, session) {
   observeEvent(input$visualize, {
     if(paramSearch()){
       updateTabItems(session, "inTabset", "histogram")
-      x <- c()
-      for(i in 1:12){
-        x <- do_function(i, countAttr, addNoVector, addNoVector, input$attributes, attributeFound(), vector = x)
+      withProgress(message = "Generate visualization", value = 0, {
+        x <- c()
+        incProgress(0, detail = "Counting found data")
+        for(i in 1:12){
+          x <- do_function(i, countAttr, addNoVector, addNoVector, input$attributes, attributeFound(), vector = x)
+          incProgress(0.07, detail = "Counting found data")
         }
-      data <- data.frame(Parameters = x)
-      p <- plot_ly(data, x = ~Parameters, color = ~Parameters, type = 'histogram', colors = seba_palette)
-      histPlot(p)
+        data <- data.frame(Parameters = x)
+        incProgress(0, detail = "Plotting")
+        p <- plot_ly(data, x = ~Parameters, color = ~Parameters, type = 'histogram', colors = seba_palette)
+        histPlot(p)
+        incProgress(0.16, detail = "Ready")
+      })
     } else{noParameters("a", "Visualization")}
   })
   
@@ -1176,7 +1190,10 @@ shinyServer(function(input, output, session) {
   
   # As a scatterplot
   observeEvent(input$getCorrelationScatter2, {
-    if(paramSearch()){
+    s <- length(input$corScat)
+    if(s <= 1 | s > 6){
+      corScatterError(s)
+    } else if(paramSearch()){
       shinyjs::disable("getCorrelationScatter2")
       withProgress(message = "Ploting", value = 0, {
         if(!merged()) groupMerging(commonCorrelation())
@@ -1299,7 +1316,7 @@ shinyServer(function(input, output, session) {
     kPlot()
   })
   
-  # Download Parameter Table
+  # Download Cluster Parameter Table
   output$downloadKmeans <- downloadHandler(
     filename <- 'clusters.txt',
     content <- function(name){
@@ -1312,6 +1329,56 @@ shinyServer(function(input, output, session) {
       write.table(table, name, quote = FALSE, row.names = FALSE, sep = "\t")
     }
   )
+  
+  # Suggestion
+  
+  observeEvent(input$suggestionType, {
+    if(input$suggestionType == "others"){
+      updateSelectInput(session, "suggestionSubtype", choices = NULL)
+      shinyjs::hide("suggestionSubtype")
+      shinyjs::show("newType")
+    } else{
+      choices <- generateChoices(input$suggestionType)
+      shinyjs::show("suggestionSubtype")
+      shinyjs::hide("newType")
+      updateSelectInput(session, "suggestionSubtype", choices = choices)
+    }
+  })
+  
+  observeEvent(input$allowMail, {
+    if(input$allowMail){
+      updateCheckboxInput(session, "showMail", value = TRUE)
+      shinyjs::disable("showMail")
+    }else {
+      updateCheckboxInput(session, "showMail", value = FALSE)
+      shinyjs::enable("showMail")}
+  })
+  
+  observeEvent(input$enterSuggestion, {
+    if(input$showMail & !isThereUser()){
+      shinyalert("No mail", "We don't have your mail, enter Brenda user or unclick the mail option to submit", type = "error")
+    } else if(input$suggestionText == ""){
+      shinyalert("No suggestion", "There is no suggestion to submit", type = "error")
+    } else{
+      withProgress(message = "Submitting", value = 0, {
+        line <- ""
+        if(input$showMail){line <- paste(line,
+                                         paste("Mail:", user()$getMail()),
+                                         sep = "\n")}
+        if(input$allowMail){line <- paste(line, "Want to receive an email", sep ="\n")}
+        if(input$suggestionType == "others"){
+          line <- paste(line, paste("Subject:", input$newType), sep="\n")
+        } else{
+            line <- paste(line, paste("Subject:", input$suggestionSubtype), sep="\n")}
+        line <- paste(line, input$suggestionText, sep = "\n")
+        line <- paste(line, "--------------------------------------", sep = "\n")
+        write(line, paste("suggestion_box\\",input$suggestionType,".txt",sep=""), append = TRUE)
+        updateTextAreaInput(session, "suggestionText", value = "")
+        incProgress(1, detail = "Ready!")
+      })
+      showNotification(h4(icon("smile-beam"), "Thank you!, your suggestion was submitted"),type = "message")
+    }
+  })
   
   # Links on the tutorial
   # Enzyme name section

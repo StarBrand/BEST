@@ -89,6 +89,21 @@ kmeansError <- function(s){
                    m, con3, "(for a three dimensional one)"),
              type = "error")
 }
+corScatterError <- function(s){
+  n <- 2 - s
+  m <- s - 6
+  if(m == 1){nparameters = "parameter"
+  } else{nparameters = "parameters"}
+  if(n == 1){nparameters = "one parameter more"
+  } else if(n == 2){nparameters = "two parameters"}
+  if(n < 0){aMessage <- paste("Too many parameters are selected, due to storage issues, please, deselect",
+                              abs(m), nparameters, "to show the correlation")
+  } else {aMessage <- paste("There are not enough parameter to do a correlation, select at least",
+                            nparameters, "to show the correlation")}
+  shinyalert("Wrong number of parameter selected",
+             aMessage,
+             type = "error")
+}
 noParameters <- function(art, what){
   shinyalert(paste(what, "of what?"),
              paste("To do", art, what, ", a functional parameter query must be done"),
@@ -300,6 +315,41 @@ reduceData <- function(long, data, session){
                     session = session)
   }
   datag
+}
+
+# Suggestion
+# Subtype
+generateChoices <- function(input){
+  out <- list()
+  if(input == "functions"){
+    out <- list("New data from Brenda", "Improve the way the data is showed",
+                "A useful visualization", "A useful analysis", "Improve an existing function")
+  } else if(input == "tutorial"){
+    out <- list("On the enzyme query", "On the Protein table", "On the Parameter query",
+                "On the other queries", "On summary table", "On visualization", "On cluster",
+                "On external tools", "On saved tables", "On errors")
+  } else if(input == "graphics"){
+    out <- list("On the web site aesthetics", "On the tables", "On the graphs", "On the links",
+                "On the downloaded tables")
+  } else if(input == "bug"){
+    out <- list("Application stoped (indicates the point and as many details as possible)",
+                "Redirected to a Not Found Page (indicates the last link or button you clicked)",
+                "Incredible slow or the progress bar appears and never stop",
+                "Wrong output (Mail us a screenshot if possible)")
+  } else if(input == "wrong_data"){
+    out <- list("Discrepancy on the generated data and the found on the Brenda page",
+                "Discrepancy on the generated data and the found on the literature",
+                "The plots don't show the correct data",
+                "A text in the web is wrong or not accurate",
+                "A link is not correct", "My package (or library) was used and the citation is misspelled",
+                "My package or piece of code is used and the credit doesn't appear")
+  } else if(input == "question"){
+    out <- list("Of how to use the app", "Of how I can contibute")
+  } else if(input == "unclasified"){
+    out <- list("Because I don't know", "Because I don't care")
+  }
+  out <- c(out, list("None of the above (new one)", "Don't know how to clasify it"))
+  out
 }
 
 # Show expceted time
