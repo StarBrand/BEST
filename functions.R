@@ -1,5 +1,5 @@
-library(shinyalert)
 library(shinyjs)
+library(shinyalert)
 source("variables.R")
 
 # Standard readtable
@@ -46,68 +46,6 @@ noTable <- function(n, ...){
 addNoList <- function(n, ...){
   op <- list(...)
   out <- op$listA
-}
-
-# Errors
-noSession <- function(){
-  shinyalert("Enter Brenda User",
-             "You won't be available to search enzymes if we haven't your Brenda account",
-             type = "error")
-}
-noSearch <- function(what){
-  shinyalert(paste(what, " of what?", sep = ""),
-             paste("We need a list of enzymes (or at least one) to look for ",
-                   what,
-                   sep = ""),
-             type = "error")
-}
-noProteins <- function(){
-  shinyalert("Cannot add",
-             "It is not necessary to add enzymes, because you are not enter yet",
-             type = "error")
-}
-wrongPassword <- function(){
-  shinyalert("Wrong password",
-             "Type it again or make sure your password is the same of your Brenda account",
-             type = "error")
-}
-noAccount <- function(){
-  shinyalert("This is not a Brenda Account",
-             "Type it again or register an account on the Brenda page",
-             type = "error")
-}
-kmeansError <- function(s){
-  n <- 2 - s
-  m <- abs(3 - s)
-  if(n < 0){con2 <- "deselect"
-  } else {con2 <- "select"}
-  if(m == 1){con3 <- "parameter"
-  } else {con3 <- "parameters"}
-  shinyalert("Wrong number of parameter selected",
-             paste("The visualization takes each parameter as a dimension, therefore, you need to",
-                   con2, abs(n), "(for a two dimensional clustering) or ",
-                   m, con3, "(for a three dimensional one)"),
-             type = "error")
-}
-corScatterError <- function(s){
-  n <- 2 - s
-  m <- s - 6
-  if(m == 1){nparameters = "parameter"
-  } else{nparameters = "parameters"}
-  if(n == 1){nparameters = "one parameter more"
-  } else if(n == 2){nparameters = "two parameters"}
-  if(n < 0){aMessage <- paste("Too many parameters are selected, due to storage issues, please, deselect",
-                              abs(m), nparameters, "to show the correlation")
-  } else {aMessage <- paste("There are not enough parameter to do a correlation, select at least",
-                            nparameters, "to show the correlation")}
-  shinyalert("Wrong number of parameter selected",
-             aMessage,
-             type = "error")
-}
-noParameters <- function(art, what){
-  shinyalert(paste(what, "of what?"),
-             paste("To do", art, what, ", a functional parameter query must be done"),
-             type = "error")
 }
 
 # Endoder function for Parameter Query
@@ -289,12 +227,12 @@ labeling <- function(data, table){
 }
 
 # Reduce data
-reduceData <- function(long, data, session){
+reduceData <- function(long, data, message, session){
   datag <- data
   names <- attributes(datag)$names
   n <- nrow(datag)
   if(n > long){
-    showNotification("Your clusterized data has too many rows to plot, we are reducing it to be able to show it. The whole data is still available to download",
+    showNotification(message,
                      duration = NULL,
                      closeButton = TRUE,
                      session = session)

@@ -26,8 +26,8 @@ ui <- fluidPage(
                 dashboardBody(
                   tabItems(
                     tabItem(tabName = "help",
-                            box(width = 3, height = '90vh',
-                                div(style='height:80vh; overflow-y: scroll',
+                            box(width = 3, height = '90vh', title = "Summary", solidHeader = TRUE, status = "primary",
+                                div(style='height: 80vh; overflow-y: scroll',
                                 tags$li(tags$a(href = "#1", "Get started"),
                                         tags$ul(tags$li(tags$a(href = "#1_1", "Enzyme query"),
                                                         tags$ul(tags$li(tags$a(href = "#1_1_1", "EC Number")),
@@ -82,16 +82,27 @@ ui <- fluidPage(
                                 tags$li(tags$a(href = "#8", "Saved tables")
                                         ),
                                 tags$li(tags$a(href = "#9", "Errors"),
-                                        tags$ul(tags$li(tags$a(href = "#9_1", "Avoidable errors")),
-                                                tags$li(tags$a(href = "#9_2", "Unavoidable errors"))
+                                        tags$ul(tags$li(tags$a(href = "#9_1", "Avoidable errors"),
+                                                        tags$ul(tags$li(tags$a(href = "#9_1_1", "Enter Brenda User")),
+                                                                tags$li(tags$a(href = "#9_1_2", "Wrong Password")),
+                                                                tags$li(tags$a(href = "#9_1_3", "Not a Brenda Account")),
+                                                                tags$li(tags$a(href = "#9_1_4", "Make an enzyme query")),
+                                                                tags$li(tags$a(href = "#9_1_5", "Cannot add")),
+                                                                tags$li(tags$a(href = "#9_1_6", "Make a functional parameters query")),
+                                                                tags$li(tags$a(href = "#9_1_7", "Wrong number of parameter selected"))
+                                                                )),
+                                                tags$li(tags$a(href = "#9_2", "Unavoidable errors"),
+                                                        tags$ul(tags$li(tags$a(href = "#9_2_1", "The parameters appear selected, but the query doesn't show anything")),
+                                                                tags$li(tags$a(href = "#9_2_2", "Reduce the obtained rows"))
+                                                                ))
                                                 )
                                         )
                                 )
                                 ),
-                            box(width = 9, height = '90vh',
-                                div(style='height:80vh; overflow-y: scroll',
+                            box(width = 9, height = '90vh', title = h1(icon("graduation-cap"), "Tutorial"), solidHeader = TRUE, status = "primary",
+                                div(style='height:70vh; overflow-y: scroll',
                                     div(id = "1", class = "section level1",
-                                        h1("Get started"),
+                                        h2("Get started"),
                                         p("To start looking in Brenda, we need your Brenda account (",
                                           actionLink("faqhelp", "why?"), ").",
                                           "If you do not have one, you can visit: ",
@@ -99,13 +110,13 @@ ui <- fluidPage(
                                           "Once you have your account, we can look for the enzymes you need ",
                                           "and the numerical parameters you request.")),
                                     div(id = "1_1", class = "section level2",
-                                        h2("Enzyme query"),
+                                        h3("Enzyme query"),
                                         p("To get the enzymes you need, we offer three different kind of options. This inputs are in ",
                                           "the ",
                                           actionLink("enzymeHelp", "select enzyme"),
                                           "section.")),
                                     div(id = "1_1_1", class = "section level3",
-                                        h3("EC Number"),
+                                        h4("EC Number"),
                                         p("Enzymes are classified by the ",
                                           tags$a("IUBMB", href = "https://iubmb.org/"),
                                           " according to the reaction they catalize. This corresponds to the",
@@ -123,7 +134,7 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "1_1_2", class = "section level3",
-                                        h3("Enzyme name"),
+                                        h4("Enzyme name"),
                                         p("Enzymes have a lot of names that differ depending on the gen codifiding it, the reaction, ",
                                           "historical reasons and so on. Brenda groups them according to its ec number, however, they are associated",
                                           "to the multiple names in which they are called in literature. This category is showed in the ",
@@ -154,7 +165,7 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "1_2", class = "seccion level2",
-                                        h2("Before the query"),
+                                        h3("Before the query"),
                                         p("At this point, a table showing all the organism that has a protein with the same catalytic function define in the ",
                                           "ec number, available in Brenda is generated. This table contains the next columns that depend on the enzyme type: ",
                                           "ec number, systematic name (this could be empty) and recommended name; and the next columns that depend on the organism: ",
@@ -169,7 +180,7 @@ ui <- fluidPage(
                                           ". In this section, the optional proceeds to have a complex query are described.")
                                         ),
                                     div(id = "1_2_1", class = "seccion level3",
-                                        h3("Add Enzymes to the query"),
+                                        h4("Add Enzymes to the query"),
                                         p("If more than just one enzyme type is needed, you can add another ecnumber to the query. This proccess can be done virtually ",
                                           "undefinely. To add ec numbers to your organism table (or protein table) look for the \"Add proteins\" button in the side bar ",
                                           "panel."),
@@ -188,7 +199,7 @@ ui <- fluidPage(
                                         p("If all is set, add enzymes to the query ", tags$a("the same way the first ones were entered.", href = "#1_1"))
                                         ),
                                     div(id = "1_2_2", class = "seccion level3",
-                                        h3("Erase the query"),
+                                        h4("Erase the query"),
                                         p("If you made a mistake and the ec number enter to the query is not the one you want to. You can erase this query and ",
                                           "look for another one by clicking the \"Go back and search another Enzyme\" in the top/right corner."),
                                         img(src = 'Tutorial(9).jpg',
@@ -208,7 +219,7 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "2", class = "seccion level1",
-                                        h1("Queries from the organism table"),
+                                        h2("Queries from the organism table"),
                                         p("After the organism table ",
                                           "(", actionLink("proteinHelp", "Protein Table"),
                                           ") is generated, it can be used to search for ", tags$a("numerical parameters", href = "#3"),
@@ -219,7 +230,7 @@ ui <- fluidPage(
                                           "depended to each other.")
                                         ),
                                     div(id = "2_1", class = "seccion level2",
-                                        h2("Get PDB"),
+                                        h3("Get PDB"),
                                         p("Generete a table with the PDB codes and their links to the ", tags$a("RCSB PDB", href = "https://www.rcsb.org/#Category-learn"),
                                           " is done by clicking the \"Get PDB\" button above the ",
                                           actionLink("proteinHelp2", "Protein Table"), " as show below."),
@@ -238,7 +249,7 @@ ui <- fluidPage(
                                         p("Also, you can download the whole table clicking the blue button, or return to the Protein table section clicking the orange one")
                                         ),
                                     div(id = "2_2", class = "seccion level2",
-                                        h2("Get amino acids sequence"),
+                                        h3("Get amino acids sequence"),
                                         p("The uniprot code that some proteins have, are a distintive code provides by the ",
                                           tags$a("Uniprot database", href = "https://www.uniprot.org/help/"),
                                           ", that a particular enzyme has. With this code you can access to the amino acids sequence of the protein. Brenda ",
@@ -256,7 +267,7 @@ ui <- fluidPage(
                                           "all the list\" button in the sidebar.")
                                         ),
                                     div(id = "2_3", class = "seccion level2",
-                                        h2("Get functional parameters"),
+                                        h3("Get functional parameters"),
                                         p("The complete functional parameters query tutorial is in the ",
                                           tags$a("next section", href = "#3"), ". However, to generete a table with the 12 numerical parameters available in Brenda ",
                                           "for every protein in the Protein table, you have to activate the \"Select all functional parameters\" switch on the top ",
@@ -267,13 +278,13 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "3", class = "seccion level1",
-                                        h1("Functional Parameters Query"),
+                                        h2("Functional Parameters Query"),
                                         p("This is the particular functionality this application has and, naturally, one of the tools that has the most options. If you", 
                                           "simply want all the numerical parameters available you can do ",
                                           tags$a("this", href = "#2_3"), ".")
                                         ),
                                     div(id = "3_1", class = "seccion level2",
-                                        h2("Selecting parameters"),
+                                        h3("Selecting parameters"),
                                         p("Brenda has 12 numerical parameters available for most of the ec number. Each of them are showed in different tables like this: "),
                                         img(src = 'Tutorial(18).jpg',
                                             width = '500px',
@@ -300,19 +311,19 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "3_2", class = "seccion level2",
-                                        h2("Other options of query")
+                                        h3("Other options of query")
                                         ),
                                     div(id = "3_2_1", class = "seccion level3",
-                                        h3("Selecting by phylogeny"),
+                                        h4("Selecting by phylogeny"),
                                         p(icon("exclamation-triangle"), "Sorry, but we are still working in this functionallity. It is going to be available soon.")
                                         ),
                                     div(id = "3_2_2", class = "seccion level3",
-                                        h3("Add enzymes"),
+                                        h4("Add enzymes"),
                                         p("You can add more ec numbers to the query doing ",
                                           tags$a("this", href = "#1_2_1"), ".")
                                         ),
                                     div(id = "3_2_3", class = "seccion level3",
-                                        h3("Filter by Uniprot code"),
+                                        h4("Filter by Uniprot code"),
                                         p("If you just want to use the enzymes that have ",
                                            tags$a("Uniprot code", href = "https://www.uniprot.org/help/"), ", activate the switch below the list of parameters."),
                                         img(src = 'Tutorial(22).jpg',
@@ -320,7 +331,7 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "3_3", class = "seccion level2",
-                                        h2("The Parameter Table"),
+                                        h3("The Parameter Table"),
                                         p("The generated table has:"),
                                         div(style = "margin-left: 40px;",
                                             p(icon("arrow-alt-circle-right"), "6 columns indicating enzyme data, same as the shown in the ",
@@ -356,7 +367,7 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "3_4", class = "seccion level2",
-                                        h2("Filters"),
+                                        h3("Filters"),
                                         p("With the parameters table generated, you can also filter the numerical parameters setting the minimum and/or maximum value you ",
                                           "want to preserve. For this there are slide inputs in the sidebar of the paremeters table that also have checkbox on the left. This ",
                                           "sliders are going to be showed if the respective parameter was selected on the previous step. In case the enzyme does not have ",
@@ -388,7 +399,7 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "3_5", class = "seccion level2",
-                                        h2("Download table"),
+                                        h3("Download table"),
                                         p("The genereted and filtered table can be download locally by clicking the \"Download table\" blue button above the table."),
                                         img(src = 'Tutorial(30).jpg',
                                             width = '400px',
@@ -408,11 +419,11 @@ ui <- fluidPage(
                                         p("The protein table can be downloaded too with the same format and particularities.")
                                         ),
                                     div(id = "4", class = "seccion level1",
-                                        h1("Summary table and quick access"),
+                                        h2("Summary table and quick access"),
                                         p("This section describes 2 tools that are available at any moment in the app.")
                                         ),
                                     div(id = "4_1", class = "seccion level2",
-                                        h2("Summary table and where to find it"),
+                                        h3("Summary table and where to find it"),
                                         p("It is possible to generate a table showing how many attributes of each protein (differentating the ec number ",
                                           "and the organism) have been found."),
                                         img(src = 'Tutorial(32).jpg',
@@ -426,7 +437,7 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "4_2", class = "seccion level2",
-                                        h2("Quick access toolbar"),
+                                        h3("Quick access toolbar"),
                                         p("At the right\\top corner there are four buttons in the toolbar. These buttons, called quick access, allow you to ",
                                           "change the current seccion to:"),
                                         tags$br(),
@@ -451,7 +462,7 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "4_3", class = "seccion level2",
-                                        h2("Dashboard Menu"),
+                                        h3("Dashboard Menu"),
                                         p("At any point of your work, you can jump to any seccion using the dashboard menu at the left of the site. This can be hide ",
                                           "or show clicking the ", icon("bars"), "on the toolbar."),
                                         img(src = 'Tutorial(38).jpg',
@@ -459,13 +470,13 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "5", class = "seccion level1",
-                                        h1("Visualize"),
+                                        h2("Visualize"),
                                         p("With the genereted tables, there are multiple option to do. The ",
                                           tags$a("Cluster", href = "#6"), "seccion, ", tags$a("External tools", href = "#7"),
-                                          " and this one are about that. This seccion shows how to use the available visualizations ... has.")
+                                          " and this one are about that. This seccion shows how to use the available visualizations FBS has.")
                                         ),
                                     div(id = "5_1", class = "seccion level2",
-                                        h2("Parameter found as bar plot"),
+                                        h3("Parameter found as bar plot"),
                                         p("To start the visualization click the \"Visualize\" green button above the parameter table."),
                                         img(src = 'Tutorial(39).jpg',
                                             width = '300px',
@@ -483,7 +494,7 @@ ui <- fluidPage(
                                                  "different type of zooms.")
                                         ),
                                     div(id = "5_2", class = "seccion level2",
-                                        h2("Distribution as boxplot"),
+                                        h3("Distribution as boxplot"),
                                         p("Descriptive statistics quantitatively describes data. In this case, distribution can be analyse with a boxplor that indicates ",
                                           "the quartiles, including the median. The distribution boxplot is generated by clicking the \"Watch distribution\" blue button ",
                                           "on the sidebar panel."),
@@ -517,7 +528,7 @@ ui <- fluidPage(
                                         helpText("Note: this also will filter all the organism that hasn't molecular weight reported, and the data of the organism filtered.")
                                         ),
                                     div(id = "5_3", class = "seccion level2",
-                                        h2("Correlation"),
+                                        h3("Correlation"),
                                         p("Data can be correlated, this is, two variables may have any statistical association. This association, called correlation, whether ",
                                           "casual or not. On the Parameters Found seccion, click the \"Watch correlation\" button, below the \"Watch distribution\" one. Two ",
                                           "green buttons will be shown."),
@@ -526,7 +537,7 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "5_3_1", class = "seccion level3",
-                                        h3("Correlation as heatmap matrix"),
+                                        h4("Correlation as heatmap matrix"),
                                         p("A heatmap matrix represents a function of two variables as matrix, the matrix itself represent this two dimension and the function ",
                                           " is represented with a color code (the heatmap). In this case, the two variables are all the functional parameter pairs of the found ",
                                           "data. The heatmap represent a measure of the correlation."),
@@ -545,7 +556,7 @@ ui <- fluidPage(
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "5_3_2", class = "seccion level3",
-                                        h3("Correlation as a paired scatter plot"),
+                                        h4("Correlation as a paired scatter plot"),
                                         p("The correlation also can be analyse visually instead of numerically. To watch a paired scatter plot, click the \"As a scatterplot matrix\" ",
                                           "green button below the \"As a heatmap matrix\" one, or change the tab on the Correlation seccion after generate the heatmap matrix."),
                                         img(src = 'Tutorial(48).jpg',
@@ -567,16 +578,16 @@ ui <- fluidPage(
                                                  "different type of zooms.")
                                         ),
                                     div(id = "6", class = "seccion level1",
-                                        h1("Cluster"),
+                                        h2("Cluster"),
                                         p(tags$a("Cluster analysis", href = "https://dl.acm.org/citation.cfm?doid=568574.568575"),
                                           " is a technic of exploratory data mining and statistical data analysis. It consist on group a set of object related to each other more that ",
                                           "those on other groups (clusters). To do clustering click the \"Analyze\" green button above the parameter table."),
                                         img(src = 'Tutorial(51).jpg',
-                                            width = '700px',
+                                            width = '200px',
                                             style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "6_1", class = "seccion level2",
-                                        h2("K-means"),
+                                        h3("K-means"),
                                         p(tags$a("K-means", href = "https://ieeexplore.ieee.org/document/1056489") ," is a clustering algorithm consisting on generete random points and calculate ",
                                           "a distance among the nearest point, discarting the most distant one and repeting until the k (number of cluster) are generated. To do the k-means clustering ",
                                           "click the \"K-means clustering\" green button on the Cluster seccion or change the tab to the K-means clustering."),
@@ -602,42 +613,147 @@ ui <- fluidPage(
                                           "allow the visualization.")
                                         ),
                                     div(id = "7", class = "seccion level1",
-                                        h1("External tools")
+                                        h2("External tools")
                                         ),
                                     div(id = "8", class = "seccion level1",
-                                        h1("Saved tables")
+                                        h2("Saved tables"),
+                                        p("Fast Brenda Searcher saves your last query for 72 hours in order to do your analysis easier. If you already make a query before, there will be a message on the toolbar."),
+                                        img(src = 'Tutorial(55).jpg',
+                                            width = '700px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;"),
+                                        p("To load the saved table, click the \"more info\" link to be redirected."),
+                                        img(src = 'Tutorial(56).jpg',
+                                            width = '700px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;"),
+                                        p("On the table in the right panel, select the tables you want to load. Particulary, the saved protein table, which contains the organisms and type of enzyme according to the ",
+                                          " ec number, will be going to be load whether it was selected or not."),
+                                        img(src = 'Tutorial(57).jpg',
+                                            width = '700px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;"),
+                                        helpText("Note: If on your previous query were parameters not selected, those parameters are going to be marked as \"Not Found\""),
+                                        p("After the selection is done, click the \"Load Selected Table\" blue button below the table. The selected table (include the Protein table) is going to be regenerated and the ",
+                                          "not selected are going to be erased. If you change your mind and don't want to saved this tables anymore, change the section (using ", tags$a("quick access or dashboard menu",
+                                          href = "#4"), ") or click the \"Go back and search another enzyme\" red button on the sidebar and the tables are going to be erased."),
+                                        img(src = 'Tutorial(58).jpg',
+                                            width = '200px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "9", class = "seccion level1",
-                                        h1("Errors")
+                                        h2("Errors"),
+                                        p("This is an application on development, hence, we are still dealing with a few minor issues. Some of them are identified and are presented as ",
+                                          tags$a("Unavoidable erros", href = "#9_2"), "and the not identified yet can be reported on the ",
+                                          actionLink("sugghelp", "Suggestions section"), ". The ones that are identified, but depends on the user are presented as ",
+                                          tags$a("Avoidable erros", href = "#9_1"), "on the section below.")
                                         ),
                                     div(id = "9_1", class = "seccion level2",
-                                        h2("Avoidable errors")
+                                        h3("Avoidable errors"),
+                                        p("If the user, on purpose or accidentally, enters an unvalid input that are identified, an error is going to be announced and the action won't be done. Those kind of error are ",
+                                          "listed here.")
+                                        ),
+                                    div(id = "9_1_1", class = "seccion level3",
+                                        h4(icon("exclamation-triangle"), "Enter Brenda User"),
+                                        p("Without a valid Brenda User, we cannot do any query, particullary, the first one: the Enzyme query."),
+                                        img(src = 'Tutorial(59).jpg',
+                                            width = '700px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;")
+                                        ),
+                                    div(id = "9_1_2", class = "seccion level3",
+                                        h4(icon("exclamation-triangle"), "Wrong Password"),
+                                        p("The entered password is invalid, but the mail is a valid Brenda User."),
+                                        img(src = 'Tutorial(60).jpg',
+                                            width = '700px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;")
+                                        ),
+                                    div(id = "9_1_3", class = "seccion level3",
+                                        h4(icon("exclamation-triangle"), "Not a Brenda Account"),
+                                        p("The entered mail hasn't registered on Brenda, to register, please enter on the ",
+                                          tags$a("Brenda Registration site", href = "https://www.brenda-enzymes.org/register.php"), "."),
+                                        img(src = 'Tutorial(61).jpg',
+                                            width = '700px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;")
+                                        ),
+                                    div(id = "9_1_4", class = "seccion level3",
+                                        h4(icon("exclamation-triangle"), "Make an enzyme query"),
+                                        p("To be able to get amino acids FASTA sequence, PDB, or functional parameters, an ",
+                                          tags$a("enzyme query", href = "#1_1"), " must be done first."),
+                                        img(src = 'Tutorial(62).jpg',
+                                            width = '600px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;")
+                                        ),
+                                    div(id = "9_1_5", class = "seccion level3",
+                                        h4(icon("exclamation-triangle"), "Cannot add"),
+                                        p("Simply, if enzyme hasn't added to the query, there's no need to add more."),
+                                        img(src = 'Tutorial(63).jpg',
+                                            width = '600px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;")
+                                        ),
+                                    div(id = "9_1_6", class = "seccion level3",
+                                        h4(icon("exclamation-triangle"), "Make a functional parameters query"),
+                                        p("The visualization and the clustering analysis need functional parameters, therefore, to apply these tools, first do a ",
+                                          tags$a("functional parameters query)", href = "#3"), "."),
+                                        img(src = 'Tutorial(64).jpg',
+                                            width = '600px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;")
+                                        ),
+                                    div(id = "9_1_7", class = "seccion level3",
+                                        h4(icon("exclamation-triangle"), "Wrong number of parameter selected"),
+                                        p("Some tools require selecting some of the functional parameters found. The number of this parameters are indicated, however, if ",
+                                          "the amount of selected parameter differs from those indicated, you're going to be notified and the action won't be done."),
+                                        img(src = 'Tutorial(65).jpg',
+                                            width = '600px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;")
                                         ),
                                     div(id = "9_2", class = "seccion level2",
-                                        h2("Unavoidable errors")
+                                        h3("Unavoidable errors"),
+                                        p("Some issues are identified, but we haven't found a solution yet. Some of them has a not reported solution, but some not. The objective of this section ",
+                                          "is make those issues clear and make the user be aware of them.")
+                                        ),
+                                    div(id = "9_2_1", class = "seccion level3",
+                                        h4(icon("exclamation-triangle"), "The parameters appear selected, but the query doesn't show anything"),
+                                        p("We don't know what this happen, but it did happen several times on the tests. However, there is a simple soluction. First, deactivate the \"\" blue switch, ",
+                                          "then, select the parameters you need or reactivate the blue switch. Do the the query again, in case this is still happening repite the process or report it ", 
+                                          "in the ", actionLink("sugghelp2", "Suggestions section"), "."),
+                                        img(src = 'Tutorial(66).jpg',
+                                            width = '450px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;")
+                                        ),
+                                    div(id = "9_2_2", class = "seccion level3",
+                                        h4(icon("exclamation-triangle"), "Reduce the obtained rows"),
+                                        p("Some visualization and analysis requires to much storage. In order to be able to do them anyway and avoid the complete failure of web site, we choose to ",
+                                          "reduce data in case the generated rows are too much to storage or to merge. This could happen on the ", tags$a("clustering", href = "#6"), " or on the ",
+                                          tags$a("paired scatter plot correlation", href = "#5_3_2"), ". In the first case, the clustering is done with all the data, but the visualization don't. In the ",
+                                          "second situation, the visualization is due with the reduced data."),
+                                        img(src = 'Tutorial(67).jpg',
+                                            width = '400px',
+                                            style = "display: block; margin-left: auto; margin-right: auto;"),
+                                        tags$br(),
+                                        p("To reduce the data, we eliminate the pair rows and leave the odd ones. In case there's still to much data, the process is repited.")
                                         )
                                     ))
                     ),
                     tabItem(
                       tabName = "acknowledgments",
-                      box(width = 3, height = '90vh'
-                          
+                      box(width = 3, height = '90vh', title = "Summary", solidHeader = TRUE, status = "primary",
+                          div(style='height:80vh; overflow-y: scroll',
+                              p("")
+                          )
                       ),
-                      box(width = 9, height = '90vh'
-                          
+                      box(width = 9, height = '90vh', title = h1(icon("award"), "Acknowlegments"), solidHeader = TRUE, status = "primary",
+                          div(style='height:70vh; overflow-y: scroll',
+                              p("")
+                          )
                       )
                     ),
                     tabItem(
                       tabName = "faq",
-                      box(width = 3, height = '90vh', title = "Summary",
+                      box(width = 3, height = '90vh', title = "Summary", solidHeader = TRUE, status = "primary",
                           div(style='height:80vh; overflow-y: scroll',
                               tags$li(tags$a(href = "#1", "Why the Brenda account is needed?")),
                               tags$li(tags$a(href = "#2", "What can we do with your Brenda account?")))
                           
                       ),
-                      box(width = 9, height = '90vh',
-                          div(style='height:80vh; overflow-y: scroll',
-                              h1("Frequently Asked Questions"),
+                      box(width = 9, height = '90vh', title = h1(icon("question"), "Frequently Asked Questions"), solidHeader = TRUE, status = "primary",
+                          div(style='height:70vh; overflow-y: scroll',
                               div(id = "1", class = "seccion level1",
                                   h2("Why the Brenda account is needed?"),
                                   p("The query is made by ",

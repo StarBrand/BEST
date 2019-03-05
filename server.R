@@ -25,6 +25,7 @@ library(rclipboard)
 .jinit("BrendaSOAP.jar")
 source("correlation.R")
 source("functions.R")
+source("errors.R")
 source("tree.R")
 source("clustering.R")
 source("helpers.R")
@@ -1288,7 +1289,7 @@ shinyServer(function(input, output, session) {
           kmeansTable(to_save)
           incProgress(0.2, detail = "Ploting")
           datag <- data
-          datag <- reduceData(2000, datag, session)
+          datag <- reduceData(2000, datag, "Your clusterized data has too many rows to plot, we are reducing it to be able to show it. The whole data is still available to download", session)
           if(s == 2){
             p <- plotingKmeans2d(datag, nat[clu[1]], nat[clu[2]])
           } else{
@@ -1331,7 +1332,6 @@ shinyServer(function(input, output, session) {
   )
   
   # Suggestion
-  
   observeEvent(input$suggestionType, {
     if(input$suggestionType == "others"){
       updateSelectInput(session, "suggestionSubtype", choices = NULL)
@@ -1384,6 +1384,33 @@ shinyServer(function(input, output, session) {
   # Enzyme name section
   observeEvent(input$enzymeHelp, {
     updateTabItems(session, "inTabset", "enzyme")
+  })
+  observeEvent(input$enzymeHelp2, {
+    updateTabItems(session, "inTabset", "enzyme")
+  })
+  # Protein table section
+  observeEvent(input$proteinHelp, {
+    updateTabItems(session, "inTabset", "proteinTable")
+  })
+  observeEvent(input$proteinHelp2, {
+    updateTabItems(session, "inTabset", "proteinTable")
+  })
+  # Faq section
+  observeEvent(input$faqhelp, {
+    updateTabItems(session, "inTabset", "faq")
+  })
+  # Suggestions section
+  reportBug <- function(){
+    updateTabItems(session, "inTabset", "suggestions")
+    updatePickerInput(session, "suggestionType", selected = "bug")
+    updateSelectInput(session, "suggestionSubtype",
+                      selected = "Application stoped (indicates the point and as many details as possible)")
+  }
+  observeEvent(input$sugghelp, {
+    reportBug()
+  })
+  observeEvent(input$sugghelp2, {
+    reportBug()
   })
   
 })

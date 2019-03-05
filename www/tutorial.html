@@ -1,7 +1,10 @@
 <div class="col-sm-3">
-  <div class="box" style="height: 90vh">
+  <div class="box box-solid box-primary" style="height: 90vh">
+    <div class="box-header">
+      <h3 class="box-title">Summary</h3>
+    </div>
     <div class="box-body">
-      <div style="height:80vh; overflow-y: scroll">
+      <div style="height: 80vh; overflow-y: scroll">
         <li>
           <a href="#1">Get started</a>
           <ul>
@@ -131,9 +134,40 @@
           <ul>
             <li>
               <a href="#9_1">Avoidable errors</a>
+              <ul>
+                <li>
+                  <a href="#9_1_1">Enter Brenda User</a>
+                </li>
+                <li>
+                  <a href="#9_1_2">Wrong Password</a>
+                </li>
+                <li>
+                  <a href="#9_1_3">Not a Brenda Account</a>
+                </li>
+                <li>
+                  <a href="#9_1_4">Make an enzyme query</a>
+                </li>
+                <li>
+                  <a href="#9_1_5">Cannot add</a>
+                </li>
+                <li>
+                  <a href="#9_1_6">Make a functional parameters query</a>
+                </li>
+                <li>
+                  <a href="#9_1_7">Wrong number of parameter selected</a>
+                </li>
+              </ul>
             </li>
             <li>
               <a href="#9_2">Unavoidable errors</a>
+              <ul>
+                <li>
+                  <a href="#9_2_1">The parameters appear selected, but the query doesn't show anything</a>
+                </li>
+                <li>
+                  <a href="#9_2_2">Reduce the obtained rows</a>
+                </li>
+              </ul>
             </li>
           </ul>
         </li>
@@ -142,11 +176,19 @@
   </div>
 </div>
 <div class="col-sm-9">
-  <div class="box" style="height: 90vh">
+  <div class="box box-solid box-primary" style="height: 90vh">
+    <div class="box-header">
+      <h3 class="box-title">
+        <h1>
+          <i class="fa fa-graduation-cap"></i>
+          Tutorial
+        </h1>
+      </h3>
+    </div>
     <div class="box-body">
-      <div style="height:80vh; overflow-y: scroll">
+      <div style="height:70vh; overflow-y: scroll">
         <div id="1" class="section level1">
-          <h1>Get started</h1>
+          <h2>Get started</h2>
           <p>
             To start looking in Brenda, we need your Brenda account (
             <a id="faqhelp" href="#" class="action-button">why?</a>
@@ -158,7 +200,7 @@
           </p>
         </div>
         <div id="1_1" class="section level2">
-          <h2>Enzyme query</h2>
+          <h3>Enzyme query</h3>
           <p>
             To get the enzymes you need, we offer three different kind of options. This inputs are in 
             the 
@@ -167,7 +209,7 @@
           </p>
         </div>
         <div id="1_1_1" class="section level3">
-          <h3>EC Number</h3>
+          <h4>EC Number</h4>
           <p>
             Enzymes are classified by the 
             <a href="https://iubmb.org/">IUBMB</a>
@@ -185,7 +227,7 @@
           <img src="Tutorial(1).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="1_1_2" class="section level3">
-          <h3>Enzyme name</h3>
+          <h4>Enzyme name</h4>
           <p>
             Enzymes have a lot of names that differ depending on the gen codifiding it, the reaction, 
             historical reasons and so on. Brenda groups them according to its ec number, however, they are associated
@@ -218,7 +260,7 @@
           <img src="Tutorial(5).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="1_2" class="seccion level2">
-          <h2>Before the query</h2>
+          <h3>Before the query</h3>
           <p>
             At this point, a table showing all the organism that has a protein with the same catalytic function define in the 
             ec number, available in Brenda is generated. This table contains the next columns that depend on the enzyme type: 
@@ -240,7 +282,7 @@
           </p>
         </div>
         <div id="1_2_1" class="seccion level3">
-          <h3>Add Enzymes to the query</h3>
+          <h4>Add Enzymes to the query</h4>
           <p>
             If more than just one enzyme type is needed, you can add another ecnumber to the query. This proccess can be done virtually 
             undefinely. To add ec numbers to your organism table (or protein table) look for the "Add proteins" button in the side bar 
@@ -264,7 +306,7 @@
           </p>
         </div>
         <div id="1_2_2" class="seccion level3">
-          <h3>Erase the query</h3>
+          <h4>Erase the query</h4>
           <p>
             If you made a mistake and the ec number enter to the query is not the one you want to. You can erase this query and 
             look for another one by clicking the "Go back and search another Enzyme" in the top/right corner.
@@ -284,7 +326,7 @@
           <img src="Tutorial(11).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="2" class="seccion level1">
-          <h1>Queries from the organism table</h1>
+          <h2>Queries from the organism table</h2>
           <p>
             After the organism table 
             (
@@ -305,7 +347,7 @@
           </p>
         </div>
         <div id="2_1" class="seccion level2">
-          <h2>Get PDB</h2>
+          <h3>Get PDB</h3>
           <p>
             Generete a table with the PDB codes and their links to the 
             <a href="https://www.rcsb.org/#Category-learn">RCSB PDB</a>
@@ -324,7 +366,7 @@
           <p>Also, you can download the whole table clicking the blue button, or return to the Protein table section clicking the orange one</p>
         </div>
         <div id="2_2" class="seccion level2">
-          <h2>Get amino acids sequence</h2>
+          <h3>Get amino acids sequence</h3>
           <p>
             The uniprot code that some proteins have, are a distintive code provides by the 
             <a href="https://www.uniprot.org/help/">Uniprot database</a>
@@ -342,7 +384,7 @@
           </p>
         </div>
         <div id="2_3" class="seccion level2">
-          <h2>Get functional parameters</h2>
+          <h3>Get functional parameters</h3>
           <p>
             The complete functional parameters query tutorial is in the 
             <a href="#3">next section</a>
@@ -354,7 +396,7 @@
           <img src="Tutorial(17).jpg" width="400px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="3" class="seccion level1">
-          <h1>Functional Parameters Query</h1>
+          <h2>Functional Parameters Query</h2>
           <p>
             This is the particular functionality this application has and, naturally, one of the tools that has the most options. If you
             simply want all the numerical parameters available you can do 
@@ -363,7 +405,7 @@
           </p>
         </div>
         <div id="3_1" class="seccion level2">
-          <h2>Selecting parameters</h2>
+          <h3>Selecting parameters</h3>
           <p>Brenda has 12 numerical parameters available for most of the ec number. Each of them are showed in different tables like this: </p>
           <img src="Tutorial(18).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
           <p>
@@ -389,17 +431,17 @@
           <img src="Tutorial(21).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="3_2" class="seccion level2">
-          <h2>Other options of query</h2>
+          <h3>Other options of query</h3>
         </div>
         <div id="3_2_1" class="seccion level3">
-          <h3>Selecting by phylogeny</h3>
+          <h4>Selecting by phylogeny</h4>
           <p>
             <i class="fa fa-exclamation-triangle"></i>
             Sorry, but we are still working in this functionallity. It is going to be available soon.
           </p>
         </div>
         <div id="3_2_2" class="seccion level3">
-          <h3>Add enzymes</h3>
+          <h4>Add enzymes</h4>
           <p>
             You can add more ec numbers to the query doing 
             <a href="#1_2_1">this</a>
@@ -407,7 +449,7 @@
           </p>
         </div>
         <div id="3_2_3" class="seccion level3">
-          <h3>Filter by Uniprot code</h3>
+          <h4>Filter by Uniprot code</h4>
           <p>
             If you just want to use the enzymes that have 
             <a href="https://www.uniprot.org/help/">Uniprot code</a>
@@ -416,7 +458,7 @@
           <img src="Tutorial(22).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="3_3" class="seccion level2">
-          <h2>The Parameter Table</h2>
+          <h3>The Parameter Table</h3>
           <p>The generated table has:</p>
           <div style="margin-left: 40px;">
             <p>
@@ -488,7 +530,7 @@
           <img src="Tutorial(25).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="3_4" class="seccion level2">
-          <h2>Filters</h2>
+          <h3>Filters</h3>
           <p>
             With the parameters table generated, you can also filter the numerical parameters setting the minimum and/or maximum value you 
             want to preserve. For this there are slide inputs in the sidebar of the paremeters table that also have checkbox on the left. This 
@@ -520,7 +562,7 @@
           <img src="Tutorial(29).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="3_5" class="seccion level2">
-          <h2>Download table</h2>
+          <h3>Download table</h3>
           <p>The genereted and filtered table can be download locally by clicking the "Download table" blue button above the table.</p>
           <img src="Tutorial(30).jpg" width="400px" style="display: block; margin-left: auto; margin-right: auto;"/>
           <p>
@@ -541,11 +583,11 @@
           <p>The protein table can be downloaded too with the same format and particularities.</p>
         </div>
         <div id="4" class="seccion level1">
-          <h1>Summary table and quick access</h1>
+          <h2>Summary table and quick access</h2>
           <p>This section describes 2 tools that are available at any moment in the app.</p>
         </div>
         <div id="4_1" class="seccion level2">
-          <h2>Summary table and where to find it</h2>
+          <h3>Summary table and where to find it</h3>
           <p>
             It is possible to generate a table showing how many attributes of each protein (differentating the ec number 
             and the organism) have been found.
@@ -561,7 +603,7 @@
           <img src="Tutorial(33).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="4_2" class="seccion level2">
-          <h2>Quick access toolbar</h2>
+          <h3>Quick access toolbar</h3>
           <p>
             At the right\top corner there are four buttons in the toolbar. These buttons, called quick access, allow you to 
             change the current seccion to:
@@ -596,7 +638,7 @@
           <img src="Tutorial(37).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="4_3" class="seccion level2">
-          <h2>Dashboard Menu</h2>
+          <h3>Dashboard Menu</h3>
           <p>
             At any point of your work, you can jump to any seccion using the dashboard menu at the left of the site. This can be hide 
             or show clicking the 
@@ -606,17 +648,17 @@
           <img src="Tutorial(38).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="5" class="seccion level1">
-          <h1>Visualize</h1>
+          <h2>Visualize</h2>
           <p>
             With the genereted tables, there are multiple option to do. The 
             <a href="#6">Cluster</a>
             seccion, 
             <a href="#7">External tools</a>
-             and this one are about that. This seccion shows how to use the available visualizations ... has.
+             and this one are about that. This seccion shows how to use the available visualizations FBS has.
           </p>
         </div>
         <div id="5_1" class="seccion level2">
-          <h2>Parameter found as bar plot</h2>
+          <h3>Parameter found as bar plot</h3>
           <p>To start the visualization click the "Visualize" green button above the parameter table.</p>
           <img src="Tutorial(39).jpg" width="300px" style="display: block; margin-left: auto; margin-right: auto;"/>
           <span class="help-block">
@@ -647,7 +689,7 @@
           </span>
         </div>
         <div id="5_2" class="seccion level2">
-          <h2>Distribution as boxplot</h2>
+          <h3>Distribution as boxplot</h3>
           <p>
             Descriptive statistics quantitatively describes data. In this case, distribution can be analyse with a boxplor that indicates 
             the quartiles, including the median. The distribution boxplot is generated by clicking the "Watch distribution" blue button 
@@ -700,7 +742,7 @@
           <span class="help-block">Note: this also will filter all the organism that hasn't molecular weight reported, and the data of the organism filtered.</span>
         </div>
         <div id="5_3" class="seccion level2">
-          <h2>Correlation</h2>
+          <h3>Correlation</h3>
           <p>
             Data can be correlated, this is, two variables may have any statistical association. This association, called correlation, whether 
             casual or not. On the Parameters Found seccion, click the "Watch correlation" button, below the "Watch distribution" one. Two 
@@ -709,7 +751,7 @@
           <img src="Tutorial(44).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="5_3_1" class="seccion level3">
-          <h3>Correlation as heatmap matrix</h3>
+          <h4>Correlation as heatmap matrix</h4>
           <p>
             A heatmap matrix represents a function of two variables as matrix, the matrix itself represent this two dimension and the function 
              is represented with a color code (the heatmap). In this case, the two variables are all the functional parameter pairs of the found 
@@ -724,7 +766,7 @@
           <img src="Tutorial(47).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="5_3_2" class="seccion level3">
-          <h3>Correlation as a paired scatter plot</h3>
+          <h4>Correlation as a paired scatter plot</h4>
           <p>
             The correlation also can be analyse visually instead of numerically. To watch a paired scatter plot, click the "As a scatterplot matrix" 
             green button below the "As a heatmap matrix" one, or change the tab on the Correlation seccion after generate the heatmap matrix.
@@ -749,16 +791,16 @@
           </span>
         </div>
         <div id="6" class="seccion level1">
-          <h1>Cluster</h1>
+          <h2>Cluster</h2>
           <p>
             <a href="https://dl.acm.org/citation.cfm?doid=568574.568575">Cluster analysis</a>
              is a technic of exploratory data mining and statistical data analysis. It consist on group a set of object related to each other more that 
             those on other groups (clusters). To do clustering click the "Analyze" green button above the parameter table.
           </p>
-          <img src="Tutorial(51).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <img src="Tutorial(51).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="6_1" class="seccion level2">
-          <h2>K-means</h2>
+          <h3>K-means</h3>
           <p>
             <a href="https://ieeexplore.ieee.org/document/1056489">K-means</a>
              is a clustering algorithm consisting on generete random points and calculate 
@@ -791,19 +833,156 @@
           </p>
         </div>
         <div id="7" class="seccion level1">
-          <h1>External tools</h1>
+          <h2>External tools</h2>
         </div>
         <div id="8" class="seccion level1">
-          <h1>Saved tables</h1>
+          <h2>Saved tables</h2>
+          <p>Fast Brenda Searcher saves your last query for 72 hours in order to do your analysis easier. If you already make a query before, there will be a message on the toolbar.</p>
+          <img src="Tutorial(55).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>To load the saved table, click the "more info" link to be redirected.</p>
+          <img src="Tutorial(56).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <p>
+            On the table in the right panel, select the tables you want to load. Particulary, the saved protein table, which contains the organisms and type of enzyme according to the 
+             ec number, will be going to be load whether it was selected or not.
+          </p>
+          <img src="Tutorial(57).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <span class="help-block">Note: If on your previous query were parameters not selected, those parameters are going to be marked as "Not Found"</span>
+          <p>
+            After the selection is done, click the "Load Selected Table" blue button below the table. The selected table (include the Protein table) is going to be regenerated and the 
+            not selected are going to be erased. If you change your mind and don't want to saved this tables anymore, change the section (using 
+            <a href="#4">quick access or dashboard menu</a>
+            ) or click the "Go back and search another enzyme" red button on the sidebar and the tables are going to be erased.
+          </p>
+          <img src="Tutorial(58).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="9" class="seccion level1">
-          <h1>Errors</h1>
+          <h2>Errors</h2>
+          <p>
+            This is an application on development, hence, we are still dealing with a few minor issues. Some of them are identified and are presented as 
+            <a href="#9_2">Unavoidable erros</a>
+            and the not identified yet can be reported on the 
+            <a id="sugghelp" href="#" class="action-button">Suggestions section</a>
+            . The ones that are identified, but depends on the user are presented as 
+            <a href="#9_1">Avoidable erros</a>
+            on the section below.
+          </p>
         </div>
         <div id="9_1" class="seccion level2">
-          <h2>Avoidable errors</h2>
+          <h3>Avoidable errors</h3>
+          <p>
+            If the user, on purpose or accidentally, enters an unvalid input that are identified, an error is going to be announced and the action won't be done. Those kind of error are 
+            listed here.
+          </p>
+        </div>
+        <div id="9_1_1" class="seccion level3">
+          <h4>
+            <i class="fa fa-exclamation-triangle"></i>
+            Enter Brenda User
+          </h4>
+          <p>Without a valid Brenda User, we cannot do any query, particullary, the first one: the Enzyme query.</p>
+          <img src="Tutorial(59).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="9_1_2" class="seccion level3">
+          <h4>
+            <i class="fa fa-exclamation-triangle"></i>
+            Wrong Password
+          </h4>
+          <p>The entered password is invalid, but the mail is a valid Brenda User.</p>
+          <img src="Tutorial(60).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="9_1_3" class="seccion level3">
+          <h4>
+            <i class="fa fa-exclamation-triangle"></i>
+            Not a Brenda Account
+          </h4>
+          <p>
+            The entered mail hasn't registered on Brenda, to register, please enter on the 
+            <a href="https://www.brenda-enzymes.org/register.php">Brenda Registration site</a>
+            .
+          </p>
+          <img src="Tutorial(61).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="9_1_4" class="seccion level3">
+          <h4>
+            <i class="fa fa-exclamation-triangle"></i>
+            Make an enzyme query
+          </h4>
+          <p>
+            To be able to get amino acids FASTA sequence, PDB, or functional parameters, an 
+            <a href="#1_1">enzyme query</a>
+             must be done first.
+          </p>
+          <img src="Tutorial(62).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="9_1_5" class="seccion level3">
+          <h4>
+            <i class="fa fa-exclamation-triangle"></i>
+            Cannot add
+          </h4>
+          <p>Simply, if enzyme hasn't added to the query, there's no need to add more.</p>
+          <img src="Tutorial(63).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="9_1_6" class="seccion level3">
+          <h4>
+            <i class="fa fa-exclamation-triangle"></i>
+            Make a functional parameters query
+          </h4>
+          <p>
+            The visualization and the clustering analysis need functional parameters, therefore, to apply these tools, first do a 
+            <a href="#3">functional parameters query)</a>
+            .
+          </p>
+          <img src="Tutorial(64).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="9_1_7" class="seccion level3">
+          <h4>
+            <i class="fa fa-exclamation-triangle"></i>
+            Wrong number of parameter selected
+          </h4>
+          <p>
+            Some tools require selecting some of the functional parameters found. The number of this parameters are indicated, however, if 
+            the amount of selected parameter differs from those indicated, you're going to be notified and the action won't be done.
+          </p>
+          <img src="Tutorial(65).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
         </div>
         <div id="9_2" class="seccion level2">
-          <h2>Unavoidable errors</h2>
+          <h3>Unavoidable errors</h3>
+          <p>
+            Some issues are identified, but we haven't found a solution yet. Some of them has a not reported solution, but some not. The objective of this section 
+            is make those issues clear and make the user be aware of them.
+          </p>
+        </div>
+        <div id="9_2_1" class="seccion level3">
+          <h4>
+            <i class="fa fa-exclamation-triangle"></i>
+            The parameters appear selected, but the query doesn't show anything
+          </h4>
+          <p>
+            We don't know what this happen, but it did happen several times on the tests. However, there is a simple soluction. First, deactivate the "" blue switch, 
+            then, select the parameters you need or reactivate the blue switch. Do the the query again, in case this is still happening repite the process or report it 
+            in the 
+            <a id="sugghelp2" href="#" class="action-button">Suggestions section</a>
+            .
+          </p>
+          <img src="Tutorial(66).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
+        </div>
+        <div id="9_2_2" class="seccion level3">
+          <h4>
+            <i class="fa fa-exclamation-triangle"></i>
+            Reduce the obtained rows
+          </h4>
+          <p>
+            Some visualization and analysis requires to much storage. In order to be able to do them anyway and avoid the complete failure of web site, we choose to 
+            reduce data in case the generated rows are too much to storage or to merge. This could happen on the 
+            <a href="#6">clustering</a>
+             or on the 
+            <a href="#5_3_2">paired scatter plot correlation</a>
+            . In the first case, the clustering is done with all the data, but the visualization don't. In the 
+            second situation, the visualization is due with the reduced data.
+          </p>
+          <img src="Tutorial(67).jpg" width="400px" style="display: block; margin-left: auto; margin-right: auto;"/>
+          <br/>
+          <p>To reduce the data, we eliminate the pair rows and leave the odd ones. In case there's still to much data, the process is repited.</p>
         </div>
       </div>
     </div>

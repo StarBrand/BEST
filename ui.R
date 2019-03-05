@@ -20,7 +20,7 @@ source("helpers.R")
 source("variables.R")
 
 dashboardPage(skin = "green",
-  dashboardHeader(title = "Title",
+  dashboardHeader(title = "Fast Brenda Searcher",
                   tags$li(class = "dropdown",
                           div(style = "display: inline-block;",
                           uiOutput("savedTable")),
@@ -71,8 +71,8 @@ dashboardPage(skin = "green",
       tags$hr(),
       div(style="text-align:center;",
       h3("First time?"),
-      helpText("You can always read",
-               "the turorial section ",
+      helpText("You can always read"),
+      helpText("the turorial section ",
                actionLink("help", "here")))
     )
   ),
@@ -83,7 +83,7 @@ dashboardPage(skin = "green",
       # Log in
       tabItem(tabName = "account",
               box( title = "Brenda User", width = 3, height = '80vh',
-                   helpText("Welcome to ..."),
+                   helpText("Welcome to Fast Brenda Searcher"),
                    helpText("To start using this app, we need to have access to the ",
                             tags$a("Brenda site", href="https://www.brenda-enzymes.org/"),
                             "."),
@@ -114,18 +114,17 @@ dashboardPage(skin = "green",
                       style = "display: block; margin-left: auto; margin-right: auto;")
               ),
               box(width = 9, heigth = '30vh',
-                  column(4, h5("Brenda User"),
-                         helpText("To start using the ... app",
-                                  "you need a valid Brenda User,",
+                  column(3, h5("Brenda User"),
+                         helpText("To start using the FBS app, you need a valid Brenda User, ",
                                   "if you don't, please, visit:",
                                   tags$a("Brenda/Registration", href="https://www.brenda-enzymes.org/register.php"))),
-                  column(4, h5("Protein Search"),
-                         helpText("In this app you can",
-                                  "access all the Brenda",
-                                  "potencial in a more",
-                                  "intuitive way.")),
+                  column(5, h5("Protein Search"),
+                         helpText("In this app you can access all the Brenda potencial in a more intuitive way. ",
+                                  "Generating a single table that contains the different parameters of an enzyme separated ",
+                                  "by the organism in which it is")),
                   column(4, h5("Analysis and visualization of data"),
-                         helpText("..."))
+                         helpText("You can also do visualization of the found data or analyse using cluster. We also ",
+                                  "provides links to other online tools"))
               )
       ),
       
@@ -140,7 +139,7 @@ dashboardPage(skin = "green",
               box( title = "Select Enzyme", width = 4,
                    div(style='height:75vh; overflow-y: scroll',
                    h3("Chooce an input to look for the enzymes you need"),
-                   helpText("The ... app allows multiple type of",
+                   helpText("The FBS app allows multiple type of",
                             "inputs. Such as enter the ,",
                             tags$a("EC Number", href="https://qmul.ac.uk/sbcs/iubmb"),
                             ", write the name of the enzyme or ",
@@ -261,8 +260,8 @@ dashboardPage(skin = "green",
                               "right", trigger = "hover", options = list(container = "body"))),
                     tags$hr(),
                     div(style = "float: right;",
-                        circleButton("helpParameters", icon("question"), status = "success", size = "xs"),
-                        actionButton("parameters", "Search for parameters", class = "btn-success")),
+                        actionButton("parameters", "Search for parameters", class = "btn-primary"),
+                        circleButton("helpParameters", icon("question"), status = "primary", size = "xs")),
                     bsTooltip("helpParameters", "Here you can obtain numerical parameters of the enzymes you want to", "top")
                 )),
                 box(
@@ -308,12 +307,9 @@ dashboardPage(skin = "green",
                       materialSwitch("no_filter", "Download all the list", right = TRUE, value = TRUE, status = "primary"),
                       tags$hr(),
                       p("There are some sequence that couldn't ",
-                        "find using Brenda",
-                        "What do you want to do about it?"),
-                      tags$br(),
-                      radioButtons("searchFasta", "Search for other database?",
-                                   choices = list("Uniprot from Rcpi" = 1,
-                                                  "Leave it blank" = 0)))
+                        "find using Brenda. We are working to do ",
+                        "something about it. Meanwhile, those sequence ",
+                        " are going to leave blank."))
               ),
               
               box(title = "FASTA Sequence", width = 9,
@@ -563,10 +559,12 @@ dashboardPage(skin = "green",
               box(width = 3, height = '85vh',
                   conditionalPanel(condition = "input.correlationPlot == 'matrix'",
                                    h5("Options"), 
-                                   radioButtons("correlationEquation", "Change the type of correlation calculated",
-                                                choices = list("Pearson" = "pearson",
-                                                               "Kendall" = "kendall",
-                                                               "Spearman" = "spearman")),
+                                   tags$br(),
+                                   helpText("The correlation calculated was done using the ",
+                                            tags$a("Pearson method", href = "https://libguides.library.kent.edu/SPSS/PearsonCorr"),
+                                            ", which calculated a linear correlation factor. A correlation (r) equals 1 means a positive ",
+                                            "linal correlation, and r = -1 indicates a negative one. r = 0 indicate a no correlation between ",
+                                            "those two variables. Pearson correlation asumes a normal distribution of the data."),
                                    radioButtons("correlationColor", "Change the palette of the correlation",
                                                 choices = list("Default",
                                                                "Spectral",
@@ -630,7 +628,7 @@ dashboardPage(skin = "green",
                                    div(style = "text-align:center;",
                                        actionButton("toKMeans", "K-means Clustering", class = "btn-success")),
                                    tags$hr(),
-                                   helpText("For more information about clustering visit ...")
+                                   helpText("For more information about clustering visit ", tags$a("this scientific review", href = "https://dl.acm.org/citation.cfm?doid=568574.568575"))
                                    ),
                   conditionalPanel(condition = "input.clusterPlot == 'k-means'",
                                    div(style='height:75vh; overflow-y: scroll',
@@ -706,18 +704,18 @@ dashboardPage(skin = "green",
       
       # Acknowledgments
       tabItem(tabName = "acknowledgments",
-              h1("Acknowledgments")
+              includeHTML("www/acknowledgments.html")
       ),
       
       # Frequently asked question
       tabItem(tabName = "faq",
-              h1("Frequently asked question")
+              includeHTML("www/faq.html")
       ),
       
       # Saved Table
       tabItem(tabName = "savedTableTab",
               box(title = "Information", width = 3, height = '80vh',
-                  helpText("... saves your last query for 72 hours ",
+                  helpText("Fast Brenda Searcher saves your last query for 72 hours ",
                            "in order to do your analysis easier. ",
                            "If you want to load them, select the available ",
                            "tables in the right panel. To load any table, selecting the ",
@@ -736,7 +734,7 @@ dashboardPage(skin = "green",
                   tags$br(),
                   tags$br(),
                   div(style = "float: right;",
-                      actionButton("loadTable", "Load Table Selected", class = "btn-primary")))
+                      actionButton("loadTable", "Load Selected Table", class = "btn-primary")))
       )
     ),
     div(

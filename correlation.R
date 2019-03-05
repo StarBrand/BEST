@@ -102,7 +102,7 @@ nPlots <- function(n){
 selfHistogram <- function(x, session){
   temp <- data.frame(x)
   temp <- setNames(temp, "value")
-  temp <- reduceData(2000, temp, session)
+  temp <- reduceData(2000, temp, "The merged table of the selected parameters have too many rows to plot, we are reducing it to be able to show it", session)
   p <- ggplot(temp, aes(x = value)) + 
     geom_histogram(aes(y = ..density..), fill = seba_palette[15]) + 
     geom_density(fill = seba_palette[1], alpha = 0.5)
@@ -111,7 +111,7 @@ selfHistogram <- function(x, session){
 ## Merged Plot
 setPlot <- function(table1, table2, session){
   tb <- merge(table1, table2)
-  tb <- reduceData(2000, tb, session)
+  tb <- reduceData(2000, tb, "The merged table of the selected parameters have too many rows to plot, we are reducing it to be able to show it", session)
   p <- plot_ly(data = tb, x = tb[,5], y = tb[,4],
                color = ~Mutant, colors = pal,
                type = "scatter", mode = "markers",

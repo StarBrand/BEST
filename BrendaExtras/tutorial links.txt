@@ -3,3 +3,5 @@ actionLink("enzymeHelp2", "enzyme section") -> enzymes tab
 actionLink("proteinHelp", "Protein Table") -> protein tab
 actionLink("proteinHelp2", "Protein Table") -> protein tab
 actionLink("faqhelp", "why?") -> faq tab
+actionLink("sugghelp", "Suggestions section") -> suggestion tab and select bug option
+actionLink("sugghelp2", "Suggestions section") -> suggestion tab and select bug option
