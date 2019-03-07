@@ -735,12 +735,171 @@ ui <- fluidPage(
                       tabName = "acknowledgments",
                       box(width = 3, height = '90vh', title = "Summary", solidHeader = TRUE, status = "primary",
                           div(style='height:80vh; overflow-y: scroll',
-                              p("")
+                              tags$li(tags$a(href = "#A1", "For the interactive web site")),
+                              tags$li(tags$a(href = "#A2", "For the SOAP queries logic")),
+                              tags$li(tags$a(href = "#A3", "For the Data Tables")),
+                              tags$li(tags$a(href = "#A4", "For the Visualization")),
+                              tags$li(tags$a(href = "#A5", "For Processing of the Text")),
+                              tags$li(tags$a(href = "#A6", "For calculations")),
+                              tags$li(tags$a(href = "#A7", "For generate Phylogeny")),
+                              tags$li(tags$a(href = "#A8", "Reference"))
                           )
                       ),
                       box(width = 9, height = '90vh', title = h1(icon("award"), "Acknowlegments"), solidHeader = TRUE, status = "primary",
                           div(style='height:70vh; overflow-y: scroll',
-                              p("")
+                              div(id = "A1", class = "seccion level1",
+                                  h2("For the interactive web site"),
+                                  p("The whole implementation of the web site was done using the R lenguage project (", tags$a("R Core Team, 2018", href = "#RCore"), ") ",
+                                    "using the software for computing environment ", tags$a("R Studio", href = "https://www.rstudio.com/"), "."),
+                                  p("Fundamental for the graphical interface and website logic are the R packages Shiny (", tags$a("Chang et. al, 2018", href = "#Chang"), ") ",
+                                    "and Shiny Dashboard (", tags$a("Chang & Riberio, 2018", href = "#ChangRiberio"), ")."),
+                                  p("To increase the input types, do notification errors and generate help tooltip, they were used, respectively, the following R packages: ",
+                                    "Shiny Widgets (", tags$a("Perrier et al., 2018", href = "#Perrier"), "), Shiny Alert (", tags$a("Attali & Edwards, 2018", href = "#AttaliEdwards"),
+                                    ") and ShinyBS (", tags$a("Bailey, 2015", href = "#Bailey"), ")."),
+                                  p("To complement the website functionality, such as hide/show elements, disable/enable and activate from server was used the R package Shinyjs (",
+                                    tags$a("Attali, 2018", href = "#Attali"), ").")
+                              ),
+                              div(id = "A2", class = "seccion level1",
+                                  h2("For the SOAP queries logic"),
+                                  p("To do query through SOAP, it was develepment a ", tags$a("Java Project", href = "https://www.java.com/en/"), ". This ", tags$a("Java program", href = "https://github.com/StarBrand/BrendaSOAP"),
+                                    " was written using ", tags$a("IntelliJ", href = "https://www.jetbrains.com/idea/"), " an IDE for JVM develped by ", tags$a("Jet Brains", href = "https://www.jetbrains.com/"), "."),
+                                  p("SOAP web service was successfully implemented thanks to the ", tags$a("Apache Axis library", href = "http://axis.apache.org/axis/"), "(",
+                                    tags$a("Irani and Basha, 2001", href = "#Irani"), ")."),
+                                  p("To communicate SOAP Java with R based web site was used the package rJava (", tags$a("Urbanek, 2018", href = "#Urbanek"), ").")
+                              ),
+                              div(id = "A3", class = "seccion level1",
+                                  h2("For the Data Tables"),
+                                  p("Data table has a better visualization and proccessing using DT (", tags$a("Xie et al., 2018", href = "#Xie"), ") and data.table (",
+                                    tags$a("Dowle and Srinivasan, 2019", href = "#Dowle"), ")."),
+                                  p("Also, to work on the tables was used rlist (", tags$a("Ren, 2016", href = "#Ren"), ") for process list and plytr (", tags$a("Wickham, 2011", href = "#Wickham"), ") for advanced table function.")
+                              ),
+                              div(id = "A4", class = "seccion level1",
+                                  h2("For the Visualization"),
+                                  p("The graphs are generated using the packages ggplot2 (", tags$a("Wickham, 2016", href = "#Wickham2"), ") and plotly (", tags$a("Sievert, 2018", href = "#Sievert"), ").")
+                              ),
+                              div(id = "A5", class = "seccion level1",
+                                  h2("For Processing of the Text"),
+                                  p("Biological text, such as aa sequence on FASTA format, is used biostrings (", tags$a("Pagès, 2019", href = "#Pages"), ") and for more string function stringr ",
+                                    "(", tags$a("Wickham, 2019", href = "#Wickham3"), ") is used. To be access to the clipboard is used rclipboard (", tags$a("Bihorel, 2017", href = "#Bihorel"), ").")
+                              ),
+                              div(id = "A6", class = "seccion level1",
+                                  h2("For calculations"),
+                                  p("Clustering analyse was implemented using the base R function and the DBSCAN package (", tags$a("Hahsler and Piekenbrock, 2018", href = "#Hahsler"), ").")
+                              ),
+                              div(id = "A7", class = "seccion level1",
+                                  h2("For generate Phylogeny"),
+                                  p("This function is not implemented yet. But, at the time, packages tath were using are taxize (", tags$a("Chamberlain et al., 2019", href = "#Chamberlain"), ") and ",
+                                    "ggtree (", tags$a("Yu et al., 2017", href = "#Yu"), ").")
+                              ),
+                              div(id = "A8", class = "seccion level1",
+                                  h2("References")
+                              ),
+                              div(style="line-height: 1.35; margin-left: 2em; text-indent:-2em;",
+                                  div(id = "Attali", class = "seccion level2",
+                                      p("Attali, Dean. ", tags$i("Shinyjs: Easily Improve the User Experience of Your Shiny Apps in Seconds"),
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinyjs", "https://CRAN.R-project.org/package=shinyjs")
+                                        )
+                                  ),
+                                  div(id = "AttaliEdwards", class = "seccion level2",
+                                      p("Attali, Dean, and Tristan Edwards. ", tags$i("Shinyalert: Easily Create Pretty Popup Messages (Modals) in \'Shiny\'"),
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinyalert", "https://CRAN.R-project.org/package=shinyalert")
+                                      )
+                                  ),
+                                  div(id = "Bailey", class = "seccion level2",
+                                      p("Bailey, Eric. ", tags$i("ShinyBS: Twitter Bootstrap Components for Shiny"),
+                                        ", 2015. ", tags$a(href="https://CRAN.R-project.org/package=shinyBS", "https://CRAN.R-project.org/package=shinyBS")
+                                      )
+                                  ),
+                                  div(id = "Bihorel", class = "seccion level2",
+                                      p("Bihorel, Sebastien. ", tags$i("Rclipboard: Shiny/R Wrapper for \'clipboard.js\'"),
+                                        ", 2017. ", tags$a(href="https://CRAN.R-project.org/package=rclipboard", "https://CRAN.R-project.org/package=rclipboard")
+                                      )
+                                  ),
+                                  div(id = "Chamberlain", class = "seccion level2",
+                                      p("Chamberlain, Scott, Eduard Szoecs, Zachary Foster, Zebulun Arendsee, Carl Boettiger, Karthik Ram, Ignasi Bartomeus, et al. ", tags$i("Taxize: Taxonomic Information from around the Web"),
+                                        ", 2019. ", tags$a(href="https://github.com/ropensci/taxize", "https://github.com/ropensci/taxize")
+                                      )
+                                  ),
+                                  div(id = "Chang", class = "seccion level2",
+                                      p("Chang, Winston, Joe Cheng, J. J. Allaire, Yihui Xie, and Jonathan McPherson. ", tags$i("Shiny: Web Application Framework for R"),
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shiny", "https://CRAN.R-project.org/package=shiny")
+                                      )
+                                  ),
+                                  div(id = "ChangRiberio", class = "seccion level2",
+                                      p("Chang, Winston., Riberio, Barbara Borges. ", tags$i("Shinydashboard: Create Dashboards with \'Shiny\'"),
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinydashboard", "https://CRAN.R-project.org/package=shinydashboard")
+                                      )
+                                  ),
+                                  div(id = "Dowle", class = "seccion level2",
+                                      p("Dowle, Matt, and Arun Srinivasan. ", tags$i("Data.Table: Extension of \'data.Frame\'"),
+                                        ", 2019. ", tags$a(href="https://CRAN.R-project.org/package=data.table", "https://CRAN.R-project.org/package=data.table")
+                                      )
+                                  ),
+                                  div(id = "Hahsler", class = "seccion level2",
+                                      p("Hahsler, Michael, and Matthew Piekenbrock. ", tags$i("Dbscan: Density Based Clustering of Applications with Noise (DBSCAN) and Related Algorithms"),
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=dbscan", "https://CRAN.R-project.org/package=dbscan")
+                                      )
+                                  ),
+                                  div(id = "Irani", class = "seccion level2",
+                                      p("Irani, Romin, and S. Jeelani Basha. ", tags$i("AXIS: The Next Generation of Java Soap"),
+                                        ". 1st ed. Birmingham, UK, UK: Wrox Press Ltd., 2002."
+                                      )
+                                  ),
+                                  div(id = "Pages", class = "seccion level2",
+                                      p("Pagès, H., P. Aboyoun, R. Gentleman, and S. DebRoy. ", tags$i("Biostrings: Efficient Manipulation of Biological Strings"),
+                                        ", 2019."
+                                      )
+                                  ),
+                                  div(id = "Perrier", class = "seccion level2",
+                                      p("Perrier, Victor, Fanny Meyer, and David Granjon. ", tags$i("ShinyWidgets: Custom Inputs Widgets for Shiny"),
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinyWidgets", "https://CRAN.R-project.org/package=shinyWidgets")
+                                      )
+                                  ),
+                                  div(id = "RCore", class = "seccion level2",
+                                      p("R Core Team. ", tags$i("R: A Language and Environment for Statistical Computing"),
+                                        ". Vienna, Austria: R Foundation for Statistical Computing, 2018. ", tags$a(href="https://www.R-project.org/", "https://www.R-project.org/")
+                                      )
+                                  ),
+                                  div(id = "Ren", class = "seccion level2",
+                                      p("Ren, Kun. ", tags$i("Rlist: A Toolbox for Non-Tabular Data Manipulation"),
+                                        ", 2016. ", tags$a(href="https://CRAN.R-project.org/package=rlist", "https://CRAN.R-project.org/package=rlist")
+                                      )
+                                  ),
+                                  div(id = "Sievert", class = "seccion level2",
+                                      p("Sievert, Carson. ", tags$i("Plotly for R"),
+                                        ", 2018. ", tags$a(href="https://plotly-book.cpsievert.me", "https://plotly-book.cpsievert.me")
+                                      )
+                                  ),
+                                  div(id = "Urbanek", class = "seccion level2",
+                                      p("Urbanek, Simon. ", tags$i("RJava: Low-Level R to Java Interface"),
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=rJava", "https://CRAN.R-project.org/package=rJava")
+                                      )
+                                  ),
+                                  div(id = "Wickham2", class = "seccion level2",
+                                      p("Wickham, Hadley. ", tags$i("Ggplot2: Elegant Graphics for Data Analysis"),
+                                        ". Springer-Verlag New York, 2016. ", tags$a(href="http://ggplot2.org", "http://ggplot2.org")
+                                      )
+                                  ),
+                                  div(id = "Wickham3", class = "seccion level2",
+                                      p("Wickham, Hadley. ", tags$i("Stringr: Simple, Consistent Wrappers for Common String Operations"),
+                                        ", 2019. ", tags$a(href="https://CRAN.R-project.org/package=stringr", "https://CRAN.R-project.org/package=stringr")
+                                      )
+                                  ),
+                                  div(id = "Wickham", class = "seccion level2",
+                                      p("Wickham, Hadley. The Split-Apply-Combine Strategy for Data Analysis.", tags$i("Journal of Statistical Software"),
+                                        " 40, no. 1 (2011): 1-29.")
+                                  ),
+                                  div(id = "Xie", class = "seccion level2",
+                                      p("Xie, Yihui, Joe Cheng, and Xianying Tan. ", tags$i("DT: A Wrapper of the JavaScript Library \'DataTables\'"),
+                                        " 2018. ", tags$a(href="https://CRAN.R-project.org/package=DT", "https://CRAN.R-project.org/package=DT")
+                                      )
+                                  ),
+                                  div(id = "Yu", class = "seccion level2",
+                                      p("Yu, Guangchuang, David Smith, Huachen Zhu, Yi Guan, and Tommy Tsan-Yuk Lam. Ggtree: An R Package for Visualization and Annotation of Phylogenetic Trees with Their Covariates and Other Associated Data ", tags$i("Methods in Ecology and Evolution"),
+                                        " 8, no. 1 (2017): 28-36. ", tags$a(href="https://doi.org/10.1111/2041-210X.12628", "https://doi.org/10.1111/2041-210X.12628")
+                                      )
+                                  )
+                              )
                           )
                       )
                     ),
@@ -748,20 +907,20 @@ ui <- fluidPage(
                       tabName = "faq",
                       box(width = 3, height = '90vh', title = "Summary", solidHeader = TRUE, status = "primary",
                           div(style='height:80vh; overflow-y: scroll',
-                              tags$li(tags$a(href = "#1", "Why the Brenda account is needed?")),
-                              tags$li(tags$a(href = "#2", "What can we do with your Brenda account?")))
+                              tags$li(tags$a(href = "#F1", "Why the Brenda account is needed?")),
+                              tags$li(tags$a(href = "#F2", "What can we do with your Brenda account?")))
                           
                       ),
                       box(width = 9, height = '90vh', title = h1(icon("question"), "Frequently Asked Questions"), solidHeader = TRUE, status = "primary",
                           div(style='height:70vh; overflow-y: scroll',
-                              div(id = "1", class = "seccion level1",
+                              div(id = "F1", class = "seccion level1",
                                   h2("Why the Brenda account is needed?"),
                                   p("The query is made by ",
                                     tags$a("Brenda SOAP", href = "https://www.brenda-enzymes.org/soap.php"),
                                     " which requires a Brenda account. Because of the possibility of more than one query at the same time ",
                                     "we use the personal account for that.")
                               ),
-                              div(id = "2", class = "seccion level1",
+                              div(id = "F2", class = "seccion level1",
                                   h2("What can we do with your Brenda account?"),
                                   p("The Brenda is used just to make every query. We also defines your user to separete your generated tables ",
                                     "from other tables. But, we can access your password for anything else. If you doubt it, you can see the ",
