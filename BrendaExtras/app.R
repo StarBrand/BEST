@@ -28,77 +28,77 @@ ui <- fluidPage(
                     tabItem(tabName = "help",
                             box(width = 3, height = '90vh', title = "Summary", solidHeader = TRUE, status = "primary",
                                 div(style='height: 80vh; overflow-y: scroll',
-                                tags$li(tags$a(href = "#1", "Get started"),
-                                        tags$ul(tags$li(tags$a(href = "#1_1", "Enzyme query"),
-                                                        tags$ul(tags$li(tags$a(href = "#1_1_1", "EC Number")),
-                                                                tags$li(tags$a(href = "#1_1_2", "Enzyme name"))
-                                                                ))
-                                                ),
-                                        tags$ul(tags$li(tags$a(href = "#1_2", "Before the query"),
-                                                        tags$ul(tags$li(tags$a(href = "#1_2_1", "Add enzymes to the query")),
-                                                                tags$li(tags$a(href = "#1_2_2", "Erase the query"))
-                                                                ))
-                                                )
-                                        ),
-                                tags$li(tags$a(href = "#2", "Queries from the organism table"),
-                                        tags$ul(tags$li(tags$a(href = "#2_1", "Get PDB")),
-                                                tags$li(tags$a(href = "#2_2", "Get amino acids sequence")),
-                                                tags$li(tags$a(href = "#2_3", "Get functional Parameters"))
-                                                )
-                                        ),
-                                tags$li(tags$a(href = "#3", "Functional Parameters Query"),
-                                        tags$ul(tags$li(tags$a(href = "#3_1", "Selecting parameters")),
-                                                tags$li(tags$a(href = "#3_2", "Other options of query"),
-                                                        tags$ul(tags$li(tags$a(href = "#3_2_1", "Selecting by phylogeny")),
-                                                                tags$li(tags$a(href = "#3_2_2", "Add enzymes")),
-                                                                tags$li(tags$a(href = "#3_2_3", "Filter by Uniprot code"))
-                                                        )
-                                                ),
-                                                tags$li(tags$a(href = "#3_3", "The Parameter table")),
-                                                tags$li(tags$a(href = "#3_4", "Filters")),
-                                                tags$li(tags$a(href = "#3_5", "Download table"))
-                                                )
-                                        ),
-                                tags$li(tags$a(href = "#4", "Summary table and quick access"),
-                                        tags$ul(tags$li(tags$a(href = "#4_1", "Summary table and where to find it")),
-                                                tags$li(tags$a(href = "#4_2", "Quick access toolbar")),
-                                                tags$li(tags$a(href = "#4_3", "Dashboard Menu"))
-                                                )
-                                        ),
-                                tags$li(tags$a(href = "#5", "Visualize"),
-                                        tags$ul(tags$li(tags$a(href = "#5_1", "Parameter found as bar plot")),
-                                                tags$li(tags$a(href = "#5_2", "Distribution as boxplot")),
-                                                tags$li(tags$a(href = "#5_3", "Correlation"),
-                                                        tags$ul(tags$li(tags$a(href = "#5_3_1", "Correlation as a heatmap matrix")),
-                                                                tags$li(tags$a(href = "#5_3_2", "Correlation as a paired scatter plot"))
-                                                                ))
-                                                )
-                                        ),
-                                tags$li(tags$a(href = "#6", "Cluster"),
-                                        tags$ul(tags$li(tags$a(href = "#6_1", "K-means")))
-                                        ),
-                                tags$li(tags$a(href = "#7", "External tools")
-                                        ),
-                                tags$li(tags$a(href = "#8", "Saved tables")
-                                        ),
-                                tags$li(tags$a(href = "#9", "Errors"),
-                                        tags$ul(tags$li(tags$a(href = "#9_1", "Avoidable errors"),
-                                                        tags$ul(tags$li(tags$a(href = "#9_1_1", "Enter Brenda User")),
-                                                                tags$li(tags$a(href = "#9_1_2", "Wrong Password")),
-                                                                tags$li(tags$a(href = "#9_1_3", "Not a Brenda Account")),
-                                                                tags$li(tags$a(href = "#9_1_4", "Make an enzyme query")),
-                                                                tags$li(tags$a(href = "#9_1_5", "Cannot add")),
-                                                                tags$li(tags$a(href = "#9_1_6", "Make a functional parameters query")),
-                                                                tags$li(tags$a(href = "#9_1_7", "Wrong number of parameter selected"))
-                                                                )),
-                                                tags$li(tags$a(href = "#9_2", "Unavoidable errors"),
-                                                        tags$ul(tags$li(tags$a(href = "#9_2_1", "The parameters appear selected, but the query doesn't show anything")),
-                                                                tags$li(tags$a(href = "#9_2_2", "Reduce the obtained rows"))
-                                                                ))
-                                                )
-                                        )
+                                    tags$li(tags$a(href = "#1", "Get started"),
+                                            tags$ul(tags$li(tags$a(href = "#1_1", "Enzyme query"),
+                                                            tags$ul(tags$li(tags$a(href = "#1_1_1", "EC Number")),
+                                                                    tags$li(tags$a(href = "#1_1_2", "Enzyme name"))
+                                                            ))
+                                            ),
+                                            tags$ul(tags$li(tags$a(href = "#1_2", "Before the query"),
+                                                            tags$ul(tags$li(tags$a(href = "#1_2_1", "Add enzymes to the query")),
+                                                                    tags$li(tags$a(href = "#1_2_2", "Erase the query"))
+                                                            ))
+                                            )
+                                    ),
+                                    tags$li(tags$a(href = "#2", "Queries from the organism table"),
+                                            tags$ul(tags$li(tags$a(href = "#2_1", "Get PDB")),
+                                                    tags$li(tags$a(href = "#2_2", "Get amino acids sequence")),
+                                                    tags$li(tags$a(href = "#2_3", "Get functional Parameters"))
+                                            )
+                                    ),
+                                    tags$li(tags$a(href = "#3", "Functional Parameters Query"),
+                                            tags$ul(tags$li(tags$a(href = "#3_1", "Selecting parameters")),
+                                                    tags$li(tags$a(href = "#3_2", "Other options of query"),
+                                                            tags$ul(tags$li(tags$a(href = "#3_2_1", "Selecting by phylogeny")),
+                                                                    tags$li(tags$a(href = "#3_2_2", "Add enzymes")),
+                                                                    tags$li(tags$a(href = "#3_2_3", "Filter by Uniprot code"))
+                                                            )
+                                                    ),
+                                                    tags$li(tags$a(href = "#3_3", "The Parameter table")),
+                                                    tags$li(tags$a(href = "#3_4", "Filters")),
+                                                    tags$li(tags$a(href = "#3_5", "Download table"))
+                                            )
+                                    ),
+                                    tags$li(tags$a(href = "#4", "Summary table and quick access"),
+                                            tags$ul(tags$li(tags$a(href = "#4_1", "Summary table and where to find it")),
+                                                    tags$li(tags$a(href = "#4_2", "Quick access toolbar")),
+                                                    tags$li(tags$a(href = "#4_3", "Dashboard Menu"))
+                                            )
+                                    ),
+                                    tags$li(tags$a(href = "#5", "Visualize"),
+                                            tags$ul(tags$li(tags$a(href = "#5_1", "Parameter found as bar plot")),
+                                                    tags$li(tags$a(href = "#5_2", "Distribution as boxplot")),
+                                                    tags$li(tags$a(href = "#5_3", "Correlation"),
+                                                            tags$ul(tags$li(tags$a(href = "#5_3_1", "Correlation as a heatmap matrix")),
+                                                                    tags$li(tags$a(href = "#5_3_2", "Correlation as a paired scatter plot"))
+                                                            ))
+                                            )
+                                    ),
+                                    tags$li(tags$a(href = "#6", "Cluster"),
+                                            tags$ul(tags$li(tags$a(href = "#6_1", "K-means")))
+                                    ),
+                                    tags$li(tags$a(href = "#7", "External tools")
+                                    ),
+                                    tags$li(tags$a(href = "#8", "Saved tables")
+                                    ),
+                                    tags$li(tags$a(href = "#9", "Errors"),
+                                            tags$ul(tags$li(tags$a(href = "#9_1", "Avoidable errors"),
+                                                            tags$ul(tags$li(tags$a(href = "#9_1_1", "Enter Brenda User")),
+                                                                    tags$li(tags$a(href = "#9_1_2", "Wrong Password")),
+                                                                    tags$li(tags$a(href = "#9_1_3", "Not a Brenda Account")),
+                                                                    tags$li(tags$a(href = "#9_1_4", "Make an enzyme query")),
+                                                                    tags$li(tags$a(href = "#9_1_5", "Cannot add")),
+                                                                    tags$li(tags$a(href = "#9_1_6", "Make a functional parameters query")),
+                                                                    tags$li(tags$a(href = "#9_1_7", "Wrong number of parameter selected"))
+                                                            )),
+                                                    tags$li(tags$a(href = "#9_2", "Unavoidable errors"),
+                                                            tags$ul(tags$li(tags$a(href = "#9_2_1", "The parameters appear selected, but the query doesn't show anything")),
+                                                                    tags$li(tags$a(href = "#9_2_2", "Reduce the obtained rows"))
+                                                            ))
+                                            )
+                                    )
                                 )
-                                ),
+                            ),
                             box(width = 9, height = '90vh', title = h1(icon("graduation-cap"), "Tutorial"), solidHeader = TRUE, status = "primary",
                                 div(style='height:70vh; overflow-y: scroll',
                                     div(id = "1", class = "section level1",
@@ -106,7 +106,7 @@ ui <- fluidPage(
                                         p("To start looking in Brenda, we need your Brenda account (",
                                           actionLink("faqhelp", "why?"), ").",
                                           "If you do not have one, you can visit: ",
-                                          tags$a("Brenda Registration", href="https://www.brenda-enzymes.org/register.php"),
+                                          tags$a("Brenda Registration", href="https://www.brenda-enzymes.org/register.php", target = "_blank"),
                                           "Once you have your account, we can look for the enzymes you need ",
                                           "and the numerical parameters you request.")),
                                     div(id = "1_1", class = "section level2",
@@ -118,14 +118,14 @@ ui <- fluidPage(
                                     div(id = "1_1_1", class = "section level3",
                                         h4("EC Number"),
                                         p("Enzymes are classified by the ",
-                                          tags$a("IUBMB", href = "https://iubmb.org/"),
+                                          tags$a("IUBMB", href = "https://iubmb.org/", target = "_blank"),
                                           " according to the reaction they catalize. This corresponds to the",
                                           "EC Number, which is a four number code, with the first one indicating the subclass ",
                                           "such as oxidoreductases, transferases, hydrolases, lyases, isomerases, ligases and translocases. ",
                                           "The second number indicates the functional group of reaction, the third indicates an specific ",
                                           "type of molecule and the fourth the last",
                                           "level and the reaction itself. More info: ",
-                                          tags$a("EC number", href = "https://www.qmul.ac.uk/sbcs/iubmb/"),
+                                          tags$a("EC number", href = "https://www.qmul.ac.uk/sbcs/iubmb/", target = "_blank"),
                                           br(),
                                           "If you know the EC number of your enzyme of interest, indicate it in the input",
                                           "shown in the next image: "),
@@ -138,7 +138,7 @@ ui <- fluidPage(
                                         p("Enzymes have a lot of names that differ depending on the gen codifiding it, the reaction, ",
                                           "historical reasons and so on. Brenda groups them according to its ec number, however, they are associated",
                                           "to the multiple names in which they are called in literature. This category is showed in the ",
-                                          tags$a("Brenda web page", href = "www.brenda-enzymes.org/"),
+                                          tags$a("Brenda web page", href = "www.brenda-enzymes.org/", target = "_blank"),
                                           "with the name 'Synonyms'."),
                                         p("Due to the length of the list, that contains every synonym of every type of enzyme on the database, this names ",
                                           "are separeted in subclasses. Then, if you know just a particular name of your enzyme, first you have to",
@@ -224,14 +224,14 @@ ui <- fluidPage(
                                           "(", actionLink("proteinHelp", "Protein Table"),
                                           ") is generated, it can be used to search for ", tags$a("numerical parameters", href = "#3"),
                                           ", ", tags$a("amino acids sequence", href = "#2_2"), " or ", tags$a("PDB codes", href = "#2_1"),
-                                          " with their respective link to the ", tags$a("RCSB PDB", href = "https://www.rcsb.org/#Category-learn"),
+                                          " with their respective link to the ", tags$a("RCSB PDB", href = "https://www.rcsb.org/#Category-learn", target = "_blank"),
                                           " (The Protein Data Bank of the Research Collaboratory for Structural Bionformatics)."),
                                         p("If you are interested in just one of this queries, you can skip the other in this tutorial. They are not",
                                           "depended to each other.")
                                         ),
                                     div(id = "2_1", class = "seccion level2",
                                         h3("Get PDB"),
-                                        p("Generete a table with the PDB codes and their links to the ", tags$a("RCSB PDB", href = "https://www.rcsb.org/#Category-learn"),
+                                        p("Generete a table with the PDB codes and their links to the ", tags$a("RCSB PDB", href = "https://www.rcsb.org/#Category-learn", target = "_blank"),
                                           " is done by clicking the \"Get PDB\" button above the ",
                                           actionLink("proteinHelp2", "Protein Table"), " as show below."),
                                         img(src = 'Tutorial(12).jpg',
@@ -251,7 +251,7 @@ ui <- fluidPage(
                                     div(id = "2_2", class = "seccion level2",
                                         h3("Get amino acids sequence"),
                                         p("The uniprot code that some proteins have, are a distintive code provides by the ",
-                                          tags$a("Uniprot database", href = "https://www.uniprot.org/help/"),
+                                          tags$a("Uniprot database", href = "https://www.uniprot.org/help/", target = "_blank"),
                                           ", that a particular enzyme has. With this code you can access to the amino acids sequence of the protein. Brenda ",
                                           "provides this code and the sequence with it. By clicking the \"Get sequence\" blue button, as show below, a table ",
                                           "reporting the sequence found by BRENDA are going to be shown."),
@@ -325,7 +325,7 @@ ui <- fluidPage(
                                     div(id = "3_2_3", class = "seccion level3",
                                         h4("Filter by Uniprot code"),
                                         p("If you just want to use the enzymes that have ",
-                                           tags$a("Uniprot code", href = "https://www.uniprot.org/help/"), ", activate the switch below the list of parameters."),
+                                           tags$a("Uniprot code", href = "https://www.uniprot.org/help/", target = "_blank"), ", activate the switch below the list of parameters."),
                                         img(src = 'Tutorial(22).jpg',
                                             width = '200px',
                                             style = "display: block; margin-left: auto; margin-right: auto;")
@@ -410,9 +410,9 @@ ui <- fluidPage(
                                             width = '600px',
                                             style = "display: block; margin-left: auto; margin-right: auto;"),
                                         p("You can access this table as you want, for reference ",
-                                          tags$a("Microsoft Office Excel", href = "https://support.office.com/en-us/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba"),
+                                          tags$a("Microsoft Office Excel", href = "https://support.office.com/en-us/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba", target = "_blank"),
                                           "can generete a workbook from this file, remember it has a header row, it's separeted by TAB character and it doesn't have the row names. With ",
-                                          tags$a("R", href = "https://cran.r-project.org/"), "you can open it with the follow command: "),
+                                          tags$a("R", href = "https://cran.r-project.org/", target = "_blank"), "you can open it with the follow command: "),
                                         code("read.table(<table_name>, sep = \"\\t\", header = TRUE)"),
                                         tags$br(),
                                         tags$br(),
@@ -489,7 +489,7 @@ ui <- fluidPage(
                                         img(src = 'Tutorial(40).jpg',
                                             width = '500px',
                                             style = "display: block; margin-left: auto; margin-right: auto;"),
-                                        helpText("Note: This graph is done with the ", tags$a("Plotly library", href = "https://plot.ly/d3-js-for-r-and-shiny-charts/"),
+                                        helpText("Note: This graph is done with the ", tags$a("Plotly library", href = "https://plot.ly/d3-js-for-r-and-shiny-charts/", target = "_blank"),
                                                  ". Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make ",
                                                  "different type of zooms.")
                                         ),
@@ -514,7 +514,7 @@ ui <- fluidPage(
                                         img(src = 'Tutorial(42).jpg',
                                             width = '500px',
                                             style = "display: block; margin-left: auto; margin-right: auto;"),
-                                        helpText("Note: This graph is done with the ", tags$a("Plotly library", href = "https://plot.ly/d3-js-for-r-and-shiny-charts/"),
+                                        helpText("Note: This graph is done with the ", tags$a("Plotly library", href = "https://plot.ly/d3-js-for-r-and-shiny-charts/", target = "_blank"),
                                                  ". Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make ",
                                                  "different type of zooms."),
                                         tags$br(),
@@ -573,13 +573,13 @@ ui <- fluidPage(
                                         img(src = 'Tutorial(50).jpg',
                                             width = '700px',
                                             style = "display: block; margin-left: auto; margin-right: auto;"),
-                                        helpText("Note: This graph is done with the ", tags$a("Plotly library", href = "https://plot.ly/d3-js-for-r-and-shiny-charts/"),
+                                        helpText("Note: This graph is done with the ", tags$a("Plotly library", href = "https://plot.ly/d3-js-for-r-and-shiny-charts/", target = "_blank"),
                                                  ". Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make ",
                                                  "different type of zooms.")
                                         ),
                                     div(id = "6", class = "seccion level1",
                                         h2("Cluster"),
-                                        p(tags$a("Cluster analysis", href = "https://dl.acm.org/citation.cfm?doid=568574.568575"),
+                                        p(tags$a("Cluster analysis", href = "https://dl.acm.org/citation.cfm?doid=568574.568575", target = "_blank"),
                                           " is a technic of exploratory data mining and statistical data analysis. It consist on group a set of object related to each other more that ",
                                           "those on other groups (clusters). To do clustering click the \"Analyze\" green button above the parameter table."),
                                         img(src = 'Tutorial(51).jpg',
@@ -588,7 +588,7 @@ ui <- fluidPage(
                                         ),
                                     div(id = "6_1", class = "seccion level2",
                                         h3("K-means"),
-                                        p(tags$a("K-means", href = "https://ieeexplore.ieee.org/document/1056489") ," is a clustering algorithm consisting on generete random points and calculate ",
+                                        p(tags$a("K-means", href = "https://ieeexplore.ieee.org/document/1056489", target = "_blank") ," is a clustering algorithm consisting on generete random points and calculate ",
                                           "a distance among the nearest point, discarting the most distant one and repeting until the k (number of cluster) are generated. To do the k-means clustering ",
                                           "click the \"K-means clustering\" green button on the Cluster seccion or change the tab to the K-means clustering."),
                                         img(src = 'Tutorial(52).jpg',
@@ -604,7 +604,7 @@ ui <- fluidPage(
                                         img(src = 'Tutorial(54).jpg',
                                             width = '700px',
                                             style = "display: block; margin-left: auto; margin-right: auto;"),
-                                        helpText("Note: This graph is done with the ", tags$a("Plotly library", href = "https://plot.ly/d3-js-for-r-and-shiny-charts/"),
+                                        helpText("Note: This graph is done with the ", tags$a("Plotly library", href = "https://plot.ly/d3-js-for-r-and-shiny-charts/", target = "_blank"),
                                                  ". Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make ",
                                                  "different type of zooms."),
                                         tags$br(),
@@ -667,7 +667,7 @@ ui <- fluidPage(
                                     div(id = "9_1_3", class = "seccion level3",
                                         h4(icon("exclamation-triangle"), "Not a Brenda Account"),
                                         p("The entered mail hasn't registered on Brenda, to register, please enter on the ",
-                                          tags$a("Brenda Registration site", href = "https://www.brenda-enzymes.org/register.php"), "."),
+                                          tags$a("Brenda Registration site", href = "https://www.brenda-enzymes.org/register.php", target = "_blank"), "."),
                                         img(src = 'Tutorial(61).jpg',
                                             width = '700px',
                                             style = "display: block; margin-left: auto; margin-right: auto;")
@@ -750,7 +750,7 @@ ui <- fluidPage(
                               div(id = "A1", class = "seccion level1",
                                   h2("For the interactive web site"),
                                   p("The whole implementation of the web site was done using the R lenguage project (", tags$a("R Core Team, 2018", href = "#RCore"), ") ",
-                                    "using the software for computing environment ", tags$a("R Studio", href = "https://www.rstudio.com/"), "."),
+                                    "using the software for computing environment ", tags$a("R Studio", href = "https://www.rstudio.com/", target = "_blank"), "."),
                                   p("Fundamental for the graphical interface and website logic are the R packages Shiny (", tags$a("Chang et. al, 2018", href = "#Chang"), ") ",
                                     "and Shiny Dashboard (", tags$a("Chang & Riberio, 2018", href = "#ChangRiberio"), ")."),
                                   p("To increase the input types, do notification errors and generate help tooltip, they were used, respectively, the following R packages: ",
@@ -761,9 +761,9 @@ ui <- fluidPage(
                               ),
                               div(id = "A2", class = "seccion level1",
                                   h2("For the SOAP queries logic"),
-                                  p("To do query through SOAP, it was develepment a ", tags$a("Java Project", href = "https://www.java.com/en/"), ". This ", tags$a("Java program", href = "https://github.com/StarBrand/BrendaSOAP"),
-                                    " was written using ", tags$a("IntelliJ", href = "https://www.jetbrains.com/idea/"), " an IDE for JVM develped by ", tags$a("Jet Brains", href = "https://www.jetbrains.com/"), "."),
-                                  p("SOAP web service was successfully implemented thanks to the ", tags$a("Apache Axis library", href = "http://axis.apache.org/axis/"), "(",
+                                  p("To do query through SOAP, it was develepment a ", tags$a("Java Project", href = "https://www.java.com/en/"), ". This ", tags$a("Java program", href = "https://github.com/StarBrand/BrendaSOAP", target = "_blank"),
+                                    " was written using ", tags$a("IntelliJ", href = "https://www.jetbrains.com/idea/", target = "_blank"), " an IDE for JVM develped by ", tags$a("Jet Brains", href = "https://www.jetbrains.com/", target = "_blank"), "."),
+                                  p("SOAP web service was successfully implemented thanks to the ", tags$a("Apache Axis library", href = "http://axis.apache.org/axis/", target = "_blank"), "(",
                                     tags$a("Irani and Basha, 2001", href = "#Irani"), ")."),
                                   p("To communicate SOAP Java with R based web site was used the package rJava (", tags$a("Urbanek, 2018", href = "#Urbanek"), ").")
                               ),
@@ -797,47 +797,47 @@ ui <- fluidPage(
                               div(style="line-height: 1.35; margin-left: 2em; text-indent:-2em;",
                                   div(id = "Attali", class = "seccion level2",
                                       p("Attali, Dean. ", tags$i("Shinyjs: Easily Improve the User Experience of Your Shiny Apps in Seconds"),
-                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinyjs", "https://CRAN.R-project.org/package=shinyjs")
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinyjs", "https://CRAN.R-project.org/package=shinyjs", target = "_blank")
                                         )
                                   ),
                                   div(id = "AttaliEdwards", class = "seccion level2",
                                       p("Attali, Dean, and Tristan Edwards. ", tags$i("Shinyalert: Easily Create Pretty Popup Messages (Modals) in \'Shiny\'"),
-                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinyalert", "https://CRAN.R-project.org/package=shinyalert")
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinyalert", "https://CRAN.R-project.org/package=shinyalert", target = "_blank")
                                       )
                                   ),
                                   div(id = "Bailey", class = "seccion level2",
                                       p("Bailey, Eric. ", tags$i("ShinyBS: Twitter Bootstrap Components for Shiny"),
-                                        ", 2015. ", tags$a(href="https://CRAN.R-project.org/package=shinyBS", "https://CRAN.R-project.org/package=shinyBS")
+                                        ", 2015. ", tags$a(href="https://CRAN.R-project.org/package=shinyBS", "https://CRAN.R-project.org/package=shinyBS", target = "_blank")
                                       )
                                   ),
                                   div(id = "Bihorel", class = "seccion level2",
                                       p("Bihorel, Sebastien. ", tags$i("Rclipboard: Shiny/R Wrapper for \'clipboard.js\'"),
-                                        ", 2017. ", tags$a(href="https://CRAN.R-project.org/package=rclipboard", "https://CRAN.R-project.org/package=rclipboard")
+                                        ", 2017. ", tags$a(href="https://CRAN.R-project.org/package=rclipboard", "https://CRAN.R-project.org/package=rclipboard", target = "_blank")
                                       )
                                   ),
                                   div(id = "Chamberlain", class = "seccion level2",
                                       p("Chamberlain, Scott, Eduard Szoecs, Zachary Foster, Zebulun Arendsee, Carl Boettiger, Karthik Ram, Ignasi Bartomeus, et al. ", tags$i("Taxize: Taxonomic Information from around the Web"),
-                                        ", 2019. ", tags$a(href="https://github.com/ropensci/taxize", "https://github.com/ropensci/taxize")
+                                        ", 2019. ", tags$a(href="https://github.com/ropensci/taxize", "https://github.com/ropensci/taxize", target = "_blank")
                                       )
                                   ),
                                   div(id = "Chang", class = "seccion level2",
                                       p("Chang, Winston, Joe Cheng, J. J. Allaire, Yihui Xie, and Jonathan McPherson. ", tags$i("Shiny: Web Application Framework for R"),
-                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shiny", "https://CRAN.R-project.org/package=shiny")
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shiny", "https://CRAN.R-project.org/package=shiny", target = "_blank")
                                       )
                                   ),
                                   div(id = "ChangRiberio", class = "seccion level2",
                                       p("Chang, Winston., Riberio, Barbara Borges. ", tags$i("Shinydashboard: Create Dashboards with \'Shiny\'"),
-                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinydashboard", "https://CRAN.R-project.org/package=shinydashboard")
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinydashboard", "https://CRAN.R-project.org/package=shinydashboard", target = "_blank")
                                       )
                                   ),
                                   div(id = "Dowle", class = "seccion level2",
                                       p("Dowle, Matt, and Arun Srinivasan. ", tags$i("Data.Table: Extension of \'data.Frame\'"),
-                                        ", 2019. ", tags$a(href="https://CRAN.R-project.org/package=data.table", "https://CRAN.R-project.org/package=data.table")
+                                        ", 2019. ", tags$a(href="https://CRAN.R-project.org/package=data.table", "https://CRAN.R-project.org/package=data.table", target = "_blank")
                                       )
                                   ),
                                   div(id = "Hahsler", class = "seccion level2",
                                       p("Hahsler, Michael, and Matthew Piekenbrock. ", tags$i("Dbscan: Density Based Clustering of Applications with Noise (DBSCAN) and Related Algorithms"),
-                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=dbscan", "https://CRAN.R-project.org/package=dbscan")
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=dbscan", "https://CRAN.R-project.org/package=dbscan", target = "_blank")
                                       )
                                   ),
                                   div(id = "Irani", class = "seccion level2",
@@ -852,37 +852,37 @@ ui <- fluidPage(
                                   ),
                                   div(id = "Perrier", class = "seccion level2",
                                       p("Perrier, Victor, Fanny Meyer, and David Granjon. ", tags$i("ShinyWidgets: Custom Inputs Widgets for Shiny"),
-                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinyWidgets", "https://CRAN.R-project.org/package=shinyWidgets")
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=shinyWidgets", "https://CRAN.R-project.org/package=shinyWidgets", target = "_blank")
                                       )
                                   ),
                                   div(id = "RCore", class = "seccion level2",
                                       p("R Core Team. ", tags$i("R: A Language and Environment for Statistical Computing"),
-                                        ". Vienna, Austria: R Foundation for Statistical Computing, 2018. ", tags$a(href="https://www.R-project.org/", "https://www.R-project.org/")
+                                        ". Vienna, Austria: R Foundation for Statistical Computing, 2018. ", tags$a(href="https://www.R-project.org/", "https://www.R-project.org/", target = "_blank")
                                       )
                                   ),
                                   div(id = "Ren", class = "seccion level2",
                                       p("Ren, Kun. ", tags$i("Rlist: A Toolbox for Non-Tabular Data Manipulation"),
-                                        ", 2016. ", tags$a(href="https://CRAN.R-project.org/package=rlist", "https://CRAN.R-project.org/package=rlist")
+                                        ", 2016. ", tags$a(href="https://CRAN.R-project.org/package=rlist", "https://CRAN.R-project.org/package=rlist", target = "_blank")
                                       )
                                   ),
                                   div(id = "Sievert", class = "seccion level2",
                                       p("Sievert, Carson. ", tags$i("Plotly for R"),
-                                        ", 2018. ", tags$a(href="https://plotly-book.cpsievert.me", "https://plotly-book.cpsievert.me")
+                                        ", 2018. ", tags$a(href="https://plotly-book.cpsievert.me", "https://plotly-book.cpsievert.me", target = "_blank")
                                       )
                                   ),
                                   div(id = "Urbanek", class = "seccion level2",
                                       p("Urbanek, Simon. ", tags$i("RJava: Low-Level R to Java Interface"),
-                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=rJava", "https://CRAN.R-project.org/package=rJava")
+                                        ", 2018. ", tags$a(href="https://CRAN.R-project.org/package=rJava", "https://CRAN.R-project.org/package=rJava", target = "_blank")
                                       )
                                   ),
                                   div(id = "Wickham2", class = "seccion level2",
                                       p("Wickham, Hadley. ", tags$i("Ggplot2: Elegant Graphics for Data Analysis"),
-                                        ". Springer-Verlag New York, 2016. ", tags$a(href="http://ggplot2.org", "http://ggplot2.org")
+                                        ". Springer-Verlag New York, 2016. ", tags$a(href="http://ggplot2.org", "http://ggplot2.org", target = "_blank")
                                       )
                                   ),
                                   div(id = "Wickham3", class = "seccion level2",
                                       p("Wickham, Hadley. ", tags$i("Stringr: Simple, Consistent Wrappers for Common String Operations"),
-                                        ", 2019. ", tags$a(href="https://CRAN.R-project.org/package=stringr", "https://CRAN.R-project.org/package=stringr")
+                                        ", 2019. ", tags$a(href="https://CRAN.R-project.org/package=stringr", "https://CRAN.R-project.org/package=stringr", target = "_blank")
                                       )
                                   ),
                                   div(id = "Wickham", class = "seccion level2",
@@ -891,12 +891,12 @@ ui <- fluidPage(
                                   ),
                                   div(id = "Xie", class = "seccion level2",
                                       p("Xie, Yihui, Joe Cheng, and Xianying Tan. ", tags$i("DT: A Wrapper of the JavaScript Library \'DataTables\'"),
-                                        " 2018. ", tags$a(href="https://CRAN.R-project.org/package=DT", "https://CRAN.R-project.org/package=DT")
+                                        " 2018. ", tags$a(href="https://CRAN.R-project.org/package=DT", "https://CRAN.R-project.org/package=DT", target = "_blank")
                                       )
                                   ),
                                   div(id = "Yu", class = "seccion level2",
                                       p("Yu, Guangchuang, David Smith, Huachen Zhu, Yi Guan, and Tommy Tsan-Yuk Lam. Ggtree: An R Package for Visualization and Annotation of Phylogenetic Trees with Their Covariates and Other Associated Data ", tags$i("Methods in Ecology and Evolution"),
-                                        " 8, no. 1 (2017): 28-36. ", tags$a(href="https://doi.org/10.1111/2041-210X.12628", "https://doi.org/10.1111/2041-210X.12628")
+                                        " 8, no. 1 (2017): 28-36. ", tags$a(href="https://doi.org/10.1111/2041-210X.12628", "https://doi.org/10.1111/2041-210X.12628", target = "_blank")
                                       )
                                   )
                               )
@@ -916,7 +916,7 @@ ui <- fluidPage(
                               div(id = "F1", class = "seccion level1",
                                   h2("Why the Brenda account is needed?"),
                                   p("The query is made by ",
-                                    tags$a("Brenda SOAP", href = "https://www.brenda-enzymes.org/soap.php"),
+                                    tags$a("Brenda SOAP", href = "https://www.brenda-enzymes.org/soap.php", target = "_blank"),
                                     " which requires a Brenda account. Because of the possibility of more than one query at the same time ",
                                     "we use the personal account for that.")
                               ),
@@ -925,7 +925,7 @@ ui <- fluidPage(
                                   p("The Brenda is used just to make every query. We also defines your user to separete your generated tables ",
                                     "from other tables. But, we can access your password for anything else. If you doubt it, you can see the ",
                                     "Java code that make every query: ",
-                                    tags$a("Brenda SOAP Github repository", href = "https://github.com/StarBrand/BrendaSOAP"),
+                                    tags$a("Brenda SOAP Github repository", href = "https://github.com/StarBrand/BrendaSOAP", target = "_blank"),
                                     "To make it clear, if we could access to your password and Brenda account for personal use, we would only be able ",
                                     "to request a change of password (but cannot changing without your mail) and make queries in Brenda.")
                               )

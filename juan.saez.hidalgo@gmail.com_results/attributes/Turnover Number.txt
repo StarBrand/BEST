@@ -1,0 +1,400 @@
+Commentary	Substrate	Ref	Literature(PubmedID)	value
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	984	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	984	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	984	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	984	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	984	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	984	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	984	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	984	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	984	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	985	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	985	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	985	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	985	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	985	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	985	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	985	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	985	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	985	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	986	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	986	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	986	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	986	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	986	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	986	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	986	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	986	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	986	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	987	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	987	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	987	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	987	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	987	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	987	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	987	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	987	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	987	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	988	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	988	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	988	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	988	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	988	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	988	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	988	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	988	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	988	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	989	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	989	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	989	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	989	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	989	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	989	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	989	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	989	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	989	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	990	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	990	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	990	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	990	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	990	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	990	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	990	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	990	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	990	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	991	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	991	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	991	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	991	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	991	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	991	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	991	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	991	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	991	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	992	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	992	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	992	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	992	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	992	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	992	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	992	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	992	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	992	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	993	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	993	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	993	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	993	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	993	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	993	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	993	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	993	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	993	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	994	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	994	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	994	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	994	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	994	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	994	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	994	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	994	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	994	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	995	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	995	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	995	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	995	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	995	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	995	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	995	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	995	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	995	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	996	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	996	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	996	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	996	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	996	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	996	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	996	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	996	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	996	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	997	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	997	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	997	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	997	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	997	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	997	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	997	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	997	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	997	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	998	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	998	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	998	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	998	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	998	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	998	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	998	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	998	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	998	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	999	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	999	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	999	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	999	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	999	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	999	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	999	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	999	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	999	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1000	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1000	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1000	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1000	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1000	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1000	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1000	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1000	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1000	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1001	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1001	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1001	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1001	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1001	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1001	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1001	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1001	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1001	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1002	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1002	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1002	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1002	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1002	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1002	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1002	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1002	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1002	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1003	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1003	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1003	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1003	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1003	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1003	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1003	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1003	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1003	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1004	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1004	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1004	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1004	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1004	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1004	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1004	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1004	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1004	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1005	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1005	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1005	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1005	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1005	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1005	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1005	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1005	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1005	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1006	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1006	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1006	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1006	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1006	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1006	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1006	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1006	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1006	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1007	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1007	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1007	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1007	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1007	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1007	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1007	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1007	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1007	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1008	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1008	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1008	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1008	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1008	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1008	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1008	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1008	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1008	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1009	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1009	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1009	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1009	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1009	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1009	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1009	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1009	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1009	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1010	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1010	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1010	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1010	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1010	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1010	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1010	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1010	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1010	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1011	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1011	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1011	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1011	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1011	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1011	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1011	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1011	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1011	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1012	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1012	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1012	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1012	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1012	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1012	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1012	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1012	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1012	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1013	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1013	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1013	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1013	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1013	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1013	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1013	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1013	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1013	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1014	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1014	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1014	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1014	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1014	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1014	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1014	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1014	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1014	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1015	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1015	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1015	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1015	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1015	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1015	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1015	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1015	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1015	15647268	3.6
+pH 7.7, 30°C, recombinant wild-type or Y50F mutant enzyme, in absence of DNA	ATP	1016	15647268	0.5
+pH 7.7, 37°C, DNA passage, mutant Y165S	DNA	1016	16053917	0.6
+pH 7.7, 37°C, DNA passage, mutant R162Q	DNA	1016	16053917	1.24
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1016	15647268	1.5
+pH 7.7, 37°C, DNA passage, mutant L169F	DNA	1016	16053917	1.65
+pH 7.7, 37°C, DNA passage, mutant R162K	DNA	1016	16053917	1.8
+pH 7.7, 37°C, DNA passage, mutant L169I	DNA	1016	16053917	3.33
+pH 7.7, 37°C, DNA passage, wild-type enzyme	DNA	1016	16053917	3.38
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1016	15647268	3.6
+	more	1787	9920889	-999.0
+wild-type, pH 7.5	ATP	1787	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1787	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1787	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1787	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1787	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1787	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1787	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1787	16782968	7.2
+	more	1788	9920889	-999.0
+wild-type, pH 7.5	ATP	1788	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1788	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1788	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1788	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1788	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1788	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1788	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1788	16782968	7.2
+	more	1789	9920889	-999.0
+wild-type, pH 7.5	ATP	1789	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1789	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1789	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1789	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1789	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1789	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1789	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1789	16782968	7.2
+	more	1790	9920889	-999.0
+wild-type, pH 7.5	ATP	1790	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1790	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1790	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1790	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1790	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1790	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1790	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1790	16782968	7.2
+	more	1791	9920889	-999.0
+wild-type, pH 7.5	ATP	1791	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1791	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1791	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1791	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1791	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1791	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1791	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1791	16782968	7.2
+	more	1792	9920889	-999.0
+wild-type, pH 7.5	ATP	1792	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1792	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1792	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1792	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1792	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1792	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1792	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1792	16782968	7.2
+	more	1793	9920889	-999.0
+wild-type, pH 7.5	ATP	1793	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1793	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1793	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1793	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1793	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1793	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1793	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1793	16782968	7.2
+	more	1794	9920889	-999.0
+wild-type, pH 7.5	ATP	1794	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1794	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1794	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1794	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1794	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1794	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1794	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1794	16782968	7.2
+	more	1795	9920889	-999.0
+wild-type, pH 7.5	ATP	1795	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1795	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1795	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1795	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1795	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1795	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1795	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1795	16782968	7.2
+	more	1796	9920889	-999.0
+wild-type, pH 7.5	ATP	1796	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1796	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1796	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1796	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1796	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1796	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1796	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1796	16782968	7.2
+	more	1797	9920889	-999.0
+wild-type, pH 7.5	ATP	1797	16782968	0.23
+mutant Y782F, pH 7.5	ATP	1797	16782968	0.28
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in absence of DNA	ATP	1797	15647268	1.0
+pH 7.7, 30°C, recombinant wild-type enzyme, in absence of DNA	ATP	1797	15647268	1.1
+pH 7.7, 30°C, recombinant Y50F mutant enzyme, in presence of DNA	ATP	1797	15647268	1.2
+pH 7.7, 30°C, recombinant wild-type enzyme, in presence of DNA	ATP	1797	15647268	3.6
+mutant Y782F, presence of 68 bp DNA duplex, pH 7.5	ATP	1797	16782968	5.6
+wild-type, presence of 68 bp DNA duplex, pH 7.5	ATP	1797	16782968	7.2
+turnover number for ATP hydrolysis is 2.55/s	more	2077	18614606	-999.0
+80°C, pH not specified in the publication, wild-type enzyme	ATP	2077	19443439	2.55
+80°C, pH not specified in the publication, mutant enzyme Y965F	ATP	2077	19443439	3.97

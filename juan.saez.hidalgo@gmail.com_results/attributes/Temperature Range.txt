@@ -1,0 +1,14 @@
+Commentary	Ref	Literature(PubmedID)	value
+assay at	469	15751965	30.0
+active in the temperature range from 65°C to 100°C, very low activity at 65°C	642	2834207	65.0 - 100.0
+active in the temperature range from 65°C to 100°C, very low activity at 65°C	643	2834207	65.0 - 100.0
+ATP-dependent positive supercoiling activity requires high temperature: whereas at 50 °C the enzyme shows only a weak DNA relaxation activity, both the amount and linking number of positive topoisomers increases with temperature. In reactions above 90 °C all products are highly positive, and a significant activity is seen even at 100°C	1705	24347172	50.0 - 100.0
+in the absence of ATP the enzyme shows weak type I topoisomerase-like DNA relaxation activity. This activity can only be seen between 60 and 80 °C, whereas at higher temperatures the plasmid was converted into nicked form	1705	24347172	60.0 - 80.0
+50°C: no activity, 70-80°C: maximal activity	2067	7961685	50.0 - 80.0
+50°C: no activity, 70-80°C: maximal activity	2068	7961685	50.0 - 80.0
+50°C: no activity, 70-80°C: maximal activity	2069	7961685	50.0 - 80.0
+50°C: no activity, 70-80°C: maximal activity	2070	7961685	50.0 - 80.0
+50°C: no activity, 70-80°C: maximal activity	2071	7961685	50.0 - 80.0
+50°C: no activity, 70-80°C: maximal activity	2072	7961685	50.0 - 80.0
+the temperature at which the higher amount of substrate is converted by TopR2 is 70 °C. Above 70 °C, the quantity of converted substrate progressively diminishes and is no more detectable at 90 °C. A decrease in temperature below 70 °C leads to a decrease in the amount of converted substrate. Second, the amount of positive supercoils introduced by TopR2 into the substrate is very high at all temperatures at which TopR2 is active (between 60 °C and 85 °C)	2077	21435345	60.0 - 85.0
+no DNA relaxing activity below 75°C and above 80°C	2117	8086447	75.0 - 85.0

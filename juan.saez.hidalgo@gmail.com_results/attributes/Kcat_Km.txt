@@ -1,0 +1,4 @@
+Commentary	Substrate	Ref	Literature(PubmedID)	value
+kcat/Km for ATP hydrolysis is 0.033 mM/s	more	2077	18614606	-999.0
+80°C, pH not specified in the publication, mutant enzyme Y965F	ATP	2077	19443439	0.016
+80°C, pH not specified in the publication, wild-type enzyme	ATP	2077	19443439	0.033

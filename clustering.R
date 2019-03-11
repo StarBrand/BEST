@@ -1,3 +1,5 @@
+library(dbscan)
+
 set.seed(2)
 
 # K means
@@ -96,3 +98,9 @@ plotingKmeans2d <- function(clustered_data, a, b){
 }
 
 #DBscan
+clusteringDBSCAN <- function(to_cluster, cluster, eps, minPts){
+  data <- cluster
+  db.out <- dbscan(to_cluster, eps = eps, minPts = minPts)
+  data$cluster <- as.character(db.out$cluster)
+  data
+}

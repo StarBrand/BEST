@@ -1,4 +1,5 @@
 library(shinyalert)
+library(shinyWidgets)
 
 # Errors
 
@@ -30,6 +31,35 @@ noSearch <- function(what){
                    what,
                    sep = ""),
              type = "error")
+}
+
+## Java has failed
+javaError <- function(what, session){
+  confirmSweetAlert(session = session,
+                    inputId = "toReportBug",
+                    type = "error",
+                    title = paste("An error has happen on",
+                                  what, "search"),
+                    text = helpText("This error isn't suppose to happen, ",
+                                    "try again and if this error persist ",
+                                    "you can reported on the Suggestion section. ",
+                                    "Please, when reported indicate all the entered input and ",
+                                    "as many datails as possible"),
+                    btn_labels = c("Try again", "Report this bug"),
+                    danger_mode = TRUE)
+}
+
+## Handled
+handledJavaError <- function(session, what){
+  confirmSweetAlert(session = session,
+                    inputId = paste("handlerJavaE", what, sep = ""),
+                    type = "warning",
+                    title = "Want to continue?",
+                    text = helpText("This enzyme has a particular problem. Due to storage ",
+                                    "issues this search need a slower algorithm. This could take 
+                                    several minutes."),
+                    btn_labels = c("Cancel", "Continue with slower algorithm"),
+                    danger_mode = TRUE)
 }
 
 ## Cannot add
@@ -75,5 +105,12 @@ corScatterError <- function(s){
                             nparameters, "to show the correlation")}
   shinyalert("Wrong number of parameter selected",
              aMessage,
+             type = "error")
+}
+
+## Copy to Clipboard error
+copyAAError <- function(){
+  shinyalert("Invalid sequence selection",
+             "ONE selected must be selected to be able to copy to clipboard",
              type = "error")
 }
