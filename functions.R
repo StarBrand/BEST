@@ -89,8 +89,8 @@ processFasta <- function(folder, no_filter, rows_selected){
 
 # Create Link Function
 # [thanks to williamsurles on StackOverflow]
-createLink <- function(val) {
-  paste("<a href=", val, ">", val, "</a>", sep = "")
+createLink <- function(val, show) {
+  paste("<a href=", val, " target = \"_blank\">", show, "</a>", sep = "")
 }
 
 # Collapse table
@@ -301,7 +301,7 @@ showTime <- function(time){
   show
 }
 
-timeProtein <- function(n){linealprotein[1] + linealprotein[2]*n}
-timePDB <- function(n){linealpdb[1] + linealpdb[2]*n}
-timeParameters <- function(n){linealparameters[1] + linealparameters[2]*n}
-timeFasta <- function(n){fastatime*n}
+timeProtein <- function(n){(linealprotein[1] + linealprotein[2]*n)*10}
+timePDB <- function(n){(linealpdb[1] + linealpdb[2]*n)*10}
+timeParameters <- function(n){(linealparameters[1] + linealparameters[2]*n)*10}
+timeFasta <- function(n){(fastatime*n)*10}

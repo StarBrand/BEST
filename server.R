@@ -220,6 +220,7 @@ shinyServer(function(input, output, session) {
     kPlot(NULL)
     distDBSCAN(NULL)
     dbscanPlot(NULL)
+    updateActionButton(session, "generateSummary", label = "Generate", icon = character(0))
     
     groupMerging(list(NULL))
   })
@@ -233,6 +234,16 @@ shinyServer(function(input, output, session) {
                     actionLink("savedTableLink","more info")))
     } else{out <- NULL}
     out
+  })
+  
+  # Protein Table Title
+  output$proteinTableTitle <- renderUI({
+    if(is.null(proteinTable())){
+      out <- div(style = "font-weight: bold;", "Proteins")
+    } else {
+      available_ec <- paste(unique(proteinTable()$EC_Number), collapse = "; ")
+      out <- div(div(style = "font-weight: bold;", "Proteins: "), available_ec)
+    }
   })
   
   # Link to saved table
@@ -529,7 +540,7 @@ shinyServer(function(input, output, session) {
     table$Ref <- NULL
     if(!input$showComments1){table$Commentary <- NULL}
     if(!input$showLiterature1){table$Literature.PubmedID. <- NULL}
-    DT::datatable(table, options = list(scrollX = TRUE, heigth = '20vh', lengthMenu = c(5, 10, 50, 100), pageLength = 5))
+    DT::datatable(table, options = list(extensions = 'FixedHeader', scrollX = TRUE, heigth = '20vh', lengthMenu = c(5, 10, 50, 100), pageLength = 5))
   })
   
   # Download Protein Table
@@ -687,7 +698,7 @@ shinyServer(function(input, output, session) {
           incProgress(0.7, detail = "Showing")
           table <- new_table(paste(folder(),"pdb_table.txt", sep = ""))
           table$link <- lapply(table$link, function(i){
-            createLink(i)})
+            createLink(i, i)})
           incProgress(0.1, detail = "Ready")
         }
       })
@@ -812,7 +823,7 @@ shinyServer(function(input, output, session) {
         int <- .jarray(int)
         if(input$allProteins){n_pro <- nrow(proteinTable())}
         else{n_pro <- s}
-        incProgress(0.2, detail = paste("This might takes ",
+        incProgress(0.2, detail = paste("This might take ",
                                         showTime(timeParameters(nrow(proteinTable()))*length(ecNumbers())),
                                         sep = ""))
         error <- main$getParameters(int, input$allProteins)
@@ -1128,6 +1139,7 @@ shinyServer(function(input, output, session) {
       table$Ref <- NULL
       summaryTable(table)
       infoTable(infotable)
+      updateActionButton(session, "generateSummary", label = "Refresh", icon = icon("refresh"))
     }
   })
   
