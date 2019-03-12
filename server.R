@@ -1506,7 +1506,9 @@ shinyServer(function(input, output, session) {
           d <- dist(to_cluster, "euclidean")
           d <- as.matrix(d)
           j <- hist(d)
-          distDBSCAN(j)
+          d <- data.frame(distance = as.vector(d))
+          p <- ggplot(d, aes(x = distance)) + geom_histogram()
+          distDBSCAN(p)
           h <- j$breaks
           c <- j$counts
           c_ <- which(c == max(c))
@@ -1516,7 +1518,7 @@ shinyServer(function(input, output, session) {
           value <- (h[c_+1] + h[c_])/2
           step <- (h[2] - h[1])
           updateSliderInput(session, "eps", value = value, min = min, max = max, step = step)
-          updateSliderInput(session, "minPts", value = 1, min = 1, max = nrow(to_cluster), step = 1)
+          updateSliderInput(session, "minPts", value = s + 2, min = s + 1, max = nrow(to_cluster), step = 1)
           shinyjs::show("eps")
           shinyjs::show("minPts")
           shinyjs::show("goDbscan")

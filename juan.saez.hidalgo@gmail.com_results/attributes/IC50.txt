@@ -1,0 +1,11 @@
+Commentary	Ref	Literature(PubmedID)	Inhibitor	value
+wild type enzyme	3833	10074357	guanidine hydrochloride	1.7
+mutant enzyme N249Y	3833	10074357	guanidine hydrochloride	2.2
+wild type enzyme	3834	10074357	guanidine hydrochloride	1.7
+mutant enzyme N249Y	3834	10074357	guanidine hydrochloride	2.2
+wild type enzyme	3835	10074357	guanidine hydrochloride	1.7
+mutant enzyme N249Y	3835	10074357	guanidine hydrochloride	2.2
+wild type enzyme	4373	10074357	guanidine hydrochloride	1.7
+mutant enzyme N249Y	4373	10074357	guanidine hydrochloride	2.2
+wild type enzyme	4414	10074357	guanidine hydrochloride	1.7
+mutant enzyme N249Y	4414	10074357	guanidine hydrochloride	2.2
