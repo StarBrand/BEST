@@ -137,6 +137,9 @@ shinyServer(function(input, output, session) {
   observeEvent(input$goProtein, {
     updateTabItems(session, "inTabset", "proteinTable")
   })
+  observeEvent(input$goExternal, {
+    updateTabItems(session, "inTabset", "external")
+  })
   observeEvent(input$goSummary, {
     updateTabItems(session, "inTabset", "info")
   })
@@ -1505,18 +1508,13 @@ shinyServer(function(input, output, session) {
           to_cluster <- preKmeans(cluster)
           d <- dist(to_cluster, "euclidean")
           d <- as.matrix(d)
-          j <- hist(d)
-          d <- data.frame(distance = as.vector(d))
-          p <- ggplot(d, aes(x = distance)) + geom_histogram()
-          distDBSCAN(p)
+          j <- hist(d, plot = FALSE)
+          distDBSCAN(d)
           h <- j$breaks
-          c <- j$counts
-          c_ <- which(c == max(c))
-          if(c_ == length(j)) c_ <- c_ - 1
-          min <- (h[2] + h[1])/2
-          max <- (h[length(h)] + h[(length(h)-1)])/2
-          value <- (h[c_+1] + h[c_])/2
-          step <- (h[2] - h[1])
+          min <- h[2]
+          max <- h[length(h)]
+          value <- h[3]
+          step <- h[2] - h[1]
           updateSliderInput(session, "eps", value = value, min = min, max = max, step = step)
           updateSliderInput(session, "minPts", value = s + 2, min = s + 1, max = nrow(to_cluster), step = 1)
           shinyjs::show("eps")
@@ -1565,9 +1563,16 @@ shinyServer(function(input, output, session) {
     dbscanDim()
   })
   
-  output$histDBSCAN <- renderPlot({
-    distDBSCAN()
-  })
+  output$histDBSCAN <- renderImage({
+    outfile <- tempfile(fileext='.png')
+    distance <- distDBSCAN()
+    png(outfile, width=230, height=230)
+    if (!is.null(distance)){
+      hist(distance, xlab = "", ylab = "", main = "")
+    }
+    dev.off()
+    list(src = outfile)
+  }, deleteFile = TRUE)
   
   output$dbscanPlot <- renderPlotly({
     dbscanPlot()
@@ -1612,6 +1617,14 @@ shinyServer(function(input, output, session) {
       clipr::write_clip(text, object_type = "auto")
       updateActionButton(session, "proteinPredictor", icon = icon("check"))
       shinyjs::hide("copyAAClipboard")
+    }
+  })
+  
+  observeEvent(input$toFasta2, {
+    if(!fastaSearch()){
+      noSearch("Sequence")
+    } else{
+      updateTabItems(session, "inTabset", "fasta")
     }
   })
   
