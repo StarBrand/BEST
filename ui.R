@@ -679,7 +679,10 @@ dashboardPage(skin = "green",
                               ),
                      tabPanel(value = "k-means", h5("K-means Clustering"),
                               div(style = "width: 200px;", downloadButton("downloadKmeans", "Download clusterization", class = "btn-primary", style = "color: #ffffff; font-weight: bold;")),
-                              div(plotlyOutput("kmeansPlot"), height = '80vh')
+                              div(plotlyOutput("kmeansPlot"), height = '80vh'),
+                              tags$br(),
+                              helpText("K-means is a clustering algorithm based on the means of the points of a cluster. K-means needs a k parameter, which is a number of cluster to be made. This parameter ",
+                                       "is determineted by using \"Elbow Method\", described on the help button on the sidepanel. The clustering is show as color code on the right of the plot.")
                               ),
                      tabPanel(value = "dbscan", h5("DBSCAN Clustering"),
                               div(style = "width: 200px;", downloadButton("downloadDBSCAN", "Download clusterization", class = "btn-primary", style = "color: #ffffff; font-weight: bold;")),
