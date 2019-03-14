@@ -541,6 +541,9 @@ shinyServer(function(input, output, session) {
   output$distProteinTable <- DT::renderDT({
     table <- proteinTable()
     table$Ref <- NULL
+    if(paramSearch()){
+      table$Literature.PubmedID. <- clickable(table$Literature.PubmedID.)
+    }
     if(!input$showComments1){table$Commentary <- NULL}
     if(!input$showLiterature1){table$Literature.PubmedID. <- NULL}
     DT::datatable(table, options = list(extensions = 'FixedHeader', scrollX = TRUE, heigth = '20vh', lengthMenu = c(5, 10, 50, 100), pageLength = 5))
@@ -911,8 +914,12 @@ shinyServer(function(input, output, session) {
     table <- fparameterTable()
     if(!input$showComments2){v <- grepl("Commentary", attributes(table)$names)
     table[,attributes(table)$names[v]] <- NULL}
-    if(!input$showLiterature2){v <- grepl("Literature", attributes(table)$names)
-    table[,attributes(table)$names[v]] <- NULL}
+    v <- grepl("Literature", attributes(table)$names)
+    if(!input$showLiterature2){
+      table[,attributes(table)$names[v]] <- NULL
+    } else{## El problema aqui
+      table[,attributes(table)$names[v]] <- clickable(table[,attributes(table)$names[v]])
+    }
     DT::datatable(table,
                   options = list(scrollX = TRUE,
                                  lengthMenu = c(2, 5, 10, 50, 100),

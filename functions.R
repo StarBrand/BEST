@@ -93,6 +93,22 @@ createLink <- function(val, show) {
   paste("<a href=", val, " target = \"_blank\">", show, "</a>", sep = "")
 }
 
+# Clickable reference
+clickable <- function(literatureVector){
+  lapply(literatureVector, function(x){
+    if(is.na(x)) return(NA)
+    paste(lapply(unlist(str_split(x, "; ")), function(y){
+      l <- unlist(str_split_fixed(y, "=", 2))
+      if(str_split_fixed(l[1], "\\?", 2)[2] == "r"){
+        out <- createLink(y, paste("Brenda ID:", l[2]))
+      } else{
+        out <- createLink(y, l[2])
+      }
+      out
+      }), sep = "; ")
+  })
+}
+
 # Collapse table
 attr_collapse <- function(n, table, with_mol){
   out <- table
