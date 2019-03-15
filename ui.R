@@ -156,7 +156,7 @@ dashboardPage(skin = "green",
                   tags$br(),
                   div(style="display: inline-block;vertical-align:top;width: 50px;",
                   selectizeInput("ec_number1", "",
-                                 choices = read.table("ecNumber\\select.txt",
+                                 choices = read.table("ecNumber/select.txt",
                                                       sep = "\t", header = TRUE,
                                                       col.names = "dig1")$dig1
                                  )),
@@ -206,7 +206,11 @@ dashboardPage(skin = "green",
                   div(style = "float:right",
                       shinyjs::hidden(
                         actionButton("enzymeNameFinal", div(style = "font-weight: bold", "Go"), class = "btn-success", style = "color: #ffffff")
-                        ))
+                        )),
+                  tags$br(),
+                  tags$br(),
+                  tags$br(),
+                  tags$br()
                   )
               ),
               box(width = 8, heigth = '10vh', background = "green",

@@ -66,7 +66,7 @@ encoder_filter<-function(up){
 
 # Generar imagen
 imageEnzymeTab <- function(n){
-  file = paste("www\\0", n, " Subclases.png", sep = "")
+  file = paste("www/0", n, " Subclases.png", sep = "")
   list(src = file, contentType = "image/png")
 }
 
@@ -96,28 +96,31 @@ createLink <- function(val, show) {
 # Clickable reference
 clickable <- function(literatureVector){
   lapply(literatureVector, function(x){
-    if(is.na(x)) return(NA)
-    paste(lapply(unlist(str_split(x, "; ")), function(y){
-      l <- unlist(str_split_fixed(y, "=", 2))
-      if(str_split_fixed(l[1], "\\?", 2)[2] == "r"){
-        out <- createLink(y, paste("Brenda ID:", l[2]))
-      } else{
-        out <- createLink(y, l[2])
-      }
-      out
-      }), sep = "; ")
+    if(is.na(x)) NA
+    else{
+      paste(lapply(unlist(str_split(x, "; ")), function(y){
+        l <- unlist(str_split_fixed(y, "=", 2))
+        if(str_split_fixed(l[1], "\\?", 2)[2] == "r"){
+          out <- createLink(y, paste("Brenda ID:", l[2]))
+        } else{
+          out <- createLink(y, l[2])
+        }
+        out
+        }), collapse = "; ")
+    }
   })
 }
 
 # Collapse table
 attr_collapse <- function(n, table, with_mol){
   out <- table
+  out$link <- clickable(out$Literature.PubmedID.)
   if(with_mol){
-    k <- 5
-  } else{k <- 4}
+    k <- 6
+  } else{k <- 5}
   attributes(out)$names <- paste(nat[n], attributes(out)$names, sep ="_")
   attributes(out)$names[1] <- "Ref"
-  out <- aggregate(out[,2:k], by=list(out$Ref), paste, collapse=";")
+  out <- aggregate(out[,2:k], by=list(out$Ref), paste, collapse="; ")
   attributes(out)$names[1] <- "Ref"
   out
 }
@@ -319,5 +322,5 @@ showTime <- function(time){
 
 timeProtein <- function(n){(linealprotein[1] + linealprotein[2]*n)*10}
 timePDB <- function(n){(linealpdb[1] + linealpdb[2]*n)*10}
-timeParameters <- function(n){(linealparameters[1] + linealparameters[2]*n)*10}
+timeParameters <- function(n){(linealparameters[1] + linealparameters[2]*n)*5}
 timeFasta <- function(n){(fastatime*n)*10}

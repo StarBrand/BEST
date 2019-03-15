@@ -128,7 +128,7 @@ shinyServer(function(input, output, session) {
   })
   
   # Define folder
-  folder <- reactiveVal("_results\\")
+  folder <- reactiveVal("_results/")
   
   # Principal buttons
   observeEvent(input$goHelp, {
@@ -161,7 +161,7 @@ shinyServer(function(input, output, session) {
       shinyjs::show("logOut")
       shinyjs::hide("pass")
       shinyjs::hide("logIn")
-      new_folder <- paste(input$mail, "_results\\", sep = "")
+      new_folder <- paste(input$mail, "_results/", sep = "")
       folder(new_folder)
       updateTabItems(session, "inTabset", "enzyme")
     } else if(keep == "Incorrect password"){
@@ -224,7 +224,6 @@ shinyServer(function(input, output, session) {
     distDBSCAN(NULL)
     dbscanPlot(NULL)
     updateActionButton(session, "generateSummary", label = "Generate", icon = character(0))
-    
     groupMerging(list(NULL))
   })
   
@@ -264,7 +263,7 @@ shinyServer(function(input, output, session) {
     table_file <- paste(folder(), "table.txt", sep = "")
     fasta_file <- paste(folder(), "report_fasta.txt", sep = "")
     pdb_file <- paste(folder(), "pdb_table.txt", sep = "")
-    attribute_folder <- paste(folder(), "attributes\\", sep = "")
+    attribute_folder <- paste(folder(), "attributes/", sep = "")
     if(file.exists(table_file)){
       out[1, "Available"] <- TRUE
       ecno <- as.character(unique(new_table(table_file)$EC_Number))
@@ -374,7 +373,7 @@ shinyServer(function(input, output, session) {
   
   # Update selector
   observeEvent(input$subclass, {
-    file <- paste("synonyms", input$subclass, "\\subclasses.txt.txt", sep = "")
+    file <- paste("synonyms", input$subclass, "/subclasses.txt.txt", sep = "")
     table <- read.table(file,
                         sep = "\t",
                         header = TRUE)
@@ -392,7 +391,7 @@ shinyServer(function(input, output, session) {
   })
   observeEvent(input$subsubclass, {
     if(input$subsubclass != ""){
-      file <- paste("synonyms", input$subclass, "\\", input$subsubclass , ".txt", sep = "")
+      file <- paste("synonyms", input$subclass, "/", input$subsubclass , ".txt", sep = "")
       table <- read.table(file, sep = "\t", header = TRUE, fill = TRUE)
       table$value <- paste(table$ec_number, table$recommended_name, sep = ": ")
       table <- aggregate(table[,c("value")], by=list(table$synonyms), paste, collapse="\t")
@@ -447,10 +446,10 @@ shinyServer(function(input, output, session) {
       paramSearch(FALSE)
       attributeFound(rep(FALSE, 12))
       incProgress(0, detail = "Entering data")
-      ecno <- as.character(ecNumbers())
-      main <- .jnew("main.BrendaSOAP", ecno[1], user(), as.integer(0), as.integer(0))
       error <- 0
       if(!proteinSaved()){
+        ecno <- as.character(ecNumbers())
+        main <- .jnew("main.BrendaSOAP", ecno[1], user(), as.integer(0), as.integer(0))
         main$erasePreviousOne(!fastaSaved(), !pdbSaved(), !paramSaved())
         n <- length(ecno)
         if(n > 1) lapply(ecno[2:n], function(e){
@@ -460,7 +459,7 @@ shinyServer(function(input, output, session) {
                                         sep = " "))
         error <- main$getProtein()
         if(error == -1){javaError("Protein", session)}
-        }
+      }
       incProgress(0.7, detail = "Proteins found, showing...")
       table <- new_table(paste(folder(), "table.txt", sep = ""))
       incProgress(0.1, detail = "Ready!")
@@ -542,11 +541,12 @@ shinyServer(function(input, output, session) {
     table <- proteinTable()
     table$Ref <- NULL
     if(paramSearch()){
-      table$Literature.PubmedID. <- clickable(table$Literature.PubmedID.)
+      table$Literature.PubmedID. <- NULL
+      attributes(table)$names <- lapply(attributes(table)$names, gsub, pattern ="link", replacement = "Literature.PubmedID.")
     }
     if(!input$showComments1){table$Commentary <- NULL}
     if(!input$showLiterature1){table$Literature.PubmedID. <- NULL}
-    DT::datatable(table, options = list(extensions = 'FixedHeader', scrollX = TRUE, heigth = '20vh', lengthMenu = c(5, 10, 50, 100), pageLength = 5))
+    DT::datatable(table, escape = FALSE, options = list(scrollX = TRUE, heigth = '20vh', lengthMenu = c(5, 10, 50, 100), pageLength = 5))
   })
   
   # Download Protein Table
@@ -555,6 +555,7 @@ shinyServer(function(input, output, session) {
     content <- function(name){
       table <- proteinTable()
       table$Ref <- NULL
+      table$link <- NULL
       write.table(table, name, quote = FALSE, row.names = FALSE, sep = "\t")
     }
   )
@@ -718,12 +719,6 @@ shinyServer(function(input, output, session) {
     }
   })
   
-  # Handler Java Error
-  
-  pdbFinalStep <- function(){
-    
-  }
-  
   # PDB Table
   output$pdbTable <- DT::renderDT({
     DT::datatable(pdbTable(),
@@ -752,7 +747,7 @@ shinyServer(function(input, output, session) {
     af <- attributeFound()
     taf <- attrTable()
     ftaf <- fattrTable()
-    attr_folder <- paste(folder(), "attributes\\", sep = "")
+    attr_folder <- paste(folder(), "attributes/", sep = "")
     table_name <- paste(attr_folder, files_name[n], sep = "")
     filterId <- paste(at[n], "Filter", sep = "")
     if(file.exists(table_name)){
@@ -881,8 +876,9 @@ shinyServer(function(input, output, session) {
   
   # End the generation
   endGeneration <- function(){
-    attr_folder <- paste(folder(), "attributes\\", sep = "")
+    attr_folder <- paste(folder(), "attributes/", sep = "")
     table <- new_table(paste(folder(), "table.txt", sep = ""))
+    table$link <- clickable(table$Literature.PubmedID.)
     proteinTable(table)
     incProgress(0.5)
     listA <- list()
@@ -912,19 +908,18 @@ shinyServer(function(input, output, session) {
   # Parameter Table
   output$distParameterTable <- DT::renderDT({
     table <- fparameterTable()
+    v <- grepl("Literature", attributes(table)$names)
+    table[,attributes(table)$names[v]] <- NULL
+    attributes(table)$names <- lapply(attributes(table)$names, gsub, pattern ="link", replacement = "Literature.PubmedID.")
+    if(!input$showLiterature2){v <- grepl("Literature", attributes(table)$names)
+    table[,attributes(table)$names[v]] <- NULL}
     if(!input$showComments2){v <- grepl("Commentary", attributes(table)$names)
     table[,attributes(table)$names[v]] <- NULL}
-    v <- grepl("Literature", attributes(table)$names)
-    if(!input$showLiterature2){
-      table[,attributes(table)$names[v]] <- NULL
-    } else{## El problema aqui
-      table[,attributes(table)$names[v]] <- clickable(table[,attributes(table)$names[v]])
-    }
-    DT::datatable(table,
+    DT::datatable(table, escape = FALSE,
                   options = list(scrollX = TRUE,
                                  lengthMenu = c(2, 5, 10, 50, 100),
                                  pageLength = 5))
-  })
+  }, escape = FALSE)
   
   # Download Parameter Table
   output$downloadTable <- downloadHandler(
@@ -932,6 +927,8 @@ shinyServer(function(input, output, session) {
     content <- function(name){
       if(paramSearch()){
         table <- fparameterTable()
+        v <- grepl("link", attributes(table)$names)
+        table[,attributes(table)$names[v]] <- NULL
       }
       else{
         table <- NULL
@@ -1506,6 +1503,7 @@ shinyServer(function(input, output, session) {
         cluster <- unique(cluster)
         if(nrow(cluster) <= 2){
           shinyalert("Not enough data", "We are sorry, but there are really very few common data beetween parameters")
+          shinyjs::enable("dbscanSelector")
           shinyjs::hide("eps")
           shinyjs::hide("minPts")
           shinyjs::hide("goDbscan")
@@ -1665,14 +1663,14 @@ shinyServer(function(input, output, session) {
       shinyalert("No suggestion", "There is no suggestion to submit", type = "error")
     } else{
       withProgress(message = "Submitting", value = 0, {
-        id <- read.table("suggestion_box\\SuggestionNames.txt", header = FALSE)
+        id <- read.table("suggestion_box/SuggestionNames.txt", header = FALSE)
         line <- paste("ID:", id[1,1])
         inFile <- input$imageSuggestion
         if(!is.null(inFile)) file.copy( inFile$datapath, file.path("suggestion_box", paste(id[1,1], ".jpeg", sep = "")) )
         if(input$showMail){line <- paste(line,
                                          paste("Mail:", user()$getMail()),
                                          sep = "\n")}
-        write.table(as.double(id[1,1])+1, "suggestion_box\\SuggestionNames.txt", quote = FALSE, row.names = FALSE, col.names = FALSE)
+        write.table(as.double(id[1,1])+1, "suggestion_box/SuggestionNames.txt", quote = FALSE, row.names = FALSE, col.names = FALSE)
         if(input$suggestionType == "others"){
           line <- paste(line, paste("Subject:", input$newType), sep="\n")
         } else{
@@ -1680,7 +1678,7 @@ shinyServer(function(input, output, session) {
         if(input$allowMail){line <- paste(line, "***** Want to receive an email *****", sep ="\n")}
         line <- paste(line, input$suggestionText, sep = "\n")
         line <- paste(line, "--------------------------------------", sep = "\n")
-        write(line, paste("suggestion_box\\",input$suggestionType,".txt",sep=""), append = TRUE)
+        write(line, paste("suggestion_box/",input$suggestionType,".txt",sep=""), append = TRUE)
         updateTextAreaInput(session, "suggestionText", value = "")
         incProgress(1, detail = "Ready!")
       })
