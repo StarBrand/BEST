@@ -20,7 +20,9 @@ source("helpers.R")
 source("variables.R")
 
 dashboardPage(skin = "green",
-  dashboardHeader(title = div(style = "font-weight: bold;", "FBS"),
+  dashboardHeader(title = img(src = 'Title(2).png',
+                              height = '55px',
+                              style = "display: block; margin-left: auto; margin-right: auto;"),
                   tags$li(class = "dropdown",
                           div(style = "display: inline-block;",
                           uiOutput("savedTable")),
@@ -84,8 +86,11 @@ dashboardPage(skin = "green",
     tabItems(
       # Log in
       tabItem(tabName = "account",
-              box( title = div(style = "font-weight: bold;", "Brenda User"), width = 3, height = '80vh',
-                   helpText("Welcome to Fast Brenda Searcher"),
+              box( title = div(style = "font-weight: bold;", "Brenda User"), width = 3,
+                   helpText("Welcome to:"),
+                   img(src = 'Title(3).png',
+                       height = '85px',
+                       style = "display: block; margin-left: auto; margin-right: auto;"),
                    helpText("To start using this app, we need to have access to the ",
                             tags$a("Brenda site", href="https://www.brenda-enzymes.org/", target = "_blank"),
                             "."),
@@ -119,7 +124,7 @@ dashboardPage(skin = "green",
               ),
               box(width = 9, heigth = '30vh',
                   column(3, h5("Brenda User"),
-                         helpText("To start using the FBS app, you need a valid Brenda User, ",
+                         helpText("To start using BEST app, you need a valid Brenda User, ",
                                   "if you don't, please, visit:",
                                   tags$a("Brenda/Registration", href="https://www.brenda-enzymes.org/register.php", target = "_blank"))),
                   column(5, h5("Protein Search"),
@@ -143,7 +148,7 @@ dashboardPage(skin = "green",
               box(title = div(style = "font-weight: bold;", "Select Enzyme"), width = 4,
                   div(style='height:75vh; overflow-y: scroll',
                   h3("Chooce an input to look for the enzymes you need"),
-                  helpText("The FBS app allows multiple type of",
+                  helpText("The BEST app allows multiple type of",
                            "inputs. Such as enter the ,",
                            tags$a("EC Number", href="https://qmul.ac.uk/sbcs/iubmb", target = "_blank"),
                            ", or write the name of the enzyme"),
@@ -207,6 +212,12 @@ dashboardPage(skin = "green",
                       shinyjs::hidden(
                         actionButton("enzymeNameFinal", div(style = "font-weight: bold", "Go"), class = "btn-success", style = "color: #ffffff")
                         )),
+                  tags$br(),
+                  tags$br(),
+                  tags$br(),
+                  tags$br(),
+                  tags$br(),
+                  tags$br(),
                   tags$br(),
                   tags$br(),
                   tags$br(),
@@ -288,8 +299,7 @@ dashboardPage(skin = "green",
                   div(style="display: inline-block;vertical-align:top;width: 25px;", HTML("<br>")),
                   div(style="display: inline-block;", checkboxInput("showLiterature1", "Show the Literature column (Pubmed ID)", value = FALSE)),
                   tags$br(),
-                  div(style='height:60vh; overflow-y: scroll',
-                  DTOutput("distProteinTable", height = '20vh'))
+                  DTOutput("distProteinTable")
                 )
       ),
       
@@ -325,8 +335,7 @@ dashboardPage(skin = "green",
                   bsTooltip("toProtein1", "Go back to the protein table. Note: no data is going to be lost", "bottom"),
                   tags$br(),
                   tags$br(),
-                  div(style='height:60vh; overflow-y: scroll',
-                  DTOutput("fastaTable"))
+                  DTOutput("fastaTable")
               )
       
       ),
@@ -351,8 +360,7 @@ dashboardPage(skin = "green",
                   bsTooltip("toProtein2", "Go back to the protein table. Note: no data is going to be lost", "bottom"),
                   tags$br(),
                   tags$br(),
-                  div(style='height:60vh; overflow-y: scroll',
-                  DTOutput("pdbTable"))
+                  DTOutput("pdbTable")
               )
       ),
       
@@ -453,8 +461,7 @@ dashboardPage(skin = "green",
                 bsTooltip("toProtein3", "Go back to the protein table. Note: no data is going to be lost", "bottom"),
                 tags$br(),
                 title = div(style = "font-weight: bold;", "Parameter Table"), width = 8, height = '80vh',
-                div(style='height:60vh; overflow-y: scroll',
-                DTOutput("distParameterTable"), height = '55vh')
+                DTOutput("distParameterTable")
               )
       ),
       
@@ -494,12 +501,11 @@ dashboardPage(skin = "green",
                 )
               ),
               box(
-                title = div(style = "font-weight: bold;", "Available Information"), width = 8, height = '80vh',
+                title = div(style = "font-weight: bold;", "Available Information"), width = 8,
                 div(style="display: inline-block;",actionButton("generateSummary", label = div(style = "font-weight: bold", "Generate"), class = "btn-primary", style = "color: #ffffff")),
-                div(style='height:60vh; overflow-y: scroll',
                 tags$br(),
                 tags$br(),
-                DTOutput("distSummaryTable"), height = '70vh')
+                DTOutput("distSummaryTable")
               )
       ),
       
@@ -717,7 +723,7 @@ dashboardPage(skin = "green",
                                                                   onclick ="window.open('http://scratch.proteomics.ics.uci.edu/', '_blank')", style = "color: #ffffff")),
                   tags$br(),
                   tags$br(),
-                  helpText("We provide you the possibility of use one of the sequence you got using FBS as input of this predictor. ",
+                  helpText("We provide you the possibility of use one of the sequence you got using BEST as input of this predictor. ",
                            "Click the button below and you will be redirected to the AA sequence section.",
                            "In there, you can select one of the obtained sequence and click the \"Copy to clipboard\" button above the table. ",
                            "Then, go to the Protein Predictor and paste the sequence you selected, it will be already copy."),
@@ -734,7 +740,7 @@ dashboardPage(skin = "green",
                            "nucleotide sequence, and Standard Protein BLAST, for amino acids sequence. This last one receive a number of inputs (", 
                            tags$a("more info", href = "https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&PAGE_TYPE=BlastDocs&DOC_TYPE=BlastHelp", target = "_blank"),
                            "), including upload a text file with sequence in FASTA format as the one you can obtain ",
-                           actionLink("toFasta2", "here"), " using FBS. To access Standard Protein BLAST use the button below."),
+                           actionLink("toFasta2", "here"), " using BEST. To access Standard Protein BLAST use the button below."),
                   div(style = "text-align: center;", actionButton("blast", div(style = "font-weight: bold", "Standard Protein BLAST"), class = "btn-success",
                                                                   onclick ="window.open('https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&PAGE_TYPE=BlastSearch&LINK_LOC=blasthome', '_blank')", style = "color: #ffffff")),
                   tags$br(),
@@ -799,7 +805,7 @@ dashboardPage(skin = "green",
       # Saved Table
       tabItem(tabName = "savedTableTab",
               box(title = div(style = "font-weight: bold;", "Information"), width = 3, height = '80vh',
-                  helpText("Fast Brenda Searcher saves your last query for 72 hours ",
+                  helpText("Brenda Enzyme Searcher Tool saves your last query for 72 hours ",
                            "in order to do your analysis easier. ",
                            "If you want to load them, select the available ",
                            "tables in the right panel. To load any table, selecting the ",

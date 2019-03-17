@@ -457,7 +457,7 @@ shinyServer(function(input, output, session) {
         incProgress(0.2, detail = paste("This might takes ",
                                         showTime(timeProtein(2000)*n),
                                         sep = " "))
-        error <- main$getProtein()
+        error <- main$getProtein(FALSE)
         if(error == -1){javaError("Protein", session)}
       }
       incProgress(0.7, detail = "Proteins found, showing...")
@@ -546,7 +546,11 @@ shinyServer(function(input, output, session) {
     }
     if(!input$showComments1){table$Commentary <- NULL}
     if(!input$showLiterature1){table$Literature.PubmedID. <- NULL}
-    DT::datatable(table, escape = FALSE, options = list(scrollX = TRUE, heigth = '20vh', lengthMenu = c(5, 10, 50, 100), pageLength = 5))
+    DT::datatable(table, escape = FALSE,
+                  options = list(scrollX = TRUE,
+                                 scrollY = 250,
+                                 lengthMenu = c(5, 10, 50, 100),
+                                 pageLength = 10))
   })
   
   # Download Protein Table
@@ -606,7 +610,7 @@ shinyServer(function(input, output, session) {
           if(n > 1) lapply(ecno[2:n], function(e){
             main$addEnzyme(e)
             })
-          main$getProtein()
+          main$getProtein(TRUE)
           incProgress(0.2, detail = paste("This might takes ",
                                           showTime(timeFasta(length(ecNumbers()))),
                                           sep = ""))
@@ -637,7 +641,7 @@ shinyServer(function(input, output, session) {
       if(n > 1) lapply(ecno[2:n], function(e){
         main$addEnzyme(e)
       })
-      main$getProtein()
+      main$getProtein(TRUE)
       incProgress(0.2, detail = "This might takes 40 minutes")
       error <- main$getFastaSequence2()
       if(error == -1){javaError("FASTA", session)
@@ -657,6 +661,7 @@ shinyServer(function(input, output, session) {
   output$fastaTable <- DT::renderDT({
     DT::datatable(fastaTable(),
                   options = list(scrollX = TRUE,
+                                 scrollY = 375,
                                  lengthMenu = c(5, 10, 50, 100),
                                  pageLength = 10))
   })
@@ -696,7 +701,7 @@ shinyServer(function(input, output, session) {
           if(n > 1) lapply(ecno[2:n], function(e){
             main$addEnzyme(e)
             })
-          main$getProtein()
+          main$getProtein(TRUE)
           incProgress(0.2, detail = paste("This might takes ",
                                           showTime(timePDB(nrow(proteinTable()))*length(ecNumbers())),
                                           sep = ""))
@@ -722,7 +727,9 @@ shinyServer(function(input, output, session) {
   # PDB Table
   output$pdbTable <- DT::renderDT({
     DT::datatable(pdbTable(),
+                  selection = list(target = 'none'),
                   options = list(scrollX = TRUE,
+                                 scrollY = 375,
                                  lengthMenu = c(5, 10, 50, 100),
                                  pageLength = 10))
   }, escape = FALSE)
@@ -816,7 +823,7 @@ shinyServer(function(input, output, session) {
         if(n > 1) lapply(ecno[2:n], function(e){
           main$addEnzyme(e)
         })
-        main$getProtein()
+        main$getProtein(FALSE)
         incProgress(0.1, detail = "Selecting proteins for search")
         s <- input$distProteinTable_rows_selected
         int <- as.integer(c())
@@ -853,7 +860,7 @@ shinyServer(function(input, output, session) {
       if(n > 1) lapply(ecno[2:n], function(e){
         main$addEnzyme(e)
       })
-      main$getProtein()
+      main$getProtein(FALSE)
       incProgress(0.1, detail = "Selecting proteins for search")
       s <- input$distProteinTable_rows_selected
       int <- as.integer(c())
@@ -916,7 +923,9 @@ shinyServer(function(input, output, session) {
     if(!input$showComments2){v <- grepl("Commentary", attributes(table)$names)
     table[,attributes(table)$names[v]] <- NULL}
     DT::datatable(table, escape = FALSE,
+                  selection = list(target = 'none'),
                   options = list(scrollX = TRUE,
+                                 scrollY = 300,
                                  lengthMenu = c(2, 5, 10, 50, 100),
                                  pageLength = 5))
   }, escape = FALSE)
@@ -1154,8 +1163,9 @@ shinyServer(function(input, output, session) {
   output$distSummaryTable <- DT::renderDT({
     DT::datatable(summaryTable(),
                   options = list(scrollX = TRUE,
+                                 scrollY = 375,
                                  lengthMenu = c(5, 10, 50, 100),
-                                 pageLength = 5))
+                                 pageLength = 10))
   })
   
   output$informationTable <- renderTable({
