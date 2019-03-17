@@ -1583,7 +1583,7 @@ shinyServer(function(input, output, session) {
     distance <- distDBSCAN()
     png(outfile, width=230, height=230)
     if (!is.null(distance)){
-      hist(distance, xlab = "", ylab = "", main = "")
+      hist(distance)
     }
     dev.off()
     list(src = outfile)
@@ -1726,6 +1726,9 @@ shinyServer(function(input, output, session) {
     reportBug()
   })
   observeEvent(input$sugghelp2, {
+    reportBug()
+  })
+  observeEvent(input$sugghelp3, {
     reportBug()
   })
   observeEvent(input$toReportBug, {
