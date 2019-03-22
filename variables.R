@@ -15,6 +15,9 @@ nat <- c("Molecular_Weight", "IC50", "Kcat/Km",
          "Ki", "Km", "pH_Optimum", "pH_Range",
          "pI", "Specific_Activity", "Temperature_Optimum",
          "Temperature_Range", "Turnover_Number")
+units <- c("Da", "umol/min/mg", "mM/s", "mM", "mM", "",
+           "", "", "umol/min/mg", "Celsius degrees", "Celsius degrees", "1/s")
+units <- paste("[", units, "]", sep = "")
 nat_to_show <- unlist(lapply(nat, gsub, pattern = "_", replacement = " ")) 
 files_name <- unlist(lapply(nat_to_show, gsub, pattern = "/", replacement = "_"))
 files_name <- paste(files_name, ".txt", sep ="")

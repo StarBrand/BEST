@@ -20,7 +20,7 @@ source("helpers.R")
 source("variables.R")
 
 dashboardPage(skin = "green",
-  dashboardHeader(title = img(src = 'Title(2).png',
+  dashboardHeader(title = img(src = 'Title(1).png',
                               height = '55px',
                               style = "display: block; margin-left: auto; margin-right: auto;"),
                   tags$li(class = "dropdown",
@@ -688,14 +688,14 @@ dashboardPage(skin = "green",
                               div(style = "float: right;", actionButton("backParameter2", div(style = "font-weight: bold", "Go back to Parameter Table"), class = "btn-warning", style = "color: #ffffff"))
                               ),
                      tabPanel(value = "k-means", h5("K-means Clustering"),
-                              div(style = "width: 200px;", downloadButton("downloadKmeans", "Download clusterization", class = "btn-primary", style = "color: #ffffff; font-weight: bold;")),
+                              div(style = "width: 200px;", downloadButton("downloadKmeans", "Download data and clusters", class = "btn-primary", style = "color: #ffffff; font-weight: bold;")),
                               div(plotlyOutput("kmeansPlot"), height = '80vh'),
                               tags$br(),
                               helpText("K-means is a clustering algorithm based on the means of the points of a cluster. K-means needs a k parameter, which is a number of cluster to be made. This parameter ",
                                        "is determineted by using \"Elbow Method\", described on the help button on the sidepanel. The clustering is show as color code on the right of the plot.")
                               ),
                      tabPanel(value = "dbscan", h5("DBSCAN Clustering"),
-                              div(style = "width: 200px;", downloadButton("downloadDBSCAN", "Download clusterization", class = "btn-primary", style = "color: #ffffff; font-weight: bold;")),
+                              div(style = "width: 200px;", downloadButton("downloadDBSCAN", "Download data and clusters", class = "btn-primary", style = "color: #ffffff; font-weight: bold;")),
                               div(plotlyOutput("dbscanPlot"), height = '80vh'),
                               tags$br(),
                               helpText("DBSCAN is a clustering algorithm based on density of points per cluster. DBSCAN needs two parameters: epsilon, which is ",

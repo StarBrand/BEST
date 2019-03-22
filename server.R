@@ -244,7 +244,7 @@ shinyServer(function(input, output, session) {
       out <- div(style = "font-weight: bold;", "Proteins")
     } else {
       available_ec <- paste(unique(proteinTable()$EC_Number), collapse = "; ")
-      out <- div(div(style = "font-weight: bold;", "Proteins: "), available_ec)
+      out <- div(div(style = "font-weight: bold;", "Working Proteins: "), available_ec)
     }
   })
   
@@ -887,6 +887,7 @@ shinyServer(function(input, output, session) {
     table <- new_table(paste(folder(), "table.txt", sep = ""))
     table$link <- clickable(table$Literature.PubmedID.)
     proteinTable(table)
+    table <- table[,c("EC_Number", "Organism", "Systematic_name", "Recommended_name", "UniProt", "Commentary", "Literature.PubmedID.", "link", "Ref")]
     incProgress(0.5)
     listA <- list()
     for(n in 1:12){
@@ -923,8 +924,10 @@ shinyServer(function(input, output, session) {
     if(!input$showComments2){v <- grepl("Commentary", attributes(table)$names)
     table[,attributes(table)$names[v]] <- NULL}
     DT::datatable(table, escape = FALSE,
+                  extensions = 'FixedColumns',
                   selection = list(target = 'none'),
                   options = list(scrollX = TRUE,
+                                 fixedColumns = list(leftColumns = 3),
                                  scrollY = 300,
                                  lengthMenu = c(2, 5, 10, 50, 100),
                                  pageLength = 5))
@@ -1012,6 +1015,7 @@ shinyServer(function(input, output, session) {
     shinyjs::disable("filter")
     withProgress(message = "Filtering", value = 0, {
       table <- proteinTable()
+      table <- table[,c("EC_Number", "Organism", "Systematic_name", "Recommended_name", "UniProt", "Commentary", "Literature.PubmedID.", "link", "Ref")]
       bfList <- c(input$mw2, input$ic502, input$kc2, input$ki2,
                   input$km2, input$pho2, input$phr2, input$pi2,
                   input$sa2, input$to2, input$tr2, input$ton2)
@@ -1235,7 +1239,7 @@ shinyServer(function(input, output, session) {
       p <- p[,c("Ref", "data")]
       p <- labeling(p, table)}
     else{p <- param}
-    if(nrow(p) != 0){ p$parameter <- nat[n] }
+    if(nrow(p) != 0){ p$parameter <- paste(nat_to_show[n], units[n])}
     rbind(data, p)
   }
   
