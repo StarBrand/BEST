@@ -93,21 +93,6 @@ configureMutant <- function(atable){
   table
 }
 
-## Empty plot
-nPlots <- function(n){
-  lapply(seq_len(n), function(x) plot_ly())
-}
-
-## Histogram diag
-selfHistogram <- function(x, session){
-  temp <- data.frame(x)
-  temp <- setNames(temp, "value")
-  temp <- reduceData(2000, temp, "The merged table of the selected parameters have too many rows to plot, we are reducing it to be able to show it", session)
-  p <- ggplot(temp, aes(x = value)) + 
-    geom_histogram(aes(y = ..density..), fill = seba_palette[15]) + 
-    geom_density(fill = seba_palette[1], alpha = 0.5)
-}
-
 ## Merged Plot
 setPlot <- function(table1, table2, session){
   tb <- merge(table1, table2)
@@ -122,7 +107,7 @@ setPlot <- function(table1, table2, session){
 ## Genereta axis
 axisTitle <- function(numbers){
   lapply(seq_len(length(numbers)), function(n){
-    list(title = nat[numbers[n]],
+    list(title = nat_axis[numbers[n]],
          titlefont = list(size = 10),
          tickfont = list(size = 10))
   })
@@ -134,25 +119,23 @@ mergingScatter <- function(listTables, numbers, session){
   p <- list()
   for(n in seq_len(l)){
     incProgress(0.35/l, detail = "Merging and plotting")
-    p <- c(p, nPlots(n - 1))
-    p <- c(p, list(selfHistogram(listTables[[n]][,3], session)))
     for(m in seq_len(l)[(1+n):l]){
       incProgress(0.35/l, detail = "Merging and plotting")
       if(!is.na(m)) p <- c(p, list(setPlot(listTables[[n]], listTables[[m]], session)))
       else break
     }
   }
+  m <- 2
+  if(l <= 2){m <- 1}
   ax <- axisTitle(numbers)
   incProgress(0.1, detail = "Ploting")
-  p <- subplot(p, shareX = TRUE, shareY = FALSE, nrows = l, margin = 0.03) %>%
-    layout(xaxis = ax[[1]], yaxis2 = ax[[1]], xaxis2 = ax[[2]])
-  if(l >= 3) p <- layout(p, xaxis3 = ax[[3]])
-  if(l >= 4) p <- layout(p, xaxis4 = ax[[4]])
-  if(l >= 5) p <- layout(p, xaxis5 = ax[[5]])
-  if(l >= 6) p <- layout(p, xaxis6 = ax[[6]])
-  if(l == 3) p <- layout(p, yaxis6 = ax[[2]])
-  if(l == 4) p <- layout(p, yaxis7 = ax[[2]], yaxis12 = ax[[3]])
-  if(l == 5) p <- layout(p, yaxis8 = ax[[2]], yaxis14 = ax[[3]], yaxis20 = ax[[4]])
-  if(l == 6) p <- layout(p, yaxis9 = ax[[2]], yaxis16 = ax[[3]], yaxis23 = ax[[4]], yaxis30 = ax[[5]])
+  p <- subplot(p, shareX = FALSE, shareY = FALSE, nrows = m, margin = 0.05) %>%
+    layout(xaxis = ax[[2]], yaxis = ax[[1]])
+  if(l >= 3) p <- layout(p, xaxis2 = ax[[3]], yaxis2= ax[[1]])
+  if(l == 3) p <- layout(p, xaxis3 = ax[[3]], yaxis3 = ax[[2]])
+  if(l == 4) p <- layout(p, xaxis3 = ax[[4]], yaxis3= ax[[1]],
+                         xaxis4 = ax[[3]], yaxis4 = ax[[2]],
+                         xaxis5 = ax[[4]], yaxis5 = ax[[2]],
+                         xaxis6 = ax[[4]], yaxis6 = ax[[3]])
   p
 }

@@ -42,6 +42,7 @@ shinyServer(function(input, output, session) {
     shinyjs::hide("helpCorrelationScatter")
     shinyjs::hide("copyAAClipboard")
     shinyjs::hide("showLiterature1")
+    shinyjs::hide("phylogy")
     shinyjs::hide("eps")
     shinyjs::hide("minPts")
     shinyjs::hide("goDbscan")
@@ -52,6 +53,7 @@ shinyServer(function(input, output, session) {
   # Flags
   isThereUser <- reactiveVal(FALSE)
   proteinSearch <- reactiveVal(FALSE)
+  phylogenySearch <- reactiveVal(FALSE)
   addEcNumber <- reactiveVal(FALSE)
   pdbSearch <- reactiveVal(FALSE)
   fastaSearch <- reactiveVal(FALSE)
@@ -59,8 +61,6 @@ shinyServer(function(input, output, session) {
   attributeFound <- reactiveVal(rep(FALSE, 12))
   merged <- reactiveVal(FALSE)
   ecNumbers <- reactiveVal(NULL)
-  kmeansDim <- reactiveVal(NULL)
-  dbscanDim <- reactiveVal(NULL)
   # Saved
   proteinSaved <- reactiveVal(FALSE)
   pdbSaved <- reactiveVal(FALSE)
@@ -72,6 +72,8 @@ shinyServer(function(input, output, session) {
   summarySaved <- reactiveVal(NULL)
   # Protein Table
   proteinTable <- reactiveVal(NULL)
+  # Phylogenetic Table
+  phylogenyTable <- reactiveVal(NULL)
   # Fasta Table
   fastaTable <- reactiveVal(NULL)
   # PDB Table
@@ -183,9 +185,8 @@ shinyServer(function(input, output, session) {
     fastaSearch(FALSE)
     paramSearch(FALSE)
     merged(FALSE)
-    kmeansDim(NULL)
-    dbscanDim(NULL)
     proteinSaved(FALSE)
+    phylogenySearch(FALSE)
     pdbSaved(FALSE)
     fastaSaved(FALSE)
     paramSaved(FALSE)
@@ -201,6 +202,7 @@ shinyServer(function(input, output, session) {
       isThereUser(FALSE)}
     updateTextInput(session, "pass", value = "")
     proteinTable(NULL)
+    phylogenyTable(NULL)
     summarySaved(NULL)
     fastaTable(NULL)
     pdbTable(NULL)
@@ -244,7 +246,8 @@ shinyServer(function(input, output, session) {
       out <- div(style = "font-weight: bold;", "Proteins")
     } else {
       available_ec <- paste(unique(proteinTable()$EC_Number), collapse = "; ")
-      out <- div(div(style = "font-weight: bold;", "Working Proteins: "), available_ec)
+      out <- div(div(style = "display: inline-block; font-weight: bold;", "Working Proteins: "),
+                 div(style = "display: inline-block;", available_ec))
     }
   })
   
@@ -454,9 +457,7 @@ shinyServer(function(input, output, session) {
         n <- length(ecno)
         if(n > 1) lapply(ecno[2:n], function(e){
           main$addEnzyme(e)})
-        incProgress(0.2, detail = paste("This might takes ",
-                                        showTime(timeProtein(2000)*n),
-                                        sep = " "))
+        incProgress(0.2, detail = showTime(timeProtein(2000)*n))
         error <- main$getProtein(FALSE)
         if(error == -1){javaError("Protein", session)}
       }
@@ -469,6 +470,7 @@ shinyServer(function(input, output, session) {
     ecNumbers(unique(table$EC_Number))
     merged(FALSE)
     hideStuffs()
+    shinyjs::enable("phylogeny")
   }
   
   # EC Number
@@ -546,10 +548,15 @@ shinyServer(function(input, output, session) {
     }
     if(!input$showComments1){table$Commentary <- NULL}
     if(!input$showLiterature1){table$Literature.PubmedID. <- NULL}
-    DT::datatable(table, escape = FALSE,
+    if(phylogenySearch())
+      selection <- list(target = "none")
+    else
+      selection <- list(target = "row")
+    DT::datatable(table, escape = FALSE, filter = list(position = 'top', plain = TRUE),
+                  selection = selection,
                   options = list(scrollX = TRUE,
                                  scrollY = 250,
-                                 lengthMenu = c(5, 10, 50, 100),
+                                 dom = "tip",
                                  pageLength = 10))
   })
   
@@ -568,18 +575,33 @@ shinyServer(function(input, output, session) {
   observeEvent(input$phylogeny, {
     if(!proteinSearch()){noSearch("Phylogeny")}
     else{
-      if(TRUE){
-        shinyalert("Tool is not available",
-                   "We're sorry, but this functionality isn't implemented yet. We're working hard on it to launch it soon",
-                   type = "error")
-      } else{
       table <- proteinTable()
-      updateTabItems(session, "inTabset", "phylogenyTree")
       shinyjs::disable("phylogeny")
       withProgress(message = "Generating tree", value = 0, {
-      tree <- getTreeSelective(table$Organism)})
-      shinyjs::enable("phylogeny")
-      treePlot(tree)}
+        species <- table$Organism
+        uids <- getID(species)
+        taxa <- getTaxa(uids)
+        phytable <- phyTable(taxa)
+        phylogenyTable(phytable)
+        incProgress(0.1, detail = "Ready")
+      })
+      shinyjs::show("phylogy")
+      phylogenySearch(TRUE)
+    }
+  })
+  
+  observeEvent(input$phylogy, {
+    if(phylogenySearch() & !paramSearch()){
+      shinyjs::disable("phylogy")
+      shinyjs::disable("showComments1")
+      shinyjs::disable("showLiterature1")
+      table <- proteinTable()
+      table <- table[,c("EC_Number", "Systematic_name", "Recommended_name", "UniProt", "Organism", "Commentary", "Ref")]
+      table <- phySelect(table, phylogenyTable(), input$phylogy)
+      proteinTable(table)
+      shinyjs::enable("phylogy")
+      shinyjs::enable("showComments1")
+      shinyjs::enable("showLiterature1")
     }
   })
   
@@ -611,9 +633,7 @@ shinyServer(function(input, output, session) {
             main$addEnzyme(e)
             })
           main$getProtein(TRUE)
-          incProgress(0.2, detail = paste("This might takes ",
-                                          showTime(timeFasta(length(ecNumbers()))),
-                                          sep = ""))
+          incProgress(0.2, detail = showTime(timeFasta(length(ecNumbers()))))
           error <- main$getFastaSequence()
         }
         if(error == -1){handledJavaError(session, "Fasta")
@@ -642,7 +662,7 @@ shinyServer(function(input, output, session) {
         main$addEnzyme(e)
       })
       main$getProtein(TRUE)
-      incProgress(0.2, detail = "This might takes 40 minutes")
+      incProgress(0.2, detail = "This might take 40 minutes")
       error <- main$getFastaSequence2()
       if(error == -1){javaError("FASTA", session)
         table <- NULL
@@ -702,9 +722,7 @@ shinyServer(function(input, output, session) {
             main$addEnzyme(e)
             })
           main$getProtein(TRUE)
-          incProgress(0.2, detail = paste("This might takes ",
-                                          showTime(timePDB(nrow(proteinTable()))*length(ecNumbers())),
-                                          sep = ""))
+          incProgress(0.2, detail = showTime(timePDB(nrow(proteinTable()))*length(ecNumbers())))
           error <- main$getPDB()}
         if(error == 0){
           incProgress(0.7, detail = "Showing")
@@ -825,16 +843,18 @@ shinyServer(function(input, output, session) {
         })
         main$getProtein(FALSE)
         incProgress(0.1, detail = "Selecting proteins for search")
-        s <- input$distProteinTable_rows_selected
+        if(phylogenySearch()){
+          s <- input$distProteinTable_rows_all
+          cond <- FALSE
+        } else{
+          s <- input$distProteinTable_rows_selected
+          cond <- input$allProteins
+        }
         int <- as.integer(c())
         if(length(s)){int <- as.integer(c(s - 1, int))}
         int <- .jarray(int)
-        if(input$allProteins){n_pro <- nrow(proteinTable())}
-        else{n_pro <- s}
-        incProgress(0.2, detail = paste("This might take ",
-                                        showTime(timeParameters(nrow(proteinTable()))*length(ecNumbers())),
-                                        sep = ""))
-        error <- main$getParameters(int, input$allProteins)
+        incProgress(0.2, detail = showTime(timeParameters(nrow(proteinTable()))*length(ecNumbers())))
+        error <- main$getParameters(int, cond)
       }
       if(error == -1){
         handledJavaError(session, "Param")
@@ -862,16 +882,22 @@ shinyServer(function(input, output, session) {
       })
       main$getProtein(FALSE)
       incProgress(0.1, detail = "Selecting proteins for search")
-      s <- input$distProteinTable_rows_selected
+      if(phylogenySearch()){
+        s <- input$distProteinTable_rows_all
+        cond <- FALSE
+      } else{
+        s <- input$distProteinTable_rows_selected
+        cond <- input$allProteins
+      }
       int <- as.integer(c())
       if(length(s)){int <- as.integer(c(s - 1, int))}
       int <- .jarray(int)
       if(input$allProteins){n_pro <- nrow(proteinTable())}
       else{n_pro <- s}
-      incProgress(0.2, detail = paste("This might takes ",
+      incProgress(0.2, detail = paste("This might take ",
                                       "60 minutes",
                                       sep = ""))
-      error <- main$getParameters2(int, input$allProteins)
+      error <- main$getParameters2(int, cond)
       if(error == -1){
         javaError("Parameters", session)
       } else{
@@ -909,6 +935,8 @@ shinyServer(function(input, output, session) {
     shinyjs::enable("parameters")
     parameterTable(table)
     fparameterTable(table)
+    shinyjs::hide("phylogy")
+    phylogenySearch(FALSE)
     paramSaved(FALSE)
     merged(FALSE)
   }
@@ -1239,7 +1267,7 @@ shinyServer(function(input, output, session) {
       p <- p[,c("Ref", "data")]
       p <- labeling(p, table)}
     else{p <- param}
-    if(nrow(p) != 0){ p$parameter <- paste(nat_to_show[n], units[n])}
+    if(nrow(p) != 0){ p$parameter <- paste(nat_axis[n]) }
     rbind(data, p)
   }
   
@@ -1340,7 +1368,7 @@ shinyServer(function(input, output, session) {
   # As a scatterplot
   observeEvent(input$getCorrelationScatter2, {
     s <- length(input$corScat)
-    if(s <= 1 | s > 6){
+    if(s <= 1 | s > 4){
       corScatterError(s)
     } else if(paramSearch()){
       shinyjs::disable("getCorrelationScatter2")
@@ -1411,7 +1439,6 @@ shinyServer(function(input, output, session) {
       shinyjs::disable("kmeans")
       withProgress(value = 0, message = "Clustering...", {
         incProgress(0, detail = "Determinating dimensions")
-        kmeansDim(dimInfo(s, input$kmeans))
         table <- proteinTable()
         table <- table[,c("Ref", "Recommended_name", "Organism")]
         attr <- list()
@@ -1440,9 +1467,9 @@ shinyServer(function(input, output, session) {
           datag <- data
           datag <- reduceData(2000, datag, "Your clusterized data has too many rows to plot, we are reducing it to be able to show it. The whole data is still available to download", session)
           if(s == 2){
-            p <- plotingKmeans2d(datag, nat[clu[1]], nat[clu[2]])
+            p <- plotingKmeans2d(datag, clu[1], clu[2])
           } else{
-            p <- plotingKmeans(datag, nat[clu[1]], nat[clu[2]], nat[clu[3]])
+            p <- plotingKmeans(datag, clu[1], clu[2], clu[3])
           }
           kPlot(p)
           incProgress(0.1, detail = "Ready")
@@ -1451,13 +1478,8 @@ shinyServer(function(input, output, session) {
       shinyjs::enable("goKmeans")
       shinyjs::enable("kmeans")
     } else{kmeansError(s)
-      kmeansDim(NULL)
       elbowPlot(NULL)
       kPlot(NULL)}
-  })
-  
-  output$kmeansDimInfo <- renderUI({
-    kmeansDim()
   })
   
   output$elbowKMeans <- renderPlot({
@@ -1502,7 +1524,6 @@ shinyServer(function(input, output, session) {
       shinyjs::disable("dbscanSelector")
       withProgress(value = 0, message = "Merging...", {
         incProgress(0, detail = "Determinating dimensions")
-        dbscanDim(dimInfo(s, input$dbscanSelector))
         table <- proteinTable()
         table <- table[,c("Ref", "Recommended_name", "Organism")]
         attr <- list()
@@ -1545,7 +1566,6 @@ shinyServer(function(input, output, session) {
       })
       shinyjs::enable("dbscanMerge")
     } else{kmeansError(s)
-      dbscanDim(NULL)
     }
   })
   
@@ -1567,19 +1587,15 @@ shinyServer(function(input, output, session) {
       datag <- data
       datag <- reduceData(2000, datag, "Your clusterized data has too many rows to plot, we are reducing it to be able to show it. The whole data is still available to download", session)
       if(s == 2){
-        p <- plotingKmeans2d(datag, nat[clu[1]], nat[clu[2]])
+        p <- plotingKmeans2d(datag, clu[1], clu[2])
       } else{
-        p <- plotingKmeans(datag, nat[clu[1]], nat[clu[2]], nat[clu[3]])
+        p <- plotingKmeans(datag, clu[1], clu[2], clu[3])
       }
       dbscanPlot(p)
       incProgress(0.2, detail = "Ready")
       })
       shinyjs::enable("goDbscan")
       shinyjs::enable("dbscanSelector")
-  })
-  
-  output$dbscanDimInfo <- renderUI({
-    dbscanDim()
   })
   
   output$histDBSCAN <- renderImage({

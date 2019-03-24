@@ -19,6 +19,7 @@ units <- c("Da", "umol/min/mg", "mM/s", "mM", "mM", "",
            "", "", "umol/min/mg", "Celsius degrees", "Celsius degrees", "1/s")
 units <- paste("[", units, "]", sep = "")
 nat_to_show <- unlist(lapply(nat, gsub, pattern = "_", replacement = " ")) 
+nat_axis <- paste(nat_to_show, units)
 files_name <- unlist(lapply(nat_to_show, gsub, pattern = "/", replacement = "_"))
 files_name <- paste(files_name, ".txt", sep ="")
 molList <- c("null", "Inhibitor", "Substrate", "Inhibitor", "Substrate", "null",

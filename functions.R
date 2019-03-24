@@ -317,7 +317,7 @@ showTime <- function(time){
   else{t <- time%/%60 + 1
   if(t < 200) show <- paste(t%/%1 + 1, "min", sep = " ")
   else show <- paste(t%/%60 + 1, "hours", sep = " ")}
-  show
+  show <- paste("This might take", show)
 }
 
 timeProtein <- function(n){(linealprotein[1] + linealprotein[2]*n)*10}

@@ -5,8 +5,8 @@ library(ggtree)
 library(shiny)
 source("functions.R")
 
-# Generate de ID code from NCBI
-getID <- function(species){
+# Generate species name
+speciesName <- function(species){
   a <- str_split(species, " ")
   s <- list.apply(a, function(x){
     out = ""
@@ -15,17 +15,61 @@ getID <- function(species){
     out
   })
   s <- unlist(s)
+}
+
+# Generate de ID code from NCBI
+getID <- function(species){
+  incProgress(0.1, detail = paste("Searching ID, ", showTime(
+    timeID( length(species) )
+    )))
+  s <- speciesName(species)
   s <- unique(s)
-  uids <- get_uid(s, ask = FALSE, messages = FALSE)
+  uids <- get_uid(s, ask = FALSE, messages = FALSE, check = TRUE)
   uids
 }
 
 # Generate taxa
 getTaxa <- function(uids){
+  incProgress(0.4, paste("Searching taxa, ", showTime(
+    timeTaxa( length(uids) )
+    )))
   u <- unique(na.omit(uids))
-  taxa <- classification(uids, db = "ncbi")
+  taxa <- classification(u, db = "ncbi")
   taxa
 }
+
+# Genereta phylogenetic table
+phyTable <- function(taxa){
+  incProgress(0.4, detail = "Generating phylogeny table")
+  out <- data.frame(superkingdom = c(), phylum = c(), class  = c(), order = c(), family = c(), genus = c(), species = c())
+  a <- c("superkingdom", "phylum", "class", "order", "family", "genus", "species")
+  
+  c <- lapply(seq(1, length(taxa)), function(x){
+    b <- data.frame(t(taxa[[x]][(taxa[[x]][,2] %in% a),c(1,2)]))
+    attributes(b)$names <- t(b[2,])
+    b[1,]
+  })
+  
+  for(i in c){
+    if(typeof(i) == "list")
+      out <- rbind.fill(out, i)
+  }
+  
+  out
+}
+
+# Add Column
+phySelect <- function(table, phylogeny, select){
+  out <- table
+  out$species <- speciesName(table$Organism)
+  if(select != 7){
+    out <- merge(out, phylogeny[,c(as.numeric(select),7)], by = "species", all.x = TRUE)
+    out$species <- NULL
+  }
+  out
+}
+
+#### PENDING IMPLEMENT TREE ####
 
 # Generate tree
 getTree <- function(taxa){
@@ -63,6 +107,6 @@ getTreeSelective <- function(species){
 }
 
 # Time functions
-timeID <- function(n){idLineal[1] + idLineal[2]*n}
-timeTaxa <- function(n){taxaLineal[1] + taxaLineal[2]*n}
+timeID <- function(n){(idLineal[1] + idLineal[2]*n)*10}
+timeTaxa <- function(n){(taxaLineal[1] + taxaLineal[2]*n)*10}
 timeTree <- function(n){treeLineal[1] + treeLineal[2]*n}

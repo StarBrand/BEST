@@ -1,4 +1,6 @@
 library(dbscan)
+source("correlation.R")
+source("variables.R")
 
 set.seed(2)
 
@@ -72,29 +74,34 @@ completeData <- function(data, table){
 
 # Plot
 # 3D
-plotingKmeans <- function(clustered_data, a, b, c){
+plotingKmeans <- function(clustered_data, n1, n2, n3){
   data <- clustered_data
   data <- unique(data)
-  p <- plot_ly(data, x = data[, a],
-               y = data[, b],
-               z = data[, c],
+  ax <- axisTitle(c(n1, n2, n3))
+  p <- plot_ly(data, x = data[, nat[n1]],
+               y = data[, nat[n2]],
+               z = data[, nat[n3]],
                color = ~cluster, colors = seba_palette,
                type = "scatter3d",
                mode = "markers",
                text = ~paste(Recommended_name, Organism, sep = "\n")
-               )
+               ) %>% layout(scene = list(
+                 xaxis = ax[[1]], yaxis = ax[[2]], zaxis = ax[[3]]
+                 ))
 }
 
 #2D
-plotingKmeans2d <- function(clustered_data, a, b){
+plotingKmeans2d <- function(clustered_data, n1, n2){
   data <- clustered_data
   data <- unique(data)
-  p <- plot_ly(data, x = data[, a],
-               y = data[, b],
+  ax <- axisTitle(c(n1, n2))
+  p <- plot_ly(data, x = data[, nat[n1]],
+               y = data[, nat[n2]],
                color = ~cluster, colors = seba_palette,
                type = "scatter",
                mode = "markers",
-               text = ~paste(Recommended_name, Organism, sep = "\n"))
+               text = ~paste(Recommended_name, Organism, sep = "\n")
+               ) %>% layout(xaxis = ax[[1]], yaxis = ax[[2]])
 }
 
 #DBscan

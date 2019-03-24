@@ -94,7 +94,7 @@ kmeansError <- function(s){
 ### Paired scatter plot
 corScatterError <- function(s){
   n <- 2 - s
-  m <- s - 6
+  m <- s - 4
   if(m == 1){nparameters = "parameter"
   } else{nparameters = "parameters"}
   if(n == 1){nparameters = "one parameter more"
