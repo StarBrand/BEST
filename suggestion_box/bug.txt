@@ -1,0 +1,8 @@
+ID: 0
+Mail: juan.saez.hidalgo@gmail.com
+Subject: Application stoped (indicates the point and as many details as possible)
+***** Want to receive an email *****
+The app ask me to reported that a bug happened.
+
+Regards.
+--------------------------------------
