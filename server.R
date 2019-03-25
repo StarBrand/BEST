@@ -1267,7 +1267,7 @@ shinyServer(function(input, output, session) {
       p <- p[,c("Ref", "data")]
       p <- labeling(p, table)}
     else{p <- param}
-    if(nrow(p) != 0){ p$parameter <- paste(nat_axis[n]) }
+    if(nrow(p) != 0){ p$parameter <- paste(nat_to_show[n]) }
     rbind(data, p)
   }
   
@@ -1280,15 +1280,34 @@ shinyServer(function(input, output, session) {
         incProgress(0, detail = "Loading tables")
         table <- proteinTable()
         table <- table[,c("Recommended_name", "Organism", "Ref")]
+        dataList <- list()
         data <- data.frame(parameter = c(), data = c(), Recommended_name = c(), Organism = c())
+        dataList <- list.apply(seq(1, 6), function(l) list.append(dataList, data))
+        order <- c(1, 2, 3, 4, 4, 5, 5, 5, 2, 6, 6, 3)
         for(i in 1:12){
           incProgress(0.5/12, detail = "Analysing tables")
-          data <- do_function(i, distFunction, addNoData, addNoData, input$attributes, attributeFound(), table = table, data = data)
+          dataList[[order[i]]][[1]] <- do_function(i, distFunction, addNoData, addNoData, input$attributes, attributeFound(), table = table, data = dataList[[order[i]]][[1]])
         }
-        incProgress(0.4, detail = "Plotting")
-        p <- plot_ly(data, x = ~data, color = ~parameter, colors = seba_palette,
-                     type = "box",
-                     text = ~paste(Recommended_name, Organism, sep = "\n"))
+        pfinal <- list()
+        for(i in 1:6){
+          incProgress(0.4/6, detail = "Plotting")
+          p <- plot_ly(dataList[[i]][[1]], x = ~data, color = ~parameter, colors = palDist,
+                       legendgroup = ~parameter, type = "box", text = ~paste(Recommended_name, Organism, sep = "\n"))
+          pfinal <- list.append(pfinal, p)
+        }
+        p <- subplot(pfinal, shareX = FALSE, shareY = FALSE, nrows = 2, margin = 0.07) %>%
+          layout(xaxis = list(title = paste("Data", units[1])),
+                 yaxis = list(title = "", showticklabels = FALSE),
+                 xaxis2 = list(title = paste("Data", units[2])),
+                 yaxis2 = list(title = "", showticklabels = FALSE),
+                 xaxis3 = list(title = paste("Data", units[3], "/", units[12])),
+                 yaxis3 = list(title = "", showticklabels = FALSE),
+                 xaxis4 = list(title = paste("Data", units[4])),
+                 yaxis4 = list(title = "", showticklabels = FALSE),
+                 xaxis5 = list(title = paste("Data")),
+                 yaxis5 = list(title = "", showticklabels = FALSE),
+                 xaxis6 = list(title = paste("Data", units[10])),
+                 yaxis6 = list(title = "", showticklabels = FALSE))
         incProgress(0.1, detail = "Ready")
         distributionPlot(p)
       })

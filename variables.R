@@ -8,6 +8,7 @@ seba_palette2 <- c("#124212", "#336830", "#4c9e4a", "#5bb959", "#69d565",
 
 pal <- c(seba_palette[1], seba_palette[15])
 pal <- setNames(pal, c("Mutant", "Wild Type"))
+palDist <- seba_palette[c(1, 2, 3, 5, 6, 7, 13, 9, 12, 8, 14, 15)]
 
 # Attributtes
 at <- c("mw", "ic50", "kc", "ki", "km", "pho", "phr", "pi", "sa", "to", "tr", "ton")
@@ -25,6 +26,8 @@ files_name <- paste(files_name, ".txt", sep ="")
 molList <- c("null", "Inhibitor", "Substrate", "Inhibitor", "Substrate", "null",
              "null", "null", "null", "null", "null", "Substrate")
 bool_mol <- molList != "null"
+
+palDist <- setNames(palDist, nat_to_show)
 
 linealprotein <- c(4.101506, 0.002124 + 0.002)
 linealpdb <- c(5.497487, 0.001329 + 0.001)
