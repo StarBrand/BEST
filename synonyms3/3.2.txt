@@ -76,14 +76,14 @@ BHA	3.2.1.1	alpha-amylase
 AmyCR	3.2.1.1	alpha-amylase
 BGTG-1	3.2.1.1	alpha-amylase
 MAmy	3.2.1.1	alpha-amylase
-Low pI alpha-amylase	3.2.1.1	alpha-amylase
-alpha-amylases 1	3.2.1.1	alpha-amylase
-alpha-amylase type A isozyme	3.2.1.1	alpha-amylase
 alpha amylase 1	3.2.1.1	alpha-amylase
 barley alpha-amylase 1	3.2.1.1	alpha-amylase
 isoenzyme	3.2.1.1	alpha-amylase
 isoenzyme	3.2.1.1	alpha-amylase
 alpha-amylase 1	3.2.1.1	alpha-amylase
+Low pI alpha-amylase	3.2.1.1	alpha-amylase
+alpha-amylases 1	3.2.1.1	alpha-amylase
+alpha-amylase type A isozyme	3.2.1.1	alpha-amylase
 alpha-amylase CMA	3.2.1.1	alpha-amylase
 KRA	3.2.1.1	alpha-amylase
 Bacillus licheniformis alpha-amylase	3.2.1.1	alpha-amylase
@@ -294,12 +294,12 @@ recombinant dextranase	3.2.1.11	dextranase
 Dex49A	3.2.1.11	dextranase
 DexA	3.2.1.11	dextranase
 recombinant protein	3.2.1.11	dextranase
-fusion protein of endo-dextranase and dextransucrase	3.2.1.11	dextranase
-Dex2	3.2.1.11	dextranase
-AODex	3.2.1.11	dextranase
 LSD1	3.2.1.11	dextranase
 alpha-dextranase	3.2.1.11	dextranase
 dextranase	3.2.1.11	dextranase
+fusion protein of endo-dextranase and dextransucrase	3.2.1.11	dextranase
+Dex2	3.2.1.11	dextranase
+AODex	3.2.1.11	dextranase
 TPDex	3.2.1.11	dextranase
 the enzyme belongs to the glycoside hydrolase family(GH) 66	3.2.1.11	dextranase
 SmDex	3.2.1.11	dextranase
@@ -678,24 +678,33 @@ glucuronoxylan xylohydrolase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylan
 feraxan endoxylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
 endoarabinoxylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
 feraxanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+XynC	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
 Endoxylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
 XynA	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-XynC	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-glucuronoxylan xylanohydrolase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-GH30 endoxylanase C	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-glucuronoxylan-specific Xyn30D	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-Xyn30D	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-XynGH30	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-M4	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-beta-1,4-endoxylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-used for bread dough	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-M2	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-GH11 endoxylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
-Tx-Xyl	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
 glucuronoxylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
 Endoglucanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
 bifunctional cellulase/xylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
 xylanase C	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+GH30 xylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+GH30 endoxylanase C	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+glucuronoxylan-specific Xyn30D	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+Xyn30D	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+XynGH30	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+glucuronoxylan-specific xylanase A	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+gene name	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+GH115 alpha-glucuronidase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+M4	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+beta-1,4-endoxylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+glucuronoxylan xylanohydrolase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+Xyn30A	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+used for bread dough	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+xylanase 30 A	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+M2	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+GH11 endoxylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+Tx-Xyl	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+glucuronoxylanase GH30	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+endo-beta-xylanase	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
+GuXN 30	3.2.1.136	glucuronoarabinoxylan endo-1,4-beta-xylanase
 mannosidase, exo-1,2-1,6-alpha	3.2.1.137	mannan exo-1,2-1,6-alpha-mannosidase
 glucuronidase, alpha-	3.2.1.139	alpha-glucuronidase
 (4-O-methyl)-alpha-glucuronidase	3.2.1.139	alpha-glucuronidase
@@ -708,9 +717,10 @@ p-nitrophenyl alpha-D-glucuronide-hydrolyzing enzyme	3.2.1.139	alpha-glucuronida
 Alpha-glucosiduronase	3.2.1.139	alpha-glucuronidase
 GLRI	3.2.1.139	alpha-glucuronidase
 AguA	3.2.1.139	alpha-glucuronidase
-Agu115	3.2.1.139	alpha-glucuronidase
+gene name	3.2.1.139	alpha-glucuronidase
 TrDCase	3.2.1.139	alpha-glucuronidase
 TreDCase	3.2.1.139	alpha-glucuronidase
+glycosyl hydrolase family 115 alpha-glucuronidase	3.2.1.139	alpha-glucuronidase
 DEG75-AG	3.2.1.139	alpha-glucuronidase
 RUM630-AG	3.2.1.139	alpha-glucuronidase
 GH67 alpha-glucuronidase	3.2.1.139	alpha-glucuronidase
@@ -735,7 +745,6 @@ chitodextrinase-N-	3.2.1.14	chitinase
 1,4-beta-poly-N-acetylglucosaminidase	3.2.1.14	chitinase
 poly-beta-glucosaminidase	3.2.1.14	chitinase
 beta-1,4-poly-N-acetyl glucosamidinase	3.2.1.14	chitinase
-Agglutinin	3.2.1.14	chitinase
 CF-AG	3.2.1.14	chitinase
 CF-antigen	3.2.1.14	chitinase
 CHI-26	3.2.1.14	chitinase
@@ -829,6 +838,7 @@ PLChiA	3.2.1.14	chitinase
 SCChi-1	3.2.1.14	chitinase
 YlCts1p	3.2.1.14	chitinase
 locus name	3.2.1.14	chitinase
+Chit	3.2.1.14	chitinase
 LpChiA	3.2.1.14	chitinase
 Chit62	3.2.1.14	chitinase
 gene name	3.2.1.14	chitinase
@@ -880,11 +890,11 @@ class I chitinase	3.2.1.14	chitinase
 hevamine	3.2.1.14	chitinase
 Chi1	3.2.1.14	chitinase
 chitotriosidase	3.2.1.14	chitinase
-CHIT1	3.2.1.14	chitinase
 acid mammalian chitinase	3.2.1.14	chitinase
 SI-CLP	3.2.1.14	chitinase
 stabilin-1 interacting chitinase-like protein	3.2.1.14	chitinase
 AMCase is a glyco_18_domain-containingprotein and a member of glycoside hydrolase family 18	3.2.1.14	chitinase
+CHIT1	3.2.1.14	chitinase
 Chi21	3.2.1.14	chitinase
 Chi22	3.2.1.14	chitinase
 Ech42	3.2.1.14	chitinase
@@ -931,9 +941,13 @@ maltooligosyltrehalose trehalohydrolase	3.2.1.141	4-alpha-D-{(1->4)-alpha-D-gluc
 MTH	3.2.1.141	4-alpha-D-{(1->4)-alpha-D-glucano}trehalose trehalohydrolase
 glycosyltrehalose trehalohydrolase	3.2.1.141	4-alpha-D-{(1->4)-alpha-D-glucano}trehalose trehalohydrolase
 maltooligosyl trehalose tetrahydrolase	3.2.1.141	4-alpha-D-{(1->4)-alpha-D-glucano}trehalose trehalohydrolase
-pullulanase	3.2.1.142	limit dextrinase
 Ask	3.2.1.142	limit dextrinase
+pullulanase	3.2.1.142	limit dextrinase
 Pul3YH5	3.2.1.142	limit dextrinase
+limit dextrinase	3.2.1.142	limit dextrinase
+pullulanase type I	3.2.1.142	limit dextrinase
+GH13 12-14	3.2.1.142	limit dextrinase
+PULI	3.2.1.142	limit dextrinase
 starch-debranching enzyme	3.2.1.142	limit dextrinase
 gene name	3.2.1.142	limit dextrinase
 glycohydrolase, poly(adenosine diphosphoribose)	3.2.1.143	poly(ADP-ribose) glycohydrolase
@@ -1506,14 +1520,15 @@ endoglucanase SS	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 cellobiohydrolase CelS	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 exocellulase	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 cellobiohydrolase II	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
+exoglucanase	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 CBH2	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
-CBH	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 reducing end acting processive exocellulase	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 reducing end-acting CBH	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
+CBH	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 cellobiohydrolase	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 formerly CBH I	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
-CBH I	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 cellobiohydrolase I	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
+CBH I	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 CelO	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 Ct-Cel5F	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 Cellulase SS	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
@@ -1521,6 +1536,7 @@ Tr-Cel7A	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 CbhA	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 cellobiohydrolase A	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 gene name	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
+GH7 CBH	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 gene name	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 exoglucanase-1	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
 CBH-1	3.2.1.176	cellulose 1,4-beta-cellobiosidase (reducing end)
@@ -1795,7 +1811,6 @@ gene name	3.2.1.20	alpha-glucosidase
 gene name	3.2.1.20	alpha-glucosidase
 gene name	3.2.1.20	alpha-glucosidase
 MAL2	3.2.1.20	alpha-glucosidase
-glucosidase II	3.2.1.20	alpha-glucosidase
 AAGR-1	3.2.1.20	alpha-glucosidase
 AAGR-2	3.2.1.20	alpha-glucosidase
 AAGR-3	3.2.1.20	alpha-glucosidase
@@ -1840,7 +1855,7 @@ chitinase B	3.2.1.200	exo-chitinase (non-reducing end)
 ChiA	3.2.1.200	exo-chitinase (non-reducing end)
 ChiC	3.2.1.200	exo-chitinase (non-reducing end)
 gene name	3.2.1.200	exo-chitinase (non-reducing end)
-ChiA	3.2.1.201	(1->4)-2-acetamido-2-deoxy-beta-D-glucan diacetylchitobiohydrolase
+ChiA	3.2.1.201	exo-chitinase (reducing end)
 endolytic chitodextrinase	3.2.1.202	endo-chitodextinase
 periplasmic chitodextrinase	3.2.1.202	endo-chitodextinase
 Endo I	3.2.1.202	endo-chitodextinase
@@ -1851,6 +1866,48 @@ CelG	3.2.1.203	carboxymethylcellulase
 thermoacidophilic cellulase	3.2.1.203	carboxymethylcellulase
 Cel9A	3.2.1.203	carboxymethylcellulase
 CelA	3.2.1.203	carboxymethylcellulase
+EG1	3.2.1.203	carboxymethylcellulase
+CADE	3.2.1.204	1,3-alpha-isomaltosidase
+cycloalternan isomaltosylhydrolase	3.2.1.204	1,3-alpha-isomaltosidase
+gene name	3.2.1.204	1,3-alpha-isomaltosidase
+gene name	3.2.1.205	isomaltose glucohydrolase
+glycoside hydrolase 15-related protein	3.2.1.205	isomaltose glucohydrolase
+EcSbgly	3.2.1.206	oleuropein beta-glucosidase
+beta-glucosidase	3.2.1.206	oleuropein beta-glucosidase
+beta-D-glucoside glucohydrolase	3.2.1.206	oleuropein beta-glucosidase
+beta-glu	3.2.1.206	oleuropein beta-glucosidase
+oleuropein-beta-glucosidase	3.2.1.206	oleuropein beta-glucosidase
+oleuropein-specific-beta-glucosidase	3.2.1.206	oleuropein beta-glucosidase
+soluble beta-glucosidase	3.2.1.206	oleuropein beta-glucosidase
+oleuropein-specific beta-glucosidase	3.2.1.206	oleuropein beta-glucosidase
+oleuropein-degradative-beta-glucosidase	3.2.1.206	oleuropein beta-glucosidase
+gene name	3.2.1.206	oleuropein beta-glucosidase
+oleuropein-degrading-beta-glucosidase	3.2.1.206	oleuropein beta-glucosidase
+gene name	3.2.1.206	oleuropein beta-glucosidase
+bgl3a	3.2.1.206	oleuropein beta-glucosidase
+oleuropein beta-glucosidase	3.2.1.206	oleuropein beta-glucosidase
+GANAB	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+PRKCSH	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+GII	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+type II-like alpha-glucosidase	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+alpha glucosidase II	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+beta subunit of alpha glucosidase II	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+plant glucosidase	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+CWH41	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+HGBase II	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+GLS2	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+gene name	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+ROT2	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+ER glucosidase II	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+alpha-glucosidase II	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+Mal1	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+ModA	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+G-II	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+endoplasmic reticulum glucosidase II	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+trimming glucosidase II	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+glucosidase II	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+subunit of glucosidase II required for glycoproteinprocessing in the endoplasmic reticulum	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
+glucosidase II beta-subunit	3.2.1.207	mannosyl-oligosaccharide alpha-1,3-glucosidase
 beta-glucoside hydrolase	3.2.1.21	beta-glucosidase
 arbutinase	3.2.1.21	beta-glucosidase
 vicianase	3.2.1.21	beta-glucosidase
@@ -1868,14 +1925,14 @@ salicilinase	3.2.1.21	beta-glucosidase
 beta-1,6-glucosidase	3.2.1.21	beta-glucosidase
 T-cell inhibitor	3.2.1.21	beta-glucosidase
 SA-bglu	3.2.1.21	beta-glucosidase
+BG1	3.2.1.21	beta-glucosidase
+T1	3.2.1.21	beta-glucosidase
 salicinase	3.2.1.21	beta-glucosidase
 ZmGlu1	3.2.1.21	beta-glucosidase
 Glu1	3.2.1.21	beta-glucosidase
-BG1	3.2.1.21	beta-glucosidase
-T1	3.2.1.21	beta-glucosidase
+ginsenoside-hydrolyzing beta-D-glucosidase	3.2.1.21	beta-glucosidase
 ICHG	3.2.1.21	beta-glucosidase
 belongs to glycosyl hydrolase family 3, GH3	3.2.1.21	beta-glucosidase
-ginsenoside-hydrolyzing beta-D-glucosidase	3.2.1.21	beta-glucosidase
 dalcochinase	3.2.1.21	beta-glucosidase
 1,4-beta-glucosidase	3.2.1.21	beta-glucosidase
 PGI	3.2.1.21	beta-glucosidase
@@ -1883,10 +1940,10 @@ PGII	3.2.1.21	beta-glucosidase
 beta-glucosidase II	3.2.1.21	beta-glucosidase
 BglII	3.2.1.21	beta-glucosidase
 BglI	3.2.1.21	beta-glucosidase
-BGLPf	3.2.1.21	beta-glucosidase
 aryl-beta-D-glucosidase	3.2.1.21	beta-glucosidase
 beta-glucosidase C	3.2.1.21	beta-glucosidase
 CGHII	3.2.1.21	beta-glucosidase
+BGLPf	3.2.1.21	beta-glucosidase
 isoform	3.2.1.21	beta-glucosidase
 BGX1	3.2.1.21	beta-glucosidase
 Cel3A	3.2.1.21	beta-glucosidase
@@ -1902,21 +1959,14 @@ iridoid beta-glucoside	3.2.1.21	beta-glucosidase
 aryl beta-glucosidase	3.2.1.21	beta-glucosidase
 BGL1A	3.2.1.21	beta-glucosidase
 BGL1B	3.2.1.21	beta-glucosidase
-hCBG	3.2.1.21	beta-glucosidase
-reCBG	3.2.1.21	beta-glucosidase
-isoform	3.2.1.21	beta-glucosidase
-isoform	3.2.1.21	beta-glucosidase
-isoform	3.2.1.21	beta-glucosidase
-CBG	3.2.1.21	beta-glucosidase
-the enzyme belongs to the glycosyl hydrolasefamily 3	3.2.1.21	beta-glucosidase
 esculinase	3.2.1.21	beta-glucosidase
 ZM-p60.1	3.2.1.21	beta-glucosidase
 KLrP	3.2.1.21	beta-glucosidase
 Klotho-related protein	3.2.1.21	beta-glucosidase
+GH3 beta-glucosidase	3.2.1.21	beta-glucosidase
 LjBGD2	3.2.1.21	beta-glucosidase
 LjBGD4	3.2.1.21	beta-glucosidase
 LjBGD7	3.2.1.21	beta-glucosidase
-GH3 beta-glucosidase	3.2.1.21	beta-glucosidase
 Umbgl3B	3.2.1.21	beta-glucosidase
 3BGlu6	3.2.1.21	beta-glucosidase
 beta-glucosidase 6	3.2.1.21	beta-glucosidase
@@ -1932,21 +1982,37 @@ BGLU23	3.2.1.21	beta-glucosidase
 SSO3039	3.2.1.21	beta-glucosidase
 bifunctional exo-beta-glucosidase/N-acetyl-beta-glucosaminidase	3.2.1.21	beta-glucosidase
 locus name	3.2.1.21	beta-glucosidase
-beta-D-glucosidase	3.2.1.21	beta-glucosidase
 Tpbgl	3.2.1.21	beta-glucosidase
 locus name	3.2.1.21	beta-glucosidase
-BglB	3.2.1.21	beta-glucosidase
-beta-glucosidase B	3.2.1.21	beta-glucosidase
-gene name	3.2.1.21	beta-glucosidase
+beta-D-glucosidase	3.2.1.21	beta-glucosidase
 gene name	3.2.1.21	beta-glucosidase
 lactase	3.2.1.21	beta-glucosidase
 beta-GLYPI	3.2.1.21	beta-glucosidase
+BglB	3.2.1.21	beta-glucosidase
+beta-glucosidase B	3.2.1.21	beta-glucosidase
+gene name	3.2.1.21	beta-glucosidase
 BglT	3.2.1.21	beta-glucosidase
 BGA	3.2.1.21	beta-glucosidase
 HiBgl3A	3.2.1.21	beta-glucosidase
 HiBgl3B	3.2.1.21	beta-glucosidase
 HiBgl3C	3.2.1.21	beta-glucosidase
 Bglu3B	3.2.1.21	beta-glucosidase
+Bglhi	3.2.1.21	beta-glucosidase
+bgl3a	3.2.1.21	beta-glucosidase
+hCBG	3.2.1.21	beta-glucosidase
+reCBG	3.2.1.21	beta-glucosidase
+isoform	3.2.1.21	beta-glucosidase
+isoform	3.2.1.21	beta-glucosidase
+isoform	3.2.1.21	beta-glucosidase
+CBG	3.2.1.21	beta-glucosidase
+the enzyme belongs to the glycosyl hydrolasefamily 3	3.2.1.21	beta-glucosidase
+Td2F2	3.2.1.21	beta-glucosidase
+gene name	3.2.1.21	beta-glucosidase
+gene name	3.2.1.21	beta-glucosidase
+gene name	3.2.1.21	beta-glucosidase
+Gh3-4	3.2.1.21	beta-glucosidase
+gene name	3.2.1.21	beta-glucosidase
+BglP	3.2.1.21	beta-glucosidase
 dhurrinase-1	3.2.1.21	beta-glucosidase
 Dhr1	3.2.1.21	beta-glucosidase
 SbDhr1	3.2.1.21	beta-glucosidase
@@ -1962,21 +2028,20 @@ CelB	3.2.1.21	beta-glucosidase
 a specific beta-glucosidase hydrolyzing tuberonic acid beta-D-glucose	3.2.1.21	beta-glucosidase
 tuberonic acid glucoside beta-glucosidase	3.2.1.21	beta-glucosidase
 OsTAGG1 and OsTAGG2, detected by CM-Sepharosechromatography, at least two isoforms in rice panicles	3.2.1.21	beta-glucosidase
-betaG	3.2.1.21	beta-glucosidase
 linamarase	3.2.1.21	beta-glucosidase
 HGT-BG	3.2.1.21	beta-glucosidase
 BG	3.2.1.21	beta-glucosidase
 piceid-beta-D-glucosidase	3.2.1.21	beta-glucosidase
 beta-glucosidase 1	3.2.1.21	beta-glucosidase
-isoform	3.2.1.21	beta-glucosidase
-beta-Glcase	3.2.1.21	beta-glucosidase
+betaG	3.2.1.21	beta-glucosidase
 beta-glu1	3.2.1.21	beta-glucosidase
 beta-glu2	3.2.1.21	beta-glucosidase
 beta-Glu x	3.2.1.21	beta-glucosidase
 beta-glucosidase I	3.2.1.21	beta-glucosidase
-Glu1b	3.2.1.21	beta-glucosidase
+beta-Glcase	3.2.1.21	beta-glucosidase
 linustatinase	3.2.1.21	beta-glucosidase
 cyanogenic beta-glucosidase	3.2.1.21	beta-glucosidase
+Glu1b	3.2.1.21	beta-glucosidase
 betagly	3.2.1.21	beta-glucosidase
 BglC	3.2.1.21	beta-glucosidase
 J1	3.2.1.21	beta-glucosidase
@@ -1987,6 +2052,7 @@ commercial preparation	3.2.1.21	beta-glucosidase
 A1	3.2.1.21	beta-glucosidase
 beta-D-glucosideglucohydrolase	3.2.1.21	beta-glucosidase
 Bgl	3.2.1.21	beta-glucosidase
+isoform	3.2.1.21	beta-glucosidase
 cellobiase	3.2.1.21	beta-glucosidase
 DV-BG	3.2.1.21	beta-glucosidase
 F1	3.2.1.21	beta-glucosidase
@@ -2016,6 +2082,8 @@ gene name	3.2.1.22	alpha-galactosidase
 1,6-alpha-D-galactoside galactohydrolase	3.2.1.22	alpha-galactosidase
 isoform	3.2.1.22	alpha-galactosidase
 isoform	3.2.1.22	alpha-galactosidase
+AgaI	3.2.1.22	alpha-galactosidase
+Gal36	3.2.1.22	alpha-galactosidase
 ATSIP2	3.2.1.22	alpha-galactosidase
 alkaline alpha-gal form 1	3.2.1.22	alpha-galactosidase
 alkaline alpha-galactosidase form 1	3.2.1.22	alpha-galactosidase
@@ -2111,6 +2179,11 @@ locus name	3.2.1.23	beta-galactosidase
 BgaH	3.2.1.23	beta-galactosidase
 locus name	3.2.1.23	beta-galactosidase
 gene name	3.2.1.23	beta-galactosidase
+Gal4	3.2.1.23	beta-galactosidase
+BgAP	3.2.1.23	beta-galactosidase
+GAL1	3.2.1.23	beta-galactosidase
+Gal2	3.2.1.23	beta-galactosidase
+Gal3	3.2.1.23	beta-galactosidase
 SPD_0065 protein	3.2.1.23	beta-galactosidase
 beta-gal	3.2.1.23	beta-galactosidase
 betaGly4	3.2.1.23	beta-galactosidase
@@ -2223,6 +2296,7 @@ Sucrose-6-phosphate hydrolase	3.2.1.26	beta-fructofuranosidase
 INVA and chimeric fusionenzyme INVA-CBD	3.2.1.26	beta-fructofuranosidase
 Inv-CW	3.2.1.26	beta-fructofuranosidase
 INAC-INV	3.2.1.26	beta-fructofuranosidase
+INV1p	3.2.1.26	beta-fructofuranosidase
 Allium cepa invertase	3.2.1.26	beta-fructofuranosidase
 OsCIN2	3.2.1.26	beta-fructofuranosidase
 OsCIN3	3.2.1.26	beta-fructofuranosidase
@@ -2306,7 +2380,6 @@ lbbetafruct2	3.2.1.26	beta-fructofuranosidase
 lbbetafruct3	3.2.1.26	beta-fructofuranosidase
 alkaline invertase	3.2.1.26	beta-fructofuranosidase
 shows also transfructosylation activity of 20 to 30% oftotal activity at sucrose concentrations up to 400 mM	3.2.1.26	beta-fructofuranosidase
-INV1p	3.2.1.26	beta-fructofuranosidase
 alpha,alpha'-trehalose 1-D-glucohydrolase	3.2.1.28	alpha,alpha-trehalase
 Alpha,alpha-trehalase	3.2.1.28	alpha,alpha-trehalase
 acid trehalase	3.2.1.28	alpha,alpha-trehalase
@@ -2357,7 +2430,6 @@ lysosomal alpha-glucosidase	3.2.1.3	glucan 1,4-alpha-glucosidase
 glucose amylase	3.2.1.3	glucan 1,4-alpha-glucosidase
 acid maltase	3.2.1.3	glucan 1,4-alpha-glucosidase
 GAI	3.2.1.3	glucan 1,4-alpha-glucosidase
-GAII	3.2.1.3	glucan 1,4-alpha-glucosidase
 Meiotic expression upregulated protein 17	3.2.1.3	glucan 1,4-alpha-glucosidase
 tGA	3.2.1.3	glucan 1,4-alpha-glucosidase
 TtcGA	3.2.1.3	glucan 1,4-alpha-glucosidase
@@ -2384,6 +2456,7 @@ glucoamylase D	3.2.1.3	glucan 1,4-alpha-glucosidase
 Sta1	3.2.1.3	glucan 1,4-alpha-glucosidase
 GlaA	3.2.1.3	glucan 1,4-alpha-glucosidase
 exo-1,4-alpha-D-glucanohydrolase	3.2.1.3	glucan 1,4-alpha-glucosidase
+GAII	3.2.1.3	glucan 1,4-alpha-glucosidase
 Sta1p	3.2.1.3	glucan 1,4-alpha-glucosidase
 GA	3.2.1.3	glucan 1,4-alpha-glucosidase
 gamma-amylase	3.2.1.3	glucan 1,4-alpha-glucosidase
@@ -2403,6 +2476,7 @@ glucoamylase starch binding domain	3.2.1.3	glucan 1,4-alpha-glucosidase
 SSG	3.2.1.3	glucan 1,4-alpha-glucosidase
 exo-1,4-alpha-D-glucan glucanohydrolase	3.2.1.3	glucan 1,4-alpha-glucosidase
 TagA	3.2.1.3	glucan 1,4-alpha-glucosidase
+Gla1	3.2.1.3	glucan 1,4-alpha-glucosidase
 Glu1	3.2.1.3	glucan 1,4-alpha-glucosidase
 Glu-A	3.2.1.3	glucan 1,4-alpha-glucosidase
 Glucan 1,4-alpha-glucosidase	3.2.1.3	glucan 1,4-alpha-glucosidase
@@ -2572,6 +2646,12 @@ exo-1,4-beta-xylosidase	3.2.1.37	xylan 1,4-beta-xylosidase
 beta-D-xylopyranosidase	3.2.1.37	xylan 1,4-beta-xylosidase
 1,4-beta-D-xylan xylohydrolase	3.2.1.37	xylan 1,4-beta-xylosidase
 Exo-beta-(1,4)-xylanase	3.2.1.37	xylan 1,4-beta-xylosidase
+gene name	3.2.1.37	xylan 1,4-beta-xylosidase
+beta-1,4-xylosidase	3.2.1.37	xylan 1,4-beta-xylosidase
+X12345	3.2.1.37	xylan 1,4-beta-xylosidase
+gene name	3.2.1.37	xylan 1,4-beta-xylosidase
+beta-xylosidase	3.2.1.37	xylan 1,4-beta-xylosidase
+gene name	3.2.1.37	xylan 1,4-beta-xylosidase
 beta-xylosidase A	3.2.1.37	xylan 1,4-beta-xylosidase
 beta-xylosidase B	3.2.1.37	xylan 1,4-beta-xylosidase
 xylosidase	3.2.1.37	xylan 1,4-beta-xylosidase
@@ -2582,8 +2662,8 @@ recombinant isoform	3.2.1.37	xylan 1,4-beta-xylosidase
 alpha-L-arabinofuranosidase	3.2.1.37	xylan 1,4-beta-xylosidase
 beta-D-xyloside xylohydrolase	3.2.1.37	xylan 1,4-beta-xylosidase
 betaXTR	3.2.1.37	xylan 1,4-beta-xylosidase
-beta-xylosidase	3.2.1.37	xylan 1,4-beta-xylosidase
 cf. EC 3.2.1.55, alpha-L-arabinofuranosidase	3.2.1.37	xylan 1,4-beta-xylosidase
+gene name	3.2.1.37	xylan 1,4-beta-xylosidase
 beta-D-xylosidase/alpha-L-arabinofuranosidase	3.2.1.37	xylan 1,4-beta-xylosidase
 RuXyn1	3.2.1.37	xylan 1,4-beta-xylosidase
 beta-D-xylosidase	3.2.1.37	xylan 1,4-beta-xylosidase
@@ -2593,9 +2673,9 @@ beta-xylosidase-3	3.2.1.37	xylan 1,4-beta-xylosidase
 beta-xylosidase-4	3.2.1.37	xylan 1,4-beta-xylosidase
 Xyl I	3.2.1.37	xylan 1,4-beta-xylosidase
 betaXTE	3.2.1.37	xylan 1,4-beta-xylosidase
-BlxA	3.2.1.37	xylan 1,4-beta-xylosidase
 soluble form	3.2.1.37	xylan 1,4-beta-xylosidase
 immobilized on silica or alumina	3.2.1.37	xylan 1,4-beta-xylosidase
+BlxA	3.2.1.37	xylan 1,4-beta-xylosidase
 xylanase	3.2.1.37	xylan 1,4-beta-xylosidase
 XynB3	3.2.1.37	xylan 1,4-beta-xylosidase
 XYL1	3.2.1.37	xylan 1,4-beta-xylosidase
@@ -2604,8 +2684,10 @@ XYL4	3.2.1.37	xylan 1,4-beta-xylosidase
 alpha-arabinofuranosidase/beta-xylosidase	3.2.1.37	xylan 1,4-beta-xylosidase
 Bxl1	3.2.1.37	xylan 1,4-beta-xylosidase
 Xylan 1,4-beta-xylosidase	3.2.1.37	xylan 1,4-beta-xylosidase
+Axy43A	3.2.1.37	xylan 1,4-beta-xylosidase
 XylB	3.2.1.37	xylan 1,4-beta-xylosidase
 Xyl3A	3.2.1.37	xylan 1,4-beta-xylosidase
+Xyl	3.2.1.37	xylan 1,4-beta-xylosidase
 XylC	3.2.1.37	xylan 1,4-beta-xylosidase
 alpha-L-arabinofuranoside arabinofuranohydrolase	3.2.1.37	xylan 1,4-beta-xylosidase
 bifunctional enzyme having bothalpha-L-arabinofuranosidase and xylobiohydrolase functionalities	3.2.1.37	xylan 1,4-beta-xylosidase
@@ -2620,6 +2702,8 @@ locus name	3.2.1.37	xylan 1,4-beta-xylosidase
 1.4-beta-D-xylanase, exo-type	3.2.1.37	xylan 1,4-beta-xylosidase
 XynB	3.2.1.37	xylan 1,4-beta-xylosidase
 GH43B6	3.2.1.37	xylan 1,4-beta-xylosidase
+Xyl5	3.2.1.37	xylan 1,4-beta-xylosidase
+Bxyl	3.2.1.37	xylan 1,4-beta-xylosidase
 beta-D-fucoside fucohydrolase	3.2.1.38	beta-D-fucosidase
 cf. EC 3.2.1.22, beta-galactosidase	3.2.1.38	beta-D-fucosidase
 beta-fucosidase	3.2.1.38	beta-D-fucosidase
@@ -2685,18 +2769,20 @@ glucan endo-1,3-beta-glucosidase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 isoform	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 endo-beta-1,3-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Eng2 protein	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
-PfLamA	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+BglS27	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+HdLam33	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+endo-1,3;4-beta-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 SLam	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 LAM	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 ZgLamA	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 GH family 81 beta-1,3-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+PfLamA	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 acidic endo-beta-1,3-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 EGase1	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 EGase2	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
-soluble enzyme form lacking the C-terminalconsensus sequence for GPI anchoring and showing glycosidase activityon laminarin	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
-soluble enzyme form lacking the C-terminalconsensus sequence for GPI anchoring and showing glycosidase activityon laminarin	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 EGase3	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Fra e 9.01 allergen	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
@@ -2704,11 +2790,22 @@ Rv0315	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 eng1	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Engl1	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Eng	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+soluble enzyme form lacking the C-terminalconsensus sequence for GPI anchoring and showing glycosidase activityon laminarin	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+soluble enzyme form lacking the C-terminalconsensus sequence for GPI anchoring and showing glycosidase activityon laminarin	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+Bgl	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+endo-beta-1,3(4)-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+Bgl64A	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 two different forms, glucanase Iand glucanase II	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 beta-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Lam81A is a single domain family81 beta-1,3-endoglucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Eng2	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+endo-beta-1,3-D-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+Bglu50A	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+endo-type beta-1,3-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+GLUD2	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+Gfa	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Glu1	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 beta-(1-3)-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 GluA	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
@@ -2729,10 +2826,12 @@ Lam81A	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 1,3-beta-D-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 EngA	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+E158A mutant of family 17beta-1,3-glucanosyltransferase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 exo-beta-1,3-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 1,3-beta-glucanase I	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Ban-Gluc	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 1,3-beta-glucan hydrolase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+GLU	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 beta-1,3-glucanase I	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 (1-3)-beta-glucanase GI	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 three isoforms, GI, GII and GIII	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
@@ -2744,23 +2843,22 @@ BglF	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Lic16A	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Gbl2a	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Gbl2b	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+two isoforms, pH 8.7 and pH 10.5glucanases	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Gbl2c	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Gbl2d	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Gbl2e	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
-two isoforms, pH 8.7 and pH 10.5glucanases	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 Gbl2f	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 OsGlu1	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 BglII	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
+gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 1,3-beta-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 gene name	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 AkLam36	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 PCEng2p	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 TLam	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
-BglS27	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
-HdLam33	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
-endo-1,3;4-beta-glucanase	3.2.1.39	glucan endo-1,3-beta-D-glucosidase
 carboxymethylcellulase	3.2.1.4	cellulase
 beta-1,4-endoglucan hydrolase	3.2.1.4	cellulase
 celluase A	3.2.1.4	cellulase
@@ -2782,7 +2880,6 @@ Cellulase E5	3.2.1.4	cellulase
 Cellulase SS	3.2.1.4	cellulase
 Cellulase V1	3.2.1.4	cellulase
 CX-cellulase	3.2.1.4	cellulase
-EG2	3.2.1.4	cellulase
 EG3	3.2.1.4	cellulase
 EGA	3.2.1.4	cellulase
 EGB	3.2.1.4	cellulase
@@ -2807,6 +2904,12 @@ Endocellulase E1	3.2.1.4	cellulase
 FI-CMCASE	3.2.1.4	cellulase
 Thermoactive cellulase	3.2.1.4	cellulase
 AtCel5	3.2.1.4	cellulase
+Cel8Y	3.2.1.4	cellulase
+endocellulases I	3.2.1.4	cellulase
+endocellulases II	3.2.1.4	cellulase
+endocellulases III	3.2.1.4	cellulase
+endocellulases IV	3.2.1.4	cellulase
+(1->4)-beta-D-glucan 4-glucanohydrolase	3.2.1.4	cellulase
 Endoglucanase	3.2.1.4	cellulase
 GH9 termite cellulase	3.2.1.4	cellulase
 CelG endoglucanase	3.2.1.4	cellulase
@@ -2817,8 +2920,8 @@ endoglucanase 35	3.2.1.4	cellulase
 EG47	3.2.1.4	cellulase
 CelE	3.2.1.4	cellulase
 gene name	3.2.1.4	cellulase
-EgV	3.2.1.4	cellulase
 endoglucanase V	3.2.1.4	cellulase
+EgV	3.2.1.4	cellulase
 cellulase EGX	3.2.1.4	cellulase
 endo-beta-1,4-glucanase EG45	3.2.1.4	cellulase
 endo-beta-1,4-glucanase EG27	3.2.1.4	cellulase
@@ -2826,6 +2929,8 @@ avicelase	3.2.1.4	cellulase
 carbomethyl cellulase	3.2.1.4	cellulase
 PttCel9A	3.2.1.4	cellulase
 Alkaline cellulase	3.2.1.4	cellulase
+RCE1	3.2.1.4	cellulase
+RCE2	3.2.1.4	cellulase
 EG25	3.2.1.4	cellulase
 endoglucanase EG25	3.2.1.4	cellulase
 EG28	3.2.1.4	cellulase
@@ -2842,22 +2947,18 @@ Cel9A is secreted as a 90400 Da protein. Limitedproteolysis of Cel9A produces Ce
 Cel9A is secreted as a 90400 Da protein. Limitedproteolysis of Cel9A produces Cel9A-68	3.2.1.4	cellulase
 endoglucanase Cel5A	3.2.1.4	cellulase
 Lp-egl-1	3.2.1.4	cellulase
-RCE1	3.2.1.4	cellulase
-RCE2	3.2.1.4	cellulase
+cellulase K	3.2.1.4	cellulase
+endo-glucanase	3.2.1.4	cellulase
+Carboxymethyl cellulase	3.2.1.4	cellulase
+beta-1,4-endoglucanase	3.2.1.4	cellulase
 Ag-EGase III	3.2.1.4	cellulase
 cellulase III	3.2.1.4	cellulase
 CMCase-I	3.2.1.4	cellulase
 ThEG	3.2.1.4	cellulase
 E1 endoglucanase	3.2.1.4	cellulase
-Cel8A	3.2.1.4	cellulase
 cellulase Xf818	3.2.1.4	cellulase
-celS	3.2.1.4	cellulase
 SSO2534	3.2.1.4	cellulase
 umcel5G	3.2.1.4	cellulase
-cellulase K	3.2.1.4	cellulase
-endo-glucanase	3.2.1.4	cellulase
-Carboxymethyl cellulase	3.2.1.4	cellulase
-beta-1,4-endoglucanase	3.2.1.4	cellulase
 EngH	3.2.1.4	cellulase
 endoglucanase H	3.2.1.4	cellulase
 endoglucanase L	3.2.1.4	cellulase
@@ -2870,6 +2971,12 @@ endoglucanase CBP105	3.2.1.4	cellulase
 Bx-ENG-2	3.2.1.4	cellulase
 Bx-ENG-3	3.2.1.4	cellulase
 Bx-ENG-1	3.2.1.4	cellulase
+Cel1 EGase	3.2.1.4	cellulase
+EGase	3.2.1.4	cellulase
+Sl-cel7	3.2.1.4	cellulase
+Sl-cel9C1	3.2.1.4	cellulase
+CEL7	3.2.1.4	cellulase
+CEL9C1	3.2.1.4	cellulase
 endogenous beta-1,4-endoglucanase	3.2.1.4	cellulase
 TeEG-I	3.2.1.4	cellulase
 CjCel9A	3.2.1.4	cellulase
@@ -2887,12 +2994,9 @@ endo-beta-1,4-glucanase 1	3.2.1.4	cellulase
 endo-beta-1,4-glucanase 2	3.2.1.4	cellulase
 endo-1,4-beta-glucanase 1	3.2.1.4	cellulase
 endo-1,4-beta-glucanase 2	3.2.1.4	cellulase
-Cel1 EGase	3.2.1.4	cellulase
-EGase	3.2.1.4	cellulase
-Sl-cel7	3.2.1.4	cellulase
-Sl-cel9C1	3.2.1.4	cellulase
-CEL7	3.2.1.4	cellulase
-CEL9C1	3.2.1.4	cellulase
+CcCel6C	3.2.1.4	cellulase
+cellobiohydrolase	3.2.1.4	cellulase
+cellulase A is an invertingglycoside hydrolase and a member of family 6 of the CAZy databaseclassification system	3.2.1.4	cellulase
 CelDR	3.2.1.4	cellulase
 PaPopCel1	3.2.1.4	cellulase
 is essential for primary symbioticinfection of legume host roots	3.2.1.4	cellulase
@@ -2903,9 +3007,11 @@ thermostable carboxymethyl cellulase	3.2.1.4	cellulase
 CSCMCase	3.2.1.4	cellulase
 CyPB	3.2.1.4	cellulase
 STCE1	3.2.1.4	cellulase
-CcCel6C	3.2.1.4	cellulase
-cellobiohydrolase	3.2.1.4	cellulase
-cellulase A is an invertingglycoside hydrolase and a member of family 6 of the CAZy databaseclassification system	3.2.1.4	cellulase
+Egl499	3.2.1.4	cellulase
+CMCase	3.2.1.4	cellulase
+endo-beta-1,4-glucanase	3.2.1.4	cellulase
+Cellulase	3.2.1.4	cellulase
+Cel5A	3.2.1.4	cellulase
 CelI15	3.2.1.4	cellulase
 CelL15	3.2.1.4	cellulase
 CelL73	3.2.1.4	cellulase
@@ -2917,47 +3023,67 @@ cellulase 12A	3.2.1.4	cellulase
 CelA	3.2.1.4	cellulase
 beta-1,4-glucanase	3.2.1.4	cellulase
 EGPh	3.2.1.4	cellulase
-locus name	3.2.1.4	cellulase
+gene name	3.2.1.4	cellulase
 EfPh	3.2.1.4	cellulase
-Egl499	3.2.1.4	cellulase
-CMCase	3.2.1.4	cellulase
-endo-beta-1,4-glucanase	3.2.1.4	cellulase
-Cellulase	3.2.1.4	cellulase
-Cel5A	3.2.1.4	cellulase
 CelF	3.2.1.4	cellulase
 gene name	3.2.1.4	cellulase
 EGPf	3.2.1.4	cellulase
 gene name	3.2.1.4	cellulase
-locus name	3.2.1.4	cellulase
+gene name	3.2.1.4	cellulase
+EGL	3.2.1.4	cellulase
+Egl-257	3.2.1.4	cellulase
 Egl1	3.2.1.4	cellulase
 EngA	3.2.1.4	cellulase
 EGase II	3.2.1.4	cellulase
 Egl5a	3.2.1.4	cellulase
-ENDO2	3.2.1.4	cellulase
 endo-beta-D-1,4-glucanohydrolase	3.2.1.4	cellulase
 ENDO1	3.2.1.4	cellulase
 gene name	3.2.1.4	cellulase
 CelB	3.2.1.4	cellulase
-Egl-257	3.2.1.4	cellulase
 Cel1753	3.2.1.4	cellulase
 EngZ	3.2.1.4	cellulase
 gene name	3.2.1.4	cellulase
 gene name	3.2.1.4	cellulase
+Cel5	3.2.1.4	cellulase
 Cel6C	3.2.1.4	cellulase
 EglS	3.2.1.4	cellulase
 gene name	3.2.1.4	cellulase
 endoglucanase EG-I	3.2.1.4	cellulase
-Cel5	3.2.1.4	cellulase
+EGL 1	3.2.1.4	cellulase
 gene name	3.2.1.4	cellulase
 umcel9y-1	3.2.1.4	cellulase
 celVA	3.2.1.4	cellulase
-EGL 1	3.2.1.4	cellulase
 gene name, consists of a family 1 CBM and acatalytic domain of glycosyl hydrolase family 6 cellobiohydrolases	3.2.1.4	cellulase
-gene name, contains a catalytic domain of family 45endoglucanases	3.2.1.4	cellulase
 CMCax	3.2.1.4	cellulase
 AEG	3.2.1.4	cellulase
 endo-beta-1,4-glucanase CMCax	3.2.1.4	cellulase
+gene name, contains a catalytic domain of family 45endoglucanases	3.2.1.4	cellulase
+celS	3.2.1.4	cellulase
+manganese dependent endoglucanase	3.2.1.4	cellulase
+EG2	3.2.1.4	cellulase
+Cel8M	3.2.1.4	cellulase
+BcsZ	3.2.1.4	cellulase
+engXCA	3.2.1.4	cellulase
+gene name	3.2.1.4	cellulase
+gene name	3.2.1.4	cellulase
+CelP	3.2.1.4	cellulase
+CTendo45	3.2.1.4	cellulase
+gene name	3.2.1.4	cellulase
+BC-EG70a	3.2.1.4	cellulase
+EG271	3.2.1.4	cellulase
+Cel28a	3.2.1.4	cellulase
+Glu1	3.2.1.4	cellulase
+Glu2	3.2.1.4	cellulase
+Cel9K	3.2.1.4	cellulase
+EglC	3.2.1.4	cellulase
+Cel8	3.2.1.4	cellulase
+EGII	3.2.1.4	cellulase
+locus name	3.2.1.4	cellulase
+cel5B	3.2.1.4	cellulase
+locus name	3.2.1.4	cellulase
+gene name	3.2.1.4	cellulase
 Cel12A	3.2.1.4	cellulase
+ENDO2	3.2.1.4	cellulase
 Meicelase	3.2.1.4	cellulase
 CBHI	3.2.1.4	cellulase
 SnEG54	3.2.1.4	cellulase
@@ -2975,7 +3101,6 @@ Caylase	3.2.1.4	cellulase
 Roth 3056	3.2.1.4	cellulase
 Celluclast	3.2.1.4	cellulase
 EGIV	3.2.1.4	cellulase
-CBHII	3.2.1.4	cellulase
 endoglucanase Cel 7B	3.2.1.4	cellulase
 endoglucanase Cel 5A	3.2.1.4	cellulase
 endoglucanase Cel 12A	3.2.1.4	cellulase
@@ -2986,9 +3111,10 @@ family 7 cellobiohydrolase	3.2.1.4	cellulase
 EG I	3.2.1.4	cellulase
 EG III	3.2.1.4	cellulase
 endoglucanase 1	3.2.1.4	cellulase
-EG1	3.2.1.4	cellulase
 Cel7A	3.2.1.4	cellulase
 Cel7B	3.2.1.4	cellulase
+CBHII	3.2.1.4	cellulase
+EG1	3.2.1.4	cellulase
 Cel6A	3.2.1.4	cellulase
 Cel6A (E2)	3.2.1.4	cellulase
 Cel48A	3.2.1.4	cellulase
@@ -3003,6 +3129,7 @@ endo-1,4-beta-D-glucanase	3.2.1.4	cellulase
 cellulases I	3.2.1.4	cellulase
 cellulase II	3.2.1.4	cellulase
 cellulases III	3.2.1.4	cellulase
+EGII/Cel5A	3.2.1.4	cellulase
 Eg5a	3.2.1.4	cellulase
 Cel9M	3.2.1.4	cellulase
 shortest variant of family 9 cellulaseswhich contains only the catalytic module to interact with the substrate	3.2.1.4	cellulase
@@ -3010,16 +3137,15 @@ cellulase Cel48F	3.2.1.4	cellulase
 cellulase CelE	3.2.1.4	cellulase
 bifunctional multimodular cellulase	3.2.1.4	cellulase
 Cel44A	3.2.1.4	cellulase
+CenC	3.2.1.4	cellulase
+Cel5E	3.2.1.4	cellulase
+Cel8A	3.2.1.4	cellulase
 C4endoII	3.2.1.4	cellulase
+EG12	3.2.1.4	cellulase
 cellulase A	3.2.1.4	cellulase
 CenA	3.2.1.4	cellulase
 CMcellulase	3.2.1.4	cellulase
-Cel8Y	3.2.1.4	cellulase
-endocellulases I	3.2.1.4	cellulase
-endocellulases II	3.2.1.4	cellulase
-endocellulases III	3.2.1.4	cellulase
-endocellulases IV	3.2.1.4	cellulase
-(1->4)-beta-D-glucan 4-glucanohydrolase	3.2.1.4	cellulase
+endoglucanase IIa	3.2.1.4	cellulase
 rhamnosidase, alpha -L-	3.2.1.40	alpha-L-rhamnosidase
 alpha-L-rhamnosidase Ram A	3.2.1.40	alpha-L-rhamnosidase
 alpha-L-rhamnosidase T	3.2.1.40	alpha-L-rhamnosidase
@@ -3399,6 +3525,9 @@ Abf5	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 locus name	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 Abf6	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 locus name	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+exo-arabinanase 43A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+Arb43A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+STX-IV	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AbfATK4	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 ARA-I	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 alpha-L-arabinofuranosidase D3	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
@@ -3409,11 +3538,11 @@ alpha-L-arabinofuranosidase/beta-D-xylosidase	3.2.1.55	non-reducing end alpha-L-
 AkabfA	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 alpha-L-arabinofuranosidase III	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 Abf III	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+XYL3	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AoAra54A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 XynD	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 BsAXH-m2,3	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AraB	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-XYL3	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 Axy43A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 alpha-L-Abfase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 ABF 2	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
@@ -3428,28 +3557,43 @@ AXS5	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AfuB	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 ScAraf62A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 UniProt	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+L213A variant beta-glycosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 PaAbf62A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 UmAbf62A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 TmAFase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 PoAbf	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 CtGH43	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 alpha-L-Araf	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+arabinofuranosidase 43A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+Abf43A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AvAbfB	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 alpha-arabinofuranosidase B	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 gene name	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 gene name	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 GH43B6	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-Abf51A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+isoform	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 locus name	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 locus name	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 gene name	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-AraF43	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 Axh43A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+GH62	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+gene name	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+Axh43B	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+arabinoxylan alpha-L-1,3-arabinofuranohydrolase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+isoform	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+AbF51	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 a glycoside hydrolase family 62alpha-L-arabinofuranosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+Abf62A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+AraF43	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 bifunctional enzyme displaying activity of EC 3.2.1.37 and EC 3.2.1.55	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+ABF1	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+Abf4	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+GH 51 Abf	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 recombinant isoform	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 gene name	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 recombinant isoform	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+AXH	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+arabinoxylan arabinofuranohydrolase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 alpha-L-arabinofuranosidase II	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 Abf II	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 GH51 alpha-L-arabinofuranosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
@@ -3457,14 +3601,10 @@ GH43 alpha-L-arabinofuranosidase	3.2.1.55	non-reducing end alpha-L-arabinofurano
 alpha-AraF	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 beta-D-xylosidase/alpha-L-arabinosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 beta-xylosidase/alpha-arabinosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-AXH	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-arabinoxylan arabinofuranohydrolase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-exo-1,5-alpha-L-arabinanase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 Arfase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 enzyme belongs to family 3 ofglycoside hydrolases	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+exo-1,5-alpha-L-arabinanase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 ARF	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-ABF1	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-Abf4	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 ABF	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AraF	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AkAbfB	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
@@ -3473,13 +3613,16 @@ alpha-L-arabinofuranosidase 54	3.2.1.55	non-reducing end alpha-L-arabinofuranosi
 AkAbf54	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 family 54 alpha-L-arabinofuranosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 GH54 alpha-L-arabinofuranosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-arabinofuranosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+isoform	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+isoform	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 L-arabinofuranosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+arabinofuranosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 arabinoxylan hydrolase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 arabinoxylan alpha-L-arabinofuranohydrolase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 alpha-L-arafase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 exo-alpha-L-arabinanase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 Arb93A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+gene name of multifunctionalbeta-xylosidase/alpha-L-arabinofuranosidase/beta-glucosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 PfABF62a	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 PfABF62b	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 PfABF62c	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
@@ -3490,14 +3633,14 @@ arabinofuranosyl hydrolase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 Araf 51	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 CtCBM6B	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 Ct43Araf	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-Afase I	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-Afase II	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-alpha-L-arabinofuranosidase B	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AFQ	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AFS	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AFS1	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AFQ1	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AF	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+Afase I	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+Afase II	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
+alpha-L-arabinofuranosidase B	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 exo-1,5-alpha-L-arabinofuranosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 Araf43A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 acid arabinosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
@@ -3505,9 +3648,6 @@ alpha-L-arafase I	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 alpha-L-arafase II	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 AbfD3	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 GH51 arabinofuranosidase	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-exo-arabinanase 43A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-Arb43A	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
-STX-IV	3.2.1.55	non-reducing end alpha-L-arabinofuranosidase
 glucuronidase, glucuronosyldisulfoglucosamine	3.2.1.56	glucuronosyl-disulfoglucosamine glucuronidase
 glycuronidase	3.2.1.56	glucuronosyl-disulfoglucosamine glucuronidase
 heparan sulphate glycuronidase	3.2.1.56	glucuronosyl-disulfoglucosamine glucuronidase
@@ -3529,7 +3669,6 @@ Exo-1,3-beta-glucanase I/II	3.2.1.58	glucan 1,3-beta-glucosidase
 Exo-beta 1,3 glucanase	3.2.1.58	glucan 1,3-beta-glucosidase
 GP29	3.2.1.58	glucan 1,3-beta-glucosidase
 ExgA	3.2.1.58	glucan 1,3-beta-glucosidase
-exo-beta-1,3-glucanase	3.2.1.58	glucan 1,3-beta-glucosidase
 EXG2	3.2.1.58	glucan 1,3-beta-glucosidase
 panomycocin	3.2.1.58	glucan 1,3-beta-glucosidase
 glucan (1-->3)-beta-glucosidase	3.2.1.58	glucan 1,3-beta-glucosidase
@@ -3548,6 +3687,7 @@ ExgP	3.2.1.58	glucan 1,3-beta-glucosidase
 Xog1	3.2.1.58	glucan 1,3-beta-glucosidase
 exo-1,3-beta-glucanase	3.2.1.58	glucan 1,3-beta-glucosidase
 Exo1	3.2.1.58	glucan 1,3-beta-glucosidase
+exo-beta-1,3-glucanase	3.2.1.58	glucan 1,3-beta-glucosidase
 Glu1	3.2.1.58	glucan 1,3-beta-glucosidase
 Bglu3B	3.2.1.58	glucan 1,3-beta-glucosidase
 gene name	3.2.1.58	glucan 1,3-beta-glucosidase
@@ -3555,6 +3695,11 @@ BGL1	3.2.1.58	glucan 1,3-beta-glucosidase
 gene name	3.2.1.58	glucan 1,3-beta-glucosidase
 gene name	3.2.1.58	glucan 1,3-beta-glucosidase
 exo-beta-(1,3)-glucanase	3.2.1.58	glucan 1,3-beta-glucosidase
+Lam55	3.2.1.58	glucan 1,3-beta-glucosidase
+laminarinase	3.2.1.58	glucan 1,3-beta-glucosidase
+beta-(1,3)-glucanase	3.2.1.58	glucan 1,3-beta-glucosidase
+gene name	3.2.1.58	glucan 1,3-beta-glucosidase
+beta-(1,3)(1,3)-glucanase	3.2.1.58	glucan 1,3-beta-glucosidase
 beta-1,3-exoglucanase	3.2.1.58	glucan 1,3-beta-glucosidase
 the enzyme belongs to the glycosyl hydrolase family 5,GH5	3.2.1.58	glucan 1,3-beta-glucosidase
 Exg	3.2.1.58	glucan 1,3-beta-glucosidase
@@ -3595,6 +3740,7 @@ TcGlu2	3.2.1.6	endo-1,3(4)-beta-glucanase
 laminarinase II	3.2.1.6	endo-1,3(4)-beta-glucanase
 endo-beta-(1-3)-D-glucanase	3.2.1.6	endo-1,3(4)-beta-glucanase
 1,3-(4)-beta-glucanase (endoglucanase)	3.2.1.6	endo-1,3(4)-beta-glucanase
+LAM	3.2.1.6	endo-1,3(4)-beta-glucanase
 CtLic26A	3.2.1.6	endo-1,3(4)-beta-glucanase
 beta-1,3:1,4 glucanase	3.2.1.6	endo-1,3(4)-beta-glucanase
 endo beta-1,3-glucanase IV	3.2.1.6	endo-1,3(4)-beta-glucanase
@@ -3607,8 +3753,8 @@ endo-1,3-beta-D-glucanase	3.2.1.6	endo-1,3(4)-beta-glucanase
 endo-1,3-1,4-beta-D-glucanase	3.2.1.6	endo-1,3(4)-beta-glucanase
 Lic16A	3.2.1.6	endo-1,3(4)-beta-glucanase
 SsGlc	3.2.1.6	endo-1,3(4)-beta-glucanase
-Lam16A	3.2.1.6	endo-1,3(4)-beta-glucanase
 laminarinase 16A	3.2.1.6	endo-1,3(4)-beta-glucanase
+Lam16A	3.2.1.6	endo-1,3(4)-beta-glucanase
 lamarinase	3.2.1.6	endo-1,3(4)-beta-glucanase
 LamA	3.2.1.6	endo-1,3(4)-beta-glucanase
 AkLam36	3.2.1.6	endo-1,3(4)-beta-glucanase
@@ -3629,12 +3775,16 @@ Eng3	3.2.1.6	endo-1,3(4)-beta-glucanase
 gene name	3.2.1.6	endo-1,3(4)-beta-glucanase
 Eng4	3.2.1.6	endo-1,3(4)-beta-glucanase
 gene name	3.2.1.6	endo-1,3(4)-beta-glucanase
-Eng5	3.2.1.6	endo-1,3(4)-beta-glucanase
-gene name	3.2.1.6	endo-1,3(4)-beta-glucanase
 eng1	3.2.1.6	endo-1,3(4)-beta-glucanase
 beta-glucanase	3.2.1.6	endo-1,3(4)-beta-glucanase
 Eng2	3.2.1.6	endo-1,3(4)-beta-glucanase
 LamR belongs to glycosyl hydrolase family 16	3.2.1.6	endo-1,3(4)-beta-glucanase
+Eng5	3.2.1.6	endo-1,3(4)-beta-glucanase
+gene name	3.2.1.6	endo-1,3(4)-beta-glucanase
+ENG16A	3.2.1.6	endo-1,3(4)-beta-glucanase
+gene name	3.2.1.6	endo-1,3(4)-beta-glucanase
+Cel8A	3.2.1.6	endo-1,3(4)-beta-glucanase
+CelL	3.2.1.6	endo-1,3(4)-beta-glucanase
 laminarinase	3.2.1.6	endo-1,3(4)-beta-glucanase
 beta-D-(1-3)-glucanase	3.2.1.6	endo-1,3(4)-beta-glucanase
 endo-beta-1,3-1,4-D-glucanase	3.2.1.6	endo-1,3(4)-beta-glucanase
@@ -3739,8 +3889,8 @@ PG III	3.2.1.67	galacturan 1,4-alpha-galacturonidase
 polymethylgalacturonase	3.2.1.67	galacturan 1,4-alpha-galacturonidase
 PECI	3.2.1.67	galacturan 1,4-alpha-galacturonidase
 MpPG3	3.2.1.67	galacturan 1,4-alpha-galacturonidase
-PGC2	3.2.1.67	galacturan 1,4-alpha-galacturonidase
 exo-poly alpha galactouronosidase	3.2.1.67	galacturan 1,4-alpha-galacturonidase
+PGC2	3.2.1.67	galacturan 1,4-alpha-galacturonidase
 MpPG1	3.2.1.67	galacturan 1,4-alpha-galacturonidase
 RPG15	3.2.1.67	galacturan 1,4-alpha-galacturonidase
 RPG16	3.2.1.67	galacturan 1,4-alpha-galacturonidase
@@ -3853,14 +4003,15 @@ mHG	3.2.1.73	licheninase
 (1,3)(1,4)-beta-D-glucan-4-glucanohydrolase	3.2.1.73	licheninase
 1,3-1,4-beta-D-glucan-4-glucano hydrolase	3.2.1.73	licheninase
 endo-(1,3)(1,4)-beta-glucanase	3.2.1.73	licheninase
-1,3-1,4-beta-D-glucan 4-glucanohydrolase	3.2.1.73	licheninase
 1,3-1,4-beta-D-glucanase	3.2.1.73	licheninase
+1,3-1,4-beta-D-glucan 4-glucanohydrolase	3.2.1.73	licheninase
 the multifunctional enzyme domain GH44 possesses cellulase, xylanase,and lichenase activities	3.2.1.73	licheninase
 beta-1,3-1,4-glucanase	3.2.1.73	licheninase
 CtLic26A	3.2.1.73	licheninase
 LicKM	3.2.1.73	licheninase
 LicMB	3.2.1.73	licheninase
 endo-beta-1,3;1,4-glucan-D-glycosyl hydrolase	3.2.1.73	licheninase
+Glc16A	3.2.1.73	licheninase
 LicB	3.2.1.73	licheninase
 TC2	3.2.1.73	licheninase
 TC5	3.2.1.73	licheninase
@@ -3880,8 +4031,8 @@ Lic16A	3.2.1.73	licheninase
 Endoglucanase	3.2.1.73	licheninase
 gene name	3.2.1.73	licheninase
 RuCelA, a bifunctionalxylanase/endoglucanase, EC 3.2.1.8 and EC 3.2.1.73	3.2.1.73	licheninase
-Lic8H	3.2.1.73	licheninase
 Blc8H	3.2.1.73	licheninase
+Lic8H	3.2.1.73	licheninase
 gene name	3.2.1.73	licheninase
 beta-glucanase	3.2.1.73	licheninase
 gene name	3.2.1.73	licheninase
@@ -3900,6 +4051,13 @@ Gluc5_26A	3.2.1.73	licheninase
 Cel5F	3.2.1.73	licheninase
 EII	3.2.1.73	licheninase
 lichenase-2	3.2.1.73	licheninase
+BglTO	3.2.1.73	licheninase
+BGlc8H	3.2.1.73	licheninase
+Gcs2	3.2.1.73	licheninase
+GyrA	3.2.1.73	licheninase
+BLB369	3.2.1.73	licheninase
+BglT	3.2.1.73	licheninase
+Bglu16A	3.2.1.73	licheninase
 H(A16-M)	3.2.1.73	licheninase
 Bg1314	3.2.1.73	licheninase
 EG1	3.2.1.73	licheninase
@@ -3914,6 +4072,7 @@ Cel9A	3.2.1.74	glucan 1,4-beta-glucosidase
 endo/exocellulase	3.2.1.74	glucan 1,4-beta-glucosidase
 cellobiase	3.2.1.74	glucan 1,4-beta-glucosidase
 beta-1,4-glucosidase	3.2.1.74	glucan 1,4-beta-glucosidase
+Bgl	3.2.1.74	glucan 1,4-beta-glucosidase
 exo-beta-1,4-glucanase	3.2.1.74	glucan 1,4-beta-glucosidase
 exocellulase I	3.2.1.74	glucan 1,4-beta-glucosidase
 native enzyme	3.2.1.74	glucan 1,4-beta-glucosidase
@@ -3938,7 +4097,6 @@ Cel9D	3.2.1.74	glucan 1,4-beta-glucosidase
 1,4-beta-D-glucan glucohydrolase	3.2.1.74	glucan 1,4-beta-glucosidase
 family 9 glycoside hydrolase	3.2.1.74	glucan 1,4-beta-glucosidase
 GH9	3.2.1.74	glucan 1,4-beta-glucosidase
-Bgl	3.2.1.74	glucan 1,4-beta-glucosidase
 gene name, together with Rubg3B,beta-glucosidase/xylosidase activity, EC 3.2.1.37 and 3.2.1.74	3.2.1.74	glucan 1,4-beta-glucosidase
 bifunctional, belongs toto the glycoside hydrolase 3 familiy, GH3	3.2.1.74	glucan 1,4-beta-glucosidase
 gene name, together with Rubg3A,beta-glucosidase/xylosidase activity, EC 3.2.1.37 and 3.2.1.74	3.2.1.74	glucan 1,4-beta-glucosidase
@@ -3984,6 +4142,8 @@ LeMAN4a	3.2.1.78	mannan endo-1,4-beta-mannosidase
 endo-beta-D-mannanase	3.2.1.78	mannan endo-1,4-beta-mannosidase
 Man4A	3.2.1.78	mannan endo-1,4-beta-mannosidase
 endo-beta-mannanase	3.2.1.78	mannan endo-1,4-beta-mannosidase
+CelB	3.2.1.78	mannan endo-1,4-beta-mannosidase
+gene name	3.2.1.78	mannan endo-1,4-beta-mannosidase
 gene name	3.2.1.78	mannan endo-1,4-beta-mannosidase
 PoMan5A	3.2.1.78	mannan endo-1,4-beta-mannosidase
 endo-1,4-beta-mannanase	3.2.1.78	mannan endo-1,4-beta-mannosidase
@@ -4006,6 +4166,7 @@ Man1	3.2.1.78	mannan endo-1,4-beta-mannosidase
 LeMAN4	3.2.1.78	mannan endo-1,4-beta-mannosidase
 man5D	3.2.1.78	mannan endo-1,4-beta-mannosidase
 ManIII	3.2.1.78	mannan endo-1,4-beta-mannosidase
+ManF	3.2.1.78	mannan endo-1,4-beta-mannosidase
 endo-beta-1,4-D-mannanase	3.2.1.78	mannan endo-1,4-beta-mannosidase
 cold-adapted beta-mannanase	3.2.1.78	mannan endo-1,4-beta-mannosidase
 CaMan	3.2.1.78	mannan endo-1,4-beta-mannosidase
@@ -4025,6 +4186,8 @@ mannan endo-1,4-beta-mannanase	3.2.1.78	mannan endo-1,4-beta-mannosidase
 Rman	3.2.1.78	mannan endo-1,4-beta-mannosidase
 endo-beta-D-1,4-mannanase	3.2.1.78	mannan endo-1,4-beta-mannosidase
 CsMan5	3.2.1.78	mannan endo-1,4-beta-mannosidase
+em26a	3.2.1.78	mannan endo-1,4-beta-mannosidase
+gene name	3.2.1.78	mannan endo-1,4-beta-mannosidase
 endo-(1--> 4)-beta-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 (1--> 4)-beta-xylan 4-xylanohydrolase	3.2.1.8	endo-1,4-beta-xylanase
 xylanase, endo-1,4-	3.2.1.8	endo-1,4-beta-xylanase
@@ -4044,17 +4207,25 @@ AMX-4 xylanase	3.2.1.8	endo-1,4-beta-xylanase
 GHF 11 endoxylanase	3.2.1.8	endo-1,4-beta-xylanase
 endo-beta-1,4-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 Endoxylanase	3.2.1.8	endo-1,4-beta-xylanase
-genename	3.2.1.8	endo-1,4-beta-xylanase
+gene name	3.2.1.8	endo-1,4-beta-xylanase
 xylanase	3.2.1.8	endo-1,4-beta-xylanase
 enzyme belongs to family 10	3.2.1.8	endo-1,4-beta-xylanase
 Endo-1,4-beta-xylanase	3.2.1.8	endo-1,4-beta-xylanase
-X-II	3.2.1.8	endo-1,4-beta-xylanase
-BlxA	3.2.1.8	endo-1,4-beta-xylanase
-X-I	3.2.1.8	endo-1,4-beta-xylanase
+basic xylanase	3.2.1.8	endo-1,4-beta-xylanase
+xylanase 11J	3.2.1.8	endo-1,4-beta-xylanase
+BSX	3.2.1.8	endo-1,4-beta-xylanase
+XynT	3.2.1.8	endo-1,4-beta-xylanase
+endo-(1,4)-beta-xylanase	3.2.1.8	endo-1,4-beta-xylanase
+Xyl II	3.2.1.8	endo-1,4-beta-xylanase
+Xyl I	3.2.1.8	endo-1,4-beta-xylanase
+xylanase I	3.2.1.8	endo-1,4-beta-xylanase
 Xa	3.2.1.8	endo-1,4-beta-xylanase
 GH 11 xylanase	3.2.1.8	endo-1,4-beta-xylanase
 xylanase Xyl11A	3.2.1.8	endo-1,4-beta-xylanase
 Xyn1	3.2.1.8	endo-1,4-beta-xylanase
+X-II	3.2.1.8	endo-1,4-beta-xylanase
+BlxA	3.2.1.8	endo-1,4-beta-xylanase
+X-I	3.2.1.8	endo-1,4-beta-xylanase
 endo-1,4-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 beta-1,4-xylan xylanohydrolase	3.2.1.8	endo-1,4-beta-xylanase
 beta-D-xylanase	3.2.1.8	endo-1,4-beta-xylanase
@@ -4066,24 +4237,25 @@ EXY1	3.2.1.8	endo-1,4-beta-xylanase
 1,4-beta-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 Btx	3.2.1.8	endo-1,4-beta-xylanase
 XynZ	3.2.1.8	endo-1,4-beta-xylanase
+Xyn12.2	3.2.1.8	endo-1,4-beta-xylanase
 xylanase 11A	3.2.1.8	endo-1,4-beta-xylanase
 family 11 endoxylanase	3.2.1.8	endo-1,4-beta-xylanase
 glycoside hydrolase family 11 endoxylanase	3.2.1.8	endo-1,4-beta-xylanase
+xylanase 43A	3.2.1.8	endo-1,4-beta-xylanase
+xylanase C	3.2.1.8	endo-1,4-beta-xylanase
 G/11 endo-1,4-beta-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 1,4-beta-xylan xylanohydrolase	3.2.1.8	endo-1,4-beta-xylanase
 Bcx	3.2.1.8	endo-1,4-beta-xylanase
-xylanase 43A	3.2.1.8	endo-1,4-beta-xylanase
-xylanase C	3.2.1.8	endo-1,4-beta-xylanase
 Xylanase 22	3.2.1.8	endo-1,4-beta-xylanase
 SSO1354 protein	3.2.1.8	endo-1,4-beta-xylanase
 Axy43A	3.2.1.8	endo-1,4-beta-xylanase
 Xyn10E	3.2.1.8	endo-1,4-beta-xylanase
-beta-1,4-xylan hydrolase	3.2.1.8	endo-1,4-beta-xylanase
 bifunctional cellulase/xylanase	3.2.1.8	endo-1,4-beta-xylanase
 acidophilic endo-1,4-beta-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 Xyn3	3.2.1.8	endo-1,4-beta-xylanase
 XynAS27	3.2.1.8	endo-1,4-beta-xylanase
 XynS20	3.2.1.8	endo-1,4-beta-xylanase
+beta-1,4-xylan hydrolase	3.2.1.8	endo-1,4-beta-xylanase
 EGXA	3.2.1.8	endo-1,4-beta-xylanase
 Xyn11	3.2.1.8	endo-1,4-beta-xylanase
 Xyl30	3.2.1.8	endo-1,4-beta-xylanase
@@ -4105,13 +4277,11 @@ Xyn5	3.2.1.8	endo-1,4-beta-xylanase
 Mxyn10	3.2.1.8	endo-1,4-beta-xylanase
 XynA19	3.2.1.8	endo-1,4-beta-xylanase
 XynA119	3.2.1.8	endo-1,4-beta-xylanase
+endo-beta-(1,4)-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 alkaline active xylanase	3.2.1.8	endo-1,4-beta-xylanase
 XYL10C	3.2.1.8	endo-1,4-beta-xylanase
 GH10 endo-beta-1,4-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 XylG	3.2.1.8	endo-1,4-beta-xylanase
-endo-beta-(1,4)-xylanase	3.2.1.8	endo-1,4-beta-xylanase
-xylanase 1	3.2.1.8	endo-1,4-beta-xylanase
-xylanase 2	3.2.1.8	endo-1,4-beta-xylanase
 XYN11F63	3.2.1.8	endo-1,4-beta-xylanase
 Xyn11NX	3.2.1.8	endo-1,4-beta-xylanase
 XynE2	3.2.1.8	endo-1,4-beta-xylanase
@@ -4124,6 +4294,8 @@ GH10 xylanase D	3.2.1.8	endo-1,4-beta-xylanase
 gene name	3.2.1.8	endo-1,4-beta-xylanase
 gene name	3.2.1.8	endo-1,4-beta-xylanase
 KRICT PX1	3.2.1.8	endo-1,4-beta-xylanase
+xylanase 1	3.2.1.8	endo-1,4-beta-xylanase
+xylanase 2	3.2.1.8	endo-1,4-beta-xylanase
 xylH	3.2.1.8	endo-1,4-beta-xylanase
 XynSW1	3.2.1.8	endo-1,4-beta-xylanase
 Xyl10A	3.2.1.8	endo-1,4-beta-xylanase
@@ -4147,12 +4319,16 @@ gene name	3.2.1.8	endo-1,4-beta-xylanase
 Xyl2090	3.2.1.8	endo-1,4-beta-xylanase
 gene name	3.2.1.8	endo-1,4-beta-xylanase
 Xyl2495	3.2.1.8	endo-1,4-beta-xylanase
-Xyl	3.2.1.8	endo-1,4-beta-xylanase
-beta-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 XynG1	3.2.1.8	endo-1,4-beta-xylanase
 XynGR40	3.2.1.8	endo-1,4-beta-xylanase
 SCO5931	3.2.1.8	endo-1,4-beta-xylanase
 XylC	3.2.1.8	endo-1,4-beta-xylanase
+Xyl	3.2.1.8	endo-1,4-beta-xylanase
+beta-xylanase	3.2.1.8	endo-1,4-beta-xylanase
+alkaline xylanase	3.2.1.8	endo-1,4-beta-xylanase
+gene name	3.2.1.8	endo-1,4-beta-xylanase
+Xyn III	3.2.1.8	endo-1,4-beta-xylanase
+xylM	3.2.1.8	endo-1,4-beta-xylanase
 XT6	3.2.1.8	endo-1,4-beta-xylanase
 GH11 xylanase	3.2.1.8	endo-1,4-beta-xylanase
 isozyme	3.2.1.8	endo-1,4-beta-xylanase
@@ -4174,11 +4350,11 @@ family 11 xylanase	3.2.1.8	endo-1,4-beta-xylanase
 Xyn11A	3.2.1.8	endo-1,4-beta-xylanase
 AnxB	3.2.1.8	endo-1,4-beta-xylanase
 Xln-1	3.2.1.8	endo-1,4-beta-xylanase
+beta-1,4-endoxylanase	3.2.1.8	endo-1,4-beta-xylanase
 xylanase A	3.2.1.8	endo-1,4-beta-xylanase
 BSXY	3.2.1.8	endo-1,4-beta-xylanase
-endo-1,4-beta-D-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 Xyl11	3.2.1.8	endo-1,4-beta-xylanase
-beta-1,4-endoxylanase	3.2.1.8	endo-1,4-beta-xylanase
+endo-1,4-beta-D-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 XynS14	3.2.1.8	endo-1,4-beta-xylanase
 used for bread dough	3.2.1.8	endo-1,4-beta-xylanase
 XylB	3.2.1.8	endo-1,4-beta-xylanase
@@ -4191,11 +4367,6 @@ XynGH30	3.2.1.8	endo-1,4-beta-xylanase
 beta-endoxylanase	3.2.1.8	endo-1,4-beta-xylanase
 xylanase bI	3.2.1.8	endo-1,4-beta-xylanase
 xylanase bII	3.2.1.8	endo-1,4-beta-xylanase
-basic xylanase	3.2.1.8	endo-1,4-beta-xylanase
-xylanase 11J	3.2.1.8	endo-1,4-beta-xylanase
-BSX	3.2.1.8	endo-1,4-beta-xylanase
-XynT	3.2.1.8	endo-1,4-beta-xylanase
-endo-(1,4)-beta-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 Xys1delta	3.2.1.8	endo-1,4-beta-xylanase
 Xys1	3.2.1.8	endo-1,4-beta-xylanase
 GXYN	3.2.1.8	endo-1,4-beta-xylanase
@@ -4208,9 +4379,6 @@ endo-beta-(1'4)-xylanase	3.2.1.8	endo-1,4-beta-xylanase
 xylanase 10A	3.2.1.8	endo-1,4-beta-xylanase
 xylanase III	3.2.1.8	endo-1,4-beta-xylanase
 xylanase II	3.2.1.8	endo-1,4-beta-xylanase
-Xyl II	3.2.1.8	endo-1,4-beta-xylanase
-Xyl I	3.2.1.8	endo-1,4-beta-xylanase
-xylanase I	3.2.1.8	endo-1,4-beta-xylanase
 fructofuranosidase, polysaccharide beta	3.2.1.80	fructan beta-fructosidase
 polysaccharide beta-fructofuranosidase	3.2.1.80	fructan beta-fructosidase
 levanase	3.2.1.80	fructan beta-fructosidase
@@ -4297,23 +4465,13 @@ kappa-carrageenase-like protein	3.2.1.83	kappa-carrageenase
 CgkA	3.2.1.83	kappa-carrageenase
 gene name	3.2.1.83	kappa-carrageenase
 exo-1,3-alpha-glucanase	3.2.1.84	glucan 1,3-alpha-glucosidase
-glucosidase II beta-subunit	3.2.1.84	glucan 1,3-alpha-glucosidase
-GII	3.2.1.84	glucan 1,3-alpha-glucosidase
-alpha-(1->3)-glucanase	3.2.1.84	glucan 1,3-alpha-glucosidase
-mutanase	3.2.1.84	glucan 1,3-alpha-glucosidase
-alpha glucosidase II	3.2.1.84	glucan 1,3-alpha-glucosidase
-beta subunit of alpha glucosidase II	3.2.1.84	glucan 1,3-alpha-glucosidase
-type II-like alpha-glucosidase	3.2.1.84	glucan 1,3-alpha-glucosidase
-exomutanase	3.2.1.84	glucan 1,3-alpha-glucosidase
-plant glucosidase	3.2.1.84	glucan 1,3-alpha-glucosidase
-Mutanase RM1	3.2.1.84	glucan 1,3-alpha-glucosidase
-alpha-glucosidase II	3.2.1.84	glucan 1,3-alpha-glucosidase
+glucosidase II	3.2.1.84	glucan 1,3-alpha-glucosidase
 MalA	3.2.1.84	glucan 1,3-alpha-glucosidase
 locus name	3.2.1.84	glucan 1,3-alpha-glucosidase
-G-II	3.2.1.84	glucan 1,3-alpha-glucosidase
-glucosidase II	3.2.1.84	glucan 1,3-alpha-glucosidase
-endoplasmic reticulum glucosidase II	3.2.1.84	glucan 1,3-alpha-glucosidase
-subunit of glucosidase II required for glycoproteinprocessing in the endoplasmic reticulum	3.2.1.84	glucan 1,3-alpha-glucosidase
+alpha-(1->3)-glucanase	3.2.1.84	glucan 1,3-alpha-glucosidase
+mutanase	3.2.1.84	glucan 1,3-alpha-glucosidase
+exomutanase	3.2.1.84	glucan 1,3-alpha-glucosidase
+Mutanase RM1	3.2.1.84	glucan 1,3-alpha-glucosidase
 PBG	3.2.1.85	6-phospho-beta-galactosidase
 6-phospho-beta-D-galactosidase	3.2.1.85	6-phospho-beta-galactosidase
 phospho-beta-galactosidase	3.2.1.85	6-phospho-beta-galactosidase
@@ -4386,14 +4544,23 @@ Beta-1,4-glycanase CEX	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing 
 Beta-glucancellobiohydrolase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 CBP120	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 CBP95	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-exo-1,4-beta-glucanase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-formerly CBH I	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-CBH	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+Cel6A	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+cellobiohydrolase class II	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+CBH II	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+Cbh7B	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+gene name	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 gene name	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 Cbh6B	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 locus name	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 CelY	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 CelK	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+displays cellobiohydrolase and beta-1,4(3)endoglucanase catalytic activities	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+CbhI.1	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+Cbh3	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+exo-beta-1,4-cellobiohydrolase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+gene name	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+exo-1,4-beta-glucanase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+formerly CBH I	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 commercial preparation	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 beta-1,4-glucan cellobiohydrolase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 Cel5A	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
@@ -4401,25 +4568,25 @@ commercial preparation containing a broadspectrum of cellulolytic enzyme activit
 exo-acting cellulase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 CBH I	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 cellobiohydrolase class I	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+CBH1	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 cellobiohydrolase 1	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 exocellulase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 exo-cellobiohydrolase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 exocellulase E3	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 Cel6B	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-cellobiohydrolase I	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-Cel7A	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 Cel6A	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 cellobiohydrolase II	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+cellobiohydrolase I	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+Cel7A	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 Cel7D	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 the enzyme Cel7A probably belongs to thecellobiohydrolase family 7	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 Ex-1	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 Ex-4	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 CelC7	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+exo-1,4-beta-D-glucanase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 exo-1, 4-beta-D-glucanase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 cotton lyase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 ambiguous	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-CBH1	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-exo-1,4-beta-D-glucanase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 CelO	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 cellobiohydrolase A	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 CbhA	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
@@ -4444,20 +4611,15 @@ Cbhl.2	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 cellobiohydrolase I-I	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 cellobiohydrolase I-II	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 cellobiohydrolase II-I	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-displays cellobiohydrolase and beta-1,4(3)endoglucanase catalytic activities	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 Cel6C	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-cellobiohydrolase class II	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-CBH II	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 cellobiohydrolase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-Cel6A	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
+CBH	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 recombinant enzyme domain construct	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 the GH5 domain is a cellobiohydrolase that lacksbeta-glucosidase activity	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 CelB	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 exo-beta-1,4-glucanase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 PSCase	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 ThCel7A	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-gene name	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
-Cbh7B	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 gene name	3.2.1.91	cellulose 1,4-beta-cellobiosidase (non-reducing end)
 exo-beta-N-acetylmuramidase	3.2.1.92	peptidoglycan beta-N-acetylmuramidase
 exo-beta-acetylmuramidase	3.2.1.92	peptidoglycan beta-N-acetylmuramidase
@@ -4625,6 +4787,7 @@ isoform	3.2.1.99	arabinan endo-1,5-alpha-L-arabinanase
 ABNase	3.2.1.99	arabinan endo-1,5-alpha-L-arabinanase
 endo-(1,5)-alpha-L-arabinanase	3.2.1.99	arabinan endo-1,5-alpha-L-arabinanase
 isoform	3.2.1.99	arabinan endo-1,5-alpha-L-arabinanase
+arase	3.2.1.99	arabinan endo-1,5-alpha-L-arabinanase
 endo-ABA	3.2.1.99	arabinan endo-1,5-alpha-L-arabinanase
 endo-ara	3.2.1.99	arabinan endo-1,5-alpha-L-arabinanase
 endo-1,5-alpha-L-arabinase A	3.2.1.99	arabinan endo-1,5-alpha-L-arabinanase
@@ -5060,7 +5223,6 @@ stenodactylin	3.2.2.22	rRNA N-glycosylase
 TRIP	3.2.2.22	rRNA N-glycosylase
 type I ribosome inactivating protein	3.2.2.22	rRNA N-glycosylase
 SBA	3.2.2.22	rRNA N-glycosylase
-Agglutinin	3.2.2.22	rRNA N-glycosylase
 alpha-momorcharin	3.2.2.22	rRNA N-glycosylase
 alpha-MC	3.2.2.22	rRNA N-glycosylase
 balsamin	3.2.2.22	rRNA N-glycosylase
@@ -5230,6 +5392,12 @@ MqnB	3.2.2.30	aminodeoxyfutalosine nucleosidase
 gene name	3.2.2.30	aminodeoxyfutalosine nucleosidase
 AFL nucleosidase	3.2.2.30	aminodeoxyfutalosine nucleosidase
 aminofutalosine nucleosidase	3.2.2.30	aminodeoxyfutalosine nucleosidase
+adenine DNA glycosylase	3.2.2.31	adenine glycosylase
+adenine glycosylase	3.2.2.31	adenine glycosylase
+mutY	3.2.2.31	adenine glycosylase
+MYH	3.2.2.31	adenine glycosylase
+A/G-specific adenine glycosylase	3.2.2.31	adenine glycosylase
+DNA repair adenine glycosylase	3.2.2.31	adenine glycosylase
 adenylate nucleosidase	3.2.2.4	AMP nucleosidase
 adenosine monophosphate nucleosidase	3.2.2.4	AMP nucleosidase
 AMP ribosidase	3.2.2.4	AMP nucleosidase

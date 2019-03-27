@@ -24,6 +24,7 @@ PGAM1	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
 2,3-bisphosphoglycerate-dependent PGAM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
 gene name	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
 dPGAM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+Phosphoglyceromutase	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
 cofactor-dependent phosphoglycerate mutase	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
 DPGM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
 B-type PGM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
@@ -262,6 +263,8 @@ epidermal lipoxygenase-3	5.4.4.7	hydroperoxy icosatetraenoate isomerase
 epidermal LOX type 3	5.4.4.7	hydroperoxy icosatetraenoate isomerase
 hepoxilin synthase	5.4.4.7	hydroperoxy icosatetraenoate isomerase
 gene name	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+3,1-hydroxyl-DELTA1-DELTA2-mutase	5.4.4.8	linalool isomerase
+gene name	5.4.4.8	linalool isomerase
 Mutase, methylaspartate	5.4.99.1	Methylaspartate mutase
 Glutamic mutase	5.4.99.1	Methylaspartate mutase
 Glutamic isomerase	5.4.99.1	Methylaspartate mutase
@@ -536,7 +539,6 @@ gene name	5.4.99.40	alpha-amyrin synthase
 gene name	5.4.99.40	alpha-amyrin synthase
 gene name	5.4.99.40	alpha-amyrin synthase
 enzyme shows similarity with Olea europaea mixed amyrinsynthase and Panax notoginseng dammarenediol synthase	5.4.99.40	alpha-amyrin synthase
-lueol synthase	5.4.99.41	lupeol synthase
 OSC3	5.4.99.41	lupeol synthase
 OEW	5.4.99.41	lupeol synthase
 BPY	5.4.99.41	lupeol synthase
@@ -663,6 +665,8 @@ RcmA	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
 RcmB	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
 gene name, subunit RcmA	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
 gene name, subunit RcmB	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+Lcc	5.4.99.65	pre-alpha-onocerin synthase
+LCD	5.4.99.66	alpha-onocerin synthase
 2,3-Epoxysqualene-lanosterol cyclase	5.4.99.7	Lanosterol synthase
 2,3-Oxidosqualene-lanosterol cyclase	5.4.99.7	Lanosterol synthase
 2,3-Epoxysqualene lanosterol-cyclase	5.4.99.7	Lanosterol synthase

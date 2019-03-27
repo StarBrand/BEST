@@ -25,7 +25,6 @@ cytochrome aa3	1.9.3.1	cytochrome-c oxidase
 cbb3-2 terminal oxidase	1.9.3.1	cytochrome-c oxidase
 cbb3-2 oxidase	1.9.3.1	cytochrome-c oxidase
 Aa3 terminal Oxidase	1.9.3.1	cytochrome-c oxidase
-COX III	1.9.3.1	cytochrome-c oxidase
 cytochrome c oxidase subunit IV	1.9.3.1	cytochrome-c oxidase
 CytCOx	1.9.3.1	cytochrome-c oxidase
 COX I subunit	1.9.3.1	cytochrome-c oxidase
@@ -36,6 +35,7 @@ cytochrome oxidase	1.9.3.1	cytochrome-c oxidase
 CytOX	1.9.3.1	cytochrome-c oxidase
 CcOX	1.9.3.1	cytochrome-c oxidase
 COX I	1.9.3.1	cytochrome-c oxidase
+COX III	1.9.3.1	cytochrome-c oxidase
 COX Va	1.9.3.1	cytochrome-c oxidase
 COX VIa-H	1.9.3.1	cytochrome-c oxidase
 COX VIb	1.9.3.1	cytochrome-c oxidase
@@ -43,31 +43,43 @@ COX VIc	1.9.3.1	cytochrome-c oxidase
 COX VIIa H	1.9.3.1	cytochrome-c oxidase
 COX VIIb	1.9.3.1	cytochrome-c oxidase
 COX VIIc	1.9.3.1	cytochrome-c oxidase
+ba3 cytochrome c oxidase	1.9.3.1	cytochrome-c oxidase
 COX VIIa L	1.9.3.1	cytochrome-c oxidase
 COX VIII	1.9.3.1	cytochrome-c oxidase
 cytochrome c oxidase subunit I	1.9.3.1	cytochrome-c oxidase
+cytochrome C oxidase IV	1.9.3.1	cytochrome-c oxidase
 COX Vb	1.9.3.1	cytochrome-c oxidase
-Cox7c	1.9.3.1	cytochrome-c oxidase
-cytochrome oxidase VIIc	1.9.3.1	cytochrome-c oxidase
 COX subunit I	1.9.3.1	cytochrome-c oxidase
 COXIII	1.9.3.1	cytochrome-c oxidase
 CCO subunit 1	1.9.3.1	cytochrome-c oxidase
 mitochondrial cytochrome c oxidase subunit IV	1.9.3.1	cytochrome-c oxidase
 COXIV	1.9.3.1	cytochrome-c oxidase
+subunit	1.9.3.1	cytochrome-c oxidase
 COXI	1.9.3.1	cytochrome-c oxidase
 COX4	1.9.3.1	cytochrome-c oxidase
 COXII	1.9.3.1	cytochrome-c oxidase
 COX1	1.9.3.1	cytochrome-c oxidase
+Cox7c	1.9.3.1	cytochrome-c oxidase
+cytochrome oxidase VIIc	1.9.3.1	cytochrome-c oxidase
 COX19	1.9.3.1	cytochrome-c oxidase
 caa3-type cytochrome c oxidase	1.9.3.1	cytochrome-c oxidase
 ba3-type cytochrome c oxidase	1.9.3.1	cytochrome-c oxidase
 caa3 cytochrome c oxidase	1.9.3.1	cytochrome-c oxidase
 COX II	1.9.3.1	cytochrome-c oxidase
+ferrocytochrome c: O2 oxidoreductase	1.9.3.1	cytochrome-c oxidase
+CytcO	1.9.3.1	cytochrome-c oxidase
 complex IX	1.9.3.1	cytochrome-c oxidase
+COX11	1.9.3.1	cytochrome-c oxidase
+cytochrome c oxidase 11	1.9.3.1	cytochrome-c oxidase
 cytochrome c oxidase baa3	1.9.3.1	cytochrome-c oxidase
 ferrocytochrome c:oxygen oxidoreductase	1.9.3.1	cytochrome-c oxidase
-cytochrome coxidase	1.9.3.1	cytochrome-c oxidase
+cytochrome c oxidase	1.9.3.1	cytochrome-c oxidase
 CCO	1.9.3.1	cytochrome-c oxidase
+cbb3-type cytochrome c oxidase	1.9.3.1	cytochrome-c oxidase
+cbb3-CcO	1.9.3.1	cytochrome-c oxidase
+subunit	1.9.3.1	cytochrome-c oxidase
+cbb3-cytochrome c oxidase	1.9.3.1	cytochrome-c oxidase
+cbb3 cytochrome c oxidase	1.9.3.1	cytochrome-c oxidase
 COI	1.9.3.1	cytochrome-c oxidase
 cytochrome-c oxidase I	1.9.3.1	cytochrome-c oxidase
 cytochrome-c oxidase subunit I	1.9.3.1	cytochrome-c oxidase
@@ -77,25 +89,28 @@ cytochrome bo3-type cytochrome c oxidase	1.9.3.1	cytochrome-c oxidase
 cytochrome cbo	1.9.3.1	cytochrome-c oxidase
 cytochromec oxidase subunit 1	1.9.3.1	cytochrome-c oxidase
 Cox 1	1.9.3.1	cytochrome-c oxidase
-cytochrome oxidase c subunit I	1.9.3.1	cytochrome-c oxidase
 complex IV	1.9.3.1	cytochrome-c oxidase
+cytochrome oxidase c subunit I	1.9.3.1	cytochrome-c oxidase
 cytochrome oxidase subunit II	1.9.3.1	cytochrome-c oxidase
 MCOX2	1.9.3.1	cytochrome-c oxidase
 respiratory nitrate reductase	1.9.6.1	nitrate reductase (cytochrome)
 reductase, nitrate (cytochrome)	1.9.6.1	nitrate reductase (cytochrome)
 benzyl viologen-nitrate reductase	1.9.6.1	nitrate reductase (cytochrome)
-NAP	1.9.6.1	nitrate reductase (cytochrome)
 periplasmic nitrate reductases	1.9.6.1	nitrate reductase (cytochrome)
+NAP	1.9.6.1	nitrate reductase (cytochrome)
 NAP enzyme	1.9.6.1	nitrate reductase (cytochrome)
 the enzymes EC 1.7.99.4 and EC 1.9.6.1 are probablyidentical, in vivo cytochrome serves as electron donor in the electrontransport chain to nitrate	1.9.6.1	nitrate reductase (cytochrome)
-catalytic subunit of the periplasmic nitratereductase system	1.9.6.1	nitrate reductase (cytochrome)
-periplasmicnitrate reductase	1.9.6.1	nitrate reductase (cytochrome)
+catalyticsubunit of the periplasmic nitrate reductase system	1.9.6.1	nitrate reductase (cytochrome)
+gene name	1.9.6.1	nitrate reductase (cytochrome)
+single subunit Nap-type periplasmic nitrate reductase	1.9.6.1	nitrate reductase (cytochrome)
+gene name	1.9.6.1	nitrate reductase (cytochrome)
 NapAB	1.9.6.1	nitrate reductase (cytochrome)
+periplasmic nitrate reductase	1.9.6.1	nitrate reductase (cytochrome)
 nitrate reductase, periplasmic	1.9.6.1	nitrate reductase (cytochrome)
-isoform	1.9.6.1	nitrate reductase (cytochrome)
-isoform	1.9.6.1	nitrate reductase (cytochrome)
-isoform	1.9.6.1	nitrate reductase (cytochrome)
-isoform	1.9.6.1	nitrate reductase (cytochrome)
 NapABC	1.9.6.1	nitrate reductase (cytochrome)
+isoform	1.9.6.1	nitrate reductase (cytochrome)
+isoform	1.9.6.1	nitrate reductase (cytochrome)
+isoform	1.9.6.1	nitrate reductase (cytochrome)
+isoform	1.9.6.1	nitrate reductase (cytochrome)
 reductase, iron-cytochrome c	1.9.98.1	iron-cytochrome-c reductase
 iron-cytochrome c reductase	1.9.98.1	iron-cytochrome-c reductase

@@ -32,6 +32,7 @@ N-succinylamino acid racemase	5.1.1.10	amino-acid racemase
 NSAR	5.1.1.10	amino-acid racemase
 GkNSAAR	5.1.1.10	amino-acid racemase
 ArgR	5.1.1.10	amino-acid racemase
+gene name	5.1.1.10	amino-acid racemase
 Racemase, phenylalanine (adenosine triphosphate-hydrolyzing)	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
 Phenylalanine racemase	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
 Phenylalanine racemase (adenosine triphosphate-hydrolyzing)	5.1.1.11	phenylalanine racemase (ATP-hydrolysing)
@@ -191,7 +192,6 @@ slr1622	5.1.3.1	ribulose-phosphate 3-epimerase
 D-ribulose 5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
 D-ribulose-5-phosphate 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
 cyt-RPEase	5.1.3.1	ribulose-phosphate 3-epimerase
-Ru5P rpimerase	5.1.3.1	ribulose-phosphate 3-epimerase
 Ru5P epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
 xylulose-5-P 3-epimerase	5.1.3.1	ribulose-phosphate 3-epimerase
 Epimerase, cytidine diphosphoabequose	5.1.3.10	CDP-paratose 2-epimerase
@@ -388,8 +388,8 @@ ADP-L-glycero-D-mannoheptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epi
 RfaD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
 hldD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
 ADP-L,D-hep 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
-formerly RfaD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
 ADP-L-glycero-D-manno-heptose 6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
+formerly RfaD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
 ADP-glycero-manno-heptose-6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
 GmhD	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
 ADP-L-glycero-D-manno-heptose-6-epimerase	5.1.3.20	ADP-glyceromanno-heptose 6-epimerase
@@ -467,7 +467,6 @@ AlgE1	5.1.3.37	mannuronan 5-epimerase
 AlgE3	5.1.3.37	mannuronan 5-epimerase
 algG	5.1.3.37	mannuronan 5-epimerase
 gene name	5.1.3.38	D-erythrulose 1-phosphate 3-epimerase
-gene name	5.1.3.39	L-erythrulose 4-phosphate epimerase
 Epimerase, L-ribulose phosphate 4-	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
 L-Ribulose phosphate 4-epimerase	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
 Phosphoribulose isomerase	5.1.3.4	L-ribulose-5-phosphate 4-epimerase
@@ -544,26 +543,26 @@ UDP-GalNAc 4-epimerase	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
 WbgU	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
 member of the short-chaindehydrogenase/reductase superfamily	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
 UAE	5.1.3.7	UDP-N-acetylglucosamine 4-epimerase
-Acylglucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
-Epimerase, acylglucosamine 2-	5.1.3.8	N-Acylglucosamine 2-epimerase
-N-acetyl-D-glucosamine-2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
-N-acylglucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
-recombinant protein	5.1.3.8	N-Acylglucosamine 2-epimerase
-AGE2	5.1.3.8	N-Acylglucosamine 2-epimerase
-Renin-binding protein	5.1.3.8	N-Acylglucosamine 2-epimerase
-inhibits activity of renin, forms heterocomplex withrenin, high molecular weight renin, HMW	5.1.3.8	N-Acylglucosamine 2-epimerase
-renin binding protein	5.1.3.8	N-Acylglucosamine 2-epimerase
-GlcNAc 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
-gene name	5.1.3.8	N-Acylglucosamine 2-epimerase
-N-acyl-D-glucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
-N-Acetylglucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
-N-acetyl-D-glucosamine 2-epimerase	5.1.3.8	N-Acylglucosamine 2-epimerase
-Epimerase, acylglucosamine phosphate 2-	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
-Acylglucosamine-6-phosphate 2-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
-Acylglucosamine phosphate 2-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
-chondroitin-glucuronate C5-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
-DS epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
-GlcNAc-6P-2-epimerase	5.1.3.9	N-Acylglucosamine-6-phosphate 2-epimerase
+Acylglucosamine 2-epimerase	5.1.3.8	N-acylglucosamine 2-epimerase
+Epimerase, acylglucosamine 2-	5.1.3.8	N-acylglucosamine 2-epimerase
+N-acetyl-D-glucosamine-2-epimerase	5.1.3.8	N-acylglucosamine 2-epimerase
+N-acylglucosamine 2-epimerase	5.1.3.8	N-acylglucosamine 2-epimerase
+recombinant protein	5.1.3.8	N-acylglucosamine 2-epimerase
+AGE2	5.1.3.8	N-acylglucosamine 2-epimerase
+Renin-binding protein	5.1.3.8	N-acylglucosamine 2-epimerase
+inhibits activity of renin, forms heterocomplex withrenin, high molecular weight renin, HMW	5.1.3.8	N-acylglucosamine 2-epimerase
+renin binding protein	5.1.3.8	N-acylglucosamine 2-epimerase
+GlcNAc 2-epimerase	5.1.3.8	N-acylglucosamine 2-epimerase
+gene name	5.1.3.8	N-acylglucosamine 2-epimerase
+N-acyl-D-glucosamine 2-epimerase	5.1.3.8	N-acylglucosamine 2-epimerase
+N-Acetylglucosamine 2-epimerase	5.1.3.8	N-acylglucosamine 2-epimerase
+N-acetyl-D-glucosamine 2-epimerase	5.1.3.8	N-acylglucosamine 2-epimerase
+Epimerase, acylglucosamine phosphate 2-	5.1.3.9	N-acylglucosamine-6-phosphate 2-epimerase
+Acylglucosamine-6-phosphate 2-epimerase	5.1.3.9	N-acylglucosamine-6-phosphate 2-epimerase
+Acylglucosamine phosphate 2-epimerase	5.1.3.9	N-acylglucosamine-6-phosphate 2-epimerase
+chondroitin-glucuronate C5-epimerase	5.1.3.9	N-acylglucosamine-6-phosphate 2-epimerase
+DS epimerase	5.1.3.9	N-acylglucosamine-6-phosphate 2-epimerase
+GlcNAc-6P-2-epimerase	5.1.3.9	N-acylglucosamine-6-phosphate 2-epimerase
 Methylmalonyl-CoA racemase	5.1.99.1	Methylmalonyl-CoA epimerase
 Racemase, methylmalonyl coenzyme A	5.1.99.1	Methylmalonyl-CoA epimerase
 Methylmalonyl coenzyme A racemase	5.1.99.1	Methylmalonyl-CoA epimerase

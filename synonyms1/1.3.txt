@@ -42,14 +42,24 @@ digeranylgeranylglycerophospholipid reductase	1.3.1.101	2,3-bis-O-geranylgeranyl
 2,3-digeranylgeranylglycerophospholipid reductase	1.3.1.101	2,3-bis-O-geranylgeranyl-sn-glycerol 1-phosphate reductase [NAD(P)H]
 gene name	1.3.1.101	2,3-bis-O-geranylgeranyl-sn-glycerol 1-phosphate reductase [NAD(P)H]
 DGGGPL reductase	1.3.1.101	2,3-bis-O-geranylgeranyl-sn-glycerol 1-phosphate reductase [NAD(P)H]
-AOR	1.3.1.102	2-alkenal reductase (NADP+)
 NADPH-dependent alkenal/one oxidoreductase	1.3.1.102	2-alkenal reductase (NADP+)
+AOR	1.3.1.102	2-alkenal reductase (NADP+)
+2-alkenal reductase	1.3.1.102	2-alkenal reductase (NADP+)
+AER	1.3.1.102	2-alkenal reductase (NADP+)
+2-alkenal reductase (NADP+-dependent)	1.3.1.102	2-alkenal reductase (NADP+)
 NtRed-1	1.3.1.102	2-alkenal reductase (NADP+)
 allyl-ADH	1.3.1.102	2-alkenal reductase (NADP+)
 the amino acid sequences of the deduced allyl-ADHsare different in four amino acid residues	1.3.1.102	2-alkenal reductase (NADP+)
 the amino acid sequences of the deduced allyl-ADHsare different in four amino acid residues, allyl-ADH2 has the followingmutations compared to ADH1: T17A, V30A, L345P,R278H	1.3.1.102	2-alkenal reductase (NADP+)
 allyl-alcohol dehydrogenase	1.3.1.102	2-alkenal reductase (NADP+)
 NtDBR	1.3.1.102	2-alkenal reductase (NADP+)
+PaDBR1	1.3.1.102	2-alkenal reductase (NADP+)
+UniProt	1.3.1.102	2-alkenal reductase (NADP+)
+alkenal double bond reductase	1.3.1.102	2-alkenal reductase (NADP+)
+PaDBR2	1.3.1.102	2-alkenal reductase (NADP+)
+UniProt	1.3.1.102	2-alkenal reductase (NADP+)
+AtAOR	1.3.1.102	2-alkenal reductase (NADP+)
+chloroplastic alkenal/one oxidoreductase	1.3.1.102	2-alkenal reductase (NADP+)
 gene name	1.3.1.103	2-haloacrylate reductase
 NADPH 2-enoyl Co A reductase	1.3.1.104	enoyl-[acyl-carrier-protein] reductase (NADPH)
 enoyl-ACP reductase	1.3.1.104	enoyl-[acyl-carrier-protein] reductase (NADPH)
@@ -57,6 +67,8 @@ enoyl-[acyl carrier protein] (reduced nicotinamide adeninedinucleotide phosphate
 FabL	1.3.1.104	enoyl-[acyl-carrier-protein] reductase (NADPH)
 YgaA	1.3.1.104	enoyl-[acyl-carrier-protein] reductase (NADPH)
 FabI	1.3.1.104	enoyl-[acyl-carrier-protein] reductase (NADPH)
+gene name	1.3.1.104	enoyl-[acyl-carrier-protein] reductase (NADPH)
+JamJ	1.3.1.104	enoyl-[acyl-carrier-protein] reductase (NADPH)
 SIEO	1.3.1.105	2-methylene-furan-3-one reductase
 FaEO	1.3.1.105	2-methylene-furan-3-one reductase
 CbiJ	1.3.1.106	cobalt-precorrin-6A reductase
@@ -86,6 +98,16 @@ geranylgeranyl-bacteriopheophytin reductase	1.3.1.111	geranylgeranyl-bacteriochl
 geranylgeranyl-bacteriochlorophyll reductase	1.3.1.111	geranylgeranyl-bacteriochlorophyllide a reductase
 ANR	1.3.1.112	anthocyanidin reductase [(2S)-flavan-3-ol-forming]
 anthocyanidin reductase ((2S)-flavan-3-ol-forming)	1.3.1.112	anthocyanidin reductase [(2S)-flavan-3-ol-forming]
+scbB	1.3.1.113	(4-alkanoyl-5-oxo-2,5-dihydrofuran-3-yl)methyl phosphate reductase
+bprA	1.3.1.113	(4-alkanoyl-5-oxo-2,5-dihydrofuran-3-yl)methyl phosphate reductase
+butenolide phosphate reductase	1.3.1.113	(4-alkanoyl-5-oxo-2,5-dihydrofuran-3-yl)methyl phosphate reductase
+gene name	1.3.1.114	3-dehydro-bile acid DELTA4,6-reductase
+BaiN	1.3.1.114	3-dehydro-bile acid DELTA4,6-reductase
+BaiCD	1.3.1.115	3-oxocholoyl-CoA 4-desaturase
+3-oxo-DELTA4-cholenoic acid oxidoreductase	1.3.1.115	3-oxocholoyl-CoA 4-desaturase
+BaiH	1.3.1.116	7beta-hydroxy-3-oxochol-24-oyl-CoA 4-desaturase
+MdHCDBR	1.3.1.117	hydroxycinnamoyl-CoA reductase
+hydroxycinnamoyl-CoA double bond reductase	1.3.1.117	hydroxycinnamoyl-CoA reductase
 hydroxyphenylpyruvate synthase	1.3.1.12	prephenate dehydrogenase
 dehydrogenase, prephenate	1.3.1.12	prephenate dehydrogenase
 bifunctional enzyme with chorismate mutase andprephenate dehydrogenase activities	1.3.1.12	prephenate dehydrogenase
@@ -445,6 +467,10 @@ NADPH Pchlide oxidoreductase	1.3.1.33	protochlorophyllide reductase
 dark active protochlorophyllide oxidoreductase	1.3.1.33	protochlorophyllide reductase
 NADPH: protochlorophyllide oxidoreductase	1.3.1.33	protochlorophyllide reductase
 light-activated enzyme protochlorophyllide oxidoreductase	1.3.1.33	protochlorophyllide reductase
+gene name	1.3.1.33	protochlorophyllide reductase
+Fgl	1.3.1.33	protochlorophyllide reductase
+faded green leaf	1.3.1.33	protochlorophyllide reductase
+gene name	1.3.1.33	protochlorophyllide reductase
 POR-PChlide640	1.3.1.33	protochlorophyllide reductase
 POR-PChlide650	1.3.1.33	protochlorophyllide reductase
 protochlorophyllide oxidoreductase POR-PChlide640	1.3.1.33	protochlorophyllide reductase
@@ -491,6 +517,7 @@ FabI	1.3.1.39	enoyl-[acyl-carrier-protein] reductase (NADPH, Re-specific)
 reductase,2-hydroxy-6-oxo-phenylhexa-2,4-dienoate (reducednicotinamide adenine dinucleotide phosphate)	1.3.1.40	2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate reductase
 reductase, xanthommatin	1.3.1.41	xanthommatin reductase
 old yellow enzyme	1.3.1.42	12-oxophytodienoate reductase
+gene name	1.3.1.42	12-oxophytodienoate reductase
 OPR3 oxidoreductase	1.3.1.42	12-oxophytodienoate reductase
 12-oxophytodienoate-10,11-reductase	1.3.1.42	12-oxophytodienoate reductase
 OsOPR04-1	1.3.1.42	12-oxophytodienoate reductase
@@ -506,7 +533,6 @@ OsOPR8	1.3.1.42	12-oxophytodienoate reductase
 phytodienoic acid reductase	1.3.1.42	12-oxophytodienoate reductase
 12-oxo-phytodienoic acid reductase	1.3.1.42	12-oxophytodienoate reductase
 isozyme	1.3.1.42	12-oxophytodienoate reductase
-OPRI	1.3.1.42	12-oxophytodienoate reductase
 OPRII	1.3.1.42	12-oxophytodienoate reductase
 OPDA reductase I	1.3.1.42	12-oxophytodienoate reductase
 OPR	1.3.1.42	12-oxophytodienoate reductase
@@ -520,12 +546,14 @@ isozyme	1.3.1.42	12-oxophytodienoate reductase
 isozyme	1.3.1.42	12-oxophytodienoate reductase
 isozyme	1.3.1.42	12-oxophytodienoate reductase
 12-oxophytodienoate reductase 3	1.3.1.42	12-oxophytodienoate reductase
-i.e. isozyme PsOPR2	1.3.1.42	12-oxophytodienoate reductase
 OYE	1.3.1.42	12-oxophytodienoate reductase
+i.e. isozyme PsOPR2	1.3.1.42	12-oxophytodienoate reductase
 12-oxo phytodienoic acid reductase	1.3.1.42	12-oxophytodienoate reductase
 12-oxophytodienoate10,11-reductase	1.3.1.42	12-oxophytodienoate reductase
-isozyme	1.3.1.42	12-oxophytodienoate reductase
+gene name	1.3.1.42	12-oxophytodienoate reductase
+OPRI	1.3.1.42	12-oxophytodienoate reductase
 oxophytodienoate reductase	1.3.1.42	12-oxophytodienoate reductase
+isozyme	1.3.1.42	12-oxophytodienoate reductase
 HvOPR1	1.3.1.42	12-oxophytodienoate reductase
 cyclopentenone reductase	1.3.1.42	12-oxophytodienoate reductase
 12-oxophytodienoate reductase isoform 3	1.3.1.42	12-oxophytodienoate reductase
@@ -563,21 +591,24 @@ trans-2-enoyl-CoA reductase	1.3.1.44	trans-2-enoyl-CoA reductase (NAD+)
 reductase, 2'-hydroxyisoflavone	1.3.1.45	2'-hydroxyisoflavone reductase
 NADPH:2'-hydroxyisoflavone oxidoreductase	1.3.1.45	2'-hydroxyisoflavone reductase
 reductase, 2',7-dihydroxy-4',5'-methylenedioxyisoflavone	1.3.1.45	2'-hydroxyisoflavone reductase
-IFR	1.3.1.45	2'-hydroxyisoflavone reductase
+PvIFR1	1.3.1.45	2'-hydroxyisoflavone reductase
 isoflavone reductase	1.3.1.45	2'-hydroxyisoflavone reductase
+GbIRL1	1.3.1.45	2'-hydroxyisoflavone reductase
+GmIFR	1.3.1.45	2'-hydroxyisoflavone reductase
+locus name	1.3.1.45	2'-hydroxyisoflavone reductase
+IFR	1.3.1.45	2'-hydroxyisoflavone reductase
 gene	1.3.1.45	2'-hydroxyisoflavone reductase
-isoflavone reductase-like protein	1.3.1.45	2'-hydroxyisoflavone reductase
+Ole e 12	1.3.1.45	2'-hydroxyisoflavone reductase
 gene name	1.3.1.45	2'-hydroxyisoflavone reductase
+isoflavone reductase-like protein	1.3.1.45	2'-hydroxyisoflavone reductase
 FcIRL belongs to the class of pinoresinol-lariciresinolreductase, PRL, functioning in the biosynthesis of 8,8-linked lignans	1.3.1.45	2'-hydroxyisoflavone reductase
 IRL	1.3.1.45	2'-hydroxyisoflavone reductase
-GbIRL1	1.3.1.45	2'-hydroxyisoflavone reductase
 reductase, biochanin A	1.3.1.46	biochanin-A reductase
 reductase,-alpha-santonin 1,2-	1.3.1.47	alpha-santonin 1,2-reductase
 reductase, 15-oxo-DELTA13-prostaglandin	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 DELTA13-15-ketoprostaglandin reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 15-ketoprostaglandin DELTA-13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 prostaglandin DELTA13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
-prostaglandin 13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 15-ketoprostaglandin DELTA13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 15-oxoprostaglandin DELTA13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 15-oxoprostaglandin 13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
@@ -587,10 +618,18 @@ PGR-2	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 bifunctional leukotriene B412-hydroxydehydrogenase/15-oxo-prostaglandin 13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 LTB4 12-HD/PGR	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 leukotriene B4 12-hydroxydehydrogenase/15-ketoprostaglandin13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
+15-PGDH	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
+15-hydroxyprostaglandin dehydrogenase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 NAD(P)H-dependent alkenal/one oxidoreductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 15-ketoprostaglandinDELTA13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 a beta-NADPH-dependent alkenal/one oxidoreductasewhich has a role for leukotriene B412-hydroxydehydrogenase/15-ketoprostaglandinDELTA13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 PGR	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
+prostaglandin 13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
+15-keto-PG reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
+prostaglandin reductase 1	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
+PGR1	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
+PG reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
+leukotriene B4 dehydrogenase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 leukotriene B4-12-hydroxydehydrogenase/15-oxo-prostaglandin13-reductase	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 LTBDH/PGR	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
 Ad-PGR	1.3.1.48	13,14-dehydro-15-oxoprostaglandin 13-reductase
@@ -621,12 +660,17 @@ Biphenyl-cis-diol dehydrogenase	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydr
 BphB	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
 enzyme belongs to the short-chain alcoholdehydrogenase/reductase family	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
 biphenyl-2,3-dihydrodiol 2,3-dehydrogenase	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
+NAD-dependent cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
 BphBB356	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
 biphenyl dihydrodiol dehydrogenase	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
 biphenyl dehydrogenase	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
 BphBB-356	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
 cis-biphenyl-2,3-dihydrodiol-2,3-dehydrogenase	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
 BephB	1.3.1.56	cis-2,3-dihydrobiphenyl-2,3-diol dehydrogenase
+PGRde	1.3.1.57	phloroglucinol reductase
+PGR	1.3.1.57	phloroglucinol reductase
+PGReu	1.3.1.57	phloroglucinol reductase
+PGRcl	1.3.1.57	phloroglucinol reductase
 2,3-dihydro-p-cumate dehydrogenase	1.3.1.58	2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase
 Biphenyl-2,3-dihydro-2,3-diol dehydrogenase	1.3.1.58	2,3-dihydroxy-2,3-dihydro-p-cumate dehydrogenase
 NADH-FRD	1.3.1.6	fumarate reductase (NADH)
@@ -679,13 +723,20 @@ reductase, DELTA8,14-hydroxy steroid DELTA14(15)-	1.3.1.70	DELTA14-sterol reduct
 C-14 sterol reductase	1.3.1.70	DELTA14-sterol reductase
 FACKEL protein	1.3.1.70	DELTA14-sterol reductase
 SR-1	1.3.1.70	DELTA14-sterol reductase
-C14SR	1.3.1.70	DELTA14-sterol reductase
 LBR	1.3.1.70	DELTA14-sterol reductase
 lamin B receptor	1.3.1.70	DELTA14-sterol reductase
 besides theendoplasmic reticulum 3beta-hydroxysterol DELTA14-reductase (C14SR)encoded by TM7SF2 gene, the lamin B receptor (LBR) of the inner nuclearmembrane possesses 3beta-hydroxysterol DELTA14-reductase activity	1.3.1.70	DELTA14-sterol reductase
+C14SR	1.3.1.70	DELTA14-sterol reductase
 sterol C-14 reductase	1.3.1.70	DELTA14-sterol reductase
 C-14 reductase	1.3.1.70	DELTA14-sterol reductase
 gene name	1.3.1.70	DELTA14-sterol reductase
+gene name	1.3.1.70	DELTA14-sterol reductase
+MaSR1	1.3.1.70	DELTA14-sterol reductase
+integral membrane sterol reductase	1.3.1.70	DELTA14-sterol reductase
+gene name	1.3.1.70	DELTA14-sterol reductase
+3 beta-hydroxysterol-DELTA14-reductase	1.3.1.70	DELTA14-sterol reductase
+C14-SR	1.3.1.70	DELTA14-sterol reductase
+fackel	1.3.1.70	DELTA14-sterol reductase
 gene name	1.3.1.70	DELTA14-sterol reductase
 DELTA14-reductase	1.3.1.70	DELTA14-sterol reductase
 erg24-1	1.3.1.70	DELTA14-sterol reductase
@@ -703,6 +754,9 @@ C-24(28) reductase	1.3.1.71	DELTA24(241)-sterol reductase
 Erg4p	1.3.1.71	DELTA24(241)-sterol reductase
 DELTA24(28)-sterol methylreductase	1.3.1.71	DELTA24(241)-sterol reductase
 SMR	1.3.1.71	DELTA24(241)-sterol reductase
+gene name	1.3.1.71	DELTA24(241)-sterol reductase
+S-adenosylmethionine:sterol C-24 methyltransferase	1.3.1.71	DELTA24(241)-sterol reductase
+SAM:SMT	1.3.1.71	DELTA24(241)-sterol reductase
 lanosterol DELTA24-reductase	1.3.1.72	DELTA24-sterol reductase
 24-reductase	1.3.1.72	DELTA24-sterol reductase
 hydroxy steroid DELTA24-reductase	1.3.1.72	DELTA24-sterol reductase
@@ -717,19 +771,28 @@ DELTA24-reductase	1.3.1.72	DELTA24-sterol reductase
 DELTA24 reductase	1.3.1.72	DELTA24-sterol reductase
 reductase, hydroxy steroid DELTA24-	1.3.1.72	DELTA24-sterol reductase
 catalyzes the last step of the cholesterolbiosynthesis	1.3.1.72	DELTA24-sterol reductase
+selective Alzheimers disease indicator 1	1.3.1.72	DELTA24-sterol reductase
 3beta-hydroxysterol DELTA24-reductase	1.3.1.72	DELTA24-sterol reductase
-seladin-1	1.3.1.72	DELTA24-sterol reductase
+3-beta-hydroxysterol-DELTA24-reductase	1.3.1.72	DELTA24-sterol reductase
+dehydrocholesterol reductase	1.3.1.72	DELTA24-sterol reductase
+3 beta-hydroxysteroid-DELTA 24 reductase	1.3.1.72	DELTA24-sterol reductase
+ArDWF1	1.3.1.72	DELTA24-sterol reductase
+DELTA24-sterol-DELTA24-reductase	1.3.1.72	DELTA24-sterol reductase
+DIM	1.3.1.72	DELTA24-sterol reductase
 sterol-DELTA24-reductase	1.3.1.72	DELTA24-sterol reductase
-3beta-hydroxysteroid-DELTA24 reductase	1.3.1.72	DELTA24-sterol reductase
 3beta -hydroxysterol DELTA24-reductase	1.3.1.72	DELTA24-sterol reductase
+3beta-hydroxysteroid-DELTA24 reductase	1.3.1.72	DELTA24-sterol reductase
 3beta-hydroxysterol-delta24 reductase	1.3.1.72	DELTA24-sterol reductase
 enzyme belongs to the family of flavin adeninedinucleotide-dependent oxidoreductases	1.3.1.72	DELTA24-sterol reductase
 lanosterol reductase	1.3.1.72	DELTA24-sterol reductase
 desmosterol reductase	1.3.1.72	DELTA24-sterol reductase
 sterol 24DELTA-reductase	1.3.1.72	DELTA24-sterol reductase
 sterol DELTA24-reductase	1.3.1.72	DELTA24-sterol reductase
+DWF1	1.3.1.72	DELTA24-sterol reductase
+DIMINUTO/DWARF1	1.3.1.72	DELTA24-sterol reductase
+OsDWF1	1.3.1.72	DELTA24-sterol reductase
+Dimunito/Dwarf1	1.3.1.72	DELTA24-sterol reductase
 ZmDWF1	1.3.1.72	DELTA24-sterol reductase
-3-beta-hydroxysterol-DELTA24-reductase	1.3.1.72	DELTA24-sterol reductase
 1,2-dihydrovomilenine reductase	1.3.1.73	1,2-dihydrovomilenine reductase
 alkenal/one reductase	1.3.1.74	2-alkenal reductase [NAD(P)+]
 AOR	1.3.1.74	2-alkenal reductase [NAD(P)+]
@@ -753,15 +816,38 @@ reductase, 4-vinylchlorophyllide a	1.3.1.75	3,8-divinyl protochlorophyllide a 8-
 4VCR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 divinyl chlorophyllide a 8-vinyl-reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 COR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
-BciA	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+gene name	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+8-vinyl reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 DVR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 divinyl-chlorophyllide a reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+ZmDVR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+gene name	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+CsDVR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+AtDVR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+AtN-DVR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+C8-vinyl reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+8V reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+gene name	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+UniProt	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+RSBciA	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+8VR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+NADPH-dependent reductase BciA	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+BciA-type 8VR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+gene name	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+CTBciA	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+gene name	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+C8V reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 [3,8-divinyl]-protochlorophyllide a 8-vinyl reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 [3,8-DV]-Chlide a 8-vinyl reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 bciB	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 divinyl chlorophyll(ide) a reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
-divinyl reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+PhaeN-DVR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+3,8-divinyl chlorophyllide reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+N-DVR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+NADPH-dependent DVR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 locus name	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+OsDVR	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
+divinyl reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 3,8-divinyl (proto)chlorophyll(ide) a 8-vinyl reductase	1.3.1.75	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (NADPH)
 CysG enzyme	1.3.1.76	precorrin-2 dehydrogenase
 CysG	1.3.1.76	precorrin-2 dehydrogenase
@@ -773,27 +859,47 @@ SirC	1.3.1.76	precorrin-2 dehydrogenase
 precorrin-2 dehydrogenase	1.3.1.76	precorrin-2 dehydrogenase
 multifunctional protein catalyzing all 3final steps leading to siroheme from uroporphyrinogen III	1.3.1.76	precorrin-2 dehydrogenase
 cysG gene product	1.3.1.76	precorrin-2 dehydrogenase
-ANR	1.3.1.77	anthocyanidin reductase
-PtrANR1	1.3.1.77	anthocyanidin reductase
-MtANR	1.3.1.77	anthocyanidin reductase
-ANR1	1.3.1.77	anthocyanidin reductase
-ANR2	1.3.1.77	anthocyanidin reductase
-BAN	1.3.1.77	anthocyanidin reductase
-BANYULS	1.3.1.77	anthocyanidin reductase
-dihydroflavonol 4-reductase-like protein	1.3.1.77	anthocyanidin reductase
-BEN1	1.3.1.77	anthocyanidin reductase
-AtANR	1.3.1.77	anthocyanidin reductase
-CsANR	1.3.1.77	anthocyanidin reductase
-enzymes possess epimerase activity	1.3.1.77	anthocyanidin reductase
-enzymes possess epimerase activity	1.3.1.77	anthocyanidin reductase
-anthocyanidin reductase	1.3.1.77	anthocyanidin reductase
+gene name	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+BpANR	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+PtrANR1	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+MtANR	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+gene name	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+gene name	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+GhANR1	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+gene name	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+CssANRa	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+BANYULS	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+dihydroflavonol 4-reductase-like protein	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+BEN1	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+AtANR	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+gene name	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+VbANR	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+enzymes possess epimerase activity	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+enzymes possess epimerase activity	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+anthocyanidin reductase	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+CsANR	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+FeANR	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+RrANR	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+anthocyanidin reductase 1	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+anthocyanidin reductase 2	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+MdLAR1	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+gene name	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+gene name	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
+CssANRb	1.3.1.77	anthocyanidin reductase [(2R,3R)-flavan-3-ol-forming]
 TyrAa	1.3.1.78	arogenate dehydrogenase (NADP+)
 TyrAsy	1.3.1.78	arogenate dehydrogenase (NADP+)
+ADH1	1.3.1.78	arogenate dehydrogenase (NADP+)
+arogenate dehydrogenase	1.3.1.78	arogenate dehydrogenase (NADP+)
+ADH2	1.3.1.78	arogenate dehydrogenase (NADP+)
 cyclohexadienyl dehydrogenase	1.3.1.78	arogenate dehydrogenase (NADP+)
 TyrAAT	1.3.1.78	arogenate dehydrogenase (NADP+)
 arogenate dehydrogenase isoform 2	1.3.1.78	arogenate dehydrogenase (NADP+)
 TyrAAT1	1.3.1.78	arogenate dehydrogenase (NADP+)
 arogenate dehydrogenase isoform 1	1.3.1.78	arogenate dehydrogenase (NADP+)
+tyrA	1.3.1.79	arogenate dehydrogenase [NAD(P)+]
+arogenate dehydrogenase	1.3.1.79	arogenate dehydrogenase [NAD(P)+]
+arogenate dehydrogenase isoform 2	1.3.1.79	arogenate dehydrogenase [NAD(P)+]
+gene name	1.3.1.79	arogenate dehydrogenase [NAD(P)+]
 cyclohexadienyl dehydrogenase	1.3.1.79	arogenate dehydrogenase [NAD(P)+]
 TyrC	1.3.1.79	arogenate dehydrogenase [NAD(P)+]
 TyrAc	1.3.1.79	arogenate dehydrogenase [NAD(P)+]
@@ -819,17 +925,32 @@ pulegone reductase	1.3.1.81	(+)-pulegone reductase
 (+)-pulegone reductase	1.3.1.81	(+)-pulegone reductase
 (+)-pulegone reductase is a member of the medium-chaindehydrogenase/reductase superfamily	1.3.1.81	(+)-pulegone reductase
 (-)-isopiperitenone reductase is a member of theshort-chain dehydrogenase/reductase superfamily	1.3.1.82	(-)-isopiperitenone reductase
+NADPH-dependent isopiperitenone reductase	1.3.1.82	(-)-isopiperitenone reductase
+gene name	1.3.1.82	(-)-isopiperitenone reductase
+isopiperitenone reductase	1.3.1.82	(-)-isopiperitenone reductase
 GGPP reductase	1.3.1.83	geranylgeranyl diphosphate reductase
 CHL P	1.3.1.83	geranylgeranyl diphosphate reductase
 geranylgeranyl reductase	1.3.1.83	geranylgeranyl diphosphate reductase
 PpCHL P	1.3.1.83	geranylgeranyl diphosphate reductase
 CT2256	1.3.1.83	geranylgeranyl diphosphate reductase
 BchP	1.3.1.83	geranylgeranyl diphosphate reductase
-ChlP	1.3.1.83	geranylgeranyl diphosphate reductase
+gene name	1.3.1.83	geranylgeranyl diphosphate reductase
+gene name	1.3.1.83	geranylgeranyl diphosphate reductase
+NADPH-dependent geranylgeranyl reductase	1.3.1.83	geranylgeranyl diphosphate reductase
 acrylyl-coenzyme A reductase	1.3.1.84	acrylyl-CoA reductase (NADPH)
-AcuI	1.3.1.84	acrylyl-CoA reductase (NADPH)
+gene name	1.3.1.84	acrylyl-CoA reductase (NADPH)
 acrylyl-CoA reductase	1.3.1.84	acrylyl-CoA reductase (NADPH)
 acryloyl-coenzyme A reductase	1.3.1.84	acrylyl-CoA reductase (NADPH)
+gene name	1.3.1.84	acrylyl-CoA reductase (NADPH)
+NADPH-dependent acrylyl-CoA reductase	1.3.1.84	acrylyl-CoA reductase (NADPH)
+gene name	1.3.1.84	acrylyl-CoA reductase (NADPH)
+SPO1914	1.3.1.84	acrylyl-CoA reductase (NADPH)
+NADPH-dependent acryloyl-CoA reductase activity	1.3.1.84	acrylyl-CoA reductase (NADPH)
+gene name	1.3.1.84	acrylyl-CoA reductase (NADPH)
+acryloyl-CoA reductase	1.3.1.84	acrylyl-CoA reductase (NADPH)
+Acr	1.3.1.84	acrylyl-CoA reductase (NADPH)
+acryloyl-CoA reductase (NADPH)	1.3.1.84	acrylyl-CoA reductase (NADPH)
+gene name	1.3.1.84	acrylyl-CoA reductase (NADPH)
 crotonyl-CoA reductase (carboxylating)	1.3.1.85	crotonyl-CoA carboxylase/reductase
 CCR	1.3.1.85	crotonyl-CoA carboxylase/reductase
 gene name	1.3.1.85	crotonyl-CoA carboxylase/reductase
@@ -918,6 +1039,8 @@ Fabl2	1.3.1.9	enoyl-[acyl-carrier-protein] reductase (NADH)
 VF_0888	1.3.1.9	enoyl-[acyl-carrier-protein] reductase (NADH)
 PA2950	1.3.1.9	enoyl-[acyl-carrier-protein] reductase (NADH)
 FabI1	1.3.1.9	enoyl-[acyl-carrier-protein] reductase (NADH)
+ENR1	1.3.1.9	enoyl-[acyl-carrier-protein] reductase (NADH)
+ENR2	1.3.1.9	enoyl-[acyl-carrier-protein] reductase (NADH)
 enoyl (acyl carrier protein) reductase	1.3.1.9	enoyl-[acyl-carrier-protein] reductase (NADH)
 FabV	1.3.1.9	enoyl-[acyl-carrier-protein] reductase (NADH)
 Dus4p	1.3.1.90	tRNA-dihydrouridine20a/20b synthase [NAD(P)+]
@@ -925,17 +1048,27 @@ tRNA-dihydrouridine synthase 4	1.3.1.90	tRNA-dihydrouridine20a/20b synthase [NAD
 Dus2p	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
 tRNA-dihydrouridine synthase 2	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
 SMM1	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
-dihydrouridine synthase 2	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
 DUS 2	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
+dihydrouridine synthase 2	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
 hDUS2	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
+dihydrouridine synthase	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
+Dus	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
+DUS2	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
+HsDus2	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
+dihydrouridine synthase C	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
+DusC	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
+EcoDusC	1.3.1.91	tRNA-dihydrouridine20 synthase [NAD(P)+]
 gene name	1.3.1.92	artemisinic aldehyde DELTA11(13)-reductase
 artemisinic aldehyde DELTA11(13) double-bond reductase	1.3.1.92	artemisinic aldehyde DELTA11(13)-reductase
+double bond reductase 2	1.3.1.92	artemisinic aldehyde DELTA11(13)-reductase
+artemisinic aldehyde DELTA11(13) reductase	1.3.1.92	artemisinic aldehyde DELTA11(13)-reductase
 CER10	1.3.1.93	very-long-chain enoyl-CoA reductase
-ECR1	1.3.1.93	very-long-chain enoyl-CoA reductase
 trans-2-enoyl-CoA reductase	1.3.1.93	very-long-chain enoyl-CoA reductase
-ECR2	1.3.1.93	very-long-chain enoyl-CoA reductase
 enoyl reductase	1.3.1.93	very-long-chain enoyl-CoA reductase
-TSC13	1.3.1.93	very-long-chain enoyl-CoA reductase
+gene name	1.3.1.93	very-long-chain enoyl-CoA reductase
+TER	1.3.1.93	very-long-chain enoyl-CoA reductase
+ECR1	1.3.1.93	very-long-chain enoyl-CoA reductase
+ECR2	1.3.1.93	very-long-chain enoyl-CoA reductase
 gene name	1.3.1.93	very-long-chain enoyl-CoA reductase
 SRD5A3	1.3.1.94	polyprenol reductase
 DFG10	1.3.1.94	polyprenol reductase
@@ -953,42 +1086,72 @@ BSS	1.3.1.97	botryococcene synthase
 botryococcene synthase	1.3.1.97	botryococcene synthase
 SSL-3	1.3.1.97	botryococcene synthase
 squalene synthase-like 3	1.3.1.97	botryococcene synthase
-UDP-N-acetylenolpyruvoylglucosamine reductase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
 reductase, uridine diphosphoacetylpyruvoylglucosamine	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
 uridine diphospho-N-acetylglucosamine-enolpyruvate reductase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
 UDP-N-acetylglucosamine-enoylpyruvate reductase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
 UDP-GlcNAc-enoylpyruvate reductase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
 uridine-5'-diphospho-N-acetyl-2-amino-2-deoxy-3-O-lactylglucose:NADPoxidoreductase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
 UDP-N-acetylmuramate dehydrogenase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
-MurB	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
+gene name	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
 UDP-N-acetylenolpyruvyl glucosamine reductase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
 UDP-N-acetylenolpyruvylglucosamine reductase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
 a type II enzyme lacking Tyr loop and splitbetaalphabetabeta fold	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
+MurBAb	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
+locus name	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
+UDP-N-acetylenolpyruvoylglucosamine reductase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
+gene name	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
+type I UNAGEP reductase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
+UNAGEP reductase	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
+PaMurB	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
+gene name	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
 formerly	1.3.1.98	UDP-N-acetylmuramate dehydrogenase
+P5betaR5	1.3.1.99	iridoid synthase
+CrP5betaR5	1.3.1.99	iridoid synthase
+CrP5betaR4	1.3.1.99	iridoid synthase
+CrIS	1.3.1.99	iridoid synthase
+10-hydroxygeraniol oxidoreductase	1.3.1.99	iridoid synthase
+Cr10HGO	1.3.1.99	iridoid synthase
+nepetalactol synthase	1.3.1.99	iridoid synthase
+IRIS	1.3.1.99	iridoid synthase
+iridoid cyclase	1.3.1.99	iridoid synthase
+CrISY	1.3.1.99	iridoid synthase
+ISY	1.3.1.99	iridoid synthase
+OeISY	1.3.1.99	iridoid synthase
+1,4-Reductase	1.3.1.99	iridoid synthase
 dehydrogenase, galactonolactone	1.3.2.3	L-galactonolactone dehydrogenase
-L-galactono-1,4-lactonedehydrogenase	1.3.2.3	L-galactonolactone dehydrogenase
+L-galactono-1,4-lactone dehydrogenase	1.3.2.3	L-galactonolactone dehydrogenase
 GalLDH	1.3.2.3	L-galactonolactone dehydrogenase
 GalL dehydrogenase	1.3.2.3	L-galactonolactone dehydrogenase
 GLDase	1.3.2.3	L-galactonolactone dehydrogenase
 galactonolactone dehydrogenase	1.3.2.3	L-galactonolactone dehydrogenase
 RrGalLDH	1.3.2.3	L-galactonolactone dehydrogenase
+gene name	1.3.2.3	L-galactonolactone dehydrogenase
+gene name	1.3.2.3	L-galactonolactone dehydrogenase
+gene name	1.3.2.3	L-galactonolactone dehydrogenase
+gene name	1.3.2.3	L-galactonolactone dehydrogenase
+L-GalLDH2	1.3.2.3	L-galactonolactone dehydrogenase
+galactono-1,4-lactone dehydrogenase	1.3.2.3	L-galactonolactone dehydrogenase
+gene name	1.3.2.3	L-galactonolactone dehydrogenase
+LsL-GalLDH	1.3.2.3	L-galactonolactone dehydrogenase
 L-galactono-1, 4-lactone dehydrogenase	1.3.2.3	L-galactonolactone dehydrogenase
 L-galactone-1,4-lactone dehydrogenase	1.3.2.3	L-galactonolactone dehydrogenase
-L-GalLDH	1.3.2.3	L-galactonolactone dehydrogenase
 ferricytochrome c oxidoreductase	1.3.2.3	L-galactonolactone dehydrogenase
-GLDH	1.3.2.3	L-galactonolactone dehydrogenase
+gene name	1.3.2.3	L-galactonolactone dehydrogenase
 GLDHase	1.3.2.3	L-galactonolactone dehydrogenase
 catalyzes the finalstep in the biosynthesis of vitamin C in plants	1.3.2.3	L-galactonolactone dehydrogenase
 GALDH	1.3.2.3	L-galactonolactone dehydrogenase
+L-GalLDH	1.3.2.3	L-galactonolactone dehydrogenase
 L-tryptophan alpha,beta-dehydrogenase	1.3.3.10	tryptophan alpha,beta-oxidase
 EC 1.4.3.17	1.3.3.10	tryptophan alpha,beta-oxidase
 tryptophan side chain oxidase II	1.3.3.10	tryptophan alpha,beta-oxidase
 L-tryptophan 2',3'-oxidase	1.3.3.10	tryptophan alpha,beta-oxidase
 LTO	1.3.3.10	tryptophan alpha,beta-oxidase
-PqqC	1.3.3.11	pyrroloquinoline-quinone synthase
+gene name	1.3.3.11	pyrroloquinoline-quinone synthase
 PqqC/D	1.3.3.11	pyrroloquinoline-quinone synthase
 pyrroloquinoline-quinone synthase	1.3.3.11	pyrroloquinoline-quinone synthase
+pyrroloquinoline/quinone synthesis protein C	1.3.3.11	pyrroloquinoline-quinone synthase
 pyrroloquinoline quinone synthase C	1.3.3.11	pyrroloquinoline-quinone synthase
+quinoprotein dehydrogenase	1.3.3.11	pyrroloquinoline-quinone synthase
 L-galactono-1,4-lactone oxidase	1.3.3.12	L-galactonolactone oxidase
 L-galactono-gamma-lactone oxidase	1.3.3.12	L-galactonolactone oxidase
 galactone-gamma-lactone oxidase	1.3.3.12	L-galactonolactone oxidase
@@ -1008,13 +1171,14 @@ protoporphyrinogen IX oxidase	1.3.3.15	coproporphyrinogen III oxidase (coproporp
 PPO	1.3.3.15	coproporphyrinogen III oxidase (coproporphyrin-forming)
 coproporphyrinogenase	1.3.3.3	coproporphyrinogen oxidase
 COX	1.3.3.3	coproporphyrinogen oxidase
-CPO is thesixth enzyme in the heme biosynthetic pathway	1.3.3.3	coproporphyrinogen oxidase
+CPO isthe sixth enzyme in the heme biosynthetic pathway	1.3.3.3	coproporphyrinogen oxidase
 copro'gen oxidase	1.3.3.3	coproporphyrinogen oxidase
 gene name	1.3.3.3	coproporphyrinogen oxidase
 CPGox	1.3.3.3	coproporphyrinogen oxidase
 coproporphyrinogen III oxidase	1.3.3.3	coproporphyrinogen oxidase
 coproporphyrinogen-III oxidase	1.3.3.3	coproporphyrinogen oxidase
 gene name	1.3.3.3	coproporphyrinogen oxidase
+coproporphyinogen oxidase	1.3.3.3	coproporphyrinogen oxidase
 coproporphyrinogen oxidase	1.3.3.3	coproporphyrinogen oxidase
 Coprogen oxidase	1.3.3.3	coproporphyrinogen oxidase
 CPX1	1.3.3.3	coproporphyrinogen oxidase
@@ -1022,7 +1186,7 @@ CPX2	1.3.3.3	coproporphyrinogen oxidase
 KlHEM13	1.3.3.3	coproporphyrinogen oxidase
 gene name	1.3.3.3	coproporphyrinogen oxidase
 CPgen oxidase	1.3.3.3	coproporphyrinogen oxidase
-HemF	1.3.3.3	coproporphyrinogen oxidase
+gene name	1.3.3.3	coproporphyrinogen oxidase
 CPOX	1.3.3.3	coproporphyrinogen oxidase
 oxygen-dependent coproporphyrinogen III oxidase	1.3.3.3	coproporphyrinogen oxidase
 CPX	1.3.3.3	coproporphyrinogen oxidase
@@ -1034,15 +1198,26 @@ PPO	1.3.3.4	protoporphyrinogen oxidase
 protoporphyrinogen oxidase	1.3.3.4	protoporphyrinogen oxidase
 mitochondrial PPO	1.3.3.4	protoporphyrinogen oxidase
 plastidic PPO	1.3.3.4	protoporphyrinogen oxidase
-HemG	1.3.3.4	protoporphyrinogen oxidase
+MxProtox	1.3.3.4	protoporphyrinogen oxidase
+gene name	1.3.3.4	protoporphyrinogen oxidase
 Protox enzyme	1.3.3.4	protoporphyrinogen oxidase
-hemY	1.3.3.4	protoporphyrinogen oxidase
+gene name	1.3.3.4	protoporphyrinogen oxidase
+protox	1.3.3.4	protoporphyrinogen oxidase
 protoporphyrinogen oxidase IX	1.3.3.4	protoporphyrinogen oxidase
 PPOX I	1.3.3.4	protoporphyrinogen oxidase
-protox	1.3.3.4	protoporphyrinogen oxidase
+MxPPOX	1.3.3.4	protoporphyrinogen oxidase
+hPPO	1.3.3.4	protoporphyrinogen oxidase
 S-PPO	1.3.3.4	protoporphyrinogen oxidase
 R-PPO	1.3.3.4	protoporphyrinogen oxidase
 Rs-slr1790 protein	1.3.3.4	protoporphyrinogen oxidase
+gene name	1.3.3.4	protoporphyrinogen oxidase
+mtPPO	1.3.3.4	protoporphyrinogen oxidase
+protoporphyrinogen IX oxidase 1	1.3.3.4	protoporphyrinogen oxidase
+gene name	1.3.3.4	protoporphyrinogen oxidase
+gene name	1.3.3.4	protoporphyrinogen oxidase
+HemG-type protoporphyrinogen IX oxidase	1.3.3.4	protoporphyrinogen oxidase
+gene name	1.3.3.4	protoporphyrinogen oxidase
+HemG-type PPO	1.3.3.4	protoporphyrinogen oxidase
 protein YfeX	1.3.3.4	protoporphyrinogen oxidase
 YfeX	1.3.3.4	protoporphyrinogen oxidase
 protoporphyrinogen IX oxidase	1.3.3.4	protoporphyrinogen oxidase
@@ -1050,6 +1225,11 @@ heme synthesis enzyme	1.3.3.4	protoporphyrinogen oxidase
 oxidase, bilirubin	1.3.3.5	bilirubin oxidase
 bilirubin oxidase M-1	1.3.3.5	bilirubin oxidase
 CotA	1.3.3.5	bilirubin oxidase
+multicopper oxidase	1.3.3.5	bilirubin oxidase
+gene name	1.3.3.5	bilirubin oxidase
+copper oxidase	1.3.3.5	bilirubin oxidase
+MCO	1.3.3.5	bilirubin oxidase
+MvBOD	1.3.3.5	bilirubin oxidase
 BOD	1.3.3.5	bilirubin oxidase
 bilirubin oxidase	1.3.3.5	bilirubin oxidase
 MvBO	1.3.3.5	bilirubin oxidase
@@ -1110,6 +1290,7 @@ ACOX1-3I	1.3.3.6	acyl-CoA oxidase
 acyl-CoA-oxidase	1.3.3.6	acyl-CoA oxidase
 straight chain acyl-CoA oxidase	1.3.3.6	acyl-CoA oxidase
 also known as ACX5, its substrate preference overlapsconsiderably with ACX1 for long chain acyl-CoA substrates andinfluences jasmonic acid synthesis	1.3.3.6	acyl-CoA oxidase
+acyl-CoA oxidase-1	1.3.3.6	acyl-CoA oxidase
 ACO-I	1.3.3.6	acyl-CoA oxidase
 ACO-II	1.3.3.6	acyl-CoA oxidase
 ACO I	1.3.3.6	acyl-CoA oxidase
@@ -1117,6 +1298,13 @@ acyl-CoA oxidase-II	1.3.3.6	acyl-CoA oxidase
 acyl-CoA oxidase I	1.3.3.6	acyl-CoA oxidase
 Y375K mutant of medium-chain acyl-CoA dehydrogenasethat exhibits acyl-CoA oxidase activity	1.3.3.6	acyl-CoA oxidase
 Acyl-CoA oxidase	1.3.3.6	acyl-CoA oxidase
+PpACX1	1.3.3.6	acyl-CoA oxidase
+UniProt	1.3.3.6	acyl-CoA oxidase
+locus name	1.3.3.6	acyl-CoA oxidase
+gene name	1.3.3.6	acyl-CoA oxidase
+ACOX-1	1.3.3.6	acyl-CoA oxidase
+ACOX-2	1.3.3.6	acyl-CoA oxidase
+ACOX-3	1.3.3.6	acyl-CoA oxidase
 Pox1p	1.3.3.6	acyl-CoA oxidase
 aoxA	1.3.3.6	acyl-CoA oxidase
 long chain fatty acyl-CoA oxidase	1.3.3.6	acyl-CoA oxidase
@@ -1129,11 +1317,8 @@ THBO	1.3.3.8	tetrahydroberberine oxidase
 (S)-H4Ber oxidase	1.3.3.8	tetrahydroberberine oxidase
 (S)-THB oxidase	1.3.3.8	tetrahydroberberine oxidase
 (S)-tetrahydroberberine oxidase	1.3.3.8	tetrahydroberberine oxidase
-synthase, secologanin	1.3.3.9	secologanin synthase
-cytochrome P450 secologanin synthase	1.3.3.9	secologanin synthase
 SLS	1.3.3.9	secologanin synthase
-CYP71A1	1.3.3.9	secologanin synthase
-member of the P450 family CYP72	1.3.3.9	secologanin synthase
+gene name	1.3.3.9	secologanin synthase
 thiol:fumarate reductase	1.3.4.1	fumarate reductase (CoM/CoB)
 Tfr	1.3.4.1	fumarate reductase (CoM/CoB)
 succinic dehydrogenase	1.3.5.1	succinate dehydrogenase
@@ -1170,9 +1355,9 @@ complex II of the respiratory chain	1.3.5.1	succinate dehydrogenase
 mitochondrial succinate:ubiquinone oxidoreductase	1.3.5.1	succinate dehydrogenase
 mitochondrial succinate dehydrogenase	1.3.5.1	succinate dehydrogenase
 succinate dehydrogenase flavoprotein subunit Sdh1p	1.3.5.1	succinate dehydrogenase
-SDH2	1.3.5.1	succinate dehydrogenase
 SDH4	1.3.5.1	succinate dehydrogenase
 SDH1	1.3.5.1	succinate dehydrogenase
+SDH2	1.3.5.1	succinate dehydrogenase
 SDH	1.3.5.1	succinate dehydrogenase
 succinate:menaquinone oxidoreductase	1.3.5.1	succinate dehydrogenase
 operon encoding succinate dehydrogenase	1.3.5.1	succinate dehydrogenase
@@ -1198,10 +1383,19 @@ succinate-quinone reductase	1.3.5.1	succinate dehydrogenase
 succinate:caldariellaquinone oxidoreductase	1.3.5.1	succinate dehydrogenase
 succinate dehydrogenase (caldariellaquinone)	1.3.5.1	succinate dehydrogenase
 UniProt	1.3.5.1	succinate dehydrogenase
-iron-sulfur subunit of succinate dehydrogenase	1.3.5.1	succinate dehydrogenase
 ambiguous	1.3.5.1	succinate dehydrogenase
+iron-sulfur subunit of succinate dehydrogenase	1.3.5.1	succinate dehydrogenase
 succinate dehydrogenase subunit A	1.3.5.1	succinate dehydrogenase
 locus name of flavoprotein subunit	1.3.5.1	succinate dehydrogenase
+gene name	1.3.5.1	succinate dehydrogenase
+gene name	1.3.5.1	succinate dehydrogenase
+gene name	1.3.5.1	succinate dehydrogenase
+gene name	1.3.5.1	succinate dehydrogenase
+gene name	1.3.5.1	succinate dehydrogenase
+gene name	1.3.5.1	succinate dehydrogenase
+gene name	1.3.5.1	succinate dehydrogenase
+gene name	1.3.5.1	succinate dehydrogenase
+gene name	1.3.5.1	succinate dehydrogenase
 succinate:quinone reductases	1.3.5.1	succinate dehydrogenase
 succinate-2,6-dichlorophenolindophenol oxidoreductase	1.3.5.1	succinate dehydrogenase
 DCPIP oxidoreductase	1.3.5.1	succinate dehydrogenase
@@ -1220,6 +1414,11 @@ HemG protein	1.3.5.3	protoporphyrinogen IX dehydrogenase (menaquinone)
 HemG	1.3.5.3	protoporphyrinogen IX dehydrogenase (menaquinone)
 FRD	1.3.5.4	fumarate reductase (quinol)
 cf. EC 1.3.5.1,succinate-ubiquinone oxidoreductase, structurally and functionallyrelated membrane-bound enzyme complexes	1.3.5.4	fumarate reductase (quinol)
+FrdD	1.3.5.4	fumarate reductase (quinol)
+flavoprotein subunit	1.3.5.4	fumarate reductase (quinol)
+FrdC	1.3.5.4	fumarate reductase (quinol)
+MfrA	1.3.5.4	fumarate reductase (quinol)
+MfrB	1.3.5.4	fumarate reductase (quinol)
 quinol-fumarate reductase	1.3.5.4	fumarate reductase (quinol)
 QFR	1.3.5.4	fumarate reductase (quinol)
 ambiguous	1.3.5.4	fumarate reductase (quinol)
@@ -1240,6 +1439,8 @@ PDS	1.3.5.5	15-cis-phytoene desaturase
 CitPDS1	1.3.5.5	15-cis-phytoene desaturase
 gene name	1.3.5.5	15-cis-phytoene desaturase
 PDS3	1.3.5.5	15-cis-phytoene desaturase
+PDS1	1.3.5.5	15-cis-phytoene desaturase
+CrtP	1.3.5.5	15-cis-phytoene desaturase
 phytoene desaturase	1.3.5.6	9,9'-dicis-zeta-carotene desaturase
 CrtI	1.3.5.6	9,9'-dicis-zeta-carotene desaturase
 zeta-carotene desaturase	1.3.5.6	9,9'-dicis-zeta-carotene desaturase
@@ -1251,8 +1452,17 @@ reductase, 6-hydroxynicotinate	1.3.7.1	6-hydroxynicotinate reductase
 6-hydroxynicotinic reductase	1.3.7.1	6-hydroxynicotinate reductase
 HNA reductase	1.3.7.1	6-hydroxynicotinate reductase
 gene name	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
-geranylgeranyl reductase	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
 Sa-GGR	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+SaGGR	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+geranylgeranyl reductase	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+GGR	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+gene name	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+MA1492	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+gene name	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+UniProt	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+CrtI homologue	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+UniProt	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
+MA1484	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
 gene name	1.3.7.11	2,3-bis-O-geranylgeranyl-sn-glycero-phospholipid reductase
 RCC reductase	1.3.7.12	red chlorophyll catabolite reductase
 HvRCCR	1.3.7.12	red chlorophyll catabolite reductase
@@ -1267,13 +1477,25 @@ AtRCCR	1.3.7.12	red chlorophyll catabolite reductase
 red chlorophyll catabolite reductase	1.3.7.12	red chlorophyll catabolite reductase
 ACD2 protein	1.3.7.12	red chlorophyll catabolite reductase
 cyano-type divinyl chlorophyllide a 8-vinyl-reductase	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
-bciB	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+gene name	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+DVR	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+C8-vinyl reductase	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+8V reductase	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+gene name	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+UniProt	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+SyF-DVR	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+Fd-dependent DVR	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+Slr1923 potein	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+8VR	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+PChlide reductase	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+gene name	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+8-vinyl reductase	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
 chlorophyllide a oxidoreductase	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
 gene name	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
+C8-vinyl-reductase	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
 3,8-divinyl chlorophyllide reductase	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
 F-DVR	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
 gene name	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
-C8-vinyl-reductase	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
 ferredoxin-dependent 8-vinyl-protochlorophyllide reductase	1.3.7.13	3,8-divinyl protochlorophyllide a 8-vinyl-reductase (ferredoxin)
 COR	1.3.7.14	3,8-divinyl chlorophyllide a reductase
 subunit	1.3.7.14	3,8-divinyl chlorophyllide a reductase
@@ -1309,6 +1531,7 @@ PphiB synthase	1.3.7.4	phytochromobilin:ferredoxin oxidoreductase
 HT-HY2	1.3.7.4	phytochromobilin:ferredoxin oxidoreductase
 HY2	1.3.7.4	phytochromobilin:ferredoxin oxidoreductase
 phytochromobilin synthase	1.3.7.4	phytochromobilin:ferredoxin oxidoreductase
+gene name	1.3.7.4	phytochromobilin:ferredoxin oxidoreductase
 oxidoreductase, ferredoxin:3Z-phycocyanobilin	1.3.7.5	phycocyanobilin:ferredoxin oxidoreductase
 ferredoxin:3Z-phycocyanobilin oxidoreductase	1.3.7.5	phycocyanobilin:ferredoxin oxidoreductase
 phycocyanobilin synthase	1.3.7.5	phycocyanobilin:ferredoxin oxidoreductase
@@ -1323,9 +1546,10 @@ renamed PebS	1.3.7.6	phycoerythrobilin synthase
 PebS	1.3.7.6	phycoerythrobilin synthase
 PEB synthase	1.3.7.6	phycoerythrobilin synthase
 phycoerythrobilin synthase	1.3.7.6	phycoerythrobilin synthase
-DPOR consists oftwo components, the L-protein and the NB-protein	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
+DPOR consistsof two components, the L-protein and the NB-protein	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 dark-operative Pchlide oxidoreductase	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 dark-operative DPOR	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
+PORA	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 light-independent protochlorophyllide reductase	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 light-independent (dark-operative) Pchlide oxidoreductase	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 dark protochlorophyllide reductase	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
@@ -1340,6 +1564,9 @@ subunit N	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 subunit B	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 dark-operative protochlorophyllide oxidoreductase	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 protochlorophyllide oxidoreductase complex	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
+bchL	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
+bchN	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
+bchB	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 light-independent Pchlide reductase	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 protochlorophyllide oxidoreductase	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
 dark operative protochlorophyllide oxidoreductase	1.3.7.7	ferredoxin:protochlorophyllide reductase (ATP-dependent)
@@ -1383,6 +1610,10 @@ HADHSC	1.3.8.1	short-chain acyl-CoA dehydrogenase
 short-chain acylCoA dehydrogenase	1.3.8.1	short-chain acyl-CoA dehydrogenase
 butyryl-CoA dehydrogenase complex	1.3.8.1	short-chain acyl-CoA dehydrogenase
 gene name	1.3.8.1	short-chain acyl-CoA dehydrogenase
+BcdAf	1.3.8.1	short-chain acyl-CoA dehydrogenase
+non-dissociating bifurcating Etf-Bcd complex	1.3.8.1	short-chain acyl-CoA dehydrogenase
+gene name	1.3.8.1	short-chain acyl-CoA dehydrogenase
+Acfer_1477	1.3.8.1	short-chain acyl-CoA dehydrogenase
 ACADS	1.3.8.1	short-chain acyl-CoA dehydrogenase
 acyl-CoA dehydrogenase short chain	1.3.8.1	short-chain acyl-CoA dehydrogenase
 butyryl coenzyme A dehydrogenase	1.3.8.1	short-chain acyl-CoA dehydrogenase
@@ -1395,11 +1626,20 @@ BCD	1.3.8.1	short-chain acyl-CoA dehydrogenase
 cyclohex-1-ene-1-carboxyl-CoA dehydrogenase	1.3.8.10	cyclohex-1-ene-1-carbonyl-CoA dehydrogenase
 cyclohexanecarboxyl-CoA dehydrogenase	1.3.8.10	cyclohex-1-ene-1-carbonyl-CoA dehydrogenase
 Ch1CoA dehydrogenase	1.3.8.10	cyclohex-1-ene-1-carbonyl-CoA dehydrogenase
+gene name	1.3.8.10	cyclohex-1-ene-1-carbonyl-CoA dehydrogenase
 cyclohexanecarboxyl-CoA dehydrogenase	1.3.8.11	  cyclohexane-1-carbonyl-CoA dehydrogenase
 ChCoA dehydrogenase	1.3.8.11	  cyclohexane-1-carbonyl-CoA dehydrogenase
+gene name	1.3.8.11	  cyclohexane-1-carbonyl-CoA dehydrogenase
 MCD	1.3.8.12	(2S)-methylsuccinyl-CoA dehydrogenase
 caiA	1.3.8.13	crotonobetainyl-CoA reductase
 crotonobetaine reductase	1.3.8.13	crotonobetainyl-CoA reductase
+bmp3	1.3.8.14	L-prolyl-[peptidyl-carrier protein] dehydrogenase
+pltE	1.3.8.14	L-prolyl-[peptidyl-carrier protein] dehydrogenase
+redW	1.3.8.14	L-prolyl-[peptidyl-carrier protein] dehydrogenase
+SC2E9.20	1.3.8.14	L-prolyl-[peptidyl-carrier protein] dehydrogenase
+L-prolyl-S-PCP dehydrogenase	1.3.8.14	L-prolyl-[peptidyl-carrier protein] dehydrogenase
+PigA	1.3.8.14	L-prolyl-[peptidyl-carrier protein] dehydrogenase
+L-prolyl-PCP dehydrogenase	1.3.8.14	L-prolyl-[peptidyl-carrier protein] dehydrogenase
 dehydrosqualene desaturase	1.3.8.2	4,4'-diapophytoene desaturase (4,4'-diapolycopene-forming)
 CrtN	1.3.8.2	4,4'-diapophytoene desaturase (4,4'-diapolycopene-forming)
 CrtQa	1.3.8.2	4,4'-diapophytoene desaturase (4,4'-diapolycopene-forming)
@@ -1438,6 +1678,11 @@ fatty-acyl-CoA dehydrogenase	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 general acyl CoA dehydrogenase	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 EC 1.3.2.2	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 LipB	1.3.8.7	medium-chain acyl-CoA dehydrogenase
+FadE	1.3.8.7	medium-chain acyl-CoA dehydrogenase
+gene name	1.3.8.7	medium-chain acyl-CoA dehydrogenase
+gene name	1.3.8.7	medium-chain acyl-CoA dehydrogenase
+gene name	1.3.8.7	medium-chain acyl-CoA dehydrogenase
+gene name	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 LCAD	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 MCAD	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 medium-chain acyl-coenzyme A dehydrogenase	1.3.8.7	medium-chain acyl-CoA dehydrogenase
@@ -1445,6 +1690,7 @@ MCADH	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 acyl-CoA dehydrogenase-9	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 ACAD-9	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 medium-chain coenzyme A dehydrogenase	1.3.8.7	medium-chain acyl-CoA dehydrogenase
+ACADM	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 medium chain acyl-CoA dehydrogenase	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 medium-chain acyl-CoA dehydrogenase	1.3.8.7	medium-chain acyl-CoA dehydrogenase
 ACD	1.3.8.7	medium-chain acyl-CoA dehydrogenase
@@ -1507,9 +1753,12 @@ class 1A dihydroorotate dehydrogenase	1.3.98.1	dihydroorotate dehydrogenase (fum
 class 1A DHOD	1.3.98.1	dihydroorotate dehydrogenase (fumarate)
 DHODA	1.3.98.1	dihydroorotate dehydrogenase (fumarate)
 class 1A DHODH	1.3.98.1	dihydroorotate dehydrogenase (fumarate)
-HemN	1.3.98.3	coproporphyrinogen dehydrogenase
+gene name	1.3.98.3	coproporphyrinogen dehydrogenase
 oxygen-independent coproporphyrinogen III oxidase	1.3.98.3	coproporphyrinogen dehydrogenase
 anaerobic coproporphyrinogen III oxidase	1.3.98.3	coproporphyrinogen dehydrogenase
+locus name	1.3.98.3	coproporphyrinogen dehydrogenase
+gene name	1.3.98.3	coproporphyrinogen dehydrogenase
+AtHEMN1	1.3.98.3	coproporphyrinogen dehydrogenase
 belongs to the Radical SAM protein family	1.3.98.3	coproporphyrinogen dehydrogenase
 coproporphyrinogenase	1.3.98.3	coproporphyrinogen dehydrogenase
 Coprogen oxidase	1.3.98.3	coproporphyrinogen dehydrogenase
@@ -1571,6 +1820,7 @@ CrtD	1.3.99.27	1-hydroxycarotenoid 3,4-desaturase
 1-HO carotenoid 3,4-dehydrogenase	1.3.99.27	1-hydroxycarotenoid 3,4-desaturase
 P99-3 CrtD	1.3.99.27	1-hydroxycarotenoid 3,4-desaturase
 acyclic carotenoid 3,4-desaturase	1.3.99.27	1-hydroxycarotenoid 3,4-desaturase
+gene name	1.3.99.27	1-hydroxycarotenoid 3,4-desaturase
 phytoene desaturase	1.3.99.28	phytoene desaturase (neurosporene-forming)
 CrtI	1.3.99.28	phytoene desaturase (neurosporene-forming)
 3-step phytoene desaturase	1.3.99.28	phytoene desaturase (neurosporene-forming)
@@ -1583,6 +1833,7 @@ PDS	1.3.99.29	phytoene desaturase (zeta-carotene-forming)
 phytoene desaturase	1.3.99.29	phytoene desaturase (zeta-carotene-forming)
 Al-1	1.3.99.30	phytoene desaturase (3,4-didehydrolycopene-forming)
 crtI (gene name)	1.3.99.30	phytoene desaturase (3,4-didehydrolycopene-forming)
+CrtI	1.3.99.30	phytoene desaturase (3,4-didehydrolycopene-forming)
 gene name	1.3.99.31	phytoene desaturase (lycopene-forming)
 crtI-type phytoene desaturase	1.3.99.31	phytoene desaturase (lycopene-forming)
 phytoene desaturase	1.3.99.31	phytoene desaturase (lycopene-forming)
@@ -1604,6 +1855,9 @@ gene name	1.3.99.37	1-hydroxy-2-isopentenylcarotenoid 3,4-desaturase
 locus name	1.3.99.38	menaquinone-9 beta-reductase
 gene name	1.3.99.38	menaquinone-9 beta-reductase
 locus name	1.3.99.38	menaquinone-9 beta-reductase
+crtU	1.3.99.39	carotenoid phi-ring synthase
+gamma-carotene desaturase	1.3.99.39	carotenoid phi-ring synthase
+gene name	1.3.99.39	carotenoid phi-ring synthase
 dehydrogenase, 3-oxo steroid Delta 1-	1.3.99.4	3-oxosteroid 1-dehydrogenase
 3-oxosteroid Delta1-dehydrogenase	1.3.99.4	3-oxosteroid 1-dehydrogenase
 3-oxosteroid D1-dehydrogenase	1.3.99.4	3-oxosteroid 1-dehydrogenase
@@ -1621,8 +1875,8 @@ KstDF	1.3.99.4	3-oxosteroid 1-dehydrogenase
 4-ene-3-oxosteroid:(acceptor)l-ene-oxidoreductase	1.3.99.4	3-oxosteroid 1-dehydrogenase
 ketosteroid DELTA1-dehydrogenase	1.3.99.4	3-oxosteroid 1-dehydrogenase
 isozyme	1.3.99.4	3-oxosteroid 1-dehydrogenase
-isozyme	1.3.99.4	3-oxosteroid 1-dehydrogenase
 DELTA1-KSTD1	1.3.99.4	3-oxosteroid 1-dehydrogenase
+isozyme	1.3.99.4	3-oxosteroid 1-dehydrogenase
 KsdD1	1.3.99.4	3-oxosteroid 1-dehydrogenase
 KsdD2	1.3.99.4	3-oxosteroid 1-dehydrogenase
 3-ketosteroid delta1-dehydrogenase	1.3.99.4	3-oxosteroid 1-dehydrogenase
@@ -1638,6 +1892,8 @@ KstD	1.3.99.4	3-oxosteroid 1-dehydrogenase
 4-ene-3-oxosteroid: (acceptor)-1-ene-oxoreductase	1.3.99.4	3-oxosteroid 1-dehydrogenase
 3-keto-5alpha-steroid DELTA(1)-dehydrogenase	1.3.99.4	3-oxosteroid 1-dehydrogenase
 KsdD	1.3.99.4	3-oxosteroid 1-dehydrogenase
+crtU	1.3.99.40	carotenoid chi-ring synthase
+cruE	1.3.99.40	carotenoid chi-ring synthase
 dehydrogenase, 3-oxo-5alphasteroid DELTA4-	1.3.99.5	3-oxo-5alpha-steroid 4-dehydrogenase (acceptor)
 3-oxosteroid DELTA4-dehydrogenase	1.3.99.5	3-oxo-5alpha-steroid 4-dehydrogenase (acceptor)
 3-oxo-5alpha-steroid DELTA4-dehydrogenase	1.3.99.5	3-oxo-5alpha-steroid 4-dehydrogenase (acceptor)

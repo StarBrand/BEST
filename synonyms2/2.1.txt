@@ -555,9 +555,9 @@ belongs to the class III methyltransferases	2.1.1.151	cobalt-factor II C20-methy
 precorrin-6X synthase (deacetylating)	2.1.1.152	precorrin-6A synthase (deacetylating)
 CobF	2.1.1.152	precorrin-6A synthase (deacetylating)
 FMT	2.1.1.153	vitexin 2''-O-rhamnoside 7-O-methyltransferase
-methyltransferase, vitexin 2’’-O-rhamnoside 7-O-	2.1.1.153	vitexin 2''-O-rhamnoside 7-O-methyltransferase
-AdoMet:vitexin 2’’-O-rhamnoside 7-O-methyltransferase	2.1.1.153	vitexin 2''-O-rhamnoside 7-O-methyltransferase
-S-adenosyl-L-methionine:vitexin 2’’-O-rhamnoside7-O-methyltransferase	2.1.1.153	vitexin 2''-O-rhamnoside 7-O-methyltransferase
+methyltransferase, vitexin 2''-O-rhamnoside 7-O-	2.1.1.153	vitexin 2''-O-rhamnoside 7-O-methyltransferase
+AdoMet:vitexin 2''-O-rhamnoside 7-O-methyltransferase	2.1.1.153	vitexin 2''-O-rhamnoside 7-O-methyltransferase
+S-adenosyl-L-methionine:vitexin 2''-O-rhamnoside7-O-methyltransferase	2.1.1.153	vitexin 2''-O-rhamnoside 7-O-methyltransferase
 chalcone OMT	2.1.1.154	isoliquiritigenin 2'-O-methyltransferase
 CHMT	2.1.1.154	isoliquiritigenin 2'-O-methyltransferase
 isoliquiritigenin 2'-O-methyltransferasechalcone	2.1.1.154	isoliquiritigenin 2'-O-methyltransferase
@@ -1347,11 +1347,15 @@ C-methyl transferase	2.1.1.255	geranyl diphosphate 2-C-methyltransferase
 gene name	2.1.1.255	geranyl diphosphate 2-C-methyltransferase
 m2G6 methyltransferase	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
 TTCTrmN	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
+TTC1157	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
+TrmN	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
 tRNA:m2G6 methyltransferase	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
 tRNA m2G6 MTase	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
 G6 MTase	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
+tRNA (m2G6) methyltransferase	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
 Trm14	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
 PfTrm14	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
+PF1002	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
 methyltransferase Trm14	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
 m2G6 tRNA methylase	2.1.1.256	tRNA (guanine6-N2)-methyltransferase
 TrmY	2.1.1.257	tRNA (pseudouridine54-N1)-methyltransferase
@@ -1733,8 +1737,9 @@ methyltransferase like 1	2.1.1.33	tRNA (guanine46-N7)-methyltransferase
 Trm8–Trm82 complex	2.1.1.33	tRNA (guanine46-N7)-methyltransferase
 m7G46 methyltransferase Trm8p/Trm82p	2.1.1.33	tRNA (guanine46-N7)-methyltransferase
 transfer RNA (m7G46) methyltransferase	2.1.1.33	tRNA (guanine46-N7)-methyltransferase
-gene name	2.1.1.330	S-adenosyl-L-methionine:2-phytyl-1,4-naphthoquinol C-methyltransferase
-Phex13114	2.1.1.330	S-adenosyl-L-methionine:2-phytyl-1,4-naphthoquinol C-methyltransferase
+S-adenosyl-L-methionine:2-phytyl-1,4-naphthoquinol C-methyltransferase	2.1.1.330	5'-demethylyatein 5'-O-methyltransferase
+gene name	2.1.1.330	5'-demethylyatein 5'-O-methyltransferase
+Phex13114	2.1.1.330	5'-demethylyatein 5'-O-methyltransferase
 gene name	2.1.1.331	bacteriochlorophyllide d C-121-methyltransferase
 bacteriochlorophyllide c C-121-methyltransferase	2.1.1.331	bacteriochlorophyllide d C-121-methyltransferase
 gene name	2.1.1.332	bacteriochlorophyllide d C-82-methyltransferase
@@ -1772,6 +1777,26 @@ vanillate/3-O-methylgallate O-demethylase	2.1.1.341	vanillate/3-O-methylgallate 
 DesA	2.1.1.341	vanillate/3-O-methylgallate O-demethylase
 syringate O-demethylase	2.1.1.341	vanillate/3-O-methylgallate O-demethylase
 chuW	2.1.1.342	anaerobilin synthase
+N,N-8-amino-8-demethyl-D-riboflavin dimethyltransferase	2.1.1.343	8-amino-8-demethylriboflavin N,N-dimethyltransferase
+rosA: gene name	2.1.1.343	8-amino-8-demethylriboflavin N,N-dimethyltransferase
+gene name, ornithine lipid synthesis G	2.1.1.344	ornithine lipid N-methyltransferase
+Sinac 1600	2.1.1.344	ornithine lipid N-methyltransferase
+OL N-methyltransferase	2.1.1.344	ornithine lipid N-methyltransferase
+PsiM	2.1.1.345	psilocybin synthase
+gene name	2.1.1.346	U6 snRNA m6A methyltransferase
+methyltransferase like protein 16	2.1.1.346	U6 snRNA m6A methyltransferase
+N6-methyladenosine (m6A) methyltransferase	2.1.1.346	U6 snRNA m6A methyltransferase
+METTL16	2.1.1.347	(+)-O-methylkolavelool synthase
+locus name	2.1.1.347	(+)-O-methylkolavelool synthase
+IME4	2.1.1.348	mRNA m6A methyltransferase
+FTO	2.1.1.348	mRNA m6A methyltransferase
+ALKBH5	2.1.1.348	mRNA m6A methyltransferase
+YTHDF2	2.1.1.348	mRNA m6A methyltransferase
+METTL14	2.1.1.348	mRNA m6A methyltransferase
+METTL3	2.1.1.348	mRNA m6A methyltransferase
+MTA	2.1.1.348	mRNA m6A methyltransferase
+N6-adenosine-methyltransferase	2.1.1.348	mRNA m6A methyltransferase
+toxA	2.1.1.349	toxoflavin synthase
 methyltransferase, transfer ribonucleate uracil 5-	2.1.1.35	tRNA (uracil54-C5)-methyltransferase
 ribothymidyl synthase	2.1.1.35	tRNA (uracil54-C5)-methyltransferase
 transfer RNA uracil 5-methyltransferase	2.1.1.35	tRNA (uracil54-C5)-methyltransferase
@@ -2163,16 +2188,20 @@ human TS	2.1.1.45	thymidylate synthase
 thymidylate synthase	2.1.1.45	thymidylate synthase
 TSase	2.1.1.45	thymidylate synthase
 gene name	2.1.1.45	thymidylate synthase
+bifunctional TS-DHFR	2.1.1.45	thymidylate synthase
 BgDHFR-TS	2.1.1.45	thymidylate synthase
 Thy1	2.1.1.45	thymidylate synthase
+gene name	2.1.1.45	thymidylate synthase
 ThyX	2.1.1.45	thymidylate synthase
+cf. EC 1.5.1.3	2.1.1.45	thymidylate synthase
+DFR-TS	2.1.1.45	thymidylate synthase
 DHFR–TS	2.1.1.45	thymidylate synthase
 bifunctional enzyme	2.1.1.45	thymidylate synthase
 Y110A7A.4	2.1.1.45	thymidylate synthase
 ThyA	2.1.1.45	thymidylate synthase
 DHFR-TS	2.1.1.45	thymidylate synthase
 thymidylate synthase A	2.1.1.45	thymidylate synthase
-bifunctionalenzyme	2.1.1.45	thymidylate synthase
+bifunctional enzyme	2.1.1.45	thymidylate synthase
 S-adenosylmethionine:isoflavone 4'-O-methyltransferase	2.1.1.46	isoflavone 4'-O-methyltransferase
 methyltransferase, indolepyruvate	2.1.1.47	indolepyruvate C-methyltransferase
 indolepyruvate 3-methyltransferase	2.1.1.47	indolepyruvate C-methyltransferase
@@ -2208,6 +2237,7 @@ LAMT	2.1.1.50	loganate O-methyltransferase
 recombinant LAMT	2.1.1.50	loganate O-methyltransferase
 methyltransferase, putrescine	2.1.1.53	putrescine N-methyltransferase
 putrescine methyltransferase	2.1.1.53	putrescine N-methyltransferase
+NtPMT	2.1.1.53	putrescine N-methyltransferase
 PMT	2.1.1.53	putrescine N-methyltransferase
 putrescine N-methyltransferase	2.1.1.53	putrescine N-methyltransferase
 isoform	2.1.1.53	putrescine N-methyltransferase
@@ -2363,6 +2393,7 @@ AGT	2.1.1.63	methylated-DNA-[protein]-cysteine S-methyltransferase
 O6-alkylguanine-DNA alkyltransferase	2.1.1.63	methylated-DNA-[protein]-cysteine S-methyltransferase
 MGMT	2.1.1.63	methylated-DNA-[protein]-cysteine S-methyltransferase
 locus name	2.1.1.63	methylated-DNA-[protein]-cysteine S-methyltransferase
+alkylated DNA-protein alkyltransferase	2.1.1.63	methylated-DNA-[protein]-cysteine S-methyltransferase
 TTHA1564	2.1.1.63	methylated-DNA-[protein]-cysteine S-methyltransferase
 OGT	2.1.1.63	methylated-DNA-[protein]-cysteine S-methyltransferase
 Ada-C	2.1.1.63	methylated-DNA-[protein]-cysteine S-methyltransferase
@@ -2523,10 +2554,12 @@ CcrM	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 cell-cycle regulating MTase	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 M. TthP	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 adenine methyltransferase	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
-a type II restriction endonuclease that combinesendonuclease and methyltransferase activities	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
+DNA N-6 adenine methyltransferase	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
+Pho(M98A)Dam	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 Hin1523 protein	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 DNA adenine N6-methyltransferases	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 DNAm6A MTase	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
+a type II restriction endonuclease that combinesendonuclease and methyltransferase activities	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 M.MboIIA	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 a type IIS methyltransferase	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 adenine N6-methyltransferase	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
@@ -2548,7 +2581,6 @@ M.EfaBMDam	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 M.BstZ1II	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 specific methyltransferase	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 M.Csp231I	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
-a type II restriction endonuclease that combinesendonuclease and methyltransferase activities	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 a type II restriction endonuclease that combinesendonuclease and methyltransferase activities	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 a type II restriction endonuclease that combinesendonuclease and methyltransferase activities	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 EcoRV	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
@@ -2579,6 +2611,7 @@ DNA-[N6-adenine] MTase	2.1.1.72	site-specific DNA-methyltransferase (adenine-spe
 N6 adenine MTase	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 DNA-(adenine-N6)-methyltransferase	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 DNA-(adenine N6)-methyltransferase	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
+a type II restriction endonuclease that combinesendonuclease and methyltransferase activities	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 a type II restriction endonuclease that combinesendonuclease and methyltransferase activities	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 a type II restriction endonuclease that combinesendonuclease and methyltransferase activities	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
 a type II restriction endonuclease that combinesendonuclease and methyltransferase activities	2.1.1.72	site-specific DNA-methyltransferase (adenine-specific)
@@ -2895,6 +2928,7 @@ PurN	2.1.2.2	phosphoribosylglycinamide formyltransferase
 2-amino-N-ribosylacetamide 5'-phosphate (glycinamide ribotide)transformylase	2.1.2.2	phosphoribosylglycinamide formyltransferase
 GARFT	2.1.2.2	phosphoribosylglycinamide formyltransferase
 glycinamide ribonucleotide formyl transferase	2.1.2.2	phosphoribosylglycinamide formyltransferase
+trifunctional purine biosynthetic protein adenosine-3	2.1.2.2	phosphoribosylglycinamide formyltransferase
 GART synthetase	2.1.2.2	phosphoribosylglycinamide formyltransferase
 glycinamide ribonucleotide formyltransferase	2.1.2.2	phosphoribosylglycinamide formyltransferase
 GARFTase	2.1.2.2	phosphoribosylglycinamide formyltransferase
@@ -3002,6 +3036,10 @@ SOTCase	2.1.3.11	N-succinylornithine carbamoyltransferase
 succinylornithine transcarbamylase	2.1.3.11	N-succinylornithine carbamoyltransferase
 ArgF	2.1.3.11	N-succinylornithine carbamoyltransferase
 NovN	2.1.3.12	decarbamoylnovobiocin carbamoyltransferase
+accAD	2.1.3.15	acetyl-CoA carboxytransferase
+acetyl-CoA carboxylase carboxyltransferase domain	2.1.3.15	acetyl-CoA carboxytransferase
+the enzyme consists of a biotincarboxylase activity, a biotin carboxyl carrier protein, and acarboxyltransferase activity	2.1.3.15	acetyl-CoA carboxytransferase
+ACC2	2.1.3.15	acetyl-CoA carboxytransferase
 carbamoyltransferase, aspartate	2.1.3.2	aspartate carbamoyltransferase
 aspartate carbamyltransferase	2.1.3.2	aspartate carbamoyltransferase
 aspartic acid transcarbamoylase	2.1.3.2	aspartate carbamoyltransferase
@@ -3093,3 +3131,4 @@ L-arginine:inosamine phosphate amidinotransferase	2.1.4.2	scyllo-inosamine-4-pho
 inosamine-phosphate amidinotransferase	2.1.4.2	scyllo-inosamine-4-phosphate amidinotransferase
 aminocyclitolamidinotransferase	2.1.4.2	scyllo-inosamine-4-phosphate amidinotransferase
 arginine:Xamidinotransferase	2.1.4.2	scyllo-inosamine-4-phosphate amidinotransferase
+SesA	2.1.5.1	sesamin methylene transferase

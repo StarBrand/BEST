@@ -35,6 +35,7 @@ heme-thiolate chloroperoxidase	1.11.1.10	chloride peroxidase
 CCPO	1.11.1.10	chloride peroxidase
 choroperoxidase	1.11.1.10	chloride peroxidase
 CPO-I	1.11.1.10	chloride peroxidase
+CPO2	1.11.1.10	chloride peroxidase
 L-ascorbic acid peroxidase	1.11.1.11	L-ascorbate peroxidase
 L-ascorbic acid-specific peroxidase	1.11.1.11	L-ascorbate peroxidase
 peroxidase, ascorbate	1.11.1.11	L-ascorbate peroxidase
@@ -93,6 +94,7 @@ HvAPX1	1.11.1.11	L-ascorbate peroxidase
 pAPX	1.11.1.11	L-ascorbate peroxidase
 ordered locus name	1.11.1.11	L-ascorbate peroxidase
 gene name	1.11.1.11	L-ascorbate peroxidase
+APEX2	1.11.1.11	L-ascorbate peroxidase
 peroxidation-inhibiting protein	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
 peroxidation-inhibiting protein: peroxidase, glutathione (phospholipidhydroperoxide-reducing)	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
 hydroperoxide glutathione peroxidase	1.11.1.12	phospholipid-hydroperoxide glutathione peroxidase
@@ -143,6 +145,7 @@ peroxidase-M2	1.11.1.13	manganese peroxidase
 Mn-dependent (NADH-oxidizing) peroxidase	1.11.1.13	manganese peroxidase
 peroxidase, manganese	1.11.1.13	manganese peroxidase
 MP	1.11.1.13	manganese peroxidase
+MnP6	1.11.1.13	manganese peroxidase
 hybrid Mn-peroxidase	1.11.1.13	manganese peroxidase
 MnP II	1.11.1.13	manganese peroxidase
 Mn2+:hydrogen peroxide oxidoreductase	1.11.1.13	manganese peroxidase
@@ -164,24 +167,30 @@ oxygenase, diarylpropane	1.11.1.14	lignin peroxidase
 diarylpropane oxygenase	1.11.1.14	lignin peroxidase
 ligninase I	1.11.1.14	lignin peroxidase
 diarylpropane:oxygen,hydrogen-peroxide oxidoreductase(C-C-bond-cleaving)	1.11.1.14	lignin peroxidase
-ligninperoxidase	1.11.1.14	lignin peroxidase
+ALiP-P3	1.11.1.14	lignin peroxidase
+mushroom tyrosinase	1.11.1.14	lignin peroxidase
 ligninase LG5	1.11.1.14	lignin peroxidase
 lipJ	1.11.1.14	lignin peroxidase
 Pr-lip1	1.11.1.14	lignin peroxidase
 lignin peroxidase LIII	1.11.1.14	lignin peroxidase
 Pr-lip4	1.11.1.14	lignin peroxidase
 ligninase H8	1.11.1.14	lignin peroxidase
+ligninperoxidase	1.11.1.14	lignin peroxidase
 LIP	1.11.1.14	lignin peroxidase
 DypB	1.11.1.14	lignin peroxidase
+ligninase H2	1.11.1.14	lignin peroxidase
+gene name	1.11.1.14	lignin peroxidase
 H2O2-dependent ligninase	1.11.1.14	lignin peroxidase
 LIP2	1.11.1.14	lignin peroxidase
 Lip1	1.11.1.14	lignin peroxidase
+heme-containing lignin peroxidase	1.11.1.14	lignin peroxidase
+heme-containing peroxidase	1.11.1.14	lignin peroxidase
 ligninase	1.11.1.14	lignin peroxidase
-ALiP-P3	1.11.1.14	lignin peroxidase
 AhpC	1.11.1.15	peroxiredoxin
 atypical two-cysteine peroxidase	1.11.1.15	peroxiredoxin
 SAOUHSC_01822	1.11.1.15	peroxiredoxin
 PH1217 protein	1.11.1.15	peroxiredoxin
+gene name	1.11.1.15	peroxiredoxin
 CIC-Prx	1.11.1.15	peroxiredoxin
 C2C-Prx	1.11.1.15	peroxiredoxin
 C-PrxII	1.11.1.15	peroxiredoxin
@@ -197,6 +206,7 @@ type II peroxiredoxin F	1.11.1.15	peroxiredoxin
 peroxiredoxin Q	1.11.1.15	peroxiredoxin
 Prx Q	1.11.1.15	peroxiredoxin
 PrxII F	1.11.1.15	peroxiredoxin
+Px IV	1.11.1.15	peroxiredoxin
 tryparedoxin peroxidase	1.11.1.15	peroxiredoxin
 TXNPx	1.11.1.15	peroxiredoxin
 thioredoxin-dependent peroxidase	1.11.1.15	peroxiredoxin
@@ -330,18 +340,18 @@ BiTPx1	1.11.1.15	peroxiredoxin
 B-type dye-decolorizing peroxidase	1.11.1.16	versatile peroxidase
 Mnp4	1.11.1.16	versatile peroxidase
 manganese peroxidase 4	1.11.1.16	versatile peroxidase
+VP1	1.11.1.16	versatile peroxidase
 versatile peroxidase MnP2	1.11.1.16	versatile peroxidase
 R1B4	1.11.1.16	versatile peroxidase
 versatile peroxidase	1.11.1.16	versatile peroxidase
 versatile peroxidase VPL2 precursor	1.11.1.16	versatile peroxidase
-Vpl2	1.11.1.16	versatile peroxidase
+isoform	1.11.1.16	versatile peroxidase
 glutathione amide reductase, cf. EC 1.8.1.16	1.11.1.17	glutathione amide-dependent peroxidase
 gene name	1.11.1.17	glutathione amide-dependent peroxidase
 peroxidoxin/glutaredoxin chimericenzyme	1.11.1.17	glutathione amide-dependent peroxidase
 Prx-containing peroxidase	1.11.1.17	glutathione amide-dependent peroxidase
 non-heme haloperoxidases	1.11.1.18	bromide peroxidase
 non-haem bromoperoxidase BPO-A2	1.11.1.18	bromide peroxidase
-bromoperoxidase	1.11.1.18	bromide peroxidase
 vanadium-dependent peroxidase	1.11.1.18	bromide peroxidase
 bromoperoxidase I	1.11.1.18	bromide peroxidase
 vanadate-dependent bromoperoxidase I	1.11.1.18	bromide peroxidase
@@ -350,6 +360,7 @@ formerly	1.11.1.18	bromide peroxidase
 BPO	1.11.1.18	bromide peroxidase
 vBPO	1.11.1.18	bromide peroxidase
 VBrPO(AnI)	1.11.1.18	bromide peroxidase
+bromoperoxidase	1.11.1.18	bromide peroxidase
 non-heme-type bromoperoxidase	1.11.1.18	bromide peroxidase
 vanadium containing bromoperoxidase	1.11.1.18	bromide peroxidase
 BrPO	1.11.1.18	bromide peroxidase
@@ -358,7 +369,9 @@ apobromoperoxidase I	1.11.1.18	bromide peroxidase
 vanadium-dependent haloperoxidase	1.11.1.18	bromide peroxidase
 nonheme bromoperoxidase	1.11.1.18	bromide peroxidase
 vanadium-dependent bromoperoxidase 2	1.11.1.18	bromide peroxidase
-VBPO1	1.11.1.18	bromide peroxidase
+isoform	1.11.1.18	bromide peroxidase
+BPO1	1.11.1.18	bromide peroxidase
+isoform	1.11.1.18	bromide peroxidase
 nonhaem-type bromoperoxidase BPO 1a	1.11.1.18	bromide peroxidase
 nonhaem-type bromoperoxidase BPO 1b	1.11.1.18	bromide peroxidase
 nonhaem-type bromoperoxidase BPO 3	1.11.1.18	bromide peroxidase
@@ -381,18 +394,25 @@ enzyme which is expressed by Escherichia coli asinclusion bodies and subsequentl
 vanadium bromoperoxidase	1.11.1.18	bromide peroxidase
 V-BPO	1.11.1.18	bromide peroxidase
 YwbN	1.11.1.19	dye decolorizing peroxidase
-DyP	1.11.1.19	dye decolorizing peroxidase
 dye-decolorizing peroxidase	1.11.1.19	dye decolorizing peroxidase
+DyP	1.11.1.19	dye decolorizing peroxidase
 DyP-type peroxidase	1.11.1.19	dye decolorizing peroxidase
+isozyme	1.11.1.19	dye decolorizing peroxidase
+LiP BA45	1.11.1.19	dye decolorizing peroxidase
+tyrA	1.11.1.19	dye decolorizing peroxidase
 TT1485	1.11.1.19	dye decolorizing peroxidase
 manganese-independent peroxidase I	1.11.1.19	dye decolorizing peroxidase
 manganese-independent peroxidase II	1.11.1.19	dye decolorizing peroxidase
-AnaPX	1.11.1.19	dye decolorizing peroxidase
 YcdB	1.11.1.19	dye decolorizing peroxidase
+YfeX	1.11.1.19	dye decolorizing peroxidase
+AnaPX	1.11.1.19	dye decolorizing peroxidase
+DyP-I	1.11.1.19	dye decolorizing peroxidase
+DyP I	1.11.1.19	dye decolorizing peroxidase
+DyP II	1.11.1.19	dye decolorizing peroxidase
+LiP-SN	1.11.1.19	dye decolorizing peroxidase
+EfeB	1.11.1.19	dye decolorizing peroxidase
 isozyme	1.11.1.19	dye decolorizing peroxidase
 isozyme	1.11.1.19	dye decolorizing peroxidase
-isozyme	1.11.1.19	dye decolorizing peroxidase
-tyrA	1.11.1.19	dye decolorizing peroxidase
 TPNH peroxidase	1.11.1.2	NADPH peroxidase
 nicotinamide adenine dinucleotide phosphate peroxidase	1.11.1.2	NADPH peroxidase
 NADP peroxidase	1.11.1.2	NADPH peroxidase
@@ -406,22 +426,28 @@ prostamide/PGF synthase	1.11.1.20	prostamide/prostaglandin F2alpha synthase
 prostamide F synthase	1.11.1.20	prostamide/prostaglandin F2alpha synthase
 prostaglandin F ethanolamide synthase	1.11.1.20	prostamide/prostaglandin F2alpha synthase
 PGF prostamide F synthase	1.11.1.20	prostamide/prostaglandin F2alpha synthase
+KpCP	1.11.1.21	catalase-peroxidase
 bifunctionalenzyme with activities of EC 1.11.1.6 and EC 1.11.1.7	1.11.1.21	catalase-peroxidase
+CAT	1.11.1.21	catalase-peroxidase
 PCP	1.11.1.21	catalase-peroxidase
 formerly	1.11.1.21	catalase-peroxidase
+HCP	1.11.1.21	catalase-peroxidase
+bifunctional enzyme with activities of EC 1.11.1.6 and EC1.11.1.7	1.11.1.21	catalase-peroxidase
+gene name	1.11.1.21	catalase-peroxidase
+gene name	1.11.1.21	catalase-peroxidase
 CPX	1.11.1.21	catalase-peroxidase
 catalase -peroxidase KatG	1.11.1.21	catalase-peroxidase
-HCP	1.11.1.21	catalase-peroxidase
 located intracellularly	1.11.1.21	catalase-peroxidase
-catalase/peroxidase	1.11.1.21	catalase-peroxidase
-located extracellularly	1.11.1.21	catalase-peroxidase
-CP 2	1.11.1.21	catalase-peroxidase
 KatP	1.11.1.21	catalase-peroxidase
 hydroperoxidase I	1.11.1.21	catalase-peroxidase
+FeSOD A	1.11.1.21	catalase-peroxidase
+catalase/peroxidase	1.11.1.21	catalase-peroxidase
 HPI	1.11.1.21	catalase-peroxidase
-bifunctional enzyme with activities of EC 1.11.1.6 and EC1.11.1.7	1.11.1.21	catalase-peroxidase
+located extracellularly	1.11.1.21	catalase-peroxidase
+CP 2	1.11.1.21	catalase-peroxidase
+katX2	1.11.1.21	catalase-peroxidase
+gene name	1.11.1.21	catalase-peroxidase
 hemoprotein b-590	1.11.1.21	catalase-peroxidase
-KpCP	1.11.1.21	catalase-peroxidase
 isoform	1.11.1.22	hydroperoxy fatty acid reductase
 isoform	1.11.1.22	hydroperoxy fatty acid reductase
 gene name	1.11.1.22	hydroperoxy fatty acid reductase
@@ -453,19 +479,21 @@ di-heme cytochrome c peroxidase	1.11.1.5	cytochrome-c peroxidase
 putative cytochrome c peroxidase	1.11.1.5	cytochrome-c peroxidase
 putative cytochrome c peroxidase	1.11.1.5	cytochrome-c peroxidase
 bacterial di-heme cytochrome c peroxidase	1.11.1.5	cytochrome-c peroxidase
-gene name	1.11.1.5	cytochrome-c peroxidase
+cytochrome c iso-1	1.11.1.5	cytochrome-c peroxidase
 cytochrome c peroxidase	1.11.1.5	cytochrome-c peroxidase
 CCP	1.11.1.5	cytochrome-c peroxidase
+gene name	1.11.1.5	cytochrome-c peroxidase
 MacA	1.11.1.5	cytochrome-c peroxidase
 CCP1	1.11.1.5	cytochrome-c peroxidase
 BCcP	1.11.1.5	cytochrome-c peroxidase
 Psa CcP	1.11.1.5	cytochrome-c peroxidase
 diheme cytochrome c peroxidase	1.11.1.5	cytochrome-c peroxidase
+diheme cytochrome c5 peroxidase CcpA	1.11.1.5	cytochrome-c peroxidase
 equilase	1.11.1.6	catalase
 caperase	1.11.1.6	catalase
 optidase	1.11.1.6	catalase
 polyethylene glycol-catalase	1.11.1.6	catalase
-CAT	1.11.1.6	catalase
+gene name	1.11.1.6	catalase
 Ab-catalase	1.11.1.6	catalase
 VktA	1.11.1.6	catalase
 catalase	1.11.1.6	catalase
@@ -482,6 +510,7 @@ monofunctional catalase	1.11.1.6	catalase
 PktA	1.11.1.6	catalase
 catalase-A	1.11.1.6	catalase
 haem catalase	1.11.1.6	catalase
+KAT	1.11.1.6	catalase
 KatB	1.11.1.6	catalase
 KatC	1.11.1.6	catalase
 CcmC	1.11.1.6	catalase
@@ -518,8 +547,20 @@ oxyperoxidase	1.11.1.7	peroxidase
 protoheme peroxidase	1.11.1.7	peroxidase
 pyrocatechol peroxidase	1.11.1.7	peroxidase
 scopoletin peroxidase	1.11.1.7	peroxidase
-SPC4	1.11.1.7	peroxidase
 POD	1.11.1.7	peroxidase
+CYP119	1.11.1.7	peroxidase
+locus name	1.11.1.7	peroxidase
+POX	1.11.1.7	peroxidase
+PerII	1.11.1.7	peroxidase
+BCcP	1.11.1.7	peroxidase
+gene name	1.11.1.7	peroxidase
+dehaloperoxidase A	1.11.1.7	peroxidase
+DHP A	1.11.1.7	peroxidase
+HRP_C1A	1.11.1.7	peroxidase
+HRP_A2A	1.11.1.7	peroxidase
+HRP_E5	1.11.1.7	peroxidase
+HRP A2	1.11.1.7	peroxidase
+dehaloperoxidase B	1.11.1.7	peroxidase
 TOP	1.11.1.7	peroxidase
 isoform	1.11.1.7	peroxidase
 class III plant peroxidase	1.11.1.7	peroxidase
@@ -574,6 +615,13 @@ MAP-2744c	1.11.1.7	peroxidase
 isoform	1.11.1.7	peroxidase
 cationic peroxidase Cs	1.11.1.7	peroxidase
 donor: hydrogen peroxide oxidoreductase	1.11.1.7	peroxidase
+SPC4	1.11.1.7	peroxidase
+SacD	1.11.1.7	peroxidase
+p20	1.11.1.7	peroxidase
+scavengase	1.11.1.7	peroxidase
+SfmD	1.11.1.7	peroxidase
+thiol peroxidase	1.11.1.7	peroxidase
+Tpx is an atypical 2-Cys peroxiredoxin	1.11.1.7	peroxidase
 acidic peroxidase	1.11.1.7	peroxidase
 acidic POD	1.11.1.7	peroxidase
 neutral peroxidase	1.11.1.7	peroxidase
@@ -581,12 +629,6 @@ neutral POD	1.11.1.7	peroxidase
 basic peroxidase	1.11.1.7	peroxidase
 basic POD	1.11.1.7	peroxidase
 anionic peroxidase A1	1.11.1.7	peroxidase
-SacD	1.11.1.7	peroxidase
-p20	1.11.1.7	peroxidase
-scavengase	1.11.1.7	peroxidase
-SfmD	1.11.1.7	peroxidase
-thiol peroxidase	1.11.1.7	peroxidase
-Tpx is an atypical 2-Cys peroxiredoxin	1.11.1.7	peroxidase
 isozyme	1.11.1.7	peroxidase
 isozyme	1.11.1.7	peroxidase
 Prx114	1.11.1.7	peroxidase
@@ -596,20 +638,21 @@ hexacoordinate (class 1) non-symbiotic hemoglobin	1.11.1.7	peroxidase
 nsHb-1	1.11.1.7	peroxidase
 Hb1	1.11.1.7	peroxidase
 TP I	1.11.1.7	peroxidase
-peroxidase	1.11.1.7	peroxidase
-POX2	1.11.1.7	peroxidase
-POX I	1.11.1.7	peroxidase
-POX II	1.11.1.7	peroxidase
 MPO	1.11.1.7	peroxidase
 recombinant human eosinophil peroxidase	1.11.1.7	peroxidase
 as a hemoprotein, hemoglobin can, in thepresence of H2O2, act as a peroxidase	1.11.1.7	peroxidase
 Hb peroxidase	1.11.1.7	peroxidase
 myeloperoxidase	1.11.1.7	peroxidase
+peroxidase	1.11.1.7	peroxidase
+POX2	1.11.1.7	peroxidase
+POX I	1.11.1.7	peroxidase
+POX II	1.11.1.7	peroxidase
 AnaPX	1.11.1.7	peroxidase
 isoform	1.11.1.7	peroxidase
+DtpA	1.11.1.7	peroxidase
 Prx15	1.11.1.7	peroxidase
-H2O2 oxidoreductase	1.11.1.7	peroxidase
 eosinophil peroxidase	1.11.1.7	peroxidase
+H2O2 oxidoreductase	1.11.1.7	peroxidase
 isoenzyme C	1.11.1.7	peroxidase
 acidic isoform, type A	1.11.1.7	peroxidase
 HRPO	1.11.1.7	peroxidase
@@ -623,43 +666,42 @@ HRP	1.11.1.7	peroxidase
 type VI	1.11.1.7	peroxidase
 VP	1.11.1.7	peroxidase
 versatile peroxidase	1.11.1.7	peroxidase
+EPO	1.11.1.7	peroxidase
 ELP	1.11.1.7	peroxidase
 AOPTP	1.11.1.7	peroxidase
-EPO	1.11.1.7	peroxidase
 PA1	1.11.1.7	peroxidase
 anionic isoperoxidase	1.11.1.7	peroxidase
 POII	1.11.1.7	peroxidase
 cationic peroxidase	1.11.1.7	peroxidase
-versatile peroxidase VPL2	1.11.1.7	peroxidase
-peroxidase isoenzyme E5	1.11.1.7	peroxidase
-WPTP	1.11.1.7	peroxidase
 heme peroxidase	1.11.1.7	peroxidase
 LPS	1.11.1.7	peroxidase
 lactoperoxidase	1.11.1.7	peroxidase
 LPO	1.11.1.7	peroxidase
-quinol peroxidase	1.11.1.7	peroxidase
-QPO	1.11.1.7	peroxidase
-RPTP	1.11.1.7	peroxidase
-member of the class IIIperoxidases	1.11.1.7	peroxidase
+versatile peroxidase VPL2	1.11.1.7	peroxidase
+peroxidase isoenzyme E5	1.11.1.7	peroxidase
+WPTP	1.11.1.7	peroxidase
 extracellular peroxidase	1.11.1.7	peroxidase
 ECPOX	1.11.1.7	peroxidase
 isozyme	1.11.1.7	peroxidase
 isozyme	1.11.1.7	peroxidase
 isozyme	1.11.1.7	peroxidase
+quinol peroxidase	1.11.1.7	peroxidase
+QPO	1.11.1.7	peroxidase
+RPTP	1.11.1.7	peroxidase
+member of the class IIIperoxidases	1.11.1.7	peroxidase
 ALSP	1.11.1.7	peroxidase
 hydrogen donor oxidoreductase	1.11.1.7	peroxidase
+vacuolar class III peroxidase	1.11.1.7	peroxidase
 tyrosine-coordinated heme protein	1.11.1.7	peroxidase
 peroxidase and catalase activity	1.11.1.7	peroxidase
+CP	1.11.1.7	peroxidase
+constitutive peroxidase	1.11.1.7	peroxidase
 isozyme	1.11.1.7	peroxidase
 donor: H2O2 oxidoreductase	1.11.1.7	peroxidase
 MGP	1.11.1.7	peroxidase
 Ssp	1.11.1.7	peroxidase
 stigma-specific peroxidase	1.11.1.7	peroxidase
-CP	1.11.1.7	peroxidase
-constitutive peroxidase	1.11.1.7	peroxidase
-CYP119	1.11.1.7	peroxidase
-locus name	1.11.1.7	peroxidase
-POX	1.11.1.7	peroxidase
+HRP C1A	1.11.1.7	peroxidase
 iodoperoxidase (heme type)	1.11.1.8	iodide peroxidase
 iodotyrosine deiodase	1.11.1.8	iodide peroxidase
 iodinase	1.11.1.8	iodide peroxidase
@@ -709,6 +751,8 @@ TcGPXI	1.11.1.9	glutathione peroxidase
 glutathione-dependent peroxidase I	1.11.1.9	glutathione peroxidase
 selenium-dependent glutathione peroxidase	1.11.1.9	glutathione peroxidase
 Se-GPx	1.11.1.9	glutathione peroxidase
+3,3'-telluro-bis(proapne-3,1-diyl)adamantane carboxylate	1.11.1.9	glutathione peroxidase
+ADA-Te-OH	1.11.1.9	glutathione peroxidase
 intracellular GpX	1.11.1.9	glutathione peroxidase
 secreted GpX	1.11.1.9	glutathione peroxidase
 ATGPX3	1.11.1.9	glutathione peroxidase
@@ -717,8 +761,6 @@ PHGPX	1.11.1.9	glutathione peroxidase
 previously known as plasma GPx or pGPx	1.11.1.9	glutathione peroxidase
 glutathione peroxidase-3	1.11.1.9	glutathione peroxidase
 GPx-8	1.11.1.9	glutathione peroxidase
-previously known as epididymal GPx or eGPx	1.11.1.9	glutathione peroxidase
-previously named olfactory-metabolizing protein or OMP	1.11.1.9	glutathione peroxidase
 GSHPx	1.11.1.9	glutathione peroxidase
 glutathione peroxidase Gpx2	1.11.1.9	glutathione peroxidase
 glutathione peroxidase 2	1.11.1.9	glutathione peroxidase
@@ -728,9 +770,11 @@ glutathione peroxidase 1	1.11.1.9	glutathione peroxidase
 isozyme	1.11.1.9	glutathione peroxidase
 GPX5	1.11.1.9	glutathione peroxidase
 Gpx2	1.11.1.9	glutathione peroxidase
-GPX	1.11.1.9	glutathione peroxidase
+gene name	1.11.1.9	glutathione peroxidase
 isozyme	1.11.1.9	glutathione peroxidase
 isozyme	1.11.1.9	glutathione peroxidase
+previously known as epididymal GPx or eGPx	1.11.1.9	glutathione peroxidase
+previously named olfactory-metabolizing protein or OMP	1.11.1.9	glutathione peroxidase
 the isozyme has only low glutathione peoxidaseactivity	1.11.1.9	glutathione peroxidase
 phospholipid glutathione peroxidase	1.11.1.9	glutathione peroxidase
 phospholipid hydroperoxide Gpx	1.11.1.9	glutathione peroxidase
@@ -751,6 +795,7 @@ locus name	1.11.1.9	glutathione peroxidase
 SeGPx	1.11.1.9	glutathione peroxidase
 glutathione:hydrogen-peroxide oxidoreductase	1.11.1.9	glutathione peroxidase
 seleno-dependent glutathione peroxidase 1	1.11.1.9	glutathione peroxidase
+gene name	1.11.1.9	glutathione peroxidase
 GSH peroxidase	1.11.1.9	glutathione peroxidase
 glutathione peroxidase-4	1.11.1.9	glutathione peroxidase
 cytosolic isozyme	1.11.1.9	glutathione peroxidase
@@ -762,6 +807,7 @@ prion protein Ure2	1.11.1.9	glutathione peroxidase
 Ure2	1.11.1.9	glutathione peroxidase
 glutathione peroxidase Gpx3	1.11.1.9	glutathione peroxidase
 mushroom peroxygenase	1.11.2.1	unspecific peroxygenase
+UPO	1.11.2.1	unspecific peroxygenase
 P450st	1.11.2.1	unspecific peroxygenase
 P II, main isoform of Agrocybeaegerita peroxidase	1.11.2.1	unspecific peroxygenase
 Agrocybe aegerita peroxygenase	1.11.2.1	unspecific peroxygenase
@@ -769,24 +815,26 @@ haloperoxidase	1.11.2.1	unspecific peroxygenase
 45 kDa peroxygenase/peroxidase	1.11.2.1	unspecific peroxygenase
 PII	1.11.2.1	unspecific peroxygenase
 P II, main isoform	1.11.2.1	unspecific peroxygenase
+unspecific heme peroxygenase	1.11.2.1	unspecific peroxygenase
 haloperoxidase-peroxygenase	1.11.2.1	unspecific peroxygenase
 extracellular peroxygenase	1.11.2.1	unspecific peroxygenase
-UPO	1.11.2.1	unspecific peroxygenase
 aromatic peroxygenase	1.11.2.1	unspecific peroxygenase
 APO	1.11.2.1	unspecific peroxygenase
+heme-thiolate peroxygenase	1.11.2.1	unspecific peroxygenase
+UPO1	1.11.2.1	unspecific peroxygenase
 tissue myeloperoxidase	1.11.2.2	myeloperoxidase
 isoform C	1.11.2.2	myeloperoxidase
 recombinant human MPO	1.11.2.2	myeloperoxidase
 rhMPO	1.11.2.2	myeloperoxidase
 donor: H2O2 oxidoreductase	1.11.2.2	myeloperoxidase
 donor:hydrogen peroxide oxidoreductase	1.11.2.2	myeloperoxidase
-reductive alkylation converts the normaldimeric enzyme into two protomers, hemi-myeloperoxidase	1.11.2.2	myeloperoxidase
 reductive alkylation converts the normal dimericenzyme into two protomers, hemi-myeloperoxidase	1.11.2.2	myeloperoxidase
 donor:hydrogen-peroxide oxidoreductase	1.11.2.2	myeloperoxidase
 donor, hydrogen peroxideoxidoreductase	1.11.2.2	myeloperoxidase
 myeloperoxidase	1.11.2.2	myeloperoxidase
 donor: H202 oxidoreductase	1.11.2.2	myeloperoxidase
 donor:H2O2 oxidoreductase	1.11.2.2	myeloperoxidase
+reductive alkylation converts thenormal dimeric enzyme into two protomers, hemi-myeloperoxidase	1.11.2.2	myeloperoxidase
 LPO	1.11.2.2	myeloperoxidase
 properoxinectin	1.11.2.2	myeloperoxidase
 peroxinectin	1.11.2.2	myeloperoxidase
@@ -794,6 +842,9 @@ donor, hydrogen peroxide oxidoreductase	1.11.2.2	myeloperoxidase
 EC 1.11.1.7	1.11.2.2	myeloperoxidase
 PXG4	1.11.2.3	plant seed peroxygenase
 caleosin-like protein	1.11.2.3	plant seed peroxygenase
+peroxygenase RD20	1.11.2.3	plant seed peroxygenase
+CLO3	1.11.2.3	plant seed peroxygenase
+RD20	1.11.2.3	plant seed peroxygenase
 peroxygenase, hydroperoxide-dependent hydroxylase	1.11.2.3	plant seed peroxygenase
 hydrogen peroxide-reducible hemoprotein	1.11.2.3	plant seed peroxygenase
 plant peroxygenase	1.11.2.3	plant seed peroxygenase

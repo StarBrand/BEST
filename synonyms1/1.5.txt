@@ -1,8 +1,16 @@
 synonyms	ec_number	recommended_name
 reductase, pyrroline-2-carboxylate	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
-DELTA1-pyrroline-2-carboxylate reductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
 pyrroline-2-carboxylate reductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
 L-proline:NAD(P)+ 2-oxidoreductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
+DELTA1-pyrroline-2-carboxylate reductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
+Pyr2C reductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
+NAD(P)H-dependent DELTA1-pyrroline-2-carboxylate reductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
+gene name	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
+Pyr2C/Pip2C reductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
+P2C/Pyr2C/ketimine reductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
+P2C reductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
+ketimine reductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
+P2C/Pyr2C reductase	1.5.1.1	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase
 dehydrogenase, saccharopine (nicotinamide adenine dinucleotidephosphate, glutamate-forming)	1.5.1.10	saccharopine dehydrogenase (NADP+, L-glutamate-forming)
 aminoadipic semialdehyde-glutamic reductase	1.5.1.10	saccharopine dehydrogenase (NADP+, L-glutamate-forming)
 aminoadipate semialdehyde-glutamate reductase	1.5.1.10	saccharopine dehydrogenase (NADP+, L-glutamate-forming)
@@ -15,11 +23,14 @@ SR1	1.5.1.10	saccharopine dehydrogenase (NADP+, L-glutamate-forming)
 D-Octopine synthase	1.5.1.11	D-octopine dehydrogenase
 Dehydrogenase, octopine	1.5.1.11	D-octopine dehydrogenase
 Octopine:NAD oxidoreductase	1.5.1.11	D-octopine dehydrogenase
-Octopine synthase	1.5.1.11	D-octopine dehydrogenase
 N2-(D-1-carboxyethyl)-L-arginine:NAD+ oxidoreductase	1.5.1.11	D-octopine dehydrogenase
 catalyzes the reductive condensation ofL-arginine and pyruvate to octopine during escape swimming in greatscallop, oxidizes glycolytically born NADH to NAD+, thus sustaininganaerobic ATP provision during short periods of strenuous muscularactivity	1.5.1.11	D-octopine dehydrogenase
 Octopine dehydrogenase	1.5.1.11	D-octopine dehydrogenase
 N2-(D-1-carboxyethyl)-L-arginine:NAD+-oxidoreductase	1.5.1.11	D-octopine dehydrogenase
+gene name	1.5.1.11	D-octopine dehydrogenase
+Octopine synthase	1.5.1.11	D-octopine dehydrogenase
+flavin-containing opine dehydrogenase	1.5.1.11	D-octopine dehydrogenase
+pTi_008	1.5.1.11	D-octopine dehydrogenase
 ODH	1.5.1.11	D-octopine dehydrogenase
 5,10-methylenetetrahydrofolate reductase	1.5.1.15	methylenetetrahydrofolate dehydrogenase (NAD+)
 NMDMC	1.5.1.15	methylenetetrahydrofolate dehydrogenase (NAD+)
@@ -41,15 +52,19 @@ dehydrogenase, D-lysopine	1.5.1.16	D-lysopine dehydrogenase
 lysopine dehydrogenase	1.5.1.16	D-lysopine dehydrogenase
 D(+)-lysopine dehydrogenase	1.5.1.16	D-lysopine dehydrogenase
 Lysopine synthase	1.5.1.16	D-lysopine dehydrogenase
-ADH	1.5.1.17	alanopine dehydrogenase
 ALPDH	1.5.1.17	alanopine dehydrogenase
 meso-N-(1-Carboxyethyl)-alanine dehydrogenase	1.5.1.17	alanopine dehydrogenase
 Dehydrogenase, alanopine	1.5.1.17	alanopine dehydrogenase
+ADH	1.5.1.17	alanopine dehydrogenase
+ALADH	1.5.1.17	alanopine dehydrogenase
+AlaDHAm	1.5.1.17	alanopine dehydrogenase
 D-nopaline synthase	1.5.1.19	D-nopaline dehydrogenase
 dehydrogenase, nopaline	1.5.1.19	D-nopaline dehydrogenase
 nopaline dehydrogenase	1.5.1.19	D-nopaline dehydrogenase
 nopaline synthase	1.5.1.19	D-nopaline dehydrogenase
-NOS	1.5.1.19	D-nopaline dehydrogenase
+gene name	1.5.1.19	D-nopaline dehydrogenase
+flavin-containing opine dehydrogenase	1.5.1.19	D-nopaline dehydrogenase
+gene name	1.5.1.19	D-nopaline dehydrogenase
 reductase, pyrroline-5-carboxylate	1.5.1.2	pyrroline-5-carboxylate reductase
 L-proline oxidase	1.5.1.2	pyrroline-5-carboxylate reductase
 1-pyrroline-5-carboxylate reductase	1.5.1.2	pyrroline-5-carboxylate reductase
@@ -98,14 +113,28 @@ methylenetetrahydrofolate reductase (NADPH)	1.5.1.20	methylenetetrahydrofolate r
 5,10-methylenetetrahydrofolate reductase	1.5.1.20	methylenetetrahydrofolate reductase [NAD(P)H]
 10-methylenetetrahydrofolate reductase	1.5.1.20	methylenetetrahydrofolate reductase [NAD(P)H]
 NADH:CH2-H4folate oxidoreductase	1.5.1.20	methylenetetrahydrofolate reductase [NAD(P)H]
+methylenetetrahydrofolate dehydrogenase	1.5.1.20	methylenetetrahydrofolate reductase [NAD(P)H]
+gene name	1.5.1.20	methylenetetrahydrofolate reductase [NAD(P)H]
+methylenetetrahydrofolatedehydrogenase/methenyltetrahydrofolate cyclohydrolase	1.5.1.20	methylenetetrahydrofolate reductase [NAD(P)H]
+CH2-THF dehydrogenase	1.5.1.20	methylenetetrahydrofolate reductase [NAD(P)H]
 MET13	1.5.1.20	methylenetetrahydrofolate reductase [NAD(P)H]
 EC 1.5.1.14	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
 reductase, DELTA 1-piperideine-2-carboxylate	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
 1,2-didehydropipecolate reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
-P2C reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
 1,2-didehydropipecolic reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
 L-pipecolate:NADP+ 2-oxidoreductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+P2C reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+P2C/Pyr2C reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+ketimine reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+DELTA1-pyrroline-2-carboxylate reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+Pyr2C reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+NAD(P)H-dependent DELTA1-pyrroline-2-carboxylate reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+Pyr2C/Pip2C reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+gene name	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+PaLhpD	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
 DELTA1-piperideine-2-carboxylate/DELTA1-pyrroline-2-carboxylatereductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+mu-crystallin	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
+CRYM	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
 DELTA1-piperideine-2-carboxylate reductase	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
 Pip2CR	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
 DpkA	1.5.1.21	1-piperideine-2-carboxylate/1-pyrroline-2-carboxylate reductase (NADPH)
@@ -125,6 +154,7 @@ tauropine [(carboxyethyl)-taurine/derived from sulfhydrylaminoacids] dehydrogena
 belongs to the family of opinedehydrogenases, phylogenetic analyses indicate that TaDH is onlydistantly related to the opine dehydrogenases from marineinvertebrates, high sequence similarity to bacterial ornithinecyclodeaminases	1.5.1.23	Tauropine dehydrogenase
 SD_TaDH	1.5.1.23	Tauropine dehydrogenase
 tauropine [(carboxyethyl)-taurine/derived from sulfhydryl-aminoacids] dehydrogenase	1.5.1.23	Tauropine dehydrogenase
+TDH	1.5.1.23	Tauropine dehydrogenase
 N(5)-(L-1-carboxyethyl)-L-ornithine:NADP(+) oxidoreductase	1.5.1.24	N5-(carboxyethyl)ornithine synthase
 N5-CEO synthase	1.5.1.24	N5-(carboxyethyl)ornithine synthase
 N5-(CE) ornithine synthase	1.5.1.24	N5-(carboxyethyl)ornithine synthase
@@ -132,9 +162,13 @@ CEOS	1.5.1.24	N5-(carboxyethyl)ornithine synthase
 N5-(carboxyethyl) ornithine synthase	1.5.1.24	N5-(carboxyethyl)ornithine synthase
 gene name	1.5.1.24	N5-(carboxyethyl)ornithine synthase
 bCEOS	1.5.1.24	N5-(carboxyethyl)ornithine synthase
-ketimine reductase	1.5.1.25	thiomorpholine-carboxylate dehydrogenase
 reductase, ketimine	1.5.1.25	thiomorpholine-carboxylate dehydrogenase
 ketimine-reducing enzyme	1.5.1.25	thiomorpholine-carboxylate dehydrogenase
+Thyroid hormone-binding protein	1.5.1.25	thiomorpholine-carboxylate dehydrogenase
+P2C reductase	1.5.1.25	thiomorpholine-carboxylate dehydrogenase
+ketimine reductase	1.5.1.25	thiomorpholine-carboxylate dehydrogenase
+mu-crystallin	1.5.1.25	thiomorpholine-carboxylate dehydrogenase
+CRYM	1.5.1.25	thiomorpholine-carboxylate dehydrogenase
 dehydrogenase, beta-alanopine	1.5.1.26	beta-alanopine dehydrogenase
 BADH	1.5.1.26	beta-alanopine dehydrogenase
 the enzyme belongs to the opine dehydrogenase family ofenzymes	1.5.1.26	beta-alanopine dehydrogenase
@@ -145,6 +179,12 @@ beta-AlDH-2	1.5.1.26	beta-alanopine dehydrogenase
 Reductase, 1,2-dehydroreticuline	1.5.1.27	1,2-dehydroreticulinium reductase (NADPH)
 1,2-Dehydroreticuline reductase	1.5.1.27	1,2-dehydroreticulinium reductase (NADPH)
 NADPH 1,2-dehydroreticuline reductase	1.5.1.27	1,2-dehydroreticulinium reductase (NADPH)
+PsDRR1	1.5.1.27	1,2-dehydroreticulinium reductase (NADPH)
+DRR	1.5.1.27	1,2-dehydroreticulinium reductase (NADPH)
+PrDRR	1.5.1.27	1,2-dehydroreticulinium reductase (NADPH)
+STORR	1.5.1.27	1,2-dehydroreticulinium reductase (NADPH)
+for the bifunctional enzyme	1.5.1.27	1,2-dehydroreticulinium reductase (NADPH)
+PsREPI	1.5.1.27	1,2-dehydroreticulinium reductase (NADPH)
 Dehydrogenase, opine	1.5.1.28	Opine dehydrogenase
 ODH	1.5.1.28	Opine dehydrogenase
 N-(1-D-Carboxyethyl)-L-norvaline dehydrogenase	1.5.1.28	Opine dehydrogenase
@@ -165,30 +205,44 @@ NADPH-dihydrofolate reductase	1.5.1.3	dihydrofolate reductase
 EC 1.5.1.4	1.5.1.3	dihydrofolate reductase
 DHFR type IIIC	1.5.1.3	dihydrofolate reductase
 Trimethoprim resistance protein	1.5.1.3	dihydrofolate reductase
-FolM	1.5.1.3	dihydrofolate reductase
-ecDHFR	1.5.1.3	dihydrofolate reductase
 HjDHFR	1.5.1.3	dihydrofolate reductase
 gene name	1.5.1.3	dihydrofolate reductase
+gene name	1.5.1.3	dihydrofolate reductase
+gene name	1.5.1.3	dihydrofolate reductase
+gene name	1.5.1.3	dihydrofolate reductase
+dihydrofolate reductase-like	1.5.1.3	dihydrofolate reductase
+gene name	1.5.1.3	dihydrofolate reductase
+gene name	1.5.1.3	dihydrofolate reductase
+FolM	1.5.1.3	dihydrofolate reductase
+ecDHFR	1.5.1.3	dihydrofolate reductase
+cf. EC 2.1.1.45	1.5.1.3	dihydrofolate reductase
+DFR-TS	1.5.1.3	dihydrofolate reductase
 5,6,7,8-tetrahydrofolate: NADP+ oxidoreductase	1.5.1.3	dihydrofolate reductase
-DHFR	1.5.1.3	dihydrofolate reductase
+gene name	1.5.1.3	dihydrofolate reductase
 DHFR-TS	1.5.1.3	dihydrofolate reductase
 hDHFR-1	1.5.1.3	dihydrofolate reductase
 hDHFR-2	1.5.1.3	dihydrofolate reductase
 hvDHFR1	1.5.1.3	dihydrofolate reductase
 hvDHFR2	1.5.1.3	dihydrofolate reductase
 spDHFR	1.5.1.3	dihydrofolate reductase
+BmDHFR	1.5.1.3	dihydrofolate reductase
 bifunctional enzyme	1.5.1.3	dihydrofolate reductase
-bifunctionalenzyme	1.5.1.3	dihydrofolate reductase
-S3DHFR	1.5.1.3	dihydrofolate reductase
-dihydrofolate reductase	1.5.1.3	dihydrofolate reductase
+bifunctional enzyme	1.5.1.3	dihydrofolate reductase
 R67 dihydrofolate reductase	1.5.1.3	dihydrofolate reductase
 R-plasmid-encoded dihydrofolate reductase	1.5.1.3	dihydrofolate reductase
 R67 DHFR	1.5.1.3	dihydrofolate reductase
+hDHFR	1.5.1.3	dihydrofolate reductase
+bifunctional TS-DHFR	1.5.1.3	dihydrofolate reductase
+DHFRLS	1.5.1.3	dihydrofolate reductase
+mDHFR	1.5.1.3	dihydrofolate reductase
 dihydrofolate reductase-thymidylate synthase	1.5.1.3	dihydrofolate reductase
+S3DHFR	1.5.1.3	dihydrofolate reductase
+dihydrofolatereductase	1.5.1.3	dihydrofolate reductase
 svDHFR	1.5.1.3	dihydrofolate reductase
 ppDHFR	1.5.1.3	dihydrofolate reductase
 myDHFR	1.5.1.3	dihydrofolate reductase
 mjDHFR	1.5.1.3	dihydrofolate reductase
+pcDHFR	1.5.1.3	dihydrofolate reductase
 Biliverdin-IX beta-reductase	1.5.1.30	flavin reductase (NADPH)
 FLR	1.5.1.30	flavin reductase (NADPH)
 GHBP	1.5.1.30	flavin reductase (NADPH)
@@ -205,8 +259,20 @@ NADPH-dependant FMN reductase	1.5.1.30	flavin reductase (NADPH)
 NADPH:FAD oxidoreductase	1.5.1.30	flavin reductase (NADPH)
 HpaC	1.5.1.30	flavin reductase (NADPH)
 flavin reductase Nr1	1.5.1.30	flavin reductase (NADPH)
+NAD(P)H-dependent H2O2-forming flavin reductase	1.5.1.30	flavin reductase (NADPH)
+Frd188	1.5.1.30	flavin reductase (NADPH)
+gene name	1.5.1.30	flavin reductase (NADPH)
+flavin reductase 1	1.5.1.30	flavin reductase (NADPH)
+FR1	1.5.1.30	flavin reductase (NADPH)
+gene name	1.5.1.30	flavin reductase (NADPH)
 Frb	1.5.1.30	flavin reductase (NADPH)
+nitro/flavin reductase	1.5.1.30	flavin reductase (NADPH)
+NfrA1	1.5.1.30	flavin reductase (NADPH)
+gene name	1.5.1.30	flavin reductase (NADPH)
+NADPH-nitrofurazone reductase	1.5.1.30	flavin reductase (NADPH)
+non-luminescent-bacterial NfsA/Frp-type enzyme	1.5.1.30	flavin reductase (NADPH)
 flavin reductase	1.5.1.30	flavin reductase (NADPH)
+NADPH-FMN reductase	1.5.1.30	flavin reductase (NADPH)
 fre	1.5.1.30	flavin reductase (NADPH)
 alkanesulfonate FMN reductase	1.5.1.30	flavin reductase (NADPH)
 SsuE	1.5.1.30	flavin reductase (NADPH)
@@ -214,7 +280,6 @@ flavin oxidoreductase	1.5.1.30	flavin reductase (NADPH)
 Fre oxidoreductase	1.5.1.30	flavin reductase (NADPH)
 component of the CysJI sulfite reductase complex	1.5.1.30	flavin reductase (NADPH)
 NADPH-flavin reductase	1.5.1.30	flavin reductase (NADPH)
-NADPH-FMN reductase	1.5.1.30	flavin reductase (NADPH)
 flavodoxin that also functions as nitroreductaseand flavin mononucleotide reductase	1.5.1.30	flavin reductase (NADPH)
 AZRü	1.5.1.30	flavin reductase (NADPH)
 flavin reductase P	1.5.1.30	flavin reductase (NADPH)
@@ -224,14 +289,16 @@ FRPvh	1.5.1.30	flavin reductase (NADPH)
 NADPH-specific flavin reductase	1.5.1.30	flavin reductase (NADPH)
 NADPH-flavin oxidoreductase	1.5.1.30	flavin reductase (NADPH)
 (R)-canadine synthase	1.5.1.31	berberine reductase
+(S)-tetrahydroprotoberberine oxidase	1.5.1.31	berberine reductase
+STOX	1.5.1.31	berberine reductase
 vomilenine reductase	1.5.1.32	vomilenine reductase
 reductase, dihydropteridine (reduced nicotinamide adenine dinucleotidephosphate)	1.5.1.33	pteridine reductase
 NADPH-dihydropteridine reductase	1.5.1.33	pteridine reductase
 H region methotrexate resistance protein	1.5.1.33	pteridine reductase
 EC 1.1.1.253	1.5.1.33	pteridine reductase
-TbPTR1	1.5.1.33	pteridine reductase
 PTR1	1.5.1.33	pteridine reductase
 broad-spectrum enzyme ofpterin and folate metabolism	1.5.1.33	pteridine reductase
+TbPTR1	1.5.1.33	pteridine reductase
 LdPTR1	1.5.1.33	pteridine reductase
 pteridine reductase	1.5.1.33	pteridine reductase
 LmPTR1	1.5.1.33	pteridine reductase
@@ -252,16 +319,47 @@ DQPR gene product	1.5.1.34	6,7-dihydropteridine reductase
 enzyme is not identical with dihydrofolate reductase	1.5.1.34	6,7-dihydropteridine reductase
 QDPR	1.5.1.34	6,7-dihydropteridine reductase
 quinoid dihydropteridine reductase	1.5.1.34	6,7-dihydropteridine reductase
-NADH-dependent flavin reductase	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.34	6,7-dihydropteridine reductase
+fre	1.5.1.36	flavin reductase (NADH)
+NAD(P)H-flavin oxidoreductase	1.5.1.36	flavin reductase (NADH)
+FAD reductase	1.5.1.36	flavin reductase (NADH)
+flavin reductase	1.5.1.36	flavin reductase (NADH)
 gene name	1.5.1.36	flavin reductase (NADH)
 flavin:NADH oxidoreductase	1.5.1.36	flavin reductase (NADH)
+NADH-dependent flavin reductase	1.5.1.36	flavin reductase (NADH)
+NAD(P)H:flavin oxidoreductase	1.5.1.36	flavin reductase (NADH)
+SMOB-ADP1	1.5.1.36	flavin reductase (NADH)
+NADH:flavin oxidoreductase	1.5.1.36	flavin reductase (NADH)
+FerA	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.36	flavin reductase (NADH)
+NADH: flavin oxidoreductase	1.5.1.36	flavin reductase (NADH)
+NADH: flavinoxidore ductase/NADH oxidase	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.36	flavin reductase (NADH)
 NADH:FMN oxidoreductase	1.5.1.36	flavin reductase (NADH)
 LuxG	1.5.1.36	flavin reductase (NADH)
+NADH-flavin oxidoreductase	1.5.1.36	flavin reductase (NADH)
+NAD(P)H-dependent H2O2-forming flavin reductase	1.5.1.36	flavin reductase (NADH)
+Frd188	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.36	flavin reductase (NADH)
 DszD	1.5.1.36	flavin reductase (NADH)
+flavin mononucleotide reductase	1.5.1.36	flavin reductase (NADH)
+FMN reductase	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.36	flavin reductase (NADH)
+gene name	1.5.1.36	flavin reductase (NADH)
+FAD:NADH reductase	1.5.1.37	FAD reductase (NADH)
+flavin:NADH reductase	1.5.1.37	FAD reductase (NADH)
+PrnF	1.5.1.37	FAD reductase (NADH)
+flavin reductase	1.5.1.37	FAD reductase (NADH)
+HpaC	1.5.1.37	FAD reductase (NADH)
+NADH:FAD oxidoreductase	1.5.1.37	FAD reductase (NADH)
 NADH-FAD reductase	1.5.1.37	FAD reductase (NADH)
 NADH-dependent FAD reductase	1.5.1.37	FAD reductase (NADH)
 NADH:flavin adenine dinucleotide oxidoreductase	1.5.1.37	FAD reductase (NADH)
-NADH:FAD oxidoreductase	1.5.1.37	FAD reductase (NADH)
 TftC	1.5.1.37	FAD reductase (NADH)
 SgcE6	1.5.1.37	FAD reductase (NADH)
 SsuE	1.5.1.38	FMN reductase (NADPH)
@@ -271,30 +369,51 @@ NADPH specific FMN reductase	1.5.1.38	FMN reductase (NADPH)
 NADPH-flavin oxidoreductase	1.5.1.38	FMN reductase (NADPH)
 flavin reductase P	1.5.1.38	FMN reductase (NADPH)
 NADPH:FMN oxidoreductase	1.5.1.38	FMN reductase (NADPH)
+FMN reductase	1.5.1.38	FMN reductase (NADPH)
+(NADPH)-dependent flavin mononucleotide reductase	1.5.1.38	FMN reductase (NADPH)
+(NADPH)-dependent FMN reductase	1.5.1.38	FMN reductase (NADPH)
+gene name	1.5.1.38	FMN reductase (NADPH)
+gene name	1.5.1.38	FMN reductase (NADPH)
+NAD(P)H:FMN reductase	1.5.1.38	FMN reductase (NADPH)
+cf. EC 1.7.12	1.5.1.38	FMN reductase (NADPH)
+gene name	1.5.1.38	FMN reductase (NADPH)
+gene name	1.5.1.38	FMN reductase (NADPH)
 FRG	1.5.1.39	FMN reductase [NAD(P)H]
 non-specific NAD(P)H-FMN reductase	1.5.1.39	FMN reductase [NAD(P)H]
+flavin mononucleotide reductase	1.5.1.39	FMN reductase [NAD(P)H]
+FMN reductase	1.5.1.39	FMN reductase [NAD(P)H]
+gene name	1.5.1.39	FMN reductase [NAD(P)H]
 8-OH-5-deazaflavin:NADPH oxidoreductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
+F420H2:NADP+ oxidoreductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
+gene name	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
 F420-dependent NADP oxidoreductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
 F420H2:NADP oxidoreductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
 NADP+:F420 oxidoreductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
+F420:NADPH oxidoreductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
+gene name	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
 8-OH-5dFl:NADPH oxidoreductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
+F420-dependent NADP+ oxidoreductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
+Fno	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
 the enzymeis a component of the formate NADP+ oxidoreductase system ofMethanococcus vannielii	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
 5-deazaflavin-NADP+ reductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
 F420-dependent NADP reductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
-F420H2:NADP+ oxidoreductase	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
-gene name	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
-Fno	1.5.1.40	8-hydroxy-5-deazaflavin:NADPH oxidoreductase
 NAD(P)H:flavin oxidoreductase	1.5.1.41	riboflavin reductase [NAD(P)H]
 flavin reductase HpaCSt	1.5.1.41	riboflavin reductase [NAD(P)H]
 fre	1.5.1.41	riboflavin reductase [NAD(P)H]
+NAD(P)H-dependent H2O2-forming flavin reductase	1.5.1.41	riboflavin reductase [NAD(P)H]
+Frd181	1.5.1.41	riboflavin reductase [NAD(P)H]
+gene name	1.5.1.41	riboflavin reductase [NAD(P)H]
 NADH:flavin oxidoreductase	1.5.1.42	FMN reductase (NADH)
 NADH-FMN reductase	1.5.1.42	FMN reductase (NADH)
 NADH-dependent FMN reductase	1.5.1.42	FMN reductase (NADH)
-NADH:FMN oxidoreductase	1.5.1.42	FMN reductase (NADH)
+NADH:FMN-oxidoreductase	1.5.1.42	FMN reductase (NADH)
 NADH:FMN oxidoreductase (flavin reductase)	1.5.1.42	FMN reductase (NADH)
 NADH specific FMN reductase	1.5.1.42	FMN reductase (NADH)
+NADH:FMN oxidoreductase	1.5.1.42	FMN reductase (NADH)
 DszD	1.5.1.42	FMN reductase (NADH)
 NADH-FMN oxidoreductase	1.5.1.42	FMN reductase (NADH)
+LuxG	1.5.1.42	FMN reductase (NADH)
+LuxG oxidoreductase	1.5.1.42	FMN reductase (NADH)
 carboxy(nor)spermidine dehydrogenase	1.5.1.43	carboxynorspermidine synthase
 CANSDH	1.5.1.43	carboxynorspermidine synthase
 carboxyspermidine dehydrogenase	1.5.1.43	carboxynorspermidine synthase
@@ -304,6 +423,7 @@ carboxynorspermidine synthase	1.5.1.43	carboxynorspermidine synthase
 C-NSPD synthase	1.5.1.43	carboxynorspermidine synthase
 ASA-DAP Schiff base reductase	1.5.1.43	carboxynorspermidine synthase
 CASDH	1.5.1.43	carboxynorspermidine synthase
+gene name	1.5.1.43	carboxynorspermidine synthase
 EasG	1.5.1.44	festuclavine dehydrogenase
 EasA	1.5.1.44	festuclavine dehydrogenase
 FgaFS	1.5.1.44	festuclavine dehydrogenase
@@ -316,12 +436,17 @@ dihydromethanopterin reductase	1.5.1.47	dihydromethanopterin reductase [NAD(P)+]
 DmrA	1.5.1.47	dihydromethanopterin reductase [NAD(P)+]
 H2MPT reductase	1.5.1.47	dihydromethanopterin reductase [NAD(P)+]
 (R)-imine reductase	1.5.1.48	2-methyl-1-pyrroline reductase
+(R)-IRED	1.5.1.48	2-methyl-1-pyrroline reductase
+PlRIR	1.5.1.48	2-methyl-1-pyrroline reductase
 LhpH	1.5.1.49	1-pyrroline-2-carboxylate reductase [NAD(P)H]
 N5,N10-methylenetetrahydrofolate dehydrogenase	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
-5,10-methylenetetrahydrofolate dehydrogenase	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
 bifunctional enzyme	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
 MTHFDC	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
 folD encodesa monofunctional enzyme	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
+5,10-methylenetetrahydrofolate dehydrogenase	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
+gene name	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
+5,10-CH2-THF dehydrogenase	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
+Cpe FolD	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
 5,10-mehtylene tetrahydrofolate dehydrogenase	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
 bifuntional enzyme with 5,10-mehtylenetetrahydrofolate dehydrogenase and methenyltetrahydrofolatecyclohydrolase activity in Leishmania major	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
 methylene tetrahydrofolate dehydrogenase/cyclohydrolase	1.5.1.5	methylenetetrahydrofolate dehydrogenase (NADP+)
@@ -390,13 +515,15 @@ lysine-alpha-ketoglutarate reductase	1.5.1.8	saccharopine dehydrogenase (NADP+, 
 lysine-ketoglutaric reductase	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
 lysine alpha-ketoglutarate reductase	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
 LKR	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
-LKR/SDH	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
+lysine 2-oxoglutarate reductase	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
+LOR	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
 bifunctional	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
+LKR/SDH	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
 bifunctional enzyme	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
 LOR-SDH	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
 lysine ketoglutarate reductase	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
-lysine 2-oxoglutarate reductase	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
-LOR	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
+gene name	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
+lysine ketoglutarate/reductase saccharopine dehydrogenase	1.5.1.8	saccharopine dehydrogenase (NADP+, L-lysine-forming)
 dehydrogenase, saccharopine (nicotinamide adenine dinucleotide,glutamate-forming)	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
 saccharopin dehydrogenase	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
 NAD+ oxidoreductase (L-2-aminoadipic-delta-semialdehyde and glutamateforming)	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
@@ -409,6 +536,8 @@ bifunctional	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
 bifunctional enzyme with lysine ketoglutaratereductase and saccharopine dehydrogenase activities	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
 gene name	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
 alpha-aminoadipic-delta-semialdehehyde synthase	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
+gene name	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
+lysine ketoglutarate/reductase saccharopine dehydrogenase	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
 SacD	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
 saccharopine dehydrogenase	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
 SDH	1.5.1.9	saccharopine dehydrogenase (NAD+, L-glutamate-forming)
@@ -419,8 +548,8 @@ PSO	1.5.3.1	sarcosine oxidase
 SOX	1.5.3.1	sarcosine oxidase
 SO	1.5.3.1	sarcosine oxidase
 SO-U96	1.5.3.1	sarcosine oxidase
-MSOX	1.5.3.1	sarcosine oxidase
 monomeric sarcosine oxidase	1.5.3.1	sarcosine oxidase
+MSOX	1.5.3.1	sarcosine oxidase
 sarcosine: O2 oxidoreductase	1.5.3.1	sarcosine oxidase
 dimethylglycine dehydrogenase	1.5.3.10	dimethylglycine oxidase
 DMGO	1.5.3.10	dimethylglycine oxidase
@@ -429,6 +558,7 @@ DMGO2	1.5.3.10	dimethylglycine oxidase
 Oxidase, dihydrobenzophenanthridine	1.5.3.12	dihydrobenzophenanthridine oxidase
 DHBP	1.5.3.12	dihydrobenzophenanthridine oxidase
 DBOX	1.5.3.12	dihydrobenzophenanthridine oxidase
+DBO	1.5.3.12	dihydrobenzophenanthridine oxidase
 PAO is a member of the monoamine oxidase family offlavoproteins	1.5.3.13	N1-acetylpolyamine oxidase
 PAO	1.5.3.13	N1-acetylpolyamine oxidase
 HPAO	1.5.3.13	N1-acetylpolyamine oxidase
@@ -439,38 +569,58 @@ MPAO	1.5.3.13	N1-acetylpolyamine oxidase
 polyamine oxidase	1.5.3.13	N1-acetylpolyamine oxidase
 hPAO-1	1.5.3.13	N1-acetylpolyamine oxidase
 N1-acetylpolyamine oxidase	1.5.3.13	N1-acetylpolyamine oxidase
+PAO5	1.5.3.13	N1-acetylpolyamine oxidase
+AtPAO5	1.5.3.13	N1-acetylpolyamine oxidase
+SelPAO5	1.5.3.13	N1-acetylpolyamine oxidase
+Bjpao2	1.5.3.13	N1-acetylpolyamine oxidase
 ZmPAO	1.5.3.14	polyamine oxidase (propane-1,3-diamine-forming)
 maize polyamine oxidase	1.5.3.14	polyamine oxidase (propane-1,3-diamine-forming)
 PAO	1.5.3.14	polyamine oxidase (propane-1,3-diamine-forming)
 flavin-containing polyamine oxidase	1.5.3.14	polyamine oxidase (propane-1,3-diamine-forming)
 MPAO	1.5.3.14	polyamine oxidase (propane-1,3-diamine-forming)
 maize PAO	1.5.3.14	polyamine oxidase (propane-1,3-diamine-forming)
+OsPAO7	1.5.3.14	polyamine oxidase (propane-1,3-diamine-forming)
 SMO	1.5.3.16	spermine oxidase
 spermine oxidase	1.5.3.16	spermine oxidase
 mSMO	1.5.3.16	spermine oxidase
-AtPAO4	1.5.3.16	spermine oxidase
-PAO4	1.5.3.16	spermine oxidase
-SMO(PAOh1)	1.5.3.16	spermine oxidase
-SMO/PAOh1	1.5.3.16	spermine oxidase
-hSMO	1.5.3.16	spermine oxidase
-SMOX	1.5.3.16	spermine oxidase
-Spm oxidase	1.5.3.16	spermine oxidase
-Fms1 protein	1.5.3.16	spermine oxidase
-PAO	1.5.3.16	spermine oxidase
-AtPAO1	1.5.3.16	spermine oxidase
-splice variant	1.5.3.16	spermine oxidase
-mSMOalpha	1.5.3.16	spermine oxidase
 PAOh1/SMO	1.5.3.16	spermine oxidase
 splice variant protein	1.5.3.16	spermine oxidase
 PAOh1	1.5.3.16	spermine oxidase
+PAO1	1.5.3.16	spermine oxidase
+AtPAO4	1.5.3.16	spermine oxidase
+PAO4	1.5.3.16	spermine oxidase
+AtPAO5	1.5.3.16	spermine oxidase
+thermospermine oxidase	1.5.3.16	spermine oxidase
+SelPAO5	1.5.3.16	spermine oxidase
+SMO(PAOh1)	1.5.3.16	spermine oxidase
+SMO/PAOh1	1.5.3.16	spermine oxidase
+hSMO	1.5.3.16	spermine oxidase
+Spm oxidase	1.5.3.16	spermine oxidase
+SMOX	1.5.3.16	spermine oxidase
+Fms1 protein	1.5.3.16	spermine oxidase
+PAO	1.5.3.16	spermine oxidase
+AtPAO1	1.5.3.16	spermine oxidase
+GhPAO	1.5.3.16	spermine oxidase
+splice variant	1.5.3.16	spermine oxidase
+mSMOalpha	1.5.3.16	spermine oxidase
+MmSMO	1.5.3.16	spermine oxidase
 PAO	1.5.3.17	non-specific polyamine oxidase
-AtPAO4	1.5.3.17	non-specific polyamine oxidase
-AtPAO3	1.5.3.17	non-specific polyamine oxidase
-PAO3	1.5.3.17	non-specific polyamine oxidase
 PAO2	1.5.3.17	non-specific polyamine oxidase
 AtPAO2	1.5.3.17	non-specific polyamine oxidase
 PAO5	1.5.3.17	non-specific polyamine oxidase
+AtPAO5	1.5.3.17	non-specific polyamine oxidase
 Fms1	1.5.3.17	non-specific polyamine oxidase
+SelPAO5	1.5.3.17	non-specific polyamine oxidase
+Bjpao2	1.5.3.17	non-specific polyamine oxidase
+Bjpao1	1.5.3.17	non-specific polyamine oxidase
+AtPAO4	1.5.3.17	non-specific polyamine oxidase
+polyamine oxidase 1	1.5.3.17	non-specific polyamine oxidase
+OsPAO1 is the functional ortholog of AtPAO5	1.5.3.17	non-specific polyamine oxidase
+thermospermine oxidase	1.5.3.17	non-specific polyamine oxidase
+T-Spm oxidase	1.5.3.17	non-specific polyamine oxidase
+AtPAO3	1.5.3.17	non-specific polyamine oxidase
+PAO3	1.5.3.17	non-specific polyamine oxidase
+PAO1	1.5.3.17	non-specific polyamine oxidase
 FAP2	1.5.3.18	L-saccharopine oxidase
 mabO	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
 gamma-N-methylaminobutyrate oxidase	1.5.3.19	4-methylaminobutanoate oxidase (formaldehyde-forming)
@@ -488,33 +638,43 @@ epsilon-N-methyllysine demethylase	1.5.3.4	N6-methyl-lysine oxidase
 epsilon-alkyllysinase	1.5.3.4	N6-methyl-lysine oxidase
 oxidase, N6-methyllysine	1.5.3.4	N6-methyl-lysine oxidase
 same enzyme is responsible for the demethylation ofepsilon-N-methyl-L-lysine and of methylated histone	1.5.3.4	N6-methyl-lysine oxidase
-L-6-hydroxynicotine oxidase	1.5.3.5	(S)-6-hydroxynicotine oxidase
 6-hydroxy-L-nicotine:oxygen oxidoreductase	1.5.3.5	(S)-6-hydroxynicotine oxidase
 6-hydroxy-L-nicotine oxidase	1.5.3.5	(S)-6-hydroxynicotine oxidase
 6HLNO	1.5.3.5	(S)-6-hydroxynicotine oxidase
+L-6-hydroxynicotine oxidase	1.5.3.5	(S)-6-hydroxynicotine oxidase
 MAO	1.5.3.5	(S)-6-hydroxynicotine oxidase
+LHNO	1.5.3.5	(S)-6-hydroxynicotine oxidase
+VppB	1.5.3.5	(S)-6-hydroxynicotine oxidase
 D-6-hydroxynicotine oxidase	1.5.3.6	(R)-6-hydroxynicotine oxidase
 6-HDNO	1.5.3.6	(R)-6-hydroxynicotine oxidase
 6-hydroxy-D-nicotine oxidase	1.5.3.6	(R)-6-hydroxynicotine oxidase
 pipecolate oxidase	1.5.3.7	L-pipecolate oxidase
 L-pipecolic acid oxidase	1.5.3.7	L-pipecolate oxidase
+L-PIPOX	1.5.3.7	L-pipecolate oxidase
+L-pipecolate oxidase	1.5.3.7	L-pipecolate oxidase
+PIPOX	1.5.3.7	L-pipecolate oxidase
 Fap1	1.5.3.7	L-pipecolate oxidase
 PDA synthase	1.5.4.1	pyrimidodiazepine synthase
 enzyme belongs to the thioredoxin-like proteinsuperfamily	1.5.4.1	pyrimidodiazepine synthase
 ETF:ubiquinone oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
-electron transfer flavoprotein dehydrogenase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 electron transfer flavoprotein Q oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 electron flavoprotein reductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
-ETF dehydrogenase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 ETF:QO	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 electron transfer flavoprotein:ubiquinone oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 electron transfer flavoprotein	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
+ETF dehydrogenase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
+electron transfer flavoprotein dehydrogenase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
+ETF:quinone oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
+gene name	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
+gene name	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
+gene name	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
+gene name	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 electron transfer flavoprotein ubiquinone oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 ETF-QO	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 Electron-transferring-flavoprotein dehydrogenase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
-ETF-ubiquinone oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 electron-transfer flavoprotein-ubiquinone oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 electron-transferflavoprotein-2,3-dimethoxy-5-methyl-1,4-benzoquinone oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
+ETF-ubiquinone oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 electron transfer flavoprotein-ubiquinone oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 ETFDH	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 electron transfer flavoprotein: ubiquinone oxidoreductase	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
@@ -525,19 +685,54 @@ let-721	1.5.5.1	electron-transferring-flavoprotein dehydrogenase
 proline oxidase	1.5.5.2	proline dehydrogenase
 combines DNA-binding, proline dehydrogenaseand DELTA1-pyrroline-5-carboxylate dehydrogenase activities	1.5.5.2	proline dehydrogenase
 PutA proline dehydrogenase	1.5.5.2	proline dehydrogenase
-part of the bifunctional proline utilization A protein	1.5.5.2	proline dehydrogenase
-bifunctional enzyme: proline dehydrogenase/L-glutamategamma-semialdehyde dehydrogenase	1.5.5.2	proline dehydrogenase
+part of the bifunctional prolineutilization A protein	1.5.5.2	proline dehydrogenase
+bifunctional enzyme: prolinedehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase	1.5.5.2	proline dehydrogenase
+TtProDH	1.5.5.2	proline dehydrogenase
+PH1364	1.5.5.2	proline dehydrogenase
+gene name	1.5.5.2	proline dehydrogenase
+PDHbeta	1.5.5.2	proline dehydrogenase
+ProDH1	1.5.5.2	proline dehydrogenase
+PF1246	1.5.5.2	proline dehydrogenase
+TK0117	1.5.5.2	proline dehydrogenase
+TK0122	1.5.5.2	proline dehydrogenase
+PH1751	1.5.5.2	proline dehydrogenase
+gene name	1.5.5.2	proline dehydrogenase
+PF1798	1.5.5.2	proline dehydrogenase
+TcPRODH	1.5.5.2	proline dehydrogenase
+gene name	1.5.5.2	proline dehydrogenase
+FAD-dependent L-proline oxidoreductase	1.5.5.2	proline dehydrogenase
+gene name	1.5.5.2	proline dehydrogenase
+proline dehydrogenase 1	1.5.5.2	proline dehydrogenase
+L-proline:FAD oxidoreductase	1.5.5.2	proline dehydrogenase
 gene name	1.5.5.2	proline dehydrogenase
 L-proline dehydrogenase	1.5.5.2	proline dehydrogenase
 dye-linked L-proline dehydrogenase	1.5.5.2	proline dehydrogenase
 bifunctional dye-linked L-proline/NADH dehydrogenase complex	1.5.5.2	proline dehydrogenase
+TPpdhbeta	1.5.5.2	proline dehydrogenase
+gene name	1.5.5.2	proline dehydrogenase
+proline dehydrogenase/oxidase	1.5.5.2	proline dehydrogenase
+PRODH/POX	1.5.5.2	proline dehydrogenase
 bifunctional enzyme: proline utilizationA (PutA)	1.5.5.2	proline dehydrogenase
 bifunctional enzyme: prolinedehydrogenase/L-glutamate gamma-semialdehyde dehydrogenase	1.5.5.2	proline dehydrogenase
-ProDH1	1.5.5.2	proline dehydrogenase
+HPOX	1.5.5.3	hydroxyproline dehydrogenase
+ProDH2	1.5.5.3	hydroxyproline dehydrogenase
+HYPDH	1.5.5.3	hydroxyproline dehydrogenase
+hydroxyproline oxidase	1.5.5.3	hydroxyproline dehydrogenase
+OH-POX	1.5.5.3	hydroxyproline dehydrogenase
+proline dehydrogenase 2	1.5.5.3	hydroxyproline dehydrogenase
+methylenetetrahydrofolate reductase	1.5.7.1	methylenetetrahydrofolate reductase (ferredoxin)
+gene name	1.5.7.1	methylenetetrahydrofolate reductase (ferredoxin)
+methylene-H4F reductase	1.5.7.1	methylenetetrahydrofolate reductase (ferredoxin)
 5,10-methylenetetrahydrofolate reductase	1.5.7.1	methylenetetrahydrofolate reductase (ferredoxin)
+FPOC	1.5.7.2	coenzyme F420 oxidoreductase (ferredoxin)
+cofactor F420-dependent FPO	1.5.7.2	coenzyme F420 oxidoreductase (ferredoxin)
+F420H2:phenazine oxidoreductase	1.5.7.2	coenzyme F420 oxidoreductase (ferredoxin)
 Fd:F420 oxidoreductase	1.5.7.2	coenzyme F420 oxidoreductase (ferredoxin)
 FpoF protein	1.5.7.2	coenzyme F420 oxidoreductase (ferredoxin)
 gene name	1.5.7.2	coenzyme F420 oxidoreductase (ferredoxin)
+FPOF	1.5.7.2	coenzyme F420 oxidoreductase (ferredoxin)
+ferredoxin-dependent FPO	1.5.7.2	coenzyme F420 oxidoreductase (ferredoxin)
+Fd-dependent FPO	1.5.7.2	coenzyme F420 oxidoreductase (ferredoxin)
 dehydrogenase, dimethylamine	1.5.8.1	dimethylamine dehydrogenase
 dehydrogenase, dimethylamine (Hyphomicrobium strain X clonepUHA65/pUHB49 gene dmd precursor)	1.5.8.1	dimethylamine dehydrogenase
 dehydrogenase, dimethylamine (Hyphomicrobium strain X clonepUHA65/pUHB49 gene dmd)	1.5.8.1	dimethylamine dehydrogenase
@@ -562,7 +757,10 @@ Coenzyme F420 dependent N5,N10-methylenetetrahydromethanopterindehydrogenase	1.5
 N5,N10-Methylenetetrahydromethanopterin dehydrogenase	1.5.98.1	methylenetetrahydromethanopterin dehydrogenase
 gene name	1.5.98.1	methylenetetrahydromethanopterin dehydrogenase
 gene name	1.5.98.1	methylenetetrahydromethanopterin dehydrogenase
+methylene-H(4)MPT dehydrogenase	1.5.98.1	methylenetetrahydromethanopterin dehydrogenase
 F420H2-dependent methylenetetrahydromethanopterin dehydrogenase	1.5.98.1	methylenetetrahydromethanopterin dehydrogenase
+F420-dependent methylene-tetrahydromethanopterin dehydrogenase	1.5.98.1	methylenetetrahydromethanopterin dehydrogenase
+F420-dependent H4MPT dehydrogenase	1.5.98.1	methylenetetrahydromethanopterin dehydrogenase
 coenzyme F420-dependent methylenetetrahydromethanopterindehydrogenase	1.5.98.1	methylenetetrahydromethanopterin dehydrogenase
 coenzyme-F420-dependent N5,N10-methylenetetrahydromethanopterindehydrogenase	1.5.98.1	methylenetetrahydromethanopterin dehydrogenase
 F420-dependent methylenetetrahydromethanopterin dehydrogenase	1.5.98.1	methylenetetrahydromethanopterin dehydrogenase
@@ -577,6 +775,14 @@ locus name	1.5.98.2	5,10-methylenetetrahydromethanopterin reductase
 Hmd and Mtd constitute an alternate pathway for thereduction of F420 with H2 (Hmd-Mtd cycle)	1.5.98.2	5,10-methylenetetrahydromethanopterin reductase
 H2-dependent methylenetetrahydromethanopterin dehydrogenase	1.5.98.2	5,10-methylenetetrahydromethanopterin reductase
 locus name	1.5.98.2	5,10-methylenetetrahydromethanopterin reductase
+gene name	1.5.98.3	coenzyme F420:methanophenazine dehydrogenase
+gene name	1.5.98.3	coenzyme F420:methanophenazine dehydrogenase
+F420H2 dehydrogenase	1.5.98.3	coenzyme F420:methanophenazine dehydrogenase
+Fpo	1.5.98.3	coenzyme F420:methanophenazine dehydrogenase
+gene name	1.5.98.3	coenzyme F420:methanophenazine dehydrogenase
+F420-phenazine oxidoreductase	1.5.98.3	coenzyme F420:methanophenazine dehydrogenase
+F420H2-dehydrogenase	1.5.98.3	coenzyme F420:methanophenazine dehydrogenase
+gene name	1.5.98.3	coenzyme F420:methanophenazine dehydrogenase
 N6-(D2-isopentenyl)adenosine oxidase	1.5.99.12	cytokinin dehydrogenase
 N6-isopentenylaldenine oxidase	1.5.99.12	cytokinin dehydrogenase
 zeatin oxidase	1.5.99.12	cytokinin dehydrogenase
@@ -587,33 +793,55 @@ seven distinct genes AtCKX1 to AtCKX7, AtCKX2 issubject of the study	1.5.99.12	c
 OsCKX2	1.5.99.12	cytokinin dehydrogenase
 CKX	1.5.99.12	cytokinin dehydrogenase
 cytokinin oxidase/dehydrogenase	1.5.99.12	cytokinin dehydrogenase
-CKX1	1.5.99.12	cytokinin dehydrogenase
+isoform	1.5.99.12	cytokinin dehydrogenase
 HvCKX1	1.5.99.12	cytokinin dehydrogenase
 enzyme belongs to the CKX gene family	1.5.99.12	cytokinin dehydrogenase
 cytokinin oxidase	1.5.99.12	cytokinin dehydrogenase
 cytokinin dehydrogenase CKX1	1.5.99.12	cytokinin dehydrogenase
+N6-dimethylallyladenine dehydrogenase	1.5.99.12	cytokinin dehydrogenase
 DhCKX	1.5.99.12	cytokinin dehydrogenase
 PsCKX1	1.5.99.12	cytokinin dehydrogenase
 PsCKX2	1.5.99.12	cytokinin dehydrogenase
 cytokinin dehydrogenase CKX10	1.5.99.12	cytokinin dehydrogenase
-AtCKX3	1.5.99.12	cytokinin dehydrogenase
+isoform	1.5.99.12	cytokinin dehydrogenase
+cytokinin dehydrogenase 1	1.5.99.12	cytokinin dehydrogenase
 ZmCKX1	1.5.99.12	cytokinin dehydrogenase
 CKO1	1.5.99.12	cytokinin dehydrogenase
 cytokinin dehydrogenase	1.5.99.12	cytokinin dehydrogenase
+isoform	1.5.99.12	cytokinin dehydrogenase
 CKO	1.5.99.12	cytokinin dehydrogenase
 ZmCKO1	1.5.99.12	cytokinin dehydrogenase
+isoform	1.5.99.12	cytokinin dehydrogenase
+isoform	1.5.99.12	cytokinin dehydrogenase
+AtCKX3	1.5.99.12	cytokinin dehydrogenase
 CKX3	1.5.99.12	cytokinin dehydrogenase
+isoform	1.5.99.12	cytokinin dehydrogenase
+isoform	1.5.99.12	cytokinin dehydrogenase
+isoform	1.5.99.12	cytokinin dehydrogenase
+isoform	1.5.99.12	cytokinin dehydrogenase
+isoform	1.5.99.12	cytokinin dehydrogenase
 D-Pro DH	1.5.99.13	D-proline dehydrogenase
 D-proline dehydrogense	1.5.99.13	D-proline dehydrogenase
 D-Pro dehydrogenase	1.5.99.13	D-proline dehydrogenase
 dye-linked D-proline dehydrogenase	1.5.99.13	D-proline dehydrogenase
+PNO	1.5.99.14	6-hydroxypseudooxynicotine dehydrogenase
 locus name	1.5.99.15	dihydromethanopterin reductase (acceptor)
-DmrX	1.5.99.15	dihydromethanopterin reductase (acceptor)
+methylene H4MPT dehydrogenase B	1.5.99.15	dihydromethanopterin reductase (acceptor)
+MtdB	1.5.99.15	dihydromethanopterin reductase (acceptor)
+gene name	1.5.99.15	dihydromethanopterin reductase (acceptor)
 locus name	1.5.99.15	dihydromethanopterin reductase (acceptor)
+AfpA	1.5.99.15	dihydromethanopterin reductase (acceptor)
+archaeal-flavoprotein-like flavoprotein	1.5.99.15	dihydromethanopterin reductase (acceptor)
+H2MPT reductase	1.5.99.15	dihydromethanopterin reductase (acceptor)
+dihydromethanopterin reductase	1.5.99.15	dihydromethanopterin reductase (acceptor)
+DmrB	1.5.99.15	dihydromethanopterin reductase (acceptor)
+Dmr	1.5.99.15	dihydromethanopterin reductase (acceptor)
 nicotine oxidase	1.5.99.4	nicotine dehydrogenase
 D-nicotine oxidase	1.5.99.4	nicotine dehydrogenase
 nicotine dehydrogenase	1.5.99.4	nicotine dehydrogenase
+NctA	1.5.99.4	nicotine dehydrogenase
 nicotinic acid hydroxylase	1.5.99.4	nicotine dehydrogenase
+NdhAB	1.5.99.4	nicotine dehydrogenase
 NDH	1.5.99.4	nicotine dehydrogenase
 6-hydroxy-L-nicotine oxidase	1.5.99.4	nicotine dehydrogenase
 6-hydroxy-D-nicotine oxidase	1.5.99.4	nicotine dehydrogenase

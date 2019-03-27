@@ -24,6 +24,13 @@ noAccount <- function(){
              type = "error")
 }
 
+## Not Activated Account
+noActivated <- function(){
+  shinyalert("This account requires activation",
+             "You are registerd on Brenda, but you need to activate it. Please check your email and click the activation link",
+             type = "error")
+}
+
 ## Make an enzyme query
 noSearch <- function(what){
   shinyalert(paste(what, " of what?", sep = ""),

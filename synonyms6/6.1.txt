@@ -9,10 +9,11 @@ Tyrosine translase	6.1.1.1	tyrosine-tRNA ligase
 Tyrosine--tRNA ligase	6.1.1.1	tyrosine-tRNA ligase
 Tyrosyl--tRNA ligase	6.1.1.1	tyrosine-tRNA ligase
 TYS1	6.1.1.1	tyrosine-tRNA ligase
-bifunctional mitochondrial tyrosyl-tRNAsynthetase (CYT-18 protein) both aminoacylates mitochondrial tRNATyrand acts as a structure-stabilizing splicing cofactor for group Iintrons	6.1.1.1	tyrosine-tRNA ligase
+bifunctional mitochondrialtyrosyl-tRNA synthetase (CYT-18 protein) both aminoacylatesmitochondrial tRNATyr and acts as a structure-stabilizing splicingcofactor for group I introns	6.1.1.1	tyrosine-tRNA ligase
 YTS	6.1.1.1	tyrosine-tRNA ligase
 CYT-18 protein	6.1.1.1	tyrosine-tRNA ligase
 bifunctional, aminoacylates mitochondrial tRNATyrand promotes the splicing of mitochondrial group I introns	6.1.1.1	tyrosine-tRNA ligase
+LdTyrRS	6.1.1.1	tyrosine-tRNA ligase
 tyrosyl aminoacyl-tRNA synthetase	6.1.1.1	tyrosine-tRNA ligase
 p-BrPhe TyrRS	6.1.1.1	tyrosine-tRNA ligase
 NpAla TyrRS	6.1.1.1	tyrosine-tRNA ligase
@@ -22,33 +23,45 @@ tyrosyl synthetase	6.1.1.1	tyrosine-tRNA ligase
 MjYRS	6.1.1.1	tyrosine-tRNA ligase
 dTyRS	6.1.1.1	tyrosine-tRNA ligase
 TyrRS	6.1.1.1	tyrosine-tRNA ligase
-Tyrosyl-tRNAsynthetase	6.1.1.1	tyrosine-tRNA ligase
+Tyrosyl-tRNA synthetase	6.1.1.1	tyrosine-tRNA ligase
+class I tyrosyl-tRNA synthetase	6.1.1.1	tyrosine-tRNA ligase
 TyrRZ	6.1.1.1	tyrosine-tRNA ligase
 Tyrosine tRNA synthetase	6.1.1.1	tyrosine-tRNA ligase
+gene name	6.1.1.1	tyrosine-tRNA ligase
 TyrRSs	6.1.1.1	tyrosine-tRNA ligase
+YRS	6.1.1.1	tyrosine-tRNA ligase
 tyrosyl tRNA synthetase	6.1.1.1	tyrosine-tRNA ligase
+gene name, UniProt	6.1.1.1	tyrosine-tRNA ligase
+CHOTyrRS	6.1.1.1	tyrosine-tRNA ligase
 N-terminal domain of tyrosyl-tRNAsynthetase	6.1.1.1	tyrosine-tRNA ligase
 mini-TyrRS	6.1.1.1	tyrosine-tRNA ligase
 YARS	6.1.1.1	tyrosine-tRNA ligase
 mt-TyrRS	6.1.1.1	tyrosine-tRNA ligase
+hTyrRS	6.1.1.1	tyrosine-tRNA ligase
 mitochondrial tyrosyl-tRNA synthetase	6.1.1.1	tyrosine-tRNA ligase
 hcMetRS	6.1.1.10	methionine-tRNA ligase
 hmMetRS	6.1.1.10	methionine-tRNA ligase
 methionyl-tRNA synthetase1	6.1.1.10	methionine-tRNA ligase
 MetRS1	6.1.1.10	methionine-tRNA ligase
 MetRS2	6.1.1.10	methionine-tRNA ligase
+gene name	6.1.1.10	methionine-tRNA ligase
+gene name	6.1.1.10	methionine-tRNA ligase
+isoform	6.1.1.10	methionine-tRNA ligase
+isoform	6.1.1.10	methionine-tRNA ligase
 MetS	6.1.1.10	methionine-tRNA ligase
 MARS	6.1.1.10	methionine-tRNA ligase
-MRS	6.1.1.10	methionine-tRNA ligase
+methionyl-tRNA-synthetase	6.1.1.10	methionine-tRNA ligase
+MetG	6.1.1.10	methionine-tRNA ligase
+methionyl-tRNA synthetase	6.1.1.10	methionine-tRNA ligase
 MetRS	6.1.1.10	methionine-tRNA ligase
-methionyl-tRNAsynthetase	6.1.1.10	methionine-tRNA ligase
+MRS	6.1.1.10	methionine-tRNA ligase
 Methionyl tRNAsynthetase	6.1.1.10	methionine-tRNA ligase
 Synthetase, methionyl-transferribonucleate	6.1.1.10	methionine-tRNA ligase
 Methionyl-transfer ribonucleic acidsynthetase	6.1.1.10	methionine-tRNA ligase
 Methionyl-transfer ribonucleatesynthetase	6.1.1.10	methionine-tRNA ligase
-Methionyl-transfer RNA synthetase	6.1.1.10	methionine-tRNA ligase
 Methionine translase	6.1.1.10	methionine-tRNA ligase
 Methionine--tRNA ligase	6.1.1.10	methionine-tRNA ligase
+Methionyl-transfer RNAsynthetase	6.1.1.10	methionine-tRNA ligase
 the enzyme belongs to the class I aminoacyl-tRNAsynthetases	6.1.1.10	methionine-tRNA ligase
 mSerRS	6.1.1.11	serine-tRNA ligase
 bacterial type seryl-tRNA synthetase	6.1.1.11	serine-tRNA ligase
@@ -62,19 +75,25 @@ bacterial type	6.1.1.11	serine-tRNA ligase
 methanogenic-type seryl-tRNA synthetase	6.1.1.11	serine-tRNA ligase
 methanogenic-type SerRS	6.1.1.11	serine-tRNA ligase
 Seryl-tRNA synthetase	6.1.1.11	serine-tRNA ligase
-two different types: bacterial-type SerRS and highlydivergent SerRS	6.1.1.11	serine-tRNA ligase
+two different types: bacterial-type SerRSand highly divergent SerRS	6.1.1.11	serine-tRNA ligase
 SerZMo	6.1.1.11	serine-tRNA ligase
 ZmSerS	6.1.1.11	serine-tRNA ligase
 seryl-tRNA synthetases	6.1.1.11	serine-tRNA ligase
 SvsR	6.1.1.11	serine-tRNA ligase
 VlmL	6.1.1.11	serine-tRNA ligase
-SerRS2	6.1.1.11	serine-tRNA ligase
 STS	6.1.1.11	serine-tRNA ligase
+SerRS2	6.1.1.11	serine-tRNA ligase
 seryl-tRNA synthetase 1	6.1.1.11	serine-tRNA ligase
 SerRS1	6.1.1.11	serine-tRNA ligase
 seryl-tRNA synthetase 2	6.1.1.11	serine-tRNA ligase
+ttSerRS	6.1.1.11	serine-tRNA ligase
+gene name	6.1.1.11	serine-tRNA ligase
+gene name	6.1.1.11	serine-tRNA ligase
+subclass IIa dimeric SerRS	6.1.1.11	serine-tRNA ligase
+seryl tRNA synthetase	6.1.1.11	serine-tRNA ligase
 seryl-tRNA-synthetase	6.1.1.11	serine-tRNA ligase
 tRNASer/seryl-tRNA synthetase	6.1.1.11	serine-tRNA ligase
+gene name	6.1.1.11	serine-tRNA ligase
 Seryl-transfer RNA synthetase	6.1.1.11	serine-tRNA ligase
 Seryl-transfer ribonucleate synthetase	6.1.1.11	serine-tRNA ligase
 Seryl-transfer ribonucleic acid synthetase	6.1.1.11	serine-tRNA ligase
@@ -100,9 +119,11 @@ Hs mt-AspRS	6.1.1.12	aspartate-tRNA ligase
 cytoplasmic aspartyl-tRNA synthetase	6.1.1.12	aspartate-tRNA ligase
 mitochondrial aspartyl-tRNA synthetase	6.1.1.12	aspartate-tRNA ligase
 Bt cyt-AspRS	6.1.1.12	aspartate-tRNA ligase
-Pa AspRS	6.1.1.12	aspartate-tRNA ligase
+AspS	6.1.1.12	aspartate-tRNA ligase
+gene name	6.1.1.12	aspartate-tRNA ligase
 AsnRS	6.1.1.12	aspartate-tRNA ligase
 Aspartyl-tRNA synthetase	6.1.1.12	aspartate-tRNA ligase
+Pa AspRS	6.1.1.12	aspartate-tRNA ligase
 discriminating AspRS	6.1.1.12	aspartate-tRNA ligase
 D-AspRS	6.1.1.12	aspartate-tRNA ligase
 gene name	6.1.1.12	aspartate-tRNA ligase
@@ -115,9 +136,9 @@ mmAspRS	6.1.1.12	aspartate-tRNA ligase
 mt-AspRS	6.1.1.12	aspartate-tRNA ligase
 Drs2	6.1.1.12	aspartate-tRNA ligase
 gene name	6.1.1.12	aspartate-tRNA ligase
+AspRS	6.1.1.12	aspartate-tRNA ligase
 non-discriminating aspartyl-tRNA synthetase	6.1.1.12	aspartate-tRNA ligase
 non-discriminating AspRS	6.1.1.12	aspartate-tRNA ligase
-AspRS	6.1.1.12	aspartate-tRNA ligase
 Aspartyl-transfer RNA synthetase	6.1.1.12	aspartate-tRNA ligase
 Aspartic acid translase	6.1.1.12	aspartate-tRNA ligase
 Aspartyl-transfer ribonucleic acidsynthetase	6.1.1.12	aspartate-tRNA ligase
@@ -125,27 +146,21 @@ Aspartyl ribonucleate synthetase	6.1.1.12	aspartate-tRNA ligase
 aspartyl ribonuleic synthetase	6.1.1.12	aspartate-tRNA ligase
 D-Alanyl-poly-(phosphoribitol) synthetase	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
 D-Alanine: membrane acceptor ligase	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
-D-Alanine-D-alanyl carrier protein ligase	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
 D-Alanine-membrane acceptor ligase	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
 D-Alanine-activating enzyme	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
 DAE	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
-BcDltA	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
 Dlt	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
-D-alanine:D-alanyl carrier protein ligase	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
-D-alanine–D-alanyl carrier protein ligase	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
-Dcl	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
 DCP	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
 D-alanyl carrier protein	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
 DltC	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
-DltA	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
-D-alanyl carrier protein ligase	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
+Dcl	6.1.1.13	D-alanine-poly(phosphoribitol) ligase
 GARS	6.1.1.14	glycine-tRNA ligase
 the enzyme belongs to the class II of aminoacyl-tRNAsynthetases	6.1.1.14	glycine-tRNA ligase
-glycyl-tRNA synthetase 1	6.1.1.14	glycine-tRNA ligase
 gene name	6.1.1.14	glycine-tRNA ligase
-isoform	6.1.1.14	glycine-tRNA ligase
-Glycyl-tRNA synthetase	6.1.1.14	glycine-tRNA ligase
+glycyl-tRNA synthetase 1	6.1.1.14	glycine-tRNA ligase
+glycyl tRNA synthetase	6.1.1.14	glycine-tRNA ligase
 GlyRS	6.1.1.14	glycine-tRNA ligase
+Glycyl-tRNA synthetase	6.1.1.14	glycine-tRNA ligase
 Synthetase, glycyl-transfer ribonucleate	6.1.1.14	glycine-tRNA ligase
 Glycyl-transfer ribonucleate synthetase	6.1.1.14	glycine-tRNA ligase
 Glycyl-transfer RNA synthetase	6.1.1.14	glycine-tRNA ligase
@@ -153,14 +168,16 @@ Glycyl-transfer ribonucleic acid synthetase	6.1.1.14	glycine-tRNA ligase
 Glycyl translase	6.1.1.14	glycine-tRNA ligase
 Glycine--tRNA ligase	6.1.1.14	glycine-tRNA ligase
 isoform	6.1.1.14	glycine-tRNA ligase
+isoform	6.1.1.14	glycine-tRNA ligase
+glutamyl-prolyl-tRNA synthetase	6.1.1.15	proline-tRNA ligase
+EPRS	6.1.1.15	proline-tRNA ligase
 ProRSTT	6.1.1.15	proline-tRNA ligase
 class II prolyl-tRNA synthetase	6.1.1.15	proline-tRNA ligase
 cf. EC 6.1.1.17	6.1.1.15	proline-tRNA ligase
-glutamyl-prolyl tRNA synthetase	6.1.1.15	proline-tRNA ligase
-EPRS	6.1.1.15	proline-tRNA ligase
 prolyl tRNA synthetase	6.1.1.15	proline-tRNA ligase
-ProRS	6.1.1.15	proline-tRNA ligase
+glutamyl-prolyl tRNA synthetase	6.1.1.15	proline-tRNA ligase
 Prolyl-tRNA synthetase	6.1.1.15	proline-tRNA ligase
+ProRS	6.1.1.15	proline-tRNA ligase
 Prolyl-transfer RNA synthetase	6.1.1.15	proline-tRNA ligase
 Prolyl-transfer ribonucleate synthetase	6.1.1.15	proline-tRNA ligase
 Prolinetranslase	6.1.1.15	proline-tRNA ligase
@@ -171,32 +188,44 @@ Global RNAsynthesis factor	6.1.1.15	proline-tRNA ligase
 Proline--tRNAligase	6.1.1.15	proline-tRNA ligase
 glutamyl-/prolyl-tRNA synthetase	6.1.1.15	proline-tRNA ligase
 GluProRS	6.1.1.15	proline-tRNA ligase
+isozyme	6.1.1.15	proline-tRNA ligase
+isozyme	6.1.1.15	proline-tRNA ligase
 class II ProRS	6.1.1.15	proline-tRNA ligase
-misleading	6.1.1.15	proline-tRNA ligase
-misleading	6.1.1.15	proline-tRNA ligase
-misleading	6.1.1.15	proline-tRNA ligase
-misleading	6.1.1.15	proline-tRNA ligase
-misleading	6.1.1.15	proline-tRNA ligase
 PRS	6.1.1.15	proline-tRNA ligase
+misleading	6.1.1.15	proline-tRNA ligase
+misleading	6.1.1.15	proline-tRNA ligase
+misleading	6.1.1.15	proline-tRNA ligase
+misleading	6.1.1.15	proline-tRNA ligase
+misleading	6.1.1.15	proline-tRNA ligase
+UniProt	6.1.1.15	proline-tRNA ligase
+UniProt	6.1.1.15	proline-tRNA ligase
+gene name	6.1.1.15	proline-tRNA ligase
+gene name	6.1.1.15	proline-tRNA ligase
+isoform	6.1.1.16	cysteine-tRNA ligase
 CRS	6.1.1.16	cysteine-tRNA ligase
-cysS	6.1.1.16	cysteine-tRNA ligase
 cysteinyl tRNA synthetase	6.1.1.16	cysteine-tRNA ligase
+gene name	6.1.1.16	cysteine-tRNA ligase
+gene name	6.1.1.16	cysteine-tRNA ligase
+cysteine-specific aminoacyl-tRNA synthetase	6.1.1.16	cysteine-tRNA ligase
+Cysteinyl-tRNA synthetase	6.1.1.16	cysteine-tRNA ligase
+CysRS	6.1.1.16	cysteine-tRNA ligase
 Cysteinyl-transfer RNA synthetase	6.1.1.16	cysteine-tRNA ligase
 Cysteinyl-transfer ribonucleate synthetase	6.1.1.16	cysteine-tRNA ligase
 Cysteine translase	6.1.1.16	cysteine-tRNA ligase
 Synthetase, cysteinyl-transfer ribonucleate	6.1.1.16	cysteine-tRNA ligase
 Cysteine--tRNA ligase	6.1.1.16	cysteine-tRNA ligase
-Cysteinyl-tRNA synthetase	6.1.1.16	cysteine-tRNA ligase
-CysRS	6.1.1.16	cysteine-tRNA ligase
+isoform	6.1.1.16	cysteine-tRNA ligase
 class I cysteinyl-tRNA synthetase	6.1.1.16	cysteine-tRNA ligase
 class I CysRS	6.1.1.16	cysteine-tRNA ligase
+CarS	6.1.1.16	cysteine-tRNA ligase
+glutamyl-prolyl-tRNA synthetase	6.1.1.17	glutamate-tRNA ligase
+EPRS	6.1.1.17	glutamate-tRNA ligase
 tRNA modifying enzyme	6.1.1.17	glutamate-tRNA ligase
 glutamyl-Q tRNAASp synthetase	6.1.1.17	glutamate-tRNA ligase
 YadB	6.1.1.17	glutamate-tRNA ligase
 ERS	6.1.1.17	glutamate-tRNA ligase
 cf. EC 6.1.1.15	6.1.1.17	glutamate-tRNA ligase
 glutamyl-prolyl tRNA synthetase	6.1.1.17	glutamate-tRNA ligase
-EPRS	6.1.1.17	glutamate-tRNA ligase
 GluRS1	6.1.1.17	glutamate-tRNA ligase
 GluRS	6.1.1.17	glutamate-tRNA ligase
 Glutamyl-tRNA synthetase	6.1.1.17	glutamate-tRNA ligase
@@ -214,11 +243,15 @@ Glutamate--tRNA ligase	6.1.1.17	glutamate-tRNA ligase
 P85	6.1.1.17	glutamate-tRNA ligase
 Glutamyl tRNA synthetase	6.1.1.17	glutamate-tRNA ligase
 Glutaminyl-tRNA synthetase	6.1.1.17	glutamate-tRNA ligase
-discriminating GluRS	6.1.1.17	glutamate-tRNA ligase
 D-GluRS	6.1.1.17	glutamate-tRNA ligase
 TM1351	6.1.1.17	glutamate-tRNA ligase
+discriminating GluRS	6.1.1.17	glutamate-tRNA ligase
 GluRSAt	6.1.1.17	glutamate-tRNA ligase
-GltX	6.1.1.17	glutamate-tRNA ligase
+glutamyl-tRNAsynthetase	6.1.1.17	glutamate-tRNA ligase
+Ec-GluRS	6.1.1.17	glutamate-tRNA ligase
+UniProt	6.1.1.17	glutamate-tRNA ligase
+UniProt	6.1.1.17	glutamate-tRNA ligase
+gene name	6.1.1.17	glutamate-tRNA ligase
 Synthetase, glutaminyl-transfer ribonucleate	6.1.1.18	glutamine-tRNA ligase
 Glutaminyl-transfer RNA synthetase	6.1.1.18	glutamine-tRNA ligase
 Glutaminyl-transfer ribonucleate synthetase	6.1.1.18	glutamine-tRNA ligase
@@ -229,7 +262,10 @@ Vegetative specific protein H4	6.1.1.18	glutamine-tRNA ligase
 glutaminyl tRNA synthetase	6.1.1.18	glutamine-tRNA ligase
 Gln-RS	6.1.1.18	glutamine-tRNA ligase
 glutaminyltRNA synthetase	6.1.1.18	glutamine-tRNA ligase
+class I glutaminyl-tRNA synthetase	6.1.1.18	glutamine-tRNA ligase
 Gln4	6.1.1.18	glutamine-tRNA ligase
+QARS	6.1.1.18	glutamine-tRNA ligase
+cytosolic glutaminyl-tRNA synthetase	6.1.1.18	glutamine-tRNA ligase
 glutamyl/glutaminyl-tRNA synthetase	6.1.1.18	glutamine-tRNA ligase
 GlnRS	6.1.1.18	glutamine-tRNA ligase
 Glutaminyl-tRNA synthetase	6.1.1.18	glutamine-tRNA ligase
@@ -243,6 +279,8 @@ Arginine--tRNA ligase	6.1.1.19	arginine-tRNA ligase
 MtArgRS	6.1.1.19	arginine-tRNA ligase
 ArgS2	6.1.1.19	arginine-tRNA ligase
 Arg-tRNA synthetase	6.1.1.19	arginine-tRNA ligase
+gene name	6.1.1.19	arginine-tRNA ligase
+RRS	6.1.1.19	arginine-tRNA ligase
 arginyl–tRNA synthetase	6.1.1.19	arginine-tRNA ligase
 Arginyl-tRNA synthetase	6.1.1.19	arginine-tRNA ligase
 ArgRS	6.1.1.19	arginine-tRNA ligase
@@ -264,11 +302,12 @@ trytophanyl-tRNA synthetase	6.1.1.2	tryptophan-tRNA ligase
 composed of residues 94-471 of TrpRS	6.1.1.2	tryptophan-tRNA ligase
 alternative splice variant	6.1.1.2	tryptophan-tRNA ligase
 truncated form	6.1.1.2	tryptophan-tRNA ligase
-tryptophanyl tRNA synthetase	6.1.1.2	tryptophan-tRNA ligase
-cytoplasmic form	6.1.1.2	tryptophan-tRNA ligase
 mitochondrial form	6.1.1.2	tryptophan-tRNA ligase
 WRS	6.1.1.2	tryptophan-tRNA ligase
 hTrpRS	6.1.1.2	tryptophan-tRNA ligase
+gene name	6.1.1.2	tryptophan-tRNA ligase
+tryptophanyl tRNA synthetase	6.1.1.2	tryptophan-tRNA ligase
+TrpRS Urzyme	6.1.1.2	tryptophan-tRNA ligase
 the enzyme belongs to the class Iaminoacyl-tRNA transferases	6.1.1.2	tryptophan-tRNA ligase
 Tryptophanyl-tRNA synthase	6.1.1.2	tryptophan-tRNA ligase
 TrpRS	6.1.1.2	tryptophan-tRNA ligase
@@ -284,8 +323,8 @@ tryptophanyl tRNA synthase	6.1.1.2	tryptophan-tRNA ligase
 BsTRpRS	6.1.1.2	tryptophan-tRNA ligase
 Tryptophanyl-tRNA synthetase	6.1.1.2	tryptophan-tRNA ligase
 PheRS	6.1.1.20	phenylalanine-tRNA ligase
+Phenylalanine-tRNA synthetase	6.1.1.20	phenylalanine-tRNA ligase
 Phenylalanyl-tRNA synthetase	6.1.1.20	phenylalanine-tRNA ligase
-Phenylalanine-tRNAsynthetase	6.1.1.20	phenylalanine-tRNA ligase
 Phenylalanyl-transferRNA synthetase	6.1.1.20	phenylalanine-tRNA ligase
 Synthetase,phenylalanyl-transfer ribonucleate	6.1.1.20	phenylalanine-tRNA ligase
 Phenylalanyl-transferribonucleate synthetase	6.1.1.20	phenylalanine-tRNA ligase
@@ -303,11 +342,14 @@ EcPheRS	6.1.1.20	phenylalanine-tRNA ligase
 mitochondrial phenylalanyl-tRNA synthetase	6.1.1.20	phenylalanine-tRNA ligase
 mitPheRS	6.1.1.20	phenylalanine-tRNA ligase
 mitochondrial PheRS	6.1.1.20	phenylalanine-tRNA ligase
-gene name	6.1.1.20	phenylalanine-tRNA ligase
 mitochondrial type	6.1.1.20	phenylalanine-tRNA ligase
 cytoplasmic phenylalanyl-tRNA synthetase	6.1.1.20	phenylalanine-tRNA ligase
+gene name	6.1.1.20	phenylalanine-tRNA ligase
 cytoplasmic type	6.1.1.20	phenylalanine-tRNA ligase
+subunit	6.1.1.20	phenylalanine-tRNA ligase
 phenylalanine tRNA synthetase	6.1.1.20	phenylalanine-tRNA ligase
+p-azido-phenylalanyl-tRNA synthetase	6.1.1.20	phenylalanine-tRNA ligase
+pAzFRS	6.1.1.20	phenylalanine-tRNA ligase
 cytosolic PheRS	6.1.1.20	phenylalanine-tRNA ligase
 cytosolic phenylalanyl-tRNA synthetase	6.1.1.20	phenylalanine-tRNA ligase
 hcPheRS	6.1.1.20	phenylalanine-tRNA ligase
@@ -317,12 +359,12 @@ Histidine--tRNA ligase homolog	6.1.1.21	histidine-tRNA ligase
 gene name	6.1.1.21	histidine-tRNA ligase
 gene name	6.1.1.21	histidine-tRNA ligase
 histidyl tRNA synthetase	6.1.1.21	histidine-tRNA ligase
-histidyl-transfer RNA synthetase	6.1.1.21	histidine-tRNA ligase
 HisRS	6.1.1.21	histidine-tRNA ligase
+Histidyl-tRNA synthetase	6.1.1.21	histidine-tRNA ligase
+histidyl-transfer RNA synthetase	6.1.1.21	histidine-tRNA ligase
 class II histidyl-tRNA synthetase	6.1.1.21	histidine-tRNA ligase
 HisRS-1	6.1.1.21	histidine-tRNA ligase
 HisRS-2	6.1.1.21	histidine-tRNA ligase
-Histidyl-tRNA synthetase	6.1.1.21	histidine-tRNA ligase
 Synthetase, histidyl-transfer ribonucleate	6.1.1.21	histidine-tRNA ligase
 Histidyl-transfer ribonucleate synthetase	6.1.1.21	histidine-tRNA ligase
 Histidine translase	6.1.1.21	histidine-tRNA ligase
@@ -332,13 +374,15 @@ histidine-tRNA ligase homolog	6.1.1.21	histidine-tRNA ligase
 histidine-tRNA ligase	6.1.1.21	histidine-tRNA ligase
 antihistidyl-tRNA synthetase	6.1.1.21	histidine-tRNA ligase
 gene name	6.1.1.21	histidine-tRNA ligase
+gene name	6.1.1.21	histidine-tRNA ligase
 mitochondrial histidyl tRNA synthetase	6.1.1.21	histidine-tRNA ligase
 HRS	6.1.1.21	histidine-tRNA ligase
-Asparagine synthetase A	6.1.1.22	asparagine-tRNA ligase
-AS-AR	6.1.1.22	asparagine-tRNA ligase
-locus name	6.1.1.22	asparagine-tRNA ligase
+gene name	6.1.1.22	asparagine-tRNA ligase
+NRS	6.1.1.22	asparagine-tRNA ligase
+asparaginyl tRNA synthetase	6.1.1.22	asparagine-tRNA ligase
 class IIb asparaginyl-tRNA synthetases	6.1.1.22	asparagine-tRNA ligase
 asparagine tRNA synthetase	6.1.1.22	asparagine-tRNA ligase
+asparaginyl-transfer RNA synthetase	6.1.1.22	asparagine-tRNA ligase
 Synthetase, asparaginyl-transfer ribonucleate	6.1.1.22	asparagine-tRNA ligase
 Asparaginyl-transfer ribonucleate synthetase	6.1.1.22	asparagine-tRNA ligase
 Asparaginyl transfer RNA synthetase	6.1.1.22	asparagine-tRNA ligase
@@ -349,7 +393,9 @@ Asparagine--tRNA ligase	6.1.1.22	asparagine-tRNA ligase
 Potentially protective 63 kDa antigen	6.1.1.22	asparagine-tRNA ligase
 Asparaginyl-tRNA synthetase	6.1.1.22	asparagine-tRNA ligase
 AsnRS	6.1.1.22	asparagine-tRNA ligase
-asparaginyl-transfer RNA synthetase	6.1.1.22	asparagine-tRNA ligase
+Asparagine synthetase A	6.1.1.22	asparagine-tRNA ligase
+AS-AR	6.1.1.22	asparagine-tRNA ligase
+locus name	6.1.1.22	asparagine-tRNA ligase
 the enzyme belongs to the aminoacyl-tRNA synthetasefamily, AARS	6.1.1.22	asparagine-tRNA ligase
 NARS	6.1.1.22	asparagine-tRNA ligase
 Aspartyl ribonucleic synthetase	6.1.1.23	aspartate-tRNAAsn ligase
@@ -361,12 +407,12 @@ aspartate tRNA synthetase	6.1.1.23	aspartate-tRNAAsn ligase
 aspartyl-transfer ribonucleate synthetase	6.1.1.23	aspartate-tRNAAsn ligase
 aspartyl tRNA synthetase	6.1.1.23	aspartate-tRNAAsn ligase
 EC 6.1.1.12	6.1.1.23	aspartate-tRNAAsn ligase
-ND-AspRS	6.1.1.23	aspartate-tRNAAsn ligase
-nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	aspartate-tRNAAsn ligase
-AspRS is a class IIb aminoacyl-tRNA synthetase	6.1.1.23	aspartate-tRNAAsn ligase
 Aspartyl-tRNA synthetase	6.1.1.23	aspartate-tRNAAsn ligase
-non-discriminating aspartyl-tRNA synthetase	6.1.1.23	aspartate-tRNAAsn ligase
 AspRS	6.1.1.23	aspartate-tRNAAsn ligase
+AspRS is a class IIb aminoacyl-tRNA synthetase	6.1.1.23	aspartate-tRNAAsn ligase
+nondiscriminating aspartyl-tRNA synthetase	6.1.1.23	aspartate-tRNAAsn ligase
+ND-AspRS	6.1.1.23	aspartate-tRNAAsn ligase
+non-discriminating aspartyl-tRNA synthetase	6.1.1.23	aspartate-tRNAAsn ligase
 nondiscriminating AspRS	6.1.1.23	aspartate-tRNAAsn ligase
 nondicriminating AspRS	6.1.1.23	aspartate-tRNAAsn ligase
 GluRS	6.1.1.24	glutamate-tRNAGln ligase
@@ -375,6 +421,7 @@ GluRS2	6.1.1.24	glutamate-tRNAGln ligase
 Glutamyl-tRNA synthetase	6.1.1.24	glutamate-tRNAGln ligase
 nondiscriminating glutamyl-tRNA synthetase	6.1.1.24	glutamate-tRNAGln ligase
 only TM1875 functions as a nondiscriminating GluRS	6.1.1.24	glutamate-tRNAGln ligase
+gene name	6.1.1.24	glutamate-tRNAGln ligase
 glutamyl-queuosine tRNAAsp synthetase	6.1.1.24	glutamate-tRNAGln ligase
 Glu-Q-RS	6.1.1.24	glutamate-tRNAGln ligase
 non-discriminating GluRS	6.1.1.24	glutamate-tRNAGln ligase
@@ -387,16 +434,19 @@ cf. EC 6.1.1.25	6.1.1.26	pyrrolysine-tRNAPyl ligase
 pyrrolysyl-tRNA synthetase	6.1.1.26	pyrrolysine-tRNAPyl ligase
 PylRS	6.1.1.26	pyrrolysine-tRNAPyl ligase
 PylSn	6.1.1.26	pyrrolysine-tRNAPyl ligase
-in the Gram-positive bacterium Desulfitobacteriumhafniense, PylS is divided into two separate proteins, PylSn and PylSc,corresponding to the N-terminal and C-terminal domains of the singlePylS protein found in methanogens	6.1.1.26	pyrrolysine-tRNAPyl ligase
+gene name	6.1.1.26	pyrrolysine-tRNAPyl ligase
 class II aminoacyl-tRNA synthetase	6.1.1.26	pyrrolysine-tRNAPyl ligase
 PylSc	6.1.1.26	pyrrolysine-tRNAPyl ligase
 DhaPylSc	6.1.1.26	pyrrolysine-tRNAPyl ligase
+LysZ-RS	6.1.1.26	pyrrolysine-tRNAPyl ligase
 SepRS–SepCysS binary complex	6.1.1.27	O-phospho-L-serine-tRNA ligase
 CysRS	6.1.1.27	O-phospho-L-serine-tRNA ligase
 phosphoseryl-tRNA synthetases	6.1.1.27	O-phospho-L-serine-tRNA ligase
 phosphoseryl-tRNA synthetase	6.1.1.27	O-phospho-L-serine-tRNA ligase
 O-phosphoseryl-tRNA synthetase	6.1.1.27	O-phospho-L-serine-tRNA ligase
+gene name	6.1.1.27	O-phospho-L-serine-tRNA ligase
 the enzyme is a class II tRNA synthetase	6.1.1.27	O-phospho-L-serine-tRNA ligase
+Cysteinyl-tRNA synthetase	6.1.1.27	O-phospho-L-serine-tRNA ligase
 ThrRS	6.1.1.3	threonine-tRNA ligase
 Synthetase, threonyl-transfer ribonucleate	6.1.1.3	threonine-tRNA ligase
 Threonyl-transfer ribonucleate synthetase	6.1.1.3	threonine-tRNA ligase
@@ -409,24 +459,33 @@ TRS	6.1.1.3	threonine-tRNA ligase
 Threonine--tRNA ligase	6.1.1.3	threonine-tRNA ligase
 Threonyl-tRNA synthetase	6.1.1.3	threonine-tRNA ligase
 Thr-tRNA synthetase	6.1.1.3	threonine-tRNA ligase
+BaThrRS	6.1.1.3	threonine-tRNA ligase
+gene name	6.1.1.3	threonine-tRNA ligase
 ThrRS1	6.1.1.3	threonine-tRNA ligase
 protein contains the catalytic domain of ThrRS	6.1.1.3	threonine-tRNA ligase
 protein contains the editing domain of ThrRS	6.1.1.3	threonine-tRNA ligase
 protein contains the catalytic domain of ThrRS	6.1.1.3	threonine-tRNA ligase
 protein contains the editing domain of ThrRS	6.1.1.3	threonine-tRNA ligase
+McThrRS	6.1.1.3	threonine-tRNA ligase
+EcThrRS	6.1.1.3	threonine-tRNA ligase
+threonyl tRNA synthetase	6.1.1.3	threonine-tRNA ligase
+ectRNAThr	6.1.1.3	threonine-tRNA ligase
+gene name	6.1.1.3	threonine-tRNA ligase
+ScmtThrRS	6.1.1.3	threonine-tRNA ligase
+MmThrRS	6.1.1.3	threonine-tRNA ligase
 the enzyme belongs to the class II aminoacyl-tRNAsynthetases	6.1.1.3	threonine-tRNA ligase
-Mst1	6.1.1.3	threonine-tRNA ligase
 mitochondrial threonyl-tRNA synthetase	6.1.1.3	threonine-tRNA ligase
+gene name	6.1.1.3	threonine-tRNA ligase
 LeuRSTT	6.1.1.4	leucine-tRNA ligase
 enzyme belongs to the XUX aminoacyl synthetasefamily	6.1.1.4	leucine-tRNA ligase
 leucyl-tRNA ligase	6.1.1.4	leucine-tRNA ligase
 hs mt LeuRS	6.1.1.4	leucine-tRNA ligase
-HcleuRS	6.1.1.4	leucine-tRNA ligase
 leucyl-tRNA synthetase 1	6.1.1.4	leucine-tRNA ligase
 LARS1	6.1.1.4	leucine-tRNA ligase
-LARS2	6.1.1.4	leucine-tRNA ligase
 LRS	6.1.1.4	leucine-tRNA ligase
-Leucyl-tRNAsynthetase	6.1.1.4	leucine-tRNA ligase
+gene name	6.1.1.4	leucine-tRNA ligase
+HcleuRS	6.1.1.4	leucine-tRNA ligase
+Leucyl-tRNA synthetase	6.1.1.4	leucine-tRNA ligase
 LeuRS	6.1.1.4	leucine-tRNA ligase
 Synthetase, leucyl-transfer ribonucleate	6.1.1.4	leucine-tRNA ligase
 Leucyl-transfer ribonucleate synthetase	6.1.1.4	leucine-tRNA ligase
@@ -440,11 +499,22 @@ AaLeuRS	6.1.1.4	leucine-tRNA ligase
 isoform, exhibits much higher aminoacylation andediting activity than isoform LeuRS2	6.1.1.4	leucine-tRNA ligase
 isoform, exhibits much less aminoacylation andediting activity than isoform LeuRS1	6.1.1.4	leucine-tRNA ligase
 mtLeuRS	6.1.1.4	leucine-tRNA ligase
+leucyl-tRNA syntethase	6.1.1.4	leucine-tRNA ligase
+mt leucyl-tRNA synthetase	6.1.1.4	leucine-tRNA ligase
+mt-LeuRS	6.1.1.4	leucine-tRNA ligase
 leucyl—tRNA synthetase	6.1.1.4	leucine-tRNA ligase
 ycLeuRS	6.1.1.4	leucine-tRNA ligase
+cytoplasmic LeuRS	6.1.1.4	leucine-tRNA ligase
+gene name	6.1.1.4	leucine-tRNA ligase
+gene name	6.1.1.4	leucine-tRNA ligase
+gene name	6.1.1.4	leucine-tRNA ligase
+EcLeuRS	6.1.1.4	leucine-tRNA ligase
+gene name	6.1.1.4	leucine-tRNA ligase
+MmLeuRS	6.1.1.4	leucine-tRNA ligase
+PhLeuRS	6.1.1.4	leucine-tRNA ligase
 Ile-tRNA synthetase	6.1.1.5	isoleucine-tRNA ligase
 IleRS	6.1.1.5	isoleucine-tRNA ligase
-Isoleucyl-tRNA synthetase	6.1.1.5	isoleucine-tRNA ligase
+Isoleucyl-tRNAsynthetase	6.1.1.5	isoleucine-tRNA ligase
 Synthetase, isoleucyl-transfer ribonucleate	6.1.1.5	isoleucine-tRNA ligase
 Isoleucyl-transfer RNA synthetase	6.1.1.5	isoleucine-tRNA ligase
 Isoleucyl-transfer ribonucleate synthetase	6.1.1.5	isoleucine-tRNA ligase
@@ -454,6 +524,16 @@ Isoleucine translase	6.1.1.5	isoleucine-tRNA ligase
 IRS	6.1.1.5	isoleucine-tRNA ligase
 Isoleucine--tRNA ligase	6.1.1.5	isoleucine-tRNA ligase
 Mupirocin resistance protein	6.1.1.5	isoleucine-tRNA ligase
+gene name	6.1.1.5	isoleucine-tRNA ligase
+EcIleRS	6.1.1.5	isoleucine-tRNA ligase
+gene name	6.1.1.5	isoleucine-tRNA ligase
+gene name	6.1.1.5	isoleucine-tRNA ligase
+mt isoleucyl-tRNA synthetase	6.1.1.5	isoleucine-tRNA ligase
+mt-IleRS	6.1.1.5	isoleucine-tRNA ligase
+mitochondrial isoleucyl-tRNA synthetase	6.1.1.5	isoleucine-tRNA ligase
+gene name	6.1.1.5	isoleucine-tRNA ligase
+SgIleRS	6.1.1.5	isoleucine-tRNA ligase
+ScIleRS	6.1.1.5	isoleucine-tRNA ligase
 isoleucyl tRNA synthetase	6.1.1.5	isoleucine-tRNA ligase
 the enzyme is a class I aminoacyl-tRNA synthetase	6.1.1.5	isoleucine-tRNA ligase
 class I enzyme	6.1.1.6	lysine-tRNA ligase
@@ -464,8 +544,8 @@ class II lysyl-tRNA synthetase	6.1.1.6	lysine-tRNA ligase
 KRS-1	6.1.1.6	lysine-tRNA ligase
 class I LysRS	6.1.1.6	lysine-tRNA ligase
 enzyme has structural similarity to glutamyl-tRNAsynthetase, EC 6.1.1.17, from other organisms, e.g. Thermusthermophilus	6.1.1.6	lysine-tRNA ligase
-contains a PDZ binding motif at itsC-terminus	6.1.1.6	lysine-tRNA ligase
-classII	6.1.1.6	lysine-tRNA ligase
+contains a PDZ bindingmotif at its C-terminus	6.1.1.6	lysine-tRNA ligase
+class II	6.1.1.6	lysine-tRNA ligase
 Synthetase, lysyl-transferribonucleate	6.1.1.6	lysine-tRNA ligase
 Lysyl-transfer ribonucleatesynthetase	6.1.1.6	lysine-tRNA ligase
 Lysyl-transfer RNA synthetase	6.1.1.6	lysine-tRNA ligase
@@ -473,19 +553,36 @@ L-Lysine-transfer RNA ligase	6.1.1.6	lysine-tRNA ligase
 Lysine-tRNA synthetase	6.1.1.6	lysine-tRNA ligase
 Lysine translase	6.1.1.6	lysine-tRNA ligase
 Lysine--tRNA ligase	6.1.1.6	lysine-tRNA ligase
-KRS	6.1.1.6	lysine-tRNA ligase
 LysRS-I	6.1.1.6	lysine-tRNA ligase
 LysRS-II	6.1.1.6	lysine-tRNA ligase
 class 1 lysyl tRNA synthetase	6.1.1.6	lysine-tRNA ligase
 lysyl tRNA synthetase	6.1.1.6	lysine-tRNA ligase
-KARS	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
 GsLysRS	6.1.1.6	lysine-tRNA ligase
 hKRS	6.1.1.6	lysine-tRNA ligase
 mitoKARS	6.1.1.6	lysine-tRNA ligase
 cytoKARS	6.1.1.6	lysine-tRNA ligase
-LysU	6.1.1.6	lysine-tRNA ligase
+cytoplasmic lysyl-tRNA synthetase	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
+PfKRS	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
+UniProt	6.1.1.6	lysine-tRNA ligase
+Ap4A synthase	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
+mitochondrial lysyl-tRNA synthetase	6.1.1.6	lysine-tRNA ligase
+preMsk1p	6.1.1.6	lysine-tRNA ligase
+Msk1p	6.1.1.6	lysine-tRNA ligase
+gene name	6.1.1.6	lysine-tRNA ligase
 mito-LysRS	6.1.1.6	lysine-tRNA ligase
 cyto-LysRS	6.1.1.6	lysine-tRNA ligase
+KRS	6.1.1.6	lysine-tRNA ligase
 tRK1	6.1.1.6	lysine-tRNA ligase
 Alanine--tRNA ligase	6.1.1.7	alanine-tRNA ligase
 MurN	6.1.1.7	alanine-tRNA ligase
@@ -502,6 +599,11 @@ Ala-tRNA synthetase	6.1.1.7	alanine-tRNA ligase
 Alanine translase	6.1.1.7	alanine-tRNA ligase
 alanine-tRNA ligase	6.1.1.7	alanine-tRNA ligase
 gene name	6.1.1.7	alanine-tRNA ligase
+mitochondrial alanyl-tRNA synthetase	6.1.1.7	alanine-tRNA ligase
+mtAlaRS	6.1.1.7	alanine-tRNA ligase
+gene name	6.1.1.7	alanine-tRNA ligase
+gene name	6.1.1.7	alanine-tRNA ligase
+alanyltRNA synthetase	6.1.1.7	alanine-tRNA ligase
 the enzyme belongs to the MurMN/Fem-ABX family oftRNA-dependent ligases	6.1.1.7	alanine-tRNA ligase
 MurM	6.1.1.7	alanine-tRNA ligase
 alanyl-tRNA synthase	6.1.1.7	alanine-tRNA ligase
@@ -524,11 +626,22 @@ Vas2	6.1.1.9	valine-tRNA ligase
 ValRS1	6.1.1.9	valine-tRNA ligase
 Vas1	6.1.1.9	valine-tRNA ligase
 ValRS2	6.1.1.9	valine-tRNA ligase
+valyl-tRNAsynthetase	6.1.1.9	valine-tRNA ligase
+gene name	6.1.1.9	valine-tRNA ligase
+Val-tRNA synthetase	6.1.1.9	valine-tRNA ligase
+white panicle1	6.1.1.9	valine-tRNA ligase
+gene name	6.1.1.9	valine-tRNA ligase
+OsValRS2	6.1.1.9	valine-tRNA ligase
+valyl aminoacyl tRNA synthetase	6.1.1.9	valine-tRNA ligase
+gene name	6.1.1.9	valine-tRNA ligase
+VARS-2	6.1.1.9	valine-tRNA ligase
 mitochondrial valyl tRNA synthetase	6.1.1.9	valine-tRNA ligase
 MTTV	6.1.1.9	valine-tRNA ligase
 VRSA-9 Ddl	6.1.2.1	D-alanine-(R)-lactate ligase
-D-Ala-D-Lac ligase	6.1.2.1	D-alanine-(R)-lactate ligase
+VanI	6.1.2.1	D-alanine-(R)-lactate ligase
+D-Ala:D-Lac ligase	6.1.2.1	D-alanine-(R)-lactate ligase
 gene name	6.1.2.1	D-alanine-(R)-lactate ligase
+D-Ala-D-Lac ligase	6.1.2.1	D-alanine-(R)-lactate ligase
 depsipeptide ligase	6.1.2.1	D-alanine-(R)-lactate ligase
 D-alanine-D-lactate ligase	6.1.2.1	D-alanine-(R)-lactate ligase
 VanD	6.1.2.1	D-alanine-(R)-lactate ligase
@@ -536,6 +649,8 @@ VanD4	6.1.2.1	D-alanine-(R)-lactate ligase
 VanB	6.1.2.1	D-alanine-(R)-lactate ligase
 D-alanine:D-lactate ligase	6.1.2.1	D-alanine-(R)-lactate ligase
 D-alanine:D-alanine (D-lactate) ligase (ADP)	6.1.2.1	D-alanine-(R)-lactate ligase
-D-Ala:D-Lac ligase	6.1.2.1	D-alanine-(R)-lactate ligase
-TobZ	6.1.2.2	nebramycin 5' synthase
+D-alanyl-D-lactate ligase	6.1.2.1	D-alanine-(R)-lactate ligase
+gene name	6.1.2.2	nebramycin 5' synthase
+gene name	6.1.2.2	nebramycin 5' synthase
 obramycin carbamoyltransferase	6.1.2.2	nebramycin 5' synthase
+oleC	6.1.3.1	olefin beta-lactone synthetase

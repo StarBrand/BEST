@@ -15,6 +15,8 @@ gene name	6.4.1.1	pyruvate carboxylase
 pyruvate carboxylase 1	6.4.1.1	pyruvate carboxylase
 PYC	6.4.1.1	pyruvate carboxylase
 EhPYC1	6.4.1.1	pyruvate carboxylase
+MSmeg_2412	6.4.1.1	pyruvate carboxylase
+gene name	6.4.1.1	pyruvate carboxylase
 PCC	6.4.1.1	pyruvate carboxylase
 Carboxylase, acetyl coenzyme A	6.4.1.2	acetyl-CoA carboxylase
 Acetyl coenzyme A carboxylase	6.4.1.2	acetyl-CoA carboxylase
@@ -23,10 +25,15 @@ c.f. EC 6.4.1.3	6.4.1.2	acetyl-CoA carboxylase
 ACC-2	6.4.1.2	acetyl-CoA carboxylase
 acetylCoA carboxylase	6.4.1.2	acetyl-CoA carboxylase
 acetyl-CoA carboxylase-alpha	6.4.1.2	acetyl-CoA carboxylase
-ACACA	6.4.1.2	acetyl-CoA carboxylase
 Hfa1p	6.4.1.2	acetyl-CoA carboxylase
 Acc1p	6.4.1.2	acetyl-CoA carboxylase
 acetyl-coenzyme-A carboxylase	6.4.1.2	acetyl-CoA carboxylase
+Acc1a	6.4.1.2	acetyl-CoA carboxylase
+gene name	6.4.1.2	acetyl-CoA carboxylase
+gene name	6.4.1.2	acetyl-CoA carboxylase
+acyl coenzyme A carboxylase	6.4.1.2	acetyl-CoA carboxylase
+acyl-CoA carboxylase	6.4.1.2	acetyl-CoA carboxylase
+Acc1b	6.4.1.2	acetyl-CoA carboxylase
 subunit	6.4.1.2	acetyl-CoA carboxylase
 subunit	6.4.1.2	acetyl-CoA carboxylase
 gene name for subunit BCCP1	6.4.1.2	acetyl-CoA carboxylase
@@ -39,6 +46,7 @@ ACC-1	6.4.1.2	acetyl-CoA carboxylase
 acetyl coenzyme A carboxylase alpha	6.4.1.2	acetyl-CoA carboxylase
 ACCalpha	6.4.1.2	acetyl-CoA carboxylase
 acetyl-CoA carboxylase alpha	6.4.1.2	acetyl-CoA carboxylase
+gene name	6.4.1.2	acetyl-CoA carboxylase
 the ACCase that preferentiallyaccepts acetyl-CoA as a substrate is defined as an acetyl-CoAcarboxylase (ACC)	6.4.1.2	acetyl-CoA carboxylase
 acetyl-CoA carboxylase A	6.4.1.2	acetyl-CoA carboxylase
 acetyl-CoA carboxylase B	6.4.1.2	acetyl-CoA carboxylase
@@ -48,9 +56,10 @@ Acetyl CoA carboxylase	6.4.1.2	acetyl-CoA carboxylase
 acetyl-CoA carboxylase 1	6.4.1.2	acetyl-CoA carboxylase
 acetyl-CoA carboxylase	6.4.1.2	acetyl-CoA carboxylase
 Acetyl-coenzyme A carboxylase	6.4.1.2	acetyl-CoA carboxylase
-subunit	6.4.1.2	acetyl-CoA carboxylase
-AccA	6.4.1.2	acetyl-CoA carboxylase
+gene name	6.4.1.2	acetyl-CoA carboxylase
+subunit alpha	6.4.1.2	acetyl-CoA carboxylase
 ACCase 1	6.4.1.2	acetyl-CoA carboxylase
+ACACB	6.4.1.2	acetyl-CoA carboxylase
 Propionyl coenzyme A carboxylase	6.4.1.3	propionyl-CoA carboxylase
 Carboxylase, propional coenzyme A (adenosine triphosphate-hydrolyzing)	6.4.1.3	propionyl-CoA carboxylase
 Propionyl coenzyme A carboxylase (ATP-hydrolyzing)	6.4.1.3	propionyl-CoA carboxylase
@@ -63,10 +72,13 @@ gene name	6.4.1.3	propionyl-CoA carboxylase
 pccBC	6.4.1.3	propionyl-CoA carboxylase
 Propionyl-CoA carboxylase	6.4.1.3	propionyl-CoA carboxylase
 propionyl-coenzyme A carboxylase	6.4.1.3	propionyl-CoA carboxylase
-beta subunit of PCCase	6.4.1.3	propionyl-CoA carboxylase
 epsilon subunit of PCCase	6.4.1.3	propionyl-CoA carboxylase
+beta subunit of PCCase	6.4.1.3	propionyl-CoA carboxylase
 PCCase	6.4.1.3	propionyl-CoA carboxylase
 the AccA3-PccB complex of Streptomycestoxytricini has a PCCase activity rather than ACCase activity	6.4.1.3	propionyl-CoA carboxylase
+PccA-1	6.4.1.3	propionyl-CoA carboxylase
+PccB-1	6.4.1.3	propionyl-CoA carboxylase
+PccA	6.4.1.3	propionyl-CoA carboxylase
 Carboxylase, methylcrotonyl coenzyme A	6.4.1.4	methylcrotonoyl-CoA carboxylase
 Methylcrotonyl coenzyme A carboxylase	6.4.1.4	methylcrotonoyl-CoA carboxylase
 beta-Methylcrotonyl coenzyme A carboxylase	6.4.1.4	methylcrotonoyl-CoA carboxylase
@@ -78,6 +90,7 @@ Mcase	6.4.1.4	methylcrotonoyl-CoA carboxylase
 3-methylcrotonyl coenzyme A carboxylase	6.4.1.4	methylcrotonoyl-CoA carboxylase
 MC-CoA carboxylase	6.4.1.4	methylcrotonoyl-CoA carboxylase
 MCC	6.4.1.4	methylcrotonoyl-CoA carboxylase
+Mcc2	6.4.1.4	methylcrotonoyl-CoA carboxylase
 glutaconyl-CoA decarboxylase	6.4.1.4	methylcrotonoyl-CoA carboxylase
 glutaconyl-CoA:biotin carboxytransferase	6.4.1.4	methylcrotonoyl-CoA carboxylase
 3-methylcrotonyl-CoA:carbon-dioxide ligase (ADP-forming)	6.4.1.4	methylcrotonoyl-CoA carboxylase
@@ -99,9 +112,13 @@ Carboxylase, geranoyl coenzyme A	6.4.1.5	geranoyl-CoA carboxylase
 Geranoyl coenzyme A carboxylase	6.4.1.5	geranoyl-CoA carboxylase
 Geranyl-CoA carboxylase	6.4.1.5	geranoyl-CoA carboxylase
 GCCase	6.4.1.5	geranoyl-CoA carboxylase
+AtuC	6.4.1.5	geranoyl-CoA carboxylase
 Gcase	6.4.1.5	geranoyl-CoA carboxylase
 AtuC/AtuF	6.4.1.5	geranoyl-CoA carboxylase
 carboxylase, acetone	6.4.1.6	acetone carboxylase
+beta subunit, gene name	6.4.1.6	acetone carboxylase
+catalytic alpha subunit, gene name	6.4.1.6	acetone carboxylase
+gamma subunit, gene name	6.4.1.6	acetone carboxylase
 subunit	6.4.1.6	acetone carboxylase
 subunit	6.4.1.6	acetone carboxylase
 subunit	6.4.1.6	acetone carboxylase
@@ -112,5 +129,13 @@ oxalosuccinate synthetase	6.4.1.7	2-oxoglutarate carboxylase
 incorrect	6.4.1.7	2-oxoglutarate carboxylase
 CFI	6.4.1.7	2-oxoglutarate carboxylase
 OGC	6.4.1.7	2-oxoglutarate carboxylase
+beta-subunit	6.4.1.8	acetophenone carboxylase
+alpha-subunit	6.4.1.8	acetophenone carboxylase
+gamma-subunit	6.4.1.8	acetophenone carboxylase
+delta-subunit	6.4.1.8	acetophenone carboxylase
+epsilon-subunit	6.4.1.8	acetophenone carboxylase
+Apcalpha	6.4.1.8	acetophenone carboxylase
+Apcbeta	6.4.1.8	acetophenone carboxylase
+Apcgamma	6.4.1.8	acetophenone carboxylase
 gene name	6.4.1.9	coenzyme F430 synthetase
 gene name	6.4.1.9	coenzyme F430 synthetase

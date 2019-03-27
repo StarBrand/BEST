@@ -9,4 +9,7 @@ ferredoxin/flavodoxin-NADP(H) oxidoreductase	1.19.1.1	flavodoxin-NADP+ reductase
 gene name	1.19.1.1	flavodoxin-NADP+ reductase
 FldA	1.19.6.1	nitrogenase (flavodoxin)
 NifF	1.19.6.1	nitrogenase (flavodoxin)
+nitrogenase Fe-protein	1.19.6.1	nitrogenase (flavodoxin)
+nitrogenase Fe protein	1.19.6.1	nitrogenase (flavodoxin)
 nitrogenase	1.19.6.1	nitrogenase (flavodoxin)
+FeP	1.19.6.1	nitrogenase (flavodoxin)

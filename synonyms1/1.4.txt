@@ -10,11 +10,11 @@ NADH-dependent alanine dehydrogenase	1.4.1.1	alanine dehydrogenase
 40 kDa antigen	1.4.1.1	alanine dehydrogenase
 TB43	1.4.1.1	alanine dehydrogenase
 NAD+ dependent amino acid dehydrogenase	1.4.1.1	alanine dehydrogenase
-Rv2780	1.4.1.1	alanine dehydrogenase
 MtbALD	1.4.1.1	alanine dehydrogenase
 ALD	1.4.1.1	alanine dehydrogenase
 L-alanine dehydrogenase	1.4.1.1	alanine dehydrogenase
 alanine dehydrogenase	1.4.1.1	alanine dehydrogenase
+Rv2780	1.4.1.1	alanine dehydrogenase
 L-AlaDH	1.4.1.1	alanine dehydrogenase
 NAD+-dependent alanine dehydrogenase	1.4.1.1	alanine dehydrogenase
 ALADH	1.4.1.1	alanine dehydrogenase
@@ -31,6 +31,7 @@ L-erythro-3,5-diaminohexanoate dehydrogenase	1.4.1.11	L-erythro-3,5-diaminohexan
 2,4-diaminopentanoic acid C4 dehydrogenase	1.4.1.12	2,4-diaminopentanoate dehydrogenase
 2R,4S-2,4-diaminopentanoate dehydrogenase	1.4.1.12	2,4-diaminopentanoate dehydrogenase
 DAPDH	1.4.1.12	2,4-diaminopentanoate dehydrogenase
+2,4-DAPDH	1.4.1.12	2,4-diaminopentanoate dehydrogenase
 EC 2.6.1.53	1.4.1.13	glutamate synthase (NADPH)
 synthase, glutamate (reduced nicotinamide adenine dinucleotidephosphate)	1.4.1.13	glutamate synthase (NADPH)
 L-glutamate synthase	1.4.1.13	glutamate synthase (NADPH)
@@ -54,6 +55,8 @@ EhNO2	1.4.1.13	glutamate synthase (NADPH)
 pGLTZ	1.4.1.13	glutamate synthase (NADPH)
 pGLTY1	1.4.1.13	glutamate synthase (NADPH)
 pGLTY2	1.4.1.13	glutamate synthase (NADPH)
+gene name	1.4.1.13	glutamate synthase (NADPH)
+gene name	1.4.1.13	glutamate synthase (NADPH)
 gltB	1.4.1.13	glutamate synthase (NADPH)
 gltA	1.4.1.13	glutamate synthase (NADPH)
 L-glutamate synthetase	1.4.1.14	glutamate synthase (NADH)
@@ -67,10 +70,12 @@ glutamate synthase (NADH)	1.4.1.14	glutamate synthase (NADH)
 glutamate synthase (NADH-dependent)	1.4.1.14	glutamate synthase (NADH)
 isozyme	1.4.1.14	glutamate synthase (NADH)
 isozyme	1.4.1.14	glutamate synthase (NADH)
-NADH-dependent glutamate synthase	1.4.1.14	glutamate synthase (NADH)
+NADH-dependent glutamatesynthase	1.4.1.14	glutamate synthase (NADH)
 NADH-GOGAT	1.4.1.14	glutamate synthase (NADH)
 NADH-glutamate synthase	1.4.1.14	glutamate synthase (NADH)
 NADH glutamate synthase	1.4.1.14	glutamate synthase (NADH)
+isoform	1.4.1.14	glutamate synthase (NADH)
+isoform	1.4.1.14	glutamate synthase (NADH)
 gltA	1.4.1.14	glutamate synthase (NADH)
 GltA2	1.4.1.14	glutamate synthase (NADH)
 NADH-GltS	1.4.1.14	glutamate synthase (NADH)
@@ -83,8 +88,13 @@ L-lysine epsilon dehydrogenase	1.4.1.15	lysine dehydrogenase
 meso-alpha,epsilon-diaminopimelate dehydrogenase	1.4.1.16	diaminopimelate dehydrogenase
 meso-DAPDH	1.4.1.16	diaminopimelate dehydrogenase
 meso-diaminopimelate dehydrogenase	1.4.1.16	diaminopimelate dehydrogenase
+DAPDH	1.4.1.16	diaminopimelate dehydrogenase
+NADP+-dependent meso-diaminopimelate dehydrogenase	1.4.1.16	diaminopimelate dehydrogenase
+DDH	1.4.1.16	diaminopimelate dehydrogenase
+meso-2,6-diaminopimelate dehydrogenase	1.4.1.16	diaminopimelate dehydrogenase
 L-lysine epsilon-dehydrogenase	1.4.1.18	lysine 6-dehydrogenase
-LysDH	1.4.1.18	lysine 6-dehydrogenase
+gene name	1.4.1.18	lysine 6-dehydrogenase
+L-lysine 6-dehydrogenase (deaminating)	1.4.1.18	lysine 6-dehydrogenase
 lysine 6-dehydrogenase	1.4.1.18	lysine 6-dehydrogenase
 Lys 6-DH	1.4.1.18	lysine 6-dehydrogenase
 L-lysine 6-dehydrogenase	1.4.1.18	lysine 6-dehydrogenase
@@ -93,6 +103,9 @@ dehydrogenase, tryptophan	1.4.1.19	tryptophan dehydrogenase
 NAD(P)-L-tryptophan dehydrogenase	1.4.1.19	tryptophan dehydrogenase
 L-tryptophan dehydrogenase	1.4.1.19	tryptophan dehydrogenase
 L-Trp-dehydrogenase	1.4.1.19	tryptophan dehydrogenase
+TrpDH	1.4.1.19	tryptophan dehydrogenase
+NAD+-dependent L-tryptophan dehydrogenase	1.4.1.19	tryptophan dehydrogenase
+L-Trp dehydrogenase	1.4.1.19	tryptophan dehydrogenase
 glutamic dehydrogenase	1.4.1.2	glutamate dehydrogenase
 dehydrogenase, glutamate	1.4.1.2	glutamate dehydrogenase
 glutamate dehydrogenase (NAD)	1.4.1.2	glutamate dehydrogenase
@@ -109,7 +122,12 @@ Surface-associated protein PGAG1	1.4.1.2	glutamate dehydrogenase
 NADH-glutamate dehydrogenase	1.4.1.2	glutamate dehydrogenase
 NADH-GDH	1.4.1.2	glutamate dehydrogenase
 isozyme	1.4.1.2	glutamate dehydrogenase
+L-glutamate dehydrogenase	1.4.1.2	glutamate dehydrogenase
 gene name	1.4.1.2	glutamate dehydrogenase
+gene name	1.4.1.2	glutamate dehydrogenase
+gene name	1.4.1.2	glutamate dehydrogenase
+gene name	1.4.1.2	glutamate dehydrogenase
+GdhZ	1.4.1.2	glutamate dehydrogenase
 NADH-dependent GDH	1.4.1.2	glutamate dehydrogenase
 NADH-dependent glutamate dehydrogenase	1.4.1.2	glutamate dehydrogenase
 NAD-GDH	1.4.1.2	glutamate dehydrogenase
@@ -140,12 +158,12 @@ NAD+-dependent GDHX	1.4.1.2	glutamate dehydrogenase
 NAD(+)-dependent glutamate dehydrogenase	1.4.1.2	glutamate dehydrogenase
 glutamate dehydrogenase alpha subunit	1.4.1.2	glutamate dehydrogenase
 glutamate dehydrogenase beta subunit	1.4.1.2	glutamate dehydrogenase
-GDH, NAD-dependent	1.4.1.2	glutamate dehydrogenase
 hGDH1	1.4.1.2	glutamate dehydrogenase
 isozyme	1.4.1.2	glutamate dehydrogenase
 house-keeping GDH	1.4.1.2	glutamate dehydrogenase
 hGDH2-nerve-specific GDH	1.4.1.2	glutamate dehydrogenase
 isozyme	1.4.1.2	glutamate dehydrogenase
+GDH, NAD-dependent	1.4.1.2	glutamate dehydrogenase
 gdh-1	1.4.1.2	glutamate dehydrogenase
 gdh-2	1.4.1.2	glutamate dehydrogenase
 GDH3	1.4.1.2	glutamate dehydrogenase
@@ -154,8 +172,6 @@ NAD+-specific glutamate dehydrogenases belongs to theL_180 class, that is affect
 NAD+-GDH	1.4.1.2	glutamate dehydrogenase
 NAD+-dependant glutamate dehydrogenase	1.4.1.2	glutamate dehydrogenase
 NAD+-specific glutamate dehydrogenase	1.4.1.2	glutamate dehydrogenase
-L-glutamate dehydrogenase	1.4.1.2	glutamate dehydrogenase
-gene name	1.4.1.2	glutamate dehydrogenase
 dehydrogenase, phenylalanine	1.4.1.20	phenylalanine dehydrogenase
 L-phenylalanine dehydrogenase	1.4.1.20	phenylalanine dehydrogenase
 PHD	1.4.1.20	phenylalanine dehydrogenase
@@ -175,6 +191,10 @@ VDH	1.4.1.23	valine dehydrogenase (NAD+)
 VDH2	1.4.1.23	valine dehydrogenase (NAD+)
 DHQ synthase II	1.4.1.24	3-dehydroquinate synthase II
 aroB'	1.4.1.24	3-dehydroquinate synthase II
+DHQ synthase	1.4.1.24	3-dehydroquinate synthase II
+DHQS	1.4.1.24	3-dehydroquinate synthase II
+type II 3-dehydroquinate synthase	1.4.1.24	3-dehydroquinate synthase II
+gene name	1.4.1.24	3-dehydroquinate synthase II
 gene name	1.4.1.24	3-dehydroquinate synthase II
 MJ1249 protein	1.4.1.24	3-dehydroquinate synthase II
 dehydroquinate synthase II	1.4.1.24	3-dehydroquinate synthase II
@@ -198,6 +218,8 @@ GDHII	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 GluDH	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 dual-coenzyme specific glutamate dehydrogenase	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 GDH	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
+GDH3	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
+gene name	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 GLDH	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 hGDH1	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 hGDH2	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
@@ -207,8 +229,8 @@ hGLUD2	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 hGLUD1	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 wildely expressed isoenzyme	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 isozyme	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
-nerve-tissue-specific isoenzyme	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 glutamate dehydrogenase	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
+nerve-tissue-specific isoenzyme	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 isozyme	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 glutamate dehydrogenase 1	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
 NAD(P)+-dependent glutamate dehydrogenase	1.4.1.3	glutamate dehydrogenase [NAD(P)+]
@@ -216,6 +238,12 @@ glutamic dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
 glutamic acid dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
 NAD(P)H-dependent glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
 dehydrogenase, glutamate (nicotinamide adenine dinucleotide phosphate)	1.4.1.4	glutamate dehydrogenase (NADP+)
+glutamate dehydrogenase 1	1.4.1.4	glutamate dehydrogenase (NADP+)
+GDH2	1.4.1.4	glutamate dehydrogenase (NADP+)
+glutamate dehydrogenase 2	1.4.1.4	glutamate dehydrogenase (NADP+)
+GluDH	1.4.1.4	glutamate dehydrogenase (NADP+)
+gene name	1.4.1.4	glutamate dehydrogenase (NADP+)
+RocG	1.4.1.4	glutamate dehydrogenase (NADP+)
 activity staining, inhibition and thermal stabilitystudies indicate the carbon source-dependent presence of two (GDHI andGDHII) forms of NADP-GDH in Pseudomonas aeruginosa strain PP4	1.4.1.4	glutamate dehydrogenase (NADP+)
 activity staining, inhibition and thermal stabilitystudies indicate the carbon source-dependent presence of two (GDHI andGDHII) forms of NADP-GDH in Pseudomonas aeruginosa strain PP4	1.4.1.4	glutamate dehydrogenase (NADP+)
 activity staining, inhibition and thermal stabilitystudies indicate the carbon source-dependent presence of three (GDHA,GDHB and GDHC) forms of NADP-GDH in Pseudomonas aeruginosa strain PPD	1.4.1.4	glutamate dehydrogenase (NADP+)
@@ -234,26 +262,21 @@ GDH3	1.4.1.4	glutamate dehydrogenase (NADP+)
 NADP+-dependent glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
 two isoenzymes: Gdh3P and Gdh1p	1.4.1.4	glutamate dehydrogenase (NADP+)
 NADP-GDH	1.4.1.4	glutamate dehydrogenase (NADP+)
+GDH1	1.4.1.4	glutamate dehydrogenase (NADP+)
 activity staining, inhibition and thermal stabilitystudies indicate the carbon source-dependent presence of one GDHP formof NADP-GDH in Acinetobacter lwoffii strain ISP4	1.4.1.4	glutamate dehydrogenase (NADP+)
 GDHI'	1.4.1.4	glutamate dehydrogenase (NADP+)
 NADP-dependent GluDH	1.4.1.4	glutamate dehydrogenase (NADP+)
-2 isoenzymes: ayeast-form isoenzyme and a mycelium-form isoenzyme	1.4.1.4	glutamate dehydrogenase (NADP+)
 NADP-dependent glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
+2 isoenzymes: ayeast-form isoenzyme and a mycelium-form isoenzyme	1.4.1.4	glutamate dehydrogenase (NADP+)
 NADP-linked glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
 NADP(H)-dependent glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
 NADP(H)-GDH	1.4.1.4	glutamate dehydrogenase (NADP+)
 GDH	1.4.1.4	glutamate dehydrogenase (NADP+)
-NADP+ - dependant-glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
-GDH1	1.4.1.4	glutamate dehydrogenase (NADP+)
-NADPH-dependent glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
 activity staining, inhibition and thermalstability studies indicate the carbon source-dependent presence ofthree (GDHA, GDHB and GDHC) forms of NADP-GDH in Pseudomonas aeruginosastrain PPD	1.4.1.4	glutamate dehydrogenase (NADP+)
+NADPH-dependent glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
+NADP+ - dependant-glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
 NADP(+)-dependent glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
 L-glutamate dehydrogenase	1.4.1.4	glutamate dehydrogenase (NADP+)
-gene name	1.4.1.4	glutamate dehydrogenase (NADP+)
-glutamate dehydrogenase 1	1.4.1.4	glutamate dehydrogenase (NADP+)
-GDH2	1.4.1.4	glutamate dehydrogenase (NADP+)
-glutamate dehydrogenase 2	1.4.1.4	glutamate dehydrogenase (NADP+)
-GluDH	1.4.1.4	glutamate dehydrogenase (NADP+)
 gene name	1.4.1.4	glutamate dehydrogenase (NADP+)
 dehydrogenase, L-amino acid	1.4.1.5	L-amino-acid dehydrogenase
 NAD+-dependent amino acid dehydrogenase	1.4.1.5	L-amino-acid dehydrogenase
@@ -277,10 +300,10 @@ reductase, glycine-cytochrome c	1.4.2.1	glycine dehydrogenase (cytochrome)
 aspartic oxidase	1.4.3.1	D-aspartate oxidase
 D-aspartic oxidase	1.4.3.1	D-aspartate oxidase
 DASOX	1.4.3.1	D-aspartate oxidase
-D-Asp oxidase	1.4.3.1	D-aspartate oxidase
 DAO	1.4.3.1	D-aspartate oxidase
 DDO	1.4.3.1	D-aspartate oxidase
 D-AspO	1.4.3.1	D-aspartate oxidase
+D-Asp oxidase	1.4.3.1	D-aspartate oxidase
 DASPO	1.4.3.1	D-aspartate oxidase
 ChDASPO	1.4.3.1	D-aspartate oxidase
 ChDDO	1.4.3.1	D-aspartate oxidase
@@ -302,14 +325,15 @@ dehydrogenase, glutamate (acceptor)	1.4.3.11	L-glutamate oxidase
 glutamic acid oxidase	1.4.3.11	L-glutamate oxidase
 glutamic dehydrogenase (acceptor)	1.4.3.11	L-glutamate oxidase
 L-glutamic acid oxidase	1.4.3.11	L-glutamate oxidase
-GLOD	1.4.3.11	L-glutamate oxidase
 glutamate oxidase	1.4.3.11	L-glutamate oxidase
 L-GLOD	1.4.3.11	L-glutamate oxidase
 GluOx	1.4.3.11	L-glutamate oxidase
 l-GlOx	1.4.3.11	L-glutamate oxidase
-L-glutamate oxidase	1.4.3.11	L-glutamate oxidase
+GLOD	1.4.3.11	L-glutamate oxidase
 LGOX	1.4.3.11	L-glutamate oxidase
+L-glutamate oxidase	1.4.3.11	L-glutamate oxidase
 CHAO	1.4.3.12	cyclohexylamine oxidase
+gene name	1.4.3.12	cyclohexylamine oxidase
 RAS excision protein	1.4.3.13	protein-lysine 6-oxidase
 rDmLOXL-1	1.4.3.13	protein-lysine 6-oxidase
 amineoxidase, oxidative deamination	1.4.3.13	protein-lysine 6-oxidase
@@ -332,6 +356,9 @@ lysyl oxidase-like1 protein	1.4.3.13	protein-lysine 6-oxidase
 lysyl oxidase like-1 protein	1.4.3.13	protein-lysine 6-oxidase
 LOXL1 protein	1.4.3.13	protein-lysine 6-oxidase
 elastin synthetase	1.4.3.13	protein-lysine 6-oxidase
+Loxl3	1.4.3.13	protein-lysine 6-oxidase
+lysyl oxidase 3	1.4.3.13	protein-lysine 6-oxidase
+LOX-like 3	1.4.3.13	protein-lysine 6-oxidase
 lysyl oxidase-like protein	1.4.3.13	protein-lysine 6-oxidase
 LOXL	1.4.3.13	protein-lysine 6-oxidase
 isoenzyme	1.4.3.13	protein-lysine 6-oxidase
@@ -345,6 +372,11 @@ LOXL-2	1.4.3.13	protein-lysine 6-oxidase
 oxidase-like protein 1	1.4.3.13	protein-lysine 6-oxidase
 lysyl oxidase like 4	1.4.3.13	protein-lysine 6-oxidase
 LOX-like 2	1.4.3.13	protein-lysine 6-oxidase
+protein-lysine 6-oxidase	1.4.3.13	protein-lysine 6-oxidase
+protein-L-lysine:oxygen 6-oxidoreductase	1.4.3.13	protein-lysine 6-oxidase
+lysyl oxidase homolog 2	1.4.3.13	protein-lysine 6-oxidase
+LOR2	1.4.3.13	protein-lysine 6-oxidase
+WS9-14	1.4.3.13	protein-lysine 6-oxidase
 lysyl oxidase-like 2	1.4.3.13	protein-lysine 6-oxidase
 Loxl2	1.4.3.13	protein-lysine 6-oxidase
 LO	1.4.3.13	protein-lysine 6-oxidase
@@ -354,11 +386,14 @@ lysyl oxidases	1.4.3.13	protein-lysine 6-oxidase
 lysyl oxidase-like	1.4.3.13	protein-lysine 6-oxidase
 L-lysyl-alpha-oxidase	1.4.3.14	L-lysine oxidase
 lysine-oxidase	1.4.3.14	L-lysine oxidase
-L-lysine-alpha-oxidase	1.4.3.14	L-lysine oxidase
-L-lysine alpha-oxidase	1.4.3.14	L-lysine oxidase
 commercial preparation	1.4.3.14	L-lysine oxidase
 LyOx	1.4.3.14	L-lysine oxidase
+L-lysine alpha-oxidase	1.4.3.14	L-lysine oxidase
+LysOx	1.4.3.14	L-lysine oxidase
+AIP	1.4.3.14	L-lysine oxidase
+apoptosis-inducing protein	1.4.3.14	L-lysine oxidase
 L-lysine-a-oxidase	1.4.3.14	L-lysine oxidase
+L-lysine-alpha-oxidase	1.4.3.14	L-lysine oxidase
 D-glutamic-aspartic oxidase	1.4.3.15	D-glutamate(D-aspartate) oxidase
 D-monoaminodicarboxylic acid oxidase	1.4.3.15	D-glutamate(D-aspartate) oxidase
 ChDASPO	1.4.3.15	D-glutamate(D-aspartate) oxidase
@@ -373,8 +408,9 @@ L-aspartate oxidase	1.4.3.16	L-aspartate oxidase
 gene name	1.4.3.16	L-aspartate oxidase
 StLASPO	1.4.3.16	L-aspartate oxidase
 GO	1.4.3.19	glycine oxidase
-GOX	1.4.3.19	glycine oxidase
 glycin oxidase	1.4.3.19	glycine oxidase
+GOX	1.4.3.19	glycine oxidase
+ThiO	1.4.3.19	glycine oxidase
 GOXK	1.4.3.19	glycine oxidase
 LodA	1.4.3.19	glycine oxidase
 GoxA	1.4.3.19	glycine oxidase
@@ -384,64 +420,69 @@ ophio-amino-acid oxidase	1.4.3.2	L-amino-acid oxidase
 L-amino acid:O2 oxidoreductase	1.4.3.2	L-amino-acid oxidase
 L-aminooxidase	1.4.3.2	L-amino-acid oxidase
 aromatic L-amino acid oxidase	1.4.3.2	L-amino-acid oxidase
+sarA	1.4.3.2	L-amino-acid oxidase
+Sebastes schlegelii antibacterial protein	1.4.3.2	L-amino-acid oxidase
 toxophallin	1.4.3.2	L-amino-acid oxidase
+LAAO1	1.4.3.2	L-amino-acid oxidase
 AAD	1.4.3.2	L-amino-acid oxidase
 Pm1	1.4.3.2	L-amino-acid oxidase
-L-AAO	1.4.3.2	L-amino-acid oxidase
+L-AAO/MOG	1.4.3.2	L-amino-acid oxidase
+isoform	1.4.3.2	L-amino-acid oxidase
 L-amino acid:O2 oxidoreductase (deaminating)	1.4.3.2	L-amino-acid oxidase
 RoLAAO	1.4.3.2	L-amino-acid oxidase
-LAAO-I	1.4.3.2	L-amino-acid oxidase
 L-Aox	1.4.3.2	L-amino-acid oxidase
 L-amino acid: O2 oxidoreductase	1.4.3.2	L-amino-acid oxidase
+LAAO-I	1.4.3.2	L-amino-acid oxidase
+L-AAO	1.4.3.2	L-amino-acid oxidase
+L-AAO1	1.4.3.2	L-amino-acid oxidase
 Dolabellanin	1.4.3.2	L-amino-acid oxidase
 DAA	1.4.3.2	L-amino-acid oxidase
 M-LAO	1.4.3.2	L-amino-acid oxidase
-ACTX-8	1.4.3.2	L-amino-acid oxidase
-ACTX-6	1.4.3.2	L-amino-acid oxidase
 LAO	1.4.3.2	L-amino-acid oxidase
 secreted L-phenylalanine oxidase,physiologically expressed by myeloid cells, gene expression in primarymediastinal B-cell lymphoma	1.4.3.2	L-amino-acid oxidase
 interleukin 4 induced gene 1	1.4.3.2	L-amino-acid oxidase
 LAAO	1.4.3.2	L-amino-acid oxidase
 L-amino acid oxidase	1.4.3.2	L-amino-acid oxidase
+ACTX-8	1.4.3.2	L-amino-acid oxidase
+ACTX-6	1.4.3.2	L-amino-acid oxidase
 L-phenylalanine oxidase	1.4.3.2	L-amino-acid oxidase
 first described in themouse, characterized in human B cells, expression is restricted tolymphoid tissues and induced by interleukin-4	1.4.3.2	L-amino-acid oxidase
+LAAO-II	1.4.3.2	L-amino-acid oxidase
 Balt-LAAO-I	1.4.3.2	L-amino-acid oxidase
 TSV-LAO	1.4.3.2	L-amino-acid oxidase
 TJ-LAO	1.4.3.2	L-amino-acid oxidase
 Bpir-LAOO-1	1.4.3.2	L-amino-acid oxidase
-sarA	1.4.3.2	L-amino-acid oxidase
+isoform	1.4.3.2	L-amino-acid oxidase
 Akbu-LAAO	1.4.3.2	L-amino-acid oxidase
 APIT	1.4.3.2	L-amino-acid oxidase
 ink toxin 1	1.4.3.2	L-amino-acid oxidase
 escapin	1.4.3.2	L-amino-acid oxidase
 Sebastes schlegeli antibacterial protein	1.4.3.2	L-amino-acid oxidase
 SSAP	1.4.3.2	L-amino-acid oxidase
-Sebastes schlegelii antibacterial protein	1.4.3.2	L-amino-acid oxidase
 L-lysine-epsilon oxidase	1.4.3.20	L-lysine 6-oxidase
-marinocine	1.4.3.20	L-lysine 6-oxidase
-L-lysine epsilon-oxidase	1.4.3.20	L-lysine 6-oxidase
 lysine-epsilon oxidase	1.4.3.20	L-lysine 6-oxidase
 Lod	1.4.3.20	L-lysine 6-oxidase
 LodA	1.4.3.20	L-lysine 6-oxidase
+marinocine	1.4.3.20	L-lysine 6-oxidase
+L-lysine epsilon-oxidase	1.4.3.20	L-lysine 6-oxidase
 marinocine antimicrobial protein	1.4.3.20	L-lysine 6-oxidase
 lysine-epsilon-oxidase	1.4.3.20	L-lysine 6-oxidase
+epsilon-lysine oxidase	1.4.3.20	L-lysine 6-oxidase
+L-lysine-epsilon-oxidase	1.4.3.20	L-lysine 6-oxidase
 ALPP	1.4.3.20	L-lysine 6-oxidase
 CuAO	1.4.3.21	primary-amine oxidase
 Copper amine oxidase	1.4.3.21	primary-amine oxidase
-CAO	1.4.3.21	primary-amine oxidase
+primary-amine:oxygen oxidoreductase	1.4.3.21	primary-amine oxidase
 copper amine oxidase 1	1.4.3.21	primary-amine oxidase
 HPAO	1.4.3.21	primary-amine oxidase
 AGAO	1.4.3.21	primary-amine oxidase
 quinone-containing copper amine oxidase	1.4.3.21	primary-amine oxidase
 TPQ-containing CuAO	1.4.3.21	primary-amine oxidase
-copper-containing amine oxidase	1.4.3.21	primary-amine oxidase
 LSAO	1.4.3.21	primary-amine oxidase
 lentil seedling amine oxidase	1.4.3.21	primary-amine oxidase
 Cu/TPQ amine oxidase	1.4.3.21	primary-amine oxidase
 isoform	1.4.3.21	primary-amine oxidase
 isoform	1.4.3.21	primary-amine oxidase
-OVAO	1.4.3.21	primary-amine oxidase
-sainfoin amine oxidase	1.4.3.21	primary-amine oxidase
 the major SSAO form expressed in mouse adipocytes isencoded by the AOC3 gene	1.4.3.21	primary-amine oxidase
 vascular adhesion protein-1	1.4.3.21	primary-amine oxidase
 VAP-1	1.4.3.21	primary-amine oxidase
@@ -449,6 +490,9 @@ SSAO	1.4.3.21	primary-amine oxidase
 semicarbazide-sensitive amine oxidase	1.4.3.21	primary-amine oxidase
 semicarbazide-sensitive amine oxidases	1.4.3.21	primary-amine oxidase
 SSAO/VAP-1	1.4.3.21	primary-amine oxidase
+copper-containing AO	1.4.3.21	primary-amine oxidase
+OVAO	1.4.3.21	primary-amine oxidase
+sainfoin amine oxidase	1.4.3.21	primary-amine oxidase
 pea seedling amine oxidase	1.4.3.21	primary-amine oxidase
 PSAO	1.4.3.21	primary-amine oxidase
 amine oxidase, copper containing	1.4.3.21	primary-amine oxidase
@@ -457,22 +501,30 @@ isoform	1.4.3.21	primary-amine oxidase
 Hansenula polymorpha amine oxidase	1.4.3.21	primary-amine oxidase
 amine oxidase 1	1.4.3.21	primary-amine oxidase
 isoform	1.4.3.21	primary-amine oxidase
+ECAO	1.4.3.21	primary-amine oxidase
+gene name	1.4.3.21	primary-amine oxidase
+PrAO	1.4.3.21	primary-amine oxidase
+tyramine oxidase, copper-requiring	1.4.3.21	primary-amine oxidase
+copper-containing amine oxidase	1.4.3.21	primary-amine oxidase
+CAO	1.4.3.21	primary-amine oxidase
 GPAO	1.4.3.21	primary-amine oxidase
 grass pea amine oxidase	1.4.3.21	primary-amine oxidase
 RAO	1.4.3.21	primary-amine oxidase
 AOC2	1.4.3.21	primary-amine oxidase
 isoform	1.4.3.21	primary-amine oxidase
-ECAO	1.4.3.21	primary-amine oxidase
 isoform	1.4.3.21	primary-amine oxidase
 ELAO	1.4.3.21	primary-amine oxidase
 copper/quinone containing amine oxidase	1.4.3.21	primary-amine oxidase
-isoform	1.4.3.21	primary-amine oxidase
+quinoprotein copper-containing amine oxidase	1.4.3.21	primary-amine oxidase
 isoform	1.4.3.21	primary-amine oxidase
 isoform	1.4.3.21	primary-amine oxidase
 VAP-1 belongs to the semicarbazide-sensitive amineoxidases, SSAOs	1.4.3.21	primary-amine oxidase
 plasma amine oxidase	1.4.3.21	primary-amine oxidase
 primary amine oxidase	1.4.3.21	primary-amine oxidase
 vascular adhesion protein 1	1.4.3.21	primary-amine oxidase
+isoform	1.4.3.21	primary-amine oxidase
+copper amine oxidase 8	1.4.3.21	primary-amine oxidase
+CuAO8	1.4.3.21	primary-amine oxidase
 semicarbazide-sensitive amine oxidase/vascular adhesion protein-1	1.4.3.21	primary-amine oxidase
 copper-dependent amine oxidase	1.4.3.21	primary-amine oxidase
 benzylamine oxidase	1.4.3.21	primary-amine oxidase
@@ -499,15 +551,17 @@ LSAO	1.4.3.22	diamine oxidase
 histamine oxidase	1.4.3.22	diamine oxidase
 N-methylputrescine oxidase	1.4.3.22	diamine oxidase
 ELAO	1.4.3.22	diamine oxidase
-histaminase	1.4.3.22	diamine oxidase
 LCAO	1.4.3.22	diamine oxidase
 Copper amine oxidase	1.4.3.22	diamine oxidase
 pea seedling amine oxidase	1.4.3.22	diamine oxidase
 histamine dehydrogenase	1.4.3.22	diamine oxidase
 the enzyme is a member of the copper-containing amineoxidase, CAO, family of enzymes	1.4.3.22	diamine oxidase
+Amiloride-binding protein	1.4.3.22	diamine oxidase
 rhDAO	1.4.3.22	diamine oxidase
 hDAO	1.4.3.22	diamine oxidase
+ABP1	1.4.3.22	diamine oxidase
 Diamine oxidase	1.4.3.22	diamine oxidase
+histaminase	1.4.3.22	diamine oxidase
 PKAO	1.4.3.22	diamine oxidase
 Amine oxidase	1.4.3.22	diamine oxidase
 BSAO	1.4.3.22	diamine oxidase
@@ -523,18 +577,19 @@ D-amino acid oxidase	1.4.3.3	D-amino-acid oxidase
 DAO	1.4.3.3	D-amino-acid oxidase
 RgDAAO	1.4.3.3	D-amino-acid oxidase
 D-amino acid oxidases	1.4.3.3	D-amino-acid oxidase
-D-AAO	1.4.3.3	D-amino-acid oxidase
 chDAO	1.4.3.3	D-amino-acid oxidase
+D-AAO	1.4.3.3	D-amino-acid oxidase
 DAAO	1.4.3.3	D-amino-acid oxidase
 hDAAO	1.4.3.3	D-amino-acid oxidase
 D-amino-acid-oxidase	1.4.3.3	D-amino-acid oxidase
 TvDAAO	1.4.3.3	D-amino-acid oxidase
 TvDAO	1.4.3.3	D-amino-acid oxidase
-DAMOX	1.4.3.3	D-amino-acid oxidase
-DAO1	1.4.3.3	D-amino-acid oxidase
 pkDAAO	1.4.3.3	D-amino-acid oxidase
 PEG-DAO	1.4.3.3	D-amino-acid oxidase
+DAMOX	1.4.3.3	D-amino-acid oxidase
+DAO1	1.4.3.3	D-amino-acid oxidase
 LH99	1.4.3.3	D-amino-acid oxidase
+DaoE	1.4.3.3	D-amino-acid oxidase
 epinephrine oxidase	1.4.3.4	monoamine oxidase
 serotonin deaminase	1.4.3.4	monoamine oxidase
 tyramine oxidase	1.4.3.4	monoamine oxidase
@@ -545,30 +600,34 @@ isoform	1.4.3.4	monoamine oxidase
 isoform	1.4.3.4	monoamine oxidase
 C-MAO	1.4.3.4	monoamine oxidase
 monoamine:O2 oxidoreductase, deaminating	1.4.3.4	monoamine oxidase
+monoamine: O2-oxidoreductase; deaminated	1.4.3.4	monoamine oxidase
 monoamine oxidase-A	1.4.3.4	monoamine oxidase
 isoform	1.4.3.4	monoamine oxidase
 isoform	1.4.3.4	monoamine oxidase
 isoform	1.4.3.4	monoamine oxidase
 isoform	1.4.3.4	monoamine oxidase
+monoamine: O2-oxidoreductase: deaminating	1.4.3.4	monoamine oxidase
 zMAO	1.4.3.4	monoamine oxidase
 monoamine oxidases A	1.4.3.4	monoamine oxidase
 monoamine oxidases B	1.4.3.4	monoamine oxidase
 monoamine oxidase-B	1.4.3.4	monoamine oxidase
-MAO	1.4.3.4	monoamine oxidase
-MAOA	1.4.3.4	monoamine oxidase
+isoform	1.4.3.4	monoamine oxidase
+isoform	1.4.3.4	monoamine oxidase
 monoamine oxidase	1.4.3.4	monoamine oxidase
 MAO is a novel type of disulfide oxidoreductase	1.4.3.4	monoamine oxidase
+MAO	1.4.3.4	monoamine oxidase
+monoamine: O2-oxidoreductase, deaminating	1.4.3.4	monoamine oxidase
 monoamine-oxidase-A	1.4.3.4	monoamine oxidase
 monoamine oxidaseA	1.4.3.4	monoamine oxidase
-MAOB	1.4.3.4	monoamine oxidase
+semicarbazide-sensitive amine oxidase	1.4.3.4	monoamine oxidase
+amine-oxygen oxidoreductase	1.4.3.4	monoamine oxidase
 monoamine oxidase type B	1.4.3.4	monoamine oxidase
 monoaminoxidase B	1.4.3.4	monoamine oxidase
 MAO type B	1.4.3.4	monoamine oxidase
-semicarbazide-sensitive amine oxidase	1.4.3.4	monoamine oxidase
-amine-oxygen oxidoreductase	1.4.3.4	monoamine oxidase
 MAO-N	1.4.3.4	monoamine oxidase
 SSAO	1.4.3.4	monoamine oxidase
 monoamine:O2-oxidoreductase deaminating	1.4.3.4	monoamine oxidase
+MAO-N-D5	1.4.3.4	monoamine oxidase
 oxidase, pyridoxamine phosphate	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxaminephosphate oxidase (EC 1.4.3.5: deaminating)	1.4.3.5	pyridoxal 5'-phosphate synthase
 FprA protein	1.4.3.5	pyridoxal 5'-phosphate synthase
@@ -581,6 +640,8 @@ pyridoxamine (pyridoxine) 5'-phosphate oxidase activity	1.4.3.5	pyridoxal 5'-pho
 PNP/PMP oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
 PPOX	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxine/pyridoxamine phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
+PdxH	1.4.3.5	pyridoxal 5'-phosphate synthase
+pyridoxine/pyridoxamine 5'-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxal 5'-phosphate synthase	1.4.3.5	pyridoxal 5'-phosphate synthase
 Pdx1	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridox(am)ine 5'-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
@@ -588,19 +649,25 @@ PNPO	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxine 5-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
 ePNPOx	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxine (pyridoxamine) 5'-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
+pyridoxine 5'-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
 PNPOx	1.4.3.5	pyridoxal 5'-phosphate synthase
 PNP oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
-pyridoxine 5'-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
+pyridoxine 5'-phosphate oxidase`	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxamine 5'-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxamine-5-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxal 5'-phosphate synthetic enzyme	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxine-5'-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxamine (pyridoxine) 5’-phosphate:O2 oxidoreductase(deaminating)	1.4.3.5	pyridoxal 5'-phosphate synthase
 pyridoxamine (pyridoxine) 5'-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
+pyridoxinamine 5'-phosphate oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
+Ylr456w	1.4.3.5	pyridoxal 5'-phosphate synthase
+Ypr172w	1.4.3.5	pyridoxal 5'-phosphate synthase
 PMP oxidase	1.4.3.5	pyridoxal 5'-phosphate synthase
 D-glutamic oxidase	1.4.3.7	D-glutamate oxidase
 D-glutamic acid oxidase	1.4.3.7	D-glutamate oxidase
 oxidase, ethanolamine	1.4.3.8	ethanolamine oxidase
+AAO	1.4.3.8	ethanolamine oxidase
+gene name	1.4.3.8	ethanolamine oxidase
 glycine decarboxylase P-protein	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
 decarboxylase, glycine	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
 glycine-cleavage complex	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
@@ -624,7 +691,7 @@ glycine decarboxylase, or P-protein, is part of theglycine cleavage system, GCS	
 T protein	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
 H protein	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
 Gly decarboxylase complex	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
-GLDC	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
+gene name	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
 Gly decarboxylase H1	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
 glycine cleavage system H protein 1	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
 glycine decarboxylase complex H	1.4.4.2	glycine dehydrogenase (aminomethyl-transferring)
@@ -637,27 +704,32 @@ gene name	1.4.5.1	D-amino acid dehydrogenase (quinone)
 glutamate synthase (ferredoxin-dependent)	1.4.7.1	glutamate synthase (ferredoxin)
 ferredoxin-dependent glutamate synthase1	1.4.7.1	glutamate synthase (ferredoxin)
 ferredoxin-dependent GOGAT	1.4.7.1	glutamate synthase (ferredoxin)
+gene name	1.4.7.1	glutamate synthase (ferredoxin)
+Fd-GOGAT1	1.4.7.1	glutamate synthase (ferredoxin)
 glutamate synthase	1.4.7.1	glutamate synthase (ferredoxin)
 ferredoxin-dependent GltS	1.4.7.1	glutamate synthase (ferredoxin)
 glutamine 2-oxoglutarate amidotransferase	1.4.7.1	glutamate synthase (ferredoxin)
+gene name	1.4.7.1	glutamate synthase (ferredoxin)
 glutamine:2-oxoglutarate amidotransferase	1.4.7.1	glutamate synthase (ferredoxin)
 ferredoxin-dependent glutamine 2-oxoglutarate aminotransferase	1.4.7.1	glutamate synthase (ferredoxin)
 Fd-dependent glutamate synthase	1.4.7.1	glutamate synthase (ferredoxin)
-Fd-GOGAT1	1.4.7.1	glutamate synthase (ferredoxin)
 ferredoxin-glutamate synthase	1.4.7.1	glutamate synthase (ferredoxin)
-GOGAT	1.4.7.1	glutamate synthase (ferredoxin)
+gene name, early senescence 7	1.4.7.1	glutamate synthase (ferredoxin)
 gene name	1.4.7.1	glutamate synthase (ferredoxin)
+GOGAT	1.4.7.1	glutamate synthase (ferredoxin)
+ferredoxin-dependent glutamate synthases	1.4.7.1	glutamate synthase (ferredoxin)
+glutamine:oxoglutarate amidotransferase	1.4.7.1	glutamate synthase (ferredoxin)
 FdGOGAT	1.4.7.1	glutamate synthase (ferredoxin)
-exhibits also glutaminase activity and does not react with a plant-typeferredoxin (Fd3) containing a [2Fe-2S] cluster, but does react withbacterial ferredoxins (Fd1 and Fd2) containing [4Fe-4S] clusters	1.4.7.1	glutamate synthase (ferredoxin)
+exhibits also glutaminase activity and does not reactwith a plant-type ferredoxin (Fd3) containing a [2Fe-2S] cluster, butdoes react with bacterial ferredoxins (Fd1 and Fd2) containing [4Fe-4S]clusters	1.4.7.1	glutamate synthase (ferredoxin)
 ferredoxin-GOGAT	1.4.7.1	glutamate synthase (ferredoxin)
 Fd-GOGAT	1.4.7.1	glutamate synthase (ferredoxin)
-Glu1	1.4.7.1	glutamate synthase (ferredoxin)
+gene name	1.4.7.1	glutamate synthase (ferredoxin)
 primary-amine dehydrogenase	1.4.9.1	methylamine dehydrogenase (amicyanin)
 dehydrogenase, amine	1.4.9.1	methylamine dehydrogenase (amicyanin)
 amine: oxidoreductase (acceptor deaminating)	1.4.9.1	methylamine dehydrogenase (amicyanin)
-different from MADH	1.4.9.1	methylamine dehydrogenase (amicyanin)
 silent form of QH-AmDH	1.4.9.1	methylamine dehydrogenase (amicyanin)
 inactive form of QH-AmDH	1.4.9.1	methylamine dehydrogenase (amicyanin)
+different from MADH	1.4.9.1	methylamine dehydrogenase (amicyanin)
 different from MADH	1.4.9.1	methylamine dehydrogenase (amicyanin)
 QHNDH	1.4.9.1	methylamine dehydrogenase (amicyanin)
 methylamine dehydrogenase	1.4.9.1	methylamine dehydrogenase (amicyanin)
@@ -673,6 +745,8 @@ large subunit polypeptide	1.4.9.2	aralkylamine dehydrogenase (azurin)
 small subunit polypeptide	1.4.9.2	aralkylamine dehydrogenase (azurin)
 quinohemoprotein amine dehydrogenase	1.4.9.2	aralkylamine dehydrogenase (azurin)
 AMDH	1.4.9.2	aralkylamine dehydrogenase (azurin)
+gene name	1.4.99.2	taurine dehydrogenase
+taurine dehydrogenase	1.4.99.2	taurine dehydrogenase
 TDH	1.4.99.2	taurine dehydrogenase
 TauXY	1.4.99.2	taurine dehydrogenase
 hydrogen cyanide synthase	1.4.99.5	glycine dehydrogenase (cyanide-forming)

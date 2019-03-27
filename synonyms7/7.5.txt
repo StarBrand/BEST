@@ -1,0 +1,29 @@
+synonyms	ec_number	recommended_name
+maltose-transporting ATPase	7.5.2.1	ABC-type maltose transporter
+ATP phosphohydrolase (maltose-importing)	7.5.2.1	ABC-type maltose transporter
+the maltose transporter is a member of the ATP-bindingcassette, ABC, transporter superfamily	7.5.2.1	ABC-type maltose transporter
+maltose ATP-binding cassette importer	7.5.2.1	ABC-type maltose transporter
+maltose ABC transporter	7.5.2.1	ABC-type maltose transporter
+MalFGK2	7.5.2.1	ABC-type maltose transporter
+maltose transporter MalFGK2	7.5.2.1	ABC-type maltose transporter
+maltose transporter ATPase	7.5.2.1	ABC-type maltose transporter
+subunit of MusEFGK2I	7.5.2.1	ABC-type maltose transporter
+gene name	7.5.2.1	ABC-type maltose transporter
+maltose-specific enzyme IICB	7.5.2.1	ABC-type maltose transporter
+MalP	7.5.2.1	ABC-type maltose transporter
+GlvC	7.5.2.1	ABC-type maltose transporter
+MalE	7.5.2.1	ABC-type maltose transporter
+MalT	7.5.2.1	ABC-type maltose transporter
+maltose ATP binding cassette transporter	7.5.2.1	ABC-type maltose transporter
+maltose ABC transporter MALFGK2-E	7.5.2.1	ABC-type maltose transporter
+gene name	7.5.2.1	ABC-type maltose transporter
+ATPase subunit of MalFGK2	7.5.2.1	ABC-type maltose transporter
+maltose importer	7.5.2.1	ABC-type maltose transporter
+maltose transporter	7.5.2.1	ABC-type maltose transporter
+maltose ATP-binding cassette transporter	7.5.2.1	ABC-type maltose transporter
+ABC-type (ATP-binding cassette-type) ATPase	7.5.2.2	ABC-type oligosaccharide transporter
+oligosaccharide-transporting ATPase	7.5.2.2	ABC-type oligosaccharide transporter
+ATP phosphohydrolase (disaccharide-importing)	7.5.2.2	ABC-type oligosaccharide transporter
+ATP-binding cassette ATPase domain of the haemolysin B transporter	7.5.2.2	ABC-type oligosaccharide transporter
+ABC ATPase domain of HlyB transporter	7.5.2.2	ABC-type oligosaccharide transporter
+HlyB NBD	7.5.2.2	ABC-type oligosaccharide transporter

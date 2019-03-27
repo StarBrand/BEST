@@ -6,7 +6,6 @@ NAD(P) transhydrogenase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
 nicotinamide adenine dinucleotide (phosphate) transhydrogenase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
 NAD transhydrogenase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
 NADH transhydrogenase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
-nicotinamide nucleotide transhydrogenase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
 NADPH-NAD transhydrogenase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
 pyridine nucleotide transferase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
 NADPH-NAD oxidoreductase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
@@ -20,6 +19,10 @@ STH	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
 soluble pyridine nucleotide transhydrogenase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
 UdhA	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
 energy-independent soluble pyridine nucleotide transhydrogenase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
+SthA	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
+NNT	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
+nicotinamide nucleotide transhydrogenase	1.6.1.1	NAD(P)+ transhydrogenase (Si-specific)
+transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 transhydrogenase, nicotinamide adenine dinucleotide (phosphate)	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 NAD(P) transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 nicotinamide adenine dinucleotide (phosphate) transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
@@ -35,42 +38,37 @@ energy-linked transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 dII	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 dIII	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 proton-translocating transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
-energy-linked, mitochondrial transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
-mitochondrial transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
-NADPH transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 pyridine nucleotide transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
+energy-linked, mitochondrial transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
+reversible mitochondrial membrane-associated transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
+NADPH transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 PNT	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
-nicotinamide nucleotide transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
+mitochondrial transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 proton-translocating nicotinamide nucleotide transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 NNT	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
-proton-pumping nicotinamide nucleotide transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
+nicotinamide nucleotide transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
 PntAB	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
-transhydrogenase	1.6.1.2	NAD(P)+ transhydrogenase (Re/Si-specific)
+nicotinamide nucleotide transhydrogenase	1.6.1.3	NAD(P)+ transhydrogenase
+NNT	1.6.1.3	NAD(P)+ transhydrogenase
 proton-translocating transhydrogenase domain III	1.6.1.3	NAD(P)+ transhydrogenase
 NAD(P) transhydrogenase	1.6.1.3	NAD(P)+ transhydrogenase
+SthA	1.6.1.3	NAD(P)+ transhydrogenase
+pyridine nucleotide transhydrogenases	1.6.1.3	NAD(P)+ transhydrogenase
 pyridine nucleotide transhydrogenase	1.6.1.3	NAD(P)+ transhydrogenase
 NADPH:NAD transhydrogenase	1.6.1.3	NAD(P)+ transhydrogenase
 mitochondrial NADPH->NAD transhydrogenase	1.6.1.3	NAD(P)+ transhydrogenase
 NADPH:ferredoxin oxidoreductase	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
 PntAB	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
-NADH-dependent reduced ferredoxin:NADP+ oxidoreductase	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
+ferredoxin:NADP+ oxidoreductase	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
+FprA	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
+ferredoxin: NAD(P)H oxidoreductase	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
 NfnAB	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
-NNT	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-pyridine nucleotide transhydrogenase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-nicotinamide nucleotide transhydrogenase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-H+-thase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-proton-translocating nicotinamide nucleotide transhydrogenase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-PntAB	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-gene name	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-gene name	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-proton translocating nicotinamide nucleotide transhydrogenase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-H+-transhydrogenase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-nicotinamide adenine dinucleotide H +-transhydrogenase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-H+-TH	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-proton-translocating transhydrogenase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-transhydrogenase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-proton translocating transhydrogenase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
-proton-pumping membrane protein transhydrogenase	1.6.1.5	proton-translocating NAD(P)+ transhydrogenase
+PF1327-28	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
+Nfn1	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
+NADH-dependent ferredoxin NADP+ oxidoreductase I	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
+NfnI	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
+NADH-dependent reduced ferredoxin:NADP+ oxidoreductase	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
+NADH-dependent reduced ferredoxin:NADP oxidoreductase	1.6.1.4	NAD(P)+ transhydrogenase (ferredoxin)
 reductase, cytochrome b5	1.6.2.2	cytochrome-b5 reductase
 dihydronicotinamide adenine dinucleotide-cytochrome b5 reductase	1.6.2.2	cytochrome-b5 reductase
 reduced nicotinamide adeninedinucleotide-cytochrome b5 reductase	1.6.2.2	cytochrome-b5 reductase
@@ -81,24 +79,38 @@ P35	1.6.2.2	cytochrome-b5 reductase
 NADH:ferricytochrome b5 oxidoreductase	1.6.2.2	cytochrome-b5 reductase
 cytochrome b5 reductase domain of Ncb5or	1.6.2.2	cytochrome-b5 reductase
 NADH-dependent cytochrome b5 reductase	1.6.2.2	cytochrome-b5 reductase
+HPO-19	1.6.2.2	cytochrome-b5 reductase
+T05H4.4	1.6.2.2	cytochrome-b5 reductase
 cyt b5R protein	1.6.2.2	cytochrome-b5 reductase
-diaphorase I	1.6.2.2	cytochrome-b5 reductase
 CyB5R	1.6.2.2	cytochrome-b5 reductase
-cb5r	1.6.2.2	cytochrome-b5 reductase
+NADH-cytochrome b 5 reductase	1.6.2.2	cytochrome-b5 reductase
 NADH-cytochrome b5 reductase	1.6.2.2	cytochrome-b5 reductase
-cytochrome b5 reductase	1.6.2.2	cytochrome-b5 reductase
+methemoglobin reductase	1.6.2.2	cytochrome-b5 reductase
 DIA1	1.6.2.2	cytochrome-b5 reductase
-CYB5R3	1.6.2.2	cytochrome-b5 reductase
+NADH: ferricytochrome b5 oxidoreductase	1.6.2.2	cytochrome-b5 reductase
+NADH-cytochrome b5 reductase 3	1.6.2.2	cytochrome-b5 reductase
 CBR1A	1.6.2.2	cytochrome-b5 reductase
 CBR1B	1.6.2.2	cytochrome-b5 reductase
+diaphorase I	1.6.2.2	cytochrome-b5 reductase
+NADH-cytochrome-b5 reductase 3	1.6.2.2	cytochrome-b5 reductase
+cytochrome b5 reductase 2	1.6.2.2	cytochrome-b5 reductase
+CYB5R2	1.6.2.2	cytochrome-b5 reductase
+cb5r	1.6.2.2	cytochrome-b5 reductase
+cytochrome b5 reductase	1.6.2.2	cytochrome-b5 reductase
 NADH cytochrome b5 oxidoreductase	1.6.2.2	cytochrome-b5 reductase
 Ncb5or	1.6.2.2	cytochrome-b5 reductase
 Cyb5R4	1.6.2.2	cytochrome-b5 reductase
 b5/b5R	1.6.2.2	cytochrome-b5 reductase
 b5 plusb5R	1.6.2.2	cytochrome-b5 reductase
+CBR1	1.6.2.2	cytochrome-b5 reductase
+NADH-b5R	1.6.2.2	cytochrome-b5 reductase
+cyt b5r	1.6.2.2	cytochrome-b5 reductase
 NADH cytochrome B5 reductase	1.6.2.2	cytochrome-b5 reductase
-NADH-ferricytochrome reductase	1.6.2.2	cytochrome-b5 reductase
+CBR	1.6.2.2	cytochrome-b5 reductase
+cytochrome b5 reductase 3	1.6.2.2	cytochrome-b5 reductase
+CYB5R3	1.6.2.2	cytochrome-b5 reductase
 NADH:cytochrome b5 reductase	1.6.2.2	cytochrome-b5 reductase
+NADH-ferricytochrome reductase	1.6.2.2	cytochrome-b5 reductase
 NADH-ferricyanide reductase	1.6.2.2	cytochrome-b5 reductase
 EC 1.6.99.2	1.6.2.4	NADPH-hemoprotein reductase
 NADPH-cytochrome c reductase	1.6.2.4	NADPH-hemoprotein reductase
@@ -121,16 +133,21 @@ NADPH-cytochrome P450 (CYP) oxidoreductase	1.6.2.4	NADPH-hemoprotein reductase
 TcCPR-A	1.6.2.4	NADPH-hemoprotein reductase
 TcCPR-B	1.6.2.4	NADPH-hemoprotein reductase
 TcCPR-C	1.6.2.4	NADPH-hemoprotein reductase
+CPR I	1.6.2.4	NADPH-hemoprotein reductase
 bifunctional P-450/NADPH-P450 reductase,EC1.14.14.1/EC1.6.2.4	1.6.2.4	NADPH-hemoprotein reductase
 flavocytochrome P450 BM3	1.6.2.4	NADPH-hemoprotein reductase
 NADPH:CYP oxidoreductase	1.6.2.4	NADPH-hemoprotein reductase
-isozyme	1.6.2.4	NADPH-hemoprotein reductase
 NADPH: cytochrome P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
+isozyme	1.6.2.4	NADPH-hemoprotein reductase
 isozyme	1.6.2.4	NADPH-hemoprotein reductase
 WsCPR1	1.6.2.4	NADPH-hemoprotein reductase
 WsCPR2	1.6.2.4	NADPH-hemoprotein reductase
 cytochrome P450-diflavin reductase	1.6.2.4	NADPH-hemoprotein reductase
+isoform	1.6.2.4	NADPH-hemoprotein reductase
+isoform	1.6.2.4	NADPH-hemoprotein reductase
 NADPH:cytochrome P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
+ATR2	1.6.2.4	NADPH-hemoprotein reductase
+NADPH-cytochrome P450 reductase 2	1.6.2.4	NADPH-hemoprotein reductase
 RedA	1.6.2.4	NADPH-hemoprotein reductase
 NADPH-P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
 NPR	1.6.2.4	NADPH-hemoprotein reductase
@@ -141,12 +158,11 @@ NADPH-dependent P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
 POR	1.6.2.4	NADPH-hemoprotein reductase
 NADPH-ferrihemoprotein reductase	1.6.2.4	NADPH-hemoprotein reductase
 NADPH:ferrihemoprotein oxidoreductase	1.6.2.4	NADPH-hemoprotein reductase
-cytochrome P450 oxidoreductase	1.6.2.4	NADPH-hemoprotein reductase
-NADPH-cytochrome P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
+NADPH-cytochrome P450reductase	1.6.2.4	NADPH-hemoprotein reductase
 NADPH cytochrome P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
-cytochrome P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
+cytochrome P450reductase	1.6.2.4	NADPH-hemoprotein reductase
+cytochrome P450 oxidoreductase	1.6.2.4	NADPH-hemoprotein reductase
 CYPOR	1.6.2.4	NADPH-hemoprotein reductase
-P450R	1.6.2.4	NADPH-hemoprotein reductase
 NAD(P)H cytochrome P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
 P450REd	1.6.2.4	NADPH-hemoprotein reductase
 NADPH-CPR	1.6.2.4	NADPH-hemoprotein reductase
@@ -156,9 +172,11 @@ P450 Red	1.6.2.4	NADPH-hemoprotein reductase
 cytochrome P450 NADPH reductase	1.6.2.4	NADPH-hemoprotein reductase
 NADPH:cytochrome P450 oxidoreductase	1.6.2.4	NADPH-hemoprotein reductase
 NADPH: cytochrome P450 oxidoreductase	1.6.2.4	NADPH-hemoprotein reductase
-NADPH P450 oxidoreductase	1.6.2.4	NADPH-hemoprotein reductase
+NADPH-CYP450 reductase	1.6.2.4	NADPH-hemoprotein reductase
 P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
+NADPH P450 oxidoreductase	1.6.2.4	NADPH-hemoprotein reductase
 NADPH P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
+P450R	1.6.2.4	NADPH-hemoprotein reductase
 NADPH-CYP reductase	1.6.2.4	NADPH-hemoprotein reductase
 P450 oxidoreductase	1.6.2.4	NADPH-hemoprotein reductase
 NADPH dependent cytochrome P450 reductase	1.6.2.4	NADPH-hemoprotein reductase
@@ -168,7 +186,9 @@ reductase, cytochrome c2 (reduced nicotinamide adenine dinucleotidephosphate)	1.
 cytochrome c2 reductase (reduced nicotinamide adenine dinucleotidephosphate, NADPH)	1.6.2.5	NADPH-cytochrome-c2 reductase
 NADPH-cytochrome f reductase	1.6.2.5	NADPH-cytochrome-c2 reductase
 ferric leghemoglobin reductase	1.6.2.6	leghemoglobin reductase
+dihydrolipoamide dehydrogenase	1.6.2.6	leghemoglobin reductase
 FLbR2	1.6.2.6	leghemoglobin reductase
+ferric leghemoglobin reductase 2	1.6.2.6	leghemoglobin reductase
 FLbR-2	1.6.2.6	leghemoglobin reductase
 ThOX2	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 ThOX	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
@@ -181,49 +201,56 @@ p138tox	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 thyroid NADPH oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 thyroid oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 thyroid oxidase 2	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+gene name, roothairless5	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 Respiratory Burst Oxidase Homolog	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 RBOH	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 RDH2	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 Atrbohc	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 AtrbohF NADPH oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 AtrbohD NADPH oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-the RdxA nitroreductase possesses NAD(P)H oxidase andmetronidazole reductase activities	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+RbohF	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+NADPH-oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+the dual oxidase enzyme has a NADPH oxidase domain	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 NAD(P)H oxidase 4	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 subunit	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 subunit	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-isoform	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 NADPH oxidase type 4	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-subunit	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-isoform	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-isozyme	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-isozyme	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-isozyme	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 isoform	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 subunit	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+isozyme	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+catalytic subunit	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 isoform	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-the phagocyte NADPH oxidase is amulticomponent enzyme complex comprising six proteins, namely p22phox(phox: phagocyte oxidase), gp91phox, p47phox, p67phox, p40phox and thesmall G-protein Rac1 or Rac2	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-NOX	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+subunit	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+isoform	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+gene name	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+the phagocyteNADPH oxidase is a multicomponent enzyme complex comprising sixproteins, namely p22phox (phox: phagocyte oxidase), gp91phox, p47phox,p67phox, p40phox and the small G-protein Rac1 or Rac2	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+isoform	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+gene name	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+NOX4-art	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+the RdxA nitroreductase possesses NAD(P)H oxidase andmetronidazole reductase activities	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 SsNOX38	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 Duox-DuoxA NADPH oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 RBOHB	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 superoxide-generating NADPH oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-NADPH oxidase 5	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 phox	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 phagocyte NADPH oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 NADPH oxidase 1	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 gp91phox/Nox2	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 originally termed	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 originally termed	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+NADPH oxidase 2	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+NADPH oxidase 5	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 KOD1	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-locus name	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-locus name	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
-locus name	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 locus name	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 locus name	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 NAPDH oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 NADPHox	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 NAD(P)H oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+locus name	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+locus name	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+locus name	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
 NADH oxidase	1.6.3.1	NAD(P)H oxidase (H2O2-forming)
+NOX	1.6.3.2	NAD(P)H oxidase (H2O-forming)
 NOXtp	1.6.3.2	NAD(P)H oxidase (H2O-forming)
 KOD1	1.6.3.2	NAD(P)H oxidase (H2O-forming)
 NAD(P)H oxidase	1.6.3.2	NAD(P)H oxidase (H2O-forming)
@@ -243,16 +270,26 @@ assay at	1.6.3.3	NADH oxidase (H2O2-forming)
 Nox-1	1.6.3.3	NADH oxidase (H2O2-forming)
 H2O2-forming reduced nicotinamide adenine dinucleotide oxidase	1.6.3.3	NADH oxidase (H2O2-forming)
 H202-forming NADH oxidase	1.6.3.3	NADH oxidase (H2O2-forming)
-H2O-forming NADH oxidase	1.6.3.4	NADH oxidase (H2O-forming)
-NADH oxidase	1.6.3.4	NADH oxidase (H2O-forming)
+YODC	1.6.3.4	NADH oxidase (H2O-forming)
 NOX	1.6.3.4	NADH oxidase (H2O-forming)
+water-forming NADH oxidase	1.6.3.4	NADH oxidase (H2O-forming)
+gene name	1.6.3.4	NADH oxidase (H2O-forming)
+gene name	1.6.3.4	NADH oxidase (H2O-forming)
+NADH oxidase	1.6.3.4	NADH oxidase (H2O-forming)
+H2O-forming NADH oxidase	1.6.3.4	NADH oxidase (H2O-forming)
 SpNox	1.6.3.4	NADH oxidase (H2O-forming)
-NoxE	1.6.3.4	NADH oxidase (H2O-forming)
+nicotinamide adenine dinucleotide oxidase	1.6.3.4	NADH oxidase (H2O-forming)
+gene name	1.6.3.4	NADH oxidase (H2O-forming)
 Nox-2	1.6.3.4	NADH oxidase (H2O-forming)
-gene name	1.6.3.4	NADH oxidase (H2O-forming)
-gene name	1.6.3.4	NADH oxidase (H2O-forming)
+REN	1.6.3.5	renalase
 alphaNAD(P)H oxidase/anomerase	1.6.3.5	renalase
+isoform	1.6.3.5	renalase
+isoform	1.6.3.5	renalase
+isoform	1.6.3.5	renalase
+isoform	1.6.3.5	renalase
 dehydrogenase, reduced nicotinamide adenine dinucleotide phosphate(quinone)	1.6.5.10	NADPH dehydrogenase (quinone)
+azoreductase	1.6.5.10	NADPH dehydrogenase (quinone)
+PpAzoR	1.6.5.10	NADPH dehydrogenase (quinone)
 NADPH quinone reductase	1.6.5.10	NADPH dehydrogenase (quinone)
 ArsH	1.6.5.10	NADPH dehydrogenase (quinone)
 NADPH quinone oxidoreductase	1.6.5.10	NADPH dehydrogenase (quinone)
@@ -299,6 +336,9 @@ NADH-quinone oxidoreductases	1.6.5.11	NADH dehydrogenase (quinone)
 NDH-2	1.6.5.11	NADH dehydrogenase (quinone)
 FMN-dependent NADH:quinone oxidoreductase	1.6.5.11	NADH dehydrogenase (quinone)
 MmNQO	1.6.5.11	NADH dehydrogenase (quinone)
+gene name	1.6.5.11	NADH dehydrogenase (quinone)
+NDH2	1.6.5.11	NADH dehydrogenase (quinone)
+gene name	1.6.5.11	NADH dehydrogenase (quinone)
 NDH-1	1.6.5.11	NADH dehydrogenase (quinone)
 H+(NA+)-translocating NADH-quinone oxidoreductase	1.6.5.11	NADH dehydrogenase (quinone)
 WrbA	1.6.5.11	NADH dehydrogenase (quinone)
@@ -371,6 +411,16 @@ NADH:quinone oxidoreductase 1	1.6.5.2	NAD(P)H dehydrogenase (quinone)
 has NAD(P)H:quinone reductase activity	1.6.5.2	NAD(P)H dehydrogenase (quinone)
 TmQR2	1.6.5.2	NAD(P)H dehydrogenase (quinone)
 QOR2	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+NQR	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+NAD(P)H:acceptor oxidoreductase	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+gene name	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+ferric reductase B	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+gene name	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+1,4-benzoquinone reductase	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+FlxABCD	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+locus name, subunit FlxA	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+locus name, subunit FlxB	1.6.5.2	NAD(P)H dehydrogenase (quinone)
+locus name, subunit FlxCD	1.6.5.2	NAD(P)H dehydrogenase (quinone)
 NAD(P)H-quinone oxidoreductase	1.6.5.2	NAD(P)H dehydrogenase (quinone)
 NAD(P)H:quinoneoxidoreductase 1	1.6.5.2	NAD(P)H dehydrogenase (quinone)
 nicotinamide adenine dinucleotide phosphate:quinone oxidoreductase1	1.6.5.2	NAD(P)H dehydrogenase (quinone)
@@ -383,232 +433,6 @@ NAD[P]H:quinone acceptor oxidoreductase 1	1.6.5.2	NAD(P)H dehydrogenase (quinone
 NAD(P)H quinone oxidoreductase1	1.6.5.2	NAD(P)H dehydrogenase (quinone)
 NADPH:quinone oxidoreductase	1.6.5.2	NAD(P)H dehydrogenase (quinone)
 FMN-dependent NAD(P)H:quinone oxidoreductase	1.6.5.2	NAD(P)H dehydrogenase (quinone)
-Protein P1	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-coenzyme Q reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-complex I (mitochondrial electron transport)	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-complex I dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-complex I (NADH:Q1 oxidoreductase)	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-complex I (electron transport chain)	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-dihydronicotinamide adenine dinucleotide-coenzyme Q reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-DPNH-coenzyme Q reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-DPNH-ubiquinone reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-electron transfer complex I	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-mitochondrial electron transport complex I	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-mitochondrial electron transport complex 1	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-CoQ reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH coenzyme Q1 reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-coenzyme Q oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-coenzyme Q reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-ubiquinone-1 reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:ubiquinone oxidoreductase complex	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-Q6 oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-ferricyanide reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-reduced nicotinamide adenine dinucleotide-coenzyme Q reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-reductase, ubiquinone	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type I dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-ubiquinone reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-13 kDa differentiation-associated protein	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CDA016	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Cell adhesion protein SQM1	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Cell death-regulatory protein GRIM-19	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CGI-39	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-11KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-12KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-14.8KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-14KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-15 kDa	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-16KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-17.3KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-17.8KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-18 kDa	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-18Kd	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-19.3KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-19KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-20KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-21KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-22.5Kd	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-23KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-27KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-28.5KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-29.9KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-29KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-30KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-31KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-38.5KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-39KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-40KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-42.5KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-42KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-49KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-51KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-75KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-78KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-9.5	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-9KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-AGGG	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-AQDQ	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-ASHI	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B12	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B14	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B14.5a	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B14.5b	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B15	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B16.6	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B17	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B17.2	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B18	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B22	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B8	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-B9	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-KFYI	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-MLRQ	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-MNLL	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-MWFE	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-PDSW	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-PGIV	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CI-SGDH	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-CIB17.2	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-11KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-12KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-14.8KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-14KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-15 kDa	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-16KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-17.3KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-17.8KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-18 kDa	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-18Kd	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-19.3KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-19KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-20KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-21KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-22.5Kd	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-23KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-27KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-28.5KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-29.9KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-29KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-30KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-38.5KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-39KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-40KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-42.5KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-42KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-49KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-51KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-75KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-78KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-9.5KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-9KD	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-AGGG	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-AQDQ	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-ASHI	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B12	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B14	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B14.5a	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B14.5b	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B15	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B16.6	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B17	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B17.2	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B18	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B22	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B8	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-B9	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-KFYI	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-MLRQ	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-MNLL	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-MWFE	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-PDSW	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-PGIV	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Complex I-SGDH	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Gene associated with retinoic-interferon-induced mortality 19 protein	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-GGHPW	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-GRIM-19	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Hypothetical protein Walter	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Ubiquinone-binding protein	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH: ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-in mitochondria	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-mitochondrial NADH dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-proton-translocating NADH-quinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-quinone reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-ubiquinone oxidoreductase (complex I)	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:quinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-proton-translocating NADH:ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-energy-converting NADPH:ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-respiratory complex I	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-non-proton-pumpingNADH-ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-proton-pumping NADH:ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NDUFA5	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH dehydrogenase subunit 5	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-ND5	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:cytochrome c reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NCCR	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH CoQ reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:CoQ1 oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type-II NADH dehydrogenase TgNDH2-I	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH coenzyme Q dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-RCC-I	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-respiratory chain complex I	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-quinone (NADH-ferricyanide) reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-MC-I	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-CoQ1 reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-nicotinamide adenine dinucleotide-ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-CoQ oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:HAR (III) reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Internal NADH dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Ndi1	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-ubiquinone reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:coenzyme Q oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-Q1 oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:external quinone reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH–ubiquinone Q1 oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH: ubiquinone reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-complex 1	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-mitochondrial NADH:ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-mitochondrial complex I	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NDH2	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-external alternative NAD(P)H dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NDE2	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Ndh complex	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-proton-translocating NADH: ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-alternative NADH: ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:DBQ oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH: n-decylubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type I NADH dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Ndi1p	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-alternative NADH:ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:ubiquinone-1 oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type-II NADH-menaquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type II NADH:quinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-Ndh/NdhA–type II NADH:(mena)quinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type II NADH-quinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-AMAPOR	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-artificial mediator accepting pyridine nuclöeotide oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-alternative NADH oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-alternative complex I	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type II NADH:dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-PfNdh2	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type II NADH dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type-2 NADH:quinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:caldariella quinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NDH-II	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type 2 NADH:quinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-type-II NADH dehydrogenase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-PAI	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH-quinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-proton-pumping NADH-ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-ND1	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:HAR reductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-proton-pumping NADH-ubiquinoneoxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-mitochondrial proton-pumping NADH-ubiquinone oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-mitochondrial NADH dehydrogenase complex	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH:Q oxidoreductase	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NADH dehydrogenase 1	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
-NDH	1.6.5.3	NADH:ubiquinone reductase (H+-translocating)
 NADH:semidehydroascorbic acid oxidoreductase	1.6.5.4	monodehydroascorbate reductase (NADH)
 MDHA	1.6.5.4	monodehydroascorbate reductase (NADH)
 semidehydroascorbate reductase	1.6.5.4	monodehydroascorbate reductase (NADH)
@@ -629,6 +453,8 @@ MDAR	1.6.5.4	monodehydroascorbate reductase (NADH)
 MDAR-OX	1.6.5.4	monodehydroascorbate reductase (NADH)
 monodehydroascorbate reductase	1.6.5.4	monodehydroascorbate reductase (NADH)
 MDA	1.6.5.4	monodehydroascorbate reductase (NADH)
+MDHAR6	1.6.5.4	monodehydroascorbate reductase (NADH)
+MDAR5	1.6.5.4	monodehydroascorbate reductase (NADH)
 enzyme is bifunctional showing monodehydroascorbatereductase and carbonic anhydrase, EC 4.2.1.1, activities	1.6.5.4	monodehydroascorbate reductase (NADH)
 Nectarin III	1.6.5.4	monodehydroascorbate reductase (NADH)
 NEC3	1.6.5.4	monodehydroascorbate reductase (NADH)
@@ -636,8 +462,8 @@ defensin	1.6.5.4	monodehydroascorbate reductase (NADH)
 SPD1	1.6.5.4	monodehydroascorbate reductase (NADH)
 Trx h2	1.6.5.4	monodehydroascorbate reductase (NADH)
 thioredoxin H2	1.6.5.4	monodehydroascorbate reductase (NADH)
-MDHAR1	1.6.5.4	monodehydroascorbate reductase (NADH)
 PpMDHAR1	1.6.5.4	monodehydroascorbate reductase (NADH)
+MDHAR1	1.6.5.4	monodehydroascorbate reductase (NADH)
 MDHAR2	1.6.5.4	monodehydroascorbate reductase (NADH)
 PpMDHAR2	1.6.5.4	monodehydroascorbate reductase (NADH)
 MDHAR3	1.6.5.4	monodehydroascorbate reductase (NADH)
@@ -646,6 +472,11 @@ AtMDAR1	1.6.5.4	monodehydroascorbate reductase (NADH)
 monodehydroascorbate reductase 2	1.6.5.4	monodehydroascorbate reductase (NADH)
 MDAR2	1.6.5.4	monodehydroascorbate reductase (NADH)
 gene name	1.6.5.4	monodehydroascorbate reductase (NADH)
+monodehydroascorbate reductase 4	1.6.5.4	monodehydroascorbate reductase (NADH)
+gene name	1.6.5.4	monodehydroascorbate reductase (NADH)
+MT1K	1.6.5.4	monodehydroascorbate reductase (NADH)
+metallothionein-like type 1 protein	1.6.5.4	monodehydroascorbate reductase (NADH)
+MT-2	1.6.5.4	monodehydroascorbate reductase (NADH)
 AFR reductase	1.6.5.4	monodehydroascorbate reductase (NADH)
 ascorbate free radical reductase	1.6.5.4	monodehydroascorbate reductase (NADH)
 EC 1.6.99.2	1.6.5.5	NADPH:quinone reductase
@@ -684,66 +515,39 @@ ZCr	1.6.5.5	NADPH:quinone reductase
 zeta-Crystallin	1.6.5.5	NADPH:quinone reductase
 NADPH:quinone oxidoreductase	1.6.5.5	NADPH:quinone reductase
 P1-zeta-crystallin	1.6.5.5	NADPH:quinone reductase
+ArsH	1.6.5.5	NADPH:quinone reductase
+NADPH-dependent quinone reductase	1.6.5.5	NADPH:quinone reductase
 TmQR1	1.6.5.5	NADPH:quinone reductase
 Qor	1.6.5.5	NADPH:quinone reductase
 QorA	1.6.5.5	NADPH:quinone reductase
+NfsA	1.6.5.5	NADPH:quinone reductase
+nitroreductase A	1.6.5.5	NADPH:quinone reductase
 NADPH quinone acceptor oxidoreductase	1.6.5.5	NADPH:quinone reductase
 QAO	1.6.5.5	NADPH:quinone reductase
+Zta1	1.6.5.5	NADPH:quinone reductase
 Zta1p	1.6.5.5	NADPH:quinone reductase
 P1-ZCr	1.6.5.5	NADPH:quinone reductase
 NADPH:azodicarbonyl/quinone reductase	1.6.5.5	NADPH:quinone reductase
 old yellow enzyme	1.6.5.5	NADPH:quinone reductase
 TcOYE	1.6.5.5	NADPH:quinone reductase
 PtoQOR	1.6.5.5	NADPH:quinone reductase
-ArsH	1.6.5.5	NADPH:quinone reductase
-NADPH-dependent quinone reductase	1.6.5.5	NADPH:quinone reductase
 carbonyl reductase	1.6.5.6	p-benzoquinone reductase (NADPH)
 pBQR	1.6.5.6	p-benzoquinone reductase (NADPH)
 para-benzoquinone reductase	1.6.5.6	p-benzoquinone reductase (NADPH)
 PnpB	1.6.5.6	p-benzoquinone reductase (NADPH)
 p-Benzoquinone reductase	1.6.5.6	p-benzoquinone reductase (NADPH)
+gene name	1.6.5.6	p-benzoquinone reductase (NADPH)
+BURK_019600	1.6.5.6	p-benzoquinone reductase (NADPH)
+BqR	1.6.5.6	p-benzoquinone reductase (NADPH)
 1,2,4-trihydroxybenzene:NAD+ oxidoreductase	1.6.5.7	2-hydroxy-1,4-benzoquinone reductase
 hydroxybenzoquinone reductase	1.6.5.7	2-hydroxy-1,4-benzoquinone reductase
-NQR-1	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-NADH:quinoneoxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-complex I	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-sodium motive NADH:quinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-motive NADH:quinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-translocatingNADH:quinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na1-NQR	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-translocating complex 1	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na(+)-translocating NADH:ubiquinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-NqrF	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-translocating NADH dehydrogenase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na(+)-pumping NADH:quinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-sodium pumping NADH:quinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-pumping NADH: quinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-pumping NADH:quinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-sodium ion-translocating NADH:quinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-translocating NADH-quinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-translocating NADH-ubiquinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na’-dependent NADH-ubiquinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-subunit	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-subunit	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-subunit	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-subunit	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na(+)-translocating NADH-quinone reductase subunit B	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-NQR	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-translocating NADH:quinone oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-translocating NADH:ubiquinoneoxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-sodium-translocating NADH:quinoneoxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na(+)-translocating NADH:quinoneoxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-NQR	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na+-translocating NADH-quinone reductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na(+)-translocating NADH-quinone reductase subunit D	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-dNADH:K3 oxidoreductase	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-Na(+)-translocating NADH-quinone reductase subunit E	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-the smaller subcomplex of the Na+-NQR consists ofNqrA-His, NqrF, NqrB and NqrCNQR-2 but lacks the highly hydrophobicNqrD and NqrE subunits	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
-NDH-1	1.6.5.8	NADH:ubiquinone reductase (Na+-transporting)
 internal alternative NADH:ubiquinone oxidoreductase	1.6.5.9	NADH:ubiquinone reductase (non-electrogenic)
 alternative NADH:ubiquinone oxidoreductase	1.6.5.9	NADH:ubiquinone reductase (non-electrogenic)
 alternative NADH-quinone oxidoreductase	1.6.5.9	NADH:ubiquinone reductase (non-electrogenic)
+rotenone-insensitive NADH-ubiquinone oxidoreductase	1.6.5.9	NADH:ubiquinone reductase (non-electrogenic)
 alternative external NADH dehydrogenase	1.6.5.9	NADH:ubiquinone reductase (non-electrogenic)
+gene name	1.6.5.9	NADH:ubiquinone reductase (non-electrogenic)
+non-proton pumping type II NADH dehydrogenase	1.6.5.9	NADH:ubiquinone reductase (non-electrogenic)
 NDH-2	1.6.5.9	NADH:ubiquinone reductase (non-electrogenic)
 NADH dehydrogenase-2	1.6.5.9	NADH:ubiquinone reductase (non-electrogenic)
 NADH-ubiquinone oxidoreductase	1.6.5.9	NADH:ubiquinone reductase (non-electrogenic)
@@ -837,6 +641,7 @@ NADH-DH	1.6.99.3	NADH dehydrogenase
 diaphorase	1.6.99.3	NADH dehydrogenase
 rHrbmt	1.6.99.3	NADH dehydrogenase
 NDH-1	1.6.99.3	NADH dehydrogenase
-NDH	1.6.99.3	NADH dehydrogenase
+NDH-2	1.6.99.3	NADH dehydrogenase
 NADH dehydrogenase-like complex	1.6.99.3	NADH dehydrogenase
+NDH	1.6.99.3	NADH dehydrogenase
 NADH dehydrogenase I	1.6.99.3	NADH dehydrogenase

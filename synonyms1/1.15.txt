@@ -17,28 +17,40 @@ cuprein	1.15.1.1	superoxide dismutase
 hepatocuprein	1.15.1.1	superoxide dismutase
 perMn-SOD	1.15.1.1	superoxide dismutase
 mitMn-SOD	1.15.1.1	superoxide dismutase
-SOD	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
 superoxide dismutase	1.15.1.1	superoxide dismutase
 Cu/Zn SOD	1.15.1.1	superoxide dismutase
+MnSOD	1.15.1.1	superoxide dismutase
+Cu/Zn-SODI	1.15.1.1	superoxide dismutase
+SODI	1.15.1.1	superoxide dismutase
+cold-active superoxide dismutase	1.15.1.1	superoxide dismutase
+AmSOD	1.15.1.1	superoxide dismutase
+cytosolic Cu/Zn-SOD	1.15.1.1	superoxide dismutase
 Cu/Zn superoxide dismutase 1	1.15.1.1	superoxide dismutase
 SOD 1	1.15.1.1	superoxide dismutase
-MnSOD	1.15.1.1	superoxide dismutase
 CuZn-SOD	1.15.1.1	superoxide dismutase
 copper, zinc superoxide dismutase	1.15.1.1	superoxide dismutase
-ECSOD	1.15.1.1	superoxide dismutase
 Cu,Zn superoxide dismutase	1.15.1.1	superoxide dismutase
+Cu,Zn-superoxide dismutase	1.15.1.1	superoxide dismutase
+Cu-Zn SOD	1.15.1.1	superoxide dismutase
+copper-zinc superoxide dismutase	1.15.1.1	superoxide dismutase
+PthipI-SODC1	1.15.1.1	superoxide dismutase
+PthipI-SODC2	1.15.1.1	superoxide dismutase
+PthipI-SODC	1.15.1.1	superoxide dismutase
+high isoelectric point superoxide dismutase	1.15.1.1	superoxide dismutase
 the enzyme belongs to the superoxide dismutase familyof important antioxidant metalloenzymes that catalyze superoxideradicals from cellular oxidative metabolism into hydrogen peroxideandmolecular oxygen	1.15.1.1	superoxide dismutase
 intracellular Cu-Zn superoxide dismutase	1.15.1.1	superoxide dismutase
 CpSOD	1.15.1.1	superoxide dismutase
 gene name	1.15.1.1	superoxide dismutase
+CuZn-superoxide dismutase	1.15.1.1	superoxide dismutase
+pfSOD	1.15.1.1	superoxide dismutase
+SaFe-SOD	1.15.1.1	superoxide dismutase
 FeSOD	1.15.1.1	superoxide dismutase
-Cu-Zn SOD	1.15.1.1	superoxide dismutase
-Cu,Zn-superoxide dismutase	1.15.1.1	superoxide dismutase
-copper-zinc superoxide dismutase	1.15.1.1	superoxide dismutase
 Mn/Fe superoxide dismutase	1.15.1.1	superoxide dismutase
 iron SOD	1.15.1.1	superoxide dismutase
-CuZn-superoxide dismutase	1.15.1.1	superoxide dismutase
-SodC	1.15.1.1	superoxide dismutase
+Cu,Zn-SOD	1.15.1.1	superoxide dismutase
+Cu/Zn-SOD	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
 Cu,ZnSOD	1.15.1.1	superoxide dismutase
 SODB1	1.15.1.1	superoxide dismutase
 SODB2	1.15.1.1	superoxide dismutase
@@ -48,25 +60,27 @@ Fe/Mn-type SOD	1.15.1.1	superoxide dismutase
 Mn-type SOD	1.15.1.1	superoxide dismutase
 Fe-superoxide dismutase	1.15.1.1	superoxide dismutase
 locus name	1.15.1.1	superoxide dismutase
-Cu,Zn-SOD	1.15.1.1	superoxide dismutase
-Cu/Zn-SOD	1.15.1.1	superoxide dismutase
 MnSOD1	1.15.1.1	superoxide dismutase
 CuZn superoxide dismutase	1.15.1.1	superoxide dismutase
 Cu, Zn SOD	1.15.1.1	superoxide dismutase
 KmSod1p	1.15.1.1	superoxide dismutase
 neelaredoxin	1.15.1.1	superoxide dismutase
 Nlr	1.15.1.1	superoxide dismutase
+ApMn-SOD1	1.15.1.1	superoxide dismutase
+ApMn-SOD2	1.15.1.1	superoxide dismutase
 mMnSOD	1.15.1.1	superoxide dismutase
-copper/zinc superoxide dismutase	1.15.1.1	superoxide dismutase
 extracellular CuZnSOD	1.15.1.1	superoxide dismutase
+copper/zinc superoxide dismutase	1.15.1.1	superoxide dismutase
 cytosolic manganese superoxide dismutase	1.15.1.1	superoxide dismutase
 cytMnSOD	1.15.1.1	superoxide dismutase
 mitochondrial manganese superoxide dismutase	1.15.1.1	superoxide dismutase
 mtMnSOD	1.15.1.1	superoxide dismutase
 cMnSOD	1.15.1.1	superoxide dismutase
 mtSOD	1.15.1.1	superoxide dismutase
+eSOD	1.15.1.1	superoxide dismutase
+erythrocyte superoxide dismutase	1.15.1.1	superoxide dismutase
+UniProt	1.15.1.1	superoxide dismutase
 copper/zinc-superoxide dismutase	1.15.1.1	superoxide dismutase
-Cu, Zn-superoxide dismutase	1.15.1.1	superoxide dismutase
 Cu, ZnSOD	1.15.1.1	superoxide dismutase
 gene name	1.15.1.1	superoxide dismutase
 cambialistic superoxide dismutase	1.15.1.1	superoxide dismutase
@@ -76,35 +90,73 @@ iron-dependent superoxide dismutase	1.15.1.1	superoxide dismutase
 Fe-SOD_ASAC	1.15.1.1	superoxide dismutase
 locus name	1.15.1.1	superoxide dismutase
 SOD3	1.15.1.1	superoxide dismutase
-UniProt	1.15.1.1	superoxide dismutase
+Cu/Zn-superoxide dismutase	1.15.1.1	superoxide dismutase
 MnSOD47	1.15.1.1	superoxide dismutase
 gene name	1.15.1.1	superoxide dismutase
-Cu/Zn-superoxide dismutase	1.15.1.1	superoxide dismutase
-SodB	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
+locus name	1.15.1.1	superoxide dismutase
+CSD1	1.15.1.1	superoxide dismutase
+PschSOD	1.15.1.1	superoxide dismutase
+CSD2	1.15.1.1	superoxide dismutase
+SaCSD1	1.15.1.1	superoxide dismutase
+gene anme	1.15.1.1	superoxide dismutase
+iron SOD type	1.15.1.1	superoxide dismutase
+PsSOD	1.15.1.1	superoxide dismutase
+Fe/Mn-SOD	1.15.1.1	superoxide dismutase
+MgMnSOD1	1.15.1.1	superoxide dismutase
+MgMnSOD2	1.15.1.1	superoxide dismutase
+Cu/ZnSOD	1.15.1.1	superoxide dismutase
+extracellular copper-zinc superoxide dismutase	1.15.1.1	superoxide dismutase
+ecCuZnSOD	1.15.1.1	superoxide dismutase
+AhSOD	1.15.1.1	superoxide dismutase
+DaSOD	1.15.1.1	superoxide dismutase
+cytosolic Cu/Zn superoxide dismutase	1.15.1.1	superoxide dismutase
+Of-cCu/ZnSOD	1.15.1.1	superoxide dismutase
+Cu/Zn-SODII	1.15.1.1	superoxide dismutase
+hEC-SOD	1.15.1.1	superoxide dismutase
+Ca-Cu,Zn SOD	1.15.1.1	superoxide dismutase
+Cu, Zn superoxide dismutase	1.15.1.1	superoxide dismutase
+Cj-Cu, Zn SOD	1.15.1.1	superoxide dismutase
+manganese-containing SOD	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
+Fe-SOD	1.15.1.1	superoxide dismutase
+ElFe-SOD	1.15.1.1	superoxide dismutase
+ElSOD	1.15.1.1	superoxide dismutase
+chloroplastic Fe-SOD	1.15.1.1	superoxide dismutase
+LSOD	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
 MnSOD-2	1.15.1.1	superoxide dismutase
 MnSOD-3	1.15.1.1	superoxide dismutase
 SOD I	1.15.1.1	superoxide dismutase
-SODII	1.15.1.1	superoxide dismutase
 SODIII	1.15.1.1	superoxide dismutase
 SODIV	1.15.1.1	superoxide dismutase
-Cu/Zn superoxide dismutase	1.15.1.1	superoxide dismutase
+SODII	1.15.1.1	superoxide dismutase
+Cu/Znsuperoxide dismutase	1.15.1.1	superoxide dismutase
 iron superoxide dismutase	1.15.1.1	superoxide dismutase
-Fe-SOD	1.15.1.1	superoxide dismutase
 iron-superoxide dismutase	1.15.1.1	superoxide dismutase
+extracellular SOD	1.15.1.1	superoxide dismutase
+Cg-EcSOD	1.15.1.1	superoxide dismutase
 nectarin I	1.15.1.1	superoxide dismutase
 CuZn superoxide dismutase 1	1.15.1.1	superoxide dismutase
-SOD2	1.15.1.1	superoxide dismutase
-superoxide dismutase 1	1.15.1.1	superoxide dismutase
-extracellular superoxide dismutase	1.15.1.1	superoxide dismutase
-SOD1	1.15.1.1	superoxide dismutase
 manganese superoxide dismutase	1.15.1.1	superoxide dismutase
+superoxide dismutase 1	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
+extracellular superoxide dismutase	1.15.1.1	superoxide dismutase
+ECSOD	1.15.1.1	superoxide dismutase
 extracellular superoxide dismutase	1.15.1.1	superoxide dismutase
 Cu-Zn superoxide dismutase	1.15.1.1	superoxide dismutase
+SOD2	1.15.1.1	superoxide dismutase
+Cu, Zn-superoxide dismutase	1.15.1.1	superoxide dismutase
+Fe-SODe	1.15.1.1	superoxide dismutase
 Fe/MnSOD	1.15.1.1	superoxide dismutase
 iron-containing superoxide dismutase	1.15.1.1	superoxide dismutase
 manganese-containing superoxide dismutase	1.15.1.1	superoxide dismutase
+cMn-SOD	1.15.1.1	superoxide dismutase
+cytoplasmic manganese SOD	1.15.1.1	superoxide dismutase
 Mn-containing superoxide dismutase	1.15.1.1	superoxide dismutase
 Mn-SOD	1.15.1.1	superoxide dismutase
+Cu-Zn-SOD	1.15.1.1	superoxide dismutase
+gene name	1.15.1.1	superoxide dismutase
 desulforedoxin	1.15.1.2	superoxide reductase
 SOR	1.15.1.2	superoxide reductase
 rubredoxin oxidoreductase	1.15.1.2	superoxide reductase
@@ -114,15 +166,18 @@ gene name	1.15.1.2	superoxide reductase
 superoxide reductase	1.15.1.2	superoxide reductase
 1Fe SOR	1.15.1.2	superoxide reductase
 Fe-SOR	1.15.1.2	superoxide reductase
+PfSOR	1.15.1.2	superoxide reductase
 neelaredoxin-type SOR	1.15.1.2	superoxide reductase
 locus name	1.15.1.2	superoxide reductase
 cytochrome c–superoxide oxidoreductase	1.15.1.2	superoxide reductase
+GiSOR	1.15.1.2	superoxide reductase
 desulfoferrodoxin	1.15.1.2	superoxide reductase
 Dfx	1.15.1.2	superoxide reductase
-class I superoxide reductase	1.15.1.2	superoxide reductase
 class I SOR	1.15.1.2	superoxide reductase
+2Fe-SOR	1.15.1.2	superoxide reductase
+class I superoxide reductase	1.15.1.2	superoxide reductase
 Zn/Fe-SOR	1.15.1.2	superoxide reductase
 two-iron superoxide reductase	1.15.1.2	superoxide reductase
-2Fe-SOR	1.15.1.2	superoxide reductase
 1Fe-superoxide reductase	1.15.1.2	superoxide reductase
+class II SOR	1.15.1.2	superoxide reductase
 1Fe-SOR	1.15.1.2	superoxide reductase

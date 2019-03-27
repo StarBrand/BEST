@@ -143,7 +143,28 @@ SnoaL	5.5.1.26	nogalonic acid methyl ester cyclase
 methyl nogalonate cyclase	5.5.1.26	nogalonic acid methyl ester cyclase
 GCI	5.5.1.27	D-galactarolactone cycloisomerase
 galactarolactone cycloisomerase	5.5.1.27	D-galactarolactone cycloisomerase
+ClpP	5.5.1.28	(-)-kolavenyl diphosphate synthase
+clerodienyl diphosphate synthase	5.5.1.28	(-)-kolavenyl diphosphate synthase
+SdKPS	5.5.1.28	(-)-kolavenyl diphosphate synthase
+TwTPS14	5.5.1.28	(-)-kolavenyl diphosphate synthase
+TwTPS10/KPS	5.5.1.28	(-)-kolavenyl diphosphate synthase
+SdCPS2	5.5.1.28	(-)-kolavenyl diphosphate synthase
+KPS	5.5.1.28	(-)-kolavenyl diphosphate synthase
+gene name	5.5.1.29	(+)-kolavenyl diphosphate synthase
 Isomerase, tetrahydroxypteridine cyclo-	5.5.1.3	Tetrahydroxypteridine cycloisomerase
+gene name	5.5.1.30	labda-7,13-dienyl diphosphate synthase
+prenyltransferase and squalene oxidase repeat protein	5.5.1.30	labda-7,13-dienyl diphosphate synthase
+famC2	5.5.1.31	hapalindole H synthase
+famC3	5.5.1.31	hapalindole H synthase
+gene name	5.5.1.31	hapalindole H synthase
+famC1	5.5.1.32	12-epi-hapalindole U synthase
+gene name	5.5.1.32	12-epi-hapalindole U synthase
+FamC4	5.5.1.32	12-epi-hapalindole U synthase
+AmbU1	5.5.1.32	12-epi-hapalindole U synthase
+HpiC1	5.5.1.32	12-epi-hapalindole U synthase
+gene name	5.5.1.32	12-epi-hapalindole U synthase
+fisC	5.5.1.33	12-epi-fischerindole U synthase
+fimC5	5.5.1.33	12-epi-fischerindole U synthase
 D-Glucose 6-phosphate cycloaldolase	5.5.1.4	inositol-3-phosphate synthase
 D-Glucose 6-phosphate-1L-myoinositol 1-phosphate cycloaldolase	5.5.1.4	inositol-3-phosphate synthase
 D-Glucose 6-phosphate-1L-myoinositol 1-phosphate cyclase	5.5.1.4	inositol-3-phosphate synthase

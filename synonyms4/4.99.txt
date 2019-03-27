@@ -26,9 +26,18 @@ ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
 protoporphyrin IX ferrochelatase	4.99.1.1	protoporphyrin ferrochelatase
 protoheme ferrolyase	4.99.1.1	protoporphyrin ferrochelatase
 protoheme lyase	4.99.1.1	protoporphyrin ferrochelatase
-SGRL	4.99.1.10	magnesium dechelatase
 Mg-dechelatase	4.99.1.10	magnesium dechelatase
+gene name	4.99.1.10	magnesium dechelatase
+gene name	4.99.1.10	magnesium dechelatase
+gene name	4.99.1.10	magnesium dechelatase
+gene name	4.99.1.10	magnesium dechelatase
+MDS	4.99.1.10	magnesium dechelatase
+MCS	4.99.1.10	magnesium dechelatase
+CbiXS	4.99.1.11	sirohydrochlorin nickelchelatase
 cfbA	4.99.1.11	sirohydrochlorin nickelchelatase
+nickel-specific chelatase	4.99.1.11	sirohydrochlorin nickelchelatase
+P2TMN nickel chelatase	4.99.1.12	pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase
+LarC	4.99.1.12	pyridinium-3,5-bisthiocarboxylic acid mononucleotide nickel chelatase
 lyase, alkylmercury	4.99.1.2	alkylmercury lyase
 gene name	4.99.1.2	alkylmercury lyase
 organomercury lyase	4.99.1.2	alkylmercury lyase

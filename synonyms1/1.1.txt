@@ -43,7 +43,7 @@ SsADH-10	1.1.1.1	alcohol dehydrogenase
 locus name	1.1.1.1	alcohol dehydrogenase
 isozyme	1.1.1.1	alcohol dehydrogenase
 aldehyde/alcohol dehydrogenase	1.1.1.1	alcohol dehydrogenase
-the purified AdhEexhibits high enzymatic activity attributed to aldehyde dehydrogenaseand low alcohol dehydrogenase activity	1.1.1.1	alcohol dehydrogenase
+gene name	1.1.1.1	alcohol dehydrogenase
 ADH-I	1.1.1.1	alcohol dehydrogenase
 Ta1316 ADH	1.1.1.1	alcohol dehydrogenase
 long-chain alkyl alcohol dehydrogenase	1.1.1.1	alcohol dehydrogenase
@@ -60,8 +60,8 @@ AFPDH	1.1.1.1	alcohol dehydrogenase
 (R)-specific alcohol dehydrogenase	1.1.1.1	alcohol dehydrogenase
 AdhC	1.1.1.1	alcohol dehydrogenase
 PF0991 protein	1.1.1.1	alcohol dehydrogenase
-class I ALDH	1.1.1.1	alcohol dehydrogenase
 HtADH	1.1.1.1	alcohol dehydrogenase
+class I ALDH	1.1.1.1	alcohol dehydrogenase
 ADH class III	1.1.1.1	alcohol dehydrogenase
 APE2239	1.1.1.1	alcohol dehydrogenase
 locus name	1.1.1.1	alcohol dehydrogenase
@@ -72,7 +72,6 @@ bifunctional secondary ADH/Acetyl-CoAthioesterase	1.1.1.1	alcohol dehydrogenase
 gene name	1.1.1.1	alcohol dehydrogenase
 NAD-dependent alcohol dehydrogenase	1.1.1.1	alcohol dehydrogenase
 alcohol dehydrogenase 2	1.1.1.1	alcohol dehydrogenase
-AdhD	1.1.1.1	alcohol dehydrogenase
 gene name	1.1.1.1	alcohol dehydrogenase
 gene name	1.1.1.1	alcohol dehydrogenase
 gene name	1.1.1.1	alcohol dehydrogenase
@@ -85,6 +84,20 @@ ADH-A	1.1.1.1	alcohol dehydrogenase
 ADS1	1.1.1.1	alcohol dehydrogenase
 Aadh1	1.1.1.1	alcohol dehydrogenase
 ARAD1B16786p	1.1.1.1	alcohol dehydrogenase
+Pcal_1311	1.1.1.1	alcohol dehydrogenase
+alcohol dehydrogenase GroES domain protein	1.1.1.1	alcohol dehydrogenase
+alpha-ketoaldehyde dehydrogenase	1.1.1.1	alcohol dehydrogenase
+MGD	1.1.1.1	alcohol dehydrogenase
+NAD+-linked alcohol dehydrogenase 1	1.1.1.1	alcohol dehydrogenase
+NAD+-linked methylglyoxal dehydrogenase	1.1.1.1	alcohol dehydrogenase
+bifunctional acetaldehyde-alcohol dehydrogenase	1.1.1.1	alcohol dehydrogenase
+acetaldehyde-alcohol dehydrogenase	1.1.1.1	alcohol dehydrogenase
+ADHES77	1.1.1.1	alcohol dehydrogenase
+PFADH	1.1.1.1	alcohol dehydrogenase
+short-chain dehydrogenase/reductase	1.1.1.1	alcohol dehydrogenase
+NAD+-dependent SDR	1.1.1.1	alcohol dehydrogenase
+alcohol dehydrogenase D	1.1.1.1	alcohol dehydrogenase
+AdhD	1.1.1.1	alcohol dehydrogenase
 AdhA	1.1.1.1	alcohol dehydrogenase
 HLAD	1.1.1.1	alcohol dehydrogenase
 ADH II	1.1.1.1	alcohol dehydrogenase
@@ -285,11 +298,11 @@ pyridoxal dehydrogenase	1.1.1.107	pyridoxal 4-dehydrogenase
 PLDH	1.1.1.107	pyridoxal 4-dehydrogenase
 L-CDH	1.1.1.108	carnitine 3-dehydrogenase
 L-carnitine dehydrogenase	1.1.1.108	carnitine 3-dehydrogenase
-L-(-)-carnitine dehydrogenase	1.1.1.108	carnitine 3-dehydrogenase
-CDHC	1.1.1.108	carnitine 3-dehydrogenase
 CDHA	1.1.1.108	carnitine 3-dehydrogenase
+CDHC	1.1.1.108	carnitine 3-dehydrogenase
 CDHB	1.1.1.108	carnitine 3-dehydrogenase
 CDHR	1.1.1.108	carnitine 3-dehydrogenase
+L-(-)-carnitine dehydrogenase	1.1.1.108	carnitine 3-dehydrogenase
 Cdh	1.1.1.108	carnitine 3-dehydrogenase
 dehydrogenase, D-arabinitol	1.1.1.11	D-arabinitol 4-dehydrogenase
 D-arabitol dehydrogenase	1.1.1.11	D-arabinitol 4-dehydrogenase
@@ -318,7 +331,6 @@ ARA	1.1.1.116	D-arabinose 1-dehydrogenase (NAD+)
 NAD(+)-specific D-arabinose dehydrogenase	1.1.1.116	D-arabinose 1-dehydrogenase (NAD+)
 Ara2p	1.1.1.116	D-arabinose 1-dehydrogenase (NAD+)
 dehydrogenase, D-arabinose (nicotinamide adenine dinucleotide(phosphate))	1.1.1.117	D-arabinose 1-dehydrogenase [NAD(P)+]
-Ara1p	1.1.1.117	D-arabinose 1-dehydrogenase [NAD(P)+]
 D-arabinose dehydrogenase	1.1.1.117	D-arabinose 1-dehydrogenase [NAD(P)+]
 ARA1	1.1.1.117	D-arabinose 1-dehydrogenase [NAD(P)+]
 D-glucose:NAD oxidoreductase	1.1.1.118	glucose 1-dehydrogenase (NAD+)
@@ -503,14 +515,9 @@ NAD+-dependent sorbitol dehydrogenase	1.1.1.14	L-iditol 2-dehydrogenase
 NAD-SDH	1.1.1.14	L-iditol 2-dehydrogenase
 gene name	1.1.1.14	L-iditol 2-dehydrogenase
 SOR	1.1.1.14	L-iditol 2-dehydrogenase
-sorbitol dehydrogenase 1	1.1.1.14	L-iditol 2-dehydrogenase
-sorbitol transporter	1.1.1.14	L-iditol 2-dehydrogenase
-isoform	1.1.1.14	L-iditol 2-dehydrogenase
 gene name	1.1.1.14	L-iditol 2-dehydrogenase
-isoform	1.1.1.14	L-iditol 2-dehydrogenase
-isoform	1.1.1.14	L-iditol 2-dehydrogenase
-isoform	1.1.1.14	L-iditol 2-dehydrogenase
-isoform	1.1.1.14	L-iditol 2-dehydrogenase
+sorbitol dehydrogenase 1	1.1.1.14	L-iditol 2-dehydrogenase
+Sor2	1.1.1.14	L-iditol 2-dehydrogenase
 sorbitol dehydrogenase 2	1.1.1.14	L-iditol 2-dehydrogenase
 gene name	1.1.1.14	L-iditol 2-dehydrogenase
 PDH-11300	1.1.1.14	L-iditol 2-dehydrogenase
@@ -1277,13 +1284,15 @@ uronate:NAD-oxidoreductase	1.1.1.203	uronate dehydrogenase
 uronic acid dehydrogenase	1.1.1.203	uronate dehydrogenase
 PfUDH	1.1.1.203	uronate dehydrogenase
 gene name	1.1.1.203	uronate dehydrogenase
+gene name	1.1.1.203	uronate dehydrogenase
 PmUDH	1.1.1.203	uronate dehydrogenase
+GalUR	1.1.1.203	uronate dehydrogenase
+galacturonate acid reductase	1.1.1.203	uronate dehydrogenase
 CsUDH	1.1.1.203	uronate dehydrogenase
 PnUDH	1.1.1.203	uronate dehydrogenase
 uronate dehydrogenase	1.1.1.203	uronate dehydrogenase
 gene name	1.1.1.203	uronate dehydrogenase
 PsUDH	1.1.1.203	uronate dehydrogenase
-gene name	1.1.1.203	uronate dehydrogenase
 EC 1.2.1.14	1.1.1.205	IMP dehydrogenase
 dehydrogenase, inosinate	1.1.1.205	IMP dehydrogenase
 inosine-5'-phosphate dehydrogenase	1.1.1.205	IMP dehydrogenase
@@ -1513,6 +1522,9 @@ FAD-GADH	1.1.1.215	gluconate 2-dehydrogenase
 2KGA reductase	1.1.1.215	gluconate 2-dehydrogenase
 2KGR	1.1.1.215	gluconate 2-dehydrogenase
 Gox0417	1.1.1.215	gluconate 2-dehydrogenase
+HDH	1.1.1.215	gluconate 2-dehydrogenase
+L-2-hydroxyacid dehydrogenase	1.1.1.215	gluconate 2-dehydrogenase
+2-HDH	1.1.1.215	gluconate 2-dehydrogenase
 GAD	1.1.1.215	gluconate 2-dehydrogenase
 2-ketogluconate dehydrogenase	1.1.1.215	gluconate 2-dehydrogenase
 GluD	1.1.1.215	gluconate 2-dehydrogenase
@@ -1578,6 +1590,10 @@ gene name	1.1.1.219	dihydroflavonol 4-reductase
 gene name	1.1.1.219	dihydroflavonol 4-reductase
 gene name	1.1.1.219	dihydroflavonol 4-reductase
 gene name	1.1.1.219	dihydroflavonol 4-reductase
+RrDFR1	1.1.1.219	dihydroflavonol 4-reductase
+PhDFR	1.1.1.219	dihydroflavonol 4-reductase
+NtDFR1	1.1.1.219	dihydroflavonol 4-reductase
+flavonoid 3'-hydroxylase	1.1.1.219	dihydroflavonol 4-reductase
 uridine diphosphoglucose dehydrogenase	1.1.1.22	UDP-glucose 6-dehydrogenase
 UDPG dehydrogenase	1.1.1.22	UDP-glucose 6-dehydrogenase
 UDPG:NAD oxidoreductase	1.1.1.22	UDP-glucose 6-dehydrogenase
@@ -1757,16 +1773,29 @@ gene name	1.1.1.243	carveol dehydrogenase
 A0R518 homolog	1.1.1.243	carveol dehydrogenase
 dehydrogenase, methanol	1.1.1.244	methanol dehydrogenase
 MEDH	1.1.1.244	methanol dehydrogenase
+BsMdh	1.1.1.244	methanol dehydrogenase
+NAD-dependent MDH	1.1.1.244	methanol dehydrogenase
 MDH	1.1.1.244	methanol dehydrogenase
+XoxF	1.1.1.244	methanol dehydrogenase
+gene name	1.1.1.244	methanol dehydrogenase
+gene name	1.1.1.244	methanol dehydrogenase
+gene name	1.1.1.244	methanol dehydrogenase
+NAD-dependent methanol dehydrogenase	1.1.1.244	methanol dehydrogenase
+ADH	1.1.1.244	methanol dehydrogenase
+Mdh3	1.1.1.244	methanol dehydrogenase
+activator-independent methanol dehydrogenase	1.1.1.244	methanol dehydrogenase
+group III NAD-dependent alcohol dehydrogenase	1.1.1.244	methanol dehydrogenase
+gene name	1.1.1.244	methanol dehydrogenase
+Mdh1	1.1.1.244	methanol dehydrogenase
 related	1.1.1.244	methanol dehydrogenase
 NAD+ dependent methanol dehydrogenase	1.1.1.244	methanol dehydrogenase
 not identical with methanol dehydrogenase which usespyrroloquinoline quinone as prosthetic group, EC 1.1.99.8	1.1.1.244	methanol dehydrogenase
 mxaF	1.1.1.244	methanol dehydrogenase
-XoxF	1.1.1.244	methanol dehydrogenase
 dehydrogenase, cyclohexanol	1.1.1.245	cyclohexanol dehydrogenase
 isoenzyme	1.1.1.245	cyclohexanol dehydrogenase
 SSADH	1.1.1.245	cyclohexanol dehydrogenase
 alcohol dehydrogenase	1.1.1.245	cyclohexanol dehydrogenase
+CHXON	1.1.1.245	cyclohexanol dehydrogenase
 reductase, codeinone (reduced nicotinamide adenine dinucleotidephosphate)	1.1.1.247	codeinone reductase (NADPH)
 codeine oxidase	1.1.1.247	codeinone reductase (NADPH)
 codeine:NADP oxidoreductase	1.1.1.247	codeinone reductase (NADPH)
@@ -1780,6 +1809,7 @@ reductase, salutaridine 7-	1.1.1.248	salutaridine reductase (NADPH)
 salutaridine 7-reductase	1.1.1.248	salutaridine reductase (NADPH)
 salutaridine reductase	1.1.1.248	salutaridine reductase (NADPH)
 SalR	1.1.1.248	salutaridine reductase (NADPH)
+PsSAR	1.1.1.248	salutaridine reductase (NADPH)
 the enzyme belongs to the family of short-chaindehydrogenases/reductase	1.1.1.248	salutaridine reductase (NADPH)
 dehydroshikimic reductase	1.1.1.25	shikimate dehydrogenase
 shikimate oxidoreductase	1.1.1.25	shikimate dehydrogenase
@@ -2075,6 +2105,9 @@ L-sulfolactate dehydrogenase	1.1.1.272	D-2-hydroxyacid dehydrogenase (NADP+)
 D-2-hydroxyacid dehydrogenase	1.1.1.272	D-2-hydroxyacid dehydrogenase (NADP+)
 2-D-hydroxyacid dehydrogenase	1.1.1.272	D-2-hydroxyacid dehydrogenase (NADP+)
 D2-HDH	1.1.1.272	D-2-hydroxyacid dehydrogenase (NADP+)
+HDH	1.1.1.272	D-2-hydroxyacid dehydrogenase (NADP+)
+L-2-hydroxyacid dehydrogenase	1.1.1.272	D-2-hydroxyacid dehydrogenase (NADP+)
+2-HDH	1.1.1.272	D-2-hydroxyacid dehydrogenase (NADP+)
 YqhE reductase	1.1.1.274	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming)
 2,5-diketo-D-gluconate reductase	1.1.1.274	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming)
 2,5-DKG	1.1.1.274	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming)
@@ -2086,6 +2119,8 @@ YafB	1.1.1.274	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming)
 2,5-diketo-D-gluconic acid reductase	1.1.1.274	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming)
 2,5-DKG reductase	1.1.1.274	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming)
 Dkr	1.1.1.274	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming)
+2,5DKGR	1.1.1.274	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming)
+gene name	1.1.1.274	2,5-didehydrogluconate reductase (2-dehydro-D-gluconate-forming)
 carveol dehydrogenase	1.1.1.275	(+)-trans-carveol dehydrogenase
 gene name	1.1.1.275	(+)-trans-carveol dehydrogenase
 gene name	1.1.1.275	(+)-trans-carveol dehydrogenase
@@ -2174,8 +2209,10 @@ YOL151w gene product	1.1.1.283	methylglyoxal reductase (NADPH)
 methylglyoxal reductase (NADPH dependent)	1.1.1.283	methylglyoxal reductase (NADPH)
 Gre2	1.1.1.283	methylglyoxal reductase (NADPH)
 YOL151W	1.1.1.283	methylglyoxal reductase (NADPH)
-NADPH-dependent methylglyoxal reductase	1.1.1.283	methylglyoxal reductase (NADPH)
+methylglyoxal/isovaleraldehyde reductase	1.1.1.283	methylglyoxal reductase (NADPH)
+GRE2/YOL151W	1.1.1.283	methylglyoxal reductase (NADPH)
 MeGR	1.1.1.283	methylglyoxal reductase (NADPH)
+NADPH-dependent methylglyoxal reductase	1.1.1.283	methylglyoxal reductase (NADPH)
 aldo-keto reductase	1.1.1.283	methylglyoxal reductase (NADPH)
 AKR	1.1.1.283	methylglyoxal reductase (NADPH)
 SakR1	1.1.1.283	methylglyoxal reductase (NADPH)
@@ -2205,6 +2242,7 @@ AdhC	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
 NADH-GSNO oxidoreductase	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
 GSH-FDH	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
 GFD	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
+formerly named Ac-GFD	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
 HMGSH dehydrogenase	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
 SFA1	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
 gene name	1.1.1.284	S-(hydroxymethyl)glutathione dehydrogenase
@@ -2487,9 +2525,6 @@ NADPH-dependent sulfoacetaldehyde reductase	1.1.1.313	sulfoacetaldehyde reductas
 isoform, this enzyme represents the major portion of theIsfD activity described for taurine-grown cells	1.1.1.313	sulfoacetaldehyde reductase
 isoform, this enzyme is responsible for the low activityobserved in extracts of ammonium-grown cells	1.1.1.313	sulfoacetaldehyde reductase
 isethionate formation, reductase D	1.1.1.313	sulfoacetaldehyde reductase
-NADP+-dependent sesquiterpenoid dehydrogenase	1.1.1.314	germacrene A alcohol dehydrogenase
-GAO	1.1.1.314	germacrene A alcohol dehydrogenase
-germacrene A oxidase	1.1.1.314	germacrene A alcohol dehydrogenase
 RDH5	1.1.1.315	11-cis-retinol dehydrogenase
 11-cis-Ro-DH	1.1.1.315	11-cis-retinol dehydrogenase
 11-cis-retinol dehydrogenase	1.1.1.315	11-cis-retinol dehydrogenase
@@ -2565,7 +2600,15 @@ KCR3	1.1.1.330	very-long-chain 3-oxoacyl-CoA reductase
 KCR2	1.1.1.330	very-long-chain 3-oxoacyl-CoA reductase
 gene name	1.1.1.330	very-long-chain 3-oxoacyl-CoA reductase
 gene name	1.1.1.330	very-long-chain 3-oxoacyl-CoA reductase
+SirD	1.1.1.331	secoisolariciresinol dehydrogenase
+gene name	1.1.1.331	secoisolariciresinol dehydrogenase
+matairesinol biosynthetic enzyme	1.1.1.331	secoisolariciresinol dehydrogenase
 SDH	1.1.1.331	secoisolariciresinol dehydrogenase
+gene name	1.1.1.331	secoisolariciresinol dehydrogenase
+secoisolariciresinol dehydrogenase	1.1.1.331	secoisolariciresinol dehydrogenase
+PpSD	1.1.1.331	secoisolariciresinol dehydrogenase
+gene name	1.1.1.331	secoisolariciresinol dehydrogenase
+PhSDH	1.1.1.331	secoisolariciresinol dehydrogenase
 easD	1.1.1.332	chanoclavine-I dehydrogenase
 fgaDH	1.1.1.332	chanoclavine-I dehydrogenase
 gene name	1.1.1.332	chanoclavine-I dehydrogenase
@@ -2576,13 +2619,16 @@ gene name	1.1.1.333	decaprenylphospho-beta-D-erythro-pentofuranosid-2-ulose 2-re
 gene name	1.1.1.333	decaprenylphospho-beta-D-erythro-pentofuranosid-2-ulose 2-reductase
 MecgoR	1.1.1.334	methylecgonone reductase
 WlbA	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase
-WbpB	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase
 WblA	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase
+gene name	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase
+gene name	1.1.1.335	UDP-N-acetyl-2-amino-2-deoxyglucuronate dehydrogenase
 UDP-ManNAc 6-dehydrogenase	1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase
+gene name	1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase
+gene name	1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase
 UDP-D-ManNAcDH	1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase
+gene name	1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase
 WbpA	1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase
 MMP0706	1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase
-gene name	1.1.1.336	UDP-N-acetyl-D-mannosamine dehydrogenase
 L-sulfolactate dehydrogenase	1.1.1.337	L-2-hydroxycarboxylate dehydrogenase (NAD+)
 (R)-sulfolactate dehydrogenase	1.1.1.337	L-2-hydroxycarboxylate dehydrogenase (NAD+)
 ComC	1.1.1.337	L-2-hydroxycarboxylate dehydrogenase (NAD+)
@@ -2673,6 +2719,8 @@ TAL	1.1.1.344	dTDP-6-deoxy-L-talose 4-dehydrogenase [NAD(P)+]
 D-lactate dehydrogenase	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 D-isomer-specific 2-hydroxyacid dehydrogenase	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 D-lactate:NAD+ oxidoreductase	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
+D-isomer specific 2-hydroxyacid dehydrogenase	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
+gene name	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 D-isomer specific NAD+-dependent 2-hydroxyacid dehydrogenase	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 D-2-HADH	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 D-2-hydroxyacid dehydrogenase	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
@@ -2682,8 +2730,8 @@ the strain contains at least two distinct forms ofD-ManDH, the two apparent D-ma
 the strain contains at least two distinct forms ofD-ManDH, the two apparent D-mandelate dehydrogenases are named D-ManDH1and D-ManDH2 according to the order of their elution	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 misleading	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 R-HicDH	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
-D2-HDH	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 NAD-dependent D-2-hydroxyacid dehydrogenase	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
+D2-HDH	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 HdhD	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 ManDH2	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
 D-2-hydroxyisocaproate dehydrogenase	1.1.1.345	D-2-hydroxyacid dehydrogenase (NAD+)
@@ -2694,22 +2742,27 @@ dkgB	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 2,5-DKG reductase	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 2,5-diketo-D-gluconate reductase	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 gene name	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
-2,5-diketo-D-gluconic acid reductase	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 isoform	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 isoform	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 isoform	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 isoform	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 AKR5C	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
+2,5-diketo-D-gluconic acid reductase	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 isoform	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
+gene name	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 2KR	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 25DKG reductase	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 isoform	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 25DKGR-A	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
+2,5DKGR	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
+gene name	1.1.1.346	2,5-didehydrogluconate reductase (2-dehydro-L-gulonate-forming)
 GeDH	1.1.1.347	geraniol dehydrogenase (NAD+)
 gene name	1.1.1.347	geraniol dehydrogenase (NAD+)
 geraniol DH	1.1.1.347	geraniol dehydrogenase (NAD+)
-pterocarpan synthase	1.1.1.348	vestitone reductase
-pterocarpin synthase	1.1.1.348	vestitone reductase
+pterocarpan synthase	1.1.1.348	(3R)-2'-hydroxyisoflavanone reductase
+pterocarpin synthase	1.1.1.348	(3R)-2'-hydroxyisoflavanone reductase
+vestitone reductase	1.1.1.348	(3R)-2'-hydroxyisoflavanone reductase
+(3R,4R)-4'-methoxyisoflavan-2',4,7-triol:NADP+ 4-oxidoreductase	1.1.1.348	(3R)-2'-hydroxyisoflavanone reductase
 aflD	1.1.1.349	norsolorinic acid ketoreductase
 nor-1	1.1.1.349	norsolorinic acid ketoreductase
 nor-1 protein	1.1.1.349	norsolorinic acid ketoreductase
@@ -2817,13 +2870,16 @@ isoform	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 gene name	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 3alpha-hydroxysteroid dehydrogenase	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 isoform	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
-3alpha-HSD3	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 3alpha-hydroxysteroid dehydrogenase type III	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 3alpha-HSD type III	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 3alpha-hydroxysteroid dehydrogenase type 3	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
+3alpha-HSD3	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 type II	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
+AKR1C1	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
+3-alpha hydroxysteroid dehydrogenase type 3	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 3alpha-hydroxysteroid dehydrogenase/carbonyl reductase	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 3alpha-HSD/CR	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
+gene name	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 HSD 28	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 cf. EC 1.1.1.239	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
 AKR1C3	1.1.1.357	3alpha-hydroxysteroid 3-dehydrogenase
@@ -2885,29 +2941,36 @@ ntdC	1.1.1.361	glucose-6-phosphate 3-dehydrogenase
 yhjJ	1.1.1.361	glucose-6-phosphate 3-dehydrogenase
 DauE	1.1.1.362	aklaviketone reductase
 G6PDH-1	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
-gene name	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
 glucose-6-phosphate dehydrogenase	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
+gene name	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
 G6PDH	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
 Glu-6-PDH	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
 G6-PDH	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
 G6PD	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
 NADP+- and NAD+-dependent G6PDH	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
 Glc6PD	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
+PputG6PDH-1	1.1.1.363	glucose-6-phosphate dehydrogenase [NAD(P)+]
 GerKI	1.1.1.364	dTDP-4-dehydro-6-deoxy-alpha-D-gulose 4-ketoreductase
 D-galacturonic acid reductase	1.1.1.365	D-galacturonate reductase
-gene name	1.1.1.365	D-galacturonate reductase
 NADPH-dependent D-galacturonate reductase	1.1.1.365	D-galacturonate reductase
 gene name	1.1.1.365	D-galacturonate reductase
-GalUR	1.1.1.365	D-galacturonate reductase
+gene name	1.1.1.365	D-galacturonate reductase
+gene name	1.1.1.365	D-galacturonate reductase
 gene name	1.1.1.365	D-galacturonate reductase
 isoform	1.1.1.365	D-galacturonate reductase
+gene name	1.1.1.365	D-galacturonate reductase
+D-galacturonate reductase	1.1.1.365	D-galacturonate reductase
+galacturonate reductase	1.1.1.365	D-galacturonate reductase
+Cd-GAR	1.1.1.365	D-galacturonate reductase
 L-IdnDH	1.1.1.366	L-idonate 5-dehydrogenase (NAD+)
 L-idonate dehydrogenase	1.1.1.366	L-idonate 5-dehydrogenase (NAD+)
+LidnDH	1.1.1.366	L-idonate 5-dehydrogenase (NAD+)
 O11 O-antigen biosynthesis associated epimerase	1.1.1.367	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
 WbjC	1.1.1.367	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
 CapF	1.1.1.367	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
 capsular polysaccharide synthesis enzyme	1.1.1.367	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
 Cap5F	1.1.1.367	UDP-2-acetamido-2,6-beta-L-arabino-hexul-4-ose reductase
+ThaADH	1.1.1.368	6-hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase
 HAD	1.1.1.368	6-hydroxycyclohex-1-ene-1-carbonyl-CoA dehydrogenase
 IDH	1.1.1.369	D-chiro-inositol 1-dehydrogenase
 iolG	1.1.1.369	D-chiro-inositol 1-dehydrogenase
@@ -2989,8 +3052,11 @@ L-MDH	1.1.1.37	malate dehydrogenase
 L-malate-NAD oxidoreductase	1.1.1.37	malate dehydrogenase
 IolX	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD+)
 formeryl, gene name	1.1.1.370	scyllo-inositol 2-dehydrogenase (NAD+)
-IolW	1.1.1.371	scyllo-inositol 2-dehydrogenase (NADP+)
+gene name	1.1.1.371	scyllo-inositol 2-dehydrogenase (NADP+)
 formerly, gene name	1.1.1.371	scyllo-inositol 2-dehydrogenase (NADP+)
+NADP+-dependent SI dehydrogenase	1.1.1.371	scyllo-inositol 2-dehydrogenase (NADP+)
+gene name	1.1.1.371	scyllo-inositol 2-dehydrogenase (NADP+)
+gene name	1.1.1.371	scyllo-inositol 2-dehydrogenase (NADP+)
 gene name	1.1.1.372	D/L-glyceraldehyde reductase
 L-glyceraldehyde reductase	1.1.1.372	D/L-glyceraldehyde reductase
 gene name	1.1.1.372	D/L-glyceraldehyde reductase
@@ -3038,6 +3104,7 @@ mitochondrial NAD-malic enzyme	1.1.1.38	malate dehydrogenase (oxaloacetate-decar
 MHD	1.1.1.38	malate dehydrogenase (oxaloacetate-decarboxylating)
 L-gulonate oxidoreductase	1.1.1.380	L-gulonate 5-dehydrogenase
 HeGulDH	1.1.1.380	L-gulonate 5-dehydrogenase
+gene name	1.1.1.380	L-gulonate 5-dehydrogenase
 ydfG	1.1.1.381	3-hydroxy acid dehydrogenase
 gene name	1.1.1.381	3-hydroxy acid dehydrogenase
 ilvC	1.1.1.382	ketol-acid reductoisomerase (NAD+)
@@ -3098,6 +3165,9 @@ gene name	1.1.1.39	malate dehydrogenase (decarboxylating)
 NAD-dependent malic enzyme	1.1.1.39	malate dehydrogenase (decarboxylating)
 NAD-MEH	1.1.1.39	malate dehydrogenase (decarboxylating)
 SQ dehydrogenase	1.1.1.390	sulfoquinovose 1-dehydrogenase
+SQD	1.1.1.390	sulfoquinovose 1-dehydrogenase
+gene name	1.1.1.390	sulfoquinovose 1-dehydrogenase
+SQ-dehydrogenase	1.1.1.390	sulfoquinovose 1-dehydrogenase
 3beta-hydroxysteroid dehydrogenase	1.1.1.391	3beta-hydroxycholanate 3-dehydrogenase (NAD+)
 bile acid 3beta-HSD	1.1.1.391	3beta-hydroxycholanate 3-dehydrogenase (NAD+)
 iso bile acid dehydrogenase	1.1.1.391	3beta-hydroxycholanate 3-dehydrogenase (NAD+)
@@ -3242,8 +3312,8 @@ D-erythro-tetritol 1-phosphate:NAD 2-oxidoreductase	1.1.1.402	D-erythritol 1-pho
 erythritol phosphate dehydrogenase	1.1.1.402	D-erythritol 1-phosphate dehydrogenase
 gene name	1.1.1.403	D-threitol dehydrogenase (NAD+)
 D-threitol dehydrogenase	1.1.1.403	D-threitol dehydrogenase (NAD+)
-PcpD	1.1.1.404	tetrachlorobenzoquinone reductase
 TCBQ reductase	1.1.1.404	tetrachlorobenzoquinone reductase
+PcpD	1.1.1.404	tetrachlorobenzoquinone reductase
 2,3,5,6-tetrachlorobenzoquinone reductase	1.1.1.404	tetrachlorobenzoquinone reductase
 ribulose-5-phosphate reductase	1.1.1.405	ribitol-5-phosphate 2-dehydrogenase (NADP+)
 ribulose-5-P reductase	1.1.1.405	ribitol-5-phosphate 2-dehydrogenase (NADP+)
@@ -3333,8 +3403,12 @@ IDH2	1.1.1.41	isocitrate dehydrogenase (NAD+)
 NAD+-specific IDH	1.1.1.41	isocitrate dehydrogenase (NAD+)
 denD	1.1.1.410	D-erythronate 2-dehydrogenase
 D-erythronate 2-dehydrogenase	1.1.1.410	D-erythronate 2-dehydrogenase
-ltnD	1.1.1.411	L-threonate:NAD+ 2-oxidoreductase
-L-threonate dehydrogenase	1.1.1.411	L-threonate:NAD+ 2-oxidoreductase
+ltnD	1.1.1.411	L-threonate 2-dehydrogenase
+L-threonate dehydrogenase	1.1.1.411	L-threonate 2-dehydrogenase
+oleD	1.1.1.412	2-alkyl-3-oxoalkanoate reductase
+2-alkyl-3-ketoalkanoic acid reductase	1.1.1.412	2-alkyl-3-oxoalkanoate reductase
+gene name	1.1.1.413	A-factor type gamma-butyrolactone 1'-reductase (1S-forming)
+Virginiae butanolide-specific dehydrogenase	1.1.1.413	A-factor type gamma-butyrolactone 1'-reductase (1S-forming)
 oxalosuccinate decarboxylase	1.1.1.42	isocitrate dehydrogenase (NADP+)
 oxalsuccinic decarboxylase	1.1.1.42	isocitrate dehydrogenase (NADP+)
 isocitrate dehydrogenase (NADP)	1.1.1.42	isocitrate dehydrogenase (NADP+)
@@ -3454,9 +3528,10 @@ YpjI	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)
 6PGDH/Gnd1	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)
 LlPDH	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)
 6-Pgd	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)
-6PGDH	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)
+gene name	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)
 p6PGDH	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)
 peroxisomal 6-phosphogluconate dehydrogenase	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)
+gene name	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)
 gnd	1.1.1.44	phosphogluconate dehydrogenase (NADP+-dependent, decarboxylating)
 L-3-aldonate dehydrogenase	1.1.1.45	L-gulonate 3-dehydrogenase
 L-3-aldonic dehydrogenase	1.1.1.45	L-gulonate 3-dehydrogenase
@@ -3898,17 +3973,6 @@ polyol dehydrogenase	1.1.1.67	mannitol 2-dehydrogenase
 mannitol dehydrogenase	1.1.1.67	mannitol 2-dehydrogenase
 mt-dh	1.1.1.67	mannitol 2-dehydrogenase
 TM0298	1.1.1.67	mannitol 2-dehydrogenase
-isoform	1.1.1.67	mannitol 2-dehydrogenase
-mannitol transporter	1.1.1.67	mannitol 2-dehydrogenase
-isoform	1.1.1.67	mannitol 2-dehydrogenase
-isoform	1.1.1.67	mannitol 2-dehydrogenase
-isoform	1.1.1.67	mannitol 2-dehydrogenase
-mannitol dehydrogenase 2	1.1.1.67	mannitol 2-dehydrogenase
-gene name	1.1.1.67	mannitol 2-dehydrogenase
-gene name, formerly YNR073C	1.1.1.67	mannitol 2-dehydrogenase
-mannitol dehydrogenase 1	1.1.1.67	mannitol 2-dehydrogenase
-gene name, formerly DSF1	1.1.1.67	mannitol 2-dehydrogenase
-gene name	1.1.1.67	mannitol 2-dehydrogenase
 D-mannitol dehydrogenase	1.1.1.67	mannitol 2-dehydrogenase
 PsM2DH	1.1.1.67	mannitol 2-dehydrogenase
 pfMDH	1.1.1.67	mannitol 2-dehydrogenase
@@ -4233,15 +4297,18 @@ xylitol-2-dehydrogenase	1.1.1.9	D-xylulose reductase
 gene name	1.1.1.9	D-xylulose reductase
 XL2	1.1.1.9	D-xylulose reductase
 PsXDH	1.1.1.9	D-xylulose reductase
+NADþ-dependent XDH	1.1.1.9	D-xylulose reductase
 gene name	1.1.1.9	D-xylulose reductase
 xylitol dehydrogenase	1.1.1.9	D-xylulose reductase
-XDH	1.1.1.9	D-xylulose reductase
+gene name	1.1.1.9	D-xylulose reductase
 NAD-dependent xylitol dehydrogenase	1.1.1.9	D-xylulose reductase
 XDH-Y25	1.1.1.9	D-xylulose reductase
 GmXDH	1.1.1.9	D-xylulose reductase
 D-xylulose reductase A	1.1.1.9	D-xylulose reductase
-slSDH	1.1.1.9	D-xylulose reductase
 NAD+-dependent xylitol dehydrogenase	1.1.1.9	D-xylulose reductase
+slSDH	1.1.1.9	D-xylulose reductase
+NAD+-linked xylitol dehydrogenase	1.1.1.9	D-xylulose reductase
+RpXDH	1.1.1.9	D-xylulose reductase
 dehydrogenase, aryl alcohol	1.1.1.90	aryl-alcohol dehydrogenase
 p-hydroxybenzyl alcohol dehydrogenase	1.1.1.90	aryl-alcohol dehydrogenase
 AC-BADH	1.1.1.90	aryl-alcohol dehydrogenase
@@ -4340,12 +4407,14 @@ L-lactate ferricytochrome C oxidoreductase	1.1.2.3	L-lactate dehydrogenase (cyto
 cytochrome c oxido reductase	1.1.2.3	L-lactate dehydrogenase (cytochrome)
 L-lactate: cytochrome c oxidoreductase	1.1.2.3	L-lactate dehydrogenase (cytochrome)
 Cyb2	1.1.2.3	L-lactate dehydrogenase (cytochrome)
-FC b2	1.1.2.3	L-lactate dehydrogenase (cytochrome)
 L-lactate:cytochrome c-oxidoreductase	1.1.2.3	L-lactate dehydrogenase (cytochrome)
+FC b2	1.1.2.3	L-lactate dehydrogenase (cytochrome)
 L-lactate cytochrome c oxidoreductase	1.1.2.3	L-lactate dehydrogenase (cytochrome)
 Fcb2	1.1.2.3	L-lactate dehydrogenase (cytochrome)
 flavocytochrome b2	1.1.2.3	L-lactate dehydrogenase (cytochrome)
 L-lactate:cytochrome c oxidoreductase	1.1.2.3	L-lactate dehydrogenase (cytochrome)
+L-lactate-cytochrome c oxidoreductase	1.1.2.3	L-lactate dehydrogenase (cytochrome)
+L-lactate-cytochrome c-oxidoreductase	1.1.2.3	L-lactate dehydrogenase (cytochrome)
 NAD+ - independent LDH	1.1.2.3	L-lactate dehydrogenase (cytochrome)
 iLDH	1.1.2.3	L-lactate dehydrogenase (cytochrome)
 L-LDH (FMN-dependent)	1.1.2.3	L-lactate dehydrogenase (cytochrome)
@@ -4355,14 +4424,22 @@ lactic acid dehydrogenase	1.1.2.4	D-lactate dehydrogenase (cytochrome)
 cytochrome-dependent D-(-)-lactate dehydrogenase	1.1.2.4	D-lactate dehydrogenase (cytochrome)
 D-lactate-cytochrome c reductase	1.1.2.4	D-lactate dehydrogenase (cytochrome)
 D(-)-lactic cytochrome c reductase	1.1.2.4	D-lactate dehydrogenase (cytochrome)
-D-lactate ferricytochrome c oxidoreductase	1.1.2.4	D-lactate dehydrogenase (cytochrome)
 D-LCR	1.1.2.4	D-lactate dehydrogenase (cytochrome)
 D-lactate cytochrome c oxidoreductase	1.1.2.4	D-lactate dehydrogenase (cytochrome)
+DLDH	1.1.2.4	D-lactate dehydrogenase (cytochrome)
+L-lactate-cytochrome c oxidoreductase	1.1.2.4	D-lactate dehydrogenase (cytochrome)
+D-lactate: cytochrome c oxidoreductase	1.1.2.4	D-lactate dehydrogenase (cytochrome)
+D-lactate dehydrogenase (cytochrome)	1.1.2.4	D-lactate dehydrogenase (cytochrome)
+gene name	1.1.2.4	D-lactate dehydrogenase (cytochrome)
 iLDH	1.1.2.4	D-lactate dehydrogenase (cytochrome)
 NAD+-independent LDH	1.1.2.4	D-lactate dehydrogenase (cytochrome)
 D-iLDH	1.1.2.4	D-lactate dehydrogenase (cytochrome)
+D-lactate ferricytochrome c oxidoreductase	1.1.2.4	D-lactate dehydrogenase (cytochrome)
+D-lactate dehydrogenase [cytochrome], mitochondrial	1.1.2.4	D-lactate dehydrogenase (cytochrome)
+AtD-LDH	1.1.2.4	D-lactate dehydrogenase (cytochrome)
+glycolate deshydrogenase	1.1.2.4	D-lactate dehydrogenase (cytochrome)
+gene name	1.1.2.4	D-lactate dehydrogenase (cytochrome)
 D-LDH	1.1.2.4	D-lactate dehydrogenase (cytochrome)
-DLD	1.1.2.4	D-lactate dehydrogenase (cytochrome)
 D-lactate:ferricytochrome C-553 oxidoreductase	1.1.2.5	D-lactate dehydrogenase (cytochrome c-553)
 dehydrogenase, polyvinyl alcohol	1.1.2.6	polyvinyl alcohol dehydrogenase (cytochrome)
 pyrroloquinoline quinone-dependent polyvinyl alcohol dehydrogenase	1.1.2.6	polyvinyl alcohol dehydrogenase (cytochrome)
@@ -4391,14 +4468,24 @@ Hd-MDH	1.1.2.7	methanol dehydrogenase (cytochrome c)
 Mdh2 is a type I alcohol dehydrogenase	1.1.2.7	methanol dehydrogenase (cytochrome c)
 pyrroloquinoline quinone-dependent quinoprotein methanoldehydrogenase	1.1.2.7	methanol dehydrogenase (cytochrome c)
 EDH	1.1.2.8	alcohol dehydrogenase (cytochrome c)
-quinoprotein alcohol dehydrogenase	1.1.2.8	alcohol dehydrogenase (cytochrome c)
-PQQ-ADH	1.1.2.8	alcohol dehydrogenase (cytochrome c)
-PQQ-alcohol dehydrogenase	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+PedE	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+gene name	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+ethanol dehydrogenase	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+PQQ-dependent alcohol dehydrogenases	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+PedH	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+gene name	1.1.2.8	alcohol dehydrogenase (cytochrome c)
 quinoprotein alcohol dehydrogenases	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+quinoprotein alcohol dehydrogenase	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+pyrroloquinoline quinone-dependent quinoprotein alcoholdehydrogenase	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+PpADH	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+PQQ-ADH	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+PQQ-dependent type I alcohol dehydrogenase	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+pyrroloquinoline quinone ethanol dehydrogenase	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+gene name	1.1.2.8	alcohol dehydrogenase (cytochrome c)
+PQQ-alcohol dehydrogenase	1.1.2.8	alcohol dehydrogenase (cytochrome c)
 BDH	1.1.2.9	1-butanol dehydrogenase (cytochrome c)
 1-butanol dehydrogenase	1.1.2.9	1-butanol dehydrogenase (cytochrome c)
 carbohydrate oxidase	1.1.3.10	pyranose oxidase
-PROD	1.1.3.10	pyranose oxidase
 pyranose/oxygen 2-oxidoreductase	1.1.3.10	pyranose oxidase
 POX	1.1.3.10	pyranose oxidase
 glucose 2-oxidase	1.1.3.10	pyranose oxidase
@@ -4406,13 +4493,14 @@ pyranose 2-Oxidase	1.1.3.10	pyranose oxidase
 pyranose oxidase	1.1.3.10	pyranose oxidase
 TmP2Ox	1.1.3.10	pyranose oxidase
 pyranose:oxygen 2-oxidoreductase	1.1.3.10	pyranose oxidase
+PROD	1.1.3.10	pyranose oxidase
 pyranose-2-oxidase	1.1.3.10	pyranose oxidase
 pyranose:oxygen-2-oxidoreductase	1.1.3.10	pyranose oxidase
 P2O	1.1.3.10	pyranose oxidase
 PyOx	1.1.3.10	pyranose oxidase
 pyranose: oxygen 2-oxidoreductase	1.1.3.10	pyranose oxidase
 glucose-2-oxidase	1.1.3.10	pyranose oxidase
-P2Ox	1.1.3.10	pyranose oxidase
+gene name	1.1.3.10	pyranose oxidase
 C-2 specific pyranose-2-oxidase	1.1.3.10	pyranose oxidase
 oxidase, sorbose	1.1.3.11	L-sorbose oxidase
 oxidase, pyridoxol 4-	1.1.3.12	pyridoxine 4-oxidase
@@ -4480,15 +4568,26 @@ LOX	1.1.3.15	(S)-2-hydroxy-acid oxidase
 glycolate oxidase	1.1.3.15	(S)-2-hydroxy-acid oxidase
 GOX	1.1.3.15	(S)-2-hydroxy-acid oxidase
 long chain L-2-hydroxy acid oxidase 2	1.1.3.15	(S)-2-hydroxy-acid oxidase
-Hao2	1.1.3.15	(S)-2-hydroxy-acid oxidase
+gene name	1.1.3.15	(S)-2-hydroxy-acid oxidase
+long-chain L-alpha-hydroxy acid oxidase	1.1.3.15	(S)-2-hydroxy-acid oxidase
+long-chain 2-hydroxy acid oxidase	1.1.3.15	(S)-2-hydroxy-acid oxidase
 GO1	1.1.3.15	(S)-2-hydroxy-acid oxidase
+gene name	1.1.3.15	(S)-2-hydroxy-acid oxidase
+hydroxyacid oxidase 1	1.1.3.15	(S)-2-hydroxy-acid oxidase
+gene name	1.1.3.15	(S)-2-hydroxy-acid oxidase
+lHAOX1	1.1.3.15	(S)-2-hydroxy-acid oxidase
+(L)-2-HAOX	1.1.3.15	(S)-2-hydroxy-acid oxidase
+gene name	1.1.3.15	(S)-2-hydroxy-acid oxidase
+lHAOX2	1.1.3.15	(S)-2-hydroxy-acid oxidase
+gene name	1.1.3.15	(S)-2-hydroxy-acid oxidase
+GOX1	1.1.3.15	(S)-2-hydroxy-acid oxidase
 the enzyme belongs to the FMN-dependent enzyme family	1.1.3.15	(S)-2-hydroxy-acid oxidase
 L-2-hydroxy acid oxidase	1.1.3.15	(S)-2-hydroxy-acid oxidase
 long chain hydroxy acid oxidase	1.1.3.15	(S)-2-hydroxy-acid oxidase
-LCHAO	1.1.3.15	(S)-2-hydroxy-acid oxidase
 L-LAC-OX	1.1.3.15	(S)-2-hydroxy-acid oxidase
 long chain l-2-hydroxy acid oxidase	1.1.3.15	(S)-2-hydroxy-acid oxidase
 L-lactate oxidase	1.1.3.15	(S)-2-hydroxy-acid oxidase
+LCHAO	1.1.3.15	(S)-2-hydroxy-acid oxidase
 oxidase, ecdysone	1.1.3.16	ecdysone oxidase
 beta-ecdysone oxidase	1.1.3.16	ecdysone oxidase
 ecdysone oxidase	1.1.3.16	ecdysone oxidase
@@ -4510,6 +4609,8 @@ secondary alcohol oxidase	1.1.3.18	secondary-alcohol oxidase
 SAO	1.1.3.18	secondary-alcohol oxidase
 PVA oxidase	1.1.3.18	secondary-alcohol oxidase
 L-4-hydroxymandelate oxidase (decarboxylating)	1.1.3.19	4-hydroxymandelate oxidase (decarboxylating)
+LctO	1.1.3.2	L-lactate oxidase
+LOX	1.1.3.2	L-lactate oxidase
 oxidase, long-chain fatty alcohol	1.1.3.20	long-chain-alcohol oxidase
 fatty alcohol:oxygen oxidoreductase	1.1.3.20	long-chain-alcohol oxidase
 long-chain fatty acid oxidase	1.1.3.20	long-chain-alcohol oxidase
@@ -4583,6 +4684,7 @@ glucose oxyhydrase	1.1.3.4	glucose oxidase
 deoxin-1	1.1.3.4	glucose oxidase
 beta-D-glucose:oxygen 1-oxido-reductase	1.1.3.4	glucose oxidase
 GO-2	1.1.3.4	glucose oxidase
+beta-D-glucose/oxygen 1-oxidoreductase	1.1.3.4	glucose oxidase
 recombinant enzyme	1.1.3.4	glucose oxidase
 beta-D-glucose:O2-1-oxidoreductase	1.1.3.4	glucose oxidase
 beta-D-glucose oxygen-1-oxidoreductase	1.1.3.4	glucose oxidase
@@ -4591,9 +4693,11 @@ glucose-1-oxidase	1.1.3.4	glucose oxidase
 beta-D-glucose:O2 1-oxidoreductase	1.1.3.4	glucose oxidase
 beta-D-glucose:oxygen oxidoreductase	1.1.3.4	glucose oxidase
 beta-D-glucose:oxygen 1-oxidoreductase	1.1.3.4	glucose oxidase
+enzyme type X-S	1.1.3.4	glucose oxidase
 beta-D-glucose:oxygen-1-oxidoreductase	1.1.3.4	glucose oxidase
 type X	1.1.3.4	glucose oxidase
-type VII-S	1.1.3.4	glucose oxidase
+gene name	1.1.3.4	glucose oxidase
+pen-GOx	1.1.3.4	glucose oxidase
 AldO	1.1.3.4	glucose oxidase
 mannitol oxidase	1.1.3.40	D-mannitol oxidase
 D-arabitol oxidase	1.1.3.40	D-mannitol oxidase
@@ -4625,6 +4729,7 @@ hydroxymandelate oxidase	1.1.3.46	4-hydroxymandelate oxidase
 p-hydroxymandelate oxidase	1.1.3.46	4-hydroxymandelate oxidase
 locus name	1.1.3.46	4-hydroxymandelate oxidase
 gene name	1.1.3.46	4-hydroxymandelate oxidase
+AAO	1.1.3.47	5-(hydroxymethyl)furfural oxidase
 5-hydroxymethylfurfural oxidase	1.1.3.47	5-(hydroxymethyl)furfural oxidase
 HMFO	1.1.3.47	5-(hydroxymethyl)furfural oxidase
 HMF oxidase	1.1.3.47	5-(hydroxymethyl)furfural oxidase
@@ -4633,19 +4738,24 @@ HmfH	1.1.3.47	5-(hydroxymethyl)furfural oxidase
 HMF/furfural oxidoreductase	1.1.3.47	5-(hydroxymethyl)furfural oxidase
 gene name	1.1.3.48	3-deoxy-alpha-D-manno-octulosonate 8-oxidase
 ChuaMOX	1.1.3.49	(R)-mandelonitrile oxidase
-Hox	1.1.3.5	hexose oxidase
 hexose oxidase	1.1.3.5	hexose oxidase
+Hox	1.1.3.5	hexose oxidase
 oxidase, cholesterol	1.1.3.6	cholesterol oxidase
 cholesterol-O2 oxidoreductase	1.1.3.6	cholesterol oxidase
 3beta-hydroxy steroid oxidoreductase	1.1.3.6	cholesterol oxidase
 3beta-hydroxysteroid:oxygen oxidoreductase	1.1.3.6	cholesterol oxidase
-ChOx	1.1.3.6	cholesterol oxidase
+COX	1.1.3.6	cholesterol oxidase
+cholesterol oxidase	1.1.3.6	cholesterol oxidase
+CHO	1.1.3.6	cholesterol oxidase
 type I ChOx	1.1.3.6	cholesterol oxidase
+3beta-hydroxysteroid: oxygen oxidoreductase	1.1.3.6	cholesterol oxidase
 COD	1.1.3.6	cholesterol oxidase
 PimE	1.1.3.6	cholesterol oxidase
 ChoS	1.1.3.6	cholesterol oxidase
-3beta-hydroxysterol oxidase	1.1.3.6	cholesterol oxidase
+ChOx	1.1.3.6	cholesterol oxidase
 ShChOx	1.1.3.6	cholesterol oxidase
+3beta-hydroxysterol oxidase	1.1.3.6	cholesterol oxidase
+COD-B	1.1.3.6	cholesterol oxidase
 cholesterol oxidase II	1.1.3.6	cholesterol oxidase
 cholesterol oxidase I	1.1.3.6	cholesterol oxidase
 CO	1.1.3.6	cholesterol oxidase
@@ -4653,52 +4763,62 @@ BsChOx	1.1.3.6	cholesterol oxidase
 CHO-U	1.1.3.6	cholesterol oxidase
 choBb	1.1.3.6	cholesterol oxidase
 belongs to the type II cholesterol oxidases	1.1.3.6	cholesterol oxidase
-CHOD	1.1.3.6	cholesterol oxidase
 a class II cholesterol oxidase	1.1.3.6	cholesterol oxidase
 a fragment of a cholesterol oxidase	1.1.3.6	cholesterol oxidase
-CHO	1.1.3.6	cholesterol oxidase
 ChoM1	1.1.3.6	cholesterol oxidase
 ChoM2	1.1.3.6	cholesterol oxidase
+gene name	1.1.3.6	cholesterol oxidase
+CHOD	1.1.3.6	cholesterol oxidase
+CgChoA	1.1.3.6	cholesterol oxidase
+ChoA	1.1.3.6	cholesterol oxidase
+gene name	1.1.3.6	cholesterol oxidase
+gene name	1.1.3.6	cholesterol oxidase
+HCEO-forming enzyme	1.1.3.6	cholesterol oxidase
 CO1	1.1.3.6	cholesterol oxidase
-cholesterol oxidase	1.1.3.6	cholesterol oxidase
 oxidase, aryl alcohol	1.1.3.7	aryl-alcohol oxidase
 arom. alcohol oxidase	1.1.3.7	aryl-alcohol oxidase
 aryl alcohol oxidase	1.1.3.7	aryl-alcohol oxidase
 veratryl alcohol oxidase	1.1.3.7	aryl-alcohol oxidase
+arylalcohol oxidase	1.1.3.7	aryl-alcohol oxidase
 the enzyme belongs to the glucose-methanol-cholineoxidoreductases, GMC, family	1.1.3.7	aryl-alcohol oxidase
 salicyl alcohol oxidase	1.1.3.7	aryl-alcohol oxidase
 CpSAO	1.1.3.7	aryl-alcohol oxidase
+gene name	1.1.3.7	aryl-alcohol oxidase
 AAO	1.1.3.7	aryl-alcohol oxidase
 CtSAO	1.1.3.7	aryl-alcohol oxidase
+MtGloA	1.1.3.7	aryl-alcohol oxidase
 AOX	1.1.3.7	aryl-alcohol oxidase
 alcohol: O2 oxidoreductase	1.1.3.7	aryl-alcohol oxidase
 VAO	1.1.3.7	aryl-alcohol oxidase
-arylalcohol oxidase	1.1.3.7	aryl-alcohol oxidase
 L-gulono-gamma-lactone: O2 oxidoreductase	1.1.3.8	L-gulonolactone oxidase
 L-gulono-gamma-lactone:oxidoreductase	1.1.3.8	L-gulonolactone oxidase
 LGO	1.1.3.8	L-gulonolactone oxidase
 L-gulonolactone oxidase	1.1.3.8	L-gulonolactone oxidase
-GULO	1.1.3.8	L-gulonolactone oxidase
+gene name	1.1.3.8	L-gulonolactone oxidase
+L-gulono-gamma-lactone oxidase	1.1.3.8	L-gulonolactone oxidase
 L-gluconon-1,4-lactone	1.1.3.8	L-gulonolactone oxidase
 L-gulono-gamma-lactone dehydrogenase	1.1.3.8	L-gulonolactone oxidase
 gulonolactone oxidase	1.1.3.8	L-gulonolactone oxidase
 GLO	1.1.3.8	L-gulonolactone oxidase
 AtGulLO2	1.1.3.8	L-gulonolactone oxidase
-L-gulono-1,4-lactone oxidase	1.1.3.8	L-gulonolactone oxidase
 L-GulL oxidase	1.1.3.8	L-gulonolactone oxidase
 AtGulLO3	1.1.3.8	L-gulonolactone oxidase
 AtGulLO5	1.1.3.8	L-gulonolactone oxidase
-L-gulono-1,4-lactone dehydrogenase	1.1.3.8	L-gulonolactone oxidase
 GLOase	1.1.3.8	L-gulonolactone oxidase
-L-gulono-gamma-lactone oxidase	1.1.3.8	L-gulonolactone oxidase
+L-gulono-1,4-lactone oxidase	1.1.3.8	L-gulonolactone oxidase
+L-gulono-1,4-lactone dehydrogenase	1.1.3.8	L-gulonolactone oxidase
 D-galactose oxidase	1.1.3.9	galactose oxidase
 beta-galactose oxidase	1.1.3.9	galactose oxidase
-GAO	1.1.3.9	galactose oxidase
+gene name	1.1.3.9	galactose oxidase
+gene name, UniProt	1.1.3.9	galactose oxidase
+galactose 6-oxidase	1.1.3.9	galactose oxidase
+GalOx	1.1.3.9	galactose oxidase
 GAOX	1.1.3.9	galactose oxidase
 GO	1.1.3.9	galactose oxidase
 galactose oxidase	1.1.3.9	galactose oxidase
-GOase	1.1.3.9	galactose oxidase
+UniProt	1.1.3.9	galactose oxidase
 AOd	1.1.3.9	galactose oxidase
+GAO	1.1.3.9	galactose oxidase
 ambiguous	1.1.5.10	D-2-hydroxyacid dehydrogenase (quinone)
 (R)-2-hydroxy acid dehydrogenase	1.1.5.10	D-2-hydroxyacid dehydrogenase (quinone)
 (R)-2-hydroxy-acid:(acceptor) 2-oxidoreductase	1.1.5.10	D-2-hydroxyacid dehydrogenase (quinone)
@@ -4835,14 +4955,6 @@ PQQ dependent alcohol dehydrogenase	1.1.5.5	alcohol dehydrogenase (quinone)
 pyrroloquinoline quinone dependent ADH	1.1.5.5	alcohol dehydrogenase (quinone)
 PQQ-dependent ADH	1.1.5.5	alcohol dehydrogenase (quinone)
 pyrroloquinoline quinone-dependent alcohol dehydrogenase	1.1.5.5	alcohol dehydrogenase (quinone)
-Fdh-N	1.1.5.6	formate dehydrogenase-N
-formate dehydrogenase N	1.1.5.6	formate dehydrogenase-N
-formate dehydrogenase-N	1.1.5.6	formate dehydrogenase-N
-fdnGHI	1.1.5.6	formate dehydrogenase-N
-nitrate-inducible formate dehydrogenase	1.1.5.6	formate dehydrogenase-N
-Fdn-N	1.1.5.6	formate dehydrogenase-N
-nitrate inducible Fdn	1.1.5.6	formate dehydrogenase-N
-nitrate inducible formate dehydrogenase	1.1.5.6	formate dehydrogenase-N
 MCAD	1.1.5.7	cyclic alcohol dehydrogenase (quinone)
 dehydrogenase, quinate (pyrroloquinoline-quinone)	1.1.5.8	quinate dehydrogenase (quinone)
 quinate dehydrogenase	1.1.5.8	quinate dehydrogenase (quinone)
@@ -4855,6 +4967,7 @@ dehydrogenase, glucose (acceptor)	1.1.5.9	glucose 1-dehydrogenase (FAD, quinone)
 dehydrogenase, glucose (Aspergillus)	1.1.5.9	glucose 1-dehydrogenase (FAD, quinone)
 glucose dehydrogenase (decarboxylating)	1.1.5.9	glucose 1-dehydrogenase (FAD, quinone)
 GLD	1.1.5.9	glucose 1-dehydrogenase (FAD, quinone)
+FADGH	1.1.5.9	glucose 1-dehydrogenase (FAD, quinone)
 FAD-glucose dehydrogenase	1.1.5.9	glucose 1-dehydrogenase (FAD, quinone)
 FAD-dependent GDH	1.1.5.9	glucose 1-dehydrogenase (FAD, quinone)
 GDH	1.1.5.9	glucose 1-dehydrogenase (FAD, quinone)
@@ -4913,10 +5026,11 @@ choline oxidase	1.1.99.1	choline dehydrogenase
 choline-cytochrome c reductase	1.1.99.1	choline dehydrogenase
 dehydrogenase, choline	1.1.99.1	choline dehydrogenase
 choline:(acceptor) oxidoreductase	1.1.99.1	choline dehydrogenase
-CHD	1.1.99.1	choline dehydrogenase
-CHDH	1.1.99.1	choline dehydrogenase
+gene name	1.1.99.1	choline dehydrogenase
 ChoDH	1.1.99.1	choline dehydrogenase
+Cdh	1.1.99.1	choline dehydrogenase
 choline dehydrogenase	1.1.99.1	choline dehydrogenase
+CHD	1.1.99.1	choline dehydrogenase
 dehydrogenase, fructose 5- (acceptor)	1.1.99.11	fructose 5-dehydrogenase
 FDH	1.1.99.11	fructose 5-dehydrogenase
 FDH	1.1.99.11	fructose 5-dehydrogenase
@@ -4973,9 +5087,10 @@ isoform	1.1.99.18	cellobiose dehydrogenase (acceptor)
 isoform	1.1.99.18	cellobiose dehydrogenase (acceptor)
 gene name	1.1.99.18	cellobiose dehydrogenase (acceptor)
 gene name	1.1.99.18	cellobiose dehydrogenase (acceptor)
-cellobiose (acceptor) 1-oxidoreductase	1.1.99.18	cellobiose dehydrogenase (acceptor)
 cdh-1	1.1.99.18	cellobiose dehydrogenase (acceptor)
+cellobiose (acceptor) 1-oxidoreductase	1.1.99.18	cellobiose dehydrogenase (acceptor)
 cellobiose [acceptor] 1-oxidoreductase	1.1.99.18	cellobiose dehydrogenase (acceptor)
+gene name	1.1.99.18	cellobiose dehydrogenase (acceptor)
 dehydrogenase, 2-hydroxyglutarate	1.1.99.2	L-2-hydroxyglutarate dehydrogenase
 alpha-ketoglutarate reductase	1.1.99.2	L-2-hydroxyglutarate dehydrogenase
 alpha-hydroxyglutarate dehydrogenase	1.1.99.2	L-2-hydroxyglutarate dehydrogenase
@@ -5089,16 +5204,6 @@ L-MDH	1.1.99.31	(S)-mandelate dehydrogenase
 L-sorbose dehydrogenase	1.1.99.32	L-sorbose 1-dehydrogenase
 PQQ-dependent L-sorbose dehydrogenase	1.1.99.32	L-sorbose 1-dehydrogenase
 SDH	1.1.99.32	L-sorbose 1-dehydrogenase
-hydrogenase 3 (Hyd-3) together withformate dehydrogenase H (FDH-H) forms part of the formate hydrogenlyase(FHL) complex	1.1.99.33	formate dehydrogenase (acceptor)
-formate dehydrogenase component of the formate-hydrogenlyase	1.1.99.33	formate dehydrogenase (acceptor)
-FDH-O	1.1.99.33	formate dehydrogenase (acceptor)
-formate dehydrogenase O	1.1.99.33	formate dehydrogenase (acceptor)
-fdhF gene product	1.1.99.33	formate dehydrogenase (acceptor)
-hydrogenase 3 (Hyd-3) together with formatedehydrogenase H (FDH-H) forms part of the formate hydrogenlyase (FHL)complex	1.1.99.33	formate dehydrogenase (acceptor)
-formate dehydrogenase H	1.1.99.33	formate dehydrogenase (acceptor)
-methylviologen-dependent formate dehydrogenase	1.1.99.33	formate dehydrogenase (acceptor)
-formate dehydrogenase (formate-hydrogen-lyase-linked)	1.1.99.33	formate dehydrogenase (acceptor)
-benzylviologen-linked formate dehydrogenase	1.1.99.33	formate dehydrogenase (acceptor)
 GDH	1.1.99.35	soluble quinoprotein glucose dehydrogenase
 gene name	1.1.99.35	soluble quinoprotein glucose dehydrogenase
 pyrroloquinoline quinone-dependent glucose dehydrogenase	1.1.99.35	soluble quinoprotein glucose dehydrogenase
@@ -5144,6 +5249,14 @@ alpha-ketogluconate dehydrogenase	1.1.99.4	dehydrogluconate dehydrogenase
 2-keto-gluconate dehydrogenase	1.1.99.4	dehydrogluconate dehydrogenase
 DLD3	1.1.99.40	(R)-2-hydroxyglutarate-pyruvate transhydrogenase
 D-2-hydroxyglutarate-pyruvate transhydrogenase	1.1.99.40	(R)-2-hydroxyglutarate-pyruvate transhydrogenase
+BARS1	1.1.99.41	3-hydroxy-1,2-didehydro-2,3-dihydrotabersonine reductase
+tabersonine 3-reductase	1.1.99.41	3-hydroxy-1,2-didehydro-2,3-dihydrotabersonine reductase
+T3R	1.1.99.41	3-hydroxy-1,2-didehydro-2,3-dihydrotabersonine reductase
+tabersonine 3-reductas	1.1.99.41	3-hydroxy-1,2-didehydro-2,3-dihydrotabersonine reductase
+gene name	1.1.99.41	3-hydroxy-1,2-didehydro-2,3-dihydrotabersonine reductase
+gene name	1.1.99.42	4-pyridoxic acid dehydrogenase
+gene name	1.1.99.42	4-pyridoxic acid dehydrogenase
+mlr6793	1.1.99.42	4-pyridoxic acid dehydrogenase
 G-3-P dehydrogenase	1.1.99.5	glycerol-3-phosphate dehydrogenase
 dehydrogenase, D-2-hydroxy acid	1.1.99.6	D-lactate dehydrogenase (acceptor)
 D-2-hydroxy acid dehydrogenase	1.1.99.6	D-lactate dehydrogenase (acceptor)

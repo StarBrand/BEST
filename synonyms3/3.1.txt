@@ -92,6 +92,8 @@ gene name	3.1.1.1	carboxylesterase
 gene name	3.1.1.1	carboxylesterase
 VmoLac	3.1.1.1	carboxylesterase
 D1CarE5	3.1.1.1	carboxylesterase
+PF2001	3.1.1.1	carboxylesterase
+Pf2001 esterase	3.1.1.1	carboxylesterase
 Est30	3.1.1.1	carboxylesterase
 Est55	3.1.1.1	carboxylesterase
 Rsp3690	3.1.1.1	carboxylesterase
@@ -217,6 +219,10 @@ MHET hydrolase	3.1.1.102	mono(ethylene terephthalate) hydrolase
 MHETase	3.1.1.102	mono(ethylene terephthalate) hydrolase
 gene name	3.1.1.102	mono(ethylene terephthalate) hydrolase
 mono(2-hydroxyethyl) terephthalate hydrolase	3.1.1.102	mono(ethylene terephthalate) hydrolase
+gene name	3.1.1.103	teichoic acid D-alanine hydrolase
+gene name	3.1.1.103	teichoic acid D-alanine hydrolase
+gene name	3.1.1.103	teichoic acid D-alanine hydrolase
+fmtA-like protein	3.1.1.103	teichoic acid D-alanine hydrolase
 pectin demethoxylase	3.1.1.11	pectinesterase
 pectin methoxylase	3.1.1.11	pectinesterase
 pectase	3.1.1.11	pectinesterase
@@ -646,6 +652,7 @@ PNLIP	3.1.1.3	triacylglycerol lipase
 Pf2001DELTA60	3.1.1.3	triacylglycerol lipase
 lipase AK	3.1.1.3	triacylglycerol lipase
 PFL	3.1.1.3	triacylglycerol lipase
+TTL	3.1.1.3	triacylglycerol lipase
 enantiospecific lipase	3.1.1.3	triacylglycerol lipase
 lipase I	3.1.1.3	triacylglycerol lipase
 lipase II	3.1.1.3	triacylglycerol lipase
@@ -734,6 +741,7 @@ lipase G	3.1.1.3	triacylglycerol lipase
 lipase M	3.1.1.3	triacylglycerol lipase
 OPL	3.1.1.3	triacylglycerol lipase
 commercial immobilized lipase	3.1.1.3	triacylglycerol lipase
+tll	3.1.1.3	triacylglycerol lipase
 GZEL	3.1.1.3	triacylglycerol lipase
 isoform	3.1.1.3	triacylglycerol lipase
 isoform	3.1.1.3	triacylglycerol lipase
@@ -1043,7 +1051,6 @@ megacin A-216	3.1.1.4	phospholipase A2
 marine snail digestive phospholipase A2	3.1.1.4	phospholipase A2
 mSDPL	3.1.1.4	phospholipase A2
 GIIA sPLA2	3.1.1.4	phospholipase A2
-group IA PLA2	3.1.1.4	phospholipase A2
 group III sPLA2	3.1.1.4	phospholipase A2
 GIIIsPLA2	3.1.1.4	phospholipase A2
 PLA2 CM2	3.1.1.4	phospholipase A2
@@ -1103,6 +1110,8 @@ NN-XIa-PLA2	3.1.1.4	phospholipase A2
 NND-IV-PLA2	3.1.1.4	phospholipase A2
 NN-X-PLA2	3.1.1.4	phospholipase A2
 GIA cobra venom PLA2	3.1.1.4	phospholipase A2
+group IA PLA2	3.1.1.4	phospholipase A2
+PLA1	3.1.1.4	phospholipase A2
 LM-PLA2-I	3.1.1.4	phospholipase A2
 LM-PLA2-II	3.1.1.4	phospholipase A2
 AgkTx-II	3.1.1.4	phospholipase A2
@@ -1121,7 +1130,6 @@ DsM-bI	3.1.1.4	phospholipase A2
 DsM-S1	3.1.1.4	phospholipase A2
 intercro	3.1.1.4	phospholipase A2
 crotoxin	3.1.1.4	phospholipase A2
-Ca+2-independent PLA2	3.1.1.4	phospholipase A2
 GX sPLA2	3.1.1.4	phospholipase A2
 lipoprotein associated phospholipase A2	3.1.1.4	phospholipase A2
 cytoplasmic phospholipase A2	3.1.1.4	phospholipase A2
@@ -1157,6 +1165,7 @@ Ca2+-independent iPLA2	3.1.1.4	phospholipase A2
 cPLA2	3.1.1.4	phospholipase A2
 isoform	3.1.1.4	phospholipase A2
 cytosolic phospholipase A2	3.1.1.4	phospholipase A2
+Ca+2-independent PLA2	3.1.1.4	phospholipase A2
 secretory phospholipase A2 type IIA	3.1.1.4	phospholipase A2
 A2-IIA	3.1.1.4	phospholipase A2
 Bothropstoxin-I	3.1.1.4	phospholipase A2
@@ -1316,6 +1325,8 @@ chlorogenase	3.1.1.42	chlorogenate hydrolase
 hydrolase, chlorogenate	3.1.1.42	chlorogenate hydrolase
 chlorogenic acid esterase	3.1.1.42	chlorogenate hydrolase
 Cinnamoyl esterase	3.1.1.42	chlorogenate hydrolase
+gene name	3.1.1.42	chlorogenate hydrolase
+FAE3	3.1.1.42	chlorogenate hydrolase
 CHase	3.1.1.42	chlorogenate hydrolase
 chlorogenate hydrolase	3.1.1.42	chlorogenate hydrolase
 chlorogenic acid hydrolase	3.1.1.42	chlorogenate hydrolase
@@ -1769,14 +1780,7 @@ AXE	3.1.1.72	acetylxylan esterase
 Axe6A	3.1.1.72	acetylxylan esterase
 Axe6B	3.1.1.72	acetylxylan esterase
 CE5 AcXE	3.1.1.72	acetylxylan esterase
-enzyme belongs tocarbohydrate esterase family 1	3.1.1.72	acetylxylan esterase
-AcXE	3.1.1.72	acetylxylan esterase
 acetylxylan esterase	3.1.1.72	acetylxylan esterase
-acetyl xylan esterase I	3.1.1.72	acetylxylan esterase
-acetyl xylan esterase II	3.1.1.72	acetylxylan esterase
-AXE II	3.1.1.72	acetylxylan esterase
-AXE I	3.1.1.72	acetylxylan esterase
-AXEII	3.1.1.72	acetylxylan esterase
 acetylxylan esterase A	3.1.1.72	acetylxylan esterase
 acetyl xylan esterase A	3.1.1.72	acetylxylan esterase
 AxeA	3.1.1.72	acetylxylan esterase
@@ -1804,6 +1808,13 @@ AXE/CAH	3.1.1.72	acetylxylan esterase
 acetyl xylan esterase/cephalosporin acetyl hydrolase	3.1.1.72	acetylxylan esterase
 acetyl xylan esterase 2	3.1.1.72	acetylxylan esterase
 PcAxe2	3.1.1.72	acetylxylan esterase
+acetyl xylan esterase I	3.1.1.72	acetylxylan esterase
+enzyme belongs to carbohydrateesterase family 1	3.1.1.72	acetylxylan esterase
+AcXE	3.1.1.72	acetylxylan esterase
+acetyl xylan esterase II	3.1.1.72	acetylxylan esterase
+AXE II	3.1.1.72	acetylxylan esterase
+AXE I	3.1.1.72	acetylxylan esterase
+AXEII	3.1.1.72	acetylxylan esterase
 Est2A	3.1.1.72	acetylxylan esterase
 acetyl xylo-oligosaccharide esterase	3.1.1.72	acetylxylan esterase
 CA esterase	3.1.1.72	acetylxylan esterase
@@ -1811,6 +1822,8 @@ feruloyl/p-coumaroyl esterase	3.1.1.73	feruloyl esterase
 phenolic acid esterase	3.1.1.73	feruloyl esterase
 hemicellulase acessory enzymes	3.1.1.73	feruloyl esterase
 Feruloylesterase	3.1.1.73	feruloyl esterase
+A.O.7	3.1.1.73	feruloyl esterase
+A.O.8	3.1.1.73	feruloyl esterase
 A.O.9	3.1.1.73	feruloyl esterase
 A.O.11	3.1.1.73	feruloyl esterase
 A.O.12	3.1.1.73	feruloyl esterase
@@ -1818,9 +1831,9 @@ A.O.13	3.1.1.73	feruloyl esterase
 FAE1	3.1.1.73	feruloyl esterase
 FAE2	3.1.1.73	feruloyl esterase
 gene name	3.1.1.73	feruloyl esterase
+4-hydroxy-3-methoxycinnamic acid esterase	3.1.1.73	feruloyl esterase
 FAE3	3.1.1.73	feruloyl esterase
 FAE4	3.1.1.73	feruloyl esterase
-4-hydroxy-3-methoxycinnamic acid esterase	3.1.1.73	feruloyl esterase
 FAE6	3.1.1.73	feruloyl esterase
 FAE7	3.1.1.73	feruloyl esterase
 PeFaeA	3.1.1.73	feruloyl esterase
@@ -1834,6 +1847,12 @@ gene name	3.1.1.73	feruloyl esterase
 FaeD2	3.1.1.73	feruloyl esterase
 gene name	3.1.1.73	feruloyl esterase
 AfFaeA	3.1.1.73	feruloyl esterase
+gene name	3.1.1.73	feruloyl esterase
+carboxylic ester hydrolase	3.1.1.73	feruloyl esterase
+gene name	3.1.1.73	feruloyl esterase
+FaeB1	3.1.1.73	feruloyl esterase
+R18	3.1.1.73	feruloyl esterase
+gene name	3.1.1.73	feruloyl esterase
 AoFaeC	3.1.1.73	feruloyl esterase
 AoFaeB	3.1.1.73	feruloyl esterase
 FAE B	3.1.1.73	feruloyl esterase
@@ -1843,6 +1862,11 @@ AtFAE-2	3.1.1.73	feruloyl esterase
 AtFAE-3	3.1.1.73	feruloyl esterase
 hydroxycinnamoyl esterase	3.1.1.73	feruloyl esterase
 BioH	3.1.1.73	feruloyl esterase
+FAE-C	3.1.1.73	feruloyl esterase
+ferulic acid esterase C	3.1.1.73	feruloyl esterase
+TsFaeA	3.1.1.73	feruloyl esterase
+TsFaeB	3.1.1.73	feruloyl esterase
+TsFaeC	3.1.1.73	feruloyl esterase
 cinnamic acid hydrolase	3.1.1.73	feruloyl esterase
 FoFAE-I	3.1.1.73	feruloyl esterase
 FoFaeA	3.1.1.73	feruloyl esterase
@@ -1882,9 +1906,9 @@ FAE-PL	3.1.1.73	feruloyl esterase
 FAE-2	3.1.1.73	feruloyl esterase
 FAEA is more active than FAEBtowards wheat arabinoxylan, whereas FAEB is more active than FAEAtowards sugar-beet pectin	3.1.1.73	feruloyl esterase
 FA esterase	3.1.1.73	feruloyl esterase
+FAEA	3.1.1.73	feruloyl esterase
 ferulic acid esterase	3.1.1.73	feruloyl esterase
 FAE-II	3.1.1.73	feruloyl esterase
-FAEA	3.1.1.73	feruloyl esterase
 FAE-I	3.1.1.73	feruloyl esterase
 XYLD esterase	3.1.1.73	feruloyl esterase
 Fae-1	3.1.1.73	feruloyl esterase
@@ -1894,11 +1918,6 @@ ferulic acid esterase A	3.1.1.73	feruloyl esterase
 EstA	3.1.1.73	feruloyl esterase
 feruloyl esterase	3.1.1.73	feruloyl esterase
 Fee1B	3.1.1.73	feruloyl esterase
-FAE-C	3.1.1.73	feruloyl esterase
-ferulic acid esterase C	3.1.1.73	feruloyl esterase
-TsFaeA	3.1.1.73	feruloyl esterase
-TsFaeB	3.1.1.73	feruloyl esterase
-TsFaeC	3.1.1.73	feruloyl esterase
 FE	3.1.1.73	feruloyl esterase
 acetyl/ferulic acid esterase	3.1.1.73	feruloyl esterase
 XYLD	3.1.1.73	feruloyl esterase
@@ -1910,13 +1929,13 @@ FAE-B	3.1.1.73	feruloyl esterase
 cinnAE	3.1.1.73	feruloyl esterase
 cinnamic acid esterase	3.1.1.73	feruloyl esterase
 type B ferulic acid esterase	3.1.1.73	feruloyl esterase
-FAEA is more active thanFAEB towards wheat arabinoxylan, whereas FAEB is more active than FAEAtowards sugar-beet pectin	3.1.1.73	feruloyl esterase
+FAEA is more activethan FAEB towards wheat arabinoxylan, whereas FAEB is more active thanFAEA towards sugar-beet pectin	3.1.1.73	feruloyl esterase
 AnFAEB	3.1.1.73	feruloyl esterase
 AwFAE	3.1.1.73	feruloyl esterase
 AwFAEA	3.1.1.73	feruloyl esterase
-Est1E	3.1.1.73	feruloyl esterase
 StFaeC	3.1.1.73	feruloyl esterase
 StFAE-A	3.1.1.73	feruloyl esterase
+Est1E	3.1.1.73	feruloyl esterase
 PfFaeB	3.1.1.73	feruloyl esterase
 esterase A	3.1.1.73	feruloyl esterase
 cinnamoyl ester hydrolase	3.1.1.73	feruloyl esterase
@@ -1927,8 +1946,8 @@ CinII	3.1.1.73	feruloyl esterase
 XynZ	3.1.1.73	feruloyl esterase
 XLYD	3.1.1.73	feruloyl esterase
 CjXYLD	3.1.1.73	feruloyl esterase
-FaeD	3.1.1.73	feruloyl esterase
 FaeT	3.1.1.73	feruloyl esterase
+FaeD	3.1.1.73	feruloyl esterase
 Est1	3.1.1.73	feruloyl esterase
 gene name	3.1.1.73	feruloyl esterase
 gene name	3.1.1.73	feruloyl esterase
@@ -1940,8 +1959,6 @@ A.O.2	3.1.1.73	feruloyl esterase
 A.O.3	3.1.1.73	feruloyl esterase
 A.O.4	3.1.1.73	feruloyl esterase
 A.O.6	3.1.1.73	feruloyl esterase
-A.O.7	3.1.1.73	feruloyl esterase
-A.O.8	3.1.1.73	feruloyl esterase
 cutin esterase	3.1.1.74	cutinase
 cutinase	3.1.1.74	cutinase
 HIc	3.1.1.74	cutinase
@@ -1953,8 +1970,8 @@ cutinase 1	3.1.1.74	cutinase
 LC-cutinase	3.1.1.74	cutinase
 the cutinase is an esterase that belongs to thealpha/beta hydrolases family	3.1.1.74	cutinase
 FspC	3.1.1.74	cutinase
-acidic cutinase	3.1.1.74	cutinase
 cutinase-1	3.1.1.74	cutinase
+acidic cutinase	3.1.1.74	cutinase
 CcCUT1	3.1.1.74	cutinase
 cutinolytic polyesterase	3.1.1.74	cutinase
 Thcut1	3.1.1.74	cutinase
@@ -2258,6 +2275,8 @@ EXO1b	3.1.11.1	exodeoxyribonuclease I
 EXO1 belongs to the RAD2 family nucleases, FEN1(Flap endonuclease 1) and EXO1 (exonuclease 1)	3.1.11.1	exodeoxyribonuclease I
 DNA polymerase I	3.1.11.1	exodeoxyribonuclease I
 Pol BI	3.1.11.1	exodeoxyribonuclease I
+polD	3.1.11.1	exodeoxyribonuclease I
+DNA polymerase D	3.1.11.1	exodeoxyribonuclease I
 single-strand-specific 3'-5' exonuclease	3.1.11.1	exodeoxyribonuclease I
 PhoExo I	3.1.11.1	exodeoxyribonuclease I
 single-strand DNA 3'-5' exonuclease	3.1.11.1	exodeoxyribonuclease I
@@ -3877,13 +3896,12 @@ HvoTrz	3.1.26.11	tRNase Z
 SpTrz1p	3.1.26.11	tRNase Z
 SpTrz2p	3.1.26.11	tRNase Z
 TRZ2	3.1.26.11	tRNase Z
+tRNase Z2	3.1.26.11	tRNase Z
 RNZ	3.1.26.11	tRNase Z
 RNase ZS1	3.1.26.11	tRNase Z
 TMS5 protein	3.1.26.11	tRNase Z
-tRNase Z2	3.1.26.11	tRNase Z
 RNase Z	3.1.26.11	tRNase Z
 TmaTrz	3.1.26.11	tRNase Z
-TM0207	3.1.26.11	tRNase Z
 YqjK	3.1.26.11	tRNase Z
 3' tRNase	3.1.26.11	tRNase Z
 ELAC2	3.1.26.11	tRNase Z
@@ -3893,6 +3911,11 @@ YqiK	3.1.26.11	tRNase Z
 BsuTrz	3.1.26.11	tRNase Z
 MjaTrz	3.1.26.11	tRNase Z
 PaeTrz	3.1.26.11	tRNase Z
+zinc phosphodiesterase	3.1.26.11	tRNase Z
+Elac	3.1.26.11	tRNase Z
+zinc-dependent phosphodiesterase	3.1.26.11	tRNase Z
+ZiPD	3.1.26.11	tRNase Z
+RNase Z homologue	3.1.26.11	tRNase Z
 Trz1p	3.1.26.11	tRNase Z
 SceTrz	3.1.26.11	tRNase Z
 CelTrz	3.1.26.11	tRNase Z
@@ -3903,11 +3926,6 @@ TrZL1	3.1.26.11	tRNase Z
 AthTrz2	3.1.26.11	tRNase Z
 TrZS2	3.1.26.11	tRNase Z
 AthTrz3	3.1.26.11	tRNase Z
-zinc phosphodiesterase	3.1.26.11	tRNase Z
-Elac	3.1.26.11	tRNase Z
-zinc-dependent phosphodiesterase	3.1.26.11	tRNase Z
-ZiPD	3.1.26.11	tRNase Z
-RNase Z homologue	3.1.26.11	tRNase Z
 (tRNase) Z	3.1.26.11	tRNase Z
 long form of tRNase Z	3.1.26.11	tRNase Z
 long form of tRNA 3' processing endoribonuclease	3.1.26.11	tRNase Z
@@ -4075,7 +4093,7 @@ RNaseP protein p20	3.1.26.5	ribonuclease P
 RNaseP protein p30	3.1.26.5	ribonuclease P
 RNaseP protein p38	3.1.26.5	ribonuclease P
 RNaseP protein p40	3.1.26.5	ribonuclease P
-consists of a catalytic RNA subunit (M1RNA) and a protein component (C5 protein)	3.1.26.5	ribonuclease P
+consists of a catalytic RNA subunit(M1 RNA) and a protein component (C5 protein)	3.1.26.5	ribonuclease P
 RNase P	3.1.26.5	ribonuclease P
 RNase P holoenzyme	3.1.26.5	ribonuclease P
 RNP	3.1.26.5	ribonuclease P
@@ -4568,8 +4586,9 @@ gene name	3.1.3.102	FMN hydrolase
 AtcpFHy1	3.1.3.102	FMN hydrolase
 bifunctional riboflavin kinase/FMN phosphatase	3.1.3.102	FMN hydrolase
 gene name, bifunctional riboflavin kinase/FMNphosphatase	3.1.3.102	FMN hydrolase
-2-keto-3-deoxy-D-glycero-D-galactonononate-9-phosphate phosphatase	3.1.3.103	3-deoxy-D-glycero-D-galacto-nononate 9-phosphatase
-gene name	3.1.3.103	3-deoxy-D-glycero-D-galacto-nononate 9-phosphatase
+2-keto-3-deoxy-D-glycero-D-galactonononate-9-phosphate phosphatase	3.1.3.103	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphatase
+3-deoxy-D-glycero-D-galacto-nononate 9-phosphatase	3.1.3.103	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphatase
+gene name	3.1.3.103	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphatase
 5-amino-6-ribitylamino-2,4(1H,3H)-pyrimidinedione 5'-phosphatephosphatase	3.1.3.104	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase
 D-ribitol-5-phosphate phosphatase	3.1.3.104	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase
 BT_0970	3.1.3.104	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase
@@ -4582,6 +4601,8 @@ gene name	3.1.3.104	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase
 AtPyrP1	3.1.3.104	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase
 gene name	3.1.3.104	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase
 AtPyrP12	3.1.3.104	5-amino-6-(5-phospho-D-ribitylamino)uracil phosphatase
+mupP	3.1.3.105	N-acetyl-D-muramate 6-phosphate phosphatase
+N-acetylmuramic acid 6-phosphate phosphatase	3.1.3.105	N-acetyl-D-muramate 6-phosphate phosphatase
 hexosediphosphatase	3.1.3.11	fructose-bisphosphatase
 fructose 1,6-diphosphatase	3.1.3.11	fructose-bisphosphatase
 fructose 1,6-diphosphate phosphatase	3.1.3.11	fructose-bisphosphatase
@@ -8383,6 +8404,14 @@ MptB	3.1.4.56	7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase
 MJ0837 gene product	3.1.4.56	7,8-dihydroneopterin 2',3'-cyclic phosphate phosphodiesterase
 cyclic phosphate dihydrolase	3.1.4.57	phosphoribosyl 1,2-cyclic phosphate 1,2-diphosphodiesterase
 phnPP	3.1.4.57	phosphoribosyl 1,2-cyclic phosphate 1,2-diphosphodiesterase
+ligT	3.1.4.58	RNA 2',3'-cyclic 3'-phosphodiesterase
+CNP	3.1.4.58	RNA 2',3'-cyclic 3'-phosphodiesterase
+thpR	3.1.4.58	RNA 2',3'-cyclic 3'-phosphodiesterase
+YadP	3.1.4.58	RNA 2',3'-cyclic 3'-phosphodiesterase
+gene name	3.1.4.58	RNA 2',3'-cyclic 3'-phosphodiesterase
+RNA 2',3'-cyclic phosphodiesterase	3.1.4.58	RNA 2',3'-cyclic 3'-phosphodiesterase
+CPDase	3.1.4.58	RNA 2',3'-cyclic 3'-phosphodiesterase
+CNP1	3.1.4.58	RNA 2',3'-cyclic 3'-phosphodiesterase
 RNase Sa2	3.1.4.8	Aspergillus oryzae ribonuclease
 deoxyguanosine 5-triphosphate triphosphohydrolase	3.1.5.1	dGTPase
 phosphatase, deoxyguanosine tri	3.1.5.1	dGTPase
@@ -8528,6 +8557,7 @@ oestrone sulfatase	3.1.6.2	steryl-sulfatase
 E1-STS	3.1.6.2	steryl-sulfatase
 neurosteroid sulfatase	3.1.6.2	steryl-sulfatase
 NSS	3.1.6.2	steryl-sulfatase
+SoxB	3.1.6.20	S-sulfosulfanyl-L-cysteine sulfohydrolase
 glucosulfatase	3.1.6.3	glycosulfatase
 sulfatase, glyco-	3.1.6.3	glycosulfatase
 sulfatase A of ox liver also has glycosulfatase activity	3.1.6.3	glycosulfatase
@@ -8587,6 +8617,7 @@ geraniol-synthase	3.1.7.11	geranyl diphosphate diphosphatase
 monoterpene synthase	3.1.7.11	geranyl diphosphate diphosphatase
 GES1	3.1.7.11	geranyl diphosphate diphosphatase
 TPS3	3.1.7.11	geranyl diphosphate diphosphatase
+Haur_2146	3.1.7.12	(+)-kolavelool synthase
 ppGpp-3'-pyrophosphohydrolase	3.1.7.2	guanosine-3',5'-bis(diphosphate) 3'-diphosphatase
 ppGpp phosphohydrolase	3.1.7.2	guanosine-3',5'-bis(diphosphate) 3'-diphosphatase
 3',5'-bis(diphosphate) 3'-pyrophosphate hydrolase	3.1.7.2	guanosine-3',5'-bis(diphosphate) 3'-diphosphatase
@@ -8615,9 +8646,6 @@ FPPase	3.1.7.6	farnesyl diphosphatase
 pNPP/FPP phosphatase	3.1.7.6	farnesyl diphosphatase
 the purified phosphatase is a truncated Pho8lacking 62 amino acids at the N-terminus and is designated Pho8DELTA62N	3.1.7.6	farnesyl diphosphatase
 farnesyl diphosphatase	3.1.7.6	farnesyl diphosphatase
-farnesyl pyrophosphate:drimenol cyclase	3.1.7.7	drimenol cyclase
-2E,6E-farnesyl pyrophosphate:drimenol cyclase	3.1.7.7	drimenol cyclase
-FPP:drimenol cyclase	3.1.7.7	drimenol cyclase
 Rv3378c protein	3.1.7.8	tuberculosinol synthase
 gene name	3.1.7.8	tuberculosinol synthase
 Rv3378c protein	3.1.7.9	isotuberculosinol synthase

@@ -70,22 +70,44 @@ MGL2	4.4.1.11	methionine gamma-lyase
 methionine gamma-lyase isoenzyme 2	4.4.1.11	methionine gamma-lyase
 methionine gamma-lyase isoenzyme 1	4.4.1.11	methionine gamma-lyase
 YtjE	4.4.1.11	methionine gamma-lyase
+cysteine lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
 lyase, cysteine conjugate.beta.	4.4.1.13	cysteine-S-conjugate beta-lyase
 cysteine conjugate. beta.-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
 glutamine transaminase K/cysteine conjugate beta-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
+lyase, cystathionine beta-	4.4.1.13	cysteine-S-conjugate beta-lyase
+osteotoxin	4.4.1.13	cysteine-S-conjugate beta-lyase
+ORF5	4.4.1.13	cysteine-S-conjugate beta-lyase
+MetC	4.4.1.13	cysteine-S-conjugate beta-lyase
+cystathionine lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
 also is a cysteine S-conjugate beta-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
 the enzyme is a multifunctionalaminotransferase and also a cysteine S-conjugate beta-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
+beta-cystathionase	4.4.1.13	cysteine-S-conjugate beta-lyase
+cystine lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
+cystine C-S lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
+C-DES	4.4.1.13	cysteine-S-conjugate beta-lyase
+PatB protein	4.4.1.13	cysteine-S-conjugate beta-lyase
+L-cystine C-S lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
 cysteine S-conjugate beta-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
 C-S lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
+CBS	4.4.1.13	cysteine-S-conjugate beta-lyase
+TTHA1620	4.4.1.13	cysteine-S-conjugate beta-lyase
 KAT III	4.4.1.13	cysteine-S-conjugate beta-lyase
 KYAT3	4.4.1.13	cysteine-S-conjugate beta-lyase
 CCBL2	4.4.1.13	cysteine-S-conjugate beta-lyase
+Irc7p	4.4.1.13	cysteine-S-conjugate beta-lyase
+Ctl2	4.4.1.13	cysteine-S-conjugate beta-lyase
+cystathionine beta/gamma-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
+Ctl1	4.4.1.13	cysteine-S-conjugate beta-lyase
 cysteine-S-conjugate beta-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
+CBL	4.4.1.13	cysteine-S-conjugate beta-lyase
+cystathionine beta-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
+MalY	4.4.1.13	cysteine-S-conjugate beta-lyase
+Str3p	4.4.1.13	cysteine-S-conjugate beta-lyase
 beta-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
 exhibits broad specificity bothas an aminotransferase and as a cysteine S-conjugate beta-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
 GTK	4.4.1.13	cysteine-S-conjugate beta-lyase
-glutamine transaminase K: beta-lyase activity withS-(1,2-dichlorovinyl)-L-cysteine regulated by concurrent transamination	4.4.1.13	cysteine-S-conjugate beta-lyase
 cysteine conjugate beta-lyase	4.4.1.13	cysteine-S-conjugate beta-lyase
+glutamine transaminase K: beta-lyase activity withS-(1,2-dichlorovinyl)-L-cysteine regulated by concurrent transamination	4.4.1.13	cysteine-S-conjugate beta-lyase
 synthase, 1-aminocyclopropanecarboxylate	4.4.1.14	1-aminocyclopropane-1-carboxylate synthase
 1-aminocyclopropane-1-carboxylate synthetase	4.4.1.14	1-aminocyclopropane-1-carboxylate synthase
 aminocyclopropanecarboxylic acid synthase	4.4.1.14	1-aminocyclopropane-1-carboxylate synthase
@@ -276,8 +298,23 @@ phycocyanobilin lyase subunit beta	4.4.1.32	C-phycocyanin alpha-cysteine-84 phyc
 gene name	4.4.1.33	R-phycocyanin alpha-cysteine-84 phycourobilin lyase/isomerase
 isol	4.4.1.34	isoprene-epoxide-glutathione S-transferase
 IsoI	4.4.1.34	isoprene-epoxide-glutathione S-transferase
-BOCL3	4.4.1.35	cis-3-hydroxy-L-proline hydro-lyase (1-pyrroline-2-carboxylate-forming)
-CORI3	4.4.1.35	cis-3-hydroxy-L-proline hydro-lyase (1-pyrroline-2-carboxylate-forming)
+cis-3-hydroxy-L-proline hydro-lyase (1-pyrroline-2-carboxylate-forming)	4.4.1.35	L-cystine beta-lyase
+BOCL3	4.4.1.35	L-cystine beta-lyase
+CORI3	4.4.1.35	L-cystine beta-lyase
+gene name	4.4.1.36	hercynylcysteine S-oxide lyase
+PLP-dependent C-S lyase	4.4.1.36	hercynylcysteine S-oxide lyase
+NCU01256 protein	4.4.1.36	hercynylcysteine S-oxide lyase
+UniProt	4.4.1.36	hercynylcysteine S-oxide lyase
+Egt2	4.4.1.36	hercynylcysteine S-oxide lyase
+egtE	4.4.1.36	hercynylcysteine S-oxide lyase
+locus name	4.4.1.36	hercynylcysteine S-oxide lyase
+ergothioneine biosynthesis protein 2	4.4.1.36	hercynylcysteine S-oxide lyase
+gene name	4.4.1.36	hercynylcysteine S-oxide lyase
+Egt-2	4.4.1.36	hercynylcysteine S-oxide lyase
+LarE	4.4.1.37	pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+P2CMN sulfurtransferase	4.4.1.37	pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+pyridinium-3,5-biscarboxylic acid mononucleotide sulfurtransferase	4.4.1.37	pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
+P2TMN synthase	4.4.1.37	pyridinium-3,5-bisthiocarboxylic acid mononucleotide synthase
 lyase, alliin	4.4.1.4	alliin lyase
 alkylcysteine sulfoxide lyase	4.4.1.4	alliin lyase
 S-alkylcysteine sulfoxide lyase	4.4.1.4	alliin lyase
@@ -340,37 +377,6 @@ glyoalase I	4.4.1.5	lactoylglutathione lyase
 Gly I	4.4.1.5	lactoylglutathione lyase
 Glb33	4.4.1.5	lactoylglutathione lyase
 OsGLYI-11.2	4.4.1.5	lactoylglutathione lyase
-lyase, S-alkylcysteine	4.4.1.6	S-alkylcysteine lyase
-S-alkylcysteinase	4.4.1.6	S-alkylcysteine lyase
-alkylcysteine lyase	4.4.1.6	S-alkylcysteine lyase
-S-alkyl-L-cysteine sulfoxide lyase	4.4.1.6	S-alkylcysteine lyase
-S-alkyl-L-cysteine lyase	4.4.1.6	S-alkylcysteine lyase
-S-alkyl-L-cysteinase	4.4.1.6	S-alkylcysteine lyase
-alkyl cysteine lyase	4.4.1.6	S-alkylcysteine lyase
-S-alkylcysteine alpha,beta-lyase	4.4.1.6	S-alkylcysteine lyase
-cysteine lyase	4.4.1.8	cystathionine beta-lyase
-lyase, cystathionine beta-	4.4.1.8	cystathionine beta-lyase
-osteotoxin	4.4.1.8	cystathionine beta-lyase
-ORF5	4.4.1.8	cystathionine beta-lyase
-MetC	4.4.1.8	cystathionine beta-lyase
-cystathionine lyase	4.4.1.8	cystathionine beta-lyase
-the enzyme belongs to the large family ofcysteine-S-conjugate beta-lyases	4.4.1.8	cystathionine beta-lyase
-beta-cystathionase	4.4.1.8	cystathionine beta-lyase
-cystine lyase	4.4.1.8	cystathionine beta-lyase
-cystine C-S lyase	4.4.1.8	cystathionine beta-lyase
-C-DES	4.4.1.8	cystathionine beta-lyase
-L-cystine C-S lyase	4.4.1.8	cystathionine beta-lyase
-CBS	4.4.1.8	cystathionine beta-lyase
-TTHA1620	4.4.1.8	cystathionine beta-lyase
-Irc7p	4.4.1.8	cystathionine beta-lyase
-PatB protein	4.4.1.8	cystathionine beta-lyase
-Ctl2	4.4.1.8	cystathionine beta-lyase
-cystathionine beta/gamma-lyase	4.4.1.8	cystathionine beta-lyase
-Ctl1	4.4.1.8	cystathionine beta-lyase
-Str3p	4.4.1.8	cystathionine beta-lyase
-CBL	4.4.1.8	cystathionine beta-lyase
-cystathionine beta-lyase	4.4.1.8	cystathionine beta-lyase
-MalY	4.4.1.8	cystathionine beta-lyase
 synthase,.beta.-cyanoalanine	4.4.1.9	L-3-cyanoalanine synthase
 CAS1	4.4.1.9	L-3-cyanoalanine synthase
 CYS-C1	4.4.1.9	L-3-cyanoalanine synthase

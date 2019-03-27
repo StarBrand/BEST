@@ -1,0 +1,126 @@
+synonyms	ec_number	recommended_name
+ABC phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+phosphate specific transporter	7.3.2.1	ABC-type phosphate transporter
+phosphate-specific transport system	7.3.2.1	ABC-type phosphate transporter
+phosphate-transporting ATPase	7.3.2.1	ABC-type phosphate transporter
+ATP phosphohydrolase (phosphate-importing)	7.3.2.1	ABC-type phosphate transporter
+PstSCAB	7.3.2.1	ABC-type phosphate transporter
+HvPHT1,6	7.3.2.1	ABC-type phosphate transporter
+HvPHT1;6	7.3.2.1	ABC-type phosphate transporter
+HvPHT1;1	7.3.2.1	ABC-type phosphate transporter
+StPT2	7.3.2.1	ABC-type phosphate transporter
+phosphate transporter1	7.3.2.1	ABC-type phosphate transporter
+PHT1;1	7.3.2.1	ABC-type phosphate transporter
+thylakoid phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+PHOSPHATE TRANSPORTER 4;1	7.3.2.1	ABC-type phosphate transporter
+PHT4;1	7.3.2.1	ABC-type phosphate transporter
+Pht1;8 transporter	7.3.2.1	ABC-type phosphate transporter
+Pht1;9 transporter	7.3.2.1	ABC-type phosphate transporter
+Pht1;5	7.3.2.1	ABC-type phosphate transporter
+AtPT1	7.3.2.1	ABC-type phosphate transporter
+AtPHT1;4	7.3.2.1	ABC-type phosphate transporter
+AtPHT1;1	7.3.2.1	ABC-type phosphate transporter
+AtPHT1;2	7.3.2.1	ABC-type phosphate transporter
+gene name	7.3.2.1	ABC-type phosphate transporter
+phosphate transporter PHT4;1	7.3.2.1	ABC-type phosphate transporter
+PHT1	7.3.2.1	ABC-type phosphate transporter
+gene name	7.3.2.1	ABC-type phosphate transporter
+anion transporter 1	7.3.2.1	ABC-type phosphate transporter
+ANTR1	7.3.2.1	ABC-type phosphate transporter
+inorganic phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+ABC-type phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+UhpT	7.3.2.1	ABC-type phosphate transporter
+GlpT	7.3.2.1	ABC-type phosphate transporter
+gene name	7.3.2.1	ABC-type phosphate transporter
+PstS	7.3.2.1	ABC-type phosphate transporter
+phosphate ABC transporter	7.3.2.1	ABC-type phosphate transporter
+TaPHT1.2	7.3.2.1	ABC-type phosphate transporter
+phosphate-specific ABC transporter	7.3.2.1	ABC-type phosphate transporter
+high-affinity ABC-type phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+Pst	7.3.2.1	ABC-type phosphate transporter
+PstA permease	7.3.2.1	ABC-type phosphate transporter
+ABC phosphate transport receptor	7.3.2.1	ABC-type phosphate transporter
+phosphate-specific transport substrate binding protein-1	7.3.2.1	ABC-type phosphate transporter
+phosphate-bound PstS-1	7.3.2.1	ABC-type phosphate transporter
+PstB	7.3.2.1	ABC-type phosphate transporter
+the enzyme belongs to the Pht1 family ofplant phosphate transporters	7.3.2.1	ABC-type phosphate transporter
+LePT1	7.3.2.1	ABC-type phosphate transporter
+OsPht1;1	7.3.2.1	ABC-type phosphate transporter
+OsPT1	7.3.2.1	ABC-type phosphate transporter
+OsPT8	7.3.2.1	ABC-type phosphate transporter
+OsPT4	7.3.2.1	ABC-type phosphate transporter
+OsPT6	7.3.2.1	ABC-type phosphate transporter
+gene name	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+isoform	7.3.2.1	ABC-type phosphate transporter
+high affinity Pi transporter	7.3.2.1	ABC-type phosphate transporter
+high affinity phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+mTPT1	7.3.2.1	ABC-type phosphate transporter
+symbiosis-specific phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+MtPT4	7.3.2.1	ABC-type phosphate transporter
+SLC17A1	7.3.2.1	ABC-type phosphate transporter
+type 1 sodium-dependent phosphate transporter (SLC17A1 protein)	7.3.2.1	ABC-type phosphate transporter
+NPT1	7.3.2.1	ABC-type phosphate transporter
+Pit phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+Pit1	7.3.2.1	ABC-type phosphate transporter
+Pit2	7.3.2.1	ABC-type phosphate transporter
+phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+Pht1;3	7.3.2.1	ABC-type phosphate transporter
+phosphate transporter 1	7.3.2.1	ABC-type phosphate transporter
+mycorrhiza-specific phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+Pht1 Pi transporter	7.3.2.1	ABC-type phosphate transporter
+YjbB	7.3.2.1	ABC-type phosphate transporter
+phosphate-specific transporter	7.3.2.1	ABC-type phosphate transporter
+Pit	7.3.2.1	ABC-type phosphate transporter
+phosphate transporter 2	7.3.2.1	ABC-type phosphate transporter
+Na+-dependent inorganic phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+Na+-dependent Pi transporter	7.3.2.1	ABC-type phosphate transporter
+PiPT	7.3.2.1	ABC-type phosphate transporter
+high-affinity phosphate transporter Pho84p	7.3.2.1	ABC-type phosphate transporter
+low-affinity phosphate transporter Pho87p	7.3.2.1	ABC-type phosphate transporter
+low-affinity phosphate transporter Pho90p	7.3.2.1	ABC-type phosphate transporter
+low-affinity phosphate transporter Pho91p	7.3.2.1	ABC-type phosphate transporter
+PHT4;2	7.3.2.1	ABC-type phosphate transporter
+plastid-localized Pi transporter	7.3.2.1	ABC-type phosphate transporter
+sodium-dependent phosphate cotransporter	7.3.2.1	ABC-type phosphate transporter
+type III sodium-dependent phosphate cotransporter	7.3.2.1	ABC-type phosphate transporter
+sodium-dependent phosphate transporter 2a	7.3.2.1	ABC-type phosphate transporter
+Npt2a	7.3.2.1	ABC-type phosphate transporter
+PiT-1	7.3.2.1	ABC-type phosphate transporter
+GmPT1	7.3.2.1	ABC-type phosphate transporter
+GmPT2	7.3.2.1	ABC-type phosphate transporter
+SLC20A1	7.3.2.1	ABC-type phosphate transporter
+type III Pi transporter	7.3.2.1	ABC-type phosphate transporter
+phosphate transporter 3	7.3.2.1	ABC-type phosphate transporter
+MPT3	7.3.2.1	ABC-type phosphate transporter
+Ram-1	7.3.2.1	ABC-type phosphate transporter
+Glvr-1	7.3.2.1	ABC-type phosphate transporter
+NaPi-2a	7.3.2.1	ABC-type phosphate transporter
+sodium-dependent Pi transporter	7.3.2.1	ABC-type phosphate transporter
+Na+-Pi transporter	7.3.2.1	ABC-type phosphate transporter
+PiT-2	7.3.2.1	ABC-type phosphate transporter
+Pi transporter	7.3.2.1	ABC-type phosphate transporter
+high affinity phosphate-binding protein	7.3.2.1	ABC-type phosphate transporter
+PBP-1	7.3.2.1	ABC-type phosphate transporter
+Pho84p	7.3.2.1	ABC-type phosphate transporter
+Pho90	7.3.2.1	ABC-type phosphate transporter
+Pho87	7.3.2.1	ABC-type phosphate transporter
+Pho84	7.3.2.1	ABC-type phosphate transporter
+low-affinity phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+high-affinity phosphate transporter	7.3.2.1	ABC-type phosphate transporter
+high-affinity Pi transporter	7.3.2.1	ABC-type phosphate transporter
+PHT1 transporter	7.3.2.1	ABC-type phosphate transporter
+high-affinity phosphate ABC-transporter	7.3.2.1	ABC-type phosphate transporter
+Phn	7.3.2.1	ABC-type phosphate transporter
+PHNC	7.3.2.2	ABC-type phosphonate transporter
+phosphonate-transporting ATPase	7.3.2.2	ABC-type phosphonate transporter
+ATP phosphohydrolase (phosphonate-transporting)	7.3.2.2	ABC-type phosphonate transporter

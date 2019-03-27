@@ -2,11 +2,12 @@ synonyms	ec_number	recommended_name
 reductase, chlorate	1.97.1.1	chlorate reductase
 chlorate reductase C	1.97.1.1	chlorate reductase
 clr	1.97.1.1	chlorate reductase
-ClrA	1.97.1.1	chlorate reductase
-NarGH	1.97.1.1	chlorate reductase
 involved in chloratemetabolism	1.97.1.1	chlorate reductase
 perchlorate reductase	1.97.1.1	chlorate reductase
+ClrA	1.97.1.1	chlorate reductase
+NarGH	1.97.1.1	chlorate reductase
 PSI	1.97.1.12	photosystem I
+gene name	1.97.1.12	photosystem I
 PSI core complex	1.97.1.12	photosystem I
 photosystem I P700 chlorophyll a apoprotein A2	1.97.1.12	photosystem I
 PsaB	1.97.1.12	photosystem I
@@ -25,20 +26,24 @@ PFL-glycine:S-adenosyl-L-methionine H transferase(flavodoxin-oxidizing, S-adenos
 Activase, pyruvate formate-lyase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 Formate acetyltransferase activase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 Pyruvate formate-lyase activase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
-Pyruvate formate-lyase activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 Formate-lyase-activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 PFL activase	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 PFL-activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 pyruvate formate-lyase-activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 PFL-AE	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
-pyruvate formate lyase activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 PFL activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+pyruvate formate lyase activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+Pyruvate formate-lyase activating enzyme	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
 PFL	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+gene name	1.97.1.4	[formate-C-acetyltransferase]-activating enzyme
+enzyme probably belongs to the DMSO reductase family ofmononuclear molybdenum enzymes	1.97.1.9	selenate reductase
+SrdA	1.97.1.9	selenate reductase
 SrdB	1.97.1.9	selenate reductase
 SrdC	1.97.1.9	selenate reductase
+gene name	1.97.1.9	selenate reductase
+gene name	1.97.1.9	selenate reductase
 selenate reductase	1.97.1.9	selenate reductase
+gene name	1.97.1.9	selenate reductase
 SR	1.97.1.9	selenate reductase
 SER	1.97.1.9	selenate reductase
 SerABC	1.97.1.9	selenate reductase
-enzyme probably belongs to the DMSO reductase family ofmononuclear molybdenum enzymes	1.97.1.9	selenate reductase
-SrdA	1.97.1.9	selenate reductase

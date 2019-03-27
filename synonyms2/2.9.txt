@@ -22,8 +22,8 @@ selA gene product	2.9.1.1	L-seryl-tRNASec selenium transferase
 SepSecS	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
 Sep tRNA: Sec synthase	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
 O-phosphoserine tRNA: selenocysteine synthase	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
+Selenocysteinyl-tRNA synthase	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
 O-phosphoseryl-tRNA:selenocysteinyl-tRNA synthase	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
 SLA/LP	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
 MMPSepSecS	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
 SelA	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase
-Selenocysteinyl-tRNA synthase	2.9.1.2	O-phospho-L-seryl-tRNASec:L-selenocysteinyl-tRNA synthase

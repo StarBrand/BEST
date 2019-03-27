@@ -36,7 +36,6 @@ CAH3	4.2.1.1	carbonic anhydrase
 alphaCA1	4.2.1.1	carbonic anhydrase
 carbonic anhydrase	4.2.1.1	carbonic anhydrase
 CcmM	4.2.1.1	carbonic anhydrase
-isoform	4.2.1.1	carbonic anhydrase
 cytoplasmic carbonic anhydrase	4.2.1.1	carbonic anhydrase
 TCAc	4.2.1.1	carbonic anhydrase
 TCAb	4.2.1.1	carbonic anhydrase
@@ -210,6 +209,7 @@ dCAII	4.2.1.1	carbonic anhydrase
 dCA II	4.2.1.1	carbonic anhydrase
 dCA I	4.2.1.1	carbonic anhydrase
 alpha-type carbonic anhydrase	4.2.1.1	carbonic anhydrase
+isoform	4.2.1.1	carbonic anhydrase
 FbiCA 1	4.2.1.1	carbonic anhydrase
 diatom carbonic anhydrase	4.2.1.1	carbonic anhydrase
 TWCA1	4.2.1.1	carbonic anhydrase
@@ -794,6 +794,8 @@ isopropylmalate dehydratase	4.2.1.170	2-(omega-methylthio)alkylmalate dehydratas
 cis-L-3-hydroxyproline hydro-lyase	4.2.1.171	cis-L-3-hydroxyproline dehydratase
 c3LHypD	4.2.1.171	cis-L-3-hydroxyproline dehydratase
 gene name	4.2.1.171	cis-L-3-hydroxyproline dehydratase
+SmCPS4	4.2.1.173	ent-8alpha-hydroxylabd-13-en-15-yl diphosphate synthase
+MvCPS1	4.2.1.174	peregrinol diphosphate synthase
 hydratase, methylglutaconyl coenzyme A	4.2.1.18	methylglutaconyl-CoA hydratase
 methylglutaconyl coenzyme A hydratase	4.2.1.18	methylglutaconyl-CoA hydratase
 methylglutaconase	4.2.1.18	methylglutaconyl-CoA hydratase
@@ -839,6 +841,8 @@ FumF	4.2.1.2	fumarate hydratase
 locus name	4.2.1.2	fumarate hydratase
 locus name	4.2.1.2	fumarate hydratase
 rv1098c	4.2.1.2	fumarate hydratase
+gene name, PF1755 and PF1754 were shown to form a[4Fe-4S]-clustercontaining heterodimeric enzyme, able to catalyse thereversible hydratation of fumarate	4.2.1.2	fumarate hydratase
+gene name, PF1755 and PF1754 were shown to form a[4Fe-4S]-clustercontaining heterodimeric enzyme, able to catalyse thereversible hydratation of fumarate	4.2.1.2	fumarate hydratase
 FUM1	4.2.1.2	fumarate hydratase
 tryptophan synthetase	4.2.1.20	tryptophan synthase
 indoleglycerol phosphate aldolase	4.2.1.20	tryptophan synthase
@@ -988,17 +992,17 @@ aconitase	4.2.1.3	aconitate hydratase
 iron regulatory-like protein	4.2.1.3	aconitate hydratase
 PfIRPa	4.2.1.3	aconitate hydratase
 AcnA	4.2.1.3	aconitate hydratase
-AH	4.2.1.3	aconitate hydratase
 citB	4.2.1.3	aconitate hydratase
+AH	4.2.1.3	aconitate hydratase
 IRP-1	4.2.1.3	aconitate hydratase
 iron regulatory protein 1	4.2.1.3	aconitate hydratase
 bifunctional enzyme:aconitate hydratase 2/2-methylisocitrate dehydratase	4.2.1.3	aconitate hydratase
 aconitase 2	4.2.1.3	aconitate hydratase
 mitochondrial aconitase	4.2.1.3	aconitate hydratase
-Aco3	4.2.1.3	aconitate hydratase
 AcnB is a member of the aconitase family	4.2.1.3	aconitate hydratase
 aconitase B	4.2.1.3	aconitate hydratase
 AcnB	4.2.1.3	aconitate hydratase
+Aco3	4.2.1.3	aconitate hydratase
 mACON	4.2.1.3	aconitate hydratase
 iron-regulatory protein 1	4.2.1.3	aconitate hydratase
 c-acon	4.2.1.3	aconitate hydratase
@@ -1102,6 +1106,8 @@ KDGDH	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
 5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
 D-5-keto-4-deoxyglucarate dehydratase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
 KDG dehydratase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+KdgD	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+5-keto-4-deoxy-D-glucarate dehydratase/decarboxylase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
 Dehydratase, galactarate	4.2.1.42	galactarate dehydratase
 Galactarate dehydrase	4.2.1.42	galactarate dehydratase
 GalcD	4.2.1.42	galactarate dehydratase
@@ -1560,6 +1566,12 @@ FOXB_01332	4.2.1.92	hydroperoxide dehydratase
 hydroperoxide isomerase	4.2.1.92	hydroperoxide dehydratase
 9R-DOX-AOS	4.2.1.92	hydroperoxide dehydratase
 KC525886	4.2.1.92	hydroperoxide dehydratase
+LOX	4.2.1.92	hydroperoxide dehydratase
+gene name	4.2.1.92	hydroperoxide dehydratase
+fatty acid hydroperoxide-metabolizing enzyme	4.2.1.92	hydroperoxide dehydratase
+gene name	4.2.1.92	hydroperoxide dehydratase
+gene name	4.2.1.92	hydroperoxide dehydratase
+13S-hydroperoxide-dependent peroxidase	4.2.1.92	hydroperoxide dehydratase
 AOS belongs to the CYP74 family	4.2.1.92	hydroperoxide dehydratase
 9-HPL	4.2.1.92	hydroperoxide dehydratase
 hydroperoxide lyase	4.2.1.92	hydroperoxide dehydratase
@@ -1862,8 +1874,8 @@ pectic lyase	4.2.2.2	pectate lyase
 Pel III	4.2.2.2	pectate lyase
 Pel I	4.2.2.2	pectate lyase
 Pel II	4.2.2.2	pectate lyase
-MdPL1	4.2.2.2	pectate lyase
 AtPLL	4.2.2.2	pectate lyase
+MdPL1	4.2.2.2	pectate lyase
 pectate lyase 10A	4.2.2.2	pectate lyase
 Pel10A	4.2.2.2	pectate lyase
 pectate lyase Pel10A	4.2.2.2	pectate lyase
@@ -2379,12 +2391,20 @@ terpene synthase 45	4.2.3.142	7-epizingiberene synthase [(2Z,6Z)-farnesyl diphos
 gene name	4.2.3.142	7-epizingiberene synthase [(2Z,6Z)-farnesyl diphosphate cyclizing]
 TgTPS2	4.2.3.143	kunzeaol synthase
 gene name	4.2.3.143	kunzeaol synthase
-GES	4.2.3.144	geranyllinalool synthase
 TPS04/GES	4.2.3.144	geranyllinalool synthase
 gene name	4.2.3.144	geranyllinalool synthase
 terpene synthase TPS4	4.2.3.144	geranyllinalool synthase
+gene name, UniProt	4.2.3.144	geranyllinalool synthase
 GLS	4.2.3.144	geranyllinalool synthase
 TPS2	4.2.3.144	geranyllinalool synthase
+cf. EC 4.2.3.48	4.2.3.144	geranyllinalool synthase
+gene name	4.2.3.144	geranyllinalool synthase
+SlGLS	4.2.3.144	geranyllinalool synthase
+gene name, UniProt	4.2.3.144	geranyllinalool synthase
+geranyllinalool synthase	4.2.3.144	geranyllinalool synthase
+gene name	4.2.3.144	geranyllinalool synthase
+gene name	4.2.3.144	geranyllinalool synthase
+NaGLS	4.2.3.144	geranyllinalool synthase
 gene name	4.2.3.145	ophiobolin F synthase
 cetB2	4.2.3.146	cyclooctat-9-en-7-ol synthase
 diterpene cyclooctatin synthase	4.2.3.146	cyclooctat-9-en-7-ol synthase
@@ -2444,12 +2464,31 @@ gene name	4.2.3.163	(+)-corvol ether B synthase
 gene name	4.2.3.164	(+)-eremophilene synthase
 gene name	4.2.3.164	(+)-eremophilene synthase
 gene name	4.2.3.165	(1R,4R,5S)-(-)-guaia-6,10(14)-diene synthase
+TPS20	4.2.3.167	dolabella-3,7-dien-18-ol synthase
+gene name	4.2.3.167	dolabella-3,7-dien-18-ol synthase
+TPS20	4.2.3.168	dolathalia-3,7,11-triene synthase
+gene name	4.2.3.168	dolathalia-3,7,11-triene synthase
 geranylgeranyl pyrophosphate cyclase	4.2.3.17	taxadiene synthase
 taxadiene synthase	4.2.3.17	taxadiene synthase
 taxadiene synthase 5	4.2.3.17	taxadiene synthase
 TXS	4.2.3.17	taxadiene synthase
 taxa-4(5),11(12)-diene synthase	4.2.3.17	taxadiene synthase
 gene name	4.2.3.171	(+)-corvol ether A synthase
+TPS1	4.2.3.172	10-epi-juneol synthase
+TPS1	4.2.3.173	tau-cadinol synthase
+cadinol synthase	4.2.3.173	tau-cadinol synthase
+CADS	4.2.3.173	tau-cadinol synthase
+Tps7	4.2.3.173	tau-cadinol synthase
+TPS1	4.2.3.174	(2E,6E)-hedycaryol synthase
+gene name	4.2.3.175	10-epi-cubebol synthase
+NfSS	4.2.3.176	sesterfisherol synthase
+NFIA_55500 gene name	4.2.3.176	sesterfisherol synthase
+TS2	4.2.3.176	sesterfisherol synthase
+CoTPS1	4.2.3.177	beta-thujene synthase
+TPS1	4.2.3.177	beta-thujene synthase
+sesterterpene synthase	4.2.3.178	stellata-2,6,19-triene synthase
+XsTPS2	4.2.3.179	guaia-4,6-diene synthase
+TPS2	4.2.3.179	guaia-4,6-diene synthase
 cyclase, abietadiene	4.2.3.18	abieta-7,13-diene synthase
 (-)-abietadiene synthase	4.2.3.18	abieta-7,13-diene synthase
 abietadiene cyclase	4.2.3.18	abieta-7,13-diene synthase
@@ -2460,6 +2499,28 @@ PaLAS	4.2.3.18	abieta-7,13-diene synthase
 AGAS	4.2.3.18	abieta-7,13-diene synthase
 abietadiene synthase	4.2.3.18	abieta-7,13-diene synthase
 TPS-LAS	4.2.3.18	abieta-7,13-diene synthase
+PxaTPS8	4.2.3.180	pseudolaratriene synthase
+TPS8	4.2.3.180	pseudolaratriene synthase
+pseudolarene synthase	4.2.3.180	pseudolaratriene synthase
+gene name	4.2.3.181	selina-4(15),7(11)-diene synthase
+terpene synthase metal-binding domain-containing protein	4.2.3.181	selina-4(15),7(11)-diene synthase
+pentalenene synthase	4.2.3.182	pristinol synthase
+TPS2	4.2.3.183	nezukol synthase
+MpMTPSL4	4.2.3.184	5-hydroxy-alpha-gurjunene synthase
+MTPSL4	4.2.3.184	5-hydroxy-alpha-gurjunene synthase
+IrKSL4	4.2.3.185	ent-atiserene synthase
+kaurene synthase 4	4.2.3.185	ent-atiserene synthase
+KSL4	4.2.3.185	ent-atiserene synthase
+PtmT1	4.2.3.185	ent-atiserene synthase
+SmKSL2	4.2.3.186	ent-13-epi-manoyl oxide synthase
+ent-LDPP synthase	4.2.3.186	ent-13-epi-manoyl oxide synthase
+KSL2	4.2.3.186	ent-13-epi-manoyl oxide synthase
+HCS	4.2.3.187	(2Z,6E)-hedycaryol synthase
+gene name	4.2.3.187	(2Z,6E)-hedycaryol synthase
+Bcl-TS	4.2.3.188	beta-geranylfarnesene synthase
+gene name	4.2.3.188	beta-geranylfarnesene synthase
+MvELS	4.2.3.189	9,13-epoxylabda-14-ene synthase
+ELS	4.2.3.189	9,13-epoxylabda-14-ene synthase
 ent-kaurene synthase B	4.2.3.19	ent-kaurene synthase
 ent-kaurene synthetase B	4.2.3.19	ent-kaurene synthase
 part ofbifunctional enzyme catalyzing the two step reaction fromtrans-geranylgeranyl-diphosphate to ent-kaurene, first step iscatalyzed by EC 5.5.1.13 (ent-kaurene synthase A)	4.2.3.19	ent-kaurene synthase
@@ -2479,6 +2540,29 @@ KS	4.2.3.19	ent-kaurene synthase
 KS1	4.2.3.19	ent-kaurene synthase
 bifunctionalenzyme	4.2.3.19	ent-kaurene synthase
 bifunctional enzyme	4.2.3.19	ent-kaurene synthase
+MvELS	4.2.3.190	manoyl oxide synthase
+GrTPS6	4.2.3.190	manoyl oxide synthase
+CfTPS3	4.2.3.190	manoyl oxide synthase
+CfTPS4	4.2.3.190	manoyl oxide synthase
+KSL1	4.2.3.190	manoyl oxide synthase
+kaurene synthase-like 1	4.2.3.190	manoyl oxide synthase
+KSL2	4.2.3.190	manoyl oxide synthase
+kaurene synthase-like 2	4.2.3.190	manoyl oxide synthase
+ELS	4.2.3.190	manoyl oxide synthase
+TPS3	4.2.3.190	manoyl oxide synthase
+TPS4	4.2.3.190	manoyl oxide synthase
+TPS6	4.2.3.190	manoyl oxide synthase
+SdnA	4.2.3.191	cycloaraneosene synthase
+SCLAV_p0491	4.2.3.192	labda-7,13(16),14-triene synthase
+CldD	4.2.3.193	(12E)-labda-8(17),12,14-triene synthase
+labdatriene synthase	4.2.3.193	(12E)-labda-8(17),12,14-triene synthase
+drimenol synthase	4.2.3.194	(-)-drimenol synthase
+farnesyl pyrophosphate:drimenol cyclase	4.2.3.194	(-)-drimenol synthase
+2E,6E-farnesyl pyrophosphate:drimenol cyclase	4.2.3.194	(-)-drimenol synthase
+FPP:drimenol cyclase	4.2.3.194	(-)-drimenol synthase
+TPS3	4.2.3.194	(-)-drimenol synthase
+sesquiterpene synthase 3	4.2.3.194	(-)-drimenol synthase
+gene name	4.2.3.195	rhizathalene A synthase
 phospho-lyase, ethanolamine phosphate	4.2.3.2	ethanolamine-phosphate phospho-lyase
 O-phosphoethanolamine-phospholyase	4.2.3.2	ethanolamine-phosphate phospho-lyase
 amino alcohol O-phosphate phospholyase	4.2.3.2	ethanolamine-phosphate phospho-lyase
@@ -2576,6 +2660,7 @@ SCO5222 protein	4.2.3.37	epi-isozizaene synthase
 epi-isozizaene synthase	4.2.3.37	epi-isozizaene synthase
 TPS2	4.2.3.37	epi-isozizaene synthase
 SAV_3032	4.2.3.37	epi-isozizaene synthase
+EIZS	4.2.3.37	epi-isozizaene synthase
 bisabolene synthase	4.2.3.38	alpha-bisabolene synthase
 TPS3	4.2.3.38	alpha-bisabolene synthase
 (E)-alpha-bisabolene synthase	4.2.3.38	alpha-bisabolene synthase
@@ -2642,6 +2727,9 @@ terpene synthase 10	4.2.3.47	beta-farnesene synthase
 TPS10	4.2.3.47	beta-farnesene synthase
 TPS10-dip	4.2.3.47	beta-farnesene synthase
 terpene synthase 10-per	4.2.3.47	beta-farnesene synthase
+gene name	4.2.3.48	(3S,6E)-nerolidol synthase
+TPS4	4.2.3.48	(3S,6E)-nerolidol synthase
+gene name	4.2.3.48	(3S,6E)-nerolidol synthase
 (3S)-(E)-nerolidol synthase	4.2.3.48	(3S,6E)-nerolidol synthase
 linalool/nerolidol synthase	4.2.3.48	(3S,6E)-nerolidol synthase
 FaNES	4.2.3.48	(3S,6E)-nerolidol synthase

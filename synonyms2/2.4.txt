@@ -881,7 +881,7 @@ TPS	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
 trehalose-6P synthase	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
 trehalose phosphate synthase	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
 T-6-P	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
-OtsA	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
+gene name	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
 locus name	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
 the bifunctionalenzyme consists of an N-terminal trehalose-6-phosphate synthase and aC-terminal trehalose-6-phosphate phosphatase domain	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
 alpha,alpha-trehalose-phosphate synthase (UDP-forming)	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
@@ -893,23 +893,25 @@ trehalose-6-P synthase	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-fo
 AtTPS1	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
 trehalose 6-phosphate synthase	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
 trehalose-6-phosphate synthase 1	2.4.1.15	alpha,alpha-trehalose-phosphate synthase (UDP-forming)
-N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-acetylglucosaminyltransferase, uridinediphosphoacetylglucosamine-acetyllactosaminide beta1-->6-	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-uridine diphosphoacetylglucosamine-acetyllactosaminidebeta1-->6-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-Galbeta1-->4GlcNAc-R beta1-->6 N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-UDP-GlcNAc:Gal-R, beta-D-6-N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-I N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-beta1-6GnT	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-IGnT	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-I-branchingbeta-1,6-N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-GCNT2	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-gene contains onevariable exon and two constant exons	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-dIHnT	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-distally acting I-branchingbeta1,6-N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-C2GnT2	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-gcnt3	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-I beta1,6-N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
-C2GnT forms the core 2 O-glycan branch, IGnT forms the Iantigen, both are members of a beta-1,6-N-acetylglucosaminyltransferasegene family	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase
+N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+acetylglucosaminyltransferase, uridinediphosphoacetylglucosamine-acetyllactosaminide beta1-->6-	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+uridine diphosphoacetylglucosamine-acetyllactosaminidebeta1-->6-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+Galbeta1-->4GlcNAc-R beta1-->6 N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+UDP-GlcNAc:Gal-R, beta-D-6-N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+I N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+beta1-6GnT	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+N-acetyllactosaminide beta-1,6-N-acetylglucosaminyl-transferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+UDP-N-acetyl-D-glucosamine:beta-D-galactosyl-(1->4)-N-acetyl-Dglucosaminide 6-beta-N-acetyl-D-glucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+IGnT	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+I-branchingbeta-1,6-N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+GCNT2	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+gene contains onevariable exon and two constant exons	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+dIHnT	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+distally acting I-branchingbeta1,6-N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+C2GnT2	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+gcnt3	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+I beta1,6-N-acetylglucosaminyltransferase	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
+C2GnT forms the core 2 O-glycan branch, IGnT forms the Iantigen, both are members of a beta-1,6-N-acetylglucosaminyltransferasegene family	2.4.1.150	N-acetyllactosaminide beta-1,6-N-acetylglucosaminyltransferase
 alpha(1-3)fucosyltransferase	2.4.1.152	4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase
 alpha-3-fucosyltransferase	2.4.1.152	4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase
 alpha-3-L-fucosyltransferase	2.4.1.152	4-galactosyl-N-acetylglucosaminide 3-alpha-L-fucosyltransferase
@@ -1094,6 +1096,7 @@ UmCHS6	2.4.1.16	chitin synthase
 CSIII	2.4.1.16	chitin synthase
 chitin synthase III	2.4.1.16	chitin synthase
 CHS	2.4.1.16	chitin synthase
+Chs2	2.4.1.16	chitin synthase
 Chs3p	2.4.1.16	chitin synthase
 chitin synthase 1	2.4.1.16	chitin synthase
 CHS1p	2.4.1.16	chitin synthase
@@ -1126,7 +1129,6 @@ EhCHS-1	2.4.1.16	chitin synthase
 UDP-GlcNAc:chitin 4-alpha-N-acetylglucosaminyltransferase	2.4.1.16	chitin synthase
 chsC	2.4.1.16	chitin synthase
 MsCHS2	2.4.1.16	chitin synthase
-Chs2	2.4.1.16	chitin synthase
 chsE	2.4.1.16	chitin synthase
 Chs4p	2.4.1.16	chitin synthase
 chitin synthase 3	2.4.1.16	chitin synthase
@@ -1178,8 +1180,6 @@ amylase III	2.4.1.161	oligosaccharide 4-alpha-D-glucosyltransferase
 1,4-alpha-glucan:1,4-alpha-glucan 4-alpha-glucosyltransferase	2.4.1.161	oligosaccharide 4-alpha-D-glucosyltransferase
 beta-fructosyl transferase	2.4.1.162	aldose beta-D-fructosyltransferase
 beta-fructofuranoside, acceptor (aldose) fructosyltransferase	2.4.1.162	aldose beta-D-fructosyltransferase
-acetylglucosaminyltransferase, uridinediphosphoacetylglucosamine-acetyllactosaminide beta1-->6-	2.4.1.164	galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide
-uridine diphosphoacetylglucosamine-acetyllactosaminidebeta1-->6-acetylglucosaminyltransferase	2.4.1.164	galactosyl-N-acetylglucosaminylgalactosylglucosyl-ceramide
 acetylgalactosaminyltransferase, uridinediphosphoacetylgalactosamine-acetylneuraminyl(alpha2->3)galactosyl(beta1-->4)glucosyl beta1-->4-	2.4.1.165	N-acetylneuraminylgalactosylglucosylceramide
 Sda-beta-1,4-N-acetylgalactosaminyltransferase	2.4.1.165	N-acetylneuraminylgalactosylglucosylceramide
 Sda-beta-GalNAc-transferase	2.4.1.165	N-acetylneuraminylgalactosylglucosylceramide
@@ -1591,6 +1591,9 @@ starch branching enzyme-I	2.4.1.18	1,4-alpha-glucan branching enzyme
 SBE-I	2.4.1.18	1,4-alpha-glucan branching enzyme
 starch branching enzyme	2.4.1.18	1,4-alpha-glucan branching enzyme
 ScoBE	2.4.1.18	1,4-alpha-glucan branching enzyme
+GH57-type glycogen branching enzyme	2.4.1.18	1,4-alpha-glucan branching enzyme
+PhGBE	2.4.1.18	1,4-alpha-glucan branching enzyme
+gene name	2.4.1.18	1,4-alpha-glucan branching enzyme
 BE-01	2.4.1.18	1,4-alpha-glucan branching enzyme
 1,4-alpha-glucan branching enzyme	2.4.1.18	1,4-alpha-glucan branching enzyme
 ManNAcA transferase	2.4.1.180	lipopolysaccharide N-acetylmannosaminouronosyltransferase
@@ -2156,6 +2159,8 @@ mannosyl-3-phosphoglycerate synthase	2.4.1.217	mannosyl-3-phosphoglycerate synth
 MPGS/GPGS	2.4.1.217	mannosyl-3-phosphoglycerate synthase
 mannosyl-3-phosphoglycerate synthase/phosphatase	2.4.1.217	mannosyl-3-phosphoglycerate synthase
 MpgS/P	2.4.1.217	mannosyl-3-phosphoglycerate synthase
+mannosyl-3-phosphoglycerate phosphatase	2.4.1.217	mannosyl-3-phosphoglycerate synthase
+MPGP	2.4.1.217	mannosyl-3-phosphoglycerate synthase
 mannosylglycerate synthase	2.4.1.217	mannosyl-3-phosphoglycerate synthase
 MGSD	2.4.1.217	mannosyl-3-phosphoglycerate synthase
 arbutin synthetase	2.4.1.218	hydroquinone glucosyltransferase
@@ -2569,6 +2574,7 @@ beta4GalNAcTA	2.4.1.244	N-acetyl-beta-glucosaminyl-glycoprotein
 TreT	2.4.1.245	alpha,alpha-trehalose synthase
 trehalose glycosyltransferring synthase	2.4.1.245	alpha,alpha-trehalose synthase
 Trehalose synthase	2.4.1.245	alpha,alpha-trehalose synthase
+PH1035	2.4.1.245	alpha,alpha-trehalose synthase
 MFPS	2.4.1.246	mannosylfructose-phosphate synthase
 D-galactosyl-beta-1,4-L-rhamnose phosphorylase	2.4.1.247	beta-D-galactosyl-(1->4)-L-rhamnose phosphorylase
 cphy1920 protein	2.4.1.247	beta-D-galactosyl-(1->4)-L-rhamnose phosphorylase
@@ -3153,6 +3159,14 @@ GDP-mannose-dependent monoacylated alpha-(1-6)-phosphatidylinositolmonomannoside
 MgtA	2.4.1.346	phosphatidyl-myo-inositol dimannoside synthase
 gene name	2.4.1.346	phosphatidyl-myo-inositol dimannoside synthase
 gene name	2.4.1.346	phosphatidyl-myo-inositol dimannoside synthase
+ADP-glucose-glucose-phosphate glucosyltransferase	2.4.1.347	alpha,alpha-trehalose-phosphate synthase (ADP-forming)
+adenosine-5'-diphosphoglucose-dependent trehalose synthase	2.4.1.347	alpha,alpha-trehalose-phosphate synthase (ADP-forming)
+ADPG-dependent trehalose synthase	2.4.1.347	alpha,alpha-trehalose-phosphate synthase (ADP-forming)
+Tre-6P Sase	2.4.1.347	alpha,alpha-trehalose-phosphate synthase (ADP-forming)
+gene name	2.4.1.347	alpha,alpha-trehalose-phosphate synthase (ADP-forming)
+TPS	2.4.1.347	alpha,alpha-trehalose-phosphate synthase (ADP-forming)
+WbdC	2.4.1.348	N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans,octacis-undecaprenol
+WbdB	2.4.1.349	mannosyl-N-acetyl-alpha-D-glucosaminyl-diphospho-ditrans
 UDP-glucosyltransferase	2.4.1.35	phenol beta-glucosyltransferase
 glucosyltransferase, uridine diphospho-	2.4.1.35	phenol beta-glucosyltransferase
 phenol-beta-D-glucosyltransferase	2.4.1.35	phenol beta-glucosyltransferase
@@ -3160,13 +3174,27 @@ UDP glucosyltransferase	2.4.1.35	phenol beta-glucosyltransferase
 UDP-glucose glucosyltransferase	2.4.1.35	phenol beta-glucosyltransferase
 uridine diphosphoglucosyltransferase	2.4.1.35	phenol beta-glucosyltransferase
 UDP-glucose:glucosyltransferase	2.4.1.35	phenol beta-glucosyltransferase
+gene name	2.4.1.350	mogroside IE synthase
+mogrol C-3 hydroxyl glycosyltransferase	2.4.1.350	mogroside IE synthase
+RG I rhamnosyltransferase	2.4.1.351	rhamnogalacturonan I rhamnosyltransferase
+RRT	2.4.1.351	rhamnogalacturonan I rhamnosyltransferase
+RG-I:rhamnosyltransferase	2.4.1.351	rhamnogalacturonan I rhamnosyltransferase
+GGaP	2.4.1.352	glucosylglycerate phosphorylase
+SdnJ	2.4.1.353	sordaricin 6-deoxyaltrosyltransferase
+GDP-6-deoxyaltrose transferase	2.4.1.353	sordaricin 6-deoxyaltrosyltransferase
+UGT85A19	2.4.1.354	(R)-mandelonitrile beta-glucosyltransferase
+TarS	2.4.1.355	poly(ribitol-phosphate) beta-N-acetylglucosaminyltransferase
+gene name	2.4.1.355	poly(ribitol-phosphate) beta-N-acetylglucosaminyltransferase
+aglG	2.4.1.356	glucosyl-dolichyl phosphate glucuronosyltransferase
+MdPGT1	2.4.1.357	phlorizin synthase
+P2'GT	2.4.1.357	phlorizin synthase
+UGT71K3	2.4.1.358	acylphloroglucinol glucosyltransferase
 TPS	2.4.1.36	alpha,alpha-trehalose-phosphate synthase (GDP-forming)
 GDP-glucose-glucose-phosphate glucosyltransferase	2.4.1.36	alpha,alpha-trehalose-phosphate synthase (GDP-forming)
 GDP glucose-glucosephosphate glucosyltransferase	2.4.1.36	alpha,alpha-trehalose-phosphate synthase (GDP-forming)
 guanosine diphosphoglucose-glucose phosphate glucosyltransferase	2.4.1.36	alpha,alpha-trehalose-phosphate synthase (GDP-forming)
 trehalose phosphate synthase (GDP-forming)	2.4.1.36	alpha,alpha-trehalose-phosphate synthase (GDP-forming)
 glucosyltransferase, guanosine diphosphoglucose-glucose phosphate	2.4.1.36	alpha,alpha-trehalose-phosphate synthase (GDP-forming)
-OtsA	2.4.1.36	alpha,alpha-trehalose-phosphate synthase (GDP-forming)
 UDP-galactose:O-alpha-L-fucosyl(1-2)D-galactosealpha-D-galactosyltransferase	2.4.1.37	fucosylgalactoside 3-alpha-galactosyltransferase
 UDPgalactose:glycoprotein-alpha-L-fucosyl-(1,2)-D-galactose3-alpha-D-galactosyltransferase	2.4.1.37	fucosylgalactoside 3-alpha-galactosyltransferase
 blood-group substance B-dependent galactosyltransferase	2.4.1.37	fucosylgalactoside 3-alpha-galactosyltransferase
@@ -3598,6 +3626,7 @@ collagen galactosyltransferase GLT25D1	2.4.1.50	procollagen galactosyltransferas
 UDP glucose-poly(glycerol-phosphate) alpha-glucosyltransferase	2.4.1.52	poly(glycerol-phosphate) alpha-glucosyltransferase
 uridine diphosphoglucose-poly(glycerol-phosphate)alpha-glucosyltransferase	2.4.1.52	poly(glycerol-phosphate) alpha-glucosyltransferase
 glucosyltransferase, uridine diphosphoglucose-poly(glycerol-phosphate)alpha-	2.4.1.52	poly(glycerol-phosphate) alpha-glucosyltransferase
+UDP-glucose:poly(glycerol-phosphate) alpha-D-glucosyltransferase	2.4.1.52	poly(glycerol-phosphate) alpha-glucosyltransferase
 glucosyltransferase, uridine diphosphoglucose-poly(ribitol-phosphate)beta-	2.4.1.53	poly(ribitol-phosphate) beta-glucosyltransferase
 uridine diphosphoglucose-poly(ribitol-phosphate)beta-glucosyltransferase	2.4.1.53	poly(ribitol-phosphate) beta-glucosyltransferase
 UDP glucose-poly(ribitol-phosphate) beta-glucosyltransferase	2.4.1.53	poly(ribitol-phosphate) beta-glucosyltransferase
@@ -3895,9 +3924,11 @@ unspase	2.4.1.7	sucrose phosphorylase
 sucrose: phosphate alpha-D-glucosyltransferase	2.4.1.7	sucrose phosphorylase
 BiSP	2.4.1.7	sucrose phosphorylase
 1149SPase	2.4.1.7	sucrose phosphorylase
-acetylglucosaminyltransferase, uridinediphosphoacetylglucosamine-poly(ribitol phosphate)	2.4.1.70	poly(ribitol-phosphate) N-acetylglucosaminyltransferase
-UDP acetylglucosamine-poly(ribitol phosphate)acetylglucosaminyltransferase	2.4.1.70	poly(ribitol-phosphate) N-acetylglucosaminyltransferase
-uridine diphosphoacetylglucosamine-poly(ribitol phosphate)acetylglucosaminyltransferase	2.4.1.70	poly(ribitol-phosphate) N-acetylglucosaminyltransferase
+acetylglucosaminyltransferase, uridinediphosphoacetylglucosamine-poly(ribitol phosphate)	2.4.1.70	poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+UDP acetylglucosamine-poly(ribitol phosphate)acetylglucosaminyltransferase	2.4.1.70	poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+uridine diphosphoacetylglucosamine-poly(ribitol phosphate)acetylglucosaminyltransferase	2.4.1.70	poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+poly(ribitol-phosphate) N-acetylglucosaminyltransferase	2.4.1.70	poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
+UDP-N-acetyl-D-glucosamine:poly(ribitol-phosphate)N-acetyl-D-glucosaminyltransferase	2.4.1.70	poly(ribitol-phosphate) alpha-N-acetylglucosaminyltransferase
 glucosyltransferase, uridine diphosphoglucose-arylamine	2.4.1.71	arylamine glucosyltransferase
 uridine diphosphoglucose-arylamine glucosyltransferase	2.4.1.71	arylamine glucosyltransferase
 UDP glucose-arylamine glucosyltransferase	2.4.1.71	arylamine glucosyltransferase
@@ -4034,15 +4065,16 @@ cyanohydrin glycosyltransferase	2.4.1.85	cyanohydrin beta-glucosyltransferase
 UDP-glucose:p-hydroxymandelonitrile-O-glucosyltransferase	2.4.1.85	cyanohydrin beta-glucosyltransferase
 gene name	2.4.1.85	cyanohydrin beta-glucosyltransferase
 mandelonitrile glucosyltransferase	2.4.1.85	cyanohydrin beta-glucosyltransferase
-galactosyltransferase, uridinediphosphogalactose-acetyl-glucosaminylgalactosylglucosylceramide	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferaselceramide
-GalT-4	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferaselceramide
-paragloboside synthase	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferaselceramide
-LcOseCer:GT	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferaselceramide
-UDPgalactose:N-acetyl-D-glucosaminyl-1,3-D-galactosyl-14-D-glucosylceramide beta-D-galactosyltransferase	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferaselceramide
-glucosaminylgalactosylglucosylceramide beta-galactosyltransferase	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferaselceramide
-UDP-galactose:N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1>4)-beta-D-glucosyl-(1	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferaselceramide
-UDP-Gal:LcOse3Cer beta1,4-galactosyltransferase	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferaselceramide
-beta1,4GalT-4	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferaselceramide
+galactosyltransferase, uridinediphosphogalactose-acetyl-glucosaminylgalactosylglucosylceramide	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase
+GalT-4	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase
+paragloboside synthase	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase
+LcOseCer:GT	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase
+UDPgalactose:N-acetyl-D-glucosaminyl-1,3-D-galactosyl-14-D-glucosylceramide beta-D-galactosyltransferase	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase
+glucosaminylgalactosylglucosylceramide beta-galactosyltransferase	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase
+UDP-galactose:N-acetyl-beta-D-glucosaminyl-(1->3)-beta-D-galactosyl-(1>4)-beta-D-glucosyl-(1	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase
+N-acetyl-beta-D-glucosaminidebeta-(1,3)-galactosyltransferaselceramide beta-galactosyltransferase	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase
+UDP-Gal:LcOse3Cer beta1,4-galactosyltransferase	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase
+beta1,4GalT-4	2.4.1.86	N-acetyl-beta-D-glucosaminide beta-(1,3)-galactosyltransferase
 alpha-galactosyltransferase	2.4.1.87	N-acetyllactosaminide 3-alpha-galactosyltransferase
 UDP-D-Gal(1,4)-D-GlcNAc alpha(1,3)-galactosyltransferase	2.4.1.87	N-acetyllactosaminide 3-alpha-galactosyltransferase
 UDP-Gal:N-acetyllactoseaminide alpha(1,3)-galactosyltransferase	2.4.1.87	N-acetyllactosaminide 3-alpha-galactosyltransferase
@@ -4232,6 +4264,8 @@ uridine diphosphoacetylgalactosamine-ganglioside GM3acetylgalactosaminyltransfer
 UDP-N-acetylgalactosaminyltransferase I	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 GalNAcT	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 betaGalNAc-T4	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
+GA2 synthase	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
+UDP-2-acetamido-2-deoxy-D-galactose:(N-acetylneuraminyl)-D-galactosyl-Dglucosyl-N-acylsphingosine acetamidodeoxygalactosyl-transferase	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 beta4GalNAcT	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 beta4GalNAcTA	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 beta 1,4-N-acetylgalactosaminyltransferase-A	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
@@ -4256,35 +4290,15 @@ beta-(1-4)-N-acetylgalactosaminyltransferase	2.4.1.92	(N-acetylneuraminyl)-galac
 CgtA	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 beta-(1->4)-N-acetylgalactosaminyltransferase	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 CJL-30	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
-GD2 synthase	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 UniProt	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 beta-1,4-N-acetyl-galactosaminyltransferase 1	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
+GD2 synthase	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 GM2/GD2 synthase	2.4.1.92	(N-acetylneuraminyl)-galactosylglucosylceramide
 acetylglucosaminyltransferase, uridinediphosphoacetylglucosamine-protein	2.4.1.94	protein N-acetylglucosaminyltransferase
 uridine diphosphoacetylglucosamine-proteinacetylglucosaminyltransferase	2.4.1.94	protein N-acetylglucosaminyltransferase
 uridine diphospho-N-acetylglucosamine:polypeptidebeta-N-acetylglucosaminyltransferase	2.4.1.94	protein N-acetylglucosaminyltransferase
 O-GlcNAc transferase	2.4.1.94	protein N-acetylglucosaminyltransferase
 sugar transferase	2.4.1.94	protein N-acetylglucosaminyltransferase
-glucuronosyltransferase, bilirubin glucuronoside	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-bilirubin glucuronoside glucuronosyltransferase	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-bilirubin monoglucuronide transglucuronidase	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UDP-glucuronosyltransferase	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT 1A4	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT 1A6	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT 1A1	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UDP-glucuronosyltransferase 1A1	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A1	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A6	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A7	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A10A	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A10B	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A9	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UDP-glucuronosyltransferase 1A	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A8	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A2A	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A4	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A5A	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
-UGT1A5B	2.4.1.95	bilirubin-glucuronoside glucuronosyltransferase
 isofloridoside-phosphate synthase	2.4.1.96	sn-glycerol-3-phosphate 1-galactosyltransferase
 UDP-Gal:sn-glycero-3-phosphoric acid 1-alpha-galactosyl-transferase	2.4.1.96	sn-glycerol-3-phosphate 1-galactosyltransferase
 UDPgalactose:sn-glycerol-3-phosphate alpha-D-galactosyltransferase	2.4.1.96	sn-glycerol-3-phosphate 1-galactosyltransferase
@@ -4978,6 +4992,8 @@ archaeosine tRNA-guanine transglycosylase	2.4.2.48	tRNA-guanine15 transglycosyla
 tRNA-guanine transglycosylase	2.4.2.48	tRNA-guanine15 transglycosylase
 TGT	2.4.2.48	tRNA-guanine15 transglycosylase
 archaeosine tRNAguanine transglycosylase	2.4.2.48	tRNA-guanine15 transglycosylase
+gene name	2.4.2.48	tRNA-guanine15 transglycosylase
+multisite-specific archaeosine tRNA-guanine transglycosylase	2.4.2.48	tRNA-guanine15 transglycosylase
 gene name	2.4.2.49	neamine phosphoribosyltransferase
 gene name	2.4.2.49	neamine phosphoribosyltransferase
 ribosyltransferase, nucleoside	2.4.2.5	nucleoside ribosyltransferase
@@ -5016,6 +5032,7 @@ isoform	2.4.2.58	hydroxyproline O-arabinosyltransferase
 isoform	2.4.2.58	hydroxyproline O-arabinosyltransferase
 isoform	2.4.2.58	hydroxyproline O-arabinosyltransferase
 gene name	2.4.2.58	hydroxyproline O-arabinosyltransferase
+Thi4	2.4.2.59	sulfide-dependent adenosine diphosphate thiazole synthase
 purine(pyrimidine) nucleoside:purine(pyrimidine) deoxyribosyltransferase	2.4.2.6	nucleoside deoxyribosyltransferase
 deoxyribosyltransferase, nucleoside	2.4.2.6	nucleoside deoxyribosyltransferase
 deoxyribose transferase	2.4.2.6	nucleoside deoxyribosyltransferase
@@ -5045,6 +5062,12 @@ N-deoxyribosyltransferase II	2.4.2.6	nucleoside deoxyribosyltransferase
 strictly specific for transfer between purine bases	2.4.2.6	nucleoside deoxyribosyltransferase
 catalyzes the transfer of the deoxyribosyl moietybetween purines or pyrimidines as well as from a purine to a pyrimidine	2.4.2.6	nucleoside deoxyribosyltransferase
 NDT-II	2.4.2.6	nucleoside deoxyribosyltransferase
+ADP-thiazole synthase	2.4.2.60	cysteine-dependent adenosine diphosphate thiazole synthase
+Thi4	2.4.2.60	cysteine-dependent adenosine diphosphate thiazole synthase
+CyPBP37	2.4.2.60	cysteine-dependent adenosine diphosphate thiazole synthase
+gene name	2.4.2.60	cysteine-dependent adenosine diphosphate thiazole synthase
+Thi-4	2.4.2.60	cysteine-dependent adenosine diphosphate thiazole synthase
+THI1	2.4.2.60	cysteine-dependent adenosine diphosphate thiazole synthase
 transphosphoribosidase	2.4.2.7	adenine phosphoribosyltransferase
 AMP pyrophosphorylase	2.4.2.7	adenine phosphoribosyltransferase
 AMP-pyrophosphate phosphoribosyltransferase	2.4.2.7	adenine phosphoribosyltransferase
@@ -5320,15 +5343,27 @@ ST-IV	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
 alpha(2,3)-sialyltransferase IV	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
 monosialoganglioside sialyltransferase	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
 CMP-N-acetylneuraminate:D-galactosyl-N-acetyl-D-galactosaminyl-(Nacetylneuraminyl)-D-galactosyl-D-glucosyl-(1	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
-alpha2,3-sialyltransferase	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
-ST3Gal IV	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3Gal II	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3GAL I/II	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
 ST3 beta-galactoside alpha-2,3-sialyltransferase 4	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
-ST3GAL4	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
-alpha(2,3)sialyltransferases	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
-isoform	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3Gal IV	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+hST3Gal II	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3GAL2	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3Gal VI	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3GalA.2	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
 ST3GalIV	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+alpha2,3(N)ST	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+alpha2,3(O)ST	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+alpha2,3(N) sialyltransferase	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+alpha2,3(O) sialyltransferase	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3Gal5	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
 monosialylganglioside-2,3-sialyltransferase	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
 SAT IV	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3Gal III	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3Gal-I	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3Gal I	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3GAL1	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
+ST3GalA.1	2.4.99.2	beta-D-galactosyl-(1->3)-N-acetyl-beta-D-galactosaminide
 gene name	2.4.99.20	2'-phospho-ADP-ribosyl cyclase/2'-phospho-cyclic-ADP-ribose transferase
 ambiguous	2.4.99.20	2'-phospho-ADP-ribosyl cyclase/2'-phospho-cyclic-ADP-ribose transferase
 gene name	2.4.99.20	2'-phospho-ADP-ribosyl cyclase/2'-phospho-cyclic-ADP-ribose transferase
@@ -5367,7 +5402,6 @@ i.e. human ST6GalNAc-II	2.4.99.3	alpha-N-acetylgalactosaminide alpha-2,6-sialylt
 alpha2-->3 sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 alpha 2,3-ST	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 alpha3-SA-T	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha3SA-T	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 galbeta1,3galNAcalpha2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 beta-galactoside alpha-2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 beta-D-Gal-(1-3)-D-GalNAc alpha-(2-3)-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
@@ -5378,60 +5412,25 @@ CMP-SA:Galbeta3GalNAc-R alpha3-sialyltransferase	2.4.99.4	beta-galactoside alpha
 CMP-sialic acid:Galbeta1-3GalNAc-R alpha3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 Gal-NAc6S	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 Gal-beta-1,3-GalNAc-alpha-2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
+Galbeta1,3GalNAc alpha2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 NeuAc alpha-2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 sialyltransferase, cytidinemonophosphoacetylneuraminate-beta-galactoside alpha2-->3-	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 SIATFL	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
+ST3Gal I	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 ST3GalA.1	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 ST3GalIA	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 ST3O	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-ST1	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-multifunctional sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-ST2	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-multifunctional enzyme whichhas alpha2-6-sialyltransferase, alpha2-3-sialidase, andalpha2-3-trans-sialidase activities in addition to its majoralpha2-3-sialyltransferase activity	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha2,3PST	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-beta-galactosidealpha2,3-sialyltransferases	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-sialyltransferase-4A	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha2-3 sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-SIAT4A	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-CMP-N-acetylneuraminate-beta-galactosamide-alpha-	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-2,3-sialyltransferase 1	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-Galbeta1,3GalNAc alpha2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 isoform	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-bifunctional lipopolysaccharide sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-Lic3B	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-Lic3A	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-cf. EC 2.4.99.1	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
+alpha3SA-T	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 alpha-2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha/beta-galactoside alpha2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha2-3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-isoform	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-ST3Gal-II	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-HAC1267	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-isoform	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-isoform	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha2-3 sialyltransferase IV	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-ST3	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-gene name	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-isoform	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-isoform	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-Gal beta 1,3 GalNAc alpha 2,3-sialyltransferase II	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha 2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-ST3GalI	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha2,3(N)ST	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha2,3(O)ST	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 beta-galactoside a-2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha(2,3)sialyltransferases	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 St3gal	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 beta-galactoside alpha2,3-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-isoform	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha2,3-(O)-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-STO3	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-Galbeta-1,3-GalNAc-beta-2,3-(O)-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-ST3Gal-III	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha-(2->3)-sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-alpha-(2->3)-sialyltransferases	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
-the bifunctional enzyme exhibitsalpha2,3-sialyltransferase and alpha2,8-sialyltransferase activities	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
+CMP-SA:Gal63GalNAc-R alpha3-sialyltransferase (SA to Gal)	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
+ST1	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
+multifunctional enzyme which hasalpha2-6-sialyltransferase, alpha2-3-sialidase, andalpha2-3-trans-sialidase activities in addition to its majoralpha2-3-sialyltransferase activity	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
+ST3Gal-II	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
+beta-D-galactoside alpha2->3 sialyltransferase	2.4.99.4	beta-galactoside alpha-2,3-sialyltransferase
 sialyltransferase, cytidinemonophosphoacetylneuraminate-galactosyldiacylglycerol	2.4.99.5	galactosyldiacylglycerol alpha-2,3-sialyltransferase
 Galbeta-1,4/3-GlcNAcalpha-2,3-(N)-sialyltransferase	2.4.99.5	galactosyldiacylglycerol alpha-2,3-sialyltransferase
 sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
@@ -5444,39 +5443,24 @@ alpha2-->3 sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltran
 Gal beta-1,3(4) GlcNAc alpha-2,3 sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
 N-acetyllactosaminide alpha-2,3-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
 ST3N	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+Galbeta(1->4)GlcNAc-R alpha(2->3)sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+ST3Gal IV	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+ST3Gal-IV	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+ST3Gal VI	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+PmST1	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+GT-42 sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+Hb-ST2	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+ST3Gal-III	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+HAC1267	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
 ST3Gal3	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-ST3Gal-I	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha-2,3-sialyltransferase-3	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha2,3-sialyltransferase VI	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-isoform	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-Galbeta1-3/4GlcNAc alpha2,3-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
 St3gal6	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-paragloboside (neolactotetraosylceramide)alpha2,3sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha2,3sialyltransferase VI	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-ST1	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-multifunctional enzyme	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-isoform	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha,2,3-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-ST3Gal II	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha2,3-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-isoform	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha 2,3-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-stage-specific embryonic antigen-4 synthase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-MSGb5 synthase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-GST3GalII	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-GST3GalIII	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha2,3-sialyltransferase III	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+Galbeta1->4GlcNAc-R alpha2->3-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+CMP-NeuAc:Gal beta 1-4GlcNAc-R alpha(2-3)-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
 alpha2,3(N)ST	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
 alpha2,3(O)ST	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-ST3GalIII	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-isoform	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha-(2,3)-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-(2,3)-alpha-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-ST3Gal-III	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha2,3-(N)-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha-2,3-ST	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-alpha-2,3-sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
-the viral enzyme utilizes disaccharides type I-III andalso fucosylated Lewis a and Lewis x and represents an enzyme formdistinct from the vertebrate enzyme, the enzyme is named v-ST3Gal Iwithin an extra viral nomenclature independent of the nomenclature forvertebrate enzymes	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+alpha2,3(N) sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+alpha2,3(O) sialyltransferase	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
+ST3Gal III	2.4.99.6	N-acetyllactosaminide alpha-2,3-sialyltransferase
 sialyltransferase	2.4.99.7	alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1
 sialyltransferase, cytidinemonophosphoacetylneuraminate-(alpha-N-acetylneuraminyl-23-beta-galactosyl-1,3)-N-acetylgalactosaminide-alpha-26-sialyltransferase	2.4.99.7	alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1
 NeuAc-alpha-2,3-Gal-beta-1,3-GalNAc-alpha-2,6-sialyltransferase	2.4.99.7	alpha-N-acetylneuraminyl-2,3-beta-galactosyl-1
@@ -5527,6 +5511,7 @@ isoform	2.4.99.8	alpha-N-acetylneuraminate alpha-2,8-sialyltransferase
 Pst	2.4.99.8	alpha-N-acetylneuraminate alpha-2,8-sialyltransferase
 CMP-NeuAc:GM3 alpha 2,8-sialyltransferase	2.4.99.8	alpha-N-acetylneuraminate alpha-2,8-sialyltransferase
 ST8Sia-1	2.4.99.8	alpha-N-acetylneuraminate alpha-2,8-sialyltransferase
+CMP-N-acetylneuraminate:N-acetyl-neuraminyl-D-galactosyl-D-glucosylceramide N-acetylneuraminylalpha2->8 transferase	2.4.99.8	alpha-N-acetylneuraminate alpha-2,8-sialyltransferase
 sialyltransferase	2.4.99.8	alpha-N-acetylneuraminate alpha-2,8-sialyltransferase
 NmB-polyST	2.4.99.8	alpha-N-acetylneuraminate alpha-2,8-sialyltransferase
 membrane-associated polysialyltransferase	2.4.99.8	alpha-N-acetylneuraminate alpha-2,8-sialyltransferase

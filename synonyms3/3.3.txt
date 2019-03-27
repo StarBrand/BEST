@@ -31,22 +31,22 @@ AdoHcy hydrolase	3.3.1.1	adenosylhomocysteinase
 AdoHcyase	3.3.1.1	adenosylhomocysteinase
 Sah1p	3.3.1.1	adenosylhomocysteinase
 Sah1	3.3.1.1	adenosylhomocysteinase
-methylmethionine-sulfonium-salt hydrolase	3.3.1.2	adenosylmethionine hydrolase
-hydrolase, adenosylmethionine	3.3.1.2	adenosylmethionine hydrolase
-hydrolase, methylmethionine sulfonium salt	3.3.1.2	adenosylmethionine hydrolase
-methyl-L-methionine sulfonium salt hydrolase	3.3.1.2	adenosylmethionine hydrolase
-methylmethionine sulfonium salt hydrolase	3.3.1.2	adenosylmethionine hydrolase
-S-adenosylmethionine hydrolase	3.3.1.2	adenosylmethionine hydrolase
-AdoMet hydrolase	3.3.1.2	adenosylmethionine hydrolase
-AdoMetase	3.3.1.2	adenosylmethionine hydrolase
-S-adenosylmethionine cleaving enzyme	3.3.1.2	adenosylmethionine hydrolase
-adenosylmethionine lyase	3.3.1.2	adenosylmethionine hydrolase
-methylmethionine-sulfonim-salt hydrolase	3.3.1.2	adenosylmethionine hydrolase
-MMSHase	3.3.1.2	adenosylmethionine hydrolase
-methylmethionine sulfonim hydrolase	3.3.1.2	adenosylmethionine hydrolase
-SAMase	3.3.1.2	adenosylmethionine hydrolase
-Adenosylmethionine hydrolase	3.3.1.2	adenosylmethionine hydrolase
-S-adenosyl-L-methionine hydrolase	3.3.1.2	adenosylmethionine hydrolase
+methylmethionine-sulfonium-salt hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+hydrolase, adenosylmethionine	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+hydrolase, methylmethionine sulfonium salt	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+methyl-L-methionine sulfonium salt hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+methylmethionine sulfonium salt hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+S-adenosylmethionine hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+AdoMet hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+AdoMetase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+S-adenosylmethionine cleaving enzyme	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+adenosylmethionine lyase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+methylmethionine-sulfonim-salt hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+MMSHase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+methylmethionine sulfonim hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+SAMase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+Adenosylmethionine hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+S-adenosyl-L-methionine hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
 2,3-dihydro-2,3-dihydroxybenzoate synthase	3.3.2.1	isochorismatase
 2,3-dihydroxy-2,3-dihydrobenzoate synthase	3.3.2.1	isochorismatase
 2,3-dihydroxy-2,3-dihydrobenzoic synthase	3.3.2.1	isochorismatase
@@ -163,6 +163,7 @@ see also 3.1.3.76	3.3.2.9	microsomal epoxide hydrolase
 gene name	3.3.2.9	microsomal epoxide hydrolase
 gene name	3.3.2.9	microsomal epoxide hydrolase
 mEH1	3.3.2.9	microsomal epoxide hydrolase
+Eha	3.3.2.9	microsomal epoxide hydrolase
 microsomal xenobiotic epoxide hydrolase	3.3.2.9	microsomal epoxide hydrolase
 styrene-epoxide hydrolase	3.3.2.9	microsomal epoxide hydrolase
 EPHX 1	3.3.2.9	microsomal epoxide hydrolase

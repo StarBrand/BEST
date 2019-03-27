@@ -163,11 +163,14 @@ shinyServer(function(input, output, session) {
       shinyjs::show("logOut")
       shinyjs::hide("pass")
       shinyjs::hide("logIn")
-      new_folder <- paste(input$mail, "_results/", sep = "")
+      new_folder <- paste("results/", input$mail, "/", sep = "")
       folder(new_folder)
       updateTabItems(session, "inTabset", "enzyme")
     } else if(keep == "Incorrect password"){
       wrongPassword()
+      shinyjs::click("logOut")
+    } else if(keep == "Not Activated Account"){
+      noActivated()
       shinyjs::click("logOut")
     } else if (keep == "Not a Brenda User"){
       noAccount()

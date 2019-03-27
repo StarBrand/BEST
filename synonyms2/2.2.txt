@@ -161,9 +161,10 @@ PaDXS2B	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
 DXPase	2.2.1.7	1-deoxy-D-xylulose-5-phosphate synthase
 4-fluorothreoinine transaldolase	2.2.1.8	fluorothreonine transaldolase
 4-FTase	2.2.1.8	fluorothreonine transaldolase
-SEPHCHC synthase	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid
 MenD	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid
+SEPHCHC synthase	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid
 SHCHC synthase	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid
 EcMenD	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid
 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylatesynthase	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid
 2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexadiene-1-carboxylatesynthase	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid
+(1R,2S,5S6S)-2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylatesynthase	2.2.1.9	2-succinyl-5-enolpyruvyl-6-hydroxy-3-cyclohexene-1-carboxylic-acid

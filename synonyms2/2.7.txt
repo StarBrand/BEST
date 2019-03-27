@@ -1420,7 +1420,8 @@ maltose permease	2.7.1.208	protein-Npi-phosphohistidine-maltose phosphotransfera
 gene name	2.7.1.208	protein-Npi-phosphohistidine-maltose phosphotransferase
 enzyme IIMal	2.7.1.208	protein-Npi-phosphohistidine-maltose phosphotransferase
 maltose PTS	2.7.1.208	protein-Npi-phosphohistidine-maltose phosphotransferase
-gene name	2.7.1.209	L-erythrulose 4-kinase
+L-erythrulose 4-kinase	2.7.1.209	L-erythrulose 1-kinase
+gene name	2.7.1.209	L-erythrulose 1-kinase
 kinase, thymidine (phosphorylating)	2.7.1.21	thymidine kinase
 kinase, deoxythymidine (phosphorylating)	2.7.1.21	thymidine kinase
 ATP-thymidine 5'-phosphotransferase	2.7.1.21	thymidine kinase
@@ -1487,6 +1488,11 @@ FOLK	2.7.1.216	farnesol kinase
 gene name	2.7.1.216	farnesol kinase
 otnK	2.7.1.217	3-dehydrotetronate 4-kinase
 3-oxo-tetronate kinase	2.7.1.217	3-dehydrotetronate 4-kinase
+YhfQ	2.7.1.218	fructoselysine 6-kinase
+frlD	2.7.1.218	fructoselysine 6-kinase
+YurL	2.7.1.218	fructoselysine 6-kinase
+dtnK	2.7.1.219	D-threonate 4-kinase
+D-threonate kinase	2.7.1.219	D-threonate 4-kinase
 kinase, ribosylnicotinamide (phosphorylating)	2.7.1.22	ribosylnicotinamide kinase
 NadR	2.7.1.22	ribosylnicotinamide kinase
 nicotinamide ribose kinase	2.7.1.22	ribosylnicotinamide kinase
@@ -1494,6 +1500,11 @@ NmR-K	2.7.1.22	ribosylnicotinamide kinase
 Nrk	2.7.1.22	ribosylnicotinamide kinase
 nicotinamide riboside kinase	2.7.1.22	ribosylnicotinamide kinase
 NRK1	2.7.1.22	ribosylnicotinamide kinase
+denK	2.7.1.220	D-erythronate 4-kinase
+gene name	2.7.1.221	N-acetylmuramate 1-kinase
+amgK	2.7.1.221	N-acetylmuramate 1-kinase
+gene name	2.7.1.221	N-acetylmuramate 1-kinase
+PsiK	2.7.1.222	4-hydroxytryptamine kinase
 DPN kinase	2.7.1.23	NAD+ kinase
 kinase, nicotinamide adenine dinucleotide (phosphorylating)	2.7.1.23	NAD+ kinase
 nicotinamide adenine dinucleotide kinase	2.7.1.23	NAD+ kinase
@@ -1881,12 +1892,12 @@ Pyk1	2.7.1.40	pyruvate kinase
 pyruvate kinase 1	2.7.1.40	pyruvate kinase
 L-PYK	2.7.1.40	pyruvate kinase
 locus name	2.7.1.40	pyruvate kinase
-gene name	2.7.1.40	pyruvate kinase
 pyruvate phosphotransferase	2.7.1.40	pyruvate kinase
 M1-PYK	2.7.1.40	pyruvate kinase
 RMPK	2.7.1.40	pyruvate kinase
 rM1-PYK	2.7.1.40	pyruvate kinase
 phosphoenolpyruvate: ADP phosphotransferase	2.7.1.40	pyruvate kinase
+gene name	2.7.1.40	pyruvate kinase
 PKC1	2.7.1.40	pyruvate kinase
 isoform	2.7.1.40	pyruvate kinase
 PKC	2.7.1.40	pyruvate kinase
@@ -3756,6 +3767,9 @@ serine/threonine-protein kinase ASK2	2.7.11.1	non-specific serine/threonine prot
 casein kinase2	2.7.11.1	non-specific serine/threonine protein kinase
 CPK	2.7.11.1	non-specific serine/threonine protein kinase
 subunit	2.7.11.1	non-specific serine/threonine protein kinase
+STN7	2.7.11.1	non-specific serine/threonine protein kinase
+serine/threonine-protein kinase7	2.7.11.1	non-specific serine/threonine protein kinase
+STN7 kinase	2.7.11.1	non-specific serine/threonine protein kinase
 calcium-dependent protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 Ser/Thr protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 CDPK	2.7.11.1	non-specific serine/threonine protein kinase
@@ -3869,11 +3883,11 @@ hPAK1	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine-protein kinase PAK 2	2.7.11.1	non-specific serine/threonine protein kinase
 PAK-3	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine-protein kinase STE20 homolog	2.7.11.1	non-specific serine/threonine protein kinase
-serine/threonine-protein kinase PAK 7	2.7.11.1	non-specific serine/threonine protein kinase
 membrane-associated protein-serine/threonine kinase	2.7.11.1	non-specific serine/threonine protein kinase
 SsoPK2	2.7.11.1	non-specific serine/threonine protein kinase
 SsoPK3	2.7.11.1	non-specific serine/threonine protein kinase
 protein–serine/threonine kinase	2.7.11.1	non-specific serine/threonine protein kinase
+serine/threonine-protein kinase PAK 7	2.7.11.1	non-specific serine/threonine protein kinase
 BRAF	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine kinase PRP4 homolog	2.7.11.1	non-specific serine/threonine protein kinase
 protein kinase dsk1	2.7.11.1	non-specific serine/threonine protein kinase
@@ -3884,9 +3898,9 @@ protein kinase HIPK2	2.7.11.1	non-specific serine/threonine protein kinase
 CD43-associated serine/threonine kinase	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine-protein kinase RIM15	2.7.11.1	non-specific serine/threonine protein kinase
 protein kinase Rim15p	2.7.11.1	non-specific serine/threonine protein kinase
-serine/threonine-protein kinase NEK3	2.7.11.1	non-specific serine/threonine protein kinase
 SpkA	2.7.11.1	non-specific serine/threonine protein kinase
 SpkG	2.7.11.1	non-specific serine/threonine protein kinase
+serine/threonine-protein kinase NEK3	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine-protein kinase NEK2	2.7.11.1	non-specific serine/threonine protein kinase
 negative regulator of sexual conjugation and meiosis	2.7.11.1	non-specific serine/threonine protein kinase
 nitrogen permease reactivator protein	2.7.11.1	non-specific serine/threonine protein kinase
@@ -3910,8 +3924,8 @@ Cdc7Hs protein	2.7.11.1	non-specific serine/threonine protein kinase
 HsCdc7	2.7.11.1	non-specific serine/threonine protein kinase
 cell division cycle 7-related protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 cell division control protein 7	2.7.11.1	non-specific serine/threonine protein kinase
-cell cycle protein kinase hsk1	2.7.11.1	non-specific serine/threonine protein kinase
 ORF47 protein	2.7.11.1	non-specific serine/threonine protein kinase
+cell cycle protein kinase hsk1	2.7.11.1	non-specific serine/threonine protein kinase
 cell cycle protein kinase spo4	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine-protein kinase 1	2.7.11.1	non-specific serine/threonine protein kinase
 serine-threonine kinase pk-1	2.7.11.1	non-specific serine/threonine protein kinase
@@ -3942,10 +3956,10 @@ BA-Stk1	2.7.11.1	non-specific serine/threonine protein kinase
 PI3Kdelta	2.7.11.1	non-specific serine/threonine protein kinase
 PI3Kgamma	2.7.11.1	non-specific serine/threonine protein kinase
 phosphoinositide 3-kinase	2.7.11.1	non-specific serine/threonine protein kinase
-p110alpha	2.7.11.1	non-specific serine/threonine protein kinase
 YabT	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine-protein kinase transforming protein mil	2.7.11.1	non-specific serine/threonine protein kinase
+p110alpha	2.7.11.1	non-specific serine/threonine protein kinase
 Ca2+/calmodulin-dependent protein kinase II	2.7.11.1	non-specific serine/threonine protein kinase
 PK1	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine-specific protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
@@ -3976,8 +3990,8 @@ MAST-l	2.7.11.1	non-specific serine/threonine protein kinase
 MAST1	2.7.11.1	non-specific serine/threonine protein kinase
 microtubule-associated serine/threonine kinase family	2.7.11.1	non-specific serine/threonine protein kinase
 Murine serine-threonine kinase 38	2.7.11.1	non-specific serine/threonine protein kinase
-mycobacterial serine/threonine protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine-protein kinase transforming protein Rmil	2.7.11.1	non-specific serine/threonine protein kinase
+mycobacterial serine/threonine protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 Stk33	2.7.11.1	non-specific serine/threonine protein kinase
 PknA	2.7.11.1	non-specific serine/threonine protein kinase
 PknG	2.7.11.1	non-specific serine/threonine protein kinase
@@ -3986,6 +4000,7 @@ AaSTPK	2.7.11.1	non-specific serine/threonine protein kinase
 STK38	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine kinase 38	2.7.11.1	non-specific serine/threonine protein kinase
 nuclear Dbf2-related 1	2.7.11.1	non-specific serine/threonine protein kinase
+serine-threonine kinase 38	2.7.11.1	non-specific serine/threonine protein kinase
 SAPK4	2.7.11.1	non-specific serine/threonine protein kinase
 SNF1-type serine-threonine protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 PkaD	2.7.11.1	non-specific serine/threonine protein kinase
@@ -3995,48 +4010,70 @@ MAST4	2.7.11.1	non-specific serine/threonine protein kinase
 Rio2 protein	2.7.11.1	non-specific serine/threonine protein kinase
 RIO serine protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 CPK21	2.7.11.1	non-specific serine/threonine protein kinase
+RMIL serine/threonine-protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 eukaryotic-like serine/threonine protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 ESTPK	2.7.11.1	non-specific serine/threonine protein kinase
-RMIL serine/threonine-protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 serine kinase Rio1	2.7.11.1	non-specific serine/threonine protein kinase
 Rio1 kinase	2.7.11.1	non-specific serine/threonine protein kinase
 afRio1 kinase	2.7.11.1	non-specific serine/threonine protein kinase
 gene name	2.7.11.1	non-specific serine/threonine protein kinase
 locus name	2.7.11.1	non-specific serine/threonine protein kinase
 SsoPK5	2.7.11.1	non-specific serine/threonine protein kinase
+pprA	2.7.11.1	non-specific serine/threonine protein kinase
 locus name	2.7.11.1	non-specific serine/threonine protein kinase
 RqkA	2.7.11.1	non-specific serine/threonine protein kinase
+eukaryotic type serine/threonine protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
+UniProt	2.7.11.1	non-specific serine/threonine protein kinase
+gene name	2.7.11.1	non-specific serine/threonine protein kinase
+gene name	2.7.11.1	non-specific serine/threonine protein kinase
 testis-specific serine/threonine kinase 1	2.7.11.1	non-specific serine/threonine protein kinase
 isoform	2.7.11.1	non-specific serine/threonine protein kinase
 testis-specific serine/threonine kinase 4	2.7.11.1	non-specific serine/threonine protein kinase
+gene name	2.7.11.1	non-specific serine/threonine protein kinase
+UniProt	2.7.11.1	non-specific serine/threonine protein kinase
+UniProt	2.7.11.1	non-specific serine/threonine protein kinase
+UniProt	2.7.11.1	non-specific serine/threonine protein kinase
 SpkB	2.7.11.1	non-specific serine/threonine protein kinase
-SpkD	2.7.11.1	non-specific serine/threonine protein kinase
 LIMK	2.7.11.1	non-specific serine/threonine protein kinase
 LIM domain kinase 1	2.7.11.1	non-specific serine/threonine protein kinase
-SpkE	2.7.11.1	non-specific serine/threonine protein kinase
+SpkD	2.7.11.1	non-specific serine/threonine protein kinase
+gene name	2.7.11.1	non-specific serine/threonine protein kinase
+serine/threonine-protein kinase-like protein E	2.7.11.1	non-specific serine/threonine protein kinase
+gene name	2.7.11.1	non-specific serine/threonine protein kinase
 isoform	2.7.11.1	non-specific serine/threonine protein kinase
 isoform	2.7.11.1	non-specific serine/threonine protein kinase
 isoform	2.7.11.1	non-specific serine/threonine protein kinase
 isoform	2.7.11.1	non-specific serine/threonine protein kinase
 isoform	2.7.11.1	non-specific serine/threonine protein kinase
-PkaE	2.7.11.1	non-specific serine/threonine protein kinase
+gene name	2.7.11.1	non-specific serine/threonine protein kinase
 ATM	2.7.11.1	non-specific serine/threonine protein kinase
 ataxia-telangiectasia mutated	2.7.11.1	non-specific serine/threonine protein kinase
 phosphatidylinositol 3-kinase-related kinase	2.7.11.1	non-specific serine/threonine protein kinase
 PIKK	2.7.11.1	non-specific serine/threonine protein kinase
 ATR	2.7.11.1	non-specific serine/threonine protein kinase
 ataxia- and Rad3-related	2.7.11.1	non-specific serine/threonine protein kinase
+Kiz-1	2.7.11.1	non-specific serine/threonine protein kinase
 DNA-PKcs	2.7.11.1	non-specific serine/threonine protein kinase
 DNA-dependent protein kinase catalytic subunit	2.7.11.1	non-specific serine/threonine protein kinase
-Kiz-1	2.7.11.1	non-specific serine/threonine protein kinase
 RIP2	2.7.11.1	non-specific serine/threonine protein kinase
 CARDIAK	2.7.11.1	non-specific serine/threonine protein kinase
 receptor-interacting serine/threonine kinase 2	2.7.11.1	non-specific serine/threonine protein kinase
-RIPK2	2.7.11.1	non-specific serine/threonine protein kinase
+gene name	2.7.11.1	non-specific serine/threonine protein kinase
 CARD3	2.7.11.1	non-specific serine/threonine protein kinase
 RICK	2.7.11.1	non-specific serine/threonine protein kinase
 SMG-1	2.7.11.1	non-specific serine/threonine protein kinase
 suppressor of morphogenesis in genitalia-1	2.7.11.1	non-specific serine/threonine protein kinase
+PTK	2.7.11.1	non-specific serine/threonine protein kinase
+CKII alpha	2.7.11.1	non-specific serine/threonine protein kinase
+OspCKII	2.7.11.1	non-specific serine/threonine protein kinase
+locus name	2.7.11.1	non-specific serine/threonine protein kinase
+plastid casein kinase II	2.7.11.1	non-specific serine/threonine protein kinase
+plastid transcription kinase	2.7.11.1	non-specific serine/threonine protein kinase
+RNP kinase	2.7.11.1	non-specific serine/threonine protein kinase
+casein kinase 2 alpha4	2.7.11.1	non-specific serine/threonine protein kinase
+Pim1 serine/threonine kinase	2.7.11.1	non-specific serine/threonine protein kinase
+serine/	2.7.11.1	non-specific serine/threonine protein kinase
+threonine Pim kinase	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine-protein kinase CTR1	2.7.11.1	non-specific serine/threonine protein kinase
 ribosomal S6 kinase 2	2.7.11.1	non-specific serine/threonine protein kinase
 p70 ribosomal S6 kinase 1	2.7.11.1	non-specific serine/threonine protein kinase
@@ -4052,8 +4089,8 @@ TPL2	2.7.11.1	non-specific serine/threonine protein kinase
 Tssk3	2.7.11.1	non-specific serine/threonine protein kinase
 murine protein serine-threonine kinase 38	2.7.11.1	non-specific serine/threonine protein kinase
 calcium and calmodulin-dependent serine/threonine protein kinasetype II	2.7.11.1	non-specific serine/threonine protein kinase
-casein kinase 1delta	2.7.11.1	non-specific serine/threonine protein kinase
 Ser/Thr kinase	2.7.11.1	non-specific serine/threonine protein kinase
+casein kinase 1delta	2.7.11.1	non-specific serine/threonine protein kinase
 CaMKII	2.7.11.1	non-specific serine/threonine protein kinase
 testis-specific serine/threonine kinase	2.7.11.1	non-specific serine/threonine protein kinase
 TSSK5	2.7.11.1	non-specific serine/threonine protein kinase
@@ -4064,8 +4101,8 @@ LKB1	2.7.11.1	non-specific serine/threonine protein kinase
 casein kinase 2	2.7.11.1	non-specific serine/threonine protein kinase
 STK11	2.7.11.1	non-specific serine/threonine protein kinase
 PDK1	2.7.11.1	non-specific serine/threonine protein kinase
-CK1delta	2.7.11.1	non-specific serine/threonine protein kinase
 CK2	2.7.11.1	non-specific serine/threonine protein kinase
+CK1delta	2.7.11.1	non-specific serine/threonine protein kinase
 S6K1	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine kinase	2.7.11.1	non-specific serine/threonine protein kinase
 S6K2	2.7.11.1	non-specific serine/threonine protein kinase
@@ -4083,8 +4120,8 @@ protein kinase C	2.7.11.1	non-specific serine/threonine protein kinase
 protein kinase D2	2.7.11.1	non-specific serine/threonine protein kinase
 PKD2	2.7.11.1	non-specific serine/threonine protein kinase
 glycogen synthase kinase 3beta	2.7.11.1	non-specific serine/threonine protein kinase
+RAF proto-oncogene serine/threonine-protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 tau-protein kinase I	2.7.11.1	non-specific serine/threonine protein kinase
-PIM1	2.7.11.1	non-specific serine/threonine protein kinase
 PKG	2.7.11.1	non-specific serine/threonine protein kinase
 glycogen synthase kinase 3	2.7.11.1	non-specific serine/threonine protein kinase
 GSK3	2.7.11.1	non-specific serine/threonine protein kinase
@@ -4126,24 +4163,25 @@ serine/threonine kinase 11	2.7.11.1	non-specific serine/threonine protein kinase
 Aurora A	2.7.11.1	non-specific serine/threonine protein kinase
 Pim-2	2.7.11.1	non-specific serine/threonine protein kinase
 CK1epsilon	2.7.11.1	non-specific serine/threonine protein kinase
-CK1gamma	2.7.11.1	non-specific serine/threonine protein kinase
 RAF1	2.7.11.1	non-specific serine/threonine protein kinase
 serine threonine tyrosine kinase 1	2.7.11.1	non-specific serine/threonine protein kinase
 STYK1	2.7.11.1	non-specific serine/threonine protein kinase
 Chk1	2.7.11.1	non-specific serine/threonine protein kinase
 AMPK	2.7.11.1	non-specific serine/threonine protein kinase
+CK1gamma	2.7.11.1	non-specific serine/threonine protein kinase
 serine/threonine-protein kinase	2.7.11.1	non-specific serine/threonine protein kinase
 homeodomain-interacting protein kinase 2	2.7.11.1	non-specific serine/threonine protein kinase
 HIPK2	2.7.11.1	non-specific serine/threonine protein kinase
-NDR1	2.7.11.1	non-specific serine/threonine protein kinase
+gene name	2.7.11.1	non-specific serine/threonine protein kinase
+PIM1	2.7.11.1	non-specific serine/threonine protein kinase
 PKB	2.7.11.1	non-specific serine/threonine protein kinase
-glycogen synthase kinase-3	2.7.11.1	non-specific serine/threonine protein kinase
-GSK-3beta	2.7.11.1	non-specific serine/threonine protein kinase
-GSK-3	2.7.11.1	non-specific serine/threonine protein kinase
 casein kinase 1	2.7.11.1	non-specific serine/threonine protein kinase
 p-AKT	2.7.11.1	non-specific serine/threonine protein kinase
 CK1	2.7.11.1	non-specific serine/threonine protein kinase
 protein kinase CK2	2.7.11.1	non-specific serine/threonine protein kinase
+glycogen synthase kinase-3	2.7.11.1	non-specific serine/threonine protein kinase
+GSK-3beta	2.7.11.1	non-specific serine/threonine protein kinase
+GSK-3	2.7.11.1	non-specific serine/threonine protein kinase
 AKT1	2.7.11.1	non-specific serine/threonine protein kinase
 AKT	2.7.11.1	non-specific serine/threonine protein kinase
 casein kinase II	2.7.11.1	non-specific serine/threonine protein kinase
@@ -5467,7 +5505,6 @@ Raf-1	2.7.11.25	mitogen-activated protein kinase kinase kinase
 Dual leucine zipper bearing kinase	2.7.11.25	mitogen-activated protein kinase kinase kinase
 tumour progression locus 2	2.7.11.25	mitogen-activated protein kinase kinase kinase
 MLK1	2.7.11.25	mitogen-activated protein kinase kinase kinase
-MLK4	2.7.11.25	mitogen-activated protein kinase kinase kinase
 MEK kinase 3	2.7.11.25	mitogen-activated protein kinase kinase kinase
 A-Raf	2.7.11.25	mitogen-activated protein kinase kinase kinase
 LZK	2.7.11.25	mitogen-activated protein kinase kinase kinase
@@ -5515,6 +5552,7 @@ MKKK	2.7.11.25	mitogen-activated protein kinase kinase kinase
 ASK1	2.7.11.25	mitogen-activated protein kinase kinase kinase
 mitogen-activated protein kinase kinase kinase	2.7.11.25	mitogen-activated protein kinase kinase kinase
 MEKK1	2.7.11.25	mitogen-activated protein kinase kinase kinase
+MLK4	2.7.11.25	mitogen-activated protein kinase kinase kinase
 MAPKKKalpha belongs to the A2 subgroupof the MEKK enzyme family	2.7.11.25	mitogen-activated protein kinase kinase kinase
 OMTK1	2.7.11.25	mitogen-activated protein kinase kinase kinase
 oxidative stress-activated MAP triple-kinase 1	2.7.11.25	mitogen-activated protein kinase kinase kinase
@@ -5541,8 +5579,10 @@ COT30-467	2.7.11.25	mitogen-activated protein kinase kinase kinase
 COT30-397	2.7.11.25	mitogen-activated protein kinase kinase kinase
 MLTKalpha	2.7.11.25	mitogen-activated protein kinase kinase kinase
 MLK-like mitogen-activated protein triple kinase	2.7.11.25	mitogen-activated protein kinase kinase kinase
+BRAF	2.7.11.25	mitogen-activated protein kinase kinase kinase
 MAP3K7	2.7.11.25	mitogen-activated protein kinase kinase kinase
 TGFbeta-activated kinase 1	2.7.11.25	mitogen-activated protein kinase kinase kinase
+BRAF protein serine/threonine kinase	2.7.11.25	mitogen-activated protein kinase kinase kinase
 MAPK kinase kinase	2.7.11.25	mitogen-activated protein kinase kinase kinase
 COT	2.7.11.25	mitogen-activated protein kinase kinase kinase
 MAP kinase kinase kinase 1	2.7.11.25	mitogen-activated protein kinase kinase kinase
@@ -5567,6 +5607,7 @@ Raf10	2.7.11.25	mitogen-activated protein kinase kinase kinase
 MAPK/ERK kinase kinase 1	2.7.11.25	mitogen-activated protein kinase kinase kinase
 mitogen-activated protein kinase/extracellular-signal-regulatedkinase kinase kinase 1	2.7.11.25	mitogen-activated protein kinase kinase kinase
 apoptosis signal-regulated kinase 1	2.7.11.25	mitogen-activated protein kinase kinase kinase
+mixed lineage kinase 4	2.7.11.25	mitogen-activated protein kinase kinase kinase
 Mek kinase	2.7.11.25	mitogen-activated protein kinase kinase kinase
 Ste11	2.7.11.25	mitogen-activated protein kinase kinase kinase
 Ssk2p	2.7.11.25	mitogen-activated protein kinase kinase kinase
@@ -6616,8 +6657,8 @@ CK-like CPS	2.7.2.2	carbamate kinase
 GlcK	2.7.2.2	carbamate kinase
 gene name	2.7.2.2	carbamate kinase
 gene name	2.7.2.2	carbamate kinase
-CKase	2.7.2.2	carbamate kinase
 CK	2.7.2.2	carbamate kinase
+CKase	2.7.2.2	carbamate kinase
 enzyme has inherent activities of agmatineiminohydrolase, putrescine transcarbamylase, ornithinetranscarbamylaseand carbamate kinase	2.7.2.2	carbamate kinase
 3-PGK	2.7.2.3	phosphoglycerate kinase
 ATP-3-phospho-D-glycerate-1-phosphotransferase	2.7.2.3	phosphoglycerate kinase
@@ -6764,6 +6805,8 @@ glycocyamine kinase	2.7.3.1	guanidinoacetate kinase
 phosphagen phosphokinase	2.7.3.10	agmatine kinase
 kinase, agmatine (phosphorylating)	2.7.3.10	agmatine kinase
 kinase, phosphagen (phosphorylating)	2.7.3.10	agmatine kinase
+L-glutamine kinase	2.7.3.13	glutamine kinase
+Cj1418	2.7.3.13	glutamine kinase
 adenosine triphosphate-creatine transphosphorylase	2.7.3.2	creatine kinase
 ATP:creatine phosphotransferase	2.7.3.2	creatine kinase
 CK-MB	2.7.3.2	creatine kinase
@@ -7137,8 +7180,8 @@ CMP kinase	2.7.4.25	(d)CMP kinase
 CMK	2.7.4.25	(d)CMP kinase
 deoxycytidine monophosphate kinase	2.7.4.25	(d)CMP kinase
 cytidylate kinase	2.7.4.25	(d)CMP kinase
-CMPK	2.7.4.25	(d)CMP kinase
 cytidine monophosphate kinase	2.7.4.25	(d)CMP kinase
+CMPK	2.7.4.25	(d)CMP kinase
 UMP-CMP kinase	2.7.4.25	(d)CMP kinase
 UCK	2.7.4.25	(d)CMP kinase
 CMP kinases belong to the nucleoside monophosphatekinase, NMK, family, key enzymes in the metabolism of nucleotides	2.7.4.25	(d)CMP kinase
@@ -7190,7 +7233,7 @@ isoform	2.7.4.3	adenylate kinase
 possesses both adenylate kinaseactivity and nucleotide hydrolase activity	2.7.4.3	adenylate kinase
 NS4B	2.7.4.3	adenylate kinase
 AKE	2.7.4.3	adenylate kinase
-ADK	2.7.4.3	adenylate kinase
+gene name	2.7.4.3	adenylate kinase
 AK9	2.7.4.3	adenylate kinase
 adenylate kinase 9	2.7.4.3	adenylate kinase
 ABC adenylate kinase	2.7.4.3	adenylate kinase
@@ -7214,6 +7257,9 @@ phosphotransferase	2.7.4.3	adenylate kinase
 gene name	2.7.4.3	adenylate kinase
 AKthermo	2.7.4.3	adenylate kinase
 AKpsycrho	2.7.4.3	adenylate kinase
+adenylate kinase	2.7.4.3	adenylate kinase
+pfSMCnbd	2.7.4.3	adenylate kinase
+structural maintenance of chromosome protein	2.7.4.3	adenylate kinase
 gene name	2.7.4.31	[5-(aminomethyl)furan-3-yl]methyl phosphate kinase
 kinase, nucleoside monophosphate (phosphorylating)	2.7.4.4	nucleoside-phosphate kinase
 NMP-kinase	2.7.4.4	nucleoside-phosphate kinase
@@ -7283,15 +7329,16 @@ NDP kinase A	2.7.4.6	nucleoside-diphosphate kinase
 NDPKA	2.7.4.6	nucleoside-diphosphate kinase
 enzyme is able to specifically interact withproteins encoded by the bacteriophage T4	2.7.4.6	nucleoside-diphosphate kinase
 TcNDPK1	2.7.4.6	nucleoside-diphosphate kinase
-kinase, phosphomethylpyrimidine (phosphorylating)	2.7.4.7	phosphomethylpyrimidine kinase
-hydroxymethylpyrimidine phosphokinase	2.7.4.7	phosphomethylpyrimidine kinase
-ThiD	2.7.4.7	phosphomethylpyrimidine kinase
-HMP-P kinase	2.7.4.7	phosphomethylpyrimidine kinase
-Thi20p protein	2.7.4.7	phosphomethylpyrimidine kinase
-Thi21p protein	2.7.4.7	phosphomethylpyrimidine kinase
-2-methyl-4-amino-5-hydroxymethylpyrimidine monophosphate kinase	2.7.4.7	phosphomethylpyrimidine kinase
-Thi20	2.7.4.7	phosphomethylpyrimidine kinase
-Thi20p	2.7.4.7	phosphomethylpyrimidine kinase
+kinase, phosphomethylpyrimidine (phosphorylating)	2.7.4.7	phosphooxymethylpyrimidine kinase
+hydroxymethylpyrimidine phosphokinase	2.7.4.7	phosphooxymethylpyrimidine kinase
+phosphomethylpyrimidine kinase	2.7.4.7	phosphooxymethylpyrimidine kinase
+ThiD	2.7.4.7	phosphooxymethylpyrimidine kinase
+HMP-P kinase	2.7.4.7	phosphooxymethylpyrimidine kinase
+Thi20p protein	2.7.4.7	phosphooxymethylpyrimidine kinase
+Thi21p protein	2.7.4.7	phosphooxymethylpyrimidine kinase
+2-methyl-4-amino-5-hydroxymethylpyrimidine monophosphate kinase	2.7.4.7	phosphooxymethylpyrimidine kinase
+Thi20	2.7.4.7	phosphooxymethylpyrimidine kinase
+Thi20p	2.7.4.7	phosphooxymethylpyrimidine kinase
 kinase, guanylate (phosphorylating)	2.7.4.8	guanylate kinase
 deoxyguanylate kinase	2.7.4.8	guanylate kinase
 5'-GMP kinase	2.7.4.8	guanylate kinase
@@ -7307,12 +7354,12 @@ organellar GK	2.7.4.8	guanylate kinase
 GKc	2.7.4.8	guanylate kinase
 GKpm	2.7.4.8	guanylate kinase
 BmGK	2.7.4.8	guanylate kinase
-GK3	2.7.4.8	guanylate kinase
-GMK3	2.7.4.8	guanylate kinase
 guanylate kinase	2.7.4.8	guanylate kinase
 membrane associated guanylate kinase protein	2.7.4.8	guanylate kinase
 GUK	2.7.4.8	guanylate kinase
 MAGUK	2.7.4.8	guanylate kinase
+GK3	2.7.4.8	guanylate kinase
+GMK3	2.7.4.8	guanylate kinase
 GMP kinase	2.7.4.8	guanylate kinase
 GMK	2.7.4.8	guanylate kinase
 ecGMPK	2.7.4.8	guanylate kinase
@@ -7498,7 +7545,6 @@ adenosine triphosphate-nicotinamide mononucleotide transadenylase	2.7.7.1	nicoti
 ATP:NMN adenylyltransferase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 diphosphopyridine nucleotide pyrophosphorylase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 nicotinamide adenine dinucleotide pyrophosphorylase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
-NMN adenylyltransferase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 pyridine nucleotide adenylyltransferase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 PNAT	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 nicotinamide 5'-mononucleotide adenylyltransferase-2	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
@@ -7511,16 +7557,18 @@ yNMNAT-2	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 nicotinate/nicotinamide mononucleotide adenyltransferase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 gene nadD	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 NadM-Nudix	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
+NMN adenylyltransferase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 NMN-adenylyltransferase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 human nicotinamide mononucleotide adenylyl-transferase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 nicotinamide mononucleotide adenylyl-transferase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
+NAD synthase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 nicotinamide mononucleotide adenylyltransferase2	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
-NMN/NaMN adenylyltransferase 3	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
-isoform	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 Drosophila NMNAT	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 NMNAT	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 nicotinate nucleotide canalso act as acceptor, see also EC 2.7.7.18 nicotinate-nucleotideadenylyltransferase	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 nicotinamide mononucleotide adenylyltransferase 1	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
+NMN/NaMN adenylyltransferase 3	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
+isoform	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 UniProt	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 nicotinamide mononucleotide adenylyltransferase type 1	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
 non-nuclear-localized-Nmnat1	2.7.7.1	nicotinamide-nucleotide adenylyltransferase
@@ -7559,6 +7607,8 @@ UDP-galactose PPase	2.7.7.10	UTP-hexose-1-phosphate uridylyltransferase
 galactose-1-phosphate uridyltransferase	2.7.7.10	UTP-hexose-1-phosphate uridylyltransferase
 GALT	2.7.7.10	UTP-hexose-1-phosphate uridylyltransferase
 galactose-1-phosphate uridyl transferase	2.7.7.10	UTP-hexose-1-phosphate uridylyltransferase
+UbaA	2.7.7.100	SAMP-activating enzyme
+SAMP-activating enzyme E1	2.7.7.100	SAMP-activating enzyme
 uridylyltransferase, xylose 1-phosphate	2.7.7.11	UTP-xylose-1-phosphate uridylyltransferase
 UDPxylose pyrophosphorylase	2.7.7.11	UTP-xylose-1-phosphate uridylyltransferase
 uridine diphosphoxylose pyrophosphorylase	2.7.7.11	UTP-xylose-1-phosphate uridylyltransferase
@@ -7614,31 +7664,36 @@ multiple sugar-1-P NTase	2.7.7.13	mannose-1-phosphate guanylyltransferase
 mannose-1-phosphate guanylyltransferase	2.7.7.13	mannose-1-phosphate guanylyltransferase
 BceAJ	2.7.7.13	mannose-1-phosphate guanylyltransferase
 BceA(J) protein	2.7.7.13	mannose-1-phosphate guanylyltransferase
-GMP3	2.7.7.13	mannose-1-phosphate guanylyltransferase
 GDP-D-mannose pyrophosphorylase	2.7.7.13	mannose-1-phosphate guanylyltransferase
+GMP3	2.7.7.13	mannose-1-phosphate guanylyltransferase
 guanidine diphosphomannose pyrophosphorylase	2.7.7.13	mannose-1-phosphate guanylyltransferase
 guanosine-diphospho-D-mannose pyrophosphorylase	2.7.7.13	mannose-1-phosphate guanylyltransferase
 GDP-mannose pyrophosphorylase B	2.7.7.13	mannose-1-phosphate guanylyltransferase
 GMPBB	2.7.7.13	mannose-1-phosphate guanylyltransferase
 guanosine diphosphate mannose pyrophosphorylase B	2.7.7.13	mannose-1-phosphate guanylyltransferase
+guanosine diphosphate mannose pyrophosphorylase	2.7.7.13	mannose-1-phosphate guanylyltransferase
 GMPPB	2.7.7.13	mannose-1-phosphate guanylyltransferase
 gene name	2.7.7.13	mannose-1-phosphate guanylyltransferase
 VCT1-1	2.7.7.13	mannose-1-phosphate guanylyltransferase
 VTC1-1	2.7.7.13	mannose-1-phosphate guanylyltransferase
 OsVTC1-1	2.7.7.13	mannose-1-phosphate guanylyltransferase
 GMPP2	2.7.7.13	mannose-1-phosphate guanylyltransferase
+VTC1	2.7.7.13	mannose-1-phosphate guanylyltransferase
+mannose-1-phosphate guanylyltransferase 2	2.7.7.13	mannose-1-phosphate guanylyltransferase
 gene name	2.7.7.13	mannose-1-phosphate guanylyltransferase
 VCT1-3	2.7.7.13	mannose-1-phosphate guanylyltransferase
 VTC1-3	2.7.7.13	mannose-1-phosphate guanylyltransferase
 OsVTC1-3	2.7.7.13	mannose-1-phosphate guanylyltransferase
 GMPP1	2.7.7.13	mannose-1-phosphate guanylyltransferase
+VTC3	2.7.7.13	mannose-1-phosphate guanylyltransferase
+mannose-1-phosphate guanylyltransferase 1	2.7.7.13	mannose-1-phosphate guanylyltransferase
 gene name	2.7.7.13	mannose-1-phosphate guanylyltransferase
 gene name	2.7.7.13	mannose-1-phosphate guanylyltransferase
 GMP	2.7.7.13	mannose-1-phosphate guanylyltransferase
-mannose-1-phosphate guanyltransferase beta	2.7.7.13	mannose-1-phosphate guanylyltransferase
 GDP-Man pyrophosphorylase	2.7.7.13	mannose-1-phosphate guanylyltransferase
 type II phosphomannose isomerase, bifunctionalphosphomannose isomerase/GDP-mannose pyrophosphorylase (manC), withboth PMI (E.C. 5.3.1.8) and GMP (E.C.2.7.7.13) activities	2.7.7.13	mannose-1-phosphate guanylyltransferase
 GMPase	2.7.7.13	mannose-1-phosphate guanylyltransferase
+mannose-1-phosphate guanyltransferase beta	2.7.7.13	mannose-1-phosphate guanylyltransferase
 OsVTC1-8	2.7.7.13	mannose-1-phosphate guanylyltransferase
 GMPP3	2.7.7.13	mannose-1-phosphate guanylyltransferase
 PFManC	2.7.7.13	mannose-1-phosphate guanylyltransferase
@@ -8675,11 +8730,11 @@ RNApolymerase	2.7.7.6	DNA-directed RNA polymerase
 Taq polymerase	2.7.7.6	DNA-directed RNA polymerase
 DNA-dependent RNA polymerase	2.7.7.6	DNA-directed RNA polymerase
 RpoT	2.7.7.6	DNA-directed RNA polymerase
-RPO	2.7.7.6	DNA-directed RNA polymerase
 Pol I	2.7.7.6	DNA-directed RNA polymerase
 RNAPII	2.7.7.6	DNA-directed RNA polymerase
 RNA polymerase III	2.7.7.6	DNA-directed RNA polymerase
 RNA polymerase I	2.7.7.6	DNA-directed RNA polymerase
+RPO	2.7.7.6	DNA-directed RNA polymerase
 multi-subunit RNA polymerase	2.7.7.6	DNA-directed RNA polymerase
 K1E RNAP	2.7.7.6	DNA-directed RNA polymerase
 DNA-dependent RNAP	2.7.7.6	DNA-directed RNA polymerase
@@ -8766,11 +8821,12 @@ etDGC	2.7.7.65	diguanylate cyclase
 VCA0965	2.7.7.65	diguanylate cyclase
 Rrp1	2.7.7.65	diguanylate cyclase
 DosD	2.7.7.65	diguanylate cyclase
+Chp8	2.7.7.65	diguanylate cyclase
 YddV	2.7.7.65	diguanylate cyclase
 YhcK	2.7.7.65	diguanylate cyclase
 AdrA	2.7.7.65	diguanylate cyclase
-YdeH	2.7.7.65	diguanylate cyclase
 diguanylate cyclase	2.7.7.65	diguanylate cyclase
+YdeH	2.7.7.65	diguanylate cyclase
 DGC	2.7.7.65	diguanylate cyclase
 thermophilic diguanylate cyclase domain protein	2.7.7.65	diguanylate cyclase
 tDGC	2.7.7.65	diguanylate cyclase
@@ -8798,14 +8854,13 @@ CdgA	2.7.7.65	diguanylate cyclase
 gene name	2.7.7.65	diguanylate cyclase
 Dcsbis	2.7.7.65	diguanylate cyclase
 PA2771	2.7.7.65	diguanylate cyclase
-DgcZ	2.7.7.65	diguanylate cyclase
 gene name	2.7.7.65	diguanylate cyclase
 gcbB	2.7.7.65	diguanylate cyclase
 GcbA	2.7.7.65	diguanylate cyclase
 locus tag PA3702	2.7.7.65	diguanylate cyclase
+DgcZ	2.7.7.65	diguanylate cyclase
 DgcP	2.7.7.65	diguanylate cyclase
 gene name	2.7.7.65	diguanylate cyclase
-Chp8	2.7.7.65	diguanylate cyclase
 PA4367	2.7.7.65	diguanylate cyclase
 BifA	2.7.7.65	diguanylate cyclase
 sadC	2.7.7.65	diguanylate cyclase
@@ -8918,6 +8973,8 @@ gene name, small subunit	2.7.7.7	DNA-directed DNA polymerase
 gene name, large subunit	2.7.7.7	DNA-directed DNA polymerase
 small subunit	2.7.7.7	DNA-directed DNA polymerase
 large subunit	2.7.7.7	DNA-directed DNA polymerase
+phPol D	2.7.7.7	DNA-directed DNA polymerase
+hoPolD	2.7.7.7	DNA-directed DNA polymerase
 Dpo4-like enzyme	2.7.7.7	DNA-directed DNA polymerase
 R2-RT	2.7.7.7	DNA-directed DNA polymerase
 capable of efficiently utilizingsingle-stranded DNA as a template	2.7.7.7	DNA-directed DNA polymerase
@@ -9011,13 +9068,13 @@ PolX	2.7.7.7	DNA-directed DNA polymerase
 DNA polymerase pyrococcus kodakaraensis	2.7.7.7	DNA-directed DNA polymerase
 beta type DNA polymerase	2.7.7.7	DNA-directed DNA polymerase
 CpDNApolI	2.7.7.7	DNA-directed DNA polymerase
-DNA polymerases D	2.7.7.7	DNA-directed DNA polymerase
 DNA polymerases B	2.7.7.7	DNA-directed DNA polymerase
 PabpolD	2.7.7.7	DNA-directed DNA polymerase
 PabpolB	2.7.7.7	DNA-directed DNA polymerase
 Pol B	2.7.7.7	DNA-directed DNA polymerase
 PabPol D	2.7.7.7	DNA-directed DNA polymerase
 replicative DNA polymerase	2.7.7.7	DNA-directed DNA polymerase
+DNA polymerases D	2.7.7.7	DNA-directed DNA polymerase
 DNA polymerase theta	2.7.7.7	DNA-directed DNA polymerase
 DNA polymerase mu	2.7.7.7	DNA-directed DNA polymerase
 DNA polymerase lambda	2.7.7.7	DNA-directed DNA polymerase
@@ -9048,6 +9105,7 @@ bifunctional enzyme	2.7.7.70	D-glycero-beta-D-manno-heptose 1-phosphate adenylyl
 D-glycero-D-manno-heptose-1beta-phosphate adenylyltransferase	2.7.7.70	D-glycero-beta-D-manno-heptose 1-phosphate adenylyltransferase
 D-glycero-D-manno-heptose 1-phosphate guanosyltransferase	2.7.7.71	D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
 D,D-heptose 1-phosphate guanosyltransferase	2.7.7.71	D-glycero-alpha-D-manno-heptose 1-phosphate guanylyltransferase
+CCA1	2.7.7.72	CCA tRNA nucleotidyltransferase
 CCA transferase	2.7.7.72	CCA tRNA nucleotidyltransferase
 CCase	2.7.7.72	CCA tRNA nucleotidyltransferase
 class 1 tRNA-nucleotidyltransferase	2.7.7.72	CCA tRNA nucleotidyltransferase
@@ -9071,7 +9129,6 @@ pcnB2	2.7.7.72	CCA tRNA nucleotidyltransferase
 poly A polymerase	2.7.7.72	CCA tRNA nucleotidyltransferase
 gene name	2.7.7.72	CCA tRNA nucleotidyltransferase
 gene name	2.7.7.72	CCA tRNA nucleotidyltransferase
-CCA1	2.7.7.72	CCA tRNA nucleotidyltransferase
 adenylyl (cytidylyl)-tRNA nucleotidyltransferase	2.7.7.72	CCA tRNA nucleotidyltransferase
 ATP(CTP): tRNA adenylyl (cytidylyl)transferase	2.7.7.72	CCA tRNA nucleotidyltransferase
 class II CCA adding enzyme	2.7.7.72	CCA tRNA nucleotidyltransferase
@@ -9223,19 +9280,18 @@ ExoN	2.7.7.9	UTP-glucose-1-phosphate uridylyltransferase
 UgpA	2.7.7.9	UTP-glucose-1-phosphate uridylyltransferase
 UTP:glucose-1-phosphate uridylyltransferase	2.7.7.9	UTP-glucose-1-phosphate uridylyltransferase
 UGPase	2.7.7.9	UTP-glucose-1-phosphate uridylyltransferase
-CKS	2.7.7.90	CMP-8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
-KdsB	2.7.7.90	CMP-8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
-CMP-Kdo synthase	2.7.7.90	CMP-8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
-gene name	2.7.7.90	CMP-8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+CKS	2.7.7.90	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+KdsB	2.7.7.90	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+CMP-Kdo synthase	2.7.7.90	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
+gene name	2.7.7.90	8-amino-3,8-dideoxy-manno-octulosonate cytidylyltransferase
 VldB	2.7.7.91	valienol-1-phosphate guanylyltransferase
 ValB	2.7.7.91	valienol-1-phosphate guanylyltransferase
-CMP-nonulosonate synthetase	2.7.7.92	3-deoxy-D-glycero-D-galacto-nononate cytidylyltransferase
-CMP-Sia synthetase	2.7.7.92	3-deoxy-D-glycero-D-galacto-nononate cytidylyltransferase
-CMP-KDN synthetase	2.7.7.92	3-deoxy-D-glycero-D-galacto-nononate cytidylyltransferase
-gene name	2.7.7.92	3-deoxy-D-glycero-D-galacto-nononate cytidylyltransferase
+3-deoxy-D-glycero-D-galacto-nononate cytidylyltransferase	2.7.7.92	3-deoxy-D-glycero-D-galacto-nonulopyranosonate cytidylyltransferase
+CMP-nonulosonate synthetase	2.7.7.92	3-deoxy-D-glycero-D-galacto-nonulopyranosonate cytidylyltransferase
+CMP-Sia synthetase	2.7.7.92	3-deoxy-D-glycero-D-galacto-nonulopyranosonate cytidylyltransferase
+CMP-KDN synthetase	2.7.7.92	3-deoxy-D-glycero-D-galacto-nonulopyranosonate cytidylyltransferase
+gene name	2.7.7.92	3-deoxy-D-glycero-D-galacto-nonulopyranosonate cytidylyltransferase
 phpF	2.7.7.93	phosphonoformate cytidylyltransferase
-4-hydroxyphenylalkanoate adenylase	2.7.7.94	4-hydroxyphenylalkanoate adenylyltransferase
-fadD29	2.7.7.94	4-hydroxyphenylalkanoate adenylyltransferase
 gene name	2.7.7.95	mycocerosic acid adenylyltransferase
 diphosphate-ADP-D-ribose adenylyltransferase	2.7.7.96	ADP-D-ribose pyrophosphorylase
 diphosphate adenylyltransferase	2.7.7.96	ADP-D-ribose pyrophosphorylase
@@ -9252,8 +9308,9 @@ ACMSI	2.7.7.97	3-hydroxy-4-methylanthranilate adenylyltransferase
 4-MHA activating enzyme	2.7.7.97	3-hydroxy-4-methylanthranilate adenylyltransferase
 actinomycin synthase I	2.7.7.97	3-hydroxy-4-methylanthranilate adenylyltransferase
 sibE	2.7.7.97	3-hydroxy-4-methylanthranilate adenylyltransferase
-fadD22	2.7.7.98	4-hydroxybenzoate adenylyltransferase
-4-hydroxybenzoate adenylas	2.7.7.98	4-hydroxybenzoate adenylyltransferase
+murU	2.7.7.99	N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase
+N-acetylmuramate alpha-1-phosphate uridylyltransferase	2.7.7.99	N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase
+gene name	2.7.7.99	N-acetyl-alpha-D-muramate 1-phosphate uridylyltransferase
 AAPT	2.7.8.1	ethanolaminephosphotransferase
 aminoalcoholphosphotransferase	2.7.8.1	ethanolaminephosphotransferase
 CDP-ethanolamine diglyceride phosphotransferase	2.7.8.1	ethanolaminephosphotransferase
@@ -9313,18 +9370,19 @@ PtdIns synthase	2.7.8.11	CDP-diacylglycerol-inositol 3-phosphatidyltransferase
 phosphatidylinositol synthase	2.7.8.11	CDP-diacylglycerol-inositol 3-phosphatidyltransferase
 PI synthase	2.7.8.11	CDP-diacylglycerol-inositol 3-phosphatidyltransferase
 PIS1-encoded phosphatidylinositol synthase	2.7.8.11	CDP-diacylglycerol-inositol 3-phosphatidyltransferase
-teichoic-acid synthase	2.7.8.12	CDP-glycerol glycerophosphotransferase
-glycerophosphotransferase, cytidine diphosphoglycerol	2.7.8.12	CDP-glycerol glycerophosphotransferase
-teichoic acid glycerol transferase	2.7.8.12	CDP-glycerol glycerophosphotransferase
-glycerophosphate synthetase	2.7.8.12	CDP-glycerol glycerophosphotransferase
-CGPTase	2.7.8.12	CDP-glycerol glycerophosphotransferase
-CDPglycerol:poly(glycerophosphate) glycerophosphotransferase	2.7.8.12	CDP-glycerol glycerophosphotransferase
-CDPglycerol glycerophosphotransferase	2.7.8.12	CDP-glycerol glycerophosphotransferase
-poly(glycerol phosphate) polymerase	2.7.8.12	CDP-glycerol glycerophosphotransferase
-poly(glycerol phosphate)polymerase	2.7.8.12	CDP-glycerol glycerophosphotransferase
-TagF protein	2.7.8.12	CDP-glycerol glycerophosphotransferase
-TagF	2.7.8.12	CDP-glycerol glycerophosphotransferase
-teichoic acid polymerase	2.7.8.12	CDP-glycerol glycerophosphotransferase
+teichoic-acid synthase	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+glycerophosphotransferase, cytidine diphosphoglycerol	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+teichoic acid glycerol transferase	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+glycerophosphate synthetase	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+CGPTase	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+CDPglycerol:poly(glycerophosphate) glycerophosphotransferase	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+CDPglycerol glycerophosphotransferase	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+CDP-glycerol glycerophosphotransferase	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+poly(glycerol phosphate) polymerase	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+poly(glycerol phosphate)polymerase	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+TagF protein	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+TagF	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
+teichoic acid polymerase	2.7.8.12	teichoic acid poly(glycerol phosphate) polymerase
 phospho-NAc-muramoyl-pentapeptide translocase (UMP)	2.7.8.13	phospho-N-acetylmuramoyl-pentapeptide-transferase
 UDP-MurNAc-L-Ala-D-gamma-Glu-L-Lys-D-Ala-D-Ala:C55-isoprenoid alcoholtransferase	2.7.8.13	phospho-N-acetylmuramoyl-pentapeptide-transferase
 UDP-MurNAc-Ala-gammaDGlu-Lys-DAla-DAla:undecaprenylphosphatetransferase	2.7.8.13	phospho-N-acetylmuramoyl-pentapeptide-transferase
@@ -9832,6 +9890,7 @@ pyruvate phosphate dikinase	2.7.9.1	pyruvate, phosphate dikinase
 gene name	2.7.9.1	pyruvate, phosphate dikinase
 pyrophosphate-dependent pyruvate phosphate dikinase	2.7.9.1	pyruvate, phosphate dikinase
 EhPPDH	2.7.9.1	pyruvate, phosphate dikinase
+gene name	2.7.9.1	pyruvate, phosphate dikinase
 OsPPDKB	2.7.9.1	pyruvate, phosphate dikinase
 pyruvate P1 dikinase	2.7.9.1	pyruvate, phosphate dikinase
 C4ppdk	2.7.9.1	pyruvate, phosphate dikinase
@@ -9839,7 +9898,6 @@ gene name	2.7.9.1	pyruvate, phosphate dikinase
 gene name	2.7.9.1	pyruvate, phosphate dikinase
 pyruvate, phoshphate dikinase	2.7.9.1	pyruvate, phosphate dikinase
 pyruvate-orthophosphate dikinase	2.7.9.1	pyruvate, phosphate dikinase
-gene name	2.7.9.1	pyruvate, phosphate dikinase
 PPi-dependent pyruvate phosphate dikinase	2.7.9.1	pyruvate, phosphate dikinase
 gene name	2.7.9.1	pyruvate, phosphate dikinase
 gene name	2.7.9.1	pyruvate, phosphate dikinase
@@ -9855,7 +9913,6 @@ pyruvate phoshate dikinase	2.7.9.1	pyruvate, phosphate dikinase
 pyruvate, orthophosphate dikinase	2.7.9.1	pyruvate, phosphate dikinase
 locus name	2.7.9.1	pyruvate, phosphate dikinase
 kinase, pyruvate-water di- (phosphorylating)	2.7.9.2	pyruvate, water dikinase
-PEP synthetase	2.7.9.2	pyruvate, water dikinase
 phosphoenolpyruvic synthase	2.7.9.2	pyruvate, water dikinase
 phosphopyruvate synthetase, phosphopyruvate	2.7.9.2	pyruvate, water dikinase
 synthetase, phosphopyruvate	2.7.9.2	pyruvate, water dikinase
@@ -9863,6 +9920,8 @@ pyruvate, water dikinase	2.7.9.2	pyruvate, water dikinase
 PEP synthase	2.7.9.2	pyruvate, water dikinase
 pyruvate,water dikinase	2.7.9.2	pyruvate, water dikinase
 water dikinase pyruvate	2.7.9.2	pyruvate, water dikinase
+PEP synthetase	2.7.9.2	pyruvate, water dikinase
+gene name	2.7.9.2	pyruvate, water dikinase
 gene name	2.7.9.2	pyruvate, water dikinase
 PEPS	2.7.9.2	pyruvate, water dikinase
 phosphoenolpyruvate synthetase	2.7.9.2	pyruvate, water dikinase
@@ -9872,7 +9931,6 @@ Pps	2.7.9.2	pyruvate, water dikinase
 TK1292	2.7.9.2	pyruvate, water dikinase
 PEP synthase	2.7.9.2	pyruvate, water dikinase
 phosphoenol pyruvate synthetase	2.7.9.2	pyruvate, water dikinase
-gene name	2.7.9.2	pyruvate, water dikinase
 kinase (phosphorylating), pyruvate-water di-	2.7.9.3	selenide, water dikinase
 pyruvate-water di-kinase (phosphorylating)	2.7.9.3	selenide, water dikinase
 synthetase, selenophosphate	2.7.9.3	selenide, water dikinase
@@ -9943,6 +10001,9 @@ isoform	2.7.9.5	phosphoglucan, water dikinase
 StGWD3	2.7.9.5	phosphoglucan, water dikinase
 AtPWD	2.7.9.5	phosphoglucan, water dikinase
 locus name	2.7.9.5	phosphoglucan, water dikinase
+RPH	2.7.9.6	rifampicin phosphotransferase
+rifampin phosphotransferase	2.7.9.6	rifampicin phosphotransferase
+gene name	2.7.9.6	rifampicin phosphotransferase
 phosphotransferase, pyrophosphate-protein	2.7.99.1	triphosphate-protein phosphotransferase
 pyrophosphate:protein phosphotransferase	2.7.99.1	triphosphate-protein phosphotransferase
 pyrophosphate-protein phosphotransferase	2.7.99.1	triphosphate-protein phosphotransferase

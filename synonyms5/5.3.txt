@@ -170,7 +170,7 @@ sedoheptulose-7-phosphate isomerase	5.3.1.28	D-sedoheptulose 7-phosphate isomera
 sedoheptulose 7-phosphate isomerase	5.3.1.28	D-sedoheptulose 7-phosphate isomerase
 S7P isomerase	5.3.1.28	D-sedoheptulose 7-phosphate isomerase
 phosphoheptose isomerase	5.3.1.28	D-sedoheptulose 7-phosphate isomerase
-ibulose 1,5-bisphosphate synthase	5.3.1.29	ribose 1,5-bisphosphate isomerase
+ribulose 1,5-bisphosphate synthase	5.3.1.29	ribose 1,5-bisphosphate isomerase
 RuBP synthase	5.3.1.29	ribose 1,5-bisphosphate isomerase
 R15P isomerase	5.3.1.29	ribose 1,5-bisphosphate isomerase
 Tk-E2b2	5.3.1.29	ribose 1,5-bisphosphate isomerase
@@ -226,6 +226,7 @@ Swetase	5.3.1.5	xylose isomerase
 D-xylulose keto-isomerase	5.3.1.5	xylose isomerase
 xylose (glucose) isomerase	5.3.1.5	xylose isomerase
 a thermostable isozyme	5.3.1.5	xylose isomerase
+TNXI	5.3.1.5	xylose isomerase
 Novo-Nordisk	5.3.1.5	xylose isomerase
 Sweetzyme Q	5.3.1.5	xylose isomerase
 glucose/xylose isomerase	5.3.1.5	xylose isomerase
@@ -343,14 +344,14 @@ GPI	5.3.1.9	glucose-6-phosphate isomerase
 glucose-6-phosphate isomerase	5.3.1.9	glucose-6-phosphate isomerase
 autocrine motility factor/phosphoglucose isomerase	5.3.1.9	glucose-6-phosphate isomerase
 AMF/PGI	5.3.1.9	glucose-6-phosphate isomerase
-TK1111	5.3.1.9	glucose-6-phosphate isomerase
+locus name	5.3.1.9	glucose-6-phosphate isomerase
 glucose-6-phosphate isomerase, cytosolic	5.3.1.9	glucose-6-phosphate isomerase
 G6-PI	5.3.1.9	glucose-6-phosphate isomerase
 phosphoglucose isomerase/autocrine motility factor	5.3.1.9	glucose-6-phosphate isomerase
 PGI/AMF	5.3.1.9	glucose-6-phosphate isomerase
 autocrine motility factor	5.3.1.9	glucose-6-phosphate isomerase
 AMF	5.3.1.9	glucose-6-phosphate isomerase
-Phosphoglucoseisomerase	5.3.1.9	glucose-6-phosphate isomerase
+Phosphoglucose isomerase	5.3.1.9	glucose-6-phosphate isomerase
 PGI	5.3.1.9	glucose-6-phosphate isomerase
 gene name	5.3.1.9	glucose-6-phosphate isomerase
 AfcPGI	5.3.1.9	glucose-6-phosphate isomerase
@@ -533,6 +534,22 @@ IPP:DMAPP	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
 type I isopentenyl diphosphate isomerase	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
 IDI-1	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
 IPPI	5.3.3.2	isopentenyl-diphosphate DELTA-isomerase
+3,5-tetradecadienoyl-CoA isomerase	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+gene name	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+DELTA3,5-DELTA2,4-dienoyl-coenzyme A isomerase	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+DCAI	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+DELTA3,DELTA5-t-2,t-4-dienoyl-CoA isomerase	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+dienoyl-CoA isomerase	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+DELTA3,5,DELTA2,4-dienoyl-CoA isomerase	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+YOR180c	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+DCI1	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+DELTA3,5-DELTA2,4-dienoyl-CoA isomerase	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+DELTA3,5, DELTA2,4-dienoyl-coenzyme A isomerase	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+DELTA3,5, DELTA2,4-dienoyl-CoA isomerase	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+enoyl-CoA hydratase	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+ECH1p	5.3.3.21	DELTA3,5-DELTA2,4-dienoyl-CoA isomerase
+meso-zeaxanthin isomerase	5.3.3.22	lutein isomerase
+Rpe65	5.3.3.22	lutein isomerase
 Isomerase, vinylacetyl coenzyme ADELTA-	5.3.3.3	vinylacetyl-CoA DELTA-isomerase
 Vinylacetyl coenzyme A isomerase	5.3.3.3	vinylacetyl-CoA DELTA-isomerase
 DELTA3-cis-DELTA2-trans-enoyl-CoA isomerase	5.3.3.3	vinylacetyl-CoA DELTA-isomerase
@@ -579,37 +596,37 @@ MII	5.3.3.6	methylitaconate DELTA-isomerase
 Isomerase, aconitate DELTA-	5.3.3.7	aconitate DELTA-isomerase
 Aconitate isomerase	5.3.3.7	aconitate DELTA-isomerase
 AI	5.3.3.7	aconitate DELTA-isomerase
-DELTA3-cis-DELTA2-trans-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-Isomerase, dodecenoyl coenzyme A Delta-	5.3.3.8	dodecenoyl-CoA isomerase
-Acetylene-allene isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-DELTA3-cis,DELTA2-trans-Enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-3-cis-2-trans-Enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-2,3-Enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-3-2trans-Enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-Long-chain DELTA3,DELTA2-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-Short chain DELTA3,DELTA2-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-D3,D2-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-Dodecenoyl-CoA delta-isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-Hepatocellular carcinoma-associated antigen 88	5.3.3.8	dodecenoyl-CoA isomerase
-dodecenoyl-CoA DELTA3-cis-DELTA2-trans-isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-DELTA3,DELTA2-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-PECI	5.3.3.8	dodecenoyl-CoA isomerase
-DCI	5.3.3.8	dodecenoyl-CoA isomerase
-dodecenoyl coenzyme A DELTA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-3,2-trans-Enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-dodecenoyl-coenzyme A DELTA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-3,2-trans-enoyl-coenzyme A isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-2,3-trans-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-mitochondrial enoyl-CoA isomerase, present only in themitochondria	5.3.3.8	dodecenoyl-CoA isomerase
-multifunctional enzyme 1	5.3.3.8	dodecenoyl-CoA isomerase
-Delta3-Delta2-enoyl-CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-monofunctional enoyl CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-Eci1p	5.3.3.8	dodecenoyl-CoA isomerase
-ECI1	5.3.3.8	dodecenoyl-CoA isomerase
-DELTA3,DELTA2-enoyl CoA isomerase	5.3.3.8	dodecenoyl-CoA isomerase
-AtECI1	5.3.3.8	dodecenoyl-CoA isomerase
-AtECI2	5.3.3.8	dodecenoyl-CoA isomerase
-AtECI3	5.3.3.8	dodecenoyl-CoA isomerase
+DELTA3-cis-DELTA2-trans-enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+Isomerase, dodecenoyl coenzyme A Delta-	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+Acetylene-allene isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+DELTA3-cis,DELTA2-trans-Enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+3-cis-2-trans-Enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+2,3-Enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+3-2trans-Enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+Long-chain DELTA3,DELTA2-enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+Short chain DELTA3,DELTA2-enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+D3,D2-enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+Dodecenoyl-CoA delta-isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+Hepatocellular carcinoma-associated antigen 88	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+dodecenoyl-CoA DELTA3-cis-DELTA2-trans-isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+DELTA3,DELTA2-enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+PECI	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+DCI	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+dodecenoyl coenzyme A DELTA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+3,2-trans-Enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+dodecenoyl-coenzyme A DELTA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+3,2-trans-enoyl-coenzyme A isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+2,3-trans-enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+mitochondrial enoyl-CoA isomerase, present only in themitochondria	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+multifunctional enzyme 1	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+Delta3-Delta2-enoyl-CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+monofunctional enoyl CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+Eci1p	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+ECI1	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+DELTA3,DELTA2-enoyl CoA isomerase	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+AtECI1	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+AtECI2	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
+AtECI3	5.3.3.8	DELTA3-DELTA2-enoyl-CoA isomerase
 Isomerase, prostaglandin A1DELTA-	5.3.3.9	prostaglandin-A1 DELTA-isomerase
 Prostaglandin A isomerase	5.3.3.9	prostaglandin-A1 DELTA-isomerase
 PGA isomerase	5.3.3.9	prostaglandin-A1 DELTA-isomerase
@@ -652,7 +669,6 @@ ERP-57	5.3.4.1	protein disulfide-isomerase
 PDIr	5.3.4.1	protein disulfide-isomerase
 ERp44	5.3.4.1	protein disulfide-isomerase
 ER60	5.3.4.1	protein disulfide-isomerase
-protein disulfide isomaerase	5.3.4.1	protein disulfide-isomerase
 protein-disulfide isomerase	5.3.4.1	protein disulfide-isomerase
 Protein disulphide isomerase	5.3.4.1	protein disulfide-isomerase
 i.e.ECaSt/PDI	5.3.4.1	protein disulfide-isomerase
@@ -670,7 +686,6 @@ Mpd1p	5.3.4.1	protein disulfide-isomerase
 Mpd2p	5.3.4.1	protein disulfide-isomerase
 Eps1p	5.3.4.1	protein disulfide-isomerase
 ECaSt/PDI	5.3.4.1	protein disulfide-isomerase
-protein disulfide isomerase::	5.3.4.1	protein disulfide-isomerase
 PDI	5.3.4.1	protein disulfide-isomerase
 protein disulfideisomerase	5.3.4.1	protein disulfide-isomerase
 PDIL-1	5.3.4.1	protein disulfide-isomerase

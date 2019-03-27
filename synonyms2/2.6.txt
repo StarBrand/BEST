@@ -140,6 +140,11 @@ UGXT	2.6.1.112	(S)-ureidoglycine-glyoxylate transaminase
 PucG	2.6.1.112	(S)-ureidoglycine-glyoxylate transaminase
 aminotransferase V	2.6.1.112	(S)-ureidoglycine-glyoxylate transaminase
 SpuC	2.6.1.113	putrescine-pyruvate transaminase
+8-amino-flavin synthase	2.6.1.114	8-demethyl-8-aminoriboflavin-5'-phosphate synthase
+rosB	2.6.1.114	8-demethyl-8-aminoriboflavin-5'-phosphate synthase
+gene name	2.6.1.114	8-demethyl-8-aminoriboflavin-5'-phosphate synthase
+8-demethyl-8-aminoriboflavin-5’-phosphate synthase	2.6.1.114	8-demethyl-8-aminoriboflavin-5'-phosphate synthase
+AFP synthase	2.6.1.114	8-demethyl-8-aminoriboflavin-5'-phosphate synthase
 L-alanine-alpha-keto acid aminotransferase	2.6.1.12	alanine-oxo-acid transaminase
 leucine-alanine transaminase	2.6.1.12	alanine-oxo-acid transaminase
 aminotransferase, alanine-keto acid	2.6.1.12	alanine-oxo-acid transaminase
@@ -730,8 +735,8 @@ arom.-amino-acid transaminase	2.6.1.57	aromatic-amino-acid transaminase
 aromatic amino acid transaminase	2.6.1.57	aromatic-amino-acid transaminase
 pdAroAT	2.6.1.57	aromatic-amino-acid transaminase
 AT-IA	2.6.1.57	aromatic-amino-acid transaminase
-aromatic amino acid aminotransferase	2.6.1.57	aromatic-amino-acid transaminase
 AAT	2.6.1.57	aromatic-amino-acid transaminase
+aromatic amino acid aminotransferase	2.6.1.57	aromatic-amino-acid transaminase
 AAT1	2.6.1.57	aromatic-amino-acid transaminase
 aromatic L-amino acid transaminase	2.6.1.57	aromatic-amino-acid transaminase
 eAroATEs	2.6.1.57	aromatic-amino-acid transaminase
@@ -756,6 +761,8 @@ gene name	2.6.1.57	aromatic-amino-acid transaminase
 VAT1	2.6.1.57	aromatic-amino-acid transaminase
 ISS1	2.6.1.57	aromatic-amino-acid transaminase
 indole severe sensitive 1	2.6.1.57	aromatic-amino-acid transaminase
+PjAT	2.6.1.57	aromatic-amino-acid transaminase
+gene name	2.6.1.57	aromatic-amino-acid transaminase
 ArATPf	2.6.1.57	aromatic-amino-acid transaminase
 AroAT II	2.6.1.57	aromatic-amino-acid transaminase
 aromatic amino transferase I	2.6.1.57	aromatic-amino-acid transaminase
@@ -1070,6 +1077,7 @@ gene name	2.6.1.98	UDP-2-acetamido-2-deoxy-ribo-hexuluronate aminotransferase
 vl2	2.6.1.99	L-tryptophan-pyruvate aminotransferase
 TAA	2.6.1.99	L-tryptophan-pyruvate aminotransferase
 tryptophan aminotransferase of Arabidopsis 1	2.6.1.99	L-tryptophan-pyruvate aminotransferase
+FIB	2.6.1.99	L-tryptophan-pyruvate aminotransferase
 TAA1	2.6.1.99	L-tryptophan-pyruvate aminotransferase
 gene name	2.6.1.99	L-tryptophan-pyruvate aminotransferase
 TRYPTOPHAN AMINOTRANSFERASE OF ARABIDOPSIS1	2.6.1.99	L-tryptophan-pyruvate aminotransferase
@@ -1077,7 +1085,6 @@ tryptophan aminotransferase of Arabidopsis	2.6.1.99	L-tryptophan-pyruvate aminot
 Vas1	2.6.1.99	L-tryptophan-pyruvate aminotransferase
 At1g80360	2.6.1.99	L-tryptophan-pyruvate aminotransferase
 gene name	2.6.1.99	L-tryptophan-pyruvate aminotransferase
-FIB	2.6.1.99	L-tryptophan-pyruvate aminotransferase
 transoximinase	2.6.3.1	oximinotransferase
 oximase	2.6.3.1	oximinotransferase
 pyruvate-acetone oximinotransferase	2.6.3.1	oximinotransferase

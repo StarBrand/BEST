@@ -2,8 +2,6 @@ synonyms	ec_number	recommended_name
 haloalkane halidohydrolase	3.8.1.1	alkylhalidase
 haloalkane dehalogenase	3.8.1.1	alkylhalidase
 halogenase	3.8.1.1	alkylhalidase
-aliphatic halogenase	3.8.1.1	alkylhalidase
-SyrB2	3.8.1.1	alkylhalidase
 2-haloalkanoic acid dehalogenase	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
 2-haloalkanoid acid halidohydrolase	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)
 DL-2-haloacid dehalogenase (inversion of configuration)	3.8.1.10	2-haloacid dehalogenase (configuration-inverting)

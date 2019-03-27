@@ -86,6 +86,7 @@ locus name	2.8.1.4	tRNA uracil 4-sulfurtransferase
 TSR	2.8.1.5	thiosulfate-dithiol sulfurtransferase
 reductase, thiosulfate	2.8.1.5	thiosulfate-dithiol sulfurtransferase
 thiosulfate reductase	2.8.1.5	thiosulfate-dithiol sulfurtransferase
+Sft	2.8.1.5	thiosulfate-dithiol sulfurtransferase
 synthetase, biotin	2.8.1.6	biotin synthase
 biotin synthetase	2.8.1.6	biotin synthase
 synthetase, biotin (Arabidopsis thaliana clone lambdaBIO2 gene bioB)	2.8.1.6	biotin synthase
@@ -463,17 +464,10 @@ isoform	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 heparan sulfate 3-O-sulfotransferase isoform-1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 Hs3st-1	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
 heparan sulfate glucosamine 3-O-sulfotransferase	2.8.2.23	[heparan sulfate]-glucosamine 3-sulfotransferase 1
-sulfotransferase, desulfoglucosinolate	2.8.2.24	desulfoglucosinolate sulfotransferase
-PAPS-desulfoglucosinolate sulfotransferase	2.8.2.24	desulfoglucosinolate sulfotransferase
-3'-phosphoadenosine-5'-phosphosulfate:desulfoglucosinolatesulfotransferase	2.8.2.24	desulfoglucosinolate sulfotransferase
-desulfo-glucosinolate sulfotransferase	2.8.2.24	desulfoglucosinolate sulfotransferase
-SOT18	2.8.2.24	desulfoglucosinolate sulfotransferase
-SOT16	2.8.2.24	desulfoglucosinolate sulfotransferase
-SOT	2.8.2.24	desulfoglucosinolate sulfotransferase
-ds-Gl SOT	2.8.2.24	desulfoglucosinolate sulfotransferase
-desulfo-Gl SOT	2.8.2.24	desulfoglucosinolate sulfotransferase
-SOT17	2.8.2.24	desulfoglucosinolate sulfotransferase
-ST	2.8.2.24	desulfoglucosinolate sulfotransferase
+sulfotransferase, desulfoglucosinolate	2.8.2.24	aromatic desulfoglucosinolate sulfotransferase
+PAPS-desulfoglucosinolate sulfotransferase	2.8.2.24	aromatic desulfoglucosinolate sulfotransferase
+3'-phosphoadenosine-5'-phosphosulfate:desulfoglucosinolatesulfotransferase	2.8.2.24	aromatic desulfoglucosinolate sulfotransferase
+ST	2.8.2.24	aromatic desulfoglucosinolate sulfotransferase
 sulfotransferase, flavonol 3-	2.8.2.25	flavonol 3-sulfotransferase
 sulfotransferase, flavonol 3'-	2.8.2.26	quercetin-3-sulfate 3'-sulfotransferase
 flavonol 3'-sulfotransferase	2.8.2.26	quercetin-3-sulfate 3'-sulfotransferase
@@ -591,6 +585,22 @@ D4ST-1	2.8.2.35	dermatan 4-sulfotransferase
 StaL	2.8.2.36	desulfo-A47934 sulfotransferase
 Stf0	2.8.2.37	trehalose 2-sulfotransferase
 Stf0 sulfotransferase	2.8.2.37	trehalose 2-sulfotransferase
+desulfo-glucosinolate sulfotransferase	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+SOT18	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+SOT16	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+SOT	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+ds-Gl SOT	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+desulfo-Gl SOT	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+SOT17	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+cytosolic sulfotransferase 17	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+ST5c	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+gene name	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+cytosolic sulfotransferase 18	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+ST5B	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+gene name	2.8.2.38	aliphatic desulfoglucosinolate sulfotransferase
+ST2A	2.8.2.39	hydroxyjasmonate sulfotransferase
+cytosolic sulfotransferase 15	2.8.2.39	hydroxyjasmonate sulfotransferase
+SOT15	2.8.2.39	hydroxyjasmonate sulfotransferase
 3'-phosphoadenylyl sulfate-estrone 3-sulfotransferase	2.8.2.4	estrone sulfotransferase
 estrogen sulphotransferase	2.8.2.4	estrone sulfotransferase
 3'-phosphoadenylyl sulfate:oestrone sulfotransferase	2.8.2.4	estrone sulfotransferase
@@ -889,3 +899,5 @@ MtaB	2.8.4.5	tRNA (N6-L-threonylcarbamoyladenosine37-C2)-methylthiotransferase
 YqeV	2.8.4.5	tRNA (N6-L-threonylcarbamoyladenosine37-C2)-methylthiotransferase
 methylthio-threonylcarbamoyl-adenosine transferase B	2.8.4.5	tRNA (N6-L-threonylcarbamoyladenosine37-C2)-methylthiotransferase
 gene name	2.8.4.5	tRNA (N6-L-threonylcarbamoyladenosine37-C2)-methylthiotransferase
+CysK2	2.8.5.1	S-sulfo-L-cysteine synthase (3-phospho-L-serine-dependent)
+SoxXA	2.8.5.2	L-cysteine S-thiosulfotransferase

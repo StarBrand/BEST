@@ -1,0 +1,5 @@
+Commentary	Ref	Literature(PubmedID)	value
+activity increases 4fold from 35°C to 80°C, the maximal possible operating temperature	21	https://www.ncbi.nlm.nih.gov/pubmed/?term=11460922	35.0 - 80.0
+activity increases 4fold from 35°C to 80°C, the maximal possible operating temperature	22	https://www.ncbi.nlm.nih.gov/pubmed/?term=11460922	35.0 - 80.0
+activity increases 4fold from 35°C to 80°C, the maximal possible operating temperature	23	https://www.ncbi.nlm.nih.gov/pubmed/?term=11460922	35.0 - 80.0
+activity increases 4fold from 35°C to 80°C, the maximal possible operating temperature	24	https://www.ncbi.nlm.nih.gov/pubmed/?term=11460922	35.0 - 80.0

@@ -2,88 +2,49 @@ synonyms	ec_number	recommended_name
 pyrophosphatase, inorganic	3.6.1.1	inorganic diphosphatase
 Pyrophosphate phospho-hydrolase	3.6.1.1	inorganic diphosphatase
 Pyrophosphate phosphohydrolase	3.6.1.1	inorganic diphosphatase
+Pyrophosphate-energized inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
 inorganic diphosphatase	3.6.1.1	inorganic diphosphatase
 PPA1	3.6.1.1	inorganic diphosphatase
 inorganic pyrophosphatase 1	3.6.1.1	inorganic diphosphatase
-Pyrophosphate-energized inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
-pyrophosphate-energized proton pump	3.6.1.1	inorganic diphosphatase
-membrane-bound proton-translocating pyrophosphatase	3.6.1.1	inorganic diphosphatase
-V-ATPase	3.6.1.1	inorganic diphosphatase
-vacuolar proton pyrophosphatase 1	3.6.1.1	inorganic diphosphatase
-vacuolar H+ -ATPase	3.6.1.1	inorganic diphosphatase
-single-subunit H+ -PPase	3.6.1.1	inorganic diphosphatase
-H+ -translocating PPase	3.6.1.1	inorganic diphosphatase
-H+ -PPase	3.6.1.1	inorganic diphosphatase
-AVP1	3.6.1.1	inorganic diphosphatase
-PYP-1	3.6.1.1	inorganic diphosphatase
-membrane-integral inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
-miPPase	3.6.1.1	inorganic diphosphatase
-acid PPase	3.6.1.1	inorganic diphosphatase
-D1C enzyme	3.6.1.1	inorganic diphosphatase
-Rv3628	3.6.1.1	inorganic diphosphatase
-BT2127	3.6.1.1	inorganic diphosphatase
-AtPPsPase1	3.6.1.1	inorganic diphosphatase
-vacuolar H(+)-PPase	3.6.1.1	inorganic diphosphatase
-VHP	3.6.1.1	inorganic diphosphatase
-locus name	3.6.1.1	inorganic diphosphatase
-locus name	3.6.1.1	inorganic diphosphatase
 PpaC	3.6.1.1	inorganic diphosphatase
-V-PPase	3.6.1.1	inorganic diphosphatase
-H+-inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
 PPase	3.6.1.1	inorganic diphosphatase
 inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
-proton-translocating vacuolar PPase	3.6.1.1	inorganic diphosphatase
-H+-PPase	3.6.1.1	inorganic diphosphatase
 CBS-PPase	3.6.1.1	inorganic diphosphatase
 VSP	3.6.1.1	inorganic diphosphatase
 Inorganic pyrophosphatases	3.6.1.1	inorganic diphosphatase
-H+-translocating inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
-ER H+-pyrophosphatase	3.6.1.1	inorganic diphosphatase
-vacuolar H+-PPase	3.6.1.1	inorganic diphosphatase
+vacuolar H+-pyrophosphatase	3.6.1.1	inorganic diphosphatase
 M-PPase	3.6.1.1	inorganic diphosphatase
 membrane-integral pyrophosphatase	3.6.1.1	inorganic diphosphatase
-vacuolar H+-pyrophosphatase	3.6.1.1	inorganic diphosphatase
+V-PPase	3.6.1.1	inorganic diphosphatase
 vacuolar H+-translocating inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
-isoform	3.6.1.1	inorganic diphosphatase
-isoform	3.6.1.1	inorganic diphosphatase
-isoform	3.6.1.1	inorganic diphosphatase
-H(+)-pyrophosphatase	3.6.1.1	inorganic diphosphatase
 family II PPase	3.6.1.1	inorganic diphosphatase
 family II inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
-proton-pumping inorganicpyrophosphatase	3.6.1.1	inorganic diphosphatase
 E-PPase	3.6.1.1	inorganic diphosphatase
 EcPpA	3.6.1.1	inorganic diphosphatase
 pyrophosphatase	3.6.1.1	inorganic diphosphatase
 soluble inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
-PPase2	3.6.1.1	inorganic diphosphatase
-PPase1	3.6.1.1	inorganic diphosphatase
-family I PPase	3.6.1.1	inorganic diphosphatase
+H+-PPase	3.6.1.1	inorganic diphosphatase
 soluble pyrophosphatase	3.6.1.1	inorganic diphosphatase
+PPase2	3.6.1.1	inorganic diphosphatase
+family I PPase	3.6.1.1	inorganic diphosphatase
+PPase1	3.6.1.1	inorganic diphosphatase
 hyperthermophilic inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
 Pho-PPase	3.6.1.1	inorganic diphosphatase
 phospholysine phosphohistidine inorganic pyrophosphate phosphatase	3.6.1.1	inorganic diphosphatase
 LHPPase	3.6.1.1	inorganic diphosphatase
-electrogenic proton-pump that couplesdiphosphate hydrolysis to the active transport of protons acrossmembranes	3.6.1.1	inorganic diphosphatase
-IPPase	3.6.1.1	inorganic diphosphatase
 sPPAse	3.6.1.1	inorganic diphosphatase
 family I inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
-alkaline PPase	3.6.1.1	inorganic diphosphatase
-acidocalcisomal pyrophosphatase	3.6.1.1	inorganic diphosphatase
-gene name	3.6.1.1	inorganic diphosphatase
 phosphoprotein p26.1	3.6.1.1	inorganic diphosphatase
 p26.1a	3.6.1.1	inorganic diphosphatase
 p26.1b	3.6.1.1	inorganic diphosphatase
-Vpp1	3.6.1.1	inorganic diphosphatase
-vacuolar-type proton translocating pyrophosphatase 1	3.6.1.1	inorganic diphosphatase
+IPPase	3.6.1.1	inorganic diphosphatase
+VP1	3.6.1.1	inorganic diphosphatase
 proton-translocating inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
-AVP2	3.6.1.1	inorganic diphosphatase
-vacuolar proton pyrophosphatase 2	3.6.1.1	inorganic diphosphatase
 vacuolar H(+)-pyrophosphatase	3.6.1.1	inorganic diphosphatase
 H+-translocating/vacuolar inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
 vacuolar pyrophosphatase	3.6.1.1	inorganic diphosphatase
 H+-pyrophosphatase	3.6.1.1	inorganic diphosphatase
 VVPP1	3.6.1.1	inorganic diphosphatase
-Ipp1p	3.6.1.1	inorganic diphosphatase
 gene name	3.6.1.1	inorganic diphosphatase
 PPIase	3.6.1.1	inorganic diphosphatase
 the enzyme is a member of the sPPase family I	3.6.1.1	inorganic diphosphatase
@@ -94,14 +55,25 @@ pyrophosphate phospho-hydrolase 1	3.6.1.1	inorganic diphosphatase
 chloroplast inorganic pyrophosphatase 1	3.6.1.1	inorganic diphosphatase
 siPPiase	3.6.1.1	inorganic diphosphatase
 PPase4	3.6.1.1	inorganic diphosphatase
-VSP1	3.6.1.1	inorganic diphosphatase
 manganese-dependent inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
 mitochondrial pyrophosphatase	3.6.1.1	inorganic diphosphatase
 PPase-2	3.6.1.1	inorganic diphosphatase
 ppase-1	3.6.1.1	inorganic diphosphatase
 cytosolic PPase	3.6.1.1	inorganic diphosphatase
-proton pumping pyrophosphatase	3.6.1.1	inorganic diphosphatase
-V-H+-PPase	3.6.1.1	inorganic diphosphatase
+PYP-1	3.6.1.1	inorganic diphosphatase
+Ipp1p	3.6.1.1	inorganic diphosphatase
+membrane-integral inorganic pyrophosphatase	3.6.1.1	inorganic diphosphatase
+miPPase	3.6.1.1	inorganic diphosphatase
+acid PPase	3.6.1.1	inorganic diphosphatase
+D1C enzyme	3.6.1.1	inorganic diphosphatase
+gene name	3.6.1.1	inorganic diphosphatase
+Rv3628	3.6.1.1	inorganic diphosphatase
+BT2127	3.6.1.1	inorganic diphosphatase
+AtPPsPase1	3.6.1.1	inorganic diphosphatase
+vacuolar H(+)-PPase	3.6.1.1	inorganic diphosphatase
+VHP	3.6.1.1	inorganic diphosphatase
+locus name	3.6.1.1	inorganic diphosphatase
+locus name	3.6.1.1	inorganic diphosphatase
 polyphosphate depolymerase	3.6.1.10	endopolyphosphatase
 metaphosphatase	3.6.1.10	endopolyphosphatase
 phosphatase, endopoly-	3.6.1.10	endopolyphosphatase
@@ -337,8 +309,8 @@ NAD+ diphosphatase	3.6.1.22	NAD+ diphosphatase
 NAD diphosphatase	3.6.1.22	NAD+ diphosphatase
 growth factor gene 1 (GFG1,At4g12720) encodes a nudix hydrolase, that is an NADH pyrophosphataseand ADP-ribose pyrophosphatase	3.6.1.22	NAD+ diphosphatase
 NPY1	3.6.1.22	NAD+ diphosphatase
-UshA	3.6.1.22	NAD+ diphosphatase
 NudC	3.6.1.22	NAD+ diphosphatase
+UshA	3.6.1.22	NAD+ diphosphatase
 NadN	3.6.1.22	NAD+ diphosphatase
 desoxyuridine-triphosphatase	3.6.1.23	dUTP diphosphatase
 desoxyuridine 5'-triphosphate nucleotidohydrolase	3.6.1.23	dUTP diphosphatase
@@ -810,6 +782,8 @@ gene name	3.6.1.66	XTP/dITP diphosphatase
 gene name	3.6.1.66	XTP/dITP diphosphatase
 hypoxanthine/xanthine dNTP pyrophosphatase	3.6.1.66	XTP/dITP diphosphatase
 gene name	3.6.1.66	XTP/dITP diphosphatase
+gene name	3.6.1.66	XTP/dITP diphosphatase
+dITP/XTP pyrophosphatase	3.6.1.66	XTP/dITP diphosphatase
 NUDT1	3.6.1.67	dihydroneopterin triphosphate diphosphatase
 H2-neopterin-PPP pyrophosphohydrolase	3.6.1.67	dihydroneopterin triphosphate diphosphatase
 dihydroneopterin triphosphate pyrophosphohydrolase	3.6.1.67	dihydroneopterin triphosphate diphosphatase
@@ -927,99 +901,6 @@ APSST	3.6.2.1	adenylylsulfatase
 3-phosphoadenosine 5-phosphosulfate sulfatase	3.6.2.2	phosphoadenylylsulfatase
 PAPS sulfatase	3.6.2.2	phosphoadenylylsulfatase
 PAPS sulfohydrolase	3.6.2.2	phosphoadenylylsulfatase
-Mg2+-ATPase	3.6.3.1	phospholipid-translocating ATPase
-EC 3.6.3.13	3.6.3.1	phospholipid-translocating ATPase
-Mg2+-ATPase A	3.6.3.1	phospholipid-translocating ATPase
-aminophospholipid flippase 10	3.6.3.1	phospholipid-translocating ATPase
-aminophospholipid flippase 11	3.6.3.1	phospholipid-translocating ATPase
-aminophospholipid flippase 12	3.6.3.1	phospholipid-translocating ATPase
-aminophospholipid translocase VC	3.6.3.1	phospholipid-translocating ATPase
-ATPVC	3.6.3.1	phospholipid-translocating ATPase
-ATPVD	3.6.3.1	phospholipid-translocating ATPase
-HUSSY-20	3.6.3.1	phospholipid-translocating ATPase
-aminophospholipid flippase	3.6.3.1	phospholipid-translocating ATPase
-ATP8A1	3.6.3.1	phospholipid-translocating ATPase
-ABCB1	3.6.3.1	phospholipid-translocating ATPase
-functions as an ATP-powered multidrugefflux pump for amphipathic molecules	3.6.3.1	phospholipid-translocating ATPase
-ALA3	3.6.3.1	phospholipid-translocating ATPase
-ALA9	3.6.3.1	phospholipid-translocating ATPase
-ALA12	3.6.3.1	phospholipid-translocating ATPase
-ALA10	3.6.3.1	phospholipid-translocating ATPase
-ALA11	3.6.3.1	phospholipid-translocating ATPase
-ALA8	3.6.3.1	phospholipid-translocating ATPase
-ALA7	3.6.3.1	phospholipid-translocating ATPase
-ALA4	3.6.3.1	phospholipid-translocating ATPase
-ALA5	3.6.3.1	phospholipid-translocating ATPase
-ALA2	3.6.3.1	phospholipid-translocating ATPase
-aminophospholipid ATPase	3.6.3.1	phospholipid-translocating ATPase
-ALA1	3.6.3.1	phospholipid-translocating ATPase
-miltefosine transporter	3.6.3.1	phospholipid-translocating ATPase
-LdMT	3.6.3.1	phospholipid-translocating ATPase
-beta-subunit of LdMT	3.6.3.1	phospholipid-translocating ATPase
-aminophospholipid-translocase	3.6.3.1	phospholipid-translocating ATPase
-phospholipid-transporting ATPase IB	3.6.3.1	phospholipid-translocating ATPase
-P4-type ATPase	3.6.3.1	phospholipid-translocating ATPase
-Dnf1	3.6.3.1	phospholipid-translocating ATPase
-Drs2 Neo1 family ATPase 1	3.6.3.1	phospholipid-translocating ATPase
-Drs2 Neo1 family ATPase 2	3.6.3.1	phospholipid-translocating ATPase
-TAT-5	3.6.3.1	phospholipid-translocating ATPase
-transbilayer amphipath transporter	3.6.3.1	phospholipid-translocating ATPase
-TAT-3	3.6.3.1	phospholipid-translocating ATPase
-TAT-6	3.6.3.1	phospholipid-translocating ATPase
-erythroid ATP-dependent aminophospholipid transporter	3.6.3.1	phospholipid-translocating ATPase
-flippase	3.6.3.1	phospholipid-translocating ATPase
-the enzyme belongs to theP-type ATPases	3.6.3.1	phospholipid-translocating ATPase
-aminophospholipid translocase	3.6.3.1	phospholipid-translocating ATPase
-PS flippase	3.6.3.1	phospholipid-translocating ATPase
-TAT-2	3.6.3.1	phospholipid-translocating ATPase
-MsbA	3.6.3.1	phospholipid-translocating ATPase
-lipid flippase	3.6.3.1	phospholipid-translocating ATPase
-Drs2 Neo1 family ATPase 3	3.6.3.1	phospholipid-translocating ATPase
-TAT-4	3.6.3.1	phospholipid-translocating ATPase
-P-gp	3.6.3.1	phospholipid-translocating ATPase
-type II secretion ATPase	3.6.3.1	phospholipid-translocating ATPase
-aminophosphoplipid translocase	3.6.3.1	phospholipid-translocating ATPase
-MDR3 P-glycoprotein	3.6.3.1	phospholipid-translocating ATPase
-ABCB4	3.6.3.1	phospholipid-translocating ATPase
-multidrug resistance 3 P-glycoprotein	3.6.3.1	phospholipid-translocating ATPase
-ATP9B	3.6.3.1	phospholipid-translocating ATPase
-ATP8B4	3.6.3.1	phospholipid-translocating ATPase
-ATP8B5	3.6.3.1	phospholipid-translocating ATPase
-ATP11B	3.6.3.1	phospholipid-translocating ATPase
-EpsE	3.6.3.1	phospholipid-translocating ATPase
-ATP8B1	3.6.3.1	phospholipid-translocating ATPase
-sperm-specific aminophospholipid transporter andP-type ATPase	3.6.3.1	phospholipid-translocating ATPase
-Atp8a2	3.6.3.1	phospholipid-translocating ATPase
-ATP10A	3.6.3.1	phospholipid-translocating ATPase
-ATP11C	3.6.3.1	phospholipid-translocating ATPase
-ATP8B2	3.6.3.1	phospholipid-translocating ATPase
-ATP9A	3.6.3.1	phospholipid-translocating ATPase
-ATP11A	3.6.3.1	phospholipid-translocating ATPase
-ATP10D	3.6.3.1	phospholipid-translocating ATPase
-ATP10B	3.6.3.1	phospholipid-translocating ATPase
-type IV P-typeATPase	3.6.3.1	phospholipid-translocating ATPase
-phospholipid flippase	3.6.3.1	phospholipid-translocating ATPase
-ATPase II	3.6.3.1	phospholipid-translocating ATPase
-APLT	3.6.3.1	phospholipid-translocating ATPase
-phospholipid-translocase	3.6.3.1	phospholipid-translocating ATPase
-isoform	3.6.3.1	phospholipid-translocating ATPase
-Dnf1p-Lem3p	3.6.3.1	phospholipid-translocating ATPase
-Cdc50p-Drs2p	3.6.3.1	phospholipid-translocating ATPase
-isoform	3.6.3.1	phospholipid-translocating ATPase
-isoform	3.6.3.1	phospholipid-translocating ATPase
-isoform	3.6.3.1	phospholipid-translocating ATPase
-isoform	3.6.3.1	phospholipid-translocating ATPase
-phosphatidylserine translocase	3.6.3.1	phospholipid-translocating ATPase
-PS translocase	3.6.3.1	phospholipid-translocating ATPase
-energy-dependent lipid flippases	3.6.3.1	phospholipid-translocating ATPase
-Dnf1p and Dnf2p	3.6.3.1	phospholipid-translocating ATPase
-flippases	3.6.3.1	phospholipid-translocating ATPase
-Drs2-dependent phosphatidylserine translocase	3.6.3.1	phospholipid-translocating ATPase
-neomycin resistance 1	3.6.3.1	phospholipid-translocating ATPase
-phosphatidylserine flippase	3.6.3.1	phospholipid-translocating ATPase
-type IV P-type ATPase	3.6.3.1	phospholipid-translocating ATPase
-defect in ribosome synthesis 2	3.6.3.1	phospholipid-translocating ATPase
-phospholipid translocase	3.6.3.1	phospholipid-translocating ATPase
 (H++K+)-ATPase	3.6.3.10	H+/K+-exchanging ATPase
 H+-K+-adenosinetriphosphatase	3.6.3.10	H+/K+-exchanging ATPase
 Proton pump	3.6.3.10	H+/K+-exchanging ATPase
@@ -1092,170 +973,6 @@ K+-translocating KdpFABC P-type ATPase	3.6.3.12	K+-transporting ATPase
 K+-transporting KdpB P-type ATPase	3.6.3.12	K+-transporting ATPase
 K+-transporting KdpFABC P-type ATPase	3.6.3.12	K+-transporting ATPase
 UspA	3.6.3.12	K+-transporting ATPase
-H+-transporting ATPase	3.6.3.14	H+-transporting two-sector ATPase
-mitochondrial ATPase	3.6.3.14	H+-transporting two-sector ATPase
-coupling factors (F0,F1 and CF1)	3.6.3.14	H+-transporting two-sector ATPase
-bacterial Ca2+/Mg2+ ATPase	3.6.3.14	H+-transporting two-sector ATPase
-H+-translocating ATPase	3.6.3.14	H+-transporting two-sector ATPase
-F1F0H+-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-F1F0 ATPase	3.6.3.14	H+-transporting two-sector ATPase
-15 kDa mediatophore protein	3.6.3.14	H+-transporting two-sector ATPase
-32 kDa accessory protein	3.6.3.14	H+-transporting two-sector ATPase
-59 kDa membrane-associated GTP-binding protein	3.6.3.14	H+-transporting two-sector ATPase
-A6L	3.6.3.14	H+-transporting two-sector ATPase
-ATP synthase proteolipid P1	3.6.3.14	H+-transporting two-sector ATPase
-ATP synthase proteolipid P2	3.6.3.14	H+-transporting two-sector ATPase
-ATP synthase proteolipid P3	3.6.3.14	H+-transporting two-sector ATPase
-BN59	3.6.3.14	H+-transporting two-sector ATPase
-C7-1 protein	3.6.3.14	H+-transporting two-sector ATPase
-CGI-11	3.6.3.14	H+-transporting two-sector ATPase
-Dicyclohexylcarbodiimide-binding protein	3.6.3.14	H+-transporting two-sector ATPase
-Ductin	3.6.3.14	H+-transporting two-sector ATPase
-DVA41	3.6.3.14	H+-transporting two-sector ATPase
-HATPL	3.6.3.14	H+-transporting two-sector ATPase
-HO57	3.6.3.14	H+-transporting two-sector ATPase
-Invasion protein invC	3.6.3.14	H+-transporting two-sector ATPase
-Isoform HO68	3.6.3.14	H+-transporting two-sector ATPase
-Isoform VA68	3.6.3.14	H+-transporting two-sector ATPase
-Lipid-binding protein	3.6.3.14	H+-transporting two-sector ATPase
-M40	3.6.3.14	H+-transporting two-sector ATPase
-My032 protein	3.6.3.14	H+-transporting two-sector ATPase
-Oligomycin sensitivity conferral protein	3.6.3.14	H+-transporting two-sector ATPase
-OSCP	3.6.3.14	H+-transporting two-sector ATPase
-P31	3.6.3.14	H+-transporting two-sector ATPase
-P39	3.6.3.14	H+-transporting two-sector ATPase
-Physophilin	3.6.3.14	H+-transporting two-sector ATPase
-PKIWI505	3.6.3.14	H+-transporting two-sector ATPase
-Protein bellwether	3.6.3.14	H+-transporting two-sector ATPase
-Sul-ATPase alpha	3.6.3.14	H+-transporting two-sector ATPase
-SUL-ATPase epsilon	3.6.3.14	H+-transporting two-sector ATPase
-Sul-ATPase gamma	3.6.3.14	H+-transporting two-sector ATPase
-UV-inducible PU4 protein	3.6.3.14	H+-transporting two-sector ATPase
-V-ATPase 28 kDa accessory protein	3.6.3.14	H+-transporting two-sector ATPase
-V-ATPase 40 kDa accessory protein	3.6.3.14	H+-transporting two-sector ATPase
-V-ATPase 41 KDa accessory protein	3.6.3.14	H+-transporting two-sector ATPase
-V-ATPase 9.2 kDa membrane accessory protein	3.6.3.14	H+-transporting two-sector ATPase
-V-ATPase S1 accessory protein	3.6.3.14	H+-transporting two-sector ATPase
-VEG100	3.6.3.14	H+-transporting two-sector ATPase
-VEG31	3.6.3.14	H+-transporting two-sector ATPase
-Vegetative protein 100	3.6.3.14	H+-transporting two-sector ATPase
-Vegetative protein 31	3.6.3.14	H+-transporting two-sector ATPase
-VHA16K	3.6.3.14	H+-transporting two-sector ATPase
-YOPS secretion ATPase	3.6.3.14	H+-transporting two-sector ATPase
-vacuolar H(+)-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-VHA	3.6.3.14	H+-transporting two-sector ATPase
-the FOF1-ATP synthase alpha belongs to the family ofstress proteins HSP60	3.6.3.14	H+-transporting two-sector ATPase
-vacuolar-type proton pumping ATPase	3.6.3.14	H+-transporting two-sector ATPase
-F0F1-ATP synthase alpha	3.6.3.14	H+-transporting two-sector ATPase
-plasma membrane vacuolar H+-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-plasma membrane V-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-F0F1-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-vacuolar H+-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-V-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-F0F1-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-F1 ATPase	3.6.3.14	H+-transporting two-sector ATPase
-proton translocating chloroplast ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-AtpZ	3.6.3.14	H+-transporting two-sector ATPase
-Na+-dependent F1F0-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-ApNa+-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-V-type ATPase/synthase	3.6.3.14	H+-transporting two-sector ATPase
-V-type H+-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-A-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-H(+)-transporting ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-A-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-H+-transporting ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-gene name	3.6.3.14	H+-transporting two-sector ATPase
-gene name	3.6.3.14	H+-transporting two-sector ATPase
-F1F0 ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-TF1-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-rotary FOF1-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-ECF1	3.6.3.14	H+-transporting two-sector ATPase
-ATP synthase F1	3.6.3.14	H+-transporting two-sector ATPase
-FoF1-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-FoF1-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-FoF1 ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-F-type proton-translocating ATPase	3.6.3.14	H+-transporting two-sector ATPase
-mitochondrial H+-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-F1-F0 ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-Ecto-F1Fo ATP synthase/F1 ATPase	3.6.3.14	H+-transporting two-sector ATPase
-F1FO-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-mitochondrial F1F0 ATP hydrolase	3.6.3.14	H+-transporting two-sector ATPase
-ectopic FoF1 ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-mitochondrial FOF1 ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-F1Fo ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-H+-V-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-vacuolar proton-translocating ATPase	3.6.3.14	H+-transporting two-sector ATPase
-vacuolar ATPase	3.6.3.14	H+-transporting two-sector ATPase
-F1-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-F1FO-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-mitochondrial F(1)-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-H+ FoF1-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-mitochondrial F0F1-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-H+-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-chloroplast ATPase	3.6.3.14	H+-transporting two-sector ATPase
-chlorpoplast ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-chloroplast ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-F1FO ATPase	3.6.3.14	H+-transporting two-sector ATPase
-F0F1 ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-Sul-ATPase beta	3.6.3.14	H+-transporting two-sector ATPase
-membrane-associated ATPase	3.6.3.14	H+-transporting two-sector ATPase
-Sul-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-F1F0-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-isolatedextrinsic part of ATP synthase, extrinsic F1 domainalpha3beta3gammadeltaepsilon in mitochondria	3.6.3.14	H+-transporting two-sector ATPase
-TFoF1	3.6.3.14	H+-transporting two-sector ATPase
-rotary molecular motor	3.6.3.14	H+-transporting two-sector ATPase
-F1	3.6.3.14	H+-transporting two-sector ATPase
-F1Fo	3.6.3.14	H+-transporting two-sector ATPase
-FoF1	3.6.3.14	H+-transporting two-sector ATPase
-proton-translocating ATPase	3.6.3.14	H+-transporting two-sector ATPase
-Fo·F1-H+-ATPase (synthase)	3.6.3.14	H+-transporting two-sector ATPase
-F0F1ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-photosynthetic F1-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-tonoplast H+-ATPase	3.6.3.14	H+-transporting two-sector ATPase
-H+-coupled ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-FoF1 ATPase	3.6.3.14	H+-transporting two-sector ATPase
-FoF1-ATPase/synthase	3.6.3.14	H+-transporting two-sector ATPase
-TF1	3.6.3.14	H+-transporting two-sector ATPase
-F1-ATPase beta subunit	3.6.3.14	H+-transporting two-sector ATPase
-Tbeta	3.6.3.14	H+-transporting two-sector ATPase
-A1AO ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-F1F0-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-complex V	3.6.3.14	H+-transporting two-sector ATPase
-mitochondrial F1Fo-ATP synthase	3.6.3.14	H+-transporting two-sector ATPase
-V1VO ATPase	3.6.3.14	H+-transporting two-sector ATPase
-ATP synthase	3.6.3.15	Na+-transporting two-sector ATPase
-vacuolar-type Na+-ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-vacuolar-type Na+-translocating ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-Lipid-binding protein	3.6.3.15	Na+-transporting two-sector ATPase
-NHE1	3.6.3.15	Na+-transporting two-sector ATPase
-Na+ /H+ exchanger 3	3.6.3.15	Na+-transporting two-sector ATPase
-SLC9A3	3.6.3.15	Na+-transporting two-sector ATPase
-NHE3	3.6.3.15	Na+-transporting two-sector ATPase
-V-ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-vacuolar Na+-translocating ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-V-type Na+-ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-sodium ion-pumping adenosine triphosphatase	3.6.3.15	Na+-transporting two-sector ATPase
-Na+-translocating V-ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-Na+-transporting V-ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-vacuole-type ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-Na+ pump	3.6.3.15	Na+-transporting two-sector ATPase
-Na+-transporting P-type ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-KPA1	3.6.3.15	Na+-transporting two-sector ATPase
-Na+-translocating F1FO-ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-F-type ATP synthase	3.6.3.15	Na+-transporting two-sector ATPase
-Na+ V-ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-Ntp	3.6.3.15	Na+-transporting two-sector ATPase
-Na+/H+ exchanger protein	3.6.3.15	Na+-transporting two-sector ATPase
-Na+/H+ exchanger 3	3.6.3.15	Na+-transporting two-sector ATPase
-NHE2	3.6.3.15	Na+-transporting two-sector ATPase
-Na+-ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-Na+-translocating ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-F1FO-ATPase	3.6.3.15	Na+-transporting two-sector ATPase
-A1AO ATP synthase	3.6.3.15	Na+-transporting two-sector ATPase
-Na+/H+ antiporter	3.6.3.15	Na+-transporting two-sector ATPase
-NHE	3.6.3.15	Na+-transporting two-sector ATPase
 ATP-dependent arsenite pump	3.6.3.16	arsenite-transporting ATPase
 Arsenical resistance ATPase	3.6.3.16	arsenite-transporting ATPase
 Arsenite-transporting ATPase	3.6.3.16	arsenite-transporting ATPase
@@ -1282,30 +999,6 @@ ABC-ATPase GlcV	3.6.3.17	monosaccharide-transporting ATPase
 ABC transporter, ATP binding protein (glucose)	3.6.3.17	monosaccharide-transporting ATPase
 GlcV	3.6.3.17	monosaccharide-transporting ATPase
 locus name	3.6.3.17	monosaccharide-transporting ATPase
-ABC-type (ATP-binding cassette-type) ATPase	3.6.3.18	oligosaccharide-transporting ATPase
-ATP-binding cassette ATPase domain of the haemolysin B transporter	3.6.3.18	oligosaccharide-transporting ATPase
-ABC ATPase domain of HlyB transporter	3.6.3.18	oligosaccharide-transporting ATPase
-HlyB NBD	3.6.3.18	oligosaccharide-transporting ATPase
-the maltose transporter is a member of the ATP-bindingcassette, ABC, transporter superfamily	3.6.3.19	maltose-transporting ATPase
-maltose ATP-binding cassette importer	3.6.3.19	maltose-transporting ATPase
-maltose ABC transporter	3.6.3.19	maltose-transporting ATPase
-MalFGK2	3.6.3.19	maltose-transporting ATPase
-maltose transporter MalFGK2	3.6.3.19	maltose-transporting ATPase
-maltose transporter ATPase	3.6.3.19	maltose-transporting ATPase
-subunit of MusEFGK2I	3.6.3.19	maltose-transporting ATPase
-gene name	3.6.3.19	maltose-transporting ATPase
-maltose-specific enzyme IICB	3.6.3.19	maltose-transporting ATPase
-MalP	3.6.3.19	maltose-transporting ATPase
-GlvC	3.6.3.19	maltose-transporting ATPase
-MalE	3.6.3.19	maltose-transporting ATPase
-MalT	3.6.3.19	maltose-transporting ATPase
-maltose ATP binding cassette transporter	3.6.3.19	maltose-transporting ATPase
-maltose ABC transporter MALFGK2-E	3.6.3.19	maltose-transporting ATPase
-gene name	3.6.3.19	maltose-transporting ATPase
-ATPase subunit of MalFGK2	3.6.3.19	maltose-transporting ATPase
-maltose importer	3.6.3.19	maltose-transporting ATPase
-maltose transporter	3.6.3.19	maltose-transporting ATPase
-maltose ATP-binding cassette transporter	3.6.3.19	maltose-transporting ATPase
 adenosine 5'-triphosphatase	3.6.3.2	Mg2+-importing ATPase
 ATP hydrolase	3.6.3.2	Mg2+-importing ATPase
 ATPase	3.6.3.2	Mg2+-importing ATPase
@@ -1354,48 +1047,6 @@ sn-glycerol-3-phosphate ATP binding cassette transporter	3.6.3.20	glycerol-3-pho
 UgpB-AEC2	3.6.3.20	glycerol-3-phosphate-transporting ATPase
 G3Pp	3.6.3.20	glycerol-3-phosphate-transporting ATPase
 glycerol-3-phosphate permease	3.6.3.20	glycerol-3-phosphate-transporting ATPase
-HisP	3.6.3.21	polar-amino-acid-transporting ATPase
-CTRA	3.6.3.21	polar-amino-acid-transporting ATPase
-BcaP	3.6.3.21	polar-amino-acid-transporting ATPase
-branched-chain amino acid permease	3.6.3.21	polar-amino-acid-transporting ATPase
-AAP	3.6.3.21	polar-amino-acid-transporting ATPase
-amino acid permease 7	3.6.3.21	polar-amino-acid-transporting ATPase
-AAP7	3.6.3.21	polar-amino-acid-transporting ATPase
-lysine-specific permease	3.6.3.21	polar-amino-acid-transporting ATPase
-VfAAP1	3.6.3.21	polar-amino-acid-transporting ATPase
-histidine binding subunit of the histidine permease	3.6.3.21	polar-amino-acid-transporting ATPase
-lysine-specific transporter	3.6.3.21	polar-amino-acid-transporting ATPase
-gene name	3.6.3.21	polar-amino-acid-transporting ATPase
-lysine permease	3.6.3.21	polar-amino-acid-transporting ATPase
-histidine permease	3.6.3.21	polar-amino-acid-transporting ATPase
-displays also EC 3.6.3.21/nonpolar-amino-acid-transporting ATPase activity	3.6.3.21	polar-amino-acid-transporting ATPase
-Gap1p	3.6.3.21	polar-amino-acid-transporting ATPase
-gap1 gene product	3.6.3.21	polar-amino-acid-transporting ATPase
-Gap1 permease	3.6.3.21	polar-amino-acid-transporting ATPase
-amino acid transceptor	3.6.3.21	polar-amino-acid-transporting ATPase
-transporting amino acid transceptor	3.6.3.21	polar-amino-acid-transporting ATPase
-GAP1	3.6.3.21	polar-amino-acid-transporting ATPase
-amino acid permease	3.6.3.21	polar-amino-acid-transporting ATPase
-catalyzes the transport ofall the D- and L-isomers of the amino acids normally found in proteins	3.6.3.21	polar-amino-acid-transporting ATPase
-PcGap1	3.6.3.21	polar-amino-acid-transporting ATPase
-AAP8	3.6.3.21	polar-amino-acid-transporting ATPase
-amino acid permease 8	3.6.3.21	polar-amino-acid-transporting ATPase
-amino acid permease 1	3.6.3.21	polar-amino-acid-transporting ATPase
-AAP1	3.6.3.21	polar-amino-acid-transporting ATPase
-lysine histidine transporter 1	3.6.3.21	polar-amino-acid-transporting ATPase
-LHT1	3.6.3.21	polar-amino-acid-transporting ATPase
-the vacuolar amino acid transporters belong to the AVTfamily or the VBA family of enzymes	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-vacuolar amino acid transporter	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-ATB0	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-acidic amino acid permease	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-PcDIP5	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-amino acid permease 1	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-AAP1	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-ATPase	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-BGT	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-neutral amino acid permease N-I	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-ABC-type high-affinity basic amino acid uptake transporter	3.6.3.22	nonpolar-amino-acid-transporting ATPase
-branched-chain amino acid transporter	3.6.3.22	nonpolar-amino-acid-transporting ATPase
 Opp	3.6.3.23	oligopeptide-transporting ATPase
 OppF	3.6.3.23	oligopeptide-transporting ATPase
 BldK transporter	3.6.3.23	oligopeptide-transporting ATPase
@@ -1491,127 +1142,6 @@ BnNrt2.1	3.6.3.26	nitrate-transporting ATPase
 BnNrt1.1	3.6.3.26	nitrate-transporting ATPase
 high affinity bispecific nitrate/nitrite transporter	3.6.3.26	nitrate-transporting ATPase
 YNT1 gene product	3.6.3.26	nitrate-transporting ATPase
-ABC phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-phosphate specific transporter	3.6.3.27	phosphate-transporting ATPase
-phosphate-specific transport system	3.6.3.27	phosphate-transporting ATPase
-PstSCAB	3.6.3.27	phosphate-transporting ATPase
-HvPHT1,6	3.6.3.27	phosphate-transporting ATPase
-HvPHT1;6	3.6.3.27	phosphate-transporting ATPase
-HvPHT1;1	3.6.3.27	phosphate-transporting ATPase
-StPT2	3.6.3.27	phosphate-transporting ATPase
-phosphate transporter1	3.6.3.27	phosphate-transporting ATPase
-PHT1;1	3.6.3.27	phosphate-transporting ATPase
-thylakoid phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-PHOSPHATE TRANSPORTER 4;1	3.6.3.27	phosphate-transporting ATPase
-PHT4;1	3.6.3.27	phosphate-transporting ATPase
-Pht1;8 transporter	3.6.3.27	phosphate-transporting ATPase
-Pht1;9 transporter	3.6.3.27	phosphate-transporting ATPase
-Pht1;5	3.6.3.27	phosphate-transporting ATPase
-AtPT1	3.6.3.27	phosphate-transporting ATPase
-AtPHT1;4	3.6.3.27	phosphate-transporting ATPase
-AtPHT1;1	3.6.3.27	phosphate-transporting ATPase
-AtPHT1;2	3.6.3.27	phosphate-transporting ATPase
-gene name	3.6.3.27	phosphate-transporting ATPase
-phosphate transporter PHT4;1	3.6.3.27	phosphate-transporting ATPase
-PHT1	3.6.3.27	phosphate-transporting ATPase
-gene name	3.6.3.27	phosphate-transporting ATPase
-anion transporter 1	3.6.3.27	phosphate-transporting ATPase
-ANTR1	3.6.3.27	phosphate-transporting ATPase
-inorganic phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-ABC-type phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-UhpT	3.6.3.27	phosphate-transporting ATPase
-GlpT	3.6.3.27	phosphate-transporting ATPase
-gene name	3.6.3.27	phosphate-transporting ATPase
-PstS	3.6.3.27	phosphate-transporting ATPase
-phosphate ABC transporter	3.6.3.27	phosphate-transporting ATPase
-TaPHT1.2	3.6.3.27	phosphate-transporting ATPase
-phosphate-specific ABC transporter	3.6.3.27	phosphate-transporting ATPase
-high-affinity ABC-type phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-Pst	3.6.3.27	phosphate-transporting ATPase
-PstA permease	3.6.3.27	phosphate-transporting ATPase
-ABC phosphate transport receptor	3.6.3.27	phosphate-transporting ATPase
-phosphate-specific transport substrate binding protein-1	3.6.3.27	phosphate-transporting ATPase
-phosphate-bound PstS-1	3.6.3.27	phosphate-transporting ATPase
-PstB	3.6.3.27	phosphate-transporting ATPase
-the enzyme belongs to the Pht1 family ofplant phosphate transporters	3.6.3.27	phosphate-transporting ATPase
-LePT1	3.6.3.27	phosphate-transporting ATPase
-OsPht1;1	3.6.3.27	phosphate-transporting ATPase
-OsPT1	3.6.3.27	phosphate-transporting ATPase
-OsPT8	3.6.3.27	phosphate-transporting ATPase
-OsPT4	3.6.3.27	phosphate-transporting ATPase
-OsPT6	3.6.3.27	phosphate-transporting ATPase
-gene name	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-isoform	3.6.3.27	phosphate-transporting ATPase
-high affinity Pi transporter	3.6.3.27	phosphate-transporting ATPase
-high affinity phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-mTPT1	3.6.3.27	phosphate-transporting ATPase
-symbiosis-specific phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-MtPT4	3.6.3.27	phosphate-transporting ATPase
-SLC17A1	3.6.3.27	phosphate-transporting ATPase
-type 1 sodium-dependent phosphate transporter (SLC17A1 protein)	3.6.3.27	phosphate-transporting ATPase
-NPT1	3.6.3.27	phosphate-transporting ATPase
-Pit phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-Pit1	3.6.3.27	phosphate-transporting ATPase
-Pit2	3.6.3.27	phosphate-transporting ATPase
-phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-Pht1;3	3.6.3.27	phosphate-transporting ATPase
-phosphate transporter 1	3.6.3.27	phosphate-transporting ATPase
-mycorrhiza-specific phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-Pht1 Pi transporter	3.6.3.27	phosphate-transporting ATPase
-YjbB	3.6.3.27	phosphate-transporting ATPase
-phosphate-specific transporter	3.6.3.27	phosphate-transporting ATPase
-Pit	3.6.3.27	phosphate-transporting ATPase
-phosphate transporter 2	3.6.3.27	phosphate-transporting ATPase
-Na+-dependent inorganic phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-Na+-dependent Pi transporter	3.6.3.27	phosphate-transporting ATPase
-PiPT	3.6.3.27	phosphate-transporting ATPase
-high-affinity phosphate transporter Pho84p	3.6.3.27	phosphate-transporting ATPase
-low-affinity phosphate transporter Pho87p	3.6.3.27	phosphate-transporting ATPase
-low-affinity phosphate transporter Pho90p	3.6.3.27	phosphate-transporting ATPase
-low-affinity phosphate transporter Pho91p	3.6.3.27	phosphate-transporting ATPase
-PHT4;2	3.6.3.27	phosphate-transporting ATPase
-plastid-localized Pi transporter	3.6.3.27	phosphate-transporting ATPase
-sodium-dependent phosphate cotransporter	3.6.3.27	phosphate-transporting ATPase
-type III sodium-dependent phosphate cotransporter	3.6.3.27	phosphate-transporting ATPase
-sodium-dependent phosphate transporter 2a	3.6.3.27	phosphate-transporting ATPase
-Npt2a	3.6.3.27	phosphate-transporting ATPase
-PiT-1	3.6.3.27	phosphate-transporting ATPase
-GmPT1	3.6.3.27	phosphate-transporting ATPase
-GmPT2	3.6.3.27	phosphate-transporting ATPase
-SLC20A1	3.6.3.27	phosphate-transporting ATPase
-type III Pi transporter	3.6.3.27	phosphate-transporting ATPase
-phosphate transporter 3	3.6.3.27	phosphate-transporting ATPase
-MPT3	3.6.3.27	phosphate-transporting ATPase
-Ram-1	3.6.3.27	phosphate-transporting ATPase
-Glvr-1	3.6.3.27	phosphate-transporting ATPase
-NaPi-2a	3.6.3.27	phosphate-transporting ATPase
-sodium-dependent Pi transporter	3.6.3.27	phosphate-transporting ATPase
-Na+-Pi transporter	3.6.3.27	phosphate-transporting ATPase
-PiT-2	3.6.3.27	phosphate-transporting ATPase
-Pi transporter	3.6.3.27	phosphate-transporting ATPase
-high affinity phosphate-binding protein	3.6.3.27	phosphate-transporting ATPase
-PBP-1	3.6.3.27	phosphate-transporting ATPase
-Pho84p	3.6.3.27	phosphate-transporting ATPase
-Pho90	3.6.3.27	phosphate-transporting ATPase
-Pho87	3.6.3.27	phosphate-transporting ATPase
-Pho84	3.6.3.27	phosphate-transporting ATPase
-low-affinity phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-high-affinity phosphate transporter	3.6.3.27	phosphate-transporting ATPase
-high-affinity Pi transporter	3.6.3.27	phosphate-transporting ATPase
-PHT1 transporter	3.6.3.27	phosphate-transporting ATPase
-high-affinity phosphate ABC-transporter	3.6.3.27	phosphate-transporting ATPase
-Phn	3.6.3.27	phosphate-transporting ATPase
-PHNC	3.6.3.28	phosphonate-transporting ATPase
 molybdate transport system	3.6.3.29	molybdate-transporting ATPase
 HI1470/71	3.6.3.29	molybdate-transporting ATPase
 MolB2C2	3.6.3.29	molybdate-transporting ATPase
@@ -1843,99 +1373,6 @@ peptide transporter 2	3.6.3.43	peptide-transporting ATPase
 isoform	3.6.3.43	peptide-transporting ATPase
 isoform	3.6.3.43	peptide-transporting ATPase
 isoform	3.6.3.43	peptide-transporting ATPase
-multidrug-resistance protein	3.6.3.44	xenobiotic-transporting ATPase
-MRP	3.6.3.44	xenobiotic-transporting ATPase
-transporter protein MRP	3.6.3.44	xenobiotic-transporting ATPase
-P-glycoprotein multidrug efflux pump	3.6.3.44	xenobiotic-transporting ATPase
-isoform	3.6.3.44	xenobiotic-transporting ATPase
-P-glycoprotein	3.6.3.44	xenobiotic-transporting ATPase
-MDR	3.6.3.44	xenobiotic-transporting ATPase
-P-gp	3.6.3.44	xenobiotic-transporting ATPase
-Pgp	3.6.3.44	xenobiotic-transporting ATPase
-gene name	3.6.3.44	xenobiotic-transporting ATPase
-Abcb1a	3.6.3.44	xenobiotic-transporting ATPase
-Pdr5p	3.6.3.44	xenobiotic-transporting ATPase
-PDR5	3.6.3.44	xenobiotic-transporting ATPase
-Pdr18	3.6.3.44	xenobiotic-transporting ATPase
-Snq2p	3.6.3.44	xenobiotic-transporting ATPase
-LmrA	3.6.3.44	xenobiotic-transporting ATPase
-heterodimeric ABC multidrug transporter	3.6.3.44	xenobiotic-transporting ATPase
-Smr1	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance transporter 1	3.6.3.44	xenobiotic-transporting ATPase
-PatA/PatB	3.6.3.44	xenobiotic-transporting ATPase
-DMRP	3.6.3.44	xenobiotic-transporting ATPase
-isoform	3.6.3.44	xenobiotic-transporting ATPase
-Candida drug resistance 1 protein	3.6.3.44	xenobiotic-transporting ATPase
-Cdr1p	3.6.3.44	xenobiotic-transporting ATPase
-multidrug transporter	3.6.3.44	xenobiotic-transporting ATPase
-Pgh1	3.6.3.44	xenobiotic-transporting ATPase
-SMDR2	3.6.3.44	xenobiotic-transporting ATPase
-Ha-Pgp	3.6.3.44	xenobiotic-transporting ATPase
-hmr19 gene product	3.6.3.44	xenobiotic-transporting ATPase
-phosphatidylcholine translocator	3.6.3.44	xenobiotic-transporting ATPase
-DrrAB	3.6.3.44	xenobiotic-transporting ATPase
-renamed BmrA	3.6.3.44	xenobiotic-transporting ATPase
-formerly known as YvcC	3.6.3.44	xenobiotic-transporting ATPase
-multidrug ATP-binding cassette transporter	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance ABC transporter	3.6.3.44	xenobiotic-transporting ATPase
-MDR3 P-glycoprotein	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance transporter	3.6.3.44	xenobiotic-transporting ATPase
-Bcrp1	3.6.3.44	xenobiotic-transporting ATPase
-Mdr3	3.6.3.44	xenobiotic-transporting ATPase
-Mdr1a	3.6.3.44	xenobiotic-transporting ATPase
-Mdr2	3.6.3.44	xenobiotic-transporting ATPase
-ABCG2	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance protein 3	3.6.3.44	xenobiotic-transporting ATPase
-ABCC3	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance protein 4	3.6.3.44	xenobiotic-transporting ATPase
-MRP4	3.6.3.44	xenobiotic-transporting ATPase
-ABCC4	3.6.3.44	xenobiotic-transporting ATPase
-P-gp ABC transporter	3.6.3.44	xenobiotic-transporting ATPase
-member of the MRP family	3.6.3.44	xenobiotic-transporting ATPase
-breast cancer resistance protein	3.6.3.44	xenobiotic-transporting ATPase
-MRD1a	3.6.3.44	xenobiotic-transporting ATPase
-MDR1b	3.6.3.44	xenobiotic-transporting ATPase
-ABCB1, or P-glycoprotein, is a member of theATP binding cassette protein family	3.6.3.44	xenobiotic-transporting ATPase
-member of the MRP family	3.6.3.44	xenobiotic-transporting ATPase
-ABCC1	3.6.3.44	xenobiotic-transporting ATPase
-BCRP	3.6.3.44	xenobiotic-transporting ATPase
-MRP3/ABCC3	3.6.3.44	xenobiotic-transporting ATPase
-MDR1 P-glycoprotein	3.6.3.44	xenobiotic-transporting ATPase
-P-glycoprotein-ATPase	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistanceassociated protein 1	3.6.3.44	xenobiotic-transporting ATPase
-MRP1/ABCC1	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance protein 7	3.6.3.44	xenobiotic-transporting ATPase
-ABCC10	3.6.3.44	xenobiotic-transporting ATPase
-MRP7	3.6.3.44	xenobiotic-transporting ATPase
-phospho-glycoprotein	3.6.3.44	xenobiotic-transporting ATPase
-PGY1	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance gp170	3.6.3.44	xenobiotic-transporting ATPase
-ATP-binding cassette G subfamily member 2	3.6.3.44	xenobiotic-transporting ATPase
-ABCC2	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance protein 1	3.6.3.44	xenobiotic-transporting ATPase
-MRP2	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance-associated protein 2	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance associated protein 5	3.6.3.44	xenobiotic-transporting ATPase
-MRP5	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance protein	3.6.3.44	xenobiotic-transporting ATPase
-gene name	3.6.3.44	xenobiotic-transporting ATPase
-multidrug resistance protein 2	3.6.3.44	xenobiotic-transporting ATPase
-yeast cadmium factor	3.6.3.46	cadmium-transporting ATPase
-HMT1 protein	3.6.3.46	cadmium-transporting ATPase
-PCA1	3.6.3.46	cadmium-transporting ATPase
-cadmium-transporting P1B-type ATPase	3.6.3.46	cadmium-transporting ATPase
-cadmium-transporting ATPase	3.6.3.46	cadmium-transporting ATPase
-Yor1p	3.6.3.46	cadmium-transporting ATPase
-Ycf1p	3.6.3.46	cadmium-transporting ATPase
-Ycf1	3.6.3.46	cadmium-transporting ATPase
-yeast cadmium factor 1	3.6.3.46	cadmium-transporting ATPase
-the enzyme belongs to the ABCC subfamily of ABCtransporters	3.6.3.46	cadmium-transporting ATPase
-HMT-1	3.6.3.46	cadmium-transporting ATPase
-heavy metal tolerance factor 1	3.6.3.46	cadmium-transporting ATPase
-half-molecule ATP-binding cassette (ABC) transporter	3.6.3.46	cadmium-transporting ATPase
-OSA1	3.6.3.46	cadmium-transporting ATPase
-oxidative stress-related Abc1-like protein	3.6.3.46	cadmium-transporting ATPase
-OsHMA3	3.6.3.46	cadmium-transporting ATPase
 PMP69	3.6.3.47	fatty-acyl-CoA-transporting ATPase
 PMP70R	3.6.3.47	fatty-acyl-CoA-transporting ATPase
 PMP70	3.6.3.47	fatty-acyl-CoA-transporting ATPase
@@ -2130,7 +1567,6 @@ copper P-type ATPase	3.6.3.54	Cu+-exporting ATPase
 copper transporter	3.6.3.54	Cu+-exporting ATPase
 Cu(I)-transporting ATPase	3.6.3.54	Cu+-exporting ATPase
 Menkes copper-transporting ATPase	3.6.3.54	Cu+-exporting ATPase
-CopB	3.6.3.54	Cu+-exporting ATPase
 Cu(I)-transporting P-type ATPase	3.6.3.54	Cu+-exporting ATPase
 BsCopA	3.6.3.54	Cu+-exporting ATPase
 Cu(I)-detoxifying P-type ATPase	3.6.3.54	Cu+-exporting ATPase
@@ -2142,6 +1578,7 @@ ATP7B	3.6.3.54	Cu+-exporting ATPase
 ATP7A	3.6.3.54	Cu+-exporting ATPase
 isoform	3.6.3.54	Cu+-exporting ATPase
 isoform	3.6.3.54	Cu+-exporting ATPase
+CopB	3.6.3.54	Cu+-exporting ATPase
 copper-transporting ATPase	3.6.3.54	Cu+-exporting ATPase
 copper-transporting P-type ATPase	3.6.3.54	Cu+-exporting ATPase
 CuTP	3.6.3.54	Cu+-exporting ATPase
@@ -2166,91 +1603,6 @@ gene name	3.6.3.55	tungstate-importing ATPase
 Cj1540	3.6.3.55	tungstate-importing ATPase
 TupABC-like ultra-high affinity tungstate transporter	3.6.3.55	tungstate-importing ATPase
 the enzyme belongs to a separate phylogenetic group ofoxyanion ABC transporters	3.6.3.55	tungstate-importing ATPase
-EC 3.6.1.3	3.6.3.6	H+-exporting ATPase
-ATP phosphohydrolase	3.6.3.6	H+-exporting ATPase
-proton-translocating ATPase	3.6.3.6	H+-exporting ATPase
-yeast plasma membrane H+-ATPase	3.6.3.6	H+-exporting ATPase
-yeast plasma membrane ATPase	3.6.3.6	H+-exporting ATPase
-Proton pump	3.6.3.6	H+-exporting ATPase
-LDH1A protein	3.6.3.6	H+-exporting ATPase
-LDH1B protein	3.6.3.6	H+-exporting ATPase
-PAT2	3.6.3.6	H+-exporting ATPase
-Proton pump 10	3.6.3.6	H+-exporting ATPase
-Proton pump 11	3.6.3.6	H+-exporting ATPase
-H+-ATPase	3.6.3.6	H+-exporting ATPase
-plasmamembrane H+-ATPase	3.6.3.6	H+-exporting ATPase
-P-type ATPase	3.6.3.6	H+-exporting ATPase
-AHA2	3.6.3.6	H+-exporting ATPase
-isoform	3.6.3.6	H+-exporting ATPase
-isoform	3.6.3.6	H+-exporting ATPase
-PM proton pump	3.6.3.6	H+-exporting ATPase
-isoform	3.6.3.6	H+-exporting ATPase
-isoform	3.6.3.6	H+-exporting ATPase
-PMA2	3.6.3.6	H+-exporting ATPase
-PCA1	3.6.3.6	H+-exporting ATPase
-P-type H+-ATPase	3.6.3.6	H+-exporting ATPase
-vacuolar-type ATPase	3.6.3.6	H+-exporting ATPase
-isoform of non-penultimate threonine-containingH+-ATPase	3.6.3.6	H+-exporting ATPase
-pT H+-ATPase	3.6.3.6	H+-exporting ATPase
-isoform of penultimate threonine-containingH+-ATPase	3.6.3.6	H+-exporting ATPase
-PM H+-ATPase	3.6.3.6	H+-exporting ATPase
-plasma membrane H+-ATPase isoform 2	3.6.3.6	H+-exporting ATPase
-TbHA1	3.6.3.6	H+-exporting ATPase
-TbHA2	3.6.3.6	H+-exporting ATPase
-TbHA3	3.6.3.6	H+-exporting ATPase
-plasma membrane H+-ATPase LHA1	3.6.3.6	H+-exporting ATPase
-plasma membrane H+-ATPase LHA2	3.6.3.6	H+-exporting ATPase
-plasma membrane H+-ATPase LHA3	3.6.3.6	H+-exporting ATPase
-isoform	3.6.3.6	H+-exporting ATPase
-P-ATPase proton pump	3.6.3.6	H+-exporting ATPase
-P3A H+-ATPase	3.6.3.6	H+-exporting ATPase
-formerly	3.6.3.6	H+-exporting ATPase
-auto-inhibited H+-ATPase isoform 2	3.6.3.6	H+-exporting ATPase
-non-pT H+-ATPase	3.6.3.6	H+-exporting ATPase
-plasma membrane vacuolar H+-ATPase	3.6.3.6	H+-exporting ATPase
-plasma membrane V-ATPase	3.6.3.6	H+-exporting ATPase
-vacuolar-type H+-ATPase	3.6.3.6	H+-exporting ATPase
-isoform	3.6.3.6	H+-exporting ATPase
-isoform of non-penultimate threonine-containingH+-ATPase	3.6.3.6	H+-exporting ATPase
-isoform of non-penultimate threonine-containingH+-ATPase	3.6.3.6	H+-exporting ATPase
-V-ATPase	3.6.3.6	H+-exporting ATPase
-vacuolar H+-ATPase	3.6.3.6	H+-exporting ATPase
-AHA1	3.6.3.6	H+-exporting ATPase
-Vha2	3.6.3.6	H+-exporting ATPase
-vacuolar proton-translocating ATPase	3.6.3.6	H+-exporting ATPase
-vacuolar ATPase	3.6.3.6	H+-exporting ATPase
-plasma membrane H*-ATPase pump	3.6.3.6	H+-exporting ATPase
-plasma membrane ATPase	3.6.3.6	H+-exporting ATPase
-Pma1p	3.6.3.6	H+-exporting ATPase
-PMA1	3.6.3.6	H+-exporting ATPase
-plasma membrane P-type H+-ATPase	3.6.3.6	H+-exporting ATPase
-adenosine 5'-triphosphatase	3.6.3.7	Na+-exporting ATPase
-ATP hydrolase	3.6.3.7	Na+-exporting ATPase
-ATPase	3.6.3.7	Na+-exporting ATPase
-complex V (mitochondrial electron transport)	3.6.3.7	Na+-exporting ATPase
-adenosine triphosphatase	3.6.3.7	Na+-exporting ATPase
-related	3.6.3.7	Na+-exporting ATPase
-Na+ stimulated P-type ATPase	3.6.3.7	Na+-exporting ATPase
-Na+-stimulated ATPase	3.6.3.7	Na+-exporting ATPase
-sodium-pump ATPase	3.6.3.7	Na+-exporting ATPase
-P-type Na+-ATPase	3.6.3.7	Na+-exporting ATPase
-vacuolar-type ATPase	3.6.3.7	Na+-exporting ATPase
-V-type Na+-ATPase subunit, the NtpK subunit forms therotor ring of the Vo moiety, which is responsible for ion translocation	3.6.3.7	Na+-exporting ATPase
-P-Type Na+ ATPase	3.6.3.7	Na+-exporting ATPase
-isoform	3.6.3.7	Na+-exporting ATPase
-sodium pump	3.6.3.7	Na+-exporting ATPase
-ENA	3.6.3.7	Na+-exporting ATPase
-TcENA	3.6.3.7	Na+-exporting ATPase
-isoform	3.6.3.7	Na+-exporting ATPase
-Ena1	3.6.3.7	Na+-exporting ATPase
-ouabain-insensitive Na+-ATPase	3.6.3.7	Na+-exporting ATPase
-Na+-ATPase	3.6.3.7	Na+-exporting ATPase
-renal Na+-ATPase	3.6.3.7	Na+-exporting ATPase
-Na+,K+-ATPase	3.6.3.7	Na+-exporting ATPase
-P-type ATPase	3.6.3.7	Na+-exporting ATPase
-Na+-exporting ATPase	3.6.3.7	Na+-exporting ATPase
-Ena1p	3.6.3.7	Na+-exporting ATPase
-sodium pump Ena1p	3.6.3.7	Na+-exporting ATPase
 sarcoplasmic reticulum ATPase	3.6.3.8	Ca2+-transporting ATPase
 calcium pump	3.6.3.8	Ca2+-transporting ATPase
 plasma membrane Ca-ATPase	3.6.3.8	Ca2+-transporting ATPase
@@ -2584,61 +1936,6 @@ Hsp82	3.6.4.10	non-chaperonin molecular chaperone ATPase
 Hsp70 chaperone Ssa1	3.6.4.10	non-chaperonin molecular chaperone ATPase
 eukaryotic Hsc70 ATPase	3.6.4.10	non-chaperonin molecular chaperone ATPase
 Hsp90 molecular chaperone	3.6.4.10	non-chaperonin molecular chaperone ATPase
-SWI/SNF-like complex	3.6.4.11	nucleoplasmin ATPase
-NO29	3.6.4.11	nucleoplasmin ATPase
-NO38	3.6.4.11	nucleoplasmin ATPase
-BRM ATPase	3.6.4.11	nucleoplasmin ATPase
-BRG1/SMARCA4	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF complex ATPase	3.6.4.11	nucleoplasmin ATPase
-p400 ATPase	3.6.4.11	nucleoplasmin ATPase
-EcMot1	3.6.4.11	nucleoplasmin ATPase
-SMARCA2/BRM	3.6.4.11	nucleoplasmin ATPase
-dNAP-1	3.6.4.11	nucleoplasmin ATPase
-dNLP	3.6.4.11	nucleoplasmin ATPase
-Brahma (SWI/SNF) chromatin remodeling complex	3.6.4.11	nucleoplasmin ATPase
-brahma complex	3.6.4.11	nucleoplasmin ATPase
-ISWI	3.6.4.11	nucleoplasmin ATPase
-ISWI ATPase	3.6.4.11	nucleoplasmin ATPase
-SMARCA5 ATPase	3.6.4.11	nucleoplasmin ATPase
-BRM	3.6.4.11	nucleoplasmin ATPase
-BRAHMA ATPase	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF BRAHMA ATPase	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF BRM ATPase	3.6.4.11	nucleoplasmin ATPase
-ATPase BRAHMA	3.6.4.11	nucleoplasmin ATPase
-SWI2/SNF2 chromatin remodeling ATPase	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF ATPase Brg1	3.6.4.11	nucleoplasmin ATPase
-SMARCA2	3.6.4.11	nucleoplasmin ATPase
-SMARCA4	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF ATPase Brm	3.6.4.11	nucleoplasmin ATPase
-ATPase subunit of the SWI/SNF chromatin remodelingcomplex	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF chromatin remodeling complex	3.6.4.11	nucleoplasmin ATPase
-nucleoplasmin	3.6.4.11	nucleoplasmin ATPase
-a member of the nucleophosmin/nucleoplasmin family	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF ATPase subunit BRG1	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF ATPase subunit BRM	3.6.4.11	nucleoplasmin ATPase
-subunit of the SWI/SNF complex	3.6.4.11	nucleoplasmin ATPase
-Brahma-related gene 1	3.6.4.11	nucleoplasmin ATPase
-CHD4	3.6.4.11	nucleoplasmin ATPase
-Mi2beta	3.6.4.11	nucleoplasmin ATPase
-dermatomyositis-specific autoantigen	3.6.4.11	nucleoplasmin ATPase
-SNF2-type ATPase	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF chromatin remodeling enzyme ATPase	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF ATPase	3.6.4.11	nucleoplasmin ATPase
-NAP-1	3.6.4.11	nucleoplasmin ATPase
-catalytic subunit BRM	3.6.4.11	nucleoplasmin ATPase
-chromatin remodelling ATPase	3.6.4.11	nucleoplasmin ATPase
-chromatin remodeling complex SWI/SNF	3.6.4.11	nucleoplasmin ATPase
-yeast nucleosome assembly protein	3.6.4.11	nucleoplasmin ATPase
-catalytic subunit BRM	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF chromatin-remodeling complex	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF-nucleosome complex	3.6.4.11	nucleoplasmin ATPase
-remodelling ATPase	3.6.4.11	nucleoplasmin ATPase
-pre-60S remodelling factor	3.6.4.11	nucleoplasmin ATPase
-Rea1 ATPase	3.6.4.11	nucleoplasmin ATPase
-Rea1	3.6.4.11	nucleoplasmin ATPase
-D55 protein	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF ATPase homolog	3.6.4.11	nucleoplasmin ATPase
-SWI/SNF complex subunit	3.6.4.11	nucleoplasmin ATPase
 small isoform	3.6.4.12	DNA helicase
 RECQ5	3.6.4.12	DNA helicase
 DmRECQ5	3.6.4.12	DNA helicase
@@ -2852,14 +2149,13 @@ nucleoside triphosphatase/helicase	3.6.4.13	RNA helicase
 BMV 1a protein	3.6.4.13	RNA helicase
 ambiguous	3.6.4.13	RNA helicase
 non-structural protein 3	3.6.4.13	RNA helicase
-non-structural protein 3 protein	3.6.4.13	RNA helicase
 nucleoside triphosphatase/RNA helicase and 5'-RNA triphosphatase	3.6.4.13	RNA helicase
 TGBp1 NTPase/helicase domain	3.6.4.13	RNA helicase
+DDX25	3.6.4.13	RNA helicase
 gonadotropin-regulated testicular RNA helicase	3.6.4.13	RNA helicase
 GRTH	3.6.4.13	RNA helicase
 GRTH/DDX25	3.6.4.13	RNA helicase
 p68 RNA helicase	3.6.4.13	RNA helicase
-DDX25	3.6.4.13	RNA helicase
 DEAH-box RNA helicase	3.6.4.13	RNA helicase
 DBP2	3.6.4.13	RNA helicase
 DEAH-box protein 2	3.6.4.13	RNA helicase
@@ -2873,9 +2169,9 @@ Mtr4p	3.6.4.13	RNA helicase
 mtr4	3.6.4.13	RNA helicase
 dexh helicase	3.6.4.13	RNA helicase
 DDX5	3.6.4.13	RNA helicase
+DDX17	3.6.4.13	RNA helicase
 RNA helicase Hera	3.6.4.13	RNA helicase
 DEAD-box RNA helicase	3.6.4.13	RNA helicase
-DDX17	3.6.4.13	RNA helicase
 eukaryotic initiation factor eIF 4A	3.6.4.13	RNA helicase
 eIF4A	3.6.4.13	RNA helicase
 eIF4A helicase	3.6.4.13	RNA helicase
@@ -2883,18 +2179,20 @@ eIF4AIII	3.6.4.13	RNA helicase
 RNA-dependent ATPase	3.6.4.13	RNA helicase
 DEAD-box protein DED1	3.6.4.13	RNA helicase
 DED1	3.6.4.13	RNA helicase
+DEXD/H-box RNA helicase	3.6.4.13	RNA helicase
+DDX19	3.6.4.13	RNA helicase
+DDX19B	3.6.4.13	RNA helicase
 DbpA	3.6.4.13	RNA helicase
 DEAD-box rRNA helicase	3.6.4.13	RNA helicase
 helicase B	3.6.4.13	RNA helicase
 RhlB	3.6.4.13	RNA helicase
-DEXD/H-box RNA helicase	3.6.4.13	RNA helicase
-DDX19	3.6.4.13	RNA helicase
-DDX19B	3.6.4.13	RNA helicase
 DHX9	3.6.4.13	RNA helicase
 p54 RNA helicase	3.6.4.13	RNA helicase
 Supv3L1	3.6.4.13	RNA helicase
 RNA helicase Ddx39	3.6.4.13	RNA helicase
 SpolvlgA	3.6.4.13	RNA helicase
+RNA DEAD-box helicase	3.6.4.13	RNA helicase
+Cbu_0670	3.6.4.13	RNA helicase
 Brr2p	3.6.4.13	RNA helicase
 RNA helicase RHAU	3.6.4.13	RNA helicase
 DHX36	3.6.4.13	RNA helicase
@@ -2902,8 +2200,6 @@ DExH protein RNA helicase A	3.6.4.13	RNA helicase
 DDX3	3.6.4.13	RNA helicase
 RHA	3.6.4.13	RNA helicase
 RNA helicase A	3.6.4.13	RNA helicase
-RNA DEAD-box helicase	3.6.4.13	RNA helicase
-Cbu_0670	3.6.4.13	RNA helicase
 RNA Helicase p68	3.6.4.13	RNA helicase
 ChlR1 helicase	3.6.4.13	RNA helicase
 Upf1	3.6.4.13	RNA helicase
@@ -2914,12 +2210,12 @@ ZmRH3A	3.6.4.13	RNA helicase
 ZmRH3B	3.6.4.13	RNA helicase
 DDX21	3.6.4.13	RNA helicase
 DDX21 RNA helicase	3.6.4.13	RNA helicase
-Mss116p	3.6.4.13	RNA helicase
-DEAD-box helicase	3.6.4.13	RNA helicase
-NA-helicase	3.6.4.13	RNA helicase
 RNA helicase DHX34	3.6.4.13	RNA helicase
 DHX34	3.6.4.13	RNA helicase
 DEAH box protein 34	3.6.4.13	RNA helicase
+Mss116p	3.6.4.13	RNA helicase
+DEAD-box helicase	3.6.4.13	RNA helicase
+NA-helicase	3.6.4.13	RNA helicase
 gene name	3.6.4.13	RNA helicase
 RNA helicase HEL-1	3.6.4.13	RNA helicase
 HEL-1	3.6.4.13	RNA helicase
@@ -2930,6 +2226,9 @@ RNA splicing effector	3.6.4.13	RNA helicase
 Prp5	3.6.4.13	RNA helicase
 RIG-I	3.6.4.13	RNA helicase
 DDX58	3.6.4.13	RNA helicase
+non-structural protein 3 protein	3.6.4.13	RNA helicase
+DNA/RNA-dependent ATPase	3.6.4.13	RNA helicase
+gene name	3.6.4.13	RNA helicase
 mitochondrial DEAD-box RNA helicase	3.6.4.13	RNA helicase
 RH22	3.6.4.13	RNA helicase
 AtHELPS	3.6.4.13	RNA helicase
@@ -2956,49 +2255,6 @@ dynein motor complex	3.6.4.2	dynein ATPase
 AAA+ ATPase motor cytoplasmic dynein	3.6.4.2	dynein ATPase
 microtubule motor	3.6.4.2	dynein ATPase
 dynein's ATPase	3.6.4.2	dynein ATPase
-microtubule severing protein	3.6.4.3	microtubule-severing ATPase
-adseverin	3.6.4.3	microtubule-severing ATPase
-scinderin	3.6.4.3	microtubule-severing ATPase
-mei-1	3.6.4.3	microtubule-severing ATPase
-microtubule-severing complex MEI-1/MEI-2 katanin	3.6.4.3	microtubule-severing ATPase
-microtubule-severing complex katanin	3.6.4.3	microtubule-severing ATPase
-MEI-1/MEI-2 katanin complex	3.6.4.3	microtubule-severing ATPase
-MEI-1/MEI-2 complex	3.6.4.3	microtubule-severing ATPase
-spastin homologue	3.6.4.3	microtubule-severing ATPase
-DGL1	3.6.4.3	microtubule-severing ATPase
-rice KTN1	3.6.4.3	microtubule-severing ATPase
-microtubule-stimulated ATPase	3.6.4.3	microtubule-severing ATPase
-p81-p60	3.6.4.3	microtubule-severing ATPase
-Drosophila homolog of spastin	3.6.4.3	microtubule-severing ATPase
-Drosophila katanin Dm-Kat60	3.6.4.3	microtubule-severing ATPase
-Dm-Kat60	3.6.4.3	microtubule-severing ATPase
-katanin	3.6.4.3	microtubule-severing ATPase
-2 isoforms: full-length isoform andshort isoform	3.6.4.3	microtubule-severing ATPase
-Pf15	3.6.4.3	microtubule-severing ATPase
-katanin p60 ATPase-containing subunit A1	3.6.4.3	microtubule-severing ATPase
-microtuble-severing ATPase spastin	3.6.4.3	microtubule-severing ATPase
-P60	3.6.4.3	microtubule-severing ATPase
-katanin p60 microtubule-severing protein	3.6.4.3	microtubule-severing ATPase
-kp60-NTD	3.6.4.3	microtubule-severing ATPase
-katanin p60	3.6.4.3	microtubule-severing ATPase
-microtubule-severing ATPase	3.6.4.3	microtubule-severing ATPase
-vertebrate katanin	3.6.4.3	microtubule-severing ATPase
-microtubule-severing AAA ATPase	3.6.4.3	microtubule-severing ATPase
-MT-severing AAA ATPase	3.6.4.3	microtubule-severing ATPase
-kinesin spindle protein	3.6.4.3	microtubule-severing ATPase
-KSP	3.6.4.3	microtubule-severing ATPase
-microtuble-severing AAA ATPase	3.6.4.3	microtubule-severing ATPase
-spastin AAA domain	3.6.4.3	microtubule-severing ATPase
-microtuble severing AAA ATPase spastin	3.6.4.3	microtubule-severing ATPase
-SPG4	3.6.4.3	microtubule-severing ATPase
-P60-kananin	3.6.4.3	microtubule-severing ATPase
-kananin	3.6.4.3	microtubule-severing ATPase
-microtubule-severing protein	3.6.4.3	microtubule-severing ATPase
-P60-katanin	3.6.4.3	microtubule-severing ATPase
-Sug1p	3.6.4.3	microtubule-severing ATPase
-plant microtubule-severing protein	3.6.4.3	microtubule-severing ATPase
-AtKSS, p60 homologin plants	3.6.4.3	microtubule-severing ATPase
-katanin catalytic subunit, microtubule-stimulated ATPaseactivity	3.6.4.3	microtubule-severing ATPase
 KIF3	3.6.4.4	plus-end-directed kinesin ATPase
 KINA kinesin	3.6.4.4	plus-end-directed kinesin ATPase
 KINA	3.6.4.4	plus-end-directed kinesin ATPase

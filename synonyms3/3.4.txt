@@ -538,6 +538,7 @@ PIP	3.4.11.5	prolyl aminopeptidase
 proline-specific aminopeptidase	3.4.11.5	prolyl aminopeptidase
 PepI	3.4.11.5	prolyl aminopeptidase
 PchPiPA	3.4.11.5	prolyl aminopeptidase
+PiPA	3.4.11.5	prolyl aminopeptidase
 TePAP	3.4.11.5	prolyl aminopeptidase
 gene name	3.4.11.5	prolyl aminopeptidase
 probably identical with EC 3.4.11.1 in mammals	3.4.11.5	prolyl aminopeptidase
@@ -1717,8 +1718,8 @@ acylpeptide hydrolase	3.4.19.1	acylaminoacyl-peptidase
 AcpH	3.4.19.1	acylaminoacyl-peptidase
 OP85	3.4.19.1	acylaminoacyl-peptidase
 pi-APH	3.4.19.1	acylaminoacyl-peptidase
-acylamino acid-releasing enzyme	3.4.19.1	acylaminoacyl-peptidase
 AARE	3.4.19.1	acylaminoacyl-peptidase
+acylamino acid-releasing enzyme	3.4.19.1	acylaminoacyl-peptidase
 Endopeptidase I	3.4.19.11	gamma-D-glutamyl-meso-diaminopimelate peptidase
 Peptidase, gamma-D-glutamyldiaminopimelate endo-	3.4.19.11	gamma-D-glutamyl-meso-diaminopimelate peptidase
 gamma-D-Glutamyl-L-meso-diaminopimelate peptidoglycan hydrolase	3.4.19.11	gamma-D-glutamyl-meso-diaminopimelate peptidase
@@ -1861,6 +1862,11 @@ isoform B	3.4.19.14	leukotriene-C4 hydrolase
 HvJAMM1	3.4.19.15	desampylase
 gene name	3.4.19.15	desampylase
 JAMM1	3.4.19.15	desampylase
+GGP1	3.4.19.16	glucosinolate gamma-glutamyl hydrolase
+gamma-glutamyl peptidase 1	3.4.19.16	glucosinolate gamma-glutamyl hydrolase
+gene name	3.4.19.16	glucosinolate gamma-glutamyl hydrolase
+GGP3	3.4.19.16	glucosinolate gamma-glutamyl hydrolase
+gamma-glutamyl peptidase 3	3.4.19.16	glucosinolate gamma-glutamyl hydrolase
 carboxyamidase	3.4.19.2	peptidyl-glycinamidase
 peptidyl carboxyamidase	3.4.19.2	peptidyl-glycinamidase
 glycinamidase, peptidyl	3.4.19.2	peptidyl-glycinamidase
@@ -1937,38 +1943,38 @@ TRH-DE	3.4.19.6	pyroglutamyl-peptidase II
 (fMet)-releasing enzyme	3.4.19.7	N-Formylmethionyl-peptidase
 Aminopeptidase, formylmethionine	3.4.19.7	N-Formylmethionyl-peptidase
 Formylmethionine aminopeptidase	3.4.19.7	N-Formylmethionyl-peptidase
-carboxypeptidase G	3.4.19.9	gamma-glutamyl hydrolase
-polyglutamate hydrolase	3.4.19.9	gamma-glutamyl hydrolase
-EC 3.4.22.12	3.4.19.9	gamma-glutamyl hydrolase
-poly(glutamic acid) hydrolase II	3.4.19.9	gamma-glutamyl hydrolase
-lysosomal gamma-glutamyl carboxypeptidase	3.4.19.9	gamma-glutamyl hydrolase
-FGPH	3.4.19.9	gamma-glutamyl hydrolase
-gamma-Glu-X carboxypeptidase	3.4.19.9	gamma-glutamyl hydrolase
-folic acid conjugase	3.4.19.9	gamma-glutamyl hydrolase
-folylpolyglutamate hydrolase	3.4.19.9	gamma-glutamyl hydrolase
-pteroyl-poly-gamma-glutamate hydrolase	3.4.19.9	gamma-glutamyl hydrolase
-folate conjugase	3.4.19.9	gamma-glutamyl hydrolase
-hydrolase, gamma-glutamyl	3.4.19.9	gamma-glutamyl hydrolase
-poly(gamma-glutamic acid) endohydrolase	3.4.19.9	gamma-glutamyl hydrolase
-EC 3.4.12.10	3.4.19.9	gamma-glutamyl hydrolase
-pteroylpoly-gamma-glutamyl hydrolase	3.4.19.9	gamma-glutamyl hydrolase
-AtGGH1	3.4.19.9	gamma-glutamyl hydrolase
-AtGGH2	3.4.19.9	gamma-glutamyl hydrolase
-conjugase	3.4.19.9	gamma-glutamyl hydrolase
-gamma-polyglutamic acid hydrolase	3.4.19.9	gamma-glutamyl hydrolase
-PghP	3.4.19.9	gamma-glutamyl hydrolase
-low gamma-glutamyl hydrolase	3.4.19.9	gamma-glutamyl hydrolase
-gammaGH	3.4.19.9	gamma-glutamyl hydrolase
-zgammaGH	3.4.19.9	gamma-glutamyl hydrolase
-expressed in fruit all other organs	3.4.19.9	gamma-glutamyl hydrolase
-expressed mainly in flower buds, the homodimer iscatalytically inactive	3.4.19.9	gamma-glutamyl hydrolase
-LeGGH1	3.4.19.9	gamma-glutamyl hydrolase
-GGH2	3.4.19.9	gamma-glutamyl hydrolase
-At1g78680	3.4.19.9	gamma-glutamyl hydrolase
-GGH	3.4.19.9	gamma-glutamyl hydrolase
-gamma-glutamyl hydrolase	3.4.19.9	gamma-glutamyl hydrolase
-folate hydrolase	3.4.19.9	gamma-glutamyl hydrolase
-gamma-GH	3.4.19.9	gamma-glutamyl hydrolase
+carboxypeptidase G	3.4.19.9	folate gamma-glutamyl hydrolase
+polyglutamate hydrolase	3.4.19.9	folate gamma-glutamyl hydrolase
+EC 3.4.22.12	3.4.19.9	folate gamma-glutamyl hydrolase
+poly(glutamic acid) hydrolase II	3.4.19.9	folate gamma-glutamyl hydrolase
+lysosomal gamma-glutamyl carboxypeptidase	3.4.19.9	folate gamma-glutamyl hydrolase
+FGPH	3.4.19.9	folate gamma-glutamyl hydrolase
+gamma-Glu-X carboxypeptidase	3.4.19.9	folate gamma-glutamyl hydrolase
+folic acid conjugase	3.4.19.9	folate gamma-glutamyl hydrolase
+folylpolyglutamate hydrolase	3.4.19.9	folate gamma-glutamyl hydrolase
+pteroyl-poly-gamma-glutamate hydrolase	3.4.19.9	folate gamma-glutamyl hydrolase
+folate conjugase	3.4.19.9	folate gamma-glutamyl hydrolase
+hydrolase, gamma-glutamyl	3.4.19.9	folate gamma-glutamyl hydrolase
+poly(gamma-glutamic acid) endohydrolase	3.4.19.9	folate gamma-glutamyl hydrolase
+EC 3.4.12.10	3.4.19.9	folate gamma-glutamyl hydrolase
+pteroylpoly-gamma-glutamyl hydrolase	3.4.19.9	folate gamma-glutamyl hydrolase
+AtGGH1	3.4.19.9	folate gamma-glutamyl hydrolase
+AtGGH2	3.4.19.9	folate gamma-glutamyl hydrolase
+conjugase	3.4.19.9	folate gamma-glutamyl hydrolase
+gamma-polyglutamic acid hydrolase	3.4.19.9	folate gamma-glutamyl hydrolase
+PghP	3.4.19.9	folate gamma-glutamyl hydrolase
+low gamma-glutamyl hydrolase	3.4.19.9	folate gamma-glutamyl hydrolase
+gammaGH	3.4.19.9	folate gamma-glutamyl hydrolase
+zgammaGH	3.4.19.9	folate gamma-glutamyl hydrolase
+expressed in fruit all other organs	3.4.19.9	folate gamma-glutamyl hydrolase
+expressed mainly in flower buds, the homodimer iscatalytically inactive	3.4.19.9	folate gamma-glutamyl hydrolase
+LeGGH1	3.4.19.9	folate gamma-glutamyl hydrolase
+GGH2	3.4.19.9	folate gamma-glutamyl hydrolase
+At1g78680	3.4.19.9	folate gamma-glutamyl hydrolase
+GGH	3.4.19.9	folate gamma-glutamyl hydrolase
+gamma-glutamyl hydrolase	3.4.19.9	folate gamma-glutamyl hydrolase
+folate hydrolase	3.4.19.9	folate gamma-glutamyl hydrolase
+gamma-GH	3.4.19.9	folate gamma-glutamyl hydrolase
 alpha-chymar ophth	3.4.21.1	chymotrypsin
 avazyme	3.4.21.1	chymotrypsin
 chymar	3.4.21.1	chymotrypsin
@@ -3302,6 +3308,7 @@ lon2	3.4.21.53	Endopeptidase La
 possibly a pseudogene	3.4.21.53	Endopeptidase La
 lon4	3.4.21.53	Endopeptidase La
 i-AAA Protease	3.4.21.53	Endopeptidase La
+locus name	3.4.21.53	Endopeptidase La
 lonB protease	3.4.21.53	Endopeptidase La
 lonV	3.4.21.53	Endopeptidase La
 lonD	3.4.21.53	Endopeptidase La
@@ -3318,7 +3325,6 @@ archaeal Lon protease	3.4.21.53	Endopeptidase La
 AfLon	3.4.21.53	Endopeptidase La
 lonB	3.4.21.53	Endopeptidase La
 lonA	3.4.21.53	Endopeptidase La
-locus name	3.4.21.53	Endopeptidase La
 ATP-independent Lon-like protease	3.4.21.53	Endopeptidase La
 LonC protease	3.4.21.53	Endopeptidase La
 LonC	3.4.21.53	Endopeptidase La
