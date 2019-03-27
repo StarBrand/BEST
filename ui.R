@@ -19,7 +19,7 @@ library(rclipboard)
 source("helpers.R")
 source("variables.R")
 
-dashboardPage(skin = "green",
+dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
   dashboardHeader(title = img(src = 'Title(1).png',
                               height = '55px',
                               style = "display: block; margin-left: auto; margin-right: auto;"),
@@ -554,18 +554,9 @@ dashboardPage(skin = "green",
       # Distribution
       tabItem(tabName = "distribution",
               box(title = div(style = "font-weight: bold;", "Information"), width = 3, height = '85vh',
-                  helpText("This show the distribution of every functional parameters filtered and found. ",
-                           "The box plot contains the measures of position, such as the quartils, median and ",
-                           "average. The outliers are shown as point indicating value, organism and recommended ",
-                           "name of the enzyme"),
-                  helpText("Due to the different scale we recommend to show the functional parameters separately ",
-                           "using the selector. Double click in one parameter is going to hide all the other parameters, ",
-                           "one click and that parameter is going to hide."),
-                  helpText("The parameters of the same scale are:"),
-                  helpText("- Molecular Weight"),
-                  helpText("- IC50, Kcat/Km, Ki, Km, Specific Activity, Turmover Number"),
-                  helpText("- pH Optimum, pH Range, pI"),
-                  helpText("- Temperature Optimum, Temperature Range")),
+                  helpText("This shows the distribution of every functional parameter filtered and found. The box plot contains the measures of position, such as the quartils, median and average. ",
+                           "The outliers are shown as dots indicating value, organism and recommended enzyme name")
+                  ),
               box(title = div(style = "font-weight: bold;", "Distribution"), width = 9,
                   height = '85vh',
                   div(style = "float: right;", actionButton("backVisualization1", div(style = "font-weight: bold", "Go back to visualization"), class = "btn-warning", style = "color: #ffffff")),
@@ -603,13 +594,12 @@ dashboardPage(skin = "green",
                   ),
                   conditionalPanel(condition = "input.correlationPlot == 'scatter'",
                                    div(style='height:75vh; overflow-y: scroll',
-                                       checkboxGroupInput("corScat", "Select functional parameters to get correlation as a scatter plots, 2 to 4 parameters available"),
+                                       checkboxGroupInput("corScat", "The user must select at least two parameters (maximum four) to obtain the correlation results."),
                                        tags$br(),
                                        actionButton("getCorrelationScatter2", div(style = "font-weight: bold", "Get correlation"), class = "btn-primary", style = "color: #ffffff"),
                                        tags$br(),
                                        tags$hr(),
-                                       helpText("To generate a good correlation pairing we recommend generate the heatmap matrix first ",
-                                                "in order to make a better decisions of what parameters to choose."))
+                                       helpText("We recommend visualizing the correlation results as heatmap to do easier the interpretation of the relationship between the parameters selected."))
                   )
               ),
               tabBox(title = div(style = "font-weight: bold;", "Correlation"), id = "correlationPlot", selected = "matrix", width = 9, height = '70vh',
@@ -834,7 +824,11 @@ dashboardPage(skin = "green",
     div(
       style = "text-align:center;",
       hr(),
-      p("~~~~~~~~~~Info~~~~~~~~~~")
+      p(
+        "© 2019 Centre for Biotechnology and Bioengineering – ", tags$a("CeBiB", href = "https://cebib.cl/en/", target = "_blank"),
+        " University of Chile ", tags$a("Beaucheff 851, 7ª piso, Santiago", href = "https://cebib.cl/contacto/ubicacion/", target = "_blank"),
+        " | ", tags$a("www.cebib.cl", href = "https://www.cebib.cl", target = "_blank")
+      )
     )
   )
 )
