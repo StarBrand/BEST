@@ -29,6 +29,7 @@ source("errors.R")
 source("tree.R")
 source("clustering.R")
 source("helpers.R")
+source("distribution.R")
 
 # Define server logic
 shinyServer(function(input, output, session) {
@@ -345,36 +346,30 @@ shinyServer(function(input, output, session) {
   # Enter EC Number functions
   # EC Number 2
   observeEvent(input$ec_number1, {
-    updateSelectizeInput(session, "ec_number2",
-                         choices = read.table(
-                           paste("ecNumber//", input$ec_number1,
-                                 "//select.txt", sep = ""),
-                           sep = "\t",
-                           header = TRUE,
-                         col.names = "dig2")$dig2)
+    choices <- read.table(paste("ecNumber/", input$ec_number1, "/select.txt", sep = ""),
+                         sep = "\t",
+                         header = TRUE,
+                         col.names = "dig2")$dig2
+    choices <- choices[base::order(as.numeric(choices), decreasing = FALSE)]
+    updateSelectizeInput(session, "ec_number2", choices = choices)
   })
   # EC Number3
   observeEvent(input$ec_number2, {
-    updateSelectizeInput(session, "ec_number3",
-                         choices = read.table(
-                           paste("ecNumber//", input$ec_number1,
-                                 "//", input$ec_number2,
-                                 "//select.txt", sep = ""),
-                           sep = "\t",
-                           header = TRUE,
-                           col.names = "dig3")$dig3)
+    choices <- read.table(paste("ecNumber/", input$ec_number1, "/", input$ec_number2, "/select.txt", sep = ""),
+                          sep = "\t",
+                          header = TRUE,
+                          col.names = "dig3")$dig3
+    choices <- choices[base::order(as.numeric(choices), decreasing = FALSE)]
+    updateSelectizeInput(session, "ec_number3", choices = choices)
   })
   # EC Number4
   observeEvent(input$ec_number3, {
-    updateSelectizeInput(session, "ec_number4",
-                         choices = read.table(
-                           paste("ecNumber//", input$ec_number1,
-                                 "//", input$ec_number2,
-                                 "//", input$ec_number3,
-                                 "//select.txt", sep = ""),
-                           sep = "\t",
-                           header = TRUE,
-                           col.names = "dig4")$dig4)
+    choices <- read.table(paste("ecNumber/", input$ec_number1, "/", input$ec_number2, "/", input$ec_number3, "/select.txt", sep = ""),
+                          sep = "\t",
+                          header = TRUE,
+                          col.names = "dig4")$dig4
+    choices <- choices[base::order(as.numeric(choices), decreasing = FALSE)]
+    updateSelectizeInput(session, "ec_number4", choices = choices)
   })
   
   # Update selector
@@ -1217,15 +1212,9 @@ shinyServer(function(input, output, session) {
     u <- gsub("-999", NA, u)
     u <- rep(nat[n], sum(
       as.numeric( !is.na(u) )
-      ))
+    ))
     v <- c(vector, u)
   }
-  
-  observeEvent(input$new_table, {
-    if(input$new_table){
-      shinyjs::show("uploadTable")
-    } else {shinyjs::hide("uploadTable")}
-  })
   
   # Generate Count plot
   observeEvent(input$visualize, {
@@ -1258,22 +1247,6 @@ shinyServer(function(input, output, session) {
     updateTabItems(session, "inTabset", "parameterTable")
   })
   
-  # Distribution function
-  distFunction <- function(n, ...){
-    op <- list(...)
-    table <- op$table
-    data <- op$data
-    param <- fattrTable()[[n]]
-    if(nrow(param) != 0){
-      p <- numericalValue(param)
-      p <- getValue(p, "data")
-      p <- p[,c("Ref", "data")]
-      p <- labeling(p, table)}
-    else{p <- param}
-    if(nrow(p) != 0){ p$parameter <- paste(nat_to_show[n]) }
-    rbind(data, p)
-  }
-  
   # Generate Distribution
   observeEvent(input$getDistribution, {
     if(paramSearch()){
@@ -1289,7 +1262,7 @@ shinyServer(function(input, output, session) {
         order <- c(1, 2, 3, 4, 4, 5, 5, 5, 2, 6, 6, 3)
         for(i in 1:12){
           incProgress(0.5/12, detail = "Analysing tables")
-          dataList[[order[i]]][[1]] <- do_function(i, distFunction, addNoData, addNoData, input$attributes, attributeFound(), table = table, data = dataList[[order[i]]][[1]])
+          dataList[[order[i]]][[1]] <- do_function(i, distFunction, addNoData, addNoData, input$attributes, attributeFound(), table = table, data = dataList[[order[i]]][[1]], ftable = fattrTable())
         }
         pfinal <- list()
         for(i in 1:6){
@@ -1370,6 +1343,7 @@ shinyServer(function(input, output, session) {
         m <- correlation(tableMerged, "pearson")
         incProgress(0.125, detail = "Binding matrices")
         m <- bindMatrix(m)
+        m <- m[attributeFound(), attributeFound()]
         incProgress(0.125, detail = "Ploting")
         incProgress(0, detail = "Ready")
       })

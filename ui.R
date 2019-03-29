@@ -57,7 +57,7 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
                menuSubItem("Available Information", tabName = "info")
                ),
       menuItem("Visualization", tabName = "visualization", icon = icon("chart-area"), startExpanded = FALSE,
-               menuSubItem("Parameters Found", tabName = "histogram"),
+               menuSubItem("Histogram", tabName = "histogram"),
                menuSubItem("Distribution", tabName = "distribution"),
                menuSubItem("Correlation", tabName = "correlation")
                ),
@@ -119,7 +119,7 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
               ),
               box(width = 9, height = '60vh',
                   img(src = 'Cover.jpg',
-                      height = '390vh',
+                      height = '380vh',
                       style = "display: block; margin-left: auto; margin-right: auto;")
               ),
               box(width = 9, heigth = '30vh',
@@ -167,15 +167,15 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
                                  )),
                   div(style="display: inline-block;vertical-align:bottom;width: 2px;",
                       p(".")),
-                  div(style="display: inline-block;vertical-align:top;width: 50px;",
+                  div(style="display: inline-block;vertical-align:top;width: 60px;",
                       selectizeInput("ec_number2", "", choices = NULL)),
                   div(style="display: inline-block;vertical-align:bottom;width: 2px;",
                       p(".")),
-                  div(style="display: inline-block;vertical-align:top;width: 50px;",
+                  div(style="display: inline-block;vertical-align:top;width: 60px;",
                       selectizeInput("ec_number3", "", choices = NULL)),
                   div(style="display: inline-block;vertical-align:bottom;width: 2px;",
                       p(".")),
-                  div(style="display: inline-block;vertical-align:top;width: 50px;",
+                  div(style="display: inline-block;vertical-align:top;width: 60px;",
                       selectizeInput("ec_number4", "", choices = NULL)),
                   tags$br(),
                   div(style = "float:right",
@@ -519,7 +519,7 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
       
       # Parameters Found show with an Histogram
       tabItem(tabName = "histogram",
-              box(width = 3, height = '80vh',
+              box(width = 3, height = '80vh', title = div(style = "font-weight: bold;", "Visualization"),
                   helpText("Here you can find a histogram plot of all functional parameters ", 
                            "selected for the enzymes searched before step"),
                   div(style = "text-align:center;",
@@ -541,13 +541,14 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
                   bsTooltip("helpCorrelationMatrix", "Generate and show a heatmap matrix representing the correlation of each pairs of functional parameters", "right"),
                   bsTooltip("helpCorrelationScatter", "Generate and show a scatterplot matrix, in which, its cells show a two dimensional plot with a pair of functional parameter as axis", "right")
               ),
-              box(title = div(style = "font-weight: bold;", "Parameters Found"), width = 9,
+              box(title = div(style = "font-weight: bold;", "Histogram Found Parameters"), width = 9,
                   height = '80vh',
                   div(style = "float: right; ", actionButton("backParameter1", div(style = "font-weight: bold", "Go back to Parameter Table"), class = "btn-warning", style = "color: #ffffff")),
                   tags$br(),
                   tags$br(),
                   tags$br(),
-                  div(plotlyOutput("histogram"), height = '70vh', width = '70vh')
+                  div(plotlyOutput("histogram"), height = '70vh', width = '70vh'),
+                  helpText("Note: Brenda provides numerical data as a range or as a single value. In the case of a range, we use the average of the ends of the range to make calculations.")
               )
       ),
       
@@ -565,7 +566,8 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
                   tags$br(),
                   div(
                   plotlyOutput("distributionOut"),
-                  height = '70vh')
+                  height = '70vh'),
+                  helpText("Note: Brenda provides numerical data as a range or as a single value. In the case of a range, we use the average of the ends of the range to make calculations.")
               )
       ),
       
@@ -594,7 +596,7 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
                   ),
                   conditionalPanel(condition = "input.correlationPlot == 'scatter'",
                                    div(style='height:75vh; overflow-y: scroll',
-                                       checkboxGroupInput("corScat", "The user must select at least two parameters (maximum four) to obtain the correlation results."),
+                                       checkboxGroupInput("corScat", "The user must select at least two parameters (at most four) to obtain the correlation results."),
                                        tags$br(),
                                        actionButton("getCorrelationScatter2", div(style = "font-weight: bold", "Get correlation"), class = "btn-primary", style = "color: #ffffff"),
                                        tags$br(),
@@ -608,7 +610,8 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
                               tags$br(),
                               tags$br(),
                               tags$br(),
-                              plotlyOutput("correlationOut")
+                              plotlyOutput("correlationOut"),
+                              helpText("Note: Brenda provides numerical data as a range or as a single value. In the case of a range, we use the average of the ends of the range to make calculations.")
                               ),
                      tabPanel(value = "scatter", h5("Scatterplot matrix"),
                               div(style = "display: inline-block; color: #202453", icon("circle")),
@@ -622,7 +625,8 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
                               tags$br(),
                               tags$br(),
                               tags$br(),
-                              plotlyOutput("correlationOut2")
+                              plotlyOutput("correlationOut2"),
+                              helpText("Note: Brenda provides numerical data as a range or as a single value. In the case of a range, we use the average of the ends of the range to make calculations.")
                               )
               )
       ),
@@ -679,14 +683,16 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
               ),
               tabBox(title = div(style = "font-weight: bold;", "Clustering"), id = "clusterPlot", selected = "home", width = 9, height = '95vh',
                      tabPanel(value = "home", h5("Clustering"),
-                              div(style = "float: right;", actionButton("backParameter2", div(style = "font-weight: bold", "Go back to Parameter Table"), class = "btn-warning", style = "color: #ffffff"))
+                              div(style = "float: right;", actionButton("backParameter2", div(style = "font-weight: bold", "Go back to Parameter Table"), class = "btn-warning", style = "color: #ffffff")),
+                              helpText("Note: Brenda provides numerical data as a range or as a single value. In the case of a range, we use the average of the ends of the range to make calculations.")
                               ),
                      tabPanel(value = "k-means", h5("K-means Clustering"),
                               div(style = "width: 200px;", downloadButton("downloadKmeans", "Download data and clusters", class = "btn-primary", style = "color: #ffffff; font-weight: bold;")),
                               div(plotlyOutput("kmeansPlot"), height = '80vh'),
                               tags$br(),
                               helpText("K-means is a clustering algorithm based on the means of the points of a cluster. K-means needs a k parameter, which is a number of cluster to be made. This parameter ",
-                                       "is determineted by using \"Elbow Method\", described on the help button on the sidepanel. The clustering is show as color code on the right of the plot.")
+                                       "is determineted by using \"Elbow Method\", described on the help button on the sidepanel. The clustering is show as color code on the right of the plot."),
+                              helpText("Note: Brenda provides numerical data as a range or as a single value. In the case of a range, we use the average of the ends of the range to make calculations.")
                               ),
                      tabPanel(value = "dbscan", h5("DBSCAN Clustering"),
                               div(style = "width: 200px;", downloadButton("downloadDBSCAN", "Download data and clusters", class = "btn-primary", style = "color: #ffffff; font-weight: bold;")),
@@ -695,7 +701,8 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
                               helpText("DBSCAN is a clustering algorithm based on density of points per cluster. DBSCAN needs two parameters: epsilon, which is ",
                                        "the initial distance of candidate points in a cluster, and the minimum points that needs a cluster to be a valid cluster."),
                               helpText("There's no rule of how to choose the parameters, hence, you can use the slider as much as you want to find meaningful cluster."),
-                              helpText("Clusters are defined as numbers from 1, while 0 means unclustered points or outliers.")
+                              helpText("Clusters are defined as numbers from 1, while 0 means unclustered points or outliers."),
+                              helpText("Note: Brenda provides numerical data as a range or as a single value. In the case of a range, we use the average of the ends of the range to make calculations.")
                               )
               )
       ),
