@@ -299,11 +299,12 @@ shinyServer(function(input, output, session) {
     isThere <- FALSE
     detail <- "Parameters saved: "
     ndetail <- list()
-    selected <- list()
+    selected <- c()
     for(n in 1:12){
       file_name <- paste(attribute_folder, nat_file[n], ".txt", sep = "")
       if(file.exists(file_name)){
         ndetail <- c(ndetail, list(nat_to_show[n]))
+        selected <- c(selected, at[n])
         isThere <- TRUE
       }
     }
@@ -311,7 +312,7 @@ shinyServer(function(input, output, session) {
       out[4, "Specific_Details"] <- paste(detail, 
                                           paste(ndetail, collapse = ", "),
                                           sep = "")
-      shinyjs::click("allParameters")
+      updateCheckboxGroupInput(session, "attributes", selected = selected)
     }else{out[4, "Available"] <- FALSE}
     out
     summarySaved(out)
@@ -817,8 +818,8 @@ shinyServer(function(input, output, session) {
     if(input$allParameters){
       updateCheckboxGroupInput(session, "attributes", selected = at)
     }
-    else if(!input$allParameters){
-      updateCheckboxGroupInput(session, "attributes", selected = c())
+    else{
+      updateCheckboxGroupInput(session, "attributes", selected = c(NULL))
     }
   })
   
@@ -835,6 +836,7 @@ shinyServer(function(input, output, session) {
       if(!paramSaved()){
         ecno <- as.character(ecNumbers())
         main <- .jnew("main.BrendaSOAP", ecno[1], user(), as.integer(encoder_param(input$attributes)), as.integer(encoder_filter(input$up)))
+        main$erasePreviousOne(FALSE, FALSE, TRUE)
         n <- length(ecno)
         if(n > 1) lapply(ecno[2:n], function(e){
           main$addEnzyme(e)
@@ -874,6 +876,7 @@ shinyServer(function(input, output, session) {
       incProgress(0, detail = "Entering parameters...")
       ecno <- as.character(ecNumbers())
       main <- .jnew("main.BrendaSOAP", ecno[1], user(), as.integer(encoder_param(input$attributes)), as.integer(encoder_filter(input$up)))
+      main$erasePreviousOne(FALSE, FALSE, TRUE)
       n <- length(ecno)
       if(n > 1) lapply(ecno[2:n], function(e){
         main$addEnzyme(e)
@@ -945,18 +948,20 @@ shinyServer(function(input, output, session) {
     v <- grepl("Literature", attributes(table)$names)
     table[,attributes(table)$names[v]] <- NULL
     attributes(table)$names <- lapply(attributes(table)$names, gsub, pattern ="link", replacement = "Literature.PubmedID.")
-    if(!input$showLiterature2){v <- grepl("Literature", attributes(table)$names)
-    table[,attributes(table)$names[v]] <- NULL}
-    if(!input$showComments2){v <- grepl("Commentary", attributes(table)$names)
-    table[,attributes(table)$names[v]] <- NULL}
-    DT::datatable(table, escape = FALSE,
-                  extensions = 'FixedColumns',
-                  selection = list(target = 'none'),
-                  options = list(scrollX = TRUE,
-                                 fixedColumns = list(leftColumns = 3),
-                                 scrollY = 300,
-                                 lengthMenu = c(2, 5, 10, 50, 100),
-                                 pageLength = 5))
+    if(paramSearch()){
+      if(!input$showLiterature2){v <- grepl("Literature", attributes(table)$names)
+      table[,attributes(table)$names[v]] <- NULL}
+      if(!input$showComments2){v <- grepl("Commentary", attributes(table)$names)
+      table[,attributes(table)$names[v]] <- NULL}
+      DT::datatable(table, escape = FALSE,
+                    extensions = 'FixedColumns',
+                    selection = list(target = 'none'),
+                    options = list(scrollX = TRUE,
+                                   fixedColumns = list(leftColumns = 3),
+                                   scrollY = 300,
+                                   lengthMenu = c(2, 5, 10, 50, 100),
+                                   pageLength = 5))
+    } else{NULL}
   }, escape = FALSE)
   
   # Download Parameter Table
@@ -1256,34 +1261,8 @@ shinyServer(function(input, output, session) {
         incProgress(0, detail = "Loading tables")
         table <- proteinTable()
         table <- table[,c("Recommended_name", "Organism", "Ref")]
-        dataList <- list()
-        data <- data.frame(parameter = c(), data = c(), Recommended_name = c(), Organism = c())
-        dataList <- list.apply(seq(1, 6), function(l) list.append(dataList, data))
-        order <- c(1, 2, 3, 4, 4, 5, 5, 5, 2, 6, 6, 3)
-        for(i in 1:12){
-          incProgress(0.5/12, detail = "Analysing tables")
-          dataList[[order[i]]][[1]] <- do_function(i, distFunction, addNoData, addNoData, input$attributes, attributeFound(), table = table, data = dataList[[order[i]]][[1]], ftable = fattrTable())
-        }
-        pfinal <- list()
-        for(i in 1:6){
-          incProgress(0.4/6, detail = "Plotting")
-          p <- plot_ly(dataList[[i]][[1]], x = ~data, color = ~parameter, colors = palDist,
-                       legendgroup = ~parameter, type = "box", text = ~paste(Recommended_name, Organism, sep = "\n"))
-          pfinal <- list.append(pfinal, p)
-        }
-        p <- subplot(pfinal, shareX = FALSE, shareY = FALSE, nrows = 2, margin = 0.07) %>%
-          layout(xaxis = list(title = paste("Data", units[1])),
-                 yaxis = list(title = "", showticklabels = FALSE),
-                 xaxis2 = list(title = paste("Data", units[2])),
-                 yaxis2 = list(title = "", showticklabels = FALSE),
-                 xaxis3 = list(title = paste("Data", units[3], "/", units[12])),
-                 yaxis3 = list(title = "", showticklabels = FALSE),
-                 xaxis4 = list(title = paste("Data", units[4])),
-                 yaxis4 = list(title = "", showticklabels = FALSE),
-                 xaxis5 = list(title = paste("Data")),
-                 yaxis5 = list(title = "", showticklabels = FALSE),
-                 xaxis6 = list(title = paste("Data", units[10])),
-                 yaxis6 = list(title = "", showticklabels = FALSE))
+        dataList <- generateDistribution(input$attributes, attributeFound(), table, fattrTable())
+        p <- generatePlots(dataList)
         incProgress(0.1, detail = "Ready")
         distributionPlot(p)
       })

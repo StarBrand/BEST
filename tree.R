@@ -30,7 +30,7 @@ getID <- function(species){
 
 # Generate taxa
 getTaxa <- function(uids){
-  incProgress(0.4, paste("Searching taxa, ", showTime(
+  incProgress(0.4, detail = paste("Searching taxa, ", showTime(
     timeTaxa( length(uids) )
     )))
   u <- unique(na.omit(uids))
