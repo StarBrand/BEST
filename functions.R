@@ -239,9 +239,13 @@ labeling <- function(data, table){
   Ref <- unique(data$Ref)
   Recommended_name <- sapply(Ref, function(x){with(table, table[Ref == x, "Recommended_name"])})
   Organism <- sapply(Ref, function(x){with(table, table[Ref == x, "Organism"])})
-  label <- data.frame(Ref, Recommended_name, Organism)
-  out <- merge(data, label, x.all = TRUE)
-  out$Ref <- NULL
+  if(length(Ref) != 0){
+    label <- data.frame(Ref, Recommended_name, Organism)
+    out <- merge(data, label, x.all = TRUE)
+    out$Ref <- NULL
+  } else{
+    out <- data.frame(Recommended_name = c(), Organism = c(), Mutant = c())
+  }
   out
 }
 

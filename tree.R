@@ -24,7 +24,8 @@ getID <- function(species){
     )))
   s <- speciesName(species)
   s <- unique(s)
-  uids <- get_uid(s, ask = FALSE, messages = FALSE, check = TRUE)
+  uids <- lapply(s, function(x){
+    get_uid(x, ask = FALSE, messages = FALSE)})
   uids
 }
 
@@ -33,8 +34,10 @@ getTaxa <- function(uids){
   incProgress(0.4, detail = paste("Searching taxa, ", showTime(
     timeTaxa( length(uids) )
     )))
-  u <- unique(na.omit(uids))
-  taxa <- classification(u, db = "ncbi")
+  u <- unlist(uids)
+  u <- unique(na.omit(u))
+  taxa <- lapply(u, function(x){
+    classification(x, db = "ncbi")})
   taxa
 }
 
@@ -45,7 +48,7 @@ phyTable <- function(taxa){
   a <- c("superkingdom", "phylum", "class", "order", "family", "genus", "species")
   
   c <- lapply(seq(1, length(taxa)), function(x){
-    b <- data.frame(t(taxa[[x]][(taxa[[x]][,2] %in% a),c(1,2)]))
+    b <- data.frame(t(taxa[[x]][[1]][(taxa[[x]][[1]][,2] %in% a), c(1,2)]))
     attributes(b)$names <- t(b[2,])
     b[1,]
   })
@@ -107,6 +110,6 @@ getTreeSelective <- function(species){
 }
 
 # Time functions
-timeID <- function(n){(idLineal[1] + idLineal[2]*n)*10}
-timeTaxa <- function(n){(taxaLineal[1] + taxaLineal[2]*n)*10}
+timeID <- function(n){(idLineal[1] + idLineal[2]*n)*5}
+timeTaxa <- function(n){(taxaLineal[1] + taxaLineal[2]*n)*5}
 timeTree <- function(n){treeLineal[1] + treeLineal[2]*n}

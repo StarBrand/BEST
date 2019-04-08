@@ -1,4 +1,4 @@
-<div class="col-sm-3">
+﻿<div class="col-sm-3">
                   <div class="box box-solid box-primary" style="height: 90vh">
                     <div class="box-header">
                       <h3 class="box-title">Summary</h3>
@@ -97,7 +97,7 @@
                           <a href="#5">Visualize</a>
                           <ul>
                             <li>
-                              <a href="#5_1">Parameter found as bar plot</a>
+                              <a href="#5_1">Parameter found as a bar plot</a>
                             </li>
                             <li>
                               <a href="#5_2">Distribution as boxplot</a>
@@ -165,7 +165,7 @@
                                   <a href="#9_1_6">Make a functional parameters query</a>
                                 </li>
                                 <li>
-                                  <a href="#9_1_7">Wrong number of parameter selected</a>
+                                  <a href="#9_1_7">A wrong number of parameter selected</a>
                                 </li>
                               </ul>
                             </li>
@@ -219,10 +219,10 @@
                           <p>
                             Currently, the most whole enzyme database worldwide is  BRaunschweig ENzyme DAtabase (BRENDA), 
                             which has 104,000 enzymes names with their functional parameters and other properties. BRENDA allows 
-                            access to this information. However, the inteface is complex and the data is hard to aggregate.
+                            access to this information. However, the interface is complex and the data is hard to aggregate.
                           </p>
                           <p>
-                            We propose Brenda Enzyme Searcher Tool (BEST) a versatile web tool that enables querying enzymes and proteins 
+                            We propose Brenda Easy Search Tool (BEST) a versatile web tool that enables querying enzymes and proteins 
                             in the BRENDA database fast and efficiently. This tool allows you to obtain functional parameters and 
                             molecular properties from your enzyme query in a user-friendly format. This tool was developed in Shiny R.
                           </p>
@@ -230,17 +230,16 @@
                             To search for data in BRENDA, we need your Brenda account (
                             <a id="faqhelp" href="#" class="action-button">why?</a>
                             ).
-                            If you do not have one, you can visit: 
-                            <a href="https://www.brenda-enzymes.org/register.php" target="_blank">Brenda Registration</a>
-                            .
-                            Once you have your BRENDA's account, we can access to whole collection of enzymes and obtained the ones 
+                            If you do not have one, you can visit 
+                            <a href="https://www.brenda-enzymes.org/register.php" target="_blank">Brenda Registration.</a>
+                            Once you have your BRENDA's account, we can access to the whole collection of enzymes and obtained the ones 
                             you need, and the numerical parameters you request.
                           </p>
                         </div>
                         <div id="1_1" class="section level2">
                           <h3>Enzyme query</h3>
                           <p>
-                            To get the enzymes you need, we offer two different kind of options. This inputs are in 
+                            To get the enzymes you need, we offer two different kinds of options. These inputs are in 
                             the 
                             <a id="enzymeHelp" href="#" class="action-button">select enzyme</a>
                             section.
@@ -251,14 +250,13 @@
                           <p>
                             Enzymes are classified by the 
                             <a href="https://iubmb.org/" target="_blank">IUBMB</a>
-                             according to the reaction they catalize. This corresponds to the
+                             according to the reaction they catalyze. This corresponds to the
                             EC Number, which is a four number code, with the first one indicating the subclass 
                             such as oxidoreductases, transferases, hydrolases, lyases, isomerases, ligases and translocases. 
-                            The second number indicates the functional group of reaction, the third indicates an specific 
+                            The second number indicates the functional group of reaction, the third indicates a specific 
                             type of molecule and the fourth the last
                             level and the reaction itself. More info: 
-                            <a href="https://www.qmul.ac.uk/sbcs/iubmb/" target="_blank">EC number</a>
-                            .
+                            <a href="https://www.qmul.ac.uk/sbcs/iubmb/" target="_blank">EC number.</a>
                             <br/>
                             If you know the EC number of your enzyme of interest, indicate it in the input
                             shown in the next image: 
@@ -268,32 +266,32 @@
                         <div id="1_1_2" class="section level3">
                           <h4>Enzyme name</h4>
                           <p>
-                            Enzymes have a lot of names that differ depending on the gen codifiding it, the reaction, 
-                            historical reasons and so on. Brenda groups them according to its ec number, however, they are associated
-                            to the multiple names in which they are called in literature. This category is showed in the 
-                            <a href="www.brenda-enzymes.org/" target="_blank">Brenda web page</a>
+                            Enzymes have a lot of names that differ depending on the gen codifying it, the reaction, 
+                            historical reasons and so on. Brenda groups them according to its EC number, however, they are associated
+                            with the multiple names in which they are called in literature. This category is shown on the 
+                            <a href="https://www.brenda-enzymes.org/" target="_blank">Brenda web page</a>
                             with the name 'Synonyms'.
                           </p>
                           <p>
-                            Due to the length of the list, that contains every synonym of every type of enzyme on the database, this names 
-                            are separeted in subclasses. Then, if you know just a particular name of your enzyme, first you have to
-                             know in which of this categories it is: 
+                            Due to the length of the list, that contains every synonym of every type of enzyme on the database, these names 
+                            are separated in subclasses. Then, if you know just a particular name of your enzyme, first you have to
+                             know in which of these categories it is: 
                           </p>
                           <img src="Tutorial(2).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            For the next step you have to select the functional group that is involved in the catalyzed 
+                            For the next step, you have to select the functional group that is involved in the catalyzed 
                             reaction, such as: 
                           </p>
                           <img src="Tutorial(3).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            In the follow space, you can type the name of the enzyme you know. You can search for the list 
-                            below, remembering that it is a long list. This selector autocompletes your input and shows the posible 
+                            In the following space, you can type the name of the enzyme you know. You can search for the list 
+                            below, remembering that it is a long list. This selector autocompletes your input and shows the possible 
                             names that are registered in the Brenda database, select the one that fits most with the name you know.
                           </p>
                           <img src="Tutorial(4).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            After you press the search button, a short list of posible type of enzyme is going to be shown (it can be 
-                            just one). The selector shown the ec number and the Brenda recommended name. Select the one you are looking 
+                            After you press the search button, a short list of the possible type of enzyme is going to be shown (it can be 
+                            just one). The selector shows the EC number and Brenda's recommended name. Select the one you are looking 
                             for, press 'go', and go on with the numerical parameter selector.
                           </p>
                           <img src="Tutorial(5).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -301,30 +299,30 @@
                         <div id="1_2" class="seccion level2">
                           <h3>Before the query</h3>
                           <p>
-                            At this point, a table showing all the organism that has a protein with the same catalytic function define in the 
-                            ec number, available in Brenda is generated. This table contains the next columns that depend on the enzyme type: 
-                            ec number, systematic name (this could be empty) and recommended name; and the next columns that depend on the organism: 
-                            Uniprot, organism (scientific name) and commentary. This last one is hidden by default, but can be shown selecting the 
-                            "show the comentary column" checkbox.
+                            At this point, a table showing all the organism that has a protein with the same catalytic function defined by 
+                            EC number, available in Brenda is generated. This table contains the next columns that depend on the enzyme type: 
+                            EC number, systematic name (this could be empty) and recommended name; and the next columns are related to the organism: 
+                            UniProt, organism (scientific name) and commentary. This last one is hidden by default, but can be shown selecting the 
+                            "show the commentary column" checkbox.
                           </p>
                           <img src="Tutorial(6).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
                             After the 
-                            <a href="#3">parameter query is done</a>
-                            , the protein table is going to have a Literature column that 
-                            can be show clicking the checkbox next to the "Show commentary columns".
+                            <a href="#3">parameter query is done,</a>
+                             the protein table contains a "Literature" column that 
+                            can be shown clicking the checkbox next to the "Show commentary columns".
                           </p>
                           <p>
                             The way to proceed after this point is described in 
-                            <a href="#2">"Queries from the organism table" section</a>
-                            . In this section, the optional proceeds to have a complex query are described.
+                            <a href="#2">"Queries from the organism table" section.</a>
+                             In this section, the optional proceeds to have a complex query are described.
                           </p>
                         </div>
                         <div id="1_2_1" class="seccion level3">
                           <h4>Add Enzymes to the query</h4>
                           <p>
-                            If more than just one enzyme type is needed, you can add another ecnumber to the query. This proccess can be done virtually 
-                            undefinely. To add ec numbers to your organism table (or protein table) look for the "Add proteins" button in the side bar 
+                            If more than just one enzyme type is needed, you can add another EC number to the query. This process can be done virtually 
+                            indefinitely. To add EC numbers to your organism table (or protein table) look for the "Add proteins" button in the sidebar 
                             panel.
                           </p>
                           <img src="Tutorial(7).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -334,9 +332,9 @@
                             , make sure the welcome panel in the top of the page 
                             (just below the toolbar) says "
                             <i class="fa fa-exclamation-triangle"></i>
-                            The enzyme your enter will be added to the search"
-                            if this is not the case, please go back to the Protein table seccion (by dashboard menu or by the quick access button in 
-                            toolbar showed below) and press the "Add proteins" button again.
+                            The enzyme you enter will be added to the search"
+                            if this is not the case, please go back to the Protein table section (by dashboard menu or by the quick access button in 
+                            toolbar shown below) and press the "Add proteins" button again.
                           </p>
                           <img src="Tutorial(8).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
@@ -347,7 +345,7 @@
                         <div id="1_2_2" class="seccion level3">
                           <h4>Erase the query</h4>
                           <p>
-                            If you made a mistake and the ec number enter to the query is not the one you want to. You can erase this query and 
+                            If you made a mistake and the EC number enter to the query is not the one you want to. You can erase this query and 
                             look for another one by clicking the "Go back and search another Enzyme" in the top/right corner.
                           </p>
                           <img src="Tutorial(9).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -358,8 +356,8 @@
                             <div style="display: inline-block;font-weight: bold;">There is no way to just erase the last one.</div>
                           </p>
                           <p>
-                            Log out has the same effect. This is going to erase everything generated in the site. But, this has the advantage that 
-                            specific tables is going to be
+                            Log out has the same effect. This is going to erase everything generated on the site. But, this has the advantage that 
+                            specific tables are going to be
                             <a href="#8">saved</a>
                           </p>
                           <img src="Tutorial(11).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -371,34 +369,34 @@
                             (
                             <a id="proteinHelp" href="#" class="action-button">Protein Table</a>
                             ) is generated, it can be used to search for 
-                            <a href="#3">numerical parameters</a>
-                            , 
+                            <a href="#3">numerical parameters,</a>
+                             
                             <a href="#2_2">amino acids sequence</a>
                              or 
                             <a href="#2_1">PDB codes</a>
                              with their respective link to the 
                             <a href="https://www.rcsb.org/#Category-learn" target="_blank">RCSB PDB</a>
-                             (The Protein Data Bank of the Research Collaboratory for Structural Bionformatics).
+                             (The Protein Data Bank of the Research Collaboratory for Structural Bioinformatics).
                           </p>
                           <p>
-                            If you are interested in just one of this queries, you can skip the other in this tutorial. They are not
+                            If you are interested in just one of these queries, you can skip the other in this tutorial. They are not
                             depended to each other.
                           </p>
                         </div>
                         <div id="2_1" class="seccion level2">
                           <h3>Get PDB</h3>
                           <p>
-                            Generete a table with the PDB codes and their links to the 
+                            Generate a table with the PDB codes and their links to the 
                             <a href="https://www.rcsb.org/#Category-learn" target="_blank">RCSB PDB</a>
                              is done by clicking the "Get PDB" button above the 
                             <a id="proteinHelp2" href="#" class="action-button">Protein Table</a>
-                             as show below.
+                             as shown below.
                           </p>
                           <img src="Tutorial(12).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>The generated table looks like this</p>
                           <img src="Tutorial(13).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            The columns show the ec number, the organism, the PDB code and the link. If you click any of this link, you are going to 
+                            The columns show the EC number, the organism, the PDB code, and the link. If you click any of this link, you are going to 
                             be redirected to the PDB site with an image like this
                           </p>
                           <img src="Tutorial(14).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -407,17 +405,17 @@
                         <div id="2_2" class="seccion level2">
                           <h3>Get amino acids sequence</h3>
                           <p>
-                            The uniprot code that some proteins have, are a distintive code provides by the 
-                            <a href="https://www.uniprot.org/help/" target="_blank">Uniprot database</a>
-                            , that a particular enzyme has. With this code you can access to the amino acids sequence of the protein. Brenda 
-                            provides this code and the sequence with it. By clicking the "Get sequence" blue button, as show below, a table 
+                            The UniProt code that some proteins have are a distinctive code provides by the 
+                            <a href="https://www.uniprot.org/help/" target="_blank">UniProt database,</a>
+                             that a particular enzyme has. With this code, you can access the amino acids sequence of the protein. Brenda 
+                            provides this code and the sequence with it. By clicking the "Get sequence" blue button, as shown below, a table 
                             reporting the sequence found by BRENDA are going to be shown.
                           </p>
                           <img src="Tutorial(12).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
-                          <p>This table look like this</p>
+                          <p>This table looks like this</p>
                           <img src="Tutorial(15).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            You can access to the sequence code by download a .txt file clicking the blue button. The sequence to be downloaded can 
+                            You can access the sequence code by download a .txt file clicking the blue button. The sequence to be downloaded can 
                             be selected in the report table clicking the respective row or download all the found sequence switching the "Download 
                             all the list" button in the sidebar.
                           </p>
@@ -426,8 +424,8 @@
                           <h3>Get functional parameters</h3>
                           <p>
                             The complete functional parameters query tutorial is in the 
-                            <a href="#3">next section</a>
-                            . However, to generete a table with the 12 numerical parameters available in Brenda 
+                            <a href="#3">next section.</a>
+                             However, to generate a table with the 12 numerical parameters available in Brenda 
                             for every protein in the Protein table, you have to activate the "Select all functional parameters" switch on the top 
                             of sidebar, let the "Search for all parameters" switch activated above the table and click the "Search for parameters" 
                             green button at the end of the sidebar.
@@ -437,25 +435,24 @@
                         <div id="3" class="seccion level1">
                           <h2>Functional Parameters Query</h2>
                           <p>
-                            This is the particular functionality this application has and, naturally, one of the tools that has the most options. If you
+                            This is the particular functionality this application has and, naturally, one of the tools that have the most options. If you
                             simply want all the numerical parameters available you can do 
-                            <a href="#2_3">this</a>
-                            .
+                            <a href="#2_3">this.</a>
                           </p>
                         </div>
                         <div id="3_1" class="seccion level2">
                           <h3>Selecting parameters</h3>
-                          <p>Brenda has 12 numerical parameters available for most of the ec number. Each of them are showed in different tables like this: </p>
+                          <p>Brenda has 12 numerical parameters available for most of the EC number. Each of them is shown in different tables like this: </p>
                           <img src="Tutorial(17).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
                             The functional parameters query generate a single table with the parameters selected separated by the organism (and the commentary) 
-                            in which the enzyme is located. To select this parameters, click the checkbox on the left of the list in the sidebar. If you want to 
+                            in which the enzyme is located. To select these parameters, click the checkbox on the left of the list in the sidebar. If you want to 
                             select them all activating the "Select all functional parameters" switch on the top of the sidebar.
                           </p>
                           <img src="Tutorial(18).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
                             You can also select the enzymes included in the Parameter table by clicking the rows corresponding to the organism you want. But, if the 
-                            "Search for all the list" switch above the table is selected, the query is going to include all the enzymes, therefore, if you want to 
+                            "Use all the proteins found" switch above the table is selected, the query is going to include all the enzymes, therefore, if you want to 
                             search just the selected ones, deactivate it.
                           </p>
                           <img src="Tutorial(19).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -466,7 +463,7 @@
                              again.
                           </span>
                           <br/>
-                          <p>To do the query, click the "Search for parameters" green button at the end of the sidebar. This may takes several minutes.</p>
+                          <p>To do the query, click the "Search for parameters" green button at the end of the sidebar. This may take several minutes.</p>
                           <img src="Tutorial(20).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
                         </div>
                         <div id="3_2" class="seccion level2">
@@ -475,24 +472,35 @@
                         <div id="3_2_1" class="seccion level3">
                           <h4>Selecting by phylogeny</h4>
                           <p>
-                            <i class="fa fa-exclamation-triangle"></i>
-                            Sorry, but we are still working in this functionallity. It is going to be available soon.
+                            This functionality allows you to select the enzymes by one taxonomic rank of the organism which contains it. The taxonomic ranks available 
+                            are superkingdom, phylum, class, order, family, genus, and species.
                           </p>
+                          <img src="Tutorial(73).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+                          <p>
+                            To do this filter prior to the parameter query, click the "Select by phylogeny" yellow button. After the phylogenetic is found, above the 
+                            Protein table, it's going to appear a selector with the different available taxonomic ranks. Select the one you prefer, and this category is 
+                            going to appear as a new column on the table below.
+                          </p>
+                          <img src="Tutorial(74).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
+                          <p>
+                            If you want to filter by one of these categories, let the protein table with the rows of the organism you want, and then press "Search" 
+                            button.
+                          </p>
+                          <span class="help-block">Note: If you select by phylogeny, the rows selected are going to have no meaning to the selection.</span>
                         </div>
                         <div id="3_2_2" class="seccion level3">
                           <h4>Add enzymes</h4>
                           <p>
-                            You can add more ec numbers to the query doing 
-                            <a href="#1_2_1">this</a>
-                            .
+                            You can add more EC numbers to the query doing 
+                            <a href="#1_2_1">this.</a>
                           </p>
                         </div>
                         <div id="3_2_3" class="seccion level3">
-                          <h4>Filter by Uniprot code</h4>
+                          <h4>Filter by UniProt code</h4>
                           <p>
                             If you just want to use the enzymes that have 
-                            <a href="https://www.uniprot.org/help/" target="_blank">Uniprot code</a>
-                            , activate the switch below the list of parameters.
+                            <a href="https://www.uniprot.org/help/" target="_blank">UniProt code,</a>
+                             activate the switch below the list of parameters.
                           </p>
                           <img src="Tutorial(21).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
                         </div>
@@ -521,7 +529,7 @@
                               </p>
                               <p>
                                 <i class="fa fa-arrow-right"></i>
-                                Uniprot
+                                UniProt
                               </p>
                               <p>
                                 <i class="fa fa-arrow-right"></i>
@@ -534,19 +542,19 @@
                             </div>
                             <p>
                               <i class="fa fa-arrow-alt-circle-right"></i>
-                              3 or 4 columns for each parameter, the amount of columns is determinated by the dependency of molecule, such 
+                              3 or 4 columns for each parameter, the amount of columns is determined by the dependency of the molecule, such 
                               as an inhibitor or substrate:
                             </p>
                             <div style="margin-left: 60px;">
                               <p>
                                 <i class="fa fa-arrow-right"></i>
                                 Value: indicating the value as a single number or as a range (independent if the parameter is defined 
-                                as range or not). The column is named with the name of the parameter, an underscore and the word "value"
+                                as a range or not). The column is named with the name of the parameter, an underscore and the word "value"
                               </p>
                               <p>
                                 <i class="fa fa-arrow-right"></i>
-                                Substrate/Inhibitor: indicating the name of the substrate  or inhibitor. If the parameter does not 
-                                depend of a molecule, this columns is missing
+                                Substrate/Inhibitor: indicating the name of the substrate or inhibitor. If the parameter does not 
+                                depend on a molecule, this columns is missing
                               </p>
                               <p>
                                 <i class="fa fa-arrow-right"></i>
@@ -561,8 +569,8 @@
                           <p>The parameter table looks like this:</p>
                           <img src="Tutorial(22).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            Above the table are two checkbox indicating if the commentary and literature column is showed. If it is clicked, any of them, all the 
-                            commentary (or literature) columns is showed, that is, of the organism and each parameter found. If both are selected, it will be look 
+                            Above the table are two checkboxes indicating if the commentary and literature column is shown. If it is clicked, any of them, all the 
+                            commentary (or literature) columns are shown, that is, of the organism and each parameter found. If both are selected, it will look 
                             like this:
                           </p>
                           <img src="Tutorial(23).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -571,51 +579,51 @@
                           <h3>Filters</h3>
                           <p>
                             With the parameters table generated, you can also filter the numerical parameters setting the minimum and/or maximum value you 
-                            want to preserve. For this there are slide inputs in the sidebar of the paremeters table that also have checkbox on the left. This 
-                            sliders are going to be showed if the respective parameter was selected on the previous step. In case the enzyme does not have 
+                            want to preserve. For this, there are slide inputs in the sidebar of the parameters table that also have a checkbox on the left. These 
+                            sliders are going to be shown if the respective parameter was selected on the previous step. In case the enzyme does not have 
                             any parameter reported on the Brenda database (which can be due to the lack of data reported in the literature), the slider is 
-                            going to report that the parameter wasn't found. In the example belox, there is no IC50 reported and the Kcat/Km was not required
-                             for query.
+                            going to report that the parameter wasn't found. In the example below, there is no IC50 reported and the Kcat/Km was not required
+                             for the query.
                           </p>
                           <img src="Tutorial(24).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            To use one parameter as a filtered, move the slider letting the white circle at the left indicating the minimum value and the one 
-                            at the right indicating the maximum value your parameter is going to have. Then, click the checkbox next to the slider. Repite this 
-                            for every parameter you want, and leave the checkbox uncheked if the parameter is indifferent to your filtering. Finally, click the 
-                            "Filter" blue button to generete the filtered table. In the example below, the molecular weight was used as a filter, it is show 
-                            that, the minimum value before and after the filtering, has changed.
+                            To use one parameter as a filter, move the slider letting the white circle at the left indicating the minimum value and the one 
+                            at the right indicating the maximum value your parameter is going to have. Then, click the checkbox next to the slider. Repeat this 
+                            for every parameter you want, and leave the checkbox unchecked if the parameter is indifferent to your filtering. Finally, click the 
+                            "Filter" blue button to generate the filtered table. In the example below, the molecular weight was used as a filter, it is shown 
+                            that the minimum value before and after the filtering, has changed.
                           </p>
                           <img src="Tutorial(25).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <img src="Tutorial(26).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <span class="help-block">
-                            Note: There are a few Pubmed ID that says "Brenda ID: XXX" as a code. This mean that searching with Brenda SOAP did not report the Pubmed ID from 
+                            Note: There are a few Pubmed ID that says "Brenda ID: XXX" as a code. This means that searching with Brenda SOAP did not report the Pubmed ID from 
                             the BRENDA literature code used internally on Brenda. On the 
-                            <a href="#3_5">downloaded table</a>
+                            <a href="#3_5">downloaded table,</a>
                              the link refers to the paper on Brenda Site
                           </span>
                           <br/>
                           <p>
-                            If you want to undone the filtering and recover the generated table as what it was just after the query, unchecked every checkbox on the 
-                            sidebar, it doesn't matter any slider input does not have the the selectors on the minimum and maximum respectively. Then, click the "
+                            If you want to undo the filtering and recover the generated table as what it was just after the query, unchecked every checkbox on the 
+                            sidebar, it doesn't matter any slider input does not have the selectors on the minimum and maximum respectively. Then, click the "
                             Filter" blue button.
                           </p>
                           <img src="Tutorial(27).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
                         </div>
                         <div id="3_5" class="seccion level2">
                           <h3>Download table</h3>
-                          <p>The genereted and filtered table can be download locally by clicking the "Download table" blue button above the table.</p>
+                          <p>The generated and filtered table can be download locally by clicking the "Download table" blue button above the table.</p>
                           <img src="Tutorial(28).jpg" width="400px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            The downloaded table is a .txt file which columns are separeted by the tabulator character. It contains the commentary and literature columns 
-                            regardless of whether they are shown or not, and it has the parameter as it shown, this is, filtered.
+                            The downloaded table is a .txt file which columns are separated by the tabulator character. It contains the commentary and literature columns 
+                            regardless of whether they are shown or not, and it has the parameter as shown, this is, filtered.
                           </p>
                           <img src="Tutorial(29).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
                             You can access this table as you want, for reference 
                             <a href="https://support.office.com/en-us/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba" target="_blank">Microsoft Office Excel</a>
-                            can generete a workbook from this file, remember it has a header row, it's separeted by TAB character and it doesn't have the row names. With 
+                            can generate a workbook from this file, remember it has a header row, it's separated by TAB character and it doesn't have the row names. With 
                             <a href="https://cran.r-project.org/" target="_blank">R</a>
-                            you can open it with the follow command: 
+                            you can open it with the following command: 
                           </p>
                           <code>read.table(&lt;table_name&gt;, sep = "\t", header = TRUE)</code>
                           <br/>
@@ -629,15 +637,15 @@
                         <div id="4_1" class="seccion level2">
                           <h3>Summary table and where to find it</h3>
                           <p>
-                            It is possible to generate a table showing how many attributes of each protein (differentating the ec number 
+                            It is possible to generate a table showing how many attributes of each protein (differentiating the EC number 
                             and the organism) have been found.
                           </p>
                           <img src="Tutorial(30).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            You can access this table by two ways. In the dashboard menu, located in the "Protein Search" seccion, or, 
+                            You can access this table in two ways. In the dashboard menu, located in the "Protein Search" section, or, 
                             by clicking the direct access toolbar with the 
                             <i class="fa fa-table"></i>
-                             icon. Once in the "Available Information" seccion 
+                             icon. Once in the "Available Information" section 
                             click the "Refresh" blue button to generate or update.
                           </p>
                           <img src="Tutorial(31).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -645,14 +653,14 @@
                         <div id="4_2" class="seccion level2">
                           <h3>Quick access toolbar</h3>
                           <p>
-                            At the right\top corner there are four buttons in the toolbar. These buttons, called quick access, allow you to 
-                            change the current seccion to:
+                            At the right\top corner, there are four buttons in the toolbar. These buttons, called quick access, allow you to 
+                            change the current section to:
                           </p>
                           <br/>
                           <p>
                             <i class="fa fa-question"></i>
                              = 
-                            Tutorial seccion
+                            Tutorial section
                           </p>
                           <img src="Tutorial(32a).jpg" width="100px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <br/>
@@ -687,7 +695,7 @@
                         <div id="4_3" class="seccion level2">
                           <h3>Dashboard Menu</h3>
                           <p>
-                            At any point of your work, you can jump to any seccion using the dashboard menu at the left of the site. This can be hide 
+                            At any point in your work, you can jump to any section using the dashboard menu at the left of the site. This can be hidden 
                             or show clicking the 
                             <i class="fa fa-bars"></i>
                             on the toolbar.
@@ -697,23 +705,22 @@
                         <div id="5" class="seccion level1">
                           <h2>Visualize</h2>
                           <p>
-                            With the genereted tables, there are multiple option to do. The 
+                            With the generated tables, there are multiple options to do. The 
                             <a href="#6">Cluster</a>
-                            seccion, 
+                            section, 
                             <a href="#7">External tools</a>
-                             and this one are about that. This seccion shows how to use the available visualizations BEST has.
+                             and this one are about that. This section shows how to use the available visualizations BEST has.
                           </p>
                         </div>
                         <div id="5_1" class="seccion level2">
-                          <h3>Parameter found as bar plot</h3>
+                          <h3>Parameter found as a bar plot</h3>
                           <p>To start the visualization click the "Visualize" green button above the parameter table.</p>
                           <img src="Tutorial(28).jpg" width="300px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <span class="help-block">
                             <div style="display: inline-block;font-weight: bold;">
                               Every visualization generated will be done using the filtered 
                               parameter table, therefore, to use the no filtered one, 
-                              <a href="#3_4">recover it</a>
-                              .
+                              <a href="#3_4">recover it.</a>
                             </div>
                           </span>
                           <br/>
@@ -724,29 +731,27 @@
                               #3
                             </a>
                              and the data
-                            <a href="#3_4">filtered (or not)</a>
-                            .
+                            <a href="#3_4">filtered (or not).</a>
                           </p>
                           <img src="Tutorial(34).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <span class="help-block">
                             Note: This graph is done with the 
-                            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library</a>
-                            . Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make 
+                            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library.</a>
+                             Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make a 
                             different type of zooms.
                           </span>
                         </div>
                         <div id="5_2" class="seccion level2">
                           <h3>Distribution as boxplot</h3>
                           <p>
-                            Descriptive statistics quantitatively describes data. In this case, distribution can be analyse with a boxplor that indicates 
+                            Descriptive statistics quantitatively describes data. In this case, distribution can be analyzed with a boxplot that indicates 
                             the quartiles, including the median. The distribution boxplot is generated by clicking the "Watch distribution" blue button 
                             on the sidebar panel.
                           </p>
                           <img src="Tutorial(35).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            The outliers are shown as point indicating value, organism and recommended name of the enzyme. Due to the different scale we 
-                            recommend to show the functional parameters separately using the selector. Double click in one parameter is going to hide all 
-                            the other parameters, one click and that parameter is going to hide.
+                            The outliers are shown as a point indicating value, organism and the recommended name of the enzyme. Due to the different scale, the parameters 
+                            are shown separately. Double click in one parameter is going to hide all the other parameters, one click and that parameter are going to hide.
                           </p>
                           <br/>
                           <p>The parameters of the same scale are:</p>
@@ -757,7 +762,15 @@
                             </p>
                             <p>
                               <i class="fa fa-arrow-right"></i>
-                              IC50, Kcat/Km, Ki, Km, Specific Activity, Turmover Number
+                              IC50, Specific Activity
+                            </p>
+                            <p>
+                              <i class="fa fa-arrow-right"></i>
+                              Kcat/Km, Turnover Number
+                            </p>
+                            <p>
+                              <i class="fa fa-arrow-right"></i>
+                              Ki, Km
                             </p>
                             <p>
                               <i class="fa fa-arrow-right"></i>
@@ -771,14 +784,14 @@
                           <img src="Tutorial(36).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <span class="help-block">
                             Note: This graph is done with the 
-                            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library</a>
-                            . Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make 
+                            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library.</a>
+                             Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make a 
                             different type of zooms.
                           </span>
                           <br/>
                           <br/>
                           <p>
-                            To hide the outliers for futher anaylis or visualization you can go back to the parameter table (by going back to visualziation 
+                            To hide the outliers for further analysis or visualization you can go back to the parameter table (by going back to visualization 
                             and then back to parameter table or using the 
                             <a href="#4_3">dashboard menu</a>
                             ) and 
@@ -792,7 +805,7 @@
                           <h3>Correlation</h3>
                           <p>
                             Data can be correlated, this is, two variables may have any statistical association. This association, called correlation, whether 
-                            casual or not. On the Parameters Found seccion, click the "Watch correlation" button, below the "Watch distribution" one. Two 
+                            casual or not. On the Parameters Found section, click the "Watch correlation" button, below the "Watch distribution" one. Two 
                             green buttons will be shown.
                           </p>
                           <img src="Tutorial(38).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -800,40 +813,40 @@
                         <div id="5_3_1" class="seccion level3">
                           <h4>Correlation as heatmap matrix</h4>
                           <p>
-                            A heatmap matrix represents a function of two variables as matrix, the matrix itself represent this two dimension and the function 
+                            A heatmap matrix represents a function of two variables as a matrix, the matrix itself represent these two dimensions and the function 
                              is represented with a color code (the heatmap). In this case, the two variables are all the functional parameter pairs of the found 
-                            data. The heatmap represent a measure of the correlation.
+                            data. The heatmap represents a measure of the correlation.
                           </p>
                           <br/>
                           <p>Click the "As heatmap matrix" green button below the "Watch correlation" one. This is going to redirect to the generated heatmap.</p>
                           <img src="Tutorial(39).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>The correlation looks like this: </p>
                           <img src="Tutorial(40).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
-                          <p>The color code (color palette) can be changed by selecting any other palette on the side bar.</p>
+                          <p>The color code (color palette) can be changed by selecting any other palette on the sidebar.</p>
                           <img src="Tutorial(41).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                         </div>
                         <div id="5_3_2" class="seccion level3">
                           <h4>Correlation as a paired scatter plot</h4>
                           <p>
-                            The correlation also can be analyse visually instead of numerically. To watch a paired scatter plot, click the "As a scatterplot matrix" 
-                            green button below the "As a heatmap matrix" one, or change the tab on the Correlation seccion after generate the heatmap matrix.
+                            The correlation also can be analyzed visually instead of numerically. To watch a paired scatter plot, click the "As a scatterplot matrix" 
+                            green button below the "As a heatmap matrix" one, or change the tab on the Correlation section after generating the heatmap matrix.
                           </p>
                           <img src="Tutorial(42).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            For storage reason, the paired scatter plot is able to have six parameters maximum, and, two minimum. Select the parameters to analyse 
+                            For storage reason, the paired scatter plot is able to have six parameters maximum, and, two minimum. Select the parameters to analyze 
                             an click the "Get correlation" button below. Keep in mind, if the correlated observations are more than 2000, the data is going to be 
                             uniformly filtered.
                           </p>
                           <img src="Tutorial(43).jpg" width="250px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            The genereted plot shown the scatter plots relating two variables, the distribution as a density histogram and whether the data was obtained 
-                            from an wild type or mutant enzyme.
+                            The generated plot showed the scatter plots relating two variables, the distribution as a density histogram and whether the data was obtained 
+                            from a wild type or mutant enzyme.
                           </p>
                           <img src="Tutorial(44).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <span class="help-block">
                             Note: This graph is done with the 
-                            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library</a>
-                            . Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make 
+                            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library.</a>
+                             Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make a 
                             different type of zooms.
                           </span>
                         </div>
@@ -841,7 +854,7 @@
                           <h2>Cluster</h2>
                           <p>
                             <a href="https://dl.acm.org/citation.cfm?doid=568574.568575" target="_blank">Cluster analysis</a>
-                             is a technic of exploratory data mining and statistical data analysis. It consist on group a set of object related to each other more that 
+                             is a technic of exploratory data mining and statistical data analysis. It consists of grouping a set of object related to each other more than 
                             those on other groups (clusters). To do clustering click the "Analyze" green button above the parameter table.
                           </p>
                           <img src="Tutorial(28).jpg" width="300px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -850,32 +863,32 @@
                           <h3>K-means</h3>
                           <p>
                             <a href="https://ieeexplore.ieee.org/document/1056489" target="_blank">K-means</a>
-                             is a clustering algorithm consisting on generete random points and calculate 
-                            a distance among the nearest point, discarting the most distant one and repeting until the k (number of cluster) are generated. To do the k-means clustering 
-                            click the "K-means clustering" green button on the Cluster seccion or change the tab to the K-means clustering.
+                             is a clustering algorithm consisting of generating 
+                            random points and calculate a distance among the nearest point, discarding the most distant one and repeating until the k (number of clusters) are 
+                            generated. To do the k-means clustering click the "K-means clustering" green button on the Cluster section or change the tab to the K-means clustering.
                           </p>
                           <img src="Tutorial(45).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            On the sidebar select 2 (for a 2 dimensional clustering) or 3 (for a 3 dimensional one) and click the "Clusterize" blue button below the parameters 
+                            On the sidebar select 2 (for a 2-dimensional clustering) or 3 (for a 3-dimensional one) and click the "Clusterize" blue button below the parameters 
                             list.
                           </p>
                           <img src="Tutorial(46).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            The k (number of cluster) is determined by calculating the within-cluster sum of square (WSS), which a measure of the distant of the point within each cluster.
-                            Then, the biggest decrease is choosen, this is called the "Elbow" method.
+                            The k (the number of clusters) is determined by calculating the within-cluster sum of square (WSS), which a measure of the distance of the point within 
+                            each cluster. Then, the biggest decrease is chosen, this is called the "Elbow" method.
                           </p>
                           <img src="Tutorial(47).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <span class="help-block">
                             Note: This graph is done with the 
-                            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library</a>
-                            . Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make 
+                            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library.</a>
+                             Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make a 
                             different type of zooms.
                           </span>
                           <br/>
                           <p>
                             You also can download the clustering as a .txt file, the format has described 
-                            <a href="#3_5">before</a>
-                            , containing the cluster as a column with the number of the cluster. This is more useful in case the data was reduced in order to 
+                            <a href="#3_5">before,</a>
+                             containing the cluster as a column with the number of the cluster. This is more useful in case the data was reduced in order to 
                             allow the visualization.
                           </p>
                         </div>
@@ -883,84 +896,83 @@
                           <h3>DBSCAN</h3>
                           <p>
                             Another clustering algorithm is 
-                            <a href="https://towardsdatascience.com/how-dbscan-works-and-why-should-i-use-it-443b4a191c80" target="_blank">DBSCAN</a>
-                            , this algorithm 
-                            is based on the density of the clusters. Taking a initial epsilon, as the distance between two points, and a minumum of points value, a cluster is defined when a region of points is 
+                            <a href="https://towardsdatascience.com/how-dbscan-works-and-why-should-i-use-it-443b4a191c80" target="_blank">DBSCAN,</a>
+                             this algorithm 
+                            is based on the density of the clusters. Taking an initial epsilon, as the distance between two points, and a minimum of points value, a cluster is defined when a region of points is 
                             enough dense. To do a DBSCAN clustering, click the second green button on the sidepanel of the Clustering section or just select the tab "DBSCAN Clustering".
                           </p>
                           <img src="Tutorial(48).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
-                          <p>Once in the "DBSCAN Clustering" section, select the two o three parameters you want to clusterize an merge this data by clicking the "Merge data" blue button.</p>
+                          <p>Once in the "DBSCAN Clustering" section, select the two o three parameters you want to cluster and merge this data by clicking the "Merge data" blue button.</p>
                           <img src="Tutorial(49).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            This going to generate a histogram showing the twenty intervals of the (euclidean) distance between each parameter and the frequence of it. There are no rules of how to select 
-                            the two parameters needed, epsilon and minumun pints, but the showed plot could help. Chooce an according distance, generally the maximum value of the modal range. A too long epsilon 
-                            won't genereta to much cluster and too small one clusterize the whole data. A Min Points too small or too long has the same effect. Min Points should be at least greater than the number 
-                            of dimension (two or thre parameters) plus one. Use the sliders to select this parameters and click the "Clusterize" button.
+                            This going to generate a histogram showing the twenty intervals of the (Euclidean) distance between each parameter and the frequency of it. There are no rules of how to select 
+                            the two parameters needed, epsilon and minimum points, but the shown plot could help. Choose an adequate distance, generally the maximum value of the modal range. A too long epsilon 
+                            won't generate too many cluster and too small one clustering the whole data. Min Points too small or too long has the same effect. Min Points should be at least greater than the number 
+                            of dimension (two or three parameters) plus one. Use the sliders to select these parameters and click the "Cluster" button.
                           </p>
                           <img src="Tutorial(50).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <span class="help-block">
-                            Note: it is possible that amount of data are too much to calculate distance. In this case, data is going to be reduced and the eliminated data are not going to be used for 
+                            Note: it is possible that the amount of data are too much to calculate distance. In this case, data is going to be reduced and the eliminated data are not going to be used for 
                             clustering.
                           </span>
                           <p>Clusters are defined as numbers from 1, while 0 means unclustered points, due to low-density regions is generated, also called as outliers.</p>
                           <img src="Tutorial(51).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <span class="help-block">
                             Note: This graph is done with the 
-                            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library</a>
-                            . Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make 
+                            <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library.</a>
+                             Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make a 
                             different type of zooms.
                           </span>
                           <p>
-                            Same as 
+                            Same as "
                             <a href="#6_1">k-means</a>
-                            , if data is lost for visualization, this is available clusterize in a downloaded table.
+                            ", if data is lost for visualization, this is available clustering in a downloaded table.
                           </p>
                         </div>
                         <div id="7" class="seccion level1">
                           <h2>External tools</h2>
                           <p>
-                            To make all this data usefull we propose two other tools available online 
+                            To make all this data useful we propose two other tools available online 
                             <a href="http://scratch.proteomics.ics.uci.edu/" taget="_blank">Scratch Proteomics</a>
                              and 
-                            <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&amp;PAGE_TYPE=BlastSearch&amp;LINK_LOC=blasthome" target="_blank">BLAST</a>
-                            . You can find this section by 
+                            <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?PROGRAM=blastp&amp;PAGE_TYPE=BlastSearch&amp;LINK_LOC=blasthome" target="_blank">BLAST.</a>
+                             You can find this section by 
                             <a href="#4_3">dashboard menu</a>
                              or by 
-                            <a href="#4_2">quick access toolbar</a>
-                            .
+                            <a href="#4_2">quick access toolbar.</a>
                           </p>
                         </div>
                         <div id="7_1" class="seccion level2">
                           <h3>Protein Prediction</h3>
                           <p>
-                            Univeristy of California, Irvine has developed a Protein Predictor. Using RNN (Recursive Neural Network), this tool can predict properties such as domains, secondary structure, tertiary structure 
+                            University of California, Irvine, has developed a Protein Predictor. Using RNN (Recursive Neural Network), this tool can predict properties such as domains, secondary structure, tertiary structure 
                             and more (
                             <a href="http://scratch.proteomics.ics.uci.edu/explanation.html" target="_blank">more info</a>
                             ).
                           </p>
-                          <p>To help you use this tool, we allow you copy one of your obtained sequence. First click the blue button below the "Scratch Protein Prediction" box.</p>
+                          <p>To help you use this tool, we allow you to copy one of your obtained sequences. First, click the blue button below the "Scratch Protein Prediction" box.</p>
                           <img src="Tutorial(52).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
                             This is going to redirect you to 
-                            <a href="#2_2">FASTA section</a>
-                            , this has a white button which says "Copy a Sequence to Clipboard". Select one (and just one) ,
-                            sequence on the table and click the button.
+                            <a href="#2_2">FASTA section,</a>
+                             this has a white button which says "Copy a Sequence to Clipboard". Select one (and just one)
+                             sequence on the table and click the button.
                           </p>
                           <img src="Tutorial(53).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
-                          <span class="help-block">Note: Make sure the sequence is available (Found_using_Brenda = true), if not, nothing is going to be copied to your clipboard.</span>
-                          <p>Now the green button is going to have a ticket, this means a sequence is in your clipboard. Press the green button and your are going to be redirected to the Scratch proteomics site.</p>
+                          <span class="help-block">Note: Make sure the sequence is available (Found_using_Brenda = true) if not, nothing is going to be copied to your clipboard.</span>
+                          <p>Now the green button is going to have a ticket, this means a sequence is in your clipboard. Press the green button and you are going to be redirected to the Scratch proteomics site.</p>
                           <img src="Tutorial(54).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
-                          <p>In this page you can select what predictor you want to use. Enter your email and in the Protein Sequence space, paste the sequence which is already on your clipboard.</p>
+                          <p>In this page, you can select what predictor you want to use. Enter your email and in the Protein Sequence space, paste the sequence which is already on your clipboard.</p>
                           <img src="Tutorial(55).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <span class="help-block">The header is missing for requirements of the tool. Please, read the tool specifications to know if your sequence is allowed.</span>
                         </div>
                         <div id="7_2" class="seccion level2">
                           <h3>Sequence Alignment</h3>
                           <p>
-                            Basic Local Alignment Search Tool (BLAST) is a suit of programs for aligning sequence. This programs includes Standard Nucleotide BLAST, for nucleotide sequence, and 
-                            Standard Protein BLAST, for amino acids sequence. This last one receive a number of inputs (
+                            Basic Local Alignment Search Tool (BLAST) is a suite of programs for aligning sequence. These programs include Standard Nucleotide BLAST, for the nucleotide sequence, and 
+                            Standard Protein BLAST, for amino acids sequence. This last one receives a number of inputs (
                             <a href="https://blast.ncbi.nlm.nih.gov/Blast.cgi?CMD=Web&amp;PAGE_TYPE=BlastDocs&amp;DOC_TYPE=BlastHelp" target="_blank">more info</a>
-                            ), including upload a text file with sequence in FASTA format as the one 
+                            ), including upload a text file with the sequence in FASTA format as the one 
                             <a href="#2_2">you can obtain</a>
                              using BEST.
                           </p>
@@ -968,19 +980,18 @@
                         </div>
                         <div id="8" class="seccion level1">
                           <h2>Saved tables</h2>
-                          <p>Brenda Enzyme Searcher Tool saves your last query for 72 hours in order to do your analysis easier. If you already make a query before, there will be a message on the toolbar.</p>
+                          <p>Brenda Easy Search Tool saves your last query for 72 hours in order to do your analysis easier. If you already make a query before, there will be a message on the toolbar.</p>
                           <img src="Tutorial(57).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>To load the saved table, click the "more info" link to be redirected.</p>
                           <img src="Tutorial(58).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
-                            On the table in the right panel, select the tables you want to load. Particulary, the saved protein table, which contains the organisms and type of enzyme according to the 
-                             ec number, will be going to be load whether it was selected or not.
+                            On the table in the right panel, select the tables you want to load. Particularly, the saved protein table, which contains the organisms and type of enzyme according to the 
+                             EC number, will be going to be load whether it was selected or not.
                           </p>
                           <img src="Tutorial(59).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
-                          <span class="help-block">Note: If on your previous query were parameters not selected, those parameters are going to be marked as "Not Found"</span>
                           <p>
                             After the selection is done, click the "Load Selected Table" blue button below the table. The selected table (include the Protein table) is going to be regenerated and the 
-                            not selected are going to be erased. If you change your mind and don't want to saved this tables anymore, change the section (using 
+                            not selected are going to be erased. If you change your mind and don't want to save this tables anymore, change the section (using 
                             <a href="#4">quick access or dashboard menu</a>
                             ) or click the "Search another enzyme" red button on the sidebar and the tables are going to be erased.
                           </p>
@@ -990,18 +1001,18 @@
                           <h2>Errors</h2>
                           <p>
                             This is an application on development, hence, we are still dealing with a few minor issues. Some of them are identified and are presented as 
-                            <a href="#9_2">Unavoidable erros</a>
-                            and the not identified yet can be reported on the 
-                            <a id="sugghelp" href="#" class="action-button">Suggestions section</a>
-                            . The ones that are identified, but depends on the user are presented as 
-                            <a href="#9_1">Avoidable erros</a>
+                            <a href="#9_2">Unavoidable errors</a>
+                             and the not identified yet can be reported on the 
+                            <a id="sugghelp" href="#" class="action-button">Suggestions section.</a>
+                             The ones that are identified, but depends on the user are presented as 
+                            <a href="#9_1">Avoidable errors</a>
                             on the section below.
                           </p>
                         </div>
                         <div id="9_1" class="seccion level2">
                           <h3>Avoidable errors</h3>
                           <p>
-                            If the user, on purpose or accidentally, enters an unvalid input that are identified, an error is going to be announced and the action won't be done. Those kind of error are 
+                            If the user, on purpose or accidentally, enters an invalid input that is identified, an error is going to be announced and the action won't be done. Those kinds of error are 
                             listed here.
                           </p>
                         </div>
@@ -1010,7 +1021,7 @@
                             <i class="fa fa-exclamation-triangle"></i>
                             Enter Brenda User
                           </h4>
-                          <p>Without a valid Brenda User, we cannot do any query, particullary, the first one: the Enzyme query.</p>
+                          <p>Without a valid Brenda User, we cannot do any query, particularly, the first one: the Enzyme query.</p>
                           <img src="Tutorial(61).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                         </div>
                         <div id="9_1_2" class="seccion level3">
@@ -1028,8 +1039,7 @@
                           </h4>
                           <p>
                             The entered mail hasn't registered on Brenda, to register, please enter on the 
-                            <a href="https://www.brenda-enzymes.org/register.php" target="_blank">Brenda Registration site</a>
-                            .
+                            <a href="https://www.brenda-enzymes.org/register.php" target="_blank">Brenda Registration site.</a>
                           </p>
                           <img src="Tutorial(63).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                         </div>
@@ -1059,19 +1069,18 @@
                             Make a functional parameters query
                           </h4>
                           <p>
-                            The visualization and the clustering analysis need functional parameters, therefore, to apply these tools, first do a 
-                            <a href="#3">functional parameters query)</a>
-                            .
+                            The visualization and the clustering analysis need functional parameters, therefore, to apply these tools, first, do a 
+                            <a href="#3">functional parameters query).</a>
                           </p>
                           <img src="Tutorial(66).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                         </div>
                         <div id="9_1_7" class="seccion level3">
                           <h4>
                             <i class="fa fa-exclamation-triangle"></i>
-                            Wrong number of parameter selected
+                            A wrong number of parameters selected
                           </h4>
                           <p>
-                            Some tools require selecting some of the functional parameters found. The number of this parameters are indicated, however, if 
+                            Some tools require selecting some of the functional parameters found. The number of these parameters are indicated, however, if 
                             the amount of selected parameter differs from those indicated, you're going to be notified and the action won't be done.
                           </p>
                           <img src="Tutorial(67).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -1079,8 +1088,8 @@
                         <div id="9_2" class="seccion level2">
                           <h3>Unavoidable errors</h3>
                           <p>
-                            Some issues are identified, but we haven't found a solution yet. Some of them has a not reported solution, but some not. The objective of this section 
-                            is make those issues clear and make the user be aware of them.
+                            Some issues are identified, but we haven't found a solution yet. Some of them have a not reported solution, but some not. The objective of this section 
+                            is to make those issues clear and make the user be aware of them.
                           </p>
                         </div>
                         <div id="9_2_1" class="seccion level3">
@@ -1089,8 +1098,8 @@
                             Slower Algorithm
                           </h4>
                           <p>
-                            Some enzyme has a particular problem. Due to storage issues some search need a slower algorithm. This is because, in order to save time, SOAP query is made 
-                            just one time per ec number, and then the answer is parsed. When there are to many sequences or organisms this can't be done, so the query must be done differente 
+                            Some enzyme has a particular problem. Due to storage issues, some search needs a slower algorithm. This is because, in order to save time, the SOAP query is made 
+                            just one time per EC number, and then the answer is parsed. When there are too many sequences or organisms this can't be done, so the query must be done different 
                             and slower. You can cancel the operation or go ahead if you have enough time.
                           </p>
                           <img src="Tutorial(68).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
@@ -1100,13 +1109,13 @@
                             <i class="fa fa-exclamation-triangle"></i>
                             Unexpected error on search
                           </h4>
-                          <p>This error isn't suppose to happen, but if does you can try again and if this error persist, please, report it on the Suggestion section.</p>
+                          <p>This error isn't supposed to happen, but if it does you can try again. If this error persists, please, report it on the Suggestion section.</p>
                           <img src="Tutorial(69).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <p>
                             If you click the "Report this Bug" button, you are going to be redirected to the 
-                            <a href="#9_2_6">Suggestion section</a>
-                            , where you can report it 
-                            follow the given instruction.
+                            <a href="#9_2_6">Suggestion section,</a>
+                             where you can report it 
+                            following the given instruction.
                           </p>
                           <img src="Tutorial(70).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                         </div>
@@ -1116,11 +1125,10 @@
                             The parameters appear selected, but the query doesn't show anything
                           </h4>
                           <p>
-                            We don't know what this happen, but it did happen several times on the tests. However, there is a simple soluction. First, deactivate the "" blue switch, 
-                            then, select the parameters you need or reactivate the blue switch. Do the the query again, in case this is still happening repite the process or report it 
+                            We don't know what this happen, but it did happen several times on the tests. However, there is a simple solution. First, deactivate the "Select all" blue switch, 
+                            then, select the parameters you need or reactivate the blue switch. Do the query again, in case this is still happening, repeat the process or report it 
                             in the 
-                            <a id="sugghelp2" href="#" class="action-button">Suggestions section</a>
-                            .
+                            <a id="sugghelp2" href="#" class="action-button">Suggestions section.</a>
                           </p>
                           <img src="Tutorial(71).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
                         </div>
@@ -1130,17 +1138,17 @@
                             Reduce the obtained rows
                           </h4>
                           <p>
-                            Some visualization and analysis requires to much storage. In order to be able to do them anyway and avoid the complete failure of web site, we choose to 
+                            Some visualization and analysis require too much storage. In order to be able to do them anyway and avoid the complete failure of the web site, we choose to 
                             reduce data in case the generated rows are too much to storage or to merge. This could happen on the 
                             <a href="#6">clustering</a>
                              or on the 
-                            <a href="#5_3_2">paired scatter plot correlation</a>
-                            . In the first case, the clustering is done with all the data, but the visualization don't. In the 
-                            second situation, the visualization is due with the reduced data.
+                            <a href="#5_3_2">paired scatter plot correlation.</a>
+                             In the first case, the clustering is done with all the data, but the visualization doesn't. In the 
+                            second situation, the visualization is due with reduced data.
                           </p>
                           <img src="Tutorial(72).jpg" width="400px" style="display: block; margin-left: auto; margin-right: auto;"/>
                           <br/>
-                          <p>To reduce the data, we eliminate the pair rows and leave the odd ones. In case there's still to much data, the process is repited.</p>
+                          <p>To reduce the data, we eliminate the pair rows and leave the odd ones. In case there's still too much data, the process is repeated.</p>
                         </div>
                         <div id="9_2_5" class="seccion level3">
                           <h4>
@@ -1148,9 +1156,9 @@
                             Empty table
                           </h4>
                           <p>
-                            If this happen it can be for two reason: 1) enzyme doesn't have data, but it wasn't properly reported; or 2) there was an error on search. You can 
-                            <a href="#9_2_6">report this</a>
-                            , try again, make a search about the enzyme or contact us.
+                            If this happens it can be for two reasons: 1) enzyme doesn't have data, but it wasn't properly reported; or 2) there was an error on search. You can 
+                            <a href="#9_2_6">report this,</a>
+                             try again, make a search about the enzyme or contact us.
                           </p>
                         </div>
                         <div id="9_2_6" class="seccion level3">
@@ -1159,9 +1167,8 @@
                             Suggestions
                           </h4>
                           <p>
-                            If any strange or unexpected thing happen, please report it on 
-                            <a id="sugghelp3" href="#" class="action-button">Suggestions section</a>
-                            .
+                            If any strange or unexpected thing happens, please report it on the 
+                            <a id="sugghelp3" href="#" class="action-button">"Suggestions section".</a>
                           </p>
                           <img src="Tutorial(70).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
                         </div>

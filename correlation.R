@@ -10,8 +10,13 @@ pal <- setNames(pal, c("Mutant", "Wild Type"))
 mergeTable <- function(attr, table){
   tbl <- list.apply(1:12, function(n){
     tb <- labeling(attr[[n]], table)
-    tb <- tb[,c("Recommended_name", "Organism", nat[n], "Mutant")]
-    tb <- unique(tb)
+    if(nrow(tb) != 0){
+      tb <- tb[,c("Recommended_name", "Organism", nat[n], "Mutant")]
+      tb <- unique(tb)
+    } else{
+      tb <- data.frame(Recommended_name = NA, Organism = NA, c = NA, Mutant = NA)
+      attributes(tb)$names[3] <- nat[n]
+    }
     tb
   })
 }
