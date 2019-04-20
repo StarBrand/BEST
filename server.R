@@ -1624,7 +1624,7 @@ shinyServer(function(input, output, session) {
       text <- processFasta(folder(), FALSE, input$fastaTable_rows_selected)
       text <- str_split_fixed(text, "\n", 2)
       text <- text[[2]]
-      clipr::write_clip(text, object_type = "auto")
+      clipr::write_clip(text)
       updateActionButton(session, "proteinPredictor", icon = icon("check"))
       shinyjs::hide("copyAAClipboard")
     }

@@ -44,6 +44,7 @@ getTaxa <- function(uids){
 # Genereta phylogenetic table
 phyTable <- function(taxa){
   incProgress(0.4, detail = "Generating phylogeny table")
+  
   out <- data.frame(superkingdom = c(), phylum = c(), class  = c(), order = c(), family = c(), genus = c(), species = c())
   a <- c("superkingdom", "phylum", "class", "order", "family", "genus", "species")
   
@@ -58,6 +59,7 @@ phyTable <- function(taxa){
       out <- rbind.fill(out, i)
   }
   
+  out <- out[,a]
   out
 }
 
@@ -65,6 +67,8 @@ phyTable <- function(taxa){
 phySelect <- function(table, phylogeny, select){
   out <- table
   out$species <- speciesName(table$Organism)
+  print(attributes(out)$names)
+  print(attributes(phylogeny)$names)
   if(select != 7){
     out <- merge(out, phylogeny[,c(as.numeric(select),7)], by = "species", all.x = TRUE)
     out$species <- NULL

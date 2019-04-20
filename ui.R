@@ -83,6 +83,7 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
   dashboardBody(
     useShinyjs(),
     useShinyalert(),
+    rclipboardSetup(),
     tabItems(
       # Log in
       tabItem(tabName = "account",
