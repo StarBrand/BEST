@@ -1,0 +1,278 @@
+synonyms	ec_number	recommended_name
+Isomerase, maleate	5.2.1.1	maleate isomerase
+MaiA	5.2.1.1	maleate isomerase
+Pp-Iso	5.2.1.1	maleate isomerase
+maleate cis-trans isomerase	5.2.1.1	maleate isomerase
+Isomerase, 2-chlorocarboxymethylenebutenolide	5.2.1.10	2-Chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase
+2-Chlorocarboxymethylenebutenolide isomerase	5.2.1.10	2-Chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase
+Chlorodienelactone isomerase	5.2.1.10	2-Chloro-4-carboxymethylenebut-2-en-1,4-olide isomerase
+Z-ISO	5.2.1.12	zeta-carotene isomerase
+15-cis-zeta-carotene isomerase	5.2.1.12	zeta-carotene isomerase
+gene name	5.2.1.12	zeta-carotene isomerase
+carotene cis-trans isomerase	5.2.1.13	prolycopene isomerase
+gene name	5.2.1.13	prolycopene isomerase
+gene name, Zmcrtiso2 is non-functional	5.2.1.13	prolycopene isomerase
+carotenoid isomerase	5.2.1.13	prolycopene isomerase
+gene name	5.2.1.13	prolycopene isomerase
+gene name	5.2.1.13	prolycopene isomerase
+gene name	5.2.1.13	prolycopene isomerase
+gene name	5.2.1.13	prolycopene isomerase
+gene name	5.2.1.13	prolycopene isomerase
+gene name	5.2.1.13	prolycopene isomerase
+gene name	5.2.1.13	prolycopene isomerase
+beta-carotene isomerase	5.2.1.14	beta-carotene isomerase
+gene name	5.2.1.14	beta-carotene isomerase
+D27	5.2.1.14	beta-carotene isomerase
+D27 protein	5.2.1.14	beta-carotene isomerase
+beta-carotene cis–trans isomerase	5.2.1.14	beta-carotene isomerase
+OsD27	5.2.1.14	beta-carotene isomerase
+Isomerase, maleylacetoacetate	5.2.1.2	maleylacetoacetate isomerase
+Maleylacetoacetic isomerase	5.2.1.2	maleylacetoacetate isomerase
+Maleylacetone isomerase	5.2.1.2	maleylacetoacetate isomerase
+Maleylacetone cis-trans-isomerase	5.2.1.2	maleylacetoacetate isomerase
+MAc-tI	5.2.1.2	maleylacetoacetate isomerase
+glutathione S-transferase zeta-class 1	5.2.1.2	maleylacetoacetate isomerase
+AtGSTZ1	5.2.1.2	maleylacetoacetate isomerase
+AtMAAI	5.2.1.2	maleylacetoacetate isomerase
+glutathione transferase zeta	5.2.1.2	maleylacetoacetate isomerase
+glutathione S-transferase zeta/maleylacetoacetate isomerase	5.2.1.2	maleylacetoacetate isomerase
+GSTzeta/MAAI	5.2.1.2	maleylacetoacetate isomerase
+bifunctional enzyme EC2.5.1.18, glutathione transferase Zeta, GSTZ1-1	5.2.1.2	maleylacetoacetate isomerase
+GSTZ1-1	5.2.1.2	maleylacetoacetate isomerase
+glutathione S-transferase Zeta 1-1	5.2.1.2	maleylacetoacetate isomerase
+glutathione transferase zeta 1/maleylacetoacetate isomerase	5.2.1.2	maleylacetoacetate isomerase
+GSTz1/MAAI	5.2.1.2	maleylacetoacetate isomerase
+MAAI	5.2.1.2	maleylacetoacetate isomerase
+Isomerase, maleylpyruvate	5.2.1.4	maleylpyruvate isomerase
+MPI	5.2.1.4	maleylpyruvate isomerase
+NarL	5.2.1.4	maleylpyruvate isomerase
+mycothiol-dependent maleylpyruvate isomerase	5.2.1.4	maleylpyruvate isomerase
+NagL	5.2.1.4	maleylpyruvate isomerase
+3-maleylpyruvate cis-trans-isomerase	5.2.1.4	maleylpyruvate isomerase
+mycothiol dependent maleylpyruvate isomerase	5.2.1.4	maleylpyruvate isomerase
+msh gene	5.2.1.4	maleylpyruvate isomerase
+ncgl2918 gene	5.2.1.4	maleylpyruvate isomerase
+thiol-dependent maleylpyruvate isomerase	5.2.1.4	maleylpyruvate isomerase
+BagL	5.2.1.4	maleylpyruvate isomerase
+maleylpyruvate isomerase	5.2.1.4	maleylpyruvate isomerase
+Isomerase, linoleate	5.2.1.5	linoleate isomerase
+Linoleate DELTA12-cis,DELTA11-trans isomerase	5.2.1.5	linoleate isomerase
+Linoleic acid isomerase	5.2.1.5	linoleate isomerase
+LA-I	5.2.1.5	linoleate isomerase
+C12 isomerase	5.2.1.5	linoleate isomerase
+LA isomerase	5.2.1.5	linoleate isomerase
+LAI	5.2.1.5	linoleate isomerase
+linoleic acid DELTA12-cis,DELTA11-trans-isomerase	5.2.1.5	linoleate isomerase
+Isomerase, furylfuramide	5.2.1.6	furylfuramide isomerase
+Isomerase, peptidylprolyl cis-trans	5.2.1.8	peptidylprolyl isomerase
+Proteins, cyclophilins	5.2.1.8	peptidylprolyl isomerase
+Proteins, specific or class, cyclophilins	5.2.1.8	peptidylprolyl isomerase
+Peptide bond isomerase	5.2.1.8	peptidylprolyl isomerase
+FKBP65	5.2.1.8	peptidylprolyl isomerase
+CPH	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin 18	5.2.1.8	peptidylprolyl isomerase
+Cyp3 PPIase	5.2.1.8	peptidylprolyl isomerase
+PfCyP	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin C	5.2.1.8	peptidylprolyl isomerase
+SmCYP A	5.2.1.8	peptidylprolyl isomerase
+SmCYP B	5.2.1.8	peptidylprolyl isomerase
+P31	5.2.1.8	peptidylprolyl isomerase
+12 kDa FKBP	5.2.1.8	peptidylprolyl isomerase
+12.6 kDa FKBP	5.2.1.8	peptidylprolyl isomerase
+13 kDa FKBP	5.2.1.8	peptidylprolyl isomerase
+15 kDa FKBP	5.2.1.8	peptidylprolyl isomerase
+19 kDa FK506-binding protein	5.2.1.8	peptidylprolyl isomerase
+22 kDa FK506-binding protein	5.2.1.8	peptidylprolyl isomerase
+25 kDa FKBP	5.2.1.8	peptidylprolyl isomerase
+27 kDa membrane protein	5.2.1.8	peptidylprolyl isomerase
+36 kDa FK506 binding protein	5.2.1.8	peptidylprolyl isomerase
+40 kDa thylakoid lumen PPIase	5.2.1.8	peptidylprolyl isomerase
+40 kDa thylakoid lumen rotamase	5.2.1.8	peptidylprolyl isomerase
+51 kDa FK506-binding protein	5.2.1.8	peptidylprolyl isomerase
+52 kDa FK506 binding protein	5.2.1.8	peptidylprolyl isomerase
+54 kDa progesterone receptor-associated immunophilin	5.2.1.8	peptidylprolyl isomerase
+65 kDa FK506-binding protein	5.2.1.8	peptidylprolyl isomerase
+CGI-124	5.2.1.8	peptidylprolyl isomerase
+Chl-Mip	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin 33	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin cyp2	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin homolog	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin ScCypA	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin ScCypB	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin-10	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin-11	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin-40	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin-60	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin-like protein Cyp-60	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin-related protein	5.2.1.8	peptidylprolyl isomerase
+Cyclosporin A-binding protein	5.2.1.8	peptidylprolyl isomerase
+CYP-40	5.2.1.8	peptidylprolyl isomerase
+CYP-S1	5.2.1.8	peptidylprolyl isomerase
+Estrogen receptor binding cyclophilin	5.2.1.8	peptidylprolyl isomerase
+FF1 antigen	5.2.1.8	peptidylprolyl isomerase
+FKBP	5.2.1.8	peptidylprolyl isomerase
+FKBP-12	5.2.1.8	peptidylprolyl isomerase
+FKBP-12.6	5.2.1.8	peptidylprolyl isomerase
+FKBP-13	5.2.1.8	peptidylprolyl isomerase
+FKBP-15	5.2.1.8	peptidylprolyl isomerase
+FKBP-19	5.2.1.8	peptidylprolyl isomerase
+FKBP-21	5.2.1.8	peptidylprolyl isomerase
+FKBP-22	5.2.1.8	peptidylprolyl isomerase
+FKBP-23	5.2.1.8	peptidylprolyl isomerase
+FKBP-25	5.2.1.8	peptidylprolyl isomerase
+FKBP-36	5.2.1.8	peptidylprolyl isomerase
+FKBP-51	5.2.1.8	peptidylprolyl isomerase
+FKBP-70	5.2.1.8	peptidylprolyl isomerase
+FKBP52 protein	5.2.1.8	peptidylprolyl isomerase
+FKBP54	5.2.1.8	peptidylprolyl isomerase
+FKBP59	5.2.1.8	peptidylprolyl isomerase
+FKBP65RS	5.2.1.8	peptidylprolyl isomerase
+HBI	5.2.1.8	peptidylprolyl isomerase
+Histidine rich protein	5.2.1.8	peptidylprolyl isomerase
+HSP binding immunophilin	5.2.1.8	peptidylprolyl isomerase
+HSP90-binding immunophilin	5.2.1.8	peptidylprolyl isomerase
+Immunophilin FKBP12	5.2.1.8	peptidylprolyl isomerase
+Immunophilin FKBP12.6	5.2.1.8	peptidylprolyl isomerase
+Immunophilin FKBP36	5.2.1.8	peptidylprolyl isomerase
+Immunophilin FKBP65	5.2.1.8	peptidylprolyl isomerase
+Macrolide binding protein	5.2.1.8	peptidylprolyl isomerase
+Macrophage infectivity potentiator	5.2.1.8	peptidylprolyl isomerase
+Nucleolar proline isomerase	5.2.1.8	peptidylprolyl isomerase
+p17.7	5.2.1.8	peptidylprolyl isomerase
+P54	5.2.1.8	peptidylprolyl isomerase
+p59 protein	5.2.1.8	peptidylprolyl isomerase
+Parvulin 14	5.2.1.8	peptidylprolyl isomerase
+Peptidyl-prolyl cis-trans isomerase plp	5.2.1.8	peptidylprolyl isomerase
+Peptidyl-prolyl cis-trans isomerase surA	5.2.1.8	peptidylprolyl isomerase
+Peptidyl-prolyl cis/trans isomerase EPVH	5.2.1.8	peptidylprolyl isomerase
+Planta-induced rust protein 28	5.2.1.8	peptidylprolyl isomerase
+PPIase Pin1	5.2.1.8	peptidylprolyl isomerase
+PPIase Pin4	5.2.1.8	peptidylprolyl isomerase
+Proline rotamase	5.2.1.8	peptidylprolyl isomerase
+Rapamycin-binding protein	5.2.1.8	peptidylprolyl isomerase
+Rapamycin-selective 25 kDa immunophilin	5.2.1.8	peptidylprolyl isomerase
+Rotamase Pin1	5.2.1.8	peptidylprolyl isomerase
+Rotamase Pin4	5.2.1.8	peptidylprolyl isomerase
+Rotamase plp	5.2.1.8	peptidylprolyl isomerase
+S-cyclophilin	5.2.1.8	peptidylprolyl isomerase
+S1205-06	5.2.1.8	peptidylprolyl isomerase
+SCYLP	5.2.1.8	peptidylprolyl isomerase
+Smp17.7	5.2.1.8	peptidylprolyl isomerase
+SP18	5.2.1.8	peptidylprolyl isomerase
+WHP	5.2.1.8	peptidylprolyl isomerase
+TLP20	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolylisomerase	5.2.1.8	peptidylprolyl isomerase
+FkpA	5.2.1.8	peptidylprolyl isomerase
+SurA	5.2.1.8	peptidylprolyl isomerase
+cyclophilin-D	5.2.1.8	peptidylprolyl isomerase
+Ptf1/Ess1	5.2.1.8	peptidylprolyl isomerase
+Ypa	5.2.1.8	peptidylprolyl isomerase
+FKBP77	5.2.1.8	peptidylprolyl isomerase
+PP2A phosphatase activator	5.2.1.8	peptidylprolyl isomerase
+cyclophilin-A	5.2.1.8	peptidylprolyl isomerase
+cyp-A	5.2.1.8	peptidylprolyl isomerase
+peptidylprolyl cis,trans-isomerase	5.2.1.8	peptidylprolyl isomerase
+mzFKBP-66	5.2.1.8	peptidylprolyl isomerase
+Rotamase	5.2.1.8	peptidylprolyl isomerase
+PIN1At	5.2.1.8	peptidylprolyl isomerase
+PIN1-type parvulin 1	5.2.1.8	peptidylprolyl isomerase
+i.e. cyclophilin 20-3	5.2.1.8	peptidylprolyl isomerase
+Ng-MIP	5.2.1.8	peptidylprolyl isomerase
+SlrA	5.2.1.8	peptidylprolyl isomerase
+FKBP1B	5.2.1.8	peptidylprolyl isomerase
+CYP-5	5.2.1.8	peptidylprolyl isomerase
+CYP-6	5.2.1.8	peptidylprolyl isomerase
+cyclophilin 3	5.2.1.8	peptidylprolyl isomerase
+CYP-3	5.2.1.8	peptidylprolyl isomerase
+MtFKBP17	5.2.1.8	peptidylprolyl isomerase
+L.p.Cyp18	5.2.1.8	peptidylprolyl isomerase
+MIP	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl isomerase domain	5.2.1.8	peptidylprolyl isomerase
+FKBP35	5.2.1.8	peptidylprolyl isomerase
+TcFKBP18	5.2.1.8	peptidylprolyl isomerase
+Par27	5.2.1.8	peptidylprolyl isomerase
+peptidyl prolyl cis-trans isomerase	5.2.1.8	peptidylprolyl isomerase
+Cj0596	5.2.1.8	peptidylprolyl isomerase
+OvCYP-16	5.2.1.8	peptidylprolyl isomerase
+CeCYP-16	5.2.1.8	peptidylprolyl isomerase
+Cyp	5.2.1.8	peptidylprolyl isomerase
+Cyp1	5.2.1.8	peptidylprolyl isomerase
+pCYP B	5.2.1.8	peptidylprolyl isomerase
+Cyp2	5.2.1.8	peptidylprolyl isomerase
+MtFK	5.2.1.8	peptidylprolyl isomerase
+parvulin-like protein	5.2.1.8	peptidylprolyl isomerase
+Plp	5.2.1.8	peptidylprolyl isomerase
+Par10	5.2.1.8	peptidylprolyl isomerase
+HcCYP	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl isomerase domain	5.2.1.8	peptidylprolyl isomerase
+NIMA-1	5.2.1.8	peptidylprolyl isomerase
+trigger factor	5.2.1.8	peptidylprolyl isomerase
+mimicyp	5.2.1.8	peptidylprolyl isomerase
+PrsA	5.2.1.8	peptidylprolyl isomerase
+PPIase	5.2.1.8	peptidylprolyl isomerase
+Peptidyl-prolyl cis-trans isomerase	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin	5.2.1.8	peptidylprolyl isomerase
+FKBP12	5.2.1.8	peptidylprolyl isomerase
+i.e. FK506-binding protein 13	5.2.1.8	peptidylprolyl isomerase
+i.e. cyclophilin 20-2	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl isomerase domain	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl isomerase domain	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl isomerase domain	5.2.1.8	peptidylprolyl isomerase
+Parvulin	5.2.1.8	peptidylprolyl isomerase
+Par14	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl cis/trans isomerase NIMA-interacting 1	5.2.1.8	peptidylprolyl isomerase
+i.e. protein interacting with NIMA	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl isomerase domain	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl isomerase domain	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl isomerase domain	5.2.1.8	peptidylprolyl isomerase
+Par45	5.2.1.8	peptidylprolyl isomerase
+TF	5.2.1.8	peptidylprolyl isomerase
+sFkpA	5.2.1.8	peptidylprolyl isomerase
+SLyD	5.2.1.8	peptidylprolyl isomerase
+prolyl cis-trans isomerase	5.2.1.8	peptidylprolyl isomerase
+mip-like peptidyl-prolyl cis-trans isomerase	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl isomerase domain	5.2.1.8	peptidylprolyl isomerase
+FKBP22	5.2.1.8	peptidylprolyl isomerase
+FKBP33	5.2.1.8	peptidylprolyl isomerase
+parvulin-type peptidyl-prolyl isomerase	5.2.1.8	peptidylprolyl isomerase
+gene name	5.2.1.8	peptidylprolyl isomerase
+peptidylprolyl cis/trans isomerase	5.2.1.8	peptidylprolyl isomerase
+gene name	5.2.1.8	peptidylprolyl isomerase
+Peptidylprolyl cis-trans isomerase	5.2.1.8	peptidylprolyl isomerase
+PvFKBP35	5.2.1.8	peptidylprolyl isomerase
+FK506 binding protein 35	5.2.1.8	peptidylprolyl isomerase
+gene name	5.2.1.8	peptidylprolyl isomerase
+gene name	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin B	5.2.1.8	peptidylprolyl isomerase
+CyPB	5.2.1.8	peptidylprolyl isomerase
+CyPA	5.2.1.8	peptidylprolyl isomerase
+hPar14	5.2.1.8	peptidylprolyl isomerase
+hPin1	5.2.1.8	peptidylprolyl isomerase
+Cyp18	5.2.1.8	peptidylprolyl isomerase
+cyclophilin H	5.2.1.8	peptidylprolyl isomerase
+cyclophilin hCyp-18	5.2.1.8	peptidylprolyl isomerase
+parvulin1 4	5.2.1.8	peptidylprolyl isomerase
+h Par14	5.2.1.8	peptidylprolyl isomerase
+FKBP51	5.2.1.8	peptidylprolyl isomerase
+Cyp40	5.2.1.8	peptidylprolyl isomerase
+cyclophilin J	5.2.1.8	peptidylprolyl isomerase
+CyPJ	5.2.1.8	peptidylprolyl isomerase
+hCyP33	5.2.1.8	peptidylprolyl isomerase
+protein phosphatase 2A phosphatase activator	5.2.1.8	peptidylprolyl isomerase
+FKBP38	5.2.1.8	peptidylprolyl isomerase
+PPIL1	5.2.1.8	peptidylprolyl isomerase
+peptidyl prolyl isomerase-like protein 1	5.2.1.8	peptidylprolyl isomerase
+PPWD1	5.2.1.8	peptidylprolyl isomerase
+prolyl-peptidyl isomerase	5.2.1.8	peptidylprolyl isomerase
+peptidylproline cis-trans-isomerase	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl cis-trans isomerase NIMA-interacting 1	5.2.1.8	peptidylprolyl isomerase
+FK506 binding protein 12	5.2.1.8	peptidylprolyl isomerase
+FKBP 12	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl isomerase 1	5.2.1.8	peptidylprolyl isomerase
+PPIB contains conserved and uniquecyclophilin domain and belongs to cyclophilin superfamily	5.2.1.8	peptidylprolyl isomerase
+Cyclophilin A	5.2.1.8	peptidylprolyl isomerase
+PtpA	5.2.1.8	peptidylprolyl isomerase
+peptidyl-prolyl cis/trans isomerase	5.2.1.8	peptidylprolyl isomerase
+FKBP52	5.2.1.8	peptidylprolyl isomerase
+peptidylprolyl isomerase	5.2.1.8	peptidylprolyl isomerase
+Isomerase, farnesol	5.2.1.9	farnesol 2-isomerase

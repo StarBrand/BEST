@@ -1,0 +1,732 @@
+synonyms	ec_number	recommended_name
+Mutase, lysolecithin acyl-	5.4.1.1	Lysolecithin acylmutase
+Lysolecithin migratase	5.4.1.1	Lysolecithin acylmutase
+MCT	5.4.1.3	2-methylfumaryl-CoA isomerase
+mesaconyl-CoA C1-C4 CoA transferase	5.4.1.3	2-methylfumaryl-CoA isomerase
+GLI	5.4.1.4	D-galactarolactone isomerase
+DPGM	5.4.2.1	phosphoglycerate mutase
+PGM	5.4.2.1	phosphoglycerate mutase
+the enzyme requires 2,3-bisphosphoglycerate as acofactor	5.4.2.1	phosphoglycerate mutase
+the enzyme requires2,3-bisphosphoglycerate as a cofactor	5.4.2.1	phosphoglycerate mutase
+glucosamine phosphomutase	5.4.2.10	phosphoglucosamine mutase
+aminodeoxyglucose phosphate phosphomutase	5.4.2.10	phosphoglucosamine mutase
+PNGM	5.4.2.10	phosphoglucosamine mutase
+gene name	5.4.2.10	phosphoglucosamine mutase
+phosphoglucosamine mutase	5.4.2.10	phosphoglucosamine mutase
+MMP1077	5.4.2.10	phosphoglucosamine mutase
+Rv3214	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+EntD	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+muscle-specific isoform	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+Sts-1	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+phosphoglycerate mutase 1	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+PGAM1	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+2,3-bisphosphoglycerate-dependent phosphoglycerate mutase	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+2,3-bisphosphoglycerate-dependent PGAM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+gene name	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+dPGAM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+Phosphoglyceromutase	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+cofactor-dependent phosphoglycerate mutase	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+DPGM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+B-type PGM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+dPGM-B	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+phosphoglycerate mutase	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+PGM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+phosphoglycerate mutase type B	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+ScPGM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+PGAM	5.4.2.11	phosphoglycerate mutase (2,3-diphosphoglycerate-dependent)
+2,3-diphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+cofactor-independent phosphoglycerate mutase 1	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+PGM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+PGAM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+3-phosphoglycerate mutase	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+2,3BPG-independent PGAM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+PH0037	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+cofactor-independent phosphoglycerate mutase	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+independent PGAM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+iPGAM	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+the enzyme requires2,3-bisphosphoglycerate as a cofactor	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+gene name	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+gene name	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+locus name	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+locus name	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+2,3-biphosphoglycerate-independent phosphoglycerate mutase	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+i.e. 2,3-bisphosphoglycerateindependent phosphoglycerate mutase	5.4.2.12	phosphoglycerate mutase (2,3-diphosphoglycerate-independent)
+Glucose phosphomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+Phosphomutase, glucose	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+Phosphoglucose mutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+EC 2.7.5.1	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+phosphoglucomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+phosphomannomutase/phosphoglucomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+bifunctional enzyme	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+alpha-Pgm	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+alpha-phosphoglucomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PgmA	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+alpha-phosphoglucose mutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+SpgM	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+bifunctional enzyme with phosphoglucomutase andphosphomannomutase activities	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+phospho-glucomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+YMR278w protein	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+isoform	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+isoform	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+isoform	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PGM	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+isozyme	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+isozyme	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+PGM/PMM	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+phosphoglucomutase/phosphomannomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+gene name	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+alpha phosphoglucomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+Phosphohexomutase	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+locus name	5.4.2.2	phosphoglucomutase (alpha-D-glucose-1,6-bisphosphate-dependent)
+Acetylglucosamine phosphomutase	5.4.2.3	phosphoacetylglucosamine mutase
+Phosphomutase, acetylglucosamine	5.4.2.3	phosphoacetylglucosamine mutase
+Acetylaminodeoxyglucose phosphomutase	5.4.2.3	phosphoacetylglucosamine mutase
+Phospho-N-acetylglucosamine mutase	5.4.2.3	phosphoacetylglucosamine mutase
+PGlcNAc mutase	5.4.2.3	phosphoacetylglucosamine mutase
+2-Acetamido-2-deoxy-D-glucose-16-bisphosphate:2-acetamido-2-deoxy-D-glucose 1-phosphatephosphotransferase	5.4.2.3	phosphoacetylglucosamine mutase
+EC 2.7.5.2.	5.4.2.3	phosphoacetylglucosamine mutase
+DNA-damage-repair/toleration protein DRT101	5.4.2.3	phosphoacetylglucosamine mutase
+N-acetylglucosamine-phosphate mutase	5.4.2.3	phosphoacetylglucosamine mutase
+CaAGM1	5.4.2.3	phosphoacetylglucosamine mutase
+gene name	5.4.2.3	phosphoacetylglucosamine mutase
+PGM3	5.4.2.3	phosphoacetylglucosamine mutase
+AGM1	5.4.2.3	phosphoacetylglucosamine mutase
+HsAGM1	5.4.2.3	phosphoacetylglucosamine mutase
+Phosphomutase, glycerate (phosphoglycerate cofactor)	5.4.2.4	Bisphosphoglycerate mutase
+Diphosphoglycerate mutase	5.4.2.4	Bisphosphoglycerate mutase
+Glycerate phosphomutase	5.4.2.4	Bisphosphoglycerate mutase
+Bisphosphoglyceromutase	5.4.2.4	Bisphosphoglycerate mutase
+Biphosphoglycerate synthase	5.4.2.4	Bisphosphoglycerate mutase
+Diphosphoglyceric mutase	5.4.2.4	Bisphosphoglycerate mutase
+2,3-Diphosphoglycerate mutase	5.4.2.4	Bisphosphoglycerate mutase
+2,3-Bisphosphoglycerate mutase	5.4.2.4	Bisphosphoglycerate mutase
+2,3-Diphosphoglyceromutase	5.4.2.4	Bisphosphoglycerate mutase
+Diphosphoglyceromutase	5.4.2.4	Bisphosphoglycerate mutase
+EC 2.7.5.4	5.4.2.4	Bisphosphoglycerate mutase
+2,3-Diphosphoglycerate synthase	5.4.2.4	Bisphosphoglycerate mutase
+DPGM	5.4.2.4	Bisphosphoglycerate mutase
+BPG-dependent PGAM	5.4.2.4	Bisphosphoglycerate mutase
+2,3-bisphosphoglycerate mutase, erythrocyte	5.4.2.4	Bisphosphoglycerate mutase
+2,3-bisphosphoglycerate synthase	5.4.2.4	Bisphosphoglycerate mutase
+2,3 bisphosphoglycerate mutase	5.4.2.4	Bisphosphoglycerate mutase
+BPGM	5.4.2.4	Bisphosphoglycerate mutase
+BPG synthase	5.4.2.4	Bisphosphoglycerate mutase
+bisphosphoglycerate mutase	5.4.2.4	Bisphosphoglycerate mutase
+a trifunctional enzyme that possesses mutase, synthaseand phosphatase activities	5.4.2.4	Bisphosphoglycerate mutase
+Glucose phosphomutase	5.4.2.5	phosphoglucomutase (glucose-cofactor)
+Phosphomutase, glucose (glucose-cofactor)	5.4.2.5	phosphoglucomutase (glucose-cofactor)
+Glucose-1-phosphate phosphotransferase	5.4.2.5	phosphoglucomutase (glucose-cofactor)
+EC 2.7.5.5	5.4.2.5	phosphoglucomutase (glucose-cofactor)
+D-Glucose-1-phosphate:D-glucose-6-phosphotransferase	5.4.2.5	phosphoglucomutase (glucose-cofactor)
+Phosphomutase, beta-glucose	5.4.2.6	beta-Phosphoglucomutase
+PgcM	5.4.2.6	beta-Phosphoglucomutase
+beta-phosphoglucomutase	5.4.2.6	beta-Phosphoglucomutase
+PsPGM	5.4.2.6	beta-Phosphoglucomutase
+locus name	5.4.2.6	beta-Phosphoglucomutase
+betaPGM	5.4.2.6	beta-Phosphoglucomutase
+beta-PGM	5.4.2.6	beta-Phosphoglucomutase
+putative beta-phosphoglucomutase	5.4.2.6	beta-Phosphoglucomutase
+Phosphodeoxyribomutase	5.4.2.7	phosphopentomutase
+Phosphomutase, deoxyribose	5.4.2.7	phosphopentomutase
+Deoxyribose phosphomutase	5.4.2.7	phosphopentomutase
+Deoxyribomutase	5.4.2.7	phosphopentomutase
+alpha-D-Glucose-1,6-bisphosphate:deoxy-D-ribose-1-phosphatephosphotransferase	5.4.2.7	phosphopentomutase
+EC 2.7.5.6	5.4.2.7	phosphopentomutase
+PPM	5.4.2.7	phosphopentomutase
+Phosphoribomutase	5.4.2.7	phosphopentomutase
+PGM3	5.4.2.7	phosphopentomutase
+phosphopentomutase	5.4.2.7	phosphopentomutase
+PPMase	5.4.2.7	phosphopentomutase
+Phosphomutase, mannose	5.4.2.8	phosphomannomutase
+Phosphomannose mutase	5.4.2.8	phosphomannomutase
+EC 2.7.5.7	5.4.2.8	phosphomannomutase
+ORF17	5.4.2.8	phosphomannomutase
+PMMH-22	5.4.2.8	phosphomannomutase
+Giardia has two proteins with phosphoglucomutaseactivity, one of which (PGM2) also has phosphomannomutase activity	5.4.2.8	phosphomannomutase
+phosphomannomutase/phosphoglucomutase	5.4.2.8	phosphomannomutase
+bifunctional enzyme	5.4.2.8	phosphomannomutase
+multifunctional enzyme	5.4.2.8	phosphomannomutase
+IMP-sensitive glucose-1,6-bisphosphatase	5.4.2.8	phosphomannomutase
+phosphomannomutase 1	5.4.2.8	phosphomannomutase
+phosphomannomutase	5.4.2.8	phosphomannomutase
+gene name	5.4.2.8	phosphomannomutase
+isoform	5.4.2.8	phosphomannomutase
+isoform	5.4.2.8	phosphomannomutase
+PMM-2	5.4.2.8	phosphomannomutase
+phosphomannomutase 2	5.4.2.8	phosphomannomutase
+alpha-phosphomannomutase1	5.4.2.8	phosphomannomutase
+bifunctional enzyme with phosphoglucomutase andphosphomannomutase activities	5.4.2.8	phosphomannomutase
+PGM/PMM	5.4.2.8	phosphomannomutase
+ManB	5.4.2.8	phosphomannomutase
+PMM2	5.4.2.8	phosphomannomutase
+isoform	5.4.2.8	phosphomannomutase
+isoform	5.4.2.8	phosphomannomutase
+isoform	5.4.2.8	phosphomannomutase
+isoform	5.4.2.8	phosphomannomutase
+phosphoglucomutase/phosphomannomutase	5.4.2.8	phosphomannomutase
+gene name	5.4.2.8	phosphomannomutase
+Phosphohexomutase	5.4.2.8	phosphomannomutase
+locus name	5.4.2.8	phosphomannomutase
+isoform	5.4.2.8	phosphomannomutase
+CPEP phosphonomutase	5.4.2.9	phosphoenolpyruvate mutase
+carboxyphosphoenolpyruvate phosphonomutase	5.4.2.9	phosphoenolpyruvate mutase
+PEP phosphomutase	5.4.2.9	phosphoenolpyruvate mutase
+PEPPM	5.4.2.9	phosphoenolpyruvate mutase
+phosphoenolpyruvate phosphomutase	5.4.2.9	phosphoenolpyruvate mutase
+phosphomutase, phosphoenolpyruvate-phosphonopyruvate	5.4.2.9	phosphoenolpyruvate mutase
+phosphoenolpyruvate phosphomutase andcarboxyphosphoenolpyruvate phosphonomutase are distinct enzymes whichare highly specific to their own substrates	5.4.2.9	phosphoenolpyruvate mutase
+PEP mutase	5.4.2.9	phosphoenolpyruvate mutase
+phosphoenolpyruvate mutase	5.4.2.9	phosphoenolpyruvate mutase
+gene name	5.4.3.10	phenylalanine aminomutase (L-beta-phenylalanine forming)
+gene name	5.4.3.11	phenylalanine aminomutase (D-beta-phenylalanine forming)
+PAM	5.4.3.11	phenylalanine aminomutase (D-beta-phenylalanine forming)
+EncP	5.4.3.11	phenylalanine aminomutase (D-beta-phenylalanine forming)
+Aminomutase, lysine 2,3-	5.4.3.2	lysine 2,3-aminomutase
+Mutase, lysine 2,3-amino-	5.4.3.2	lysine 2,3-aminomutase
+L-Lysine-2,3-aminomutase	5.4.3.2	lysine 2,3-aminomutase
+gene name	5.4.3.2	lysine 2,3-aminomutase
+LAM	5.4.3.2	lysine 2,3-aminomutase
+KAM	5.4.3.2	lysine 2,3-aminomutase
+lysine 2,3-aminomutase	5.4.3.2	lysine 2,3-aminomutase
+lysine-2,3-aminomutase	5.4.3.2	lysine 2,3-aminomutase
+gene name	5.4.3.2	lysine 2,3-aminomutase
+KamDE	5.4.3.3	lysine 5,6-aminomutase
+5,6-LAM	5.4.3.3	lysine 5,6-aminomutase
+lysine 5,6-aminomutase	5.4.3.3	lysine 5,6-aminomutase
+beta-Lysine mutase	5.4.3.3	lysine 5,6-aminomutase
+formerly	5.4.3.3	lysine 5,6-aminomutase
+5,6-LAM	5.4.3.4	D-lysine 5,6-aminomutase
+lysine 5,6-aminomutase	5.4.3.4	D-lysine 5,6-aminomutase
+Aminomutase, D-ornithine 4,5-	5.4.3.5	D-ornithine 4,5-aminomutase
+4,5-OAM	5.4.3.5	D-ornithine 4,5-aminomutase
+D-ornithine aminomutase	5.4.3.5	D-ornithine 4,5-aminomutase
+gene name, one of the twosubunits, gene is in synteny with further genes of the ornithinefermentation pathway: or-1, or-2, or-4, oraS, oraE and or-4, or-5 isplaced elsewhere in the genome	5.4.3.5	D-ornithine 4,5-aminomutase
+gene name,one of the two subunits, gene is in synteny with further genes of theornithine fermentation pathway: or-1, or-2, or-4, oraS, oraE, or-4,or-5	5.4.3.5	D-ornithine 4,5-aminomutase
+ornithine 4,5-aminomutase	5.4.3.5	D-ornithine 4,5-aminomutase
+OAM	5.4.3.5	D-ornithine 4,5-aminomutase
+adenosylcobalamin-dependent ornithine 4,5-aminomutase	5.4.3.5	D-ornithine 4,5-aminomutase
+Aminomutase, tyrosine 2,3-	5.4.3.6	tyrosine 2,3-aminomutase
+Tyrosine alpha,beta-mutase	5.4.3.6	tyrosine 2,3-aminomutase
+Tyrosine alpha,beta-amino mutase	5.4.3.6	tyrosine 2,3-aminomutase
+SgcC4	5.4.3.6	tyrosine 2,3-aminomutase
+tyrosine aminomutase	5.4.3.6	tyrosine 2,3-aminomutase
+TAM	5.4.3.6	tyrosine 2,3-aminomutase
+CmdF	5.4.3.6	tyrosine 2,3-aminomutase
+MfTAM	5.4.3.6	tyrosine 2,3-aminomutase
+MxTAM	5.4.3.6	tyrosine 2,3-aminomutase
+Aminomutase, leucine 2,3-	5.4.3.7	leucine 2,3-aminomutase
+LAM	5.4.3.7	leucine 2,3-aminomutase
+Aminotransferase, glutamate semialdehyde	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+Glutamate 1-semialdehyde aminotransferase	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+GSA aminotransferase	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+GSA	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+HemL	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+Glutamate-1-semialdehyde aminotransferase	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+GSA-AT	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+GSAT	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+glutamate-1-semialdehyde aminomutase	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+GSAM	5.4.3.8	glutamate-1-semialdehyde 2,1-aminomutase
+HAB mutase	5.4.4.1	(hydroxyamino)benzene mutase
+hydroxylaminobenzene hydroxymutase	5.4.4.1	(hydroxyamino)benzene mutase
+hydroxylaminobenzene mutase	5.4.4.1	(hydroxyamino)benzene mutase
+CnbB	5.4.4.1	(hydroxyamino)benzene mutase
+Synthase, isochorismate	5.4.4.2	isochorismate synthase
+Isochorismic synthase	5.4.4.2	isochorismate synthase
+Amonabactin	5.4.4.2	isochorismate synthase
+Eds16	5.4.4.2	isochorismate synthase
+IcsI	5.4.4.2	isochorismate synthase
+isochorismate mutase	5.4.4.2	isochorismate synthase
+Sid2	5.4.4.2	isochorismate synthase
+EC 5.4.99.6	5.4.4.2	isochorismate synthase
+ICS1 gene product	5.4.4.2	isochorismate synthase
+ICS	5.4.4.2	isochorismate synthase
+isochorismate synthase	5.4.4.2	isochorismate synthase
+menaquinone-specific isochorismate synthase	5.4.4.2	isochorismate synthase
+EntC	5.4.4.2	isochorismate synthase
+DhbC	5.4.4.2	isochorismate synthase
+MenF	5.4.4.2	isochorismate synthase
+isochorismate synthase 1	5.4.4.2	isochorismate synthase
+isozyme	5.4.4.2	isochorismate synthase
+isozyme	5.4.4.2	isochorismate synthase
+PchA	5.4.4.2	isochorismate synthase
+MbtI	5.4.4.2	isochorismate synthase
+3-hydroxylaminophenol mutase	5.4.4.3	3-(hydroxyamino)phenol mutase
+3HAP mutase	5.4.4.3	3-(hydroxyamino)phenol mutase
+5,8-linoleate diol synthases	5.4.4.5	9,12-octadecadienoate 8-hydroperoxide 8R-isomerase
+bifunctional enzyme	5.4.4.5	9,12-octadecadienoate 8-hydroperoxide 8R-isomerase
+PpoA	5.4.4.5	9,12-octadecadienoate 8-hydroperoxide 8R-isomerase
+bifunctional enzyme	5.4.4.5	9,12-octadecadienoate 8-hydroperoxide 8R-isomerase
+bifunctional enzyme	5.4.4.6	9,12-octadecadienoate 8-hydroperoxide 8S-isomerase
+bifunctional enzyme	5.4.4.6	9,12-octadecadienoate 8-hydroperoxide 8S-isomerase
+eLOX3	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+epidermal lipoxygenase-3	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+epidermal LOX type 3	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+hepoxilin synthase	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+gene name	5.4.4.7	hydroperoxy icosatetraenoate isomerase
+3,1-hydroxyl-DELTA1-DELTA2-mutase	5.4.4.8	linalool isomerase
+gene name	5.4.4.8	linalool isomerase
+Mutase, methylaspartate	5.4.99.1	Methylaspartate mutase
+Glutamic mutase	5.4.99.1	Methylaspartate mutase
+Glutamic isomerase	5.4.99.1	Methylaspartate mutase
+Glutamic acid mutase	5.4.99.1	Methylaspartate mutase
+Glutamic acid isomerase	5.4.99.1	Methylaspartate mutase
+Methylaspartic acid mutase	5.4.99.1	Methylaspartate mutase
+Glutamate isomerase	5.4.99.1	Methylaspartate mutase
+Glutamate mutase	5.4.99.1	Methylaspartate mutase
+AdoCbl-dependent glutamate mutase	5.4.99.1	Methylaspartate mutase
+SanU	5.4.99.1	Methylaspartate mutase
+SanV	5.4.99.1	Methylaspartate mutase
+GlmS	5.4.99.1	Methylaspartate mutase
+Glm	5.4.99.1	Methylaspartate mutase
+Synthase, isomaltulose	5.4.99.11	Isomaltulose synthase
+Isomaltulose synthetase	5.4.99.11	Isomaltulose synthase
+Sucrose alpha-glucosyltransferase	5.4.99.11	Isomaltulose synthase
+alpha-Glucosyltransferase	5.4.99.11	Isomaltulose synthase
+Sucrose 6-glucosylmutase	5.4.99.11	Isomaltulose synthase
+Sucrose mutase	5.4.99.11	Isomaltulose synthase
+Trehalulose synthase	5.4.99.11	Isomaltulose synthase
+MutB	5.4.99.11	Isomaltulose synthase
+SmuA	5.4.99.11	Isomaltulose synthase
+alpha-glycosyl transferase	5.4.99.11	Isomaltulose synthase
+NX-5	5.4.99.11	Isomaltulose synthase
+SIase	5.4.99.11	Isomaltulose synthase
+sucrose isomerase	5.4.99.11	Isomaltulose synthase
+isomaltulose synthase	5.4.99.11	Isomaltulose synthase
+PalI	5.4.99.11	Isomaltulose synthase
+gene name	5.4.99.12	tRNA pseudouridine38-40 synthase
+pseudouridine synthase	5.4.99.12	tRNA pseudouridine38-40 synthase
+PSUI	5.4.99.12	tRNA pseudouridine38-40 synthase
+pseudouridine synthase I	5.4.99.12	tRNA pseudouridine38-40 synthase
+tRNA pseudouridine synthase I	5.4.99.12	tRNA pseudouridine38-40 synthase
+TruA	5.4.99.12	tRNA pseudouridine38-40 synthase
+gene name	5.4.99.12	tRNA pseudouridine38-40 synthase
+tRNA pseudouridine synthase 3	5.4.99.12	tRNA pseudouridine38-40 synthase
+Deg1p	5.4.99.12	tRNA pseudouridine38-40 synthase
+Pus3p	5.4.99.12	tRNA pseudouridine38-40 synthase
+Deg1	5.4.99.12	tRNA pseudouridine38-40 synthase
+mPus3p	5.4.99.12	tRNA pseudouridine38-40 synthase
+pseudouridine synthase 3	5.4.99.12	tRNA pseudouridine38-40 synthase
+isobutyryl coenzyme A mutase	5.4.99.13	isobutyryl-CoA mutase
+butyryl-CoA:isobutyryl-CoA mutase	5.4.99.13	isobutyryl-CoA mutase
+ICM	5.4.99.13	isobutyryl-CoA mutase
+a fusion between isobutyryl-CoA mutase and itsG-protein chaperone	5.4.99.13	isobutyryl-CoA mutase
+a fusion betweenisobutyryl-CoA mutase and its G-protein chaperone	5.4.99.13	isobutyryl-CoA mutase
+Isomerase, 4-methyl-2-enelactone	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+4-Methyl-3-enelactone methyl isomerase	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+MmlJ	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+methymuconolactone isomerase	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+4-Methylmuconolactone methylisomerase	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+MLMI	5.4.99.14	4-Carboxymethyl-4-methylbutenolide mutase
+Malto-oligosyltrehalose synthase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Maltodextrin alpha-D-glucosyltransferase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Cellulase (Arthrobacter strain Q36 clone pBMT13 trehaloseoligosaccharide-forming)	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Sythase, maltooligosyltrehalose (Arthrobacter clone pBRT4 gene treY)	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Cellulase (Rhizobium strain M11 clone pBMT7 trehaloseoligosaccharide-forming)	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Maltooligosyl trehalose synthase (Rhizobium strain M-11 clone pBMTU1gene treY reduced)	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Synthase, maltooligosyltrehalose (Rhizobium strain M-11 clone pBMTU1gene treY reduced)	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Synthase, maltooligosyltrehalose (Sulfolobus acidocaldarius clonepBST1 gene treY)	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+(1,4)-alpha-D-glucan 1-alpha-D-glucosylmutase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+(1->4)-alpha-D-Glucan 1-alpha-glucosylmutase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+MOTS	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+maltooligosyltrehalose synthase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+protein ST0929	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+TDFE	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+locus name	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+MTSase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+maltooligosyl trehalose synthase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+fusion enzyme consisting of maltooligosyltrehalosesynthase and maltooligosyltrehalose trehalohydrolase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+MTS	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+gene name	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+maltooligosyl-trehalose synthase	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+SsTDFE	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+trehalosyl dextrin-forming enzyme	5.4.99.15	(1->4)-alpha-D-Glucan 1-alpha-D-glucosylmutase
+Maltose glucosylmutase	5.4.99.16	maltose alpha-D-glucosyltransferase
+Maltose alpha-D-glucosylmutase	5.4.99.16	maltose alpha-D-glucosyltransferase
+Synthase, trehalose	5.4.99.16	maltose alpha-D-glucosyltransferase
+Trehalose synthetase	5.4.99.16	maltose alpha-D-glucosyltransferase
+Synthase, trehalose (Pimelobacter strain R48 clone pBRM8 gene treSprecursor reduced)	5.4.99.16	maltose alpha-D-glucosyltransferase
+Trehalose synthase (Pimelobacter strain R48 clone pBRM8 gene treSprecursor reduced)	5.4.99.16	maltose alpha-D-glucosyltransferase
+Protein (Saccharomyces cerevisiae clone pMB14 gene CIF reduced)	5.4.99.16	maltose alpha-D-glucosyltransferase
+57-KDa trehalose synthase (Saccharomyces cerevisiae)	5.4.99.16	maltose alpha-D-glucosyltransferase
+Protein (Saccharomyces cerevisiae gene CIF1 reduced)	5.4.99.16	maltose alpha-D-glucosyltransferase
+Synthase, trehalose (Saccharomyces cerevisiae gene TPS1 subunit)	5.4.99.16	maltose alpha-D-glucosyltransferase
+Synthase, trehalose (Saccharomyces cerevisiae gene TSL1 subunit)	5.4.99.16	maltose alpha-D-glucosyltransferase
+Synthase, trehalose (Thermus aquaticus strain ATCC33923 clone pBTM5)	5.4.99.16	maltose alpha-D-glucosyltransferase
+Maltose alpha-D-glucosyltransferase	5.4.99.16	maltose alpha-D-glucosyltransferase
+PTTS	5.4.99.16	maltose alpha-D-glucosyltransferase
+TSase	5.4.99.16	maltose alpha-D-glucosyltransferase
+Trehalose synthase	5.4.99.16	maltose alpha-D-glucosyltransferase
+TreS	5.4.99.16	maltose alpha-D-glucosyltransferase
+MTase	5.4.99.16	maltose alpha-D-glucosyltransferase
+cyclase, squalene-hopanoid	5.4.99.17	squalene-hopene cyclase
+SHC	5.4.99.17	squalene-hopene cyclase
+squalene-hopene cyclase	5.4.99.17	squalene-hopene cyclase
+ZmSHC1	5.4.99.17	squalene-hopene cyclase
+SHC1	5.4.99.17	squalene-hopene cyclase
+SHC2	5.4.99.17	squalene-hopene cyclase
+ZmoSHC1	5.4.99.17	squalene-hopene cyclase
+AacSHC	5.4.99.17	squalene-hopene cyclase
+squalene hopene cyclase	5.4.99.17	squalene-hopene cyclase
+Spterp25	5.4.99.17	squalene-hopene cyclase
+PurE	5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase
+N5-CAIR mutase	5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase
+N5-carboxyaminoimidazole ribonucleotide mutase	5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase
+N5-carboxyaminoimidazole ribonucleotide synthetase	5.4.99.18	5-(carboxyamino)imidazole ribonucleotide mutase
+RsuA	5.4.99.19	16S rRNA pseudouridine516 synthase
+16S RNA pseudouridine 516 synthase	5.4.99.19	16S rRNA pseudouridine516 synthase
+16S PSI516 synthase	5.4.99.19	16S rRNA pseudouridine516 synthase
+16S RNA PSI516 synthase	5.4.99.19	16S rRNA pseudouridine516 synthase
+RNA pseudouridine synthase RsuA	5.4.99.19	16S rRNA pseudouridine516 synthase
+PSI-synthase RsuA	5.4.99.19	16S rRNA pseudouridine516 synthase
+Mutase, methylmalonyl coenzyme A	5.4.99.2	Methylmalonyl-CoA mutase
+Methylmalonyl CoA mutase	5.4.99.2	Methylmalonyl-CoA mutase
+Methylmalonyl coenzyme A carbonylmutase	5.4.99.2	Methylmalonyl-CoA mutase
+(S)-Methylmalonyl-CoA mutase	5.4.99.2	Methylmalonyl-CoA mutase
+Methylmalonyl-CoA-carbonyl mutase	5.4.99.2	Methylmalonyl-CoA mutase
+MCB-beta	5.4.99.2	Methylmalonyl-CoA mutase
+MCM-alpha	5.4.99.2	Methylmalonyl-CoA mutase
+MCM-beta	5.4.99.2	Methylmalonyl-CoA mutase
+(R)-2-methyl-3-oxopropanoyl-CoA CoA-carbonylmutase	5.4.99.2	Methylmalonyl-CoA mutase
+mmcm-1	5.4.99.2	Methylmalonyl-CoA mutase
+Methylmalonyl coenzyme A mutase	5.4.99.2	Methylmalonyl-CoA mutase
+methylmalonyl-CoA mutase	5.4.99.2	Methylmalonyl-CoA mutase
+MCM	5.4.99.2	Methylmalonyl-CoA mutase
+mcmB	5.4.99.2	Methylmalonyl-CoA mutase
+MuT	5.4.99.2	Methylmalonyl-CoA mutase
+locus name, catalytic subunit of methylmalonyl-CoAmutase	5.4.99.2	Methylmalonyl-CoA mutase
+locus name, coenzyme B12-binding subunit ofmethylmalonyl-CoA mutase	5.4.99.2	Methylmalonyl-CoA mutase
+sleeping beauty mutase	5.4.99.2	Methylmalonyl-CoA mutase
+Sbm	5.4.99.2	Methylmalonyl-CoA mutase
+L-methylmalonyl-co-enzyme-A mutase	5.4.99.2	Methylmalonyl-CoA mutase
+L-methylmalonyl-CoA mutase	5.4.99.2	Methylmalonyl-CoA mutase
+pseudouridine synthase	5.4.99.20	23S rRNA pseudouridine2457 synthase
+RluE	5.4.99.20	23S rRNA pseudouridine2457 synthase
+YmfC	5.4.99.20	23S rRNA pseudouridine2457 synthase
+RluF	5.4.99.21	23S rRNA pseudouridine2604 synthase
+YjbC	5.4.99.21	23S rRNA pseudouridine2604 synthase
+RluB	5.4.99.22	23S rRNA pseudouridine2605 synthase
+YciL	5.4.99.22	23S rRNA pseudouridine2605 synthase
+pseudouridine synthase RluD	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+YfiI	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+RluD	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+RluD pseudouridine synthase	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+YfiL	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+gene name	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+pseudouridine synthases RluD	5.4.99.23	23S rRNA pseudouridine1911/1915/1917 synthase
+RLuc	5.4.99.24	23S rRNA pseudouridine955/2504/2580 synthase
+YceC	5.4.99.24	23S rRNA pseudouridine955/2504/2580 synthase
+pseudouridine synthases RluC	5.4.99.24	23S rRNA pseudouridine955/2504/2580 synthase
+psi55 tRNA pseudouridine synthase	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA pseudouridine 55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+TruB	5.4.99.25	tRNA pseudouridine55 synthase
+psi55S	5.4.99.25	tRNA pseudouridine55 synthase
+pseudouridine 55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+MjPus10	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA pseudouridine synthase	5.4.99.25	tRNA pseudouridine55 synthase
+PSI55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+Cbf5	5.4.99.25	tRNA pseudouridine55 synthase
+pfuCbf5	5.4.99.25	tRNA pseudouridine55 synthase
+Pus10	5.4.99.25	tRNA pseudouridine55 synthase
+Mj-Pus10	5.4.99.25	tRNA pseudouridine55 synthase
+aCBF5	5.4.99.25	tRNA pseudouridine55 synthase
+TR	5.4.99.25	tRNA pseudouridine55 synthase
+pseudouridine synthase TruB	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA PSI 55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+PSI synthase TruB	5.4.99.25	tRNA pseudouridine55 synthase
+pseuduridine-55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+PSI55 synthaseuB	5.4.99.25	tRNA pseudouridine55 synthase
+RNA pseudouridine synthase TruB	5.4.99.25	tRNA pseudouridine55 synthase
+gene name	5.4.99.25	tRNA pseudouridine55 synthase
+Pus4	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA:pseudouridine-55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA:PSI55 synthase	5.4.99.25	tRNA pseudouridine55 synthase
+tRNA:PSI55-synthase	5.4.99.25	tRNA pseudouridine55 synthase
+TruC	5.4.99.26	tRNA pseudouridine65 synthase
+YqcB	5.4.99.26	tRNA pseudouridine65 synthase
+Pus7p	5.4.99.27	tRNA pseudouridine13 synthase
+Sso aPus7	5.4.99.27	tRNA pseudouridine13 synthase
+Pab aPus7	5.4.99.27	tRNA pseudouridine13 synthase
+TruD	5.4.99.27	tRNA pseudouridine13 synthase
+YgbO	5.4.99.27	tRNA pseudouridine13 synthase
+tRNA PSI13 synthase	5.4.99.27	tRNA pseudouridine13 synthase
+RNA:PSI-synthase Pus7p	5.4.99.27	tRNA pseudouridine13 synthase
+RNA:pseudouridine-synthase Pus7p	5.4.99.27	tRNA pseudouridine13 synthase
+Pus7 protein	5.4.99.27	tRNA pseudouridine13 synthase
+RluA	5.4.99.28	tRNA pseudouridine32 synthase
+pseudouridine synthase RluA	5.4.99.28	tRNA pseudouridine32 synthase
+Rib2/Pus8p	5.4.99.28	tRNA pseudouridine32 synthase
+tRNA:Psi32-synthase	5.4.99.28	tRNA pseudouridine32 synthase
+Pus9	5.4.99.28	tRNA pseudouridine32 synthase
+ambiguous	5.4.99.29	23S rRNA pseudouridine746 synthase
+pseudouridine synthase RluA	5.4.99.29	23S rRNA pseudouridine746 synthase
+23S RNA PSI746 synthase	5.4.99.29	23S rRNA pseudouridine746 synthase
+Mutase, acetolactate	5.4.99.3	2-Acetolactate mutase
+Acetolactate mutase	5.4.99.3	2-Acetolactate mutase
+Acetohydroxy acid isomerase	5.4.99.3	2-Acetolactate mutase
+2-acetolactate mutase	5.4.99.3	2-Acetolactate mutase
+UDP-arabinopyranose mutase	5.4.99.30	UDP-arabinopyranose mutase
+CrUAM	5.4.99.30	UDP-arabinopyranose mutase
+OsUAM	5.4.99.30	UDP-arabinopyranose mutase
+OsUAM1	5.4.99.30	UDP-arabinopyranose mutase
+Os03g0599800 protein	5.4.99.30	UDP-arabinopyranose mutase
+UAM1	5.4.99.30	UDP-arabinopyranose mutase
+Os03g40270 protein	5.4.99.30	UDP-arabinopyranose mutase
+RGP1	5.4.99.30	UDP-arabinopyranose mutase
+Os07g41360 protein	5.4.99.30	UDP-arabinopyranose mutase
+UAMs3	5.4.99.30	UDP-arabinopyranose mutase
+RGPs3	5.4.99.30	UDP-arabinopyranose mutase
+OsUAM3	5.4.99.30	UDP-arabinopyranose mutase
+Os07g0604800 protein	5.4.99.30	UDP-arabinopyranose mutase
+UAM3	5.4.99.30	UDP-arabinopyranose mutase
+RGP2	5.4.99.30	UDP-arabinopyranose mutase
+RGP3	5.4.99.30	UDP-arabinopyranose mutase
+gene name	5.4.99.31	thalianol synthase
+OSC3	5.4.99.32	protostadienol synthase
+PdsA	5.4.99.32	protostadienol synthase
+OSPC	5.4.99.32	protostadienol synthase
+oxidosqualene:protostadienol cyclase	5.4.99.32	protostadienol synthase
+CPQ	5.4.99.33	cucurbitadienol synthase
+multifunctional triterpene synthase	5.4.99.34	germanicol synthase
+RsM1	5.4.99.34	germanicol synthase
+multifunctional triterpene synthase	5.4.99.35	taraxerol synthase
+RsM2	5.4.99.35	taraxerol synthase
+LcIMS1	5.4.99.36	isomultiflorenol synthase
+isomultiflorenol synthase	5.4.99.36	isomultiflorenol synthase
+IMS1	5.4.99.36	isomultiflorenol synthase
+DCD	5.4.99.37	dammaradiene synthase
+CAMS1	5.4.99.38	camelliol C synthase
+gene name	5.4.99.38	camelliol C synthase
+gene name	5.4.99.38	camelliol C synthase
+BPY	5.4.99.39	beta-amyrin synthase
+PSY	5.4.99.39	beta-amyrin synthase
+betaAS	5.4.99.39	beta-amyrin synthase
+SvBS	5.4.99.39	beta-amyrin synthase
+EtAS	5.4.99.39	beta-amyrin synthase
+MtAMY1	5.4.99.39	beta-amyrin synthase
+GmAMS1	5.4.99.39	beta-amyrin synthase
+PNY	5.4.99.39	beta-amyrin synthase
+OXA1	5.4.99.39	beta-amyrin synthase
+bAS	5.4.99.39	beta-amyrin synthase
+isoform	5.4.99.39	beta-amyrin synthase
+isoform	5.4.99.39	beta-amyrin synthase
+BAS-like 2	5.4.99.39	beta-amyrin synthase
+OSC2	5.4.99.39	beta-amyrin synthase
+SITTS1	5.4.99.39	beta-amyrin synthase
+PtBS	5.4.99.39	beta-amyrin synthase
+Oxidosqualene cyclase	5.4.99.39	beta-amyrin synthase
+ObAS1	5.4.99.39	beta-amyrin synthase
+beta-amyrin synthase	5.4.99.39	beta-amyrin synthase
+OSC1	5.4.99.39	beta-amyrin synthase
+multifunctional OSC	5.4.99.39	beta-amyrin synthase
+SlTTS1	5.4.99.39	beta-amyrin synthase
+CrAS	5.4.99.39	beta-amyrin synthase
+amyrin synthase	5.4.99.39	beta-amyrin synthase
+B-AS	5.4.99.39	beta-amyrin synthase
+Mutase, 2-methyleneglutarate	5.4.99.4	2-Methyleneglutarate mutase
+alpha-Methyleneglutarate mutase	5.4.99.4	2-Methyleneglutarate mutase
+alpha-MG mutase	5.4.99.4	2-Methyleneglutarate mutase
+oxidosqualene cyclases	5.4.99.40	alpha-amyrin synthase
+a mixed amyrin synthase that produces both alpha-amyrinand beta-amyrin but it has a product preference for alpha-amyrin	5.4.99.40	alpha-amyrin synthase
+alpha amyrin synthase	5.4.99.40	alpha-amyrin synthase
+multifunctional OSC	5.4.99.40	alpha-amyrin synthase
+SlTTS1	5.4.99.40	alpha-amyrin synthase
+gene name	5.4.99.40	alpha-amyrin synthase
+2,3-oxidosqualene alpha-amyrin cyclase	5.4.99.40	alpha-amyrin synthase
+gene name	5.4.99.40	alpha-amyrin synthase
+a multifunctional enzyme whichproduces both alpha- and beta-amyrin (see EC 5.4.99.39, beta-amyrinsynthase)	5.4.99.40	alpha-amyrin synthase
+alpha/beta amyrin synthase	5.4.99.40	alpha-amyrin synthase
+gene name	5.4.99.40	alpha-amyrin synthase
+gene name	5.4.99.40	alpha-amyrin synthase
+gene name	5.4.99.40	alpha-amyrin synthase
+enzyme shows similarity with Olea europaea mixed amyrinsynthase and Panax notoginseng dammarenediol synthase	5.4.99.40	alpha-amyrin synthase
+OSC3	5.4.99.41	lupeol synthase
+OEW	5.4.99.41	lupeol synthase
+BPY	5.4.99.41	lupeol synthase
+LUS	5.4.99.41	lupeol synthase
+lupeol synthase	5.4.99.41	lupeol synthase
+AtLUP1	5.4.99.41	lupeol synthase
+2,3-oxidosqualene-triterpenoid cyclase	5.4.99.41	lupeol synthase
+RcLUS	5.4.99.41	lupeol synthase
+TRW	5.4.99.41	lupeol synthase
+tRNA:Psi31-synthase	5.4.99.42	tRNA pseudouridine31 synthase
+Pus6p	5.4.99.42	tRNA pseudouridine31 synthase
+pseudouridylate synthase 6	5.4.99.42	tRNA pseudouridine31 synthase
+Pus5p	5.4.99.43	21S rRNA pseudouridine2819 synthase
+PUS5	5.4.99.43	21S rRNA pseudouridine2819 synthase
+tRNA:PSI27/28-synthase	5.4.99.44	mitochondrial tRNA pseudouridine27/28 synthase
+Pus2p	5.4.99.44	mitochondrial tRNA pseudouridine27/28 synthase
+Pus2 protein	5.4.99.44	mitochondrial tRNA pseudouridine27/28 synthase
+mitochondrial-specific tRNA:Psi-synthase	5.4.99.44	mitochondrial tRNA pseudouridine27/28 synthase
+Deg1p	5.4.99.45	tRNA pseudouridine38/39 synthase
+Pus3p	5.4.99.45	tRNA pseudouridine38/39 synthase
+Deg1	5.4.99.45	tRNA pseudouridine38/39 synthase
+mPus3p	5.4.99.45	tRNA pseudouridine38/39 synthase
+pseudouridine synthase 3	5.4.99.45	tRNA pseudouridine38/39 synthase
+Oxidosqualene cyclase	5.4.99.46	shionone synthase
+OSC	5.4.99.46	shionone synthase
+SHS	5.4.99.46	shionone synthase
+shionone synthase	5.4.99.46	shionone synthase
+Oxidosqualene-lanosterol cyclase	5.4.99.47	parkeol synthase
+cf. EC 5.4.99.7	5.4.99.47	parkeol synthase
+cf. EC 5.4.99.7	5.4.99.47	parkeol synthase
+cf. EC 5.4.99.7	5.4.99.47	parkeol synthase
+cf. EC 5.4.99.7	5.4.99.47	parkeol synthase
+ERG7H234Y	5.4.99.47	parkeol synthase
+CAS1Ile481Val	5.4.99.47	parkeol synthase
+cf. EC 5.4.99.8	5.4.99.47	parkeol synthase
+ERG7	5.4.99.47	parkeol synthase
+cf. EC 5.4.99.8	5.4.99.47	parkeol synthase
+cf. EC 5.4.99.8	5.4.99.47	parkeol synthase
+oxidosqualene cyclase 7 mutant N478H/V482I	5.4.99.47	parkeol synthase
+gene name	5.4.99.47	parkeol synthase
+cf. EC 5.4.99.7	5.4.99.47	parkeol synthase
+OSLC	5.4.99.47	parkeol synthase
+oxidosqualene:protostadienol cyclase mutant in which theresidues 702APPGGMR708 are replaced with the conserved 702NKSCAIS708sequence	5.4.99.47	parkeol synthase
+gene name	5.4.99.48	achilleol B synthase
+GLS	5.4.99.49	glutinol synthase
+Mutase, chorismate	5.4.99.5	Chorismate mutase
+4-Amino-4-deoxychorismate mutase	5.4.99.5	Chorismate mutase
+P protein	5.4.99.5	Chorismate mutase
+CM0819	5.4.99.5	Chorismate mutase
+MtCM	5.4.99.5	Chorismate mutase
+Mycobacterium tuberculosis H37Rv chorismate mutase	5.4.99.5	Chorismate mutase
+Mycobacterium tuberculosis chorismate mutase	5.4.99.5	Chorismate mutase
+MtbCM	5.4.99.5	Chorismate mutase
+Rv0948c	5.4.99.5	Chorismate mutase
+BsCM	5.4.99.5	Chorismate mutase
+Bacillus subtilis chorismate mutase	5.4.99.5	Chorismate mutase
+CM	5.4.99.5	Chorismate mutase
+belongs to the*AroQclass of chorismate mutases	5.4.99.5	Chorismate mutase
+MjCM	5.4.99.5	Chorismate mutase
+TtCM	5.4.99.5	Chorismate mutase
+MI-CM-1	5.4.99.5	Chorismate mutase
+MI-CM-2	5.4.99.5	Chorismate mutase
+gene name. Trifunctional enzyme EC 5.4.99.5 (chorismatemutase)/EC 4.2.1.51 (prephenate dehydratase)/EC 1.3.1.12 (prephenatedehydrogenase)	5.4.99.5	Chorismate mutase
+trifunctional enzyme EC 5.4.99.5 (chorismatemutase)/EC 4.2.1.51 (prephenate dehydratase)/EC 1.3.1.12 (prephenatedehydrogenase)	5.4.99.5	Chorismate mutase
+90-MtCM	5.4.99.5	Chorismate mutase
+105-MtCM	5.4.99.5	Chorismate mutase
+Chorismate mutase/prephenate dehydratase	5.4.99.5	Chorismate mutase
+P-protein	5.4.99.5	Chorismate mutase
+EcCM	5.4.99.5	Chorismate mutase
+EcCM-R	5.4.99.5	Chorismate mutase
+PheA	5.4.99.5	Chorismate mutase
+bifunctional enzyme	5.4.99.5	Chorismate mutase
+bifunctional enzyme	5.4.99.5	Chorismate mutase
+bifunctional enzyme	5.4.99.5	Chorismate mutase
+bi-functional chorismate mutase/prephenate dehydratase	5.4.99.5	Chorismate mutase
+y2828	5.4.99.5	Chorismate mutase
+isozyme	5.4.99.5	Chorismate mutase
+isozyme	5.4.99.5	Chorismate mutase
+YCM	5.4.99.5	Chorismate mutase
+chorismate mutase 1	5.4.99.5	Chorismate mutase
+isozyme	5.4.99.5	Chorismate mutase
+OSC	5.4.99.50	friedelin synthase
+BOS	5.4.99.51	baccharis oxide synthase
+gene	5.4.99.52	alpha-seco-amyrin synthase
+gene	5.4.99.53	marneral synthase
+MRN1	5.4.99.53	marneral synthase
+marneral synthase 1	5.4.99.53	marneral synthase
+gene	5.4.99.54	beta-seco-amyrin synthase
+SlTTS2 is a multifunctional oxidosqualene cyclaseenzyme catalyzing the formation of seven different triterpenoid isomers	5.4.99.55	delta-amyrin synthase
+PEN3	5.4.99.56	tirucalladienol synthase
+At5g36150	5.4.99.56	tirucalladienol synthase
+LUP5	5.4.99.56	tirucalladienol synthase
+tirucalla-7,24-dien-3beta-ol synthase	5.4.99.56	tirucalladienol synthase
+BARS1	5.4.99.57	baruol synthase
+gene name	5.4.99.57	baruol synthase
+PylB	5.4.99.58	methylornithine synthase
+methylornithine synthase	5.4.99.58	methylornithine synthase
+Fcf2	5.4.99.59	dTDP-fucopyranose mutase
+CbiC	5.4.99.60	cobalt-precorrin-8 methylmutase
+Precorrin isomerase	5.4.99.60	cobalt-precorrin-8 methylmutase
+cobalt-precorrin 8 isomerase	5.4.99.60	cobalt-precorrin-8 methylmutase
+Precorrin isomerase	5.4.99.61	precorrin-8X methylmutase
+Hydrogenobyrinic acid-binding protein	5.4.99.61	precorrin-8X methylmutase
+Gene cbiC precorrin-8x isomerase	5.4.99.61	precorrin-8X methylmutase
+Gene cobH precorrin-8x isomerase	5.4.99.61	precorrin-8X methylmutase
+Mutase, precorrin 8x	5.4.99.61	precorrin-8X methylmutase
+Isomerase, precorrin (Methanobacterium thermoautothrophicum strainDELTAH gene MTH227)	5.4.99.61	precorrin-8X methylmutase
+GenBank AE000809-derived protein GI 2621284	5.4.99.61	precorrin-8X methylmutase
+Isomerase, precorrin (Methanococcus jannaschii gene MJ0930)	5.4.99.61	precorrin-8X methylmutase
+GenBank U67537-derived protein GI 1499765	5.4.99.61	precorrin-8X methylmutase
+CoBH	5.4.99.61	precorrin-8X methylmutase
+RbsD	5.4.99.62	D-ribose pyranase
+FucU	5.4.99.62	D-ribose pyranase
+gene name	5.4.99.63	ethylmalonyl-CoA mutase
+ethylmalonyl-CoA mutase	5.4.99.63	ethylmalonyl-CoA mutase
+Ecm	5.4.99.63	ethylmalonyl-CoA mutase
+ethylmalonyl coenzyme A mutase	5.4.99.63	ethylmalonyl-CoA mutase
+gene name	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+2-hydroxyisobutyryl-CoA mutase	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+HcmA	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+HcmB	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+HCM	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+RcmA	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+RcmB	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+gene name, subunit RcmA	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+gene name, subunit RcmB	5.4.99.64	2-hydroxyisobutanoyl-CoA mutase
+Lcc	5.4.99.65	pre-alpha-onocerin synthase
+LCD	5.4.99.66	alpha-onocerin synthase
+2,3-Epoxysqualene-lanosterol cyclase	5.4.99.7	Lanosterol synthase
+2,3-Oxidosqualene-lanosterol cyclase	5.4.99.7	Lanosterol synthase
+2,3-Epoxysqualene lanosterol-cyclase	5.4.99.7	Lanosterol synthase
+2,3-Oxidosqualene sterol cyclase	5.4.99.7	Lanosterol synthase
+Cyclase, 2,3-oxidosqualene-lanosterol	5.4.99.7	Lanosterol synthase
+Lanosterol 2,3-oxidosqualene cyclase	5.4.99.7	Lanosterol synthase
+Squalene 2,3-oxide-lanosterol cyclase	5.4.99.7	Lanosterol synthase
+Squalene epoxidase-cyclase	5.4.99.7	Lanosterol synthase
+Squalene-2,3-oxide-lanosterol cyclase	5.4.99.7	Lanosterol synthase
+Squalene 2,3-epoxide:lanosterol cyclase	5.4.99.7	Lanosterol synthase
+2,3-epoxysqualene--lanosterol cyclase	5.4.99.7	Lanosterol synthase
+Oxidosqualene--lanosterol cyclase	5.4.99.7	Lanosterol synthase
+2,3-Oxidosqualene cyclase	5.4.99.7	Lanosterol synthase
+OSC	5.4.99.7	Lanosterol synthase
+2,3 oxidosqualene:lanosterol cyclase	5.4.99.7	Lanosterol synthase
+OSLC	5.4.99.7	Lanosterol synthase
+hOSC	5.4.99.7	Lanosterol synthase
+2,3-oxidosqualene:lanosterol cyclase	5.4.99.7	Lanosterol synthase
+2,3-oxidosqualene cyclase-lanosterol synthase	5.4.99.7	Lanosterol synthase
+oxidosqualene:lanosterol cyclase	5.4.99.7	Lanosterol synthase
+lanosterol synthase	5.4.99.7	Lanosterol synthase
+Oxidosqualene cyclase	5.4.99.7	Lanosterol synthase
+Erg7p	5.4.99.7	Lanosterol synthase
+Oxidosqualene-lanosterol cyclase	5.4.99.7	Lanosterol synthase
+SceOSC	5.4.99.7	Lanosterol synthase
+oxidosqualene cyclase/lanosterol synthase	5.4.99.7	Lanosterol synthase
+gene name	5.4.99.7	Lanosterol synthase
+LAS1	5.4.99.7	Lanosterol synthase
+LAS	5.4.99.7	Lanosterol synthase
+2,3-Epoxysqualene cycloartenol-cyclase	5.4.99.8	Cycloartenol synthase
+Cyclase, 2,3-oxidosqualene-cycloartenol	5.4.99.8	Cycloartenol synthase
+2,3-Epoxysqualene-cycloartenol cyclase	5.4.99.8	Cycloartenol synthase
+2,3-Oxidosqualene-cycloartenol cyclase	5.4.99.8	Cycloartenol synthase
+2,3-Oxidosqualene cycloartenol cyclase	5.4.99.8	Cycloartenol synthase
+2,3-Oxidosqualene:cycloartenol cyclase	5.4.99.8	Cycloartenol synthase
+2,3-epoxysqualene--cycloartenol cyclase	5.4.99.8	Cycloartenol synthase
+Oxidosqualene cyclase	5.4.99.8	Cycloartenol synthase
+OSC	5.4.99.8	Cycloartenol synthase
+CaCYS	5.4.99.8	Cycloartenol synthase
+ACX	5.4.99.8	Cycloartenol synthase
+PNX	5.4.99.8	Cycloartenol synthase
+OSC/CS	5.4.99.8	Cycloartenol synthase
+CAS1	5.4.99.8	Cycloartenol synthase
+AthCAS1	5.4.99.8	Cycloartenol synthase
+AtCAS1	5.4.99.8	Cycloartenol synthase
+cycloartenol synthase 1	5.4.99.8	Cycloartenol synthase
+CAS	5.4.99.8	Cycloartenol synthase
+cycloartenol synthase	5.4.99.8	Cycloartenol synthase
+Mutase, uridine diphosphogalactopyranose	5.4.99.9	UDP-galactopyranose mutase
+UDP-Gal mutase	5.4.99.9	UDP-galactopyranose mutase
+the keyenzyme of galactofuranose metabolism controls the biosynthesis ofgalactomannan and galactofuranose containing glycoconjugates	5.4.99.9	UDP-galactopyranose mutase
+UDP-galactopyranose mutase	5.4.99.9	UDP-galactopyranose mutase
+mutase	5.4.99.9	UDP-galactopyranose mutase
+Campylobacter jejuni UNGM has UGM activity inEscherichia coli	5.4.99.9	UDP-galactopyranose mutase
+uridine 5'-diphosphate galactopyranose mutase	5.4.99.9	UDP-galactopyranose mutase
+uridine 5'-diphosphate galactopyranosemutase	5.4.99.9	UDP-galactopyranose mutase
+UgmA	5.4.99.9	UDP-galactopyranose mutase
+GLF-1	5.4.99.9	UDP-galactopyranose mutase
+GLF gene product	5.4.99.9	UDP-galactopyranose mutase
+UDP-Galp mutase	5.4.99.9	UDP-galactopyranose mutase
+UDP-D-galactopyranose mutase	5.4.99.9	UDP-galactopyranose mutase
+Glf	5.4.99.9	UDP-galactopyranose mutase
+galactopyranose mutase	5.4.99.9	UDP-galactopyranose mutase

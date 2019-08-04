@@ -1,0 +1,722 @@
+synonyms	ec_number	recommended_name
+Acetyl activating enzyme	6.2.1.1	acetate-CoA ligase
+Acetate thiokinase	6.2.1.1	acetate-CoA ligase
+Acyl-activating enzyme	6.2.1.1	acetate-CoA ligase
+Acetyl CoA synthase	6.2.1.1	acetate-CoA ligase
+Short chain fatty acyl-CoA synthetase	6.2.1.1	acetate-CoA ligase
+Acetic thiokinase	6.2.1.1	acetate-CoA ligase
+Acetyl CoA ligase	6.2.1.1	acetate-CoA ligase
+Short-chain acyl-coenzyme A synthetase	6.2.1.1	acetate-CoA ligase
+Synthetase, acetyl coenzyme A	6.2.1.1	acetate-CoA ligase
+AceCS	6.2.1.1	acetate-CoA ligase
+Acetate--CoA ligase	6.2.1.1	acetate-CoA ligase
+AMP-forming acetyl-CoA synthetase	6.2.1.1	acetate-CoA ligase
+MT-ACS1	6.2.1.1	acetate-CoA ligase
+Acetyl coenzyme A synthetase	6.2.1.1	acetate-CoA ligase
+Acetyl-CoA synthetase	6.2.1.1	acetate-CoA ligase
+AcsA	6.2.1.1	acetate-CoA ligase
+ADP-forming acetyl-CoA synthetase	6.2.1.1	acetate-CoA ligase
+ACD	6.2.1.1	acetate-CoA ligase
+Acetyl-coenzyme A synthase	6.2.1.1	acetate-CoA ligase
+bifunctional enzyme	6.2.1.1	acetate-CoA ligase
+ACS/CODH	6.2.1.1	acetate-CoA ligase
+carbon monoxide dehydrogenase/acetyl-CoA synthase	6.2.1.1	acetate-CoA ligase
+acetyl-coenzyme A synthase/carbon monoxide dehydrogenase	6.2.1.1	acetate-CoA ligase
+bifunctional enzyme	6.2.1.1	acetate-CoA ligase
+acetyl coenzyme A synthase/carbon monoxide dehydrogenase	6.2.1.1	acetate-CoA ligase
+mtCODH/ACS	6.2.1.1	acetate-CoA ligase
+Acetyl-CoA synthase	6.2.1.1	acetate-CoA ligase
+SeAcs	6.2.1.1	acetate-CoA ligase
+Acyl-CoA synthetase	6.2.1.1	acetate-CoA ligase
+AMP-forming CoA ligase	6.2.1.1	acetate-CoA ligase
+acetyl-coenzyme A synthetase	6.2.1.1	acetate-CoA ligase
+isoform	6.2.1.1	acetate-CoA ligase
+isoform	6.2.1.1	acetate-CoA ligase
+isoform	6.2.1.1	acetate-CoA ligase
+acetyl CoA synthetase	6.2.1.1	acetate-CoA ligase
+AF-ACS2	6.2.1.1	acetate-CoA ligase
+adenosine monophosphate-forming acetyl-CoA synthetase	6.2.1.1	acetate-CoA ligase
+acetate:CoA ligase (AMP-forming)	6.2.1.1	acetate-CoA ligase
+liver enzyme, 45.8% amino acid identity between AceCS1and AceCS2	6.2.1.1	acetate-CoA ligase
+ACSS2	6.2.1.1	acetate-CoA ligase
+heart enzyme, 45.8% amino acid identity betweenAceCS1 and AceCS2	6.2.1.1	acetate-CoA ligase
+ACAS	6.2.1.1	acetate-CoA ligase
+isoform	6.2.1.1	acetate-CoA ligase
+AMP-Acs	6.2.1.1	acetate-CoA ligase
+AMP acetyl-coenzyme A synthetase	6.2.1.1	acetate-CoA ligase
+acetyl-CoA synthetase short-chain family member 2	6.2.1.1	acetate-CoA ligase
+ACS	6.2.1.1	acetate-CoA ligase
+AMP-forming acetyl coenzyme A synthetase	6.2.1.1	acetate-CoA ligase
+AMP-dependent ACS	6.2.1.1	acetate-CoA ligase
+locus name	6.2.1.1	acetate-CoA ligase
+Acs1p	6.2.1.1	acetate-CoA ligase
+AMP-forming ACS	6.2.1.1	acetate-CoA ligase
+ACD belongs to the protein superfamily ofnucleoside diphosphate-forming acyl-CoA synthetases	6.2.1.1	acetate-CoA ligase
+isoform	6.2.1.1	acetate-CoA ligase
+acetyl-CoA synthetase 2	6.2.1.1	acetate-CoA ligase
+Acs2p	6.2.1.1	acetate-CoA ligase
+Acyl-CoA synthetase (GDP-forming)	6.2.1.10	carboxylic acid-CoA ligase (GDP-forming)
+Synthetase, acyl coenzyme A (guanosine diphosphate-forming)	6.2.1.10	carboxylic acid-CoA ligase (GDP-forming)
+Acyl coenzyme A synthetase (GDP-forming)	6.2.1.10	carboxylic acid-CoA ligase (GDP-forming)
+GTP-dependent acyl-CoA synthetase	6.2.1.10	carboxylic acid-CoA ligase (GDP-forming)
+Acid-CoA ligase (GDP)	6.2.1.10	carboxylic acid-CoA ligase (GDP-forming)
+Acid:CoA ligase (GDP)	6.2.1.10	carboxylic acid-CoA ligase (GDP-forming)
+Synthetase, biotinyl coenzyme A	6.2.1.11	biotin-CoA ligase
+Biotinyl coenzyme A synthetase	6.2.1.11	biotin-CoA ligase
+Biotinyl CoA synthetase	6.2.1.11	biotin-CoA ligase
+Biotinyl-CoA synthetase	6.2.1.11	biotin-CoA ligase
+4-Coumaryl-CoA synthetase	6.2.1.12	4-coumarate-CoA ligase
+Synthetase, p-coumaroyl coenzyme A	6.2.1.12	4-coumarate-CoA ligase
+p-Coumaroyl CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+p-Coumaryl coenzyme A synthetase	6.2.1.12	4-coumarate-CoA ligase
+p-Coumaryl-CoA synthetase	6.2.1.12	4-coumarate-CoA ligase
+p-Coumaryl-CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+Feruloyl CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+Hydroxycinnamoyl CoA synthetase	6.2.1.12	4-coumarate-CoA ligase
+Sinapoyl coenzyme A snthetase	6.2.1.12	4-coumarate-CoA ligase
+Feruloyl coenzyme A synthetase	6.2.1.12	4-coumarate-CoA ligase
+p-Hydroxycinnamoyl coenzyme A synthetase	6.2.1.12	4-coumarate-CoA ligase
+Caffeolyl coenzyme A synthetase	6.2.1.12	4-coumarate-CoA ligase
+p-Hydroxycinnamic acid:CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+Hydroxy-cinnamate:CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+Hydroxycinnamate:CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+4-coumaroyl-CoA synthase	6.2.1.12	4-coumarate-CoA ligase
+Clone 4CL14	6.2.1.12	4-coumarate-CoA ligase
+Clone 4CL16	6.2.1.12	4-coumarate-CoA ligase
+4-coumaroyl:CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+4CL	6.2.1.12	4-coumarate-CoA ligase
+4-coumarate: CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+coumarate:CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+4-coumarate:coenzyme-A ligase-1	6.2.1.12	4-coumarate-CoA ligase
+4-coumarate::CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+4-Coumarate:coenzyme A ligase	6.2.1.12	4-coumarate-CoA ligase
+4-coumaroyl-CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+isozyme	6.2.1.12	4-coumarate-CoA ligase
+4-coumarate:coenzyme A (CoA) ligase	6.2.1.12	4-coumarate-CoA ligase
+type I 4CL	6.2.1.12	4-coumarate-CoA ligase
+isozyme	6.2.1.12	4-coumarate-CoA ligase
+4-coumarate: coenzyme A ligase	6.2.1.12	4-coumarate-CoA ligase
+4-CL	6.2.1.12	4-coumarate-CoA ligase
+4-coumarate/coenzyme A ligase	6.2.1.12	4-coumarate-CoA ligase
+p-coumaroyl-CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+LJ4CL1	6.2.1.12	4-coumarate-CoA ligase
+4-coumaroyl CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+4-coumaroyl coenzyme A ligase	6.2.1.12	4-coumarate-CoA ligase
+At4CL1	6.2.1.12	4-coumarate-CoA ligase
+Os4Cl3	6.2.1.12	4-coumarate-CoA ligase
+4-coumarate coenzyme A ligase	6.2.1.12	4-coumarate-CoA ligase
+4-coumarate:CoA-ligase	6.2.1.12	4-coumarate-CoA ligase
+isozyme	6.2.1.12	4-coumarate-CoA ligase
+isozyme	6.2.1.12	4-coumarate-CoA ligase
+isozyme	6.2.1.12	4-coumarate-CoA ligase
+isozyme	6.2.1.12	4-coumarate-CoA ligase
+isozyme	6.2.1.12	4-coumarate-CoA ligase
+Os4Cl1	6.2.1.12	4-coumarate-CoA ligase
+Os4Cl2	6.2.1.12	4-coumarate-CoA ligase
+Os4Cl4	6.2.1.12	4-coumarate-CoA ligase
+Os4Cl5	6.2.1.12	4-coumarate-CoA ligase
+OS4CL	6.2.1.12	4-coumarate-CoA ligase
+OB4CL_ctg4	6.2.1.12	4-coumarate-CoA ligase
+Ar4CL	6.2.1.12	4-coumarate-CoA ligase
+Pl4CL1	6.2.1.12	4-coumarate-CoA ligase
+4-coumarate:CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+Pl4CL2	6.2.1.12	4-coumarate-CoA ligase
+Hc4CL	6.2.1.12	4-coumarate-CoA ligase
+Sa4CL1	6.2.1.12	4-coumarate-CoA ligase
+Sa4CL2	6.2.1.12	4-coumarate-CoA ligase
+Sa4CL3	6.2.1.12	4-coumarate-CoA ligase
+CarB	6.2.1.12	4-coumarate-CoA ligase
+caffeoyl-coenzyme A synthetase	6.2.1.12	4-coumarate-CoA ligase
+caffeoyl-CoA synthetase	6.2.1.12	4-coumarate-CoA ligase
+caffeoyl-CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+isoform	6.2.1.12	4-coumarate-CoA ligase
+isoform	6.2.1.12	4-coumarate-CoA ligase
+4-coumarate CoA ligase	6.2.1.12	4-coumarate-CoA ligase
+isoform	6.2.1.12	4-coumarate-CoA ligase
+Synthetase, acetyl coenzyme A (adenosine diphosphate-forming)	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ACD	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ADP-forming acetyl-CoA synthetase	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ADP-forming acetyl-CoA synthetase isoenzyme I	6.2.1.13	acetate-CoA ligase (ADP-forming)
+Acetyl-CoA synthetase (ADP-forming)	6.2.1.13	acetate-CoA ligase (ADP-forming)
+acetate:coenzyme A ligase (ADP-forming)	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ADP acetyl-coenzyme A synthetase	6.2.1.13	acetate-CoA ligase (ADP-forming)
+acetyl-coenzyme A synthetase (ADP-forming)	6.2.1.13	acetate-CoA ligase (ADP-forming)
+gene name, beta-subunit	6.2.1.13	acetate-CoA ligase (ADP-forming)
+gene name alpha subunit	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ACS1	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ACS2	6.2.1.13	acetate-CoA ligase (ADP-forming)
+TK0944/TK0943 protein	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ADP-forming acyl coenzyme A synthetase	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ADP-forming acyl-CoA synthetase	6.2.1.13	acetate-CoA ligase (ADP-forming)
+isoform	6.2.1.13	acetate-CoA ligase (ADP-forming)
+EhACD	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ADP-forming acetyl-coenzyme A synthetase	6.2.1.13	acetate-CoA ligase (ADP-forming)
+acetate:CoA ligase [ADP-forming]	6.2.1.13	acetate-CoA ligase (ADP-forming)
+Acetyl-CoA synthetase	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ADP-ACS	6.2.1.13	acetate-CoA ligase (ADP-forming)
+acetyl-coenzyme A synthetase	6.2.1.13	acetate-CoA ligase (ADP-forming)
+ACS	6.2.1.13	acetate-CoA ligase (ADP-forming)
+6-Carboxyhexanoyl-CoA synthetase	6.2.1.14	6-carboxyhexanoate-CoA ligase
+Synthetase, pimelyl coenzyme A	6.2.1.14	6-carboxyhexanoate-CoA ligase
+6-Carboxyhexanoate-CoA synthetase	6.2.1.14	6-carboxyhexanoate-CoA ligase
+Pimeloyl-CoA synthase	6.2.1.14	6-carboxyhexanoate-CoA ligase
+Pimelyl-CoA synthetase	6.2.1.14	6-carboxyhexanoate-CoA ligase
+Pimeloyl-CoA synthetase	6.2.1.14	6-carboxyhexanoate-CoA ligase
+BioW	6.2.1.14	6-carboxyhexanoate-CoA ligase
+AaBioW	6.2.1.14	6-carboxyhexanoate-CoA ligase
+BaBioW	6.2.1.14	6-carboxyhexanoate-CoA ligase
+Arachidonoyl-CoA synthetase	6.2.1.15	arachidonate-CoA ligase
+Acyl-CoA synthetase	6.2.1.15	arachidonate-CoA ligase
+FACL4	6.2.1.15	arachidonate-CoA ligase
+ACSL4	6.2.1.15	arachidonate-CoA ligase
+Synthetase, acetoacetyl coenzyme A	6.2.1.16	acetoacetate-CoA ligase
+Acetoacetyl CoA synthetase	6.2.1.16	acetoacetate-CoA ligase
+Acetoacetyl-CoA synthase	6.2.1.16	acetoacetate-CoA ligase
+Acetoacetyl-coenzyme A synthetase	6.2.1.16	acetoacetate-CoA ligase
+Acetoacetate--CoA ligase	6.2.1.16	acetoacetate-CoA ligase
+gene name	6.2.1.16	acetoacetate-CoA ligase
+Acetoacetyl-CoA synthetase	6.2.1.16	acetoacetate-CoA ligase
+gene name	6.2.1.16	acetoacetate-CoA ligase
+Acetoacetyl-CoA ligase	6.2.1.16	acetoacetate-CoA ligase
+Aacl	6.2.1.16	acetoacetate-CoA ligase
+SlAacS	6.2.1.16	acetoacetate-CoA ligase
+Synthetase, propionyl coenzyme A	6.2.1.17	propionate-CoA ligase
+Propionate-CoA synthetase	6.2.1.17	propionate-CoA ligase
+Propionyl CoA synthetase	6.2.1.17	propionate-CoA ligase
+ACSS3	6.2.1.17	propionate-CoA ligase
+PrpE	6.2.1.17	propionate-CoA ligase
+Propionyl-CoA synthase	6.2.1.17	propionate-CoA ligase
+Propionyl-coenzyme A synthetase	6.2.1.17	propionate-CoA ligase
+Propionyl-CoA synthetase	6.2.1.17	propionate-CoA ligase
+3-hydroxypropionyl-coenzyme A synthetase	6.2.1.17	propionate-CoA ligase
+3-hydroxypropionyl-CoA synthetase	6.2.1.17	propionate-CoA ligase
+CCS	6.2.1.18	citrate-CoA ligase
+citryl-CoA synthetase	6.2.1.18	citrate-CoA ligase
+Acyl-protein synthetase	6.2.1.19	long-chain-fatty-acid-protein ligase
+synthetase, acyl protein	6.2.1.19	long-chain-fatty-acid-protein ligase
+Acyl protein synthetase	6.2.1.19	long-chain-fatty-acid-protein ligase
+long-chain-fatty-acid-luciferin-component ligase	6.2.1.19	long-chain-fatty-acid-protein ligase
+Acyl-activating enzyme	6.2.1.2	medium-chain acyl-CoA ligase
+Synthetase, butyryl conzyme A	6.2.1.2	medium-chain acyl-CoA ligase
+Butyryl-CoA synthetase	6.2.1.2	medium-chain acyl-CoA ligase
+Fatty acid thiokinase (medium chain)	6.2.1.2	medium-chain acyl-CoA ligase
+Butyryl-coenzyme A synthetase	6.2.1.2	medium-chain acyl-CoA ligase
+L-(+)-3-Hydroxybutyryl CoA ligase	6.2.1.2	medium-chain acyl-CoA ligase
+Short-chain acyl-CoA synthetase	6.2.1.2	medium-chain acyl-CoA ligase
+Medium chain acyl-coenzyme A synthetase	6.2.1.2	medium-chain acyl-CoA ligase
+butyrate-CoA ligase	6.2.1.2	medium-chain acyl-CoA ligase
+butanoate:CoA ligase (AMP-forming)	6.2.1.2	medium-chain acyl-CoA ligase
+Mig protein	6.2.1.2	medium-chain acyl-CoA ligase
+medium chain acyl-CoA synthase	6.2.1.2	medium-chain acyl-CoA ligase
+elongase	6.2.1.2	medium-chain acyl-CoA ligase
+EloA	6.2.1.2	medium-chain acyl-CoA ligase
+cf. 6.2.1.30	6.2.1.2	medium-chain acyl-CoA ligase
+medium-chain acyl coenzyme A synthetase	6.2.1.2	medium-chain acyl-CoA ligase
+Macs	6.2.1.2	medium-chain acyl-CoA ligase
+medium chain acyl-CoA synthetase	6.2.1.2	medium-chain acyl-CoA ligase
+XM-ligase	6.2.1.2	medium-chain acyl-CoA ligase
+medium-chain acyl-CoA synthetase 2	6.2.1.2	medium-chain acyl-CoA ligase
+MACS2	6.2.1.2	medium-chain acyl-CoA ligase
+xenobiotic/medium-chain fatty acid:CoA ligase	6.2.1.2	medium-chain acyl-CoA ligase
+Synthetase, acyl-[acyl carrier protein]	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+Acyl-[acyl carrier protein] synthetase	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+Acyl-[acyl-carrier-protein]synthetase	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+Stearoyl-ACP synthetase	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+gene name	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+Acyl-CoA synthetase	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+Acyl-CoA ligase	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+gene name	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+acyl carrier protein synthase	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+ACSL	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+acyl-ACP synthase	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+gene name	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+ACP synthase	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+gene name	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+gene name	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+gene name, UniProt	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+gene name	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+AcpS	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+Acyl-ACP synthetase	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+gene name	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+AasS	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+PfACP	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+Acyl-acyl carrier protein synthetase	6.2.1.20	long-chain-fatty-acid-[acyl-carrier-protein] ligase
+Citrate lyase ligase	6.2.1.22	[citrate (pro-3S)-lyase] ligase
+Citrate lyase synthetase	6.2.1.22	[citrate (pro-3S)-lyase] ligase
+Acetate:HS-citrate lyase ligase	6.2.1.22	[citrate (pro-3S)-lyase] ligase
+Citrate lyase acetylating enzyme	6.2.1.22	[citrate (pro-3S)-lyase] ligase
+Acetate:SH-citrate lyase ligase	6.2.1.22	[citrate (pro-3S)-lyase] ligase
+citrate (pro-3S)-lyase ligase	6.2.1.22	[citrate (pro-3S)-lyase] ligase
+[citrate (pro-3S)]-lyase ligase	6.2.1.22	[citrate (pro-3S)-lyase] ligase
+citrate ligase	6.2.1.22	[citrate (pro-3S)-lyase] ligase
+Carboxylyl-CoA synthetase	6.2.1.23	dicarboxylate-CoA ligase
+Phytanoyl-CoA ligase	6.2.1.24	phytanate-CoA ligase
+Phytanoyl-CoA synthetase	6.2.1.24	phytanate-CoA ligase
+Synthetase, phytanoyl coenzyme A	6.2.1.24	phytanate-CoA ligase
+Synthetase, benzoyl coenzyme A	6.2.1.25	benzoate-CoA ligase
+Benzoate coenzyme A ligase	6.2.1.25	benzoate-CoA ligase
+Benzoate-CoA ligase (AMP-forming)	6.2.1.25	benzoate-CoA ligase
+Benzoyl coenzyme A synthetase	6.2.1.25	benzoate-CoA ligase
+Benzoyl-CoA ligase	6.2.1.25	benzoate-CoA ligase
+Benzoyl-CoA synthetase	6.2.1.25	benzoate-CoA ligase
+benzoate-CoA ligase	6.2.1.25	benzoate-CoA ligase
+BamY	6.2.1.25	benzoate-CoA ligase
+BCLM	6.2.1.25	benzoate-CoA ligase
+benzoate CoA ligase	6.2.1.25	benzoate-CoA ligase
+Bcl	6.2.1.25	benzoate-CoA ligase
+gene name	6.2.1.25	benzoate-CoA ligase
+AMP-forming benzoate-CoA ligase	6.2.1.25	benzoate-CoA ligase
+AMP-forming BCL	6.2.1.25	benzoate-CoA ligase
+gene name	6.2.1.25	benzoate-CoA ligase
+gene name	6.2.1.25	benzoate-CoA ligase
+BzdA enzyme	6.2.1.25	benzoate-CoA ligase
+o-succinylbenzoyl-coenzyme A synthetase	6.2.1.26	O-succinylbenzoate-CoA ligase
+O-succinylbenzoate-CoA synthase	6.2.1.26	O-succinylbenzoate-CoA ligase
+synthetase, o-succinylbenzoyl coenzyme A	6.2.1.26	O-succinylbenzoate-CoA ligase
+OSB:CoA ligase	6.2.1.26	O-succinylbenzoate-CoA ligase
+o-succinylbenzoate-CoA synthetase	6.2.1.26	O-succinylbenzoate-CoA ligase
+OSB-CoA synthetase	6.2.1.26	O-succinylbenzoate-CoA ligase
+MenE	6.2.1.26	O-succinylbenzoate-CoA ligase
+o-succinylbenzoyl-CoA synthetase	6.2.1.26	O-succinylbenzoate-CoA ligase
+acyl-activating enzyme 14	6.2.1.26	O-succinylbenzoate-CoA ligase
+AAE14	6.2.1.26	O-succinylbenzoate-CoA ligase
+o-succinylbenzoyl-coenzyme A ligase	6.2.1.26	O-succinylbenzoate-CoA ligase
+OSB-CoA ligase	6.2.1.26	O-succinylbenzoate-CoA ligase
+BsMenE	6.2.1.26	O-succinylbenzoate-CoA ligase
+4-hydroxybenzoate-coenzyme A ligase (AMP-forming)	6.2.1.27	4-hydroxybenzoate-CoA ligase
+4-hydroxybenzoate-CoA synthetase	6.2.1.27	4-hydroxybenzoate-CoA ligase
+4-hydroxybenzoyl coenzyme A synthetase	6.2.1.27	4-hydroxybenzoate-CoA ligase
+synthetase, 4-hydroxybenzoyl coenzyme A	6.2.1.27	4-hydroxybenzoate-CoA ligase
+4-hydroxybenzoyl-CoA ligase	6.2.1.27	4-hydroxybenzoate-CoA ligase
+p-hydroxybenzoate-CoA ligase	6.2.1.27	4-hydroxybenzoate-CoA ligase
+p-hydroxybenzoate-CoA/benzoate-CoA ligase	6.2.1.27	4-hydroxybenzoate-CoA ligase
+bifunctional enzyme EC 6.2.1.27/6.2.1.37	6.2.1.27	4-hydroxybenzoate-CoA ligase
+4-hydroxybenzoate-CoA ligase	6.2.1.27	4-hydroxybenzoate-CoA ligase
+Synthetase, 3alpha,7alpha-dihydroxy-5beta-cholestanoyl coenzyme A	6.2.1.28	3alpha,7alpha-Dihydroxy-5beta-cholestanate-CoA ligase
+DHCA-CoA ligase	6.2.1.28	3alpha,7alpha-Dihydroxy-5beta-cholestanate-CoA ligase
+Acyl-activating enzyme	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Fatty acid thiokinase (long chain)	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Acyl coenzyme A synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Acyl-CoA ligase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Palmitoyl coenzyme A synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Thiokinase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Palmitoyl-CoA ligase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Acyl-coenzyme A ligase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Fatty acid CoA ligase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Long chain fatty acyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Palmityl-coenzyme A synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Long-chain fatty acyl coenzyme A synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Long chain fatty acyl CoA ligase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Oleoyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Stearoyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Fatty acyl-coenzyme A synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Fatty-acyl-CoA ligase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+LCFA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Pristanoyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Acyl-CoA synthetase 3	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FAA1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Long-chain acyl-CoA synthetase I	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Long-chain acyl-CoA synthetase II	6.2.1.3	long-chain-fatty-acid-CoA ligase
+mACS4	6.2.1.3	long-chain-fatty-acid-CoA ligase
+dAcsl	6.2.1.3	long-chain-fatty-acid-CoA ligase
+acyl-CoA synthetase long-chain	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain acyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACSL	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FatB	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FatA	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FaaB	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FatC	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FatD	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FaaA	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACSL2	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+OPC-8:CoA ligase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+OPCL1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+protein At1g20510	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain acyl-CoA synthetase 1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+gonadotropin-regulated long-chain acyl CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain acyl-CoA synthetase-1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+bifunctional enzyme,exhibiting both fatty acid transport and acyl-CoA synthetase activities	6.2.1.3	long-chain-fatty-acid-CoA ligase
+acyl-CoA synthetase-1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain acyl-CoA synthetase 4	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain acyl coenzyme A synthetase 1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+bubblegum-related protein	6.2.1.3	long-chain-fatty-acid-CoA ligase
+BGR	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Acyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACS	6.2.1.3	long-chain-fatty-acid-CoA ligase
+bifunctional enzyme, exhibiting both fatty acidtransport and acyl-CoA synthetase activities	6.2.1.3	long-chain-fatty-acid-CoA ligase
+GR-LACS	6.2.1.3	long-chain-fatty-acid-CoA ligase
+lipidosin	6.2.1.3	long-chain-fatty-acid-CoA ligase
+prefers longer chain polyunsaturated fattyacids as substrates	6.2.1.3	long-chain-fatty-acid-CoA ligase
+TbACS1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+TbACS3	6.2.1.3	long-chain-fatty-acid-CoA ligase
+TbACS4	6.2.1.3	long-chain-fatty-acid-CoA ligase
+acyl-CoA synthase-3	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACS-3	6.2.1.3	long-chain-fatty-acid-CoA ligase
+MenE	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain fatty acyl coenzyme A ligase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FadD2	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Long-chain acyl CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+luciferase-like protein	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain polyunsaturated fatty acid acyl-coenzyme A synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain fatty acid CoA ligase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+fatty acid CoA synthetase; AMP forming	6.2.1.3	long-chain-fatty-acid-CoA ligase
+LC-FACS	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACS6	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACS3	6.2.1.3	long-chain-fatty-acid-CoA ligase
+acyl-CoA synthetase 4	6.2.1.3	long-chain-fatty-acid-CoA ligase
+YER015W	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Fat2p	6.2.1.3	long-chain-fatty-acid-CoA ligase
+YBR222C	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Fat1p	6.2.1.3	long-chain-fatty-acid-CoA ligase
+YBR041W	6.2.1.3	long-chain-fatty-acid-CoA ligase
+fatty acyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FACS	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain acyl-CoA synthetase 5	6.2.1.3	long-chain-fatty-acid-CoA ligase
+CG6178	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long fatty acyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACSL6_v3	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACSL6 protein	6.2.1.3	long-chain-fatty-acid-CoA ligase
+fatty acid-CoA ligase 4	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FACL4	6.2.1.3	long-chain-fatty-acid-CoA ligase
+acyl-CoA synthetase long-chain family member 4	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain fatty acid:CoA ligase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain fatty acyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain fatty-acid-CoA ligase 3	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FACL3/ACS3	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACSL6_v5	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACSL6_v6	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FACL3	6.2.1.3	long-chain-fatty-acid-CoA ligase
+very long chain acyl-CoA synthetase 1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Acsvl1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FATP2	6.2.1.3	long-chain-fatty-acid-CoA ligase
+fatty acid transport protein 2	6.2.1.3	long-chain-fatty-acid-CoA ligase
+FATP	6.2.1.3	long-chain-fatty-acid-CoA ligase
+acyl-CoA synthetase belongs to thesuperfamily of adenylate-forming enzymes, whose three-dimensionalstructures are analogous to one another	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long chain acyl-CoA synthetase 3	6.2.1.3	long-chain-fatty-acid-CoA ligase
+acyl-CoA synthetase 5	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain acyl-CoA synthetases	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACSL6_v1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+specifically required for incorporation offatty acids into phosphatidylcholine	6.2.1.3	long-chain-fatty-acid-CoA ligase
+LACS	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+isoform	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long chain acyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+fatty acid transport protein 4	6.2.1.3	long-chain-fatty-acid-CoA ligase
+putative long-chain acyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+PhpLL1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+AcsA	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACS5	6.2.1.3	long-chain-fatty-acid-CoA ligase
+gonadotropin-regulated long chain acyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+R-ibuprofenoyl-CoA synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACS2	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long chain acyl-CoA synthetase 2	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long chain fatty acyl-CoA synthetase 5	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACS-5	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Long-chain acyl-coenzyme A synthetase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+gene name	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long chain acyl-CoA synthetase 4	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long chain acyl-CoA synthetase 5	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long-chain acyl-CoA synthetase 6	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACSL6_v2	6.2.1.3	long-chain-fatty-acid-CoA ligase
+long chain acyl-CoA synthetase 1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACS4	6.2.1.3	long-chain-fatty-acid-CoA ligase
+ACS1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+luciferase-like gene	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Abll	6.2.1.3	long-chain-fatty-acid-CoA ligase
+MALCE1	6.2.1.3	long-chain-fatty-acid-CoA ligase
+in the peroxisome	6.2.1.3	long-chain-fatty-acid-CoA ligase
+fatty acid CoA ligase: AMP forming	6.2.1.3	long-chain-fatty-acid-CoA ligase
+in membrane and cytosol	6.2.1.3	long-chain-fatty-acid-CoA ligase
+in the membrane	6.2.1.3	long-chain-fatty-acid-CoA ligase
+Faa2p	6.2.1.3	long-chain-fatty-acid-CoA ligase
+fatty acid thiokinase	6.2.1.3	long-chain-fatty-acid-CoA ligase
+fatty acid:CoA ligase, AMP-forming	6.2.1.3	long-chain-fatty-acid-CoA ligase
+LCFACoAS	6.2.1.3	long-chain-fatty-acid-CoA ligase
+phenylacetyl-CoA ligase	6.2.1.30	phenylacetate-CoA ligase
+phenylacetyl-CoA ligase (AMP-forming)	6.2.1.30	phenylacetate-CoA ligase
+EC 6.2.1.21	6.2.1.30	phenylacetate-CoA ligase
+phenyl/phenoxyacetic acid activating enzyme	6.2.1.30	phenylacetate-CoA ligase
+synthetase, phenacyl coenzyme A	6.2.1.30	phenylacetate-CoA ligase
+phenyl/phenoxyacetyl-CoA-ligase	6.2.1.30	phenylacetate-CoA ligase
+phlB	6.2.1.30	phenylacetate-CoA ligase
+cf. 6.2.1.2	6.2.1.30	phenylacetate-CoA ligase
+PaaK1	6.2.1.30	phenylacetate-CoA ligase
+PaaK2	6.2.1.30	phenylacetate-CoA ligase
+gene name	6.2.1.30	phenylacetate-CoA ligase
+PAA-CoA ligase	6.2.1.30	phenylacetate-CoA ligase
+Phl protein	6.2.1.30	phenylacetate-CoA ligase
+phenylacetyl CoA ligase	6.2.1.30	phenylacetate-CoA ligase
+PCL	6.2.1.30	phenylacetate-CoA ligase
+PA-CoA ligase	6.2.1.30	phenylacetate-CoA ligase
+phenylacetyl-coenzyme A ligase	6.2.1.30	phenylacetate-CoA ligase
+styrene-specific PA-CoA ligase	6.2.1.30	phenylacetate-CoA ligase
+PaaF2	6.2.1.30	phenylacetate-CoA ligase
+Synthetase, 2-furoyl coenzyme A	6.2.1.31	2-furoate-CoA ligase
+synthetase, anthraniloyl coenzyme A	6.2.1.32	anthranilate-CoA ligase
+2-aminobenzoate-CoA ligase	6.2.1.32	anthranilate-CoA ligase
+2-aminobenzoate-coenzyme A ligase	6.2.1.32	anthranilate-CoA ligase
+2-aminobenzoate coenzyme A ligase	6.2.1.32	anthranilate-CoA ligase
+gene name	6.2.1.32	anthranilate-CoA ligase
+anthranilate-coenzyme A ligase	6.2.1.32	anthranilate-CoA ligase
+anthranilate-CoA ligase	6.2.1.32	anthranilate-CoA ligase
+Synthetase, 4-chlorobenzoyl coenzyme A	6.2.1.33	4-chlorobenzoate-CoA ligase
+4-Chlorobenzoyl-CoA ligase	6.2.1.33	4-chlorobenzoate-CoA ligase
+4-Chlorobenzoyl-coenzyme A ligase	6.2.1.33	4-chlorobenzoate-CoA ligase
+4-CBA:CoA ligase	6.2.1.33	4-chlorobenzoate-CoA ligase
+4-Halobenzoate-coenzyme A ligase	6.2.1.33	4-chlorobenzoate-CoA ligase
+4-CB:CoA ligase	6.2.1.33	4-chlorobenzoate-CoA ligase
+CBAL	6.2.1.33	4-chlorobenzoate-CoA ligase
+chlorobenzoate:CoA ligase	6.2.1.33	4-chlorobenzoate-CoA ligase
+4-Chlorobenzoate:coenzyme A ligase	6.2.1.33	4-chlorobenzoate-CoA ligase
+CBL	6.2.1.33	4-chlorobenzoate-CoA ligase
+4-chlorobenzoate:CoA ligase	6.2.1.33	4-chlorobenzoate-CoA ligase
+trans-feruloyl-CoA synthetase	6.2.1.34	trans-feruloyl-CoA synthase
+ferulate-CoA ligase	6.2.1.34	trans-feruloyl-CoA synthase
+[acyl-carrier protein]:acetate ligase	6.2.1.35	acetate-[acyl-carrier protein] ligase
+ACP-SH:acetate ligase	6.2.1.35	acetate-[acyl-carrier protein] ligase
+HS-acyl-carrier protein:acetate ligase	6.2.1.35	acetate-[acyl-carrier protein] ligase
+S01.274	6.2.1.35	acetate-[acyl-carrier protein] ligase
+3-hydroxypropionyl-CoA synthetase (AMP-forming)	6.2.1.36	3-hydroxypropionyl-CoA synthase
+3HBL	6.2.1.37	3-hydroxybenzoate-CoA ligase
+bifunctional enzyme EC 6.2.1.27/6.2.1.37	6.2.1.37	3-hydroxybenzoate-CoA ligase
+3-hydroxybenzoyl-CoA synthetase	6.2.1.37	3-hydroxybenzoate-CoA ligase
+3-hydroxybenzoate—coenzyme A ligase (AMP-forming)	6.2.1.37	3-hydroxybenzoate-CoA ligase
+3-hydroxybenzoyl coenzyme A synthetase	6.2.1.37	3-hydroxybenzoate-CoA ligase
+3-hydroxybenzoyl-CoA ligase	6.2.1.37	3-hydroxybenzoate-CoA ligase
+4-hydroxybenzoate-CoA ligase	6.2.1.37	3-hydroxybenzoate-CoA ligase
+2-oxo-DELTA3-4,5,5-trimethylcyclopentenylacetyl-CoA synthetase	6.2.1.38	(2,2,3-trimethyl-5-oxocyclopent-3-enyl)acetyl-CoA synthase
+2-oxo-3-4,5,5-trimethylcyclopentenylacetyl coenzyme A synthetase	6.2.1.38	(2,2,3-trimethyl-5-oxocyclopent-3-enyl)acetyl-CoA synthase
+2-oxo-3-4,5,5-trimethylcyclopentenylacetyl CoA synthetase	6.2.1.38	(2,2,3-trimethyl-5-oxocyclopent-3-enyl)acetyl-CoA synthase
+[BtrI acyl-carrier protein]L-glutamate ligase	6.2.1.39	[butirosin acyl-carrier protein]-L-glutamate ligase
+BtrJ	6.2.1.39	[butirosin acyl-carrier protein]-L-glutamate ligase
+Synthetase, succinyl coenzyme A (guanosine diphosphate-forming)	6.2.1.4	succinate-CoA ligase (GDP-forming)
+Succinyl-CoA synthetase (GDP-forming)	6.2.1.4	succinate-CoA ligase (GDP-forming)
+Succinyl coenzyme A synthetase (guanosine diphosphate-forming)	6.2.1.4	succinate-CoA ligase (GDP-forming)
+Succinate thiokinase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+Succinic thiokinase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+Succinyl coenzyme A synthetase (GDP-forming)	6.2.1.4	succinate-CoA ligase (GDP-forming)
+G-STK	6.2.1.4	succinate-CoA ligase (GDP-forming)
+SCS-alpha	6.2.1.4	succinate-CoA ligase (GDP-forming)
+SCS-betaG	6.2.1.4	succinate-CoA ligase (GDP-forming)
+SCS	6.2.1.4	succinate-CoA ligase (GDP-forming)
+Succinyl-CoA synthetase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+Succinyl CoA synthetase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+ScsA	6.2.1.4	succinate-CoA ligase (GDP-forming)
+Succinyl coenzyme A synthetase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+gene name	6.2.1.4	succinate-CoA ligase (GDP-forming)
+SUCLG1	6.2.1.4	succinate-CoA ligase (GDP-forming)
+GDP-forming SUCL	6.2.1.4	succinate-CoA ligase (GDP-forming)
+GTP-forming SUCL	6.2.1.4	succinate-CoA ligase (GDP-forming)
+SUCLG2	6.2.1.4	succinate-CoA ligase (GDP-forming)
+GTPSCS	6.2.1.4	succinate-CoA ligase (GDP-forming)
+SCS-beta	6.2.1.4	succinate-CoA ligase (GDP-forming)
+succinyl-CoA synthetase subunit beta	6.2.1.4	succinate-CoA ligase (GDP-forming)
+ATP-specific SCS	6.2.1.4	succinate-CoA ligase (GDP-forming)
+SCSalpha	6.2.1.4	succinate-CoA ligase (GDP-forming)
+SUCL	6.2.1.4	succinate-CoA ligase (GDP-forming)
+succinyl-CoA synthase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+GTP-specific SUCL	6.2.1.4	succinate-CoA ligase (GDP-forming)
+GTP-specific succinate:CoA ligase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+GTP-dependent succinate:CoA ligase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+succinate-CoA ligase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+G-SUCL	6.2.1.4	succinate-CoA ligase (GDP-forming)
+G-SCS	6.2.1.4	succinate-CoA ligase (GDP-forming)
+succinyl-coenzyme A synthetase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+GTP-specific succinyl-CoA synthetase	6.2.1.4	succinate-CoA ligase (GDP-forming)
+locus name	6.2.1.40	4-hydroxybutyrate-CoA ligase
+4-hydroxybutyrate-CoA ligase (AMP forming)	6.2.1.40	4-hydroxybutyrate-CoA ligase
+4-hydroxybutyrate-CoA synthetase	6.2.1.40	4-hydroxybutyrate-CoA ligase
+locus name	6.2.1.40	4-hydroxybutyrate-CoA ligase
+locus name	6.2.1.40	4-hydroxybutyrate-CoA ligase
+locus name	6.2.1.40	4-hydroxybutyrate-CoA ligase
+fadD3	6.2.1.41	3-[(3aS,4S,7aS)-7a-methyl-1
+HIP-CoA ligase	6.2.1.41	3-[(3aS,4S,7aS)-7a-methyl-1
+gene name	6.2.1.42	3-oxocholest-4-en-26-oate-CoA ligase
+steroid-CoA ligase	6.2.1.42	3-oxocholest-4-en-26-oate-CoA ligase
+NcsB2	6.2.1.43	2-hydroxy-7-methoxy-5-methyl-1-naphthoate-CoA ligase
+naphthoic acid/coenzyme A ligase	6.2.1.43	2-hydroxy-7-methoxy-5-methyl-1-naphthoate-CoA ligase
+naphthoyl CoA ligase	6.2.1.43	2-hydroxy-7-methoxy-5-methyl-1-naphthoate-CoA ligase
+3-methylmercaptopropionyl-CoA ligase	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+two forms of DmdB are present in the marineroseobacter Ruegeria pomeroyi DSS-3, RPO_DmdB1 and RPO_DmdB2	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+two forms of DmdB are present in the marineroseobacter Ruegeria pomeroyi DSS-3, RPO_DmdB1 and RPO_DmdB2	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+MMPA-CoA ligase	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+methylmercaptopropionate-coenzyme A ligase	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+PU_DmdB1	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+two forms of DmdB are present in the marineroseobacter Ruegeria pomeroyi DSS-3, RPO_DmdB1 and RPO_DmdB2	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+gene name	6.2.1.44	3-(methylthio)propionyl-CoA ligase
+ubiquitin protein ligase E1	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin activating enzyme	6.2.1.45	E1 ubiquitin-activating enzyme
+Uba1	6.2.1.45	E1 ubiquitin-activating enzyme
+E1	6.2.1.45	E1 ubiquitin-activating enzyme
+UBE1DC1	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-activating enzyme E1-domain containing 1	6.2.1.45	E1 ubiquitin-activating enzyme
+isoform	6.2.1.45	E1 ubiquitin-activating enzyme
+isoform	6.2.1.45	E1 ubiquitin-activating enzyme
+UBA5	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-like modifier-activating enzyme 5	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-activating enzyme 5	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-activating enzyme E1 domain-containing protein 1	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-like modifier-activating enzyme 1	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin activating enzyme E1	6.2.1.45	E1 ubiquitin-activating enzyme
+Uba3	6.2.1.45	E1 ubiquitin-activating enzyme
+NEDD8-activating enzyme E1 catalytic subunit	6.2.1.45	E1 ubiquitin-activating enzyme
+AtUBA2	6.2.1.45	E1 ubiquitin-activating enzyme
+Ub-activating enzyme	6.2.1.45	E1 ubiquitin-activating enzyme
+AtUBA1	6.2.1.45	E1 ubiquitin-activating enzyme
+Uba6	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-like modifier-activating enzyme 6	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-activating enzyme 6	6.2.1.45	E1 ubiquitin-activating enzyme
+non-canonical ubiquitin activating enzyme	6.2.1.45	E1 ubiquitin-activating enzyme
+UB activating enzyme	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-conjugating enzyme	6.2.1.45	E1 ubiquitin-activating enzyme
+Ub-activating ligase	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-activating enzyme (E1)	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin activating enzyme 2	6.2.1.45	E1 ubiquitin-activating enzyme
+UBA2	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-activating enzyme E1	6.2.1.45	E1 ubiquitin-activating enzyme
+E1 ubiquitin-activating enzyme	6.2.1.45	E1 ubiquitin-activating enzyme
+UBE1L2	6.2.1.45	E1 ubiquitin-activating enzyme
+E1	6.2.1.45	E1 ubiquitin-activating enzyme
+HsUba1a	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-activating enzyme, UBE1	6.2.1.45	E1 ubiquitin-activating enzyme
+Uba1a	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin E1	6.2.1.45	E1 ubiquitin-activating enzyme
+SUMO E1	6.2.1.45	E1 ubiquitin-activating enzyme
+ubiquitin-activating enzyme 1	6.2.1.45	E1 ubiquitin-activating enzyme
+UBE1	6.2.1.45	E1 ubiquitin-activating enzyme
+Ub E1 activating enzyme	6.2.1.45	E1 ubiquitin-activating enzyme
+UBA1p	6.2.1.45	E1 ubiquitin-activating enzyme
+L-allo-isoleucine:holo-[CmaA peptidyl-carrier protein] ligase	6.2.1.46	L-allo-isoleucine-holo-[CmaA peptidyl-carrier protein] ligase
+CmaE	6.2.1.46	L-allo-isoleucine-holo-[CmaA peptidyl-carrier protein] ligase
+CmaA	6.2.1.46	L-allo-isoleucine-holo-[CmaA peptidyl-carrier protein] ligase
+jamA	6.2.1.47	medium-chain-fatty-acid-[acyl-carrier-protein] ligase
+betaine-CoA ligase	6.2.1.48	carnitine-CoA ligase
+gene name	6.2.1.48	carnitine-CoA ligase
+gene name	6.2.1.49	long-chain fatty acid adenylyltransferase FadD28
+Succinate thiokinase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+Succinic thiokinase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+Synthetase, succinyl coenzyme A (adenosine diphosphate-forming)	6.2.1.5	succinate-CoA ligase (ADP-forming)
+Succinyl coenzyme A synthetase (adenosine diphosphate-forming)	6.2.1.5	succinate-CoA ligase (ADP-forming)
+A-STK	6.2.1.5	succinate-CoA ligase (ADP-forming)
+STK	6.2.1.5	succinate-CoA ligase (ADP-forming)
+SCS-beta	6.2.1.5	succinate-CoA ligase (ADP-forming)
+SCS-betaA	6.2.1.5	succinate-CoA ligase (ADP-forming)
+VEG239	6.2.1.5	succinate-CoA ligase (ADP-forming)
+VEG63	6.2.1.5	succinate-CoA ligase (ADP-forming)
+Vegetative protein 239	6.2.1.5	succinate-CoA ligase (ADP-forming)
+Vegetative protein 63	6.2.1.5	succinate-CoA ligase (ADP-forming)
+CG11963	6.2.1.5	succinate-CoA ligase (ADP-forming)
+Succinyl-CoA synthetase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+A-SCS	6.2.1.5	succinate-CoA ligase (ADP-forming)
+SCS-alpha	6.2.1.5	succinate-CoA ligase (ADP-forming)
+succinyl-CoA synthetase subunit alpha	6.2.1.5	succinate-CoA ligase (ADP-forming)
+ADP-forming succinyl-CoA synthetase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+ScsB	6.2.1.5	succinate-CoA ligase (ADP-forming)
+succinyl-CoA-synthetase (ATP)	6.2.1.5	succinate-CoA ligase (ADP-forming)
+AarC is predicted to be a class I CoAtransferase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+succinyl-CoA:acetate CoA-transferase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+SCACT	6.2.1.5	succinate-CoA ligase (ADP-forming)
+succinyl-coenzyme A:acetate CoA-transferase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+AarC	6.2.1.5	succinate-CoA ligase (ADP-forming)
+Succinyl coenzyme A synthetase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+gene name	6.2.1.5	succinate-CoA ligase (ADP-forming)
+SCS	6.2.1.5	succinate-CoA ligase (ADP-forming)
+ADP-forming SUCL	6.2.1.5	succinate-CoA ligase (ADP-forming)
+Succinyl-CoA synthetase (ADP-forming)	6.2.1.5	succinate-CoA ligase (ADP-forming)
+succinyl-CoA ligase (ATP-forming)	6.2.1.5	succinate-CoA ligase (ADP-forming)
+ATP-succinyl-CoA synthetase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+ATP-SCS	6.2.1.5	succinate-CoA ligase (ADP-forming)
+succinate coenzyme A ligase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+SucCD	6.2.1.5	succinate-CoA ligase (ADP-forming)
+locus name of subunit beta	6.2.1.5	succinate-CoA ligase (ADP-forming)
+locus name of subunit alpha	6.2.1.5	succinate-CoA ligase (ADP-forming)
+ATP-forming SUCL	6.2.1.5	succinate-CoA ligase (ADP-forming)
+SUCLA2	6.2.1.5	succinate-CoA ligase (ADP-forming)
+succinyl-CoA synthase ADP-forming beta subunit	6.2.1.5	succinate-CoA ligase (ADP-forming)
+SCS ADP-forming beta subunit	6.2.1.5	succinate-CoA ligase (ADP-forming)
+SCS A-beta	6.2.1.5	succinate-CoA ligase (ADP-forming)
+ADP-forming succinyl-CoA synthase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+SUCL	6.2.1.5	succinate-CoA ligase (ADP-forming)
+succinyl-CoA synthase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+ATP-specific SUCL	6.2.1.5	succinate-CoA ligase (ADP-forming)
+ATP-specific succinate:CoA ligase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+ATP-dependent succinate:CoA ligase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+A-SUCL	6.2.1.5	succinate-CoA ligase (ADP-forming)
+succinate-CoA ligase	6.2.1.5	succinate-CoA ligase (ADP-forming)
+4-hydroxybenzoate adenylas	6.2.1.50	4-hydroxybenzoate adenylyltransferase FadD22
+fadD22	6.2.1.50	4-hydroxybenzoate adenylyltransferase FadD22
+p-hydroxybenzoic acid-AMP ligase	6.2.1.50	4-hydroxybenzoate adenylyltransferase FadD22
+4-hydroxyphenylalkanoate adenylase	6.2.1.51	4-hydroxyphenylalkanoate adenylyltransferase FadD29
+fadD29	6.2.1.51	4-hydroxyphenylalkanoate adenylyltransferase FadD29
+firefly luciferase	6.2.1.52	L-firefly luciferin-CoA ligase
+Luc	6.2.1.52	L-firefly luciferin-CoA ligase
+luciferyl-CoA synthetase	6.2.1.52	L-firefly luciferin-CoA ligase
+long-chain fattyacyl-CoA synthetase	6.2.1.52	L-firefly luciferin-CoA ligase
+LUC-G	6.2.1.52	L-firefly luciferin-CoA ligase
+LUC-H	6.2.1.52	L-firefly luciferin-CoA ligase
+protoluciferase	6.2.1.52	L-firefly luciferin-CoA ligase
+bmp4	6.2.1.53	L-proline-[L-prolyl-carrier protein] ligase
+pigl	6.2.1.53	L-proline-[L-prolyl-carrier protein] ligase
+pltF	6.2.1.53	L-proline-[L-prolyl-carrier protein] ligase
+L-prolyl-AMP ligase	6.2.1.53	L-proline-[L-prolyl-carrier protein] ligase
+gene name	6.2.1.53	L-proline-[L-prolyl-carrier protein] ligase
+PigI	6.2.1.53	L-proline-[L-prolyl-carrier protein] ligase
+BcDltA	6.2.1.54	D-alanine-[D-alanyl-carrier protein] ligase
+D-alanine:D-alanyl carrier protein ligase	6.2.1.54	D-alanine-[D-alanyl-carrier protein] ligase
+Dcl	6.2.1.54	D-alanine-[D-alanyl-carrier protein] ligase
+D-alanine–D-alanyl carrier protein ligase	6.2.1.54	D-alanine-[D-alanyl-carrier protein] ligase
+DltA	6.2.1.54	D-alanine-[D-alanyl-carrier protein] ligase
+D-alanyl carrier protein ligase	6.2.1.54	D-alanine-[D-alanyl-carrier protein] ligase
+ubiquitin-activating E1 enzyme homolog of archaea	6.2.1.55	E1 SAMP-activating enzyme
+locus name	6.2.1.55	E1 SAMP-activating enzyme
+Synthetase, glutaryl coenzyme A	6.2.1.6	glutarate-CoA ligase
+Glutaryl coenzyme A synthetase	6.2.1.6	glutarate-CoA ligase
+Choloyl-CoA synthetase	6.2.1.7	cholate-CoA ligase
+Choloyl coenzyme A synthetase	6.2.1.7	cholate-CoA ligase
+Cholic thiokinase	6.2.1.7	cholate-CoA ligase
+Cholate thiokinase	6.2.1.7	cholate-CoA ligase
+Cholic acid:CoA ligase	6.2.1.7	cholate-CoA ligase
+Bile acid:CoA ligase	6.2.1.7	cholate-CoA ligase
+Bile acid-coenzyme A ligase	6.2.1.7	cholate-CoA ligase
+Bile acid coenzyme A synthetase	6.2.1.7	cholate-CoA ligase
+Synthetase, choloyl coenzyme A	6.2.1.7	cholate-CoA ligase
+CCL	6.2.1.7	cholate-CoA ligase
+BAL	6.2.1.7	cholate-CoA ligase
+bile acid coenzyme A ligase	6.2.1.7	cholate-CoA ligase
+Synthetase, oxalyl coenzyme A	6.2.1.8	oxalate-CoA ligase
+Oxalyl coenzyme A synthetase	6.2.1.8	oxalate-CoA ligase
+Oxalyl CoA synthetase	6.2.1.8	oxalate-CoA ligase
+Oxalate:CoA ligase (AMP)	6.2.1.8	oxalate-CoA ligase
+OCS	6.2.1.8	oxalate-CoA ligase
+Oxalyl-CoA synthetase	6.2.1.8	oxalate-CoA ligase
+gene name	6.2.1.8	oxalate-CoA ligase
+acyl-activating enzyme 3	6.2.1.8	oxalate-CoA ligase
+ScAAE3	6.2.1.8	oxalate-CoA ligase
+acyl-activating enzyme3	6.2.1.8	oxalate-CoA ligase
+acyl activating enzyme3	6.2.1.8	oxalate-CoA ligase
+Malyl-CoA synthetase	6.2.1.9	malate-CoA ligase
+Malyl coenzyme A synthetase	6.2.1.9	malate-CoA ligase
+Malate thiokinase	6.2.1.9	malate-CoA ligase
+Synthetase, malyl coenzyme A	6.2.1.9	malate-CoA ligase
+MTK-alpha	6.2.1.9	malate-CoA ligase
+MTK-beta	6.2.1.9	malate-CoA ligase

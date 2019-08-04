@@ -1,0 +1,182 @@
+synonyms	ec_number	recommended_name
+Mg2+-ATPase	7.6.2.1	phospholipid-translocating ATPase
+EC 3.6.3.13	7.6.2.1	phospholipid-translocating ATPase
+Mg2+-ATPase A	7.6.2.1	phospholipid-translocating ATPase
+aminophospholipid flippase 10	7.6.2.1	phospholipid-translocating ATPase
+aminophospholipid flippase 11	7.6.2.1	phospholipid-translocating ATPase
+aminophospholipid flippase 12	7.6.2.1	phospholipid-translocating ATPase
+aminophospholipid translocase VC	7.6.2.1	phospholipid-translocating ATPase
+ATPVC	7.6.2.1	phospholipid-translocating ATPase
+ATPVD	7.6.2.1	phospholipid-translocating ATPase
+HUSSY-20	7.6.2.1	phospholipid-translocating ATPase
+phospholipid-translocating ATPase	7.6.2.1	phospholipid-translocating ATPase
+ATP phosphohydrolase (phospholipid-flipping)	7.6.2.1	phospholipid-translocating ATPase
+aminophospholipid flippase	7.6.2.1	phospholipid-translocating ATPase
+ATP8A1	7.6.2.1	phospholipid-translocating ATPase
+ABCB1	7.6.2.1	phospholipid-translocating ATPase
+functions as an ATP-powered multidrugefflux pump for amphipathic molecules	7.6.2.1	phospholipid-translocating ATPase
+ALA3	7.6.2.1	phospholipid-translocating ATPase
+ALA9	7.6.2.1	phospholipid-translocating ATPase
+ALA12	7.6.2.1	phospholipid-translocating ATPase
+ALA10	7.6.2.1	phospholipid-translocating ATPase
+ALA11	7.6.2.1	phospholipid-translocating ATPase
+ALA8	7.6.2.1	phospholipid-translocating ATPase
+ALA7	7.6.2.1	phospholipid-translocating ATPase
+ALA4	7.6.2.1	phospholipid-translocating ATPase
+ALA5	7.6.2.1	phospholipid-translocating ATPase
+ALA2	7.6.2.1	phospholipid-translocating ATPase
+aminophospholipid ATPase	7.6.2.1	phospholipid-translocating ATPase
+ALA1	7.6.2.1	phospholipid-translocating ATPase
+miltefosine transporter	7.6.2.1	phospholipid-translocating ATPase
+LdMT	7.6.2.1	phospholipid-translocating ATPase
+beta-subunit of LdMT	7.6.2.1	phospholipid-translocating ATPase
+aminophospholipid-translocase	7.6.2.1	phospholipid-translocating ATPase
+phospholipid-transporting ATPase IB	7.6.2.1	phospholipid-translocating ATPase
+P4-type ATPase	7.6.2.1	phospholipid-translocating ATPase
+Dnf1	7.6.2.1	phospholipid-translocating ATPase
+Drs2 Neo1 family ATPase 1	7.6.2.1	phospholipid-translocating ATPase
+Drs2 Neo1 family ATPase 2	7.6.2.1	phospholipid-translocating ATPase
+TAT-5	7.6.2.1	phospholipid-translocating ATPase
+transbilayer amphipath transporter	7.6.2.1	phospholipid-translocating ATPase
+TAT-3	7.6.2.1	phospholipid-translocating ATPase
+TAT-6	7.6.2.1	phospholipid-translocating ATPase
+erythroid ATP-dependent aminophospholipid transporter	7.6.2.1	phospholipid-translocating ATPase
+flippase	7.6.2.1	phospholipid-translocating ATPase
+the enzyme belongs to theP-type ATPases	7.6.2.1	phospholipid-translocating ATPase
+aminophospholipid translocase	7.6.2.1	phospholipid-translocating ATPase
+PS flippase	7.6.2.1	phospholipid-translocating ATPase
+TAT-2	7.6.2.1	phospholipid-translocating ATPase
+MsbA	7.6.2.1	phospholipid-translocating ATPase
+lipid flippase	7.6.2.1	phospholipid-translocating ATPase
+Drs2 Neo1 family ATPase 3	7.6.2.1	phospholipid-translocating ATPase
+TAT-4	7.6.2.1	phospholipid-translocating ATPase
+P-gp	7.6.2.1	phospholipid-translocating ATPase
+type II secretion ATPase	7.6.2.1	phospholipid-translocating ATPase
+aminophosphoplipid translocase	7.6.2.1	phospholipid-translocating ATPase
+MDR3 P-glycoprotein	7.6.2.1	phospholipid-translocating ATPase
+ABCB4	7.6.2.1	phospholipid-translocating ATPase
+multidrug resistance 3 P-glycoprotein	7.6.2.1	phospholipid-translocating ATPase
+ATP9B	7.6.2.1	phospholipid-translocating ATPase
+ATP8B4	7.6.2.1	phospholipid-translocating ATPase
+ATP8B5	7.6.2.1	phospholipid-translocating ATPase
+ATP11B	7.6.2.1	phospholipid-translocating ATPase
+EpsE	7.6.2.1	phospholipid-translocating ATPase
+ATP8B1	7.6.2.1	phospholipid-translocating ATPase
+sperm-specific aminophospholipid transporter andP-type ATPase	7.6.2.1	phospholipid-translocating ATPase
+Atp8a2	7.6.2.1	phospholipid-translocating ATPase
+ATP10A	7.6.2.1	phospholipid-translocating ATPase
+ATP11C	7.6.2.1	phospholipid-translocating ATPase
+ATP8B2	7.6.2.1	phospholipid-translocating ATPase
+ATP9A	7.6.2.1	phospholipid-translocating ATPase
+ATP11A	7.6.2.1	phospholipid-translocating ATPase
+ATP10D	7.6.2.1	phospholipid-translocating ATPase
+ATP10B	7.6.2.1	phospholipid-translocating ATPase
+type IV P-typeATPase	7.6.2.1	phospholipid-translocating ATPase
+phospholipid flippase	7.6.2.1	phospholipid-translocating ATPase
+ATPase II	7.6.2.1	phospholipid-translocating ATPase
+APLT	7.6.2.1	phospholipid-translocating ATPase
+phospholipid-translocase	7.6.2.1	phospholipid-translocating ATPase
+isoform	7.6.2.1	phospholipid-translocating ATPase
+Dnf1p-Lem3p	7.6.2.1	phospholipid-translocating ATPase
+Cdc50p-Drs2p	7.6.2.1	phospholipid-translocating ATPase
+isoform	7.6.2.1	phospholipid-translocating ATPase
+isoform	7.6.2.1	phospholipid-translocating ATPase
+isoform	7.6.2.1	phospholipid-translocating ATPase
+isoform	7.6.2.1	phospholipid-translocating ATPase
+phosphatidylserine translocase	7.6.2.1	phospholipid-translocating ATPase
+PS translocase	7.6.2.1	phospholipid-translocating ATPase
+energy-dependent lipid flippases	7.6.2.1	phospholipid-translocating ATPase
+Dnf1p and Dnf2p	7.6.2.1	phospholipid-translocating ATPase
+flippases	7.6.2.1	phospholipid-translocating ATPase
+Drs2-dependent phosphatidylserine translocase	7.6.2.1	phospholipid-translocating ATPase
+neomycin resistance 1	7.6.2.1	phospholipid-translocating ATPase
+phosphatidylserine flippase	7.6.2.1	phospholipid-translocating ATPase
+type IV P-type ATPase	7.6.2.1	phospholipid-translocating ATPase
+defect in ribosome synthesis 2	7.6.2.1	phospholipid-translocating ATPase
+phospholipid translocase	7.6.2.1	phospholipid-translocating ATPase
+multidrug-resistance protein	7.6.2.2	ABC-type xenobiotic transporter
+MRP	7.6.2.2	ABC-type xenobiotic transporter
+transporter protein MRP	7.6.2.2	ABC-type xenobiotic transporter
+xenobiotic-transporting ATPase	7.6.2.2	ABC-type xenobiotic transporter
+ATP phosphohydrolase (xenobiotic-exporting)	7.6.2.2	ABC-type xenobiotic transporter
+P-glycoprotein multidrug efflux pump	7.6.2.2	ABC-type xenobiotic transporter
+isoform	7.6.2.2	ABC-type xenobiotic transporter
+P-glycoprotein	7.6.2.2	ABC-type xenobiotic transporter
+MDR	7.6.2.2	ABC-type xenobiotic transporter
+P-gp	7.6.2.2	ABC-type xenobiotic transporter
+Pgp	7.6.2.2	ABC-type xenobiotic transporter
+gene name	7.6.2.2	ABC-type xenobiotic transporter
+Abcb1a	7.6.2.2	ABC-type xenobiotic transporter
+Pdr5p	7.6.2.2	ABC-type xenobiotic transporter
+PDR5	7.6.2.2	ABC-type xenobiotic transporter
+Pdr18	7.6.2.2	ABC-type xenobiotic transporter
+Snq2p	7.6.2.2	ABC-type xenobiotic transporter
+LmrA	7.6.2.2	ABC-type xenobiotic transporter
+heterodimeric ABC multidrug transporter	7.6.2.2	ABC-type xenobiotic transporter
+Smr1	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance transporter 1	7.6.2.2	ABC-type xenobiotic transporter
+PatA/PatB	7.6.2.2	ABC-type xenobiotic transporter
+DMRP	7.6.2.2	ABC-type xenobiotic transporter
+isoform	7.6.2.2	ABC-type xenobiotic transporter
+Candida drug resistance 1 protein	7.6.2.2	ABC-type xenobiotic transporter
+Cdr1p	7.6.2.2	ABC-type xenobiotic transporter
+multidrug transporter	7.6.2.2	ABC-type xenobiotic transporter
+Pgh1	7.6.2.2	ABC-type xenobiotic transporter
+SMDR2	7.6.2.2	ABC-type xenobiotic transporter
+Ha-Pgp	7.6.2.2	ABC-type xenobiotic transporter
+hmr19 gene product	7.6.2.2	ABC-type xenobiotic transporter
+phosphatidylcholine translocator	7.6.2.2	ABC-type xenobiotic transporter
+DrrAB	7.6.2.2	ABC-type xenobiotic transporter
+renamed BmrA	7.6.2.2	ABC-type xenobiotic transporter
+formerly known as YvcC	7.6.2.2	ABC-type xenobiotic transporter
+multidrug ATP-binding cassette transporter	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance ABC transporter	7.6.2.2	ABC-type xenobiotic transporter
+MDR3 P-glycoprotein	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance transporter	7.6.2.2	ABC-type xenobiotic transporter
+Bcrp1	7.6.2.2	ABC-type xenobiotic transporter
+Mdr3	7.6.2.2	ABC-type xenobiotic transporter
+Mdr1a	7.6.2.2	ABC-type xenobiotic transporter
+Mdr2	7.6.2.2	ABC-type xenobiotic transporter
+ABCG2	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance protein 3	7.6.2.2	ABC-type xenobiotic transporter
+ABCC3	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance protein 4	7.6.2.2	ABC-type xenobiotic transporter
+MRP4	7.6.2.2	ABC-type xenobiotic transporter
+ABCC4	7.6.2.2	ABC-type xenobiotic transporter
+P-gp ABC transporter	7.6.2.2	ABC-type xenobiotic transporter
+member of the MRP family	7.6.2.2	ABC-type xenobiotic transporter
+breast cancer resistance protein	7.6.2.2	ABC-type xenobiotic transporter
+MRD1a	7.6.2.2	ABC-type xenobiotic transporter
+MDR1b	7.6.2.2	ABC-type xenobiotic transporter
+ABCB1, or P-glycoprotein, is a member of theATP binding cassette protein family	7.6.2.2	ABC-type xenobiotic transporter
+member of the MRP family	7.6.2.2	ABC-type xenobiotic transporter
+ABCC1	7.6.2.2	ABC-type xenobiotic transporter
+BCRP	7.6.2.2	ABC-type xenobiotic transporter
+MRP3/ABCC3	7.6.2.2	ABC-type xenobiotic transporter
+MDR1 P-glycoprotein	7.6.2.2	ABC-type xenobiotic transporter
+P-glycoprotein-ATPase	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistanceassociated protein 1	7.6.2.2	ABC-type xenobiotic transporter
+MRP1/ABCC1	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance protein 7	7.6.2.2	ABC-type xenobiotic transporter
+ABCC10	7.6.2.2	ABC-type xenobiotic transporter
+MRP7	7.6.2.2	ABC-type xenobiotic transporter
+phospho-glycoprotein	7.6.2.2	ABC-type xenobiotic transporter
+PGY1	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance gp170	7.6.2.2	ABC-type xenobiotic transporter
+ATP-binding cassette G subfamily member 2	7.6.2.2	ABC-type xenobiotic transporter
+ABCC2	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance protein 1	7.6.2.2	ABC-type xenobiotic transporter
+MRP2	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance-associated protein 2	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance associated protein 5	7.6.2.2	ABC-type xenobiotic transporter
+MRP5	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance protein	7.6.2.2	ABC-type xenobiotic transporter
+gene name	7.6.2.2	ABC-type xenobiotic transporter
+multidrug resistance protein 2	7.6.2.2	ABC-type xenobiotic transporter
+MRP	7.6.2.3	ABC-type glutathione-S-conjugate transporter
+Ycf1	7.6.2.3	ABC-type glutathione-S-conjugate transporter
+MRP1	7.6.2.3	ABC-type glutathione-S-conjugate transporter
+ABCC1	7.6.2.3	ABC-type glutathione-S-conjugate transporter
+multidrug resistance-associated protein 1	7.6.2.3	ABC-type glutathione-S-conjugate transporter
+glutathione-S-conjugate-translocating ATPase	7.6.2.3	ABC-type glutathione-S-conjugate transporter
+YBT1	7.6.2.3	ABC-type glutathione-S-conjugate transporter

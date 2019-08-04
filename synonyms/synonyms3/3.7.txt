@@ -1,0 +1,139 @@
+synonyms	ec_number	recommended_name
+oxalacetase	3.7.1.1	oxaloacetase
+oxalacetic hydrolase	3.7.1.1	oxaloacetase
+oxaloacetate acethylhydrolase	3.7.1.1	oxaloacetase
+(2R,3S)-dimethylmalate lyase	3.7.1.1	oxaloacetase
+DMML	3.7.1.1	oxaloacetase
+An07g08390	3.7.1.1	oxaloacetase
+oxalacetate acetylhydrolase	3.7.1.1	oxaloacetase
+OAH-like protein	3.7.1.1	oxaloacetase
+FpOAH	3.7.1.1	oxaloacetase
+OAH	3.7.1.1	oxaloacetase
+oxaloacetate hydrolase	3.7.1.1	oxaloacetase
+OAH-active petal death protein	3.7.1.1	oxaloacetase
+OXA	3.7.1.1	oxaloacetase
+oxaloacetase	3.7.1.1	oxaloacetase
+oxaloacetate acetylhydrolase	3.7.1.1	oxaloacetase
+hydrolase, 1,3-cyclohexanedione	3.7.1.10	cyclohexane-1,3-dione hydrolase
+Cdh	3.7.1.11	cyclohexane-1,2-dione hydrolase
+thiamine diphosphate dependent cyclohexane-1,2-dione hydrolase	3.7.1.11	cyclohexane-1,2-dione hydrolase
+ThDP-dependent cyclohexane-1,2-dione hydrolase	3.7.1.11	cyclohexane-1,2-dione hydrolase
+gene name	3.7.1.12	cobalt-precorrin 5A hydrolase
+HOPDA hydrolase	3.7.1.13	2-hydroxy-6-oxo-6-(2-aminophenyl)hexa-2,4-dienoate hydrolase
+CarC	3.7.1.13	2-hydroxy-6-oxo-6-(2-aminophenyl)hexa-2,4-dienoate hydrolase
+MhpC	3.7.1.14	2-hydroxy-6-oxonona-2,4-dienedioate hydrolase
+meta-cleavage product hydrolase	3.7.1.14	2-hydroxy-6-oxonona-2,4-dienedioate hydrolase
+2-hydroxy-6-keto-nona-1,9-dioic acid 5,6-hydrolase	3.7.1.14	2-hydroxy-6-oxonona-2,4-dienedioate hydrolase
+2-hydroxy-6-ketonona-2,4-diene-1,9-dioic acid 5,6-hydrolase	3.7.1.14	2-hydroxy-6-oxonona-2,4-dienedioate hydrolase
+2-hydroxy-6-ketonona-2,4-dienedioate hydrolase	3.7.1.14	2-hydroxy-6-oxonona-2,4-dienedioate hydrolase
+MCP hydrolase	3.7.1.14	2-hydroxy-6-oxonona-2,4-dienedioate hydrolase
+2-hydroxy-6-ketonona-1,9-dioic acid 5,6-hydrolase	3.7.1.14	2-hydroxy-6-oxonona-2,4-dienedioate hydrolase
+2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid hydrolase	3.7.1.17	4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate
+2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	3.7.1.17	4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate
+gene name	3.7.1.17	4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate
+TesD	3.7.1.17	4,5:9,10-diseco-3-hydroxy-5,9,17-trioxoandrosta-1(10),2-diene-4-oate
+CaMK	3.7.1.18	6-oxocamphor hydrolase
+retro-Claisenase	3.7.1.18	6-oxocamphor hydrolase
+OCH	3.7.1.18	6-oxocamphor hydrolase
+6-oxo camphor hydrolase	3.7.1.18	6-oxocamphor hydrolase
+2,6-dihydroxy-pseudo-oxynicotine hydrolase	3.7.1.19	2,6-dihydroxypseudooxynicotine hydrolase
+PONH	3.7.1.19	2,6-dihydroxypseudooxynicotine hydrolase
+2,6-dihydroxypseudooxynicotine hydrolase	3.7.1.19	2,6-dihydroxypseudooxynicotine hydrolase
+DHPONH	3.7.1.19	2,6-dihydroxypseudooxynicotine hydrolase
+acylpyruvase	3.7.1.2	fumarylacetoacetase
+diketo acid hydrolase	3.7.1.2	fumarylacetoacetase
+4-fumarylacetoacetate fumarylhydrolase	3.7.1.2	fumarylacetoacetase
+mFAH	3.7.1.2	fumarylacetoacetase
+fumarylacetoacetase	3.7.1.2	fumarylacetoacetase
+beta-diketonase	3.7.1.2	fumarylacetoacetase
+FAA hydrolase	3.7.1.2	fumarylacetoacetase
+FAH	3.7.1.2	fumarylacetoacetase
+fumarylacetoacetate hydrolase	3.7.1.2	fumarylacetoacetase
+FAA	3.7.1.2	fumarylacetoacetase
+TTHA0809	3.7.1.2	fumarylacetoacetase
+AtFAH	3.7.1.2	fumarylacetoacetase
+HmgB	3.7.1.2	fumarylacetoacetase
+fumarylacetoacetate hydrolase	3.7.1.20	3-fumarylpyruvate hydrolase
+naaD	3.7.1.20	3-fumarylpyruvate hydrolase
+NagK	3.7.1.20	3-fumarylpyruvate hydrolase
+fumarylpyruvate hydrolase	3.7.1.20	3-fumarylpyruvate hydrolase
+6-oxocylcohex-1-ene-1-carbonyl-CoA hydrolase	3.7.1.21	6-oxocyclohex-1-ene-1-carbonyl-CoA hydratase
+6-oxocyclohex-1-ene-1-carbonyl-coenzyme A hydrolase	3.7.1.21	6-oxocyclohex-1-ene-1-carbonyl-CoA hydratase
+6-OCH-CoA hydrolase	3.7.1.21	6-oxocyclohex-1-ene-1-carbonyl-CoA hydratase
+6-oxocyclohex-1-ene-1-carbonyl-CoA hydrolase	3.7.1.21	6-oxocyclohex-1-ene-1-carbonyl-CoA hydratase
+THcHDO hydrolase	3.7.1.22	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (ring-opening)
+gene name	3.7.1.22	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (ring-opening)
+acetolactate synthase	3.7.1.22	3D-(3,5/4)-trihydroxycyclohexane-1,2-dione acylhydrolase (ring-opening)
+maleylpyruvate hydrolase II	3.7.1.23	maleylpyruvate hydrolase
+maleylpyruvate hydrolase I	3.7.1.23	maleylpyruvate hydrolase
+MPH11	3.7.1.23	maleylpyruvate hydrolase
+Mph	3.7.1.23	maleylpyruvate hydrolase
+hbzF	3.7.1.23	maleylpyruvate hydrolase
+maleylpyruvate hydrolase	3.7.1.23	maleylpyruvate hydrolase
+L-kynurenine hydrolase	3.7.1.3	kynureninase
+HsKynase	3.7.1.3	kynureninase
+KYNU	3.7.1.3	kynureninase
+PfKynase	3.7.1.3	kynureninase
+kynureninase	3.7.1.3	kynureninase
+Kynase	3.7.1.3	kynureninase
+C-acylphenol acylhydrolase	3.7.1.4	phloretin hydrolase
+lactase-phlorizin hydrolase	3.7.1.4	phloretin hydrolase
+LPH	3.7.1.4	phloretin hydrolase
+LCT	3.7.1.4	phloretin hydrolase
+phloretin hydrolase	3.7.1.4	phloretin hydrolase
+lactase/phlorizin hydrolase	3.7.1.4	phloretin hydrolase
+PNG hydrolase	3.7.1.4	phloretin hydrolase
+lactase phlorizin hydrolase	3.7.1.4	phloretin hydrolase
+Phy	3.7.1.4	phloretin hydrolase
+cf. EC 3.7.1.2	3.7.1.5	acylpyruvate hydrolase
+FAHD1	3.7.1.5	acylpyruvate hydrolase
+fumaroylacetoacetate hydrolase domain-containing protein 1	3.7.1.5	acylpyruvate hydrolase
+acylpyruvate hydrolase	3.7.1.5	acylpyruvate hydrolase
+fumarylpyruvate hydrolase	3.7.1.5	acylpyruvate hydrolase
+acetopyruvate hydrolase	3.7.1.6	acetylpyruvate hydrolase
+OPH hydrolase	3.7.1.7	beta-diketone hydrolase
+poly(vinyl alcohol) (PVA)-degrading enzyme	3.7.1.7	beta-diketone hydrolase
+PVA-degrading enzyme	3.7.1.7	beta-diketone hydrolase
+PVAase	3.7.1.7	beta-diketone hydrolase
+oxidized polyvinyl alcohol hydrolase	3.7.1.7	beta-diketone hydrolase
+OPH	3.7.1.7	beta-diketone hydrolase
+oxidized PVA hydrolase	3.7.1.7	beta-diketone hydrolase
+beta-diketone hydrolase	3.7.1.7	beta-diketone hydrolase
+ABDH	3.7.1.7	beta-diketone hydrolase
+Alr4455 protein	3.7.1.7	beta-diketone hydrolase
+pOPH	3.7.1.7	beta-diketone hydrolase
+sOPH	3.7.1.7	beta-diketone hydrolase
+hydrolase, 2,6-dioxo-6-phenylhexa-3-enoate	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+HOHPDA hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+HOPD hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+MhpC	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+MCP hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+HsaD	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+2-hydroxy-6-oxo-6-(2-aminophenyl)hexa-2,4-dienoic acid hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+CarC	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+BphD	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoate hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+HOPDA hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+6-phenyl HODA hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+2-hydroxy-6-oxo-6-phenylhexa-2,4-dieonic acid hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+HPDA hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+BphD enzyme	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+BphDP6	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+2-hydroxy-6-oxo-6-phenylhexa-2,4-dienoic acid hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+meta-cleavage product hydrolase	3.7.1.8	2,6-dioxo-6-phenylhexa-3-enoate hydrolase
+hydrolase, 2-hydroxymuconate semialdehyde	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+2-hydroxy-6-oxohepta-2,4-dienoate hydrolase	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+HOD hydrolase	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+XylF	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+2-hydroxymuconate-semialdehyde hydrolase	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+2-hydroxymuconic semialdehyde hydrolase	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+CumD	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+meta-cleavage compound hydrolase	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+2-hydroxy-6-oxo-7-methylocta-2,4-dienoate hydrolase	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+meta-cleavage product hydrolase	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+TodF	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+2-hydroxymuconate semialdehyde hydrolase	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+HMSH	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+1H-3-Hydroxy-4-oxoquinaldine 2,4-dioxygenase	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+HOD	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase
+MfhA	3.7.1.9	2-hydroxymuconate-6-semialdehyde hydrolase

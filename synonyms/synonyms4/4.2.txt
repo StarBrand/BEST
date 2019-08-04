@@ -1,0 +1,3073 @@
+synonyms	ec_number	recommended_name
+carbonic dehydratase	4.2.1.1	carbonic anhydrase
+dehydratase, carbonate	4.2.1.1	carbonic anhydrase
+anhydrase	4.2.1.1	carbonic anhydrase
+carbonate anhydrase	4.2.1.1	carbonic anhydrase
+carbonic acid anhydrase	4.2.1.1	carbonic anhydrase
+carboxyanhydrase	4.2.1.1	carbonic anhydrase
+CA-IX	4.2.1.1	carbonic anhydrase
+CA-VA	4.2.1.1	carbonic anhydrase
+CA-VB	4.2.1.1	carbonic anhydrase
+CA-VII	4.2.1.1	carbonic anhydrase
+CA-XII	4.2.1.1	carbonic anhydrase
+CA-XIV	4.2.1.1	carbonic anhydrase
+Carbonate dehydratase	4.2.1.1	carbonic anhydrase
+Carbonate dehydratase IX	4.2.1.1	carbonic anhydrase
+Carbonate dehydratase VA	4.2.1.1	carbonic anhydrase
+Carbonate dehydratase VB	4.2.1.1	carbonic anhydrase
+Carbonate dehydratase VII	4.2.1.1	carbonic anhydrase
+Carbonate dehydratase XII	4.2.1.1	carbonic anhydrase
+Carbonate dehydratase XIV	4.2.1.1	carbonic anhydrase
+Membrane antigen MN	4.2.1.1	carbonic anhydrase
+P54/58N	4.2.1.1	carbonic anhydrase
+pMW1	4.2.1.1	carbonic anhydrase
+RCC-associated antigen G250	4.2.1.1	carbonic anhydrase
+Renal cell carcinoma-associated antigen G250	4.2.1.1	carbonic anhydrase
+Tumor antigen HOM-RCC-3.1.3	4.2.1.1	carbonic anhydrase
+chloroplast carbonic anhydrase	4.2.1.1	carbonic anhydrase
+tobacco salicylic acid-binding protein 3	4.2.1.1	carbonic anhydrase
+SABP3	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+external carbonic anhydrase	4.2.1.1	carbonic anhydrase
+isoform	4.2.1.1	carbonic anhydrase
+isoform	4.2.1.1	carbonic anhydrase
+CAH3	4.2.1.1	carbonic anhydrase
+alphaCA1	4.2.1.1	carbonic anhydrase
+carbonic anhydrase	4.2.1.1	carbonic anhydrase
+CcmM	4.2.1.1	carbonic anhydrase
+cytoplasmic carbonic anhydrase	4.2.1.1	carbonic anhydrase
+TCAc	4.2.1.1	carbonic anhydrase
+TCAb	4.2.1.1	carbonic anhydrase
+erythrocyte carbonic anhydrase	4.2.1.1	carbonic anhydrase
+carbonic anhydrase 2	4.2.1.1	carbonic anhydrase
+carbonate hydro-lyase	4.2.1.1	carbonic anhydrase
+carbonic anhydrase 14	4.2.1.1	carbonic anhydrase
+hCA XIV	4.2.1.1	carbonic anhydrase
+hCA XIV catalytic domain	4.2.1.1	carbonic anhydrase
+CO2 hydrase	4.2.1.1	carbonic anhydrase
+LdcCA	4.2.1.1	carbonic anhydrase
+carbonate dehydratase III	4.2.1.1	carbonic anhydrase
+CA-III	4.2.1.1	carbonic anhydrase
+carbonic anhydrase 3	4.2.1.1	carbonic anhydrase
+CARP	4.2.1.1	carbonic anhydrase
+carbonic anhydrase-related protein	4.2.1.1	carbonic anhydrase
+CAV	4.2.1.1	carbonic anhydrase
+(CA) XIV	4.2.1.1	carbonic anhydrase
+CA14x	4.2.1.1	carbonic anhydrase
+mCA V	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+isoform	4.2.1.1	carbonic anhydrase
+carbonic anhydrase type III	4.2.1.1	carbonic anhydrase
+carbonic anhydrase XIV	4.2.1.1	carbonic anhydrase
+mCA XIII	4.2.1.1	carbonic anhydrase
+CA	4.2.1.1	carbonic anhydrase
+CAIII	4.2.1.1	carbonic anhydrase
+carbonic anhydrase V	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+isoform	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+alpha-carbonic anhydrase	4.2.1.1	carbonic anhydrase
+alpha-CA	4.2.1.1	carbonic anhydrase
+hCA VA	4.2.1.1	carbonic anhydrase
+hCA VB	4.2.1.1	carbonic anhydrase
+CA-VI	4.2.1.1	carbonic anhydrase
+Carbonate dehydratase VI	4.2.1.1	carbonic anhydrase
+Salivary carbonic anhydrase	4.2.1.1	carbonic anhydrase
+Secreted carbonic anhydrase	4.2.1.1	carbonic anhydrase
+hCA VI	4.2.1.1	carbonic anhydrase
+hCA VII	4.2.1.1	carbonic anhydrase
+hpalphaCA	4.2.1.1	carbonic anhydrase
+hpbetaCA	4.2.1.1	carbonic anhydrase
+ECCA	4.2.1.1	carbonic anhydrase
+CAI	4.2.1.1	carbonic anhydrase
+CAII	4.2.1.1	carbonic anhydrase
+CAIV	4.2.1.1	carbonic anhydrase
+carbonate hydrolase	4.2.1.1	carbonic anhydrase
+CasCAg	4.2.1.1	carbonic anhydrase
+CasCAc	4.2.1.1	carbonic anhydrase
+CA3	4.2.1.1	carbonic anhydrase
+carbonate dehydratase I	4.2.1.1	carbonic anhydrase
+STPCA	4.2.1.1	carbonic anhydrase
+secretory carbonic anhydrase	4.2.1.1	carbonic anhydrase
+STPCA-2	4.2.1.1	carbonic anhydrase
+HCA	4.2.1.1	carbonic anhydrase
+isoform	4.2.1.1	carbonic anhydrase
+human carbonic anhydrase II	4.2.1.1	carbonic anhydrase
+human carbonic anhydrase I	4.2.1.1	carbonic anhydrase
+carbonic anhydrase I (CA I) Michigan 1	4.2.1.1	carbonic anhydrase
+H64A HCA II	4.2.1.1	carbonic anhydrase
+HC II	4.2.1.1	carbonic anhydrase
+carbonic anhydrase isozyme I	4.2.1.1	carbonic anhydrase
+carbonic anhydrase isozyme II	4.2.1.1	carbonic anhydrase
+carbonic anhydrase isozyme IX	4.2.1.1	carbonic anhydrase
+human carbonic anhydrase IX	4.2.1.1	carbonic anhydrase
+alpha-class carbonic anhydrase	4.2.1.1	carbonic anhydrase
+carbonic anhydrase VII	4.2.1.1	carbonic anhydrase
+HCA-I	4.2.1.1	carbonic anhydrase
+HCA-II	4.2.1.1	carbonic anhydrase
+human carbonic anhydrase	4.2.1.1	carbonic anhydrase
+human carbonic anhydrase isoenzyme I	4.2.1.1	carbonic anhydrase
+human carbonic anhydrase isoenzyme II	4.2.1.1	carbonic anhydrase
+human carbonic anhydrase III	4.2.1.1	carbonic anhydrase
+human carbonic anhydrase XII	4.2.1.1	carbonic anhydrase
+isozyme CA II	4.2.1.1	carbonic anhydrase
+isozyme CA IV	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+carbonic anhydrase isozyme III	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+CA9	4.2.1.1	carbonic anhydrase
+isoform	4.2.1.1	carbonic anhydrase
+hCA XII	4.2.1.1	carbonic anhydrase
+carbonic anhydrase XII	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+cytosolic isoform	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+hCA IX	4.2.1.1	carbonic anhydrase
+carbonic anhydrase IX	4.2.1.1	carbonic anhydrase
+cytosolic isoform	4.2.1.1	carbonic anhydrase
+HCA II	4.2.1.1	carbonic anhydrase
+hCA III	4.2.1.1	carbonic anhydrase
+hCA I	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+hCA IV	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+carbonic anhydrase VI	4.2.1.1	carbonic anhydrase
+bCA IV	4.2.1.1	carbonic anhydrase
+carbonic anhydrase isozyme IV	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+hCAII	4.2.1.1	carbonic anhydrase
+isozyme	4.2.1.1	carbonic anhydrase
+bsCA II	4.2.1.1	carbonic anhydrase
+bsCA I	4.2.1.1	carbonic anhydrase
+CAA1	4.2.1.1	carbonic anhydrase
+carbonic anhydrase-related protein VIII	4.2.1.1	carbonic anhydrase
+CA VIII	4.2.1.1	carbonic anhydrase
+lwCA	4.2.1.1	carbonic anhydrase
+CAA2	4.2.1.1	carbonic anhydrase
+CamH	4.2.1.1	carbonic anhydrase
+SspCA	4.2.1.1	carbonic anhydrase
+CAS1	4.2.1.1	carbonic anhydrase
+scCA	4.2.1.1	carbonic anhydrase
+CAS2	4.2.1.1	carbonic anhydrase
+SazCA	4.2.1.1	carbonic anhydrase
+MG-CA	4.2.1.1	carbonic anhydrase
+Dsp-aCAopt sp.	4.2.1.1	carbonic anhydrase
+bovine carbonic anhydrase II	4.2.1.1	carbonic anhydrase
+BCA II	4.2.1.1	carbonic anhydrase
+BCAII	4.2.1.1	carbonic anhydrase
+BCAIIGln253Cys	4.2.1.1	carbonic anhydrase
+cab-type beta-class carbonic anhydrase	4.2.1.1	carbonic anhydrase
+plant-type (beta-class) carbonic anhydrase	4.2.1.1	carbonic anhydrase
+beta-class carbonic anhydrase	4.2.1.1	carbonic anhydrase
+Cab	4.2.1.1	carbonic anhydrase
+OEC33 protein	4.2.1.1	carbonic anhydrase
+H216N ATCA	4.2.1.1	carbonic anhydrase
+alphaCA	4.2.1.1	carbonic anhydrase
+betaCA	4.2.1.1	carbonic anhydrase
+betaCA1	4.2.1.1	carbonic anhydrase
+NGCA	4.2.1.1	carbonic anhydrase
+alpha class carbonic anhydrase	4.2.1.1	carbonic anhydrase
+Rv1284	4.2.1.1	carbonic anhydrase
+CA 3	4.2.1.1	carbonic anhydrase
+CA 1	4.2.1.1	carbonic anhydrase
+TcCA	4.2.1.1	carbonic anhydrase
+AaCA1	4.2.1.1	carbonic anhydrase
+CaNce103	4.2.1.1	carbonic anhydrase
+Nce103	4.2.1.1	carbonic anhydrase
+HP1186	4.2.1.1	carbonic anhydrase
+CsoSCA	4.2.1.1	carbonic anhydrase
+CPB	4.2.1.1	carbonic anhydrase
+Can2	4.2.1.1	carbonic anhydrase
+extracellular carbonic anhydrase	4.2.1.1	carbonic anhydrase
+eCA	4.2.1.1	carbonic anhydrase
+RT erythrocyte CA	4.2.1.1	carbonic anhydrase
+clCA	4.2.1.1	carbonic anhydrase
+NstCcmM209	4.2.1.1	carbonic anhydrase
+gamma-CA	4.2.1.1	carbonic anhydrase
+gamma-carbonic anhydrase	4.2.1.1	carbonic anhydrase
+CO2 hydratase	4.2.1.1	carbonic anhydrase
+beta-CA	4.2.1.1	carbonic anhydrase
+beta-carbonic anhydrase	4.2.1.1	carbonic anhydrase
+E84A MTCA	4.2.1.1	carbonic anhydrase
+HICA is a type II member of the beta-carbonicanhydrase family	4.2.1.1	carbonic anhydrase
+CDCA1	4.2.1.1	carbonic anhydrase
+carbonic anhydrase cambialistic enzyme	4.2.1.1	carbonic anhydrase
+gamma-class carbonic anhydrase	4.2.1.1	carbonic anhydrase
+Cam	4.2.1.1	carbonic anhydrase
+PgiCA	4.2.1.1	carbonic anhydrase
+VchCA	4.2.1.1	carbonic anhydrase
+PtCA1	4.2.1.1	carbonic anhydrase
+isoform	4.2.1.1	carbonic anhydrase
+dCAII	4.2.1.1	carbonic anhydrase
+dCA II	4.2.1.1	carbonic anhydrase
+dCA I	4.2.1.1	carbonic anhydrase
+alpha-type carbonic anhydrase	4.2.1.1	carbonic anhydrase
+isoform	4.2.1.1	carbonic anhydrase
+FbiCA 1	4.2.1.1	carbonic anhydrase
+diatom carbonic anhydrase	4.2.1.1	carbonic anhydrase
+TWCA1	4.2.1.1	carbonic anhydrase
+cadmium carbonic anhydrase	4.2.1.1	carbonic anhydrase
+TweCA	4.2.1.1	carbonic anhydrase
+carbonic anhydrase 1	4.2.1.1	carbonic anhydrase
+HICA	4.2.1.1	carbonic anhydrase
+carbonate hydrolyase	4.2.1.1	carbonic anhydrase
+gammaCA	4.2.1.1	carbonic anhydrase
+Dca	4.2.1.1	carbonic anhydrase
+Ice-CA	4.2.1.1	carbonic anhydrase
+CynT2	4.2.1.1	carbonic anhydrase
+5-dehydroquinase	4.2.1.10	3-dehydroquinate dehydratase
+dehydratase, 3-dehydroquinate	4.2.1.10	3-dehydroquinate dehydratase
+5-dehydroquinate dehydratase	4.2.1.10	3-dehydroquinate dehydratase
+5-dehydroquinate hydro-lyase	4.2.1.10	3-dehydroquinate dehydratase
+DHQ synthase	4.2.1.10	3-dehydroquinate dehydratase
+Type I DHQase	4.2.1.10	3-dehydroquinate dehydratase
+Type I dehydroquinase	4.2.1.10	3-dehydroquinate dehydratase
+4.2.1.10	4.2.1.10	3-dehydroquinate dehydratase
+Type II DHQase	4.2.1.10	3-dehydroquinate dehydratase
+dehydroquinase	4.2.1.10	3-dehydroquinate dehydratase
+DHQase	4.2.1.10	3-dehydroquinate dehydratase
+DHQ2	4.2.1.10	3-dehydroquinate dehydratase
+dehydroquinate synthase	4.2.1.10	3-dehydroquinate dehydratase
+DHQS	4.2.1.10	3-dehydroquinate dehydratase
+gene name	4.2.1.10	3-dehydroquinate dehydratase
+type I dehydroquinate dehydratase	4.2.1.10	3-dehydroquinate dehydratase
+DHQD	4.2.1.10	3-dehydroquinate dehydratase
+DQD	4.2.1.10	3-dehydroquinate dehydratase
+soluble, cytoplasmic 3-dehydroquinate dehydratase	4.2.1.10	3-dehydroquinate dehydratase
+periplasmic 3-dehydroquinate dehydratase	4.2.1.10	3-dehydroquinate dehydratase
+membrane-bound 3-dehydroquinate dehydratase	4.2.1.10	3-dehydroquinate dehydratase
+mDQD	4.2.1.10	3-dehydroquinate dehydratase
+3-dehydroquinate dehydratase	4.2.1.10	3-dehydroquinate dehydratase
+dehydroquinate dehydratase	4.2.1.10	3-dehydroquinate dehydratase
+type I DHQD	4.2.1.10	3-dehydroquinate dehydratase
+3-dehydroquinase	4.2.1.10	3-dehydroquinate dehydratase
+type I 3-dehydroquinate dehydratase	4.2.1.10	3-dehydroquinate dehydratase
+3-DHQase	4.2.1.10	3-dehydroquinate dehydratase
+cf. EC 1.1.1.25	4.2.1.10	3-dehydroquinate dehydratase
+cytosolic isoenzyme	4.2.1.10	3-dehydroquinate dehydratase
+3-dehydroquinate dehydratase /shikimate dehydrogenase isoform 2	4.2.1.10	3-dehydroquinate dehydratase
+DHD/SHD	4.2.1.10	3-dehydroquinate dehydratase
+3-dehydroquinate dehydratase/shikimate dehydrogenase	4.2.1.10	3-dehydroquinate dehydratase
+NtDHD/SHD-1	4.2.1.10	3-dehydroquinate dehydratase
+3-dehydroquinate dehydratase /shikimate dehydrogenase isoform 1	4.2.1.10	3-dehydroquinate dehydratase
+dehydroquinate dehydratase-shikimate dehydrogenase	4.2.1.10	3-dehydroquinate dehydratase
+DHQ-SDH	4.2.1.10	3-dehydroquinate dehydratase
+bifunctional 3-dehydroquinate dehydratase/shikimate dehydrogenase,chloroplast	4.2.1.10	3-dehydroquinate dehydratase
+DHQ-SDH protein	4.2.1.10	3-dehydroquinate dehydratase
+DHQase-SORase	4.2.1.10	3-dehydroquinate dehydratase
+AfDQ	4.2.1.10	3-dehydroquinate dehydratase
+SVCR3	4.2.1.10	3-dehydroquinate dehydratase
+DHQase I	4.2.1.10	3-dehydroquinate dehydratase
+bifunctional 3-dehydroquinate dehydratase/shikimatedehydrogenase	4.2.1.10	3-dehydroquinate dehydratase
+MtDHQase	4.2.1.10	3-dehydroquinate dehydratase
+gene name	4.2.1.10	3-dehydroquinate dehydratase
+type II 3-dehydroquinate dehydratase	4.2.1.10	3-dehydroquinate dehydratase
+Type II dehydroquinase	4.2.1.10	3-dehydroquinate dehydratase
+cyclohexa-1,5-diene-1-carbonyl-CoA hydratase	4.2.1.100	cyclohexa-1,5-dienecarbonyl-CoA hydratase
+EC 4.2.1.102	4.2.1.100	cyclohexa-1,5-dienecarbonyl-CoA hydratase
+Cyclohexa-1,5-diene-1-carboxyl-CoA hydratase	4.2.1.100	cyclohexa-1,5-dienecarbonyl-CoA hydratase
+dienoyl-CoA hydratase	4.2.1.100	cyclohexa-1,5-dienecarbonyl-CoA hydratase
+DCH	4.2.1.100	cyclohexa-1,5-dienecarbonyl-CoA hydratase
+gene name	4.2.1.100	cyclohexa-1,5-dienecarbonyl-CoA hydratase
+enzyme hashydratase and lyase activity	4.2.1.101	trans-feruloyl-CoA hydratase
+HCHL	4.2.1.101	trans-feruloyl-CoA hydratase
+4-hydroxycinnamoyl-coenzyme A hydratase-lyase	4.2.1.101	trans-feruloyl-CoA hydratase
+feruloyl-CoA hydratase-lyase	4.2.1.101	trans-feruloyl-CoA hydratase
+FCHL	4.2.1.101	trans-feruloyl-CoA hydratase
+hydroxycinnamoyl-CoA hydratase/lyase	4.2.1.101	trans-feruloyl-CoA hydratase
+enoyl-CoA hydratase/aldolase	4.2.1.101	trans-feruloyl-CoA hydratase
+feruloyl-CoA hydratase/lyase	4.2.1.101	trans-feruloyl-CoA hydratase
+cyclohexyl isocyanide hydratase	4.2.1.103	cyclohexyl-isocyanide hydratase
+N-cyclohexylformamide hydro-lyase	4.2.1.103	cyclohexyl-isocyanide hydratase
+isonitrile hydratase	4.2.1.103	cyclohexyl-isocyanide hydratase
+the enzyme belongs to the DJ-1 superfamily	4.2.1.103	cyclohexyl-isocyanide hydratase
+isocyanide hydratase	4.2.1.103	cyclohexyl-isocyanide hydratase
+ICH	4.2.1.103	cyclohexyl-isocyanide hydratase
+InhB	4.2.1.103	cyclohexyl-isocyanide hydratase
+EC 3.5.5.3	4.2.1.104	cyanase
+Hydrolase, cyanate	4.2.1.104	cyanase
+cyanate aminohydrolase	4.2.1.104	cyanase
+cyanate C-N-lyase	4.2.1.104	cyanase
+cyanase	4.2.1.104	cyanase
+formerly	4.2.1.104	cyanase
+AtCYN	4.2.1.104	cyanase
+cyanate hydrolase	4.2.1.104	cyanase
+cyanate lyase	4.2.1.104	cyanase
+OsCYN	4.2.1.104	cyanase
+gene name	4.2.1.104	cyanase
+cyanate hydratase	4.2.1.104	cyanase
+GmHID	4.2.1.105	2-hydroxyisoflavanone dehydratase
+hydroxyisoflavanone dehydratase	4.2.1.105	2-hydroxyisoflavanone dehydratase
+gene name, a gene homologue of 2-hydroxyisoflavanonedehydratase, HIDH2	4.2.1.105	2-hydroxyisoflavanone dehydratase
+HID	4.2.1.105	2-hydroxyisoflavanone dehydratase
+2-hydroxyisoflavanone dehydratase	4.2.1.105	2-hydroxyisoflavanone dehydratase
+2,7,4'-trihydroxyisoflavanone dehydratase	4.2.1.105	2-hydroxyisoflavanone dehydratase
+gene name	4.2.1.106	bile-acid 7alpha-dehydratase
+46 kDa hydratase	4.2.1.107	3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase
+46 kDa hydratase 2	4.2.1.107	3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase
+multifunctional enzyme, cf. EC 4.2.1.119, secondmultifunctional enzyme in rat liver peroxisome perMFE-1, cf. EC1.1.1.35 and EC 5.3.3.8	4.2.1.107	3alpha,7alpha,12alpha-trihydroxy-5beta-cholest-24-enoyl-CoA hydratase
+gene name	4.2.1.108	ectoine synthase
+ectoine synthase	4.2.1.108	ectoine synthase
+1-PMT-ribulose dehydratase	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+5-Methylthioribulose-1-phosphate	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+MTRu-1-P dehydratase	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+MtnB	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+5’-methylthioribulose-1-phosphate dehydratase	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+Mde1p	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+gene name	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+MTRu-1-P dehydratase/enolase	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+5'-methylthioribulose-1-phosphate dehydratase	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+APIP	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+Apaf-1-interacting protein	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+5-methylthioribulose-1-phosphate dehydratase	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+Apaf-1 interacting protein	4.2.1.109	methylthioribulose 1-phosphate dehydratase
+alpha,alpha-enolase	4.2.1.11	phosphopyruvate hydratase
+hydratase, phosphoenolpyruvate	4.2.1.11	phosphopyruvate hydratase
+phosphoenolpyruvate hydratase	4.2.1.11	phosphopyruvate hydratase
+2-phosphoglycerate dehydratase	4.2.1.11	phosphopyruvate hydratase
+2-phosphoglyceric dehydratase	4.2.1.11	phosphopyruvate hydratase
+2-phosphoglycerate enolase	4.2.1.11	phosphopyruvate hydratase
+2-phospho-D-glycerate hydro-lyase	4.2.1.11	phosphopyruvate hydratase
+gamma,gamma-enolase	4.2.1.11	phosphopyruvate hydratase
+R-NSE	4.2.1.11	phosphopyruvate hydratase
+Alt a XI	4.2.1.11	phosphopyruvate hydratase
+Cla h VI	4.2.1.11	phosphopyruvate hydratase
+HLE1	4.2.1.11	phosphopyruvate hydratase
+Laminin binding protein	4.2.1.11	phosphopyruvate hydratase
+Major allergen Alt a 11	4.2.1.11	phosphopyruvate hydratase
+MSE	4.2.1.11	phosphopyruvate hydratase
+Neural enolase	4.2.1.11	phosphopyruvate hydratase
+NNE	4.2.1.11	phosphopyruvate hydratase
+Non-neural enolase	4.2.1.11	phosphopyruvate hydratase
+OSE1	4.2.1.11	phosphopyruvate hydratase
+Skeletal muscle enolase	4.2.1.11	phosphopyruvate hydratase
+Tau-crystallin	4.2.1.11	phosphopyruvate hydratase
+plasminogen-binding alpha-enolase	4.2.1.11	phosphopyruvate hydratase
+P46	4.2.1.11	phosphopyruvate hydratase
+human alpha-enolase	4.2.1.11	phosphopyruvate hydratase
+hENO1	4.2.1.11	phosphopyruvate hydratase
+p45	4.2.1.11	phosphopyruvate hydratase
+beta,beta-enolase	4.2.1.11	phosphopyruvate hydratase
+enolase-beta	4.2.1.11	phosphopyruvate hydratase
+XEP	4.2.1.11	phosphopyruvate hydratase
+EhENO	4.2.1.11	phosphopyruvate hydratase
+SjENO	4.2.1.11	phosphopyruvate hydratase
+ENOL	4.2.1.11	phosphopyruvate hydratase
+gene name	4.2.1.11	phosphopyruvate hydratase
+phosphoenolpyruvate enolase	4.2.1.11	phosphopyruvate hydratase
+2-phosphoglycerate hydrolase	4.2.1.11	phosphopyruvate hydratase
+gene name	4.2.1.11	phosphopyruvate hydratase
+alfa-enolase	4.2.1.11	phosphopyruvate hydratase
+EnoA I	4.2.1.11	phosphopyruvate hydratase
+EnoA1	4.2.1.11	phosphopyruvate hydratase
+enolase	4.2.1.11	phosphopyruvate hydratase
+tv-ENO1	4.2.1.11	phosphopyruvate hydratase
+recombinant protein expressed as a glutathioneS-transferase GST::tv-ENO1 fusion protein in Escherichia coli, cleavedusing thrombin	4.2.1.11	phosphopyruvate hydratase
+SEN	4.2.1.11	phosphopyruvate hydratase
+SEN	4.2.1.11	phosphopyruvate hydratase
+r-Pfen	4.2.1.11	phosphopyruvate hydratase
+Pfen	4.2.1.11	phosphopyruvate hydratase
+Pfeno	4.2.1.11	phosphopyruvate hydratase
+2-phospho-D-glycerate hydrolyase	4.2.1.11	phosphopyruvate hydratase
+enolase 1	4.2.1.11	phosphopyruvate hydratase
+Phosphopyruvate hydratase	4.2.1.11	phosphopyruvate hydratase
+cytotoxin B	4.2.1.11	phosphopyruvate hydratase
+gamma-enolase	4.2.1.11	phosphopyruvate hydratase
+14-3-2 protein	4.2.1.11	phosphopyruvate hydratase
+neuron-specific enolase	4.2.1.11	phosphopyruvate hydratase
+NSE	4.2.1.11	phosphopyruvate hydratase
+MASA	4.2.1.11	phosphopyruvate hydratase
+human neuron-specific enolase	4.2.1.11	phosphopyruvate hydratase
+enolase S	4.2.1.11	phosphopyruvate hydratase
+ENO-S	4.2.1.11	phosphopyruvate hydratase
+enolase-alpha	4.2.1.11	phosphopyruvate hydratase
+ENO-1	4.2.1.11	phosphopyruvate hydratase
+enolase gamma	4.2.1.11	phosphopyruvate hydratase
+enolase alpha	4.2.1.11	phosphopyruvate hydratase
+Eno-alpha	4.2.1.11	phosphopyruvate hydratase
+neuron specific enolase	4.2.1.11	phosphopyruvate hydratase
+neuronal enolase	4.2.1.11	phosphopyruvate hydratase
+enolase-1	4.2.1.11	phosphopyruvate hydratase
+ENOA	4.2.1.11	phosphopyruvate hydratase
+Enolase-phosphatase E1	4.2.1.11	phosphopyruvate hydratase
+ENO1	4.2.1.11	phosphopyruvate hydratase
+2-phosphopyruvate hydrolyase	4.2.1.11	phosphopyruvate hydratase
+alpha-enolase	4.2.1.11	phosphopyruvate hydratase
+enolase 2	4.2.1.11	phosphopyruvate hydratase
+Eno2	4.2.1.11	phosphopyruvate hydratase
+beta-enolase	4.2.1.11	phosphopyruvate hydratase
+Enol-1	4.2.1.11	phosphopyruvate hydratase
+SPM2	4.2.1.11	phosphopyruvate hydratase
+2-phospho-D-glyceratehydrolyase	4.2.1.11	phosphopyruvate hydratase
+alpha-enolase 1	4.2.1.11	phosphopyruvate hydratase
+alpha-enolase 2	4.2.1.11	phosphopyruvate hydratase
+recombinant protein expressed in Escherichia coli witha 6×-His tag	4.2.1.11	phosphopyruvate hydratase
+2-phospho-D-glycerate hydrolase	4.2.1.11	phosphopyruvate hydratase
+SsEno	4.2.1.11	phosphopyruvate hydratase
+recombinant Streptococcus suis-enolase-protein with aHis tag expressed in Escherichia coli	4.2.1.11	phosphopyruvate hydratase
+Csenolase	4.2.1.11	phosphopyruvate hydratase
+Eno1p	4.2.1.11	phosphopyruvate hydratase
+Err2p	4.2.1.11	phosphopyruvate hydratase
+Err3p	4.2.1.11	phosphopyruvate hydratase
+2-phosphoglycerate hydrolyase	4.2.1.11	phosphopyruvate hydratase
+yeast enolase	4.2.1.11	phosphopyruvate hydratase
+enolase2p	4.2.1.11	phosphopyruvate hydratase
+pyranosone dehydratase	4.2.1.110	aldos-2-ulose dehydratase
+1,5-anhydro-D-fructose dehydratase(microthecin-forming)	4.2.1.110	aldos-2-ulose dehydratase
+AUDH	4.2.1.110	aldos-2-ulose dehydratase
+aldosulose-utilizing enzyme	4.2.1.110	aldos-2-ulose dehydratase
+bifunctional enzyme	4.2.1.110	aldos-2-ulose dehydratase
+aldos-2-ulose dehydratase/isomerase	4.2.1.110	aldos-2-ulose dehydratase
+1,5-anhydro-D-fructose 4-dehydratase	4.2.1.111	1,5-anhydro-D-fructose dehydratase
+1,5-anhydro-D-fructose hydrolyase	4.2.1.111	1,5-anhydro-D-fructose dehydratase
+1,5-anhydro-D-arabino-hex-2-ulose dehydratase	4.2.1.111	1,5-anhydro-D-fructose dehydratase
+1,5-anhydro-D-fructose hydro-lyase	4.2.1.111	1,5-anhydro-D-fructose dehydratase
+AF dehydratase	4.2.1.111	1,5-anhydro-D-fructose dehydratase
+AFDH	4.2.1.111	1,5-anhydro-D-fructose dehydratase
+ispH	4.2.1.112	acetylene hydratase
+HMBPP reductase	4.2.1.112	acetylene hydratase
+(E)-4-hydroxy-3-methyl-but-2-enyl diphosphate reductase	4.2.1.112	acetylene hydratase
+the enzyme structurally belongs to the dimethyl sulfoxidereductase family of enzymes	4.2.1.112	acetylene hydratase
+AH	4.2.1.112	acetylene hydratase
+tungsten-dependent acetylene hydratase	4.2.1.112	acetylene hydratase
+o-succinylbenzoic acid synthase	4.2.1.113	o-succinylbenzoate synthase
+OSB synthase	4.2.1.113	o-succinylbenzoate synthase
+OSBS	4.2.1.113	o-succinylbenzoate synthase
+o-succinylbenzoate synthase	4.2.1.113	o-succinylbenzoate synthase
+ExiOSBS	4.2.1.113	o-succinylbenzoate synthase
+methanogen HACN	4.2.1.114	methanogen homoaconitase
+small subunit protein of HACN	4.2.1.114	methanogen homoaconitase
+HACN	4.2.1.114	methanogen homoaconitase
+large subunit protein of HACN	4.2.1.114	methanogen homoaconitase
+the enzyme belongs to the aconitase superfamily	4.2.1.114	methanogen homoaconitase
+Homoaconitase	4.2.1.114	methanogen homoaconitase
+gene name	4.2.1.114	methanogen homoaconitase
+4,6-dehydratase/5-epimerase	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+NAD(P)+-dependent dehydratase/epimerase	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+HP0840	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+inverting 4,6-dehydratase	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+UDP-GlcNAc C6 dehydratase/C4 reductase	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+the enzyme belongs to the SDR superfamily	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+PseB	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+UDP-alpha-D-GlcNAc modifying dehydratase	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+FlaA1	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+UDP-GlcNAc C6 dehydratase	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+Cj1293	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+UDP-N-acetylglucosamine 5-inverting 4,6-dehydratase	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+UDP-GlcNAc 5-inverting 4,6-dehydratase	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+WbpM	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+CapE	4.2.1.115	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-inverting)
+AcnD	4.2.1.117	2-methylcitrate dehydratase (2-methyl-trans-aconitate forming)
+QutC	4.2.1.118	3-dehydroshikimate dehydratase
+Qa-1	4.2.1.118	3-dehydroshikimate dehydratase
+AroZ	4.2.1.118	3-dehydroshikimate dehydratase
+DSD	4.2.1.118	3-dehydroshikimate dehydratase
+membrane-bound 3-dehydroshikimate dehydratase	4.2.1.118	3-dehydroshikimate dehydratase
+mDSD	4.2.1.118	3-dehydroshikimate dehydratase
+3-dehydroshikimate dehydratase	4.2.1.118	3-dehydroshikimate dehydratase
+(-)-3-dehydroshikimate dehydratase	4.2.1.118	3-dehydroshikimate dehydratase
+AtECH2	4.2.1.119	enoyl-CoA hydratase 2
+2E-enoyl-CoA hydratase 2	4.2.1.119	enoyl-CoA hydratase 2
+multifunctional enzyme	4.2.1.119	enoyl-CoA hydratase 2
+gene name	4.2.1.119	enoyl-CoA hydratase 2
+the classification is ambiguous because thestereochemistry of the reaction product is not exactly determined	4.2.1.119	enoyl-CoA hydratase 2
+D-3-hydroxyacyl-CoA dehydratase	4.2.1.119	enoyl-CoA hydratase 2
+MFE2 hydratase	4.2.1.119	enoyl-CoA hydratase 2
+multifunctional enzyme type 2 hydratase	4.2.1.119	enoyl-CoA hydratase 2
+domain in human MFE-2	4.2.1.119	enoyl-CoA hydratase 2
+monofunctional, has not been observed asa wild-type protein. Part of perMFE-2 (2-enoyl-CoA hydratase2/(R)-3-hydroxyacyl-CoA dehydrogenase)	4.2.1.119	enoyl-CoA hydratase 2
+enoyl-CoA hydratase 2	4.2.1.119	enoyl-CoA hydratase 2
+ECH2	4.2.1.119	enoyl-CoA hydratase 2
+hydratase 2	4.2.1.119	enoyl-CoA hydratase 2
+peroxisomal multifunctional enzyme perMFE-II has2-enoyl-CoA hydratase 2 (D-specific) activity and D-specific3-hydroxyacyl-CoA dehydrogenase (EC 1.1.1.36) activity. Peroxisomalmultifunctional enzyme perMFE-I has 2-enoyl-CoA hydratase 1 activity(L-specific, EC 4.2.1.17) and L-specific 3-hydroxyacyl-CoAdehydrogenase (EC 1.1.1.35) activity	4.2.1.119	enoyl-CoA hydratase 2
+2-enoyl-hydratase 2	4.2.1.119	enoyl-CoA hydratase 2
+MFE2	4.2.1.119	enoyl-CoA hydratase 2
+D-bifunctional enzyme	4.2.1.119	enoyl-CoA hydratase 2
+D-BP	4.2.1.119	enoyl-CoA hydratase 2
+(3R)-hydroxyacyl-CoAdehydrogenase/2-enoyl-CoA hydratase 2	4.2.1.119	enoyl-CoA hydratase 2
+ECH-2	4.2.1.119	enoyl-CoA hydratase 2
+PhaJAc	4.2.1.119	enoyl-CoA hydratase 2
+(R)-specific enoyl coenzyme A hydratase	4.2.1.119	enoyl-CoA hydratase 2
+phaJ	4.2.1.119	enoyl-CoA hydratase 2
+(R)-specific enoyl-CoA hydratase	4.2.1.119	enoyl-CoA hydratase 2
+D-(-)-3-hydroxyacyl-CoA hydro-lyase	4.2.1.119	enoyl-CoA hydratase 2
+D-3-hydroxyacyl-CoA hydro-lyase	4.2.1.119	enoyl-CoA hydratase 2
+D-specific 2-trans-enoyl-CoA hydratase	4.2.1.119	enoyl-CoA hydratase 2
+2-enoyl-CoA hydratase 2 domain ofCandida tropicalis	4.2.1.119	enoyl-CoA hydratase 2
+(3R)-hydroxyacyl-CoA dehydrogenase/2-enoyl-CoA hydratase 2	4.2.1.119	enoyl-CoA hydratase 2
+PhaJ4aRe	4.2.1.119	enoyl-CoA hydratase 2
+PhaJ4bRe	4.2.1.119	enoyl-CoA hydratase 2
+PhaJ4cRe	4.2.1.119	enoyl-CoA hydratase 2
+R-specific enoyl coenzyme A hydratase	4.2.1.119	enoyl-CoA hydratase 2
+R-specific enoyl-CoA hydratase	4.2.1.119	enoyl-CoA hydratase 2
+6-phosphogluconic dehydrase	4.2.1.12	phosphogluconate dehydratase
+gluconate-6-phosphate dehydratase	4.2.1.12	phosphogluconate dehydratase
+gluconate 6-phosphate dehydratase	4.2.1.12	phosphogluconate dehydratase
+6-phosphogluconate dehydrase	4.2.1.12	phosphogluconate dehydratase
+dehydratase, phosphogluconate	4.2.1.12	phosphogluconate dehydratase
+6PGDT	4.2.1.12	phosphogluconate dehydratase
+6-PG dehydrase	4.2.1.12	phosphogluconate dehydratase
+EDD	4.2.1.12	phosphogluconate dehydratase
+PGDH	4.2.1.12	phosphogluconate dehydratase
+6-phospho-D-gluconate dehydratase	4.2.1.12	phosphogluconate dehydratase
+6-phosphogluconate dehydratase	4.2.1.12	phosphogluconate dehydratase
+Edd protein	4.2.1.12	phosphogluconate dehydratase
+AbfD	4.2.1.120	4-hydroxybutanoyl-CoA dehydratase
+locus name	4.2.1.120	4-hydroxybutanoyl-CoA dehydratase
+locus name	4.2.1.120	4-hydroxybutanoyl-CoA dehydratase
+locus name	4.2.1.120	4-hydroxybutanoyl-CoA dehydratase
+9-divinyl ether synthase	4.2.1.121	colneleate synthase
+CYP74D	4.2.1.121	colneleate synthase
+divinyl ether synthase	4.2.1.121	colneleate synthase
+DES	4.2.1.121	colneleate synthase
+9-DES	4.2.1.121	colneleate synthase
+DES1	4.2.1.121	colneleate synthase
+DVE synthase	4.2.1.121	colneleate synthase
+CYP74D1	4.2.1.121	colneleate synthase
+CYP74 cytochrome P-450	4.2.1.121	colneleate synthase
+LeDES	4.2.1.121	colneleate synthase
+NtDES1	4.2.1.121	colneleate synthase
+TrpB2	4.2.1.122	tryptophan synthase (indole-salvaging)
+Trp synthase	4.2.1.122	tryptophan synthase (indole-salvaging)
+squalene-tetrahymanol cyclase	4.2.1.123	tetrahymanol synthase
+STC	4.2.1.123	tetrahymanol synthase
+At4g15340	4.2.1.124	arabidiol synthase
+DDS	4.2.1.125	dammarenediol II synthase
+dammarenediol-II synthase	4.2.1.125	dammarenediol II synthase
+PNA	4.2.1.125	dammarenediol II synthase
+gene name	4.2.1.125	dammarenediol II synthase
+dammarenediol synthase	4.2.1.125	dammarenediol II synthase
+MurNAc-6-phosphate etherase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+YbbI	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+MurQ	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+N-acetylmuramic acid 6-phosphate hydrolase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+MurNAc 6-phosphate hydrolase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+MurNAc 6-phosphate etherase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+MurNAc 6-phosphate etherase lyase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+MurNAc etherase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+N-acetylmuramic acid-phosphate etherase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+etherase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+N-acetylmuramic acid 6-phosphate lyase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+MurNAc-6-P etherase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+MurQ hydrolase	4.2.1.126	N-acetylmuramic acid 6-phosphate etherase
+bifunctional enzyme thatcatalyzes the reversible dehydration and isomerization of linalool(3,7-dimethyl-1,6-octadien-3-ol)	4.2.1.127	linalool dehydratase
+ldi/LDI	4.2.1.127	linalool dehydratase
+LDI	4.2.1.127	linalool dehydratase
+gene name	4.2.1.128	lupan-3beta,20-diol synthase
+gene name	4.2.1.128	lupan-3beta,20-diol synthase
+ambiguous	4.2.1.129	squalene-hopanol cyclase
+SHC	4.2.1.129	squalene-hopanol cyclase
+glyoxylase III	4.2.1.130	D-lactate dehydratase
+glyoxalase III	4.2.1.130	D-lactate dehydratase
+Hsp31	4.2.1.130	D-lactate dehydratase
+gene name	4.2.1.130	D-lactate dehydratase
+UniProt	4.2.1.130	D-lactate dehydratase
+DJ-1f	4.2.1.130	D-lactate dehydratase
+UniProt	4.2.1.130	D-lactate dehydratase
+DJ-1a	4.2.1.130	D-lactate dehydratase
+UniProt	4.2.1.130	D-lactate dehydratase
+DJ-1b	4.2.1.130	D-lactate dehydratase
+UniProt	4.2.1.130	D-lactate dehydratase
+DJ-1c	4.2.1.130	D-lactate dehydratase
+UniProt	4.2.1.130	D-lactate dehydratase
+DJ-1e	4.2.1.130	D-lactate dehydratase
+gene name	4.2.1.130	D-lactate dehydratase
+gene name	4.2.1.130	D-lactate dehydratase
+glutathione-independent glyoxalase III	4.2.1.130	D-lactate dehydratase
+GSH-independent glyoxalase III	4.2.1.130	D-lactate dehydratase
+GLO3	4.2.1.130	D-lactate dehydratase
+PfpI	4.2.1.130	D-lactate dehydratase
+SpDJ-1	4.2.1.130	D-lactate dehydratase
+gene name	4.2.1.130	D-lactate dehydratase
+DJ-1	4.2.1.130	D-lactate dehydratase
+DJ-1 glyoxalase	4.2.1.130	D-lactate dehydratase
+gene name	4.2.1.130	D-lactate dehydratase
+cf. EC 3.5.1.124	4.2.1.130	D-lactate dehydratase
+gene name	4.2.1.130	D-lactate dehydratase
+CrtC	4.2.1.131	carotenoid 1,2-hydratase
+CruF	4.2.1.131	carotenoid 1,2-hydratase
+acyclic carotene 1,2-hydratase	4.2.1.131	carotenoid 1,2-hydratase
+TesE	4.2.1.132	2-hydroxyhexa-2,4-dienoate hydratase
+gene name	4.2.1.133	copal-8-ol diphosphate hydratase
+copal-8-ol diphosphate synthase	4.2.1.133	copal-8-ol diphosphate hydratase
+CLS	4.2.1.133	copal-8-ol diphosphate hydratase
+gene name	4.2.1.133	copal-8-ol diphosphate hydratase
+very-long-chain (3R)-3-hydroxyacyl-[acyl-carrier protein] dehydratase	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+isoform	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+isoform	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+isoform	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+isoform	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+3-hydroxyacyl-CoA dehydratase	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+PHS1	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+very-long-chain hydroxy fatty acyl-CoA dehydratase	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+gene name	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+fatty acyl-CoA dehydratase	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+PASTICCINO 2, gene name	4.2.1.134	very-long-chain (3R)-3-hydroxyacyl-CoA dehydratase
+PglF	4.2.1.135	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-retaining)
+Cj1120c	4.2.1.135	UDP-N-acetylglucosamine 4,6-dehydratase (configuration-retaining)
+Carkd	4.2.1.136	ADP-dependent NAD(P)H-hydrate dehydratase
+NADHX dehydratase	4.2.1.136	ADP-dependent NAD(P)H-hydrate dehydratase
+YjeF	4.2.1.136	ADP-dependent NAD(P)H-hydrate dehydratase
+YKL151C	4.2.1.136	ADP-dependent NAD(P)H-hydrate dehydratase
+Tm0922	4.2.1.136	ADP-dependent NAD(P)H-hydrate dehydratase
+ADP/ATP-dependent NAD(P)H-hydrate dehydratase	4.2.1.136	ADP-dependent NAD(P)H-hydrate dehydratase
+YxkO	4.2.1.136	ADP-dependent NAD(P)H-hydrate dehydratase
+NAD(P)HX dehydratase	4.2.1.136	ADP-dependent NAD(P)H-hydrate dehydratase
+bifunctional enzyme,cyclizing both tetraprenyl-beta-curcumene and squalene in vivo	4.2.1.137	sporulenol synthase
+gene name	4.2.1.137	sporulenol synthase
+GcoA	4.2.1.138	(+)-caryolan-1-ol synthase
+medicarpan synthase	4.2.1.139	medicarpin synthase
+7,2'-dihydroxy-4'-methoxyisoflavanol dehydratase	4.2.1.139	medicarpin synthase
+2',7-dihydroxy-4'-methoxyisoflavanol dehydratase	4.2.1.139	medicarpin synthase
+DMID	4.2.1.139	medicarpin synthase
+DMI dehydratase	4.2.1.139	medicarpin synthase
+7,2-dihydroxy-4-methoxyisoflavanol dehydratase	4.2.1.139	medicarpin synthase
+D-gluconate dehydratase	4.2.1.140	gluconate/galactonate dehydratase
+GNAD	4.2.1.140	gluconate/galactonate dehydratase
+gene name	4.2.1.140	gluconate/galactonate dehydratase
+gene name	4.2.1.140	gluconate/galactonate dehydratase
+KdaD	4.2.1.141	2-dehydro-3-deoxy-D-arabinonate dehydratase
+gene name	4.2.1.141	2-dehydro-3-deoxy-D-arabinonate dehydratase
+D-KDA dehydratase	4.2.1.141	2-dehydro-3-deoxy-D-arabinonate dehydratase
+OAVN cyclase	4.2.1.142	5'-oxoaverantin cyclase
+versicolorin B synthase	4.2.1.142	5'-oxoaverantin cyclase
+VBS	4.2.1.142	5'-oxoaverantin cyclase
+OAVN cyclase	4.2.1.143	versicolorin B synthase
+versicolorin B synthase	4.2.1.143	versicolorin B synthase
+VBS	4.2.1.143	versicolorin B synthase
+aflK	4.2.1.143	versicolorin B synthase
+AHBA synthase	4.2.1.144	3-amino-5-hydroxybenzoate synthase
+gene name	4.2.1.144	3-amino-5-hydroxybenzoate synthase
+3-amino-5-hydroxybenzoic acid synthase	4.2.1.144	3-amino-5-hydroxybenzoate synthase
+ambiguous	4.2.1.145	capreomycidine synthase
+LGD1	4.2.1.146	L-galactonate dehydratase
+FAE	4.2.1.147	5,6,7,8-tetrahydromethanopterin hydro-lyase
+formaldehyde-activating enzyme	4.2.1.147	5,6,7,8-tetrahydromethanopterin hydro-lyase
+MCD	4.2.1.148	2-methylfumaryl-CoA hydratase
+erythro-beta-methylmalonyl-CoA hydrolyase	4.2.1.148	2-methylfumaryl-CoA hydratase
+ambiguous	4.2.1.148	2-methylfumaryl-CoA hydratase
+mesaconyl-C1-CoA hydratase	4.2.1.148	2-methylfumaryl-CoA hydratase
+mesaconyl-CoA hydratase	4.2.1.148	2-methylfumaryl-CoA hydratase
+gene name	4.2.1.149	crotonobetainyl-CoA hydratase
+L-carnityl-CoA dehydratase	4.2.1.149	crotonobetainyl-CoA hydratase
+carnithine racemase	4.2.1.149	crotonobetainyl-CoA hydratase
+3-hydroxyacyl-CoA dehydratase	4.2.1.150	short-chain-enoyl-CoA hydratase
+crotonase	4.2.1.150	short-chain-enoyl-CoA hydratase
+cf. EC 4.2.1.17	4.2.1.150	short-chain-enoyl-CoA hydratase
+3-hydroxybutyryl-CoA dehydratase	4.2.1.150	short-chain-enoyl-CoA hydratase
+gene name	4.2.1.150	short-chain-enoyl-CoA hydratase
+L-3-hydroxyacyl-CoA hydro-lyase	4.2.1.150	short-chain-enoyl-CoA hydratase
+locus name	4.2.1.150	short-chain-enoyl-CoA hydratase
+crotonyl-CoA hydratase	4.2.1.150	short-chain-enoyl-CoA hydratase
+locus name	4.2.1.151	chorismate dehydratase
+MqnA	4.2.1.151	chorismate dehydratase
+SCO4506	4.2.1.151	chorismate dehydratase
+Acel0261	4.2.1.151	chorismate dehydratase
+eLOX3	4.2.1.152	hydroperoxy icosatetraenoate dehydratase
+epidermal lipoxygenase-3	4.2.1.152	hydroperoxy icosatetraenoate dehydratase
+epidermal LOX type 3	4.2.1.152	hydroperoxy icosatetraenoate dehydratase
+hepoxilin synthase	4.2.1.152	hydroperoxy icosatetraenoate dehydratase
+mesaconyl-coenzyme A hydratase	4.2.1.153	3-methylfumaryl-CoA hydratase
+mesaconyl-CoA hydratase	4.2.1.153	3-methylfumaryl-CoA hydratase
+gene name	4.2.1.153	3-methylfumaryl-CoA hydratase
+mesaconyl-C4-CoA hydratase	4.2.1.153	3-methylfumaryl-CoA hydratase
+Tcm F2 cyclase	4.2.1.154	tetracenomycin F2 cyclase
+TcmI cyclase	4.2.1.154	tetracenomycin F2 cyclase
+gene name	4.2.1.154	tetracenomycin F2 cyclase
+DmdD	4.2.1.155	(methylthio)acryloyl-CoA hydratase
+MTA-CoA hydratase	4.2.1.155	(methylthio)acryloyl-CoA hydratase
+locus name	4.2.1.155	(methylthio)acryloyl-CoA hydratase
+L-talarate hydro-lyase	4.2.1.156	L-talarate dehydratase
+STM3697	4.2.1.156	L-talarate dehydratase
+2-hydroxyisocaproyl-CoA dehydratase	4.2.1.157	(R)-2-hydroxyisocaproyl-CoA dehydratase
+HadBC	4.2.1.157	(R)-2-hydroxyisocaproyl-CoA dehydratase
+GalrD-II	4.2.1.158	galactarate dehydratase (D-threo-forming)
+galactarate dehydratase (D-threo-forming)	4.2.1.158	galactarate dehydratase (D-threo-forming)
+EryBV	4.2.1.159	dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+TDP-4-keto-6-deoxy-D-glucose 2,3-dehydratase	4.2.1.159	dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+evaA	4.2.1.159	dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+gene name	4.2.1.159	dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+gene name	4.2.1.159	dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+megBVI	4.2.1.159	dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+gene name	4.2.1.159	dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+gene name	4.2.1.159	dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+D-olivose, D-oliose and D-mycarose 2,3-dehydratase	4.2.1.159	dTDP-4-dehydro-6-deoxy-alpha-D-glucopyranose 2,3-dehydratase
+TrpFCtL2	4.2.1.160	2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one
+N-(5'-phosphoribosyl)anthranilate isomerase/dehydratase	4.2.1.160	2,5-diamino-6-(5-phospho-D-ribosylamino)pyrimidin-4(3H)-one
+C50 carotenoid 2'',3''-hydratase	4.2.1.161	bisanhydrobacterioruberin hydratase
+CruF	4.2.1.161	bisanhydrobacterioruberin hydratase
+gene name	4.2.1.161	bisanhydrobacterioruberin hydratase
+SG dehydratase	4.2.1.162	6-deoxy-6-sulfo-D-gluconate dehydratase
+gene name	4.2.1.163	2-oxo-hept-4-ene-1,7-dioate hydratase
+OHED hydratase	4.2.1.163	2-oxo-hept-4-ene-1,7-dioate hydratase
+2-oxohept-3-ene-l,7-dioic acid hydratase	4.2.1.163	2-oxo-hept-4-ene-1,7-dioate hydratase
+SpnQ	4.2.1.164	dTDP-4-dehydro-2,6-dideoxy-D-glucose 3-dehydratase
+UniProt	4.2.1.165	chlorophyllide a 31-hydratase
+gene name	4.2.1.165	chlorophyllide a 31-hydratase
+3-vinyl hydratase	4.2.1.165	chlorophyllide a 31-hydratase
+gene locus	4.2.1.165	chlorophyllide a 31-hydratase
+PMI	4.2.1.166	phosphinomethylmalate isomerase
+gene names	4.2.1.167	(R)-2-hydroxyglutaryl-CoA dehydratase
+activator protein	4.2.1.167	(R)-2-hydroxyglutaryl-CoA dehydratase
+GDP-4-keto-6-deoxy-D-mannose-3-dehydratase	4.2.1.168	GDP-4-dehydro-6-deoxy-alpha-D-mannose 3-dehydratase
+gene name	4.2.1.168	GDP-4-dehydro-6-deoxy-alpha-D-mannose 3-dehydratase
+colD	4.2.1.168	GDP-4-dehydro-6-deoxy-alpha-D-mannose 3-dehydratase
+chV	4.2.1.169	3-vinyl bacteriochlorophyllide d 31-hydratase
+bchF	4.2.1.169	3-vinyl bacteriochlorophyllide d 31-hydratase
+C3-vinyl hydratase	4.2.1.169	3-vinyl bacteriochlorophyllide d 31-hydratase
+3-vinyl hydratase	4.2.1.169	3-vinyl bacteriochlorophyllide d 31-hydratase
+gene name	4.2.1.169	3-vinyl bacteriochlorophyllide d 31-hydratase
+gene locus	4.2.1.169	3-vinyl bacteriochlorophyllide d 31-hydratase
+UniProt	4.2.1.169	3-vinyl bacteriochlorophyllide d 31-hydratase
+Enoyl coenzyme A hydrase (D)	4.2.1.17	enoyl-CoA hydratase
+D-3-hydroxyacyl-CoA dehydratase	4.2.1.17	enoyl-CoA hydratase
+hydratase, enoyl coenzyme A	4.2.1.17	enoyl-CoA hydratase
+acyl coenzyme A hydrase	4.2.1.17	enoyl-CoA hydratase
+crotonyl hydrase	4.2.1.17	enoyl-CoA hydratase
+enoyl hydrase	4.2.1.17	enoyl-CoA hydratase
+2-octenoyl coenzyme A hydrase	4.2.1.17	enoyl-CoA hydratase
+enoyl coenzyme A hydratase	4.2.1.17	enoyl-CoA hydratase
+enol-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+beta-hydroxyacid dehydrase	4.2.1.17	enoyl-CoA hydratase
+trans-2-enoyl-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+unsaturated acyl-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+short-chain enoyl-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+enoyl coenzyme A hydrase (L)	4.2.1.17	enoyl-CoA hydratase
+beta-hydroxyacyl-CoA dehydrase	4.2.1.17	enoyl-CoA hydratase
+short chain enoyl coenzyme A hydratase	4.2.1.17	enoyl-CoA hydratase
+FadRBs	4.2.1.17	enoyl-CoA hydratase
+YsiA	4.2.1.17	enoyl-CoA hydratase
+(R)-specific 2-enoyl-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+enoyl coenzyme A hydratase (L)	4.2.1.17	enoyl-CoA hydratase
+crotonyl-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+CCH/HBCD	4.2.1.17	enoyl-CoA hydratase
+the classificationis ambiguous because the stereochemistry is not exactly determined	4.2.1.17	enoyl-CoA hydratase
+the classification is ambiguous because thestereochemistry is not exactly determined	4.2.1.17	enoyl-CoA hydratase
+theclassification is ambiguous because the stereochemistry is not exactlydetermined	4.2.1.17	enoyl-CoA hydratase
+rat peroxisomal multifunctional enzyme type 1	4.2.1.17	enoyl-CoA hydratase
+rpMFE1	4.2.1.17	enoyl-CoA hydratase
+DELTA2-enoyl-CoA hydratase-1	4.2.1.17	enoyl-CoA hydratase
+AIM1	4.2.1.17	enoyl-CoA hydratase
+MFP2	4.2.1.17	enoyl-CoA hydratase
+enoyl coenzyme A hydratase 1	4.2.1.17	enoyl-CoA hydratase
+ECHS1	4.2.1.17	enoyl-CoA hydratase
+the classification isambiguous because the stereochemistry is not exactly determined	4.2.1.17	enoyl-CoA hydratase
+ECH1	4.2.1.17	enoyl-CoA hydratase
+enoyl-coenzyme A hydratase/isomerase	4.2.1.17	enoyl-CoA hydratase
+enoyl-CoA hydratase/isomerase	4.2.1.17	enoyl-CoA hydratase
+AMECH	4.2.1.17	enoyl-CoA hydratase
+S-3-hydroxyacyl-CoA enoyl-CoA hydratases	4.2.1.17	enoyl-CoA hydratase
+R-3-hydroxyacyl-CoA enoyl-CoA hydratases	4.2.1.17	enoyl-CoA hydratase
+multienzyme of fatty acid oxidationcontains in addition to enoyl-CoA hydratase, EC 1.1.1.35(L-3-hydroxyacyl-CoA dehydrogenase), EC 2.3.1.16 (3-ketoacyl-CoAthiolase), EC 5.1.2.2 (3-hydroxyacyl-CoA epimerase) and EC 5.3.3.3(DELTA3-cis-DELTA2-trans-enoyl-CoA isomerase)	4.2.1.17	enoyl-CoA hydratase
+R-specific	4.2.1.17	enoyl-CoA hydratase
+S-specific	4.2.1.17	enoyl-CoA hydratase
+2-enoyl-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+enoyl-CoA hydratase short chain 1	4.2.1.17	enoyl-CoA hydratase
+ECH	4.2.1.17	enoyl-CoA hydratase
+enoyl-CoA hydratase 2	4.2.1.17	enoyl-CoA hydratase
+is part of peroxisomal multifunctionalenzyme perMFE-I together with L-specific 3-hydroxyacyl-CoAdehydrogenase (1.1.1.35)	4.2.1.17	enoyl-CoA hydratase
+enoyl-CoA hydratase 1	4.2.1.17	enoyl-CoA hydratase
+ECH2	4.2.1.17	enoyl-CoA hydratase
+peroxisomal multifunctional enzyme perMFE-I has2-enoyl-CoA hydratase 1 activity (L-specific, EC 4.2.1.17) andL-specific 3-hydroxyacyl-CoA dehydrogenase (1.1.1.35) activity.Peroxisomal multifunctional enzyme perMFE-II has 2-enoyl-CoA hydratase2 (D-specific) activity and D-specific 3-hydroxyacyl-CoA dehydrogenase(1.1.1.36) activity	4.2.1.17	enoyl-CoA hydratase
+multifunctional enzyme type 1	4.2.1.17	enoyl-CoA hydratase
+multifunctional enzyme, cf. 5.3.3.8 and EC 1.1.1.35,second multifunctional enzyme in rat liver peroxisome perMFE-2, cf. EC4.2.1.107 and EC 4.2.1.119	4.2.1.17	enoyl-CoA hydratase
+classic 2-enoyl-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+2-enoyl-hydratase 1	4.2.1.17	enoyl-CoA hydratase
+2-enoyl-CoA hydratase-1	4.2.1.17	enoyl-CoA hydratase
+mECH-1	4.2.1.17	enoyl-CoA hydratase
+enoyl-coenzyme A hydratase	4.2.1.17	enoyl-CoA hydratase
+crotonase superfamily enzyme	4.2.1.17	enoyl-CoA hydratase
+S-3-hydroxyacyl-CoA enoyl-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+R-3-hydroxyacyl-CoA enoyl-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+2,3-dehydroadipyl-CoA hydratase	4.2.1.17	enoyl-CoA hydratase
+PaaF	4.2.1.17	enoyl-CoA hydratase
+isopropylmalate isomerase	4.2.1.170	2-(omega-methylthio)alkylmalate dehydratase
+IPMI	4.2.1.170	2-(omega-methylthio)alkylmalate dehydratase
+isopropylmalate dehydratase	4.2.1.170	2-(omega-methylthio)alkylmalate dehydratase
+cis-L-3-hydroxyproline hydro-lyase	4.2.1.171	cis-L-3-hydroxyproline dehydratase
+c3LHypD	4.2.1.171	cis-L-3-hydroxyproline dehydratase
+gene name	4.2.1.171	cis-L-3-hydroxyproline dehydratase
+SmCPS4	4.2.1.173	ent-8alpha-hydroxylabd-13-en-15-yl diphosphate synthase
+MvCPS1	4.2.1.174	peregrinol diphosphate synthase
+hydratase, methylglutaconyl coenzyme A	4.2.1.18	methylglutaconyl-CoA hydratase
+methylglutaconyl coenzyme A hydratase	4.2.1.18	methylglutaconyl-CoA hydratase
+methylglutaconase	4.2.1.18	methylglutaconyl-CoA hydratase
+MG-CoA hydratase	4.2.1.18	methylglutaconyl-CoA hydratase
+HMG-CoA hydrolyase	4.2.1.18	methylglutaconyl-CoA hydratase
+3MGH	4.2.1.18	methylglutaconyl-CoA hydratase
+enzyme alsopossesses an RNA-binding activity to AUUU repeats	4.2.1.18	methylglutaconyl-CoA hydratase
+3-methylglutaconyl-CoA hydratase	4.2.1.18	methylglutaconyl-CoA hydratase
+gene name	4.2.1.18	methylglutaconyl-CoA hydratase
+(3S)-methylglutaconyl-CoA hydratase	4.2.1.18	methylglutaconyl-CoA hydratase
+MGCH	4.2.1.18	methylglutaconyl-CoA hydratase
+3-methylglutaconyl CoA hydratase	4.2.1.18	methylglutaconyl-CoA hydratase
+3-MG-CoA	4.2.1.18	methylglutaconyl-CoA hydratase
+imidazoleglycerolphoshate dehydratase	4.2.1.19	imidazoleglycerol-phosphate dehydratase
+dehydratase, imidazoleglycerol phosphate	4.2.1.19	imidazoleglycerol-phosphate dehydratase
+IGP dehydratase	4.2.1.19	imidazoleglycerol-phosphate dehydratase
+HisB	4.2.1.19	imidazoleglycerol-phosphate dehydratase
+imidazoleglycerol phosphate dehydratase	4.2.1.19	imidazoleglycerol-phosphate dehydratase
+gene name	4.2.1.19	imidazoleglycerol-phosphate dehydratase
+IGPD	4.2.1.19	imidazoleglycerol-phosphate dehydratase
+hydratase, fumarate	4.2.1.2	fumarate hydratase
+L-malate hydro-lyase	4.2.1.2	fumarate hydratase
+FUM isozyme capable of hydrating fumarate without theaid of Fe-S clusters	4.2.1.2	fumarate hydratase
+scFUMC	4.2.1.2	fumarate hydratase
+slFumC	4.2.1.2	fumarate hydratase
+LmFH-1	4.2.1.2	fumarate hydratase
+gene name	4.2.1.2	fumarate hydratase
+LmFH-2	4.2.1.2	fumarate hydratase
+gene name	4.2.1.2	fumarate hydratase
+FumC	4.2.1.2	fumarate hydratase
+FumA	4.2.1.2	fumarate hydratase
+FumB	4.2.1.2	fumarate hydratase
+fumarase C	4.2.1.2	fumarate hydratase
+Fum	4.2.1.2	fumarate hydratase
+class II fumarase	4.2.1.2	fumarate hydratase
+stFUMC	4.2.1.2	fumarate hydratase
+MmcBC	4.2.1.2	fumarate hydratase
+fumarate hydratase	4.2.1.2	fumarate hydratase
+fumarase	4.2.1.2	fumarate hydratase
+FUM2	4.2.1.2	fumarate hydratase
+FUMR	4.2.1.2	fumarate hydratase
+FumF	4.2.1.2	fumarate hydratase
+locus name	4.2.1.2	fumarate hydratase
+locus name	4.2.1.2	fumarate hydratase
+rv1098c	4.2.1.2	fumarate hydratase
+gene name, PF1755 and PF1754 were shown to form a[4Fe-4S]-clustercontaining heterodimeric enzyme, able to catalyse thereversible hydratation of fumarate	4.2.1.2	fumarate hydratase
+gene name, PF1755 and PF1754 were shown to form a[4Fe-4S]-clustercontaining heterodimeric enzyme, able to catalyse thereversible hydratation of fumarate	4.2.1.2	fumarate hydratase
+FUM1	4.2.1.2	fumarate hydratase
+tryptophan synthetase	4.2.1.20	tryptophan synthase
+indoleglycerol phosphate aldolase	4.2.1.20	tryptophan synthase
+L-tryptophan synthetase	4.2.1.20	tryptophan synthase
+tryptophan desmolase	4.2.1.20	tryptophan synthase
+synthase, tryptophan	4.2.1.20	tryptophan synthase
+TS	4.2.1.20	tryptophan synthase
+consists of an alpha2beta2bienzyme complex with alphabeta dimeric units assembled as thetetrameric species via the beta-beta subunit interface, eachalpha-subunit catalyzes the cleavage of 3-indole-D-glycerol 3-phosphateto indole and D-glyceraldehyde 3-phosphate, the pyridoxal phosphaterequiring beta-subunit catalyzes a beta-replacement reaction in whichindole replaces the hydroxyl of L-Ser, giving L-Trp	4.2.1.20	tryptophan synthase
+tryptophan synthase alpha2beta2 complex	4.2.1.20	tryptophan synthase
+TRPS	4.2.1.20	tryptophan synthase
+TSase	4.2.1.20	tryptophan synthase
+subunit TrpA catalyzes thereversible cleavage of indole-3-glycerol phosphate (IGP1) intoglyceraldehyde-3-phosphate and indole, the indole migrates through ahydrophobic channel to an active site of an attached TrpB1 subunit,where it condenses with L-serine in a pyridoxal phosphate dependentirreversible reaction to form L-tryptophan	4.2.1.20	tryptophan synthase
+alpha-subunit	4.2.1.20	tryptophan synthase
+Trp synthase	4.2.1.20	tryptophan synthase
+beta subunit of tryptophan synthase	4.2.1.20	tryptophan synthase
+TrB	4.2.1.20	tryptophan synthase
+gene name	4.2.1.20	tryptophan synthase
+tryptophan synthase beta-subunit paralog	4.2.1.20	tryptophan synthase
+tryptophan synthase beta-subunit paralog	4.2.1.20	tryptophan synthase
+TrpA	4.2.1.20	tryptophan synthase
+TSA	4.2.1.20	tryptophan synthase
+tryptophan synthase alpha subunit	4.2.1.20	tryptophan synthase
+It-TSA	4.2.1.20	tryptophan synthase
+AtTSB1	4.2.1.20	tryptophan synthase
+tryptophan synthase alpha-subunit	4.2.1.20	tryptophan synthase
+tryptophan synthase beta	4.2.1.20	tryptophan synthase
+TSB	4.2.1.20	tryptophan synthase
+TSB1	4.2.1.20	tryptophan synthase
+Trp synthase beta	4.2.1.20	tryptophan synthase
+TSbeta	4.2.1.20	tryptophan synthase
+L-serine hydro-lyase (adding indoleglycerol-phosphate)	4.2.1.20	tryptophan synthase
+tryptophan synthase beta subunit	4.2.1.20	tryptophan synthase
+tryptophan synthase beta 1	4.2.1.20	tryptophan synthase
+trpB	4.2.1.20	tryptophan synthase
+Cysteine synthase	4.2.1.22	cystathionine beta-synthase
+Beta-thionase	4.2.1.22	cystathionine beta-synthase
+Methylcysteine synthase	4.2.1.22	cystathionine beta-synthase
+Serine sulfhydrylase	4.2.1.22	cystathionine beta-synthase
+Serine sulphhydrase	4.2.1.22	cystathionine beta-synthase
+Serine sulfhydrase	4.2.1.22	cystathionine beta-synthase
+Hemoprotein H-450	4.2.1.22	cystathionine beta-synthase
+cystathionine beta-synthase domain-containing protein	4.2.1.22	cystathionine beta-synthase
+CDCP2	4.2.1.22	cystathionine beta-synthase
+PF1953	4.2.1.22	cystathionine beta-synthase
+TA0289	4.2.1.22	cystathionine beta-synthase
+osmoprotectant transporter OpuC	4.2.1.22	cystathionine beta-synthase
+cystathionine beta-synthase	4.2.1.22	cystathionine beta-synthase
+TM0935	4.2.1.22	cystathionine beta-synthase
+PH0267	4.2.1.22	cystathionine beta-synthase
+TV1335	4.2.1.22	cystathionine beta-synthase
+cystathionine beta synthase	4.2.1.22	cystathionine beta-synthase
+CBS	4.2.1.22	cystathionine beta-synthase
+hCBS	4.2.1.22	cystathionine beta-synthase
+inactive form of CBS	4.2.1.22	cystathionine beta-synthase
+cystathionine-beta-synthase	4.2.1.22	cystathionine beta-synthase
+a truncated form of CBS comprising the catalytic core isused for mutational analysis	4.2.1.22	cystathionine beta-synthase
+yCBS	4.2.1.22	cystathionine beta-synthase
+5-aminolevulinate hydro-lyase (adding 5-aminolevulinate and cyclizing)	4.2.1.24	porphobilinogen synthase
+synthase, porphobilinogen	4.2.1.24	porphobilinogen synthase
+aminolevulinate dehydratase	4.2.1.24	porphobilinogen synthase
+delta-aminolevulinic acid dehydrase	4.2.1.24	porphobilinogen synthase
+aminolevulinic dehydratase	4.2.1.24	porphobilinogen synthase
+5-levulinic acid dehydratase	4.2.1.24	porphobilinogen synthase
+aminolevulinate dehydrase	4.2.1.24	porphobilinogen synthase
+delta-aminolevulinate dehydrase	4.2.1.24	porphobilinogen synthase
+porphobilinogen synthetase	4.2.1.24	porphobilinogen synthase
+5-aminolevulinic acid dehydrase	4.2.1.24	porphobilinogen synthase
+gamma-aminolevulinic acid dehydratase	4.2.1.24	porphobilinogen synthase
+5-aminolevulinate dehydrase	4.2.1.24	porphobilinogen synthase
+ALADH	4.2.1.24	porphobilinogen synthase
+PBG synthase	4.2.1.24	porphobilinogen synthase
+ALA synthetase	4.2.1.24	porphobilinogen synthase
+PBG-S	4.2.1.24	porphobilinogen synthase
+5-aminolevulinic acid dehydratase	4.2.1.24	porphobilinogen synthase
+PaPBGS	4.2.1.24	porphobilinogen synthase
+PBGS	4.2.1.24	porphobilinogen synthase
+PfALAD	4.2.1.24	porphobilinogen synthase
+ALA dehydratase	4.2.1.24	porphobilinogen synthase
+5-aminolaevulinic acid dehydratase	4.2.1.24	porphobilinogen synthase
+delta-aminolevulinate dehydrataseALAD	4.2.1.24	porphobilinogen synthase
+delta-aminolevulinate dehydratase	4.2.1.24	porphobilinogen synthase
+delta-ALA-D	4.2.1.24	porphobilinogen synthase
+ALAD	4.2.1.24	porphobilinogen synthase
+TgPBGS	4.2.1.24	porphobilinogen synthase
+PGBS	4.2.1.24	porphobilinogen synthase
+5-aminolevulinate dehydratase	4.2.1.24	porphobilinogen synthase
+Al-D	4.2.1.24	porphobilinogen synthase
+240-kDa proteasome inhibitor	4.2.1.24	porphobilinogen synthase
+delta-ALAD	4.2.1.24	porphobilinogen synthase
+d-ALAD	4.2.1.24	porphobilinogen synthase
+Porphobilinogen synthase	4.2.1.24	porphobilinogen synthase
+ALA-D	4.2.1.24	porphobilinogen synthase
+delta-aminolevulinic acid dehydratase	4.2.1.24	porphobilinogen synthase
+delta-aminolevulinic dehydratase	4.2.1.24	porphobilinogen synthase
+PBG-synthase	4.2.1.24	porphobilinogen synthase
+delta aminolevulinic acid dehydratase	4.2.1.24	porphobilinogen synthase
+Dehydratase, L-arabinonate	4.2.1.25	L-Arabinonate dehydratase
+L-Arabonate dehydrase	4.2.1.25	L-Arabinonate dehydratase
+L-Arabonate dehydratase	4.2.1.25	L-Arabinonate dehydratase
+malonate semialdehyde dehydratase, malonate semialdehyde	4.2.1.27	acetylenecarboxylate hydratase
+malonate semialdehyde dehydratase	4.2.1.27	acetylenecarboxylate hydratase
+dehydratase, malonate semialdehyde	4.2.1.27	acetylenecarboxylate hydratase
+acetylenemonocarboxylic acid hydrase	4.2.1.27	acetylenecarboxylate hydratase
+malonate-semialdehyde dehydratase	4.2.1.27	acetylenecarboxylate hydratase
+EC 4.2.1.71	4.2.1.27	acetylenecarboxylate hydratase
+dehydratase, propanediol	4.2.1.28	propanediol dehydratase
+meso-2,3-butanediol dehydrase	4.2.1.28	propanediol dehydratase
+dioldehydratase	4.2.1.28	propanediol dehydratase
+dehydratase, diol	4.2.1.28	propanediol dehydratase
+Propanediol dehydrase	4.2.1.28	propanediol dehydratase
+coenzyme B12-dependent diol dehydrase	4.2.1.28	propanediol dehydratase
+1,2-propanediol dehydratase	4.2.1.28	propanediol dehydratase
+diol dehydrase	4.2.1.28	propanediol dehydratase
+dioldehydrase	4.2.1.28	propanediol dehydratase
+DL-1,2-propanediol hydro-lyase	4.2.1.28	propanediol dehydratase
+cobalamin-dependent diol dehydratase	4.2.1.28	propanediol dehydratase
+AdoCbl-dependent diol dehydratase	4.2.1.28	propanediol dehydratase
+DL-1,2-propanediol hydrolyase	4.2.1.28	propanediol dehydratase
+adenosylcobalamin-dependent diol dehydratase	4.2.1.28	propanediol dehydratase
+diol dehydratase alpha subunit	4.2.1.28	propanediol dehydratase
+1,2-propanediol hydro-lyase	4.2.1.28	propanediol dehydratase
+diol dehydratase	4.2.1.28	propanediol dehydratase
+DDH	4.2.1.28	propanediol dehydratase
+coenzyme-B12-dependent diol dehydratase	4.2.1.28	propanediol dehydratase
+GldCDE	4.2.1.28	propanediol dehydratase
+PduCDE	4.2.1.28	propanediol dehydratase
+coenzyme B12-dependent diol dehydratase	4.2.1.28	propanediol dehydratase
+hydratase, aconitate	4.2.1.3	aconitate hydratase
+cis-aconitase	4.2.1.3	aconitate hydratase
+citrate hydro-lyase	4.2.1.3	aconitate hydratase
+IRE-BP	4.2.1.3	aconitate hydratase
+iron-responsive element binding protein	4.2.1.3	aconitate hydratase
+Ferritin repressor protein	4.2.1.3	aconitate hydratase
+IP210	4.2.1.3	aconitate hydratase
+Iron regulatory protein	4.2.1.3	aconitate hydratase
+IRP	4.2.1.3	aconitate hydratase
+Major iron-containing protein	4.2.1.3	aconitate hydratase
+MICP	4.2.1.3	aconitate hydratase
+aconitase A	4.2.1.3	aconitate hydratase
+Acn	4.2.1.3	aconitate hydratase
+cytosolic aconitase	4.2.1.3	aconitate hydratase
+cytoplasmic aconitase	4.2.1.3	aconitate hydratase
+cytoplasmic aconitase/iron regulatory protein 1 homolog	4.2.1.3	aconitate hydratase
+ACO	4.2.1.3	aconitate hydratase
+acon	4.2.1.3	aconitate hydratase
+aconitase	4.2.1.3	aconitate hydratase
+iron regulatory-like protein	4.2.1.3	aconitate hydratase
+PfIRPa	4.2.1.3	aconitate hydratase
+AcnA	4.2.1.3	aconitate hydratase
+citB	4.2.1.3	aconitate hydratase
+AH	4.2.1.3	aconitate hydratase
+IRP-1	4.2.1.3	aconitate hydratase
+iron regulatory protein 1	4.2.1.3	aconitate hydratase
+bifunctional enzyme:aconitate hydratase 2/2-methylisocitrate dehydratase	4.2.1.3	aconitate hydratase
+aconitase 2	4.2.1.3	aconitate hydratase
+mitochondrial aconitase	4.2.1.3	aconitate hydratase
+AcnB is a member of the aconitase family	4.2.1.3	aconitate hydratase
+aconitase B	4.2.1.3	aconitate hydratase
+AcnB	4.2.1.3	aconitate hydratase
+Aco3	4.2.1.3	aconitate hydratase
+mACON	4.2.1.3	aconitate hydratase
+iron-regulatory protein 1	4.2.1.3	aconitate hydratase
+c-acon	4.2.1.3	aconitate hydratase
+IRP1	4.2.1.3	aconitate hydratase
+CAA	4.2.1.3	aconitate hydratase
+c-aconitase	4.2.1.3	aconitate hydratase
+dehydratase, glycerol	4.2.1.30	glycerol dehydratase
+glycerol dehydrase	4.2.1.30	glycerol dehydratase
+glycerol hydrolyase	4.2.1.30	glycerol dehydratase
+glycerol dehydratase	4.2.1.30	glycerol dehydratase
+KpG	4.2.1.30	glycerol dehydratase
+vitamin B12-independent glycerol dehydratase	4.2.1.30	glycerol dehydratase
+B12-independent GDH	4.2.1.30	glycerol dehydratase
+DhaBCE	4.2.1.30	glycerol dehydratase
+B12-dependent glycerol dehydratase	4.2.1.30	glycerol dehydratase
+glycerol dehdydrogenase	4.2.1.30	glycerol dehydratase
+glycerol hydro-lyase	4.2.1.30	glycerol dehydratase
+GDHt	4.2.1.30	glycerol dehydratase
+GDH	4.2.1.30	glycerol dehydratase
+large subunit	4.2.1.30	glycerol dehydratase
+middle subunit	4.2.1.30	glycerol dehydratase
+small subunit	4.2.1.30	glycerol dehydratase
+DhaB1	4.2.1.30	glycerol dehydratase
+B12-dependent enzyme glycerol dehydratase	4.2.1.30	glycerol dehydratase
+D-malate hydro-lyase	4.2.1.31	maleate hydratase
+malease	4.2.1.31	maleate hydratase
+maleic-acid hydratase	4.2.1.31	maleate hydratase
+L-(+)-Tartaric acid dehydrase	4.2.1.32	L(+)-Tartrate dehydratase
+Dehydratase, tartrate	4.2.1.32	L(+)-Tartrate dehydratase
+Tartrate dehydratase	4.2.1.32	L(+)-Tartrate dehydratase
+Tartaric acid dehydrase	4.2.1.32	L(+)-Tartrate dehydratase
+L-(+)-Tartrate dehydratase	4.2.1.32	L(+)-Tartrate dehydratase
+L-Ttd	4.2.1.32	L(+)-Tartrate dehydratase
+L-TTD alpha	4.2.1.32	L(+)-Tartrate dehydratase
+L-TTD beta	4.2.1.32	L(+)-Tartrate dehydratase
+L-Tartrate dehydratase	4.2.1.32	L(+)-Tartrate dehydratase
+TtdA	4.2.1.32	L(+)-Tartrate dehydratase
+meso-tartrate dehydratase, similar enzyme, specific formeso-tartrate	4.2.1.32	L(+)-Tartrate dehydratase
+dehydratase,beta-isopropylmalate	4.2.1.33	3-isopropylmalate dehydratase
+beta-Isopropylmalate dehydratase	4.2.1.33	3-isopropylmalate dehydratase
+alpha-isopropylmalate isomerase	4.2.1.33	3-isopropylmalate dehydratase
+IPM dehydratase	4.2.1.33	3-isopropylmalate dehydratase
+Alpha-IPM isomerase	4.2.1.33	3-isopropylmalate dehydratase
+SOI10	4.2.1.33	3-isopropylmalate dehydratase
+Superoxide-inducible protein 10	4.2.1.33	3-isopropylmalate dehydratase
+3-isopropylmalate dehydratase	4.2.1.33	3-isopropylmalate dehydratase
+LEU1S	4.2.1.33	3-isopropylmalate dehydratase
+the enzyme belongs to the aconitase superfamily	4.2.1.33	3-isopropylmalate dehydratase
+LeuCD	4.2.1.33	3-isopropylmalate dehydratase
+gene name, large subunit of 3-isopropylmalatedehydratase	4.2.1.33	3-isopropylmalate dehydratase
+gene name	4.2.1.33	3-isopropylmalate dehydratase
+small subunit	4.2.1.33	3-isopropylmalate dehydratase
+3-isopropylmalate isomerase	4.2.1.33	3-isopropylmalate dehydratase
+IPM isomerase	4.2.1.33	3-isopropylmalate dehydratase
+isopropylmalate dehydratase	4.2.1.33	3-isopropylmalate dehydratase
+isopropylmalate isomerase small subunit1	4.2.1.33	3-isopropylmalate dehydratase
+IPMI	4.2.1.33	3-isopropylmalate dehydratase
+isopropylmalate isomerase	4.2.1.33	3-isopropylmalate dehydratase
+Mesaconate hydratase	4.2.1.34	(S)-2-Methylmalate dehydratase
+Hydratase, mesaconate	4.2.1.34	(S)-2-Methylmalate dehydratase
+Dehydratase, citramalate	4.2.1.34	(S)-2-Methylmalate dehydratase
+(+)-Citramalic hydro-lyase	4.2.1.34	(S)-2-Methylmalate dehydratase
+Mesaconase, mesaconate	4.2.1.34	(S)-2-Methylmalate dehydratase
+Mesaconase	4.2.1.34	(S)-2-Methylmalate dehydratase
+Citraconate hydratase	4.2.1.35	(R)-2-Methylmalate dehydratase
+Hydratase, citraconate	4.2.1.35	(R)-2-Methylmalate dehydratase
+Citraconase	4.2.1.35	(R)-2-Methylmalate dehydratase
+Citramalate hydro-lyase	4.2.1.35	(R)-2-Methylmalate dehydratase
+Hydratase, homoaconitate	4.2.1.36	homoaconitate hydratase
+cis-Homoaconitase	4.2.1.36	homoaconitate hydratase
+Homoaconitate hydratase	4.2.1.36	homoaconitate hydratase
+2-hydroxy-3-carboxyadipate hydro-lyase	4.2.1.36	homoaconitate hydratase
+HACN	4.2.1.36	homoaconitate hydratase
+MJ0499	4.2.1.36	homoaconitate hydratase
+large subunit	4.2.1.36	homoaconitate hydratase
+Homoaconitase	4.2.1.36	homoaconitate hydratase
+MJ1271	4.2.1.36	homoaconitate hydratase
+HACNMj	4.2.1.36	homoaconitate hydratase
+lysF	4.2.1.36	homoaconitate hydratase
+dehydratase, gluconate	4.2.1.39	Gluconate dehydratase
+GNAD	4.2.1.39	Gluconate dehydratase
+gluconate dehydratase	4.2.1.39	Gluconate dehydratase
+GAD	4.2.1.39	Gluconate dehydratase
+gene name	4.2.1.39	Gluconate dehydratase
+GlcD	4.2.1.39	Gluconate dehydratase
+D-gluconate dehydratase	4.2.1.39	Gluconate dehydratase
+dehydratase, glucarate	4.2.1.40	glucarate dehydratase
+GDH	4.2.1.40	glucarate dehydratase
+glucarate dehydratase	4.2.1.40	glucarate dehydratase
+GlucD	4.2.1.40	glucarate dehydratase
+D-Glucarate dehydratase	4.2.1.40	glucarate dehydratase
+Dehydratase, deoxyketoglucarate	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+Deoxyketoglucarate dehydratase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+Deoxyoxoglucarate dehydratase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+5-Keto-4-deoxy-glucarate dehydratase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+D-4-Deoxy-5-ketoglucarate hydro-lyase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+D-4-Deoxy-5-oxoglucarate hydro-lyase (decarboxylating)	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+4-Deoxy-5-oxoglucarate hydro-lyase (decarboxylating)	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+D-4-Deoxy-5-ketoglucarate hydro-lyase (decarboxylating)	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+KDGDH	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+5-dehydro-4-deoxyglucarate dehydratase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+D-5-keto-4-deoxyglucarate dehydratase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+KDG dehydratase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+KdgD	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+5-keto-4-deoxy-D-glucarate dehydratase/decarboxylase	4.2.1.41	5-dehydro-4-deoxyglucarate dehydratase
+Dehydratase, galactarate	4.2.1.42	galactarate dehydratase
+Galactarate dehydrase	4.2.1.42	galactarate dehydratase
+GalcD	4.2.1.42	galactarate dehydratase
+galactarate dehydratase III	4.2.1.42	galactarate dehydratase
+GalrD-III	4.2.1.42	galactarate dehydratase
+m-galactarate dehydratase	4.2.1.42	galactarate dehydratase
+A9CG74	4.2.1.42	galactarate dehydratase
+gene name	4.2.1.42	galactarate dehydratase
+galactarate dehydratase	4.2.1.42	galactarate dehydratase
+GalrD-II	4.2.1.42	galactarate dehydratase
+2-keto-3-deoxy-L-arabinonate dehydratase	4.2.1.43	2-dehydro-3-deoxy-L-arabinonate dehydratase
+dehydratase, 2-keto-3-deoxyL-arabonate	4.2.1.43	2-dehydro-3-deoxy-L-arabinonate dehydratase
+KDA dehydratase	4.2.1.43	2-dehydro-3-deoxy-L-arabinonate dehydratase
+L-2-keto-3-deoxyarabonate dehydratase	4.2.1.43	2-dehydro-3-deoxy-L-arabinonate dehydratase
+L-KDA dehydratase	4.2.1.43	2-dehydro-3-deoxy-L-arabinonate dehydratase
+Inosose 2,3-dehydratase	4.2.1.44	Myo-inosose-2 dehydratase
+ketoinositol dehydratase	4.2.1.44	Myo-inosose-2 dehydratase
+Dehydratase, inosose 2, 3-	4.2.1.44	Myo-inosose-2 dehydratase
+cytidine diphosphoglucose oxidoreductase	4.2.1.45	CDP-glucose 4,6-dehydratase
+CDP-D-glucose-4,6-dehydratase	4.2.1.45	CDP-glucose 4,6-dehydratase
+dehydratase, cytidine diphosphoglucose	4.2.1.45	CDP-glucose 4,6-dehydratase
+CDP-D-glucose 4,6-dehydratase	4.2.1.45	CDP-glucose 4,6-dehydratase
+Thymidine diphosphoglucose oxidoreductase	4.2.1.46	dTDP-glucose 4,6-dehydratase
+Thymidine diphospho-D-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose 4,6-dehydratase
+TDP-glucose oxidoreductase	4.2.1.46	dTDP-glucose 4,6-dehydratase
+Thymidine diphosphate D-glucose oxidoreductase	4.2.1.46	dTDP-glucose 4,6-dehydratase
+dTDP-D-glucose oxidoreductase	4.2.1.46	dTDP-glucose 4,6-dehydratase
+dTDP-D-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose 4,6-dehydratase
+RmlB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+TDPDH	4.2.1.46	dTDP-glucose 4,6-dehydratase
+UDP-D-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose 4,6-dehydratase
+Ugd	4.2.1.46	dTDP-glucose 4,6-dehydratase
+dTDP-glucose-4,6-dehydratase	4.2.1.46	dTDP-glucose 4,6-dehydratase
+dTGD	4.2.1.46	dTDP-glucose 4,6-dehydratase
+TDP-D-glucose 4,6-dehydratase	4.2.1.46	dTDP-glucose 4,6-dehydratase
+RmbB	4.2.1.46	dTDP-glucose 4,6-dehydratase
+DesIV	4.2.1.46	dTDP-glucose 4,6-dehydratase
+Guanosine 5'-diphosphate-D-mannose oxidoreductase	4.2.1.47	GDP-mannose 4,6-dehydratase
+Guanosine diphosphomannose oxidoreductase	4.2.1.47	GDP-mannose 4,6-dehydratase
+Guanosine diphosphomannose 4,6-dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-D-mannose dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-D-mannose 4-oxido-6-reductase	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-mannose 4,6-dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-mannose dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+Dm-gmd	4.2.1.47	GDP-mannose 4,6-dehydratase
+ORF13.7	4.2.1.47	GDP-mannose 4,6-dehydratase
+MUR1	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-mannose dehydrogenase	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-mannose 4, 6-dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-alpha-D-mannose 4,6-dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+PBCV-1 GMD	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-D-mannose 4,6-dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+ATCV-1GMD	4.2.1.47	GDP-mannose 4,6-dehydratase
+guanosine 5'-diphosphate-D-mannose 4,6-dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-mannose 4,6 dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+GMD	4.2.1.47	GDP-mannose 4,6-dehydratase
+gene name	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-D-mannose-4,6-dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+isoenzyme	4.2.1.47	GDP-mannose 4,6-dehydratase
+isoenzyme	4.2.1.47	GDP-mannose 4,6-dehydratase
+isoenzyme	4.2.1.47	GDP-mannose 4,6-dehydratase
+GDP-mannose-4,6-dehydratase	4.2.1.47	GDP-mannose 4,6-dehydratase
+GMDS	4.2.1.47	GDP-mannose 4,6-dehydratase
+cyclase, D-glutamate	4.2.1.48	D-glutamate cyclase
+Hydratase, urocanate	4.2.1.49	Urocanate hydratase
+4'-Imidazolone-5'-propionate hydro-lyase	4.2.1.49	Urocanate hydratase
+4-Imidazolone-5'-propionate hydrolyase	4.2.1.49	Urocanate hydratase
+Imidazolonepropionate hydrolase	4.2.1.49	Urocanate hydratase
+4,5-dihydro-4-oxo-5-imidazole-propanoate hydro-lyase	4.2.1.49	Urocanate hydratase
+HutU	4.2.1.49	Urocanate hydratase
+UROC1	4.2.1.49	Urocanate hydratase
+Urocanase	4.2.1.49	Urocanate hydratase
+Dehydratase, arabinonate	4.2.1.5	Arabinonate dehydratase
+araD	4.2.1.5	Arabinonate dehydratase
+gene name	4.2.1.5	Arabinonate dehydratase
+Pyrazolealanine synthase	4.2.1.50	Pyrazolylalanine synthase
+beta-Pyrazolylalaninase	4.2.1.50	Pyrazolylalanine synthase
+beta-(1-Pyrazolyl)alanine synthase	4.2.1.50	Pyrazolylalanine synthase
+beta-(1-Pyrazol-1-yl)-L-alanine synthase	4.2.1.50	Pyrazolylalanine synthase
+beta-Ppyrazol-1-ylalanine synthetase	4.2.1.50	Pyrazolylalanine synthase
+Cystein synthase	4.2.1.50	Pyrazolylalanine synthase
+beta-(Pyrazol-1-yl)-L-alanine /L-cysteine synthase	4.2.1.50	Pyrazolylalanine synthase
+dehydratase, prephenate	4.2.1.51	prephenate dehydratase
+monofunctional prephenate dehydratase	4.2.1.51	prephenate dehydratase
+cyclohexydienyl dehydratase	4.2.1.51	prephenate dehydratase
+CM-PD	4.2.1.51	prephenate dehydratase
+MjPDT	4.2.1.51	prephenate dehydratase
+bifunctional enzyme, PDT activitywith prephenate and ADT activity with arogenate	4.2.1.51	prephenate dehydratase
+Sa-PDT	4.2.1.51	prephenate dehydratase
+Ct-PDT	4.2.1.51	prephenate dehydratase
+prephenate dehydratase 1	4.2.1.51	prephenate dehydratase
+gene name. Trifunctional enzyme EC 5.4.99.5 (chorismatemutase)/EC 4.2.1.51 (prephenate dehydratase)/EC 1.3.1.12 (prephenatedehydrogenase)	4.2.1.51	prephenate dehydratase
+trifunctional enzyme EC 5.4.99.5 (chorismatemutase)/EC 4.2.1.51 (prephenate dehydratase)/EC 1.3.1.12 (prephenatedehydrogenase)	4.2.1.51	prephenate dehydratase
+PDT protein	4.2.1.51	prephenate dehydratase
+MtbPDT	4.2.1.51	prephenate dehydratase
+chorismate mutase prephenate dehydratase	4.2.1.51	prephenate dehydratase
+the enzyme alsopossesses chorismate mutase activity (EC 5.4.99.5)	4.2.1.51	prephenate dehydratase
+the enzyme also possesses chorismate mutaseactivity (EC 5.4.99.5)	4.2.1.51	prephenate dehydratase
+Chorismate mutase/prephenate dehydratase	4.2.1.51	prephenate dehydratase
+P-protein	4.2.1.51	prephenate dehydratase
+P-protein dehydratase	4.2.1.51	prephenate dehydratase
+the bifunctional PheA protein contains twocatalytic domains (chorismate mutase and prephenate dehydrataseactivities)	4.2.1.51	prephenate dehydratase
+the arogenate dehydratase isoform has limited activitywith prephenate	4.2.1.51	prephenate dehydratase
+the arogenate dehydratase isoform has limited activitywith prephenate	4.2.1.51	prephenate dehydratase
+the arogenate dehydratase isoform has limited activitywith prephenate	4.2.1.51	prephenate dehydratase
+bifunctional enzyme, PDT activity withprephenate and ADT activity with arogenate	4.2.1.51	prephenate dehydratase
+Hydratase, oleate	4.2.1.53	Oleate hydratase
+gene name	4.2.1.53	Oleate hydratase
+oleate hydratase	4.2.1.53	Oleate hydratase
+OHase	4.2.1.53	Oleate hydratase
+OA hydratase	4.2.1.53	Oleate hydratase
+dehydratase, lactoyl-coenzyme A	4.2.1.54	lactoyl-CoA dehydratase
+lactoyl coenzyme A dehydratase	4.2.1.54	lactoyl-CoA dehydratase
+lactyl-coenzyme A dehydrase	4.2.1.54	lactoyl-CoA dehydratase
+lactyl CoA dehydratase	4.2.1.54	lactoyl-CoA dehydratase
+acrylyl coenzyme A hydratase	4.2.1.54	lactoyl-CoA dehydratase
+lactyl-CoA dehydrase	4.2.1.54	lactoyl-CoA dehydratase
+(R)-lactyl-CoA dehydratase	4.2.1.54	lactoyl-CoA dehydratase
+lactyl-CoA dehydratase	4.2.1.54	lactoyl-CoA dehydratase
+gene name	4.2.1.54	lactoyl-CoA dehydratase
+lactoyl-CoA dehydratase subunit alpha	4.2.1.54	lactoyl-CoA dehydratase
+LCD	4.2.1.54	lactoyl-CoA dehydratase
+Dehydratase, D-3-hydroxybutyryl coenzyme A	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+D-3-Hydroxybutyryl coenzyme A dehydratase	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+D-3-Hydroxybutyryl-CoA dehydratase	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+Enoyl coenzyme A hydrase (D)	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+crotonase	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+CP 24	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+enoyl-CoA hydratase 2	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+ECH 2	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+enoyl coenzyme A hydratase	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+gene name	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+(R)-specific enoyl-CoA hydratase	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+gene name. Bifunctional crotonase/3-OH-butyryl-CoAdehydrogenase	4.2.1.55	3-hydroxybutyryl-CoA dehydratase
+Hydratase, itaconyl coenzyme A	4.2.1.56	Itaconyl-CoA hydratase
+Itaconyl coenzyme A hydratase	4.2.1.56	Itaconyl-CoA hydratase
+Itaconyl-CoA hydratase	4.2.1.56	Itaconyl-CoA hydratase
+ICH	4.2.1.56	Itaconyl-CoA hydratase
+RipB	4.2.1.56	Itaconyl-CoA hydratase
+3-Hydroxy-3-isohexenylglutaryl-CoA-hydrolase	4.2.1.57	Isohexenylglutaconyl-CoA hydratase
+Isohexenyl-glutaconyl-CoA-hydratase	4.2.1.57	Isohexenylglutaconyl-CoA hydratase
+Hydratase, isohexenylglutaconyl coenzyme A	4.2.1.57	Isohexenylglutaconyl-CoA hydratase
+Isohexenylglutaconyl coenzyme A hydratase	4.2.1.57	Isohexenylglutaconyl-CoA hydratase
+Beta-isohexenylglutaconyl-CoA-hydratase	4.2.1.57	Isohexenylglutaconyl-CoA hydratase
+Isohexenylglutaconyl CoA hydratase	4.2.1.57	Isohexenylglutaconyl-CoA hydratase
+Dehydratase, D-3-hydroxyoctanoyl-[acyl carrier protein]	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+D-3-Hydroxyoctanoyl-acyl carrier protein dehydratase	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+Beta-Hydroxyoctanoyl-acyl carrier protein dehydrase	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+Dehydratase, beta-hydroxyoctanoyl thioester	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+Beta-hydroxyoctanoyl-ACP-dehydrase	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+FabZ	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+FabA	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+3-hydroxyacyl-ACP dehydratase	4.2.1.59	3-hydroxyacyl-[acyl-carrier-protein] dehydratase
+dehydratase, galactonate	4.2.1.6	galactonate dehydratase
+D-galactonate dehydrase	4.2.1.6	galactonate dehydratase
+D-galactonate dehydratase	4.2.1.6	galactonate dehydratase
+dgdA	4.2.1.6	galactonate dehydratase
+dgdB	4.2.1.6	galactonate dehydratase
+Dehydratase, 5alpha-hydroxysterol	4.2.1.62	5alpha-Hydroxysteroid dehydratase
+5alpha-Hydroxysterol dehydase	4.2.1.62	5alpha-Hydroxysteroid dehydratase
+Hydratase, beta-cyanoalanine	4.2.1.65	3-Cyanoalanine hydratase
+beta-Cyanoalanine hydrolase	4.2.1.65	3-Cyanoalanine hydratase
+Hydrolase, beta-cyanoalanine	4.2.1.65	3-Cyanoalanine hydratase
+beta-Cyanoalanine hydratase	4.2.1.65	3-Cyanoalanine hydratase
+Beta-CNAla hydrolase	4.2.1.65	3-Cyanoalanine hydratase
+Beta-CNA nitrilase	4.2.1.65	3-Cyanoalanine hydratase
+Nit4	4.2.1.65	3-Cyanoalanine hydratase
+Ala(CN) hydratase	4.2.1.65	3-Cyanoalanine hydratase
+hydratase, cyanide	4.2.1.66	cyanide hydratase
+Formamide hydrolyase	4.2.1.66	cyanide hydratase
+CHT	4.2.1.66	cyanide hydratase
+NitAn1	4.2.1.66	cyanide hydratase
+formamide dehydratase	4.2.1.66	cyanide hydratase
+formamide hydro-lyase (cyanide-forming)	4.2.1.66	cyanide hydratase
+formamide hydro-lyase	4.2.1.66	cyanide hydratase
+the enzyme belongs to thenitrilase family of CN hydrolyzing enzymes	4.2.1.66	cyanide hydratase
+formamide hydrolase	4.2.1.66	cyanide hydratase
+Dehydratase, D-fuconate	4.2.1.67	D-fuconate dehydratase
+D-fuconate dehydratase	4.2.1.67	D-fuconate dehydratase
+dehydratase, L-fuconate	4.2.1.68	L-fuconate dehydratase
+L-fuconate hydratase	4.2.1.68	L-fuconate dehydratase
+FucD	4.2.1.68	L-fuconate dehydratase
+hydratase, cyanamide	4.2.1.69	cyanamide hydratase
+cyanamide-hydratase	4.2.1.69	cyanamide hydratase
+Urea hydro-lyase	4.2.1.69	cyanamide hydratase
+gene name	4.2.1.69	cyanamide hydratase
+Cah protein	4.2.1.69	cyanamide hydratase
+dehydratase, altronate	4.2.1.7	altronate dehydratase
+Altronic acid hydratase	4.2.1.7	altronate dehydratase
+pseudouridylic acid synthetase	4.2.1.70	pseudouridylate synthase
+synthase, pseudouridylate	4.2.1.70	pseudouridylate synthase
+pseudouridine monophosphate synthetase	4.2.1.70	pseudouridylate synthase
+5-ribosyluracil 5'-phosphate synthetase	4.2.1.70	pseudouridylate synthase
+pseudouridylate synthetase	4.2.1.70	pseudouridylate synthase
+psiUMP synthetase	4.2.1.70	pseudouridylate synthase
+psiMP synthetase	4.2.1.70	pseudouridylate synthase
+psisynthetase	4.2.1.70	pseudouridylate synthase
+PSUI	4.2.1.70	pseudouridylate synthase
+pseudouridylate synthetase I	4.2.1.70	pseudouridylate synthase
+pseudouridylate synthetase II	4.2.1.70	pseudouridylate synthase
+pseudouridine synthase I	4.2.1.70	pseudouridylate synthase
+16S pseudouridine 516 synthase	4.2.1.70	pseudouridylate synthase
+16S pseudouridylate 516 synthase	4.2.1.70	pseudouridylate synthase
+Depressed growth-RATE protein DEG1	4.2.1.70	pseudouridylate synthase
+ORP protein	4.2.1.70	pseudouridylate synthase
+Osmoprotectant regulator of PLC	4.2.1.70	pseudouridylate synthase
+P35 protein	4.2.1.70	pseudouridylate synthase
+Pseudouridylate synthase	4.2.1.70	pseudouridylate synthase
+PSI55 synthase	4.2.1.70	pseudouridylate synthase
+tRNA pseudouridine 55 synthase	4.2.1.70	pseudouridylate synthase
+uracil hydrolyase	4.2.1.70	pseudouridylate synthase
+IndA	4.2.1.70	pseudouridylate synthase
+pseudouridine-5'-phosphate glycosidase	4.2.1.70	pseudouridylate synthase
+YeiN	4.2.1.70	pseudouridylate synthase
+pseudouridine synthase	4.2.1.70	pseudouridylate synthase
+TruB	4.2.1.70	pseudouridylate synthase
+pseudouridine synthases are classified into the sequencefamilies TruB, TruA, RsuA, RluA and TruD	4.2.1.70	pseudouridylate synthase
+psi55 tRNA pseudouridine synthase	4.2.1.70	pseudouridylate synthase
+PUS	4.2.1.70	pseudouridylate synthase
+Dehydratase, protoaphin aglucone (cyclizing)	4.2.1.73	Protoaphin-aglucone dehydratase (cyclizing)
+Protoaphin dehydratase	4.2.1.73	Protoaphin-aglucone dehydratase (cyclizing)
+Protoaphin dehydratase (cyclizing)	4.2.1.73	Protoaphin-aglucone dehydratase (cyclizing)
+hydratase, long-chain enoyl coenzyme A	4.2.1.74	long-chain-enoyl-CoA hydratase
+D-3-hydroxyacyl-CoA dehydratase	4.2.1.74	long-chain-enoyl-CoA hydratase
+long chain enoyl coenzyme A hydratase	4.2.1.74	long-chain-enoyl-CoA hydratase
+2-enoyl-CoA hydratase 2	4.2.1.74	long-chain-enoyl-CoA hydratase
+ECH2	4.2.1.74	long-chain-enoyl-CoA hydratase
+a component enzyme of the trifunctionalbeta-oxidation complex, which is associated with the inner membrane ofthe mitochondria, contains long-chain specific activities of enoyl-CoAhydratase, L-3-hydroxyacyl-CoA dehydrogenase, and 3-ketoacyl-CoAthiolase	4.2.1.74	long-chain-enoyl-CoA hydratase
+Uroporphyrinogen-III cosynthase	4.2.1.75	uroporphyrinogen-III synthase
+Porphobilinogenase	4.2.1.75	uroporphyrinogen-III synthase
+Isomerase, uroporphyrinogen	4.2.1.75	uroporphyrinogen-III synthase
+Uroporphyrinogen isomerase	4.2.1.75	uroporphyrinogen-III synthase
+Synthase, uroporphyrinogen III co-	4.2.1.75	uroporphyrinogen-III synthase
+Uroporphyrinogen III co-synthase	4.2.1.75	uroporphyrinogen-III synthase
+Hydroxymethylbilane hydrolyase [cyclizing]	4.2.1.75	uroporphyrinogen-III synthase
+Uroporphyrinogen-III cosynthetase	4.2.1.75	uroporphyrinogen-III synthase
+uroporphyrinogen-III-synthase	4.2.1.75	uroporphyrinogen-III synthase
+Uroporphyrinogen III synthase	4.2.1.75	uroporphyrinogen-III synthase
+U3S	4.2.1.75	uroporphyrinogen-III synthase
+CobA/HemD	4.2.1.75	uroporphyrinogen-III synthase
+uro‘gen III synthase	4.2.1.75	uroporphyrinogen-III synthase
+hydroxymethylbilane hydrolyase, cyclizing	4.2.1.75	uroporphyrinogen-III synthase
+URO synthase	4.2.1.75	uroporphyrinogen-III synthase
+UROS	4.2.1.75	uroporphyrinogen-III synthase
+URO-synthase	4.2.1.75	uroporphyrinogen-III synthase
+Uroporphyrinogen III cosynthase	4.2.1.75	uroporphyrinogen-III synthase
+UROIIIS	4.2.1.75	uroporphyrinogen-III synthase
+UDP-D-glucose-4,6-hydrolyase	4.2.1.76	UDP-glucose 4,6-dehydratase
+trifunctional enzyme with UDP-D-glucose 4,6-dehydratase,UDP-4-keto-6-deoxy-D-glucose 3,5-epimerase, and UDP-4-keto-L-rhamnose4-keto-reductase activities	4.2.1.76	UDP-glucose 4,6-dehydratase
+trifunctional enzyme with UDP-D-glucose 4,6-dehydratase,UDP-4-keto-6-deoxy-D-glucose 3,5-epimerase, and UDP-4-keto-L-rhamnose4-keto-reductase activities	4.2.1.76	UDP-glucose 4,6-dehydratase
+UDP-Glc 4,6-dehydratase	4.2.1.76	UDP-glucose 4,6-dehydratase
+trifunctional enzyme with UDP-D-glucose4,6-dehydratase, UDP-4-keto-6-deoxy-D-glucose 3,5-epimerase, andUDP-4-keto-L-rhamnose 4-keto-reductase activities. The N-terminalregion of RHM2 (RHM2-N, amino acids 1-370) has the first activity andthe C-terminal region of RHM2 (RHM2-C, amino acids 371-667) has the twofollowing activities	4.2.1.76	UDP-glucose 4,6-dehydratase
+gene name	4.2.1.76	UDP-glucose 4,6-dehydratase
+bifunctional UDP-4-keto-6-deoxy-D-glucose epimerase/reductase	4.2.1.76	UDP-glucose 4,6-dehydratase
+UGER	4.2.1.76	UDP-glucose 4,6-dehydratase
+UDP-D-glucose 4,6-dehydratase	4.2.1.76	UDP-glucose 4,6-dehydratase
+Ugd	4.2.1.76	UDP-glucose 4,6-dehydratase
+UDP-glucose-4,6-dehydratase	4.2.1.76	UDP-glucose 4,6-dehydratase
+UG4,6-Dh	4.2.1.76	UDP-glucose 4,6-dehydratase
+TlLhpH	4.2.1.77	trans-L-3-hydroxyproline dehydratase
+T3LHyp dehydratase	4.2.1.77	trans-L-3-hydroxyproline dehydratase
+Synthase, (S)-norlaudanosoline	4.2.1.78	(S)-norcoclaurine synthase
+(S)-norcoclaurine synthase	4.2.1.78	(S)-norcoclaurine synthase
+NCS	4.2.1.78	(S)-norcoclaurine synthase
+the norcoclaurine synthase in Coptis japonica	4.2.1.78	(S)-norcoclaurine synthase
+CjPR10A	4.2.1.78	(S)-norcoclaurine synthase
+PR10A	4.2.1.78	(S)-norcoclaurine synthase
+(S)-Norlaudanosoline synthase	4.2.1.78	(S)-norcoclaurine synthase
+norcoclaurine synthase	4.2.1.78	(S)-norcoclaurine synthase
+S-norcoclaurine synthase	4.2.1.78	(S)-norcoclaurine synthase
+NCS2	4.2.1.78	(S)-norcoclaurine synthase
+NCS1	4.2.1.78	(S)-norcoclaurine synthase
+norcoclaurine synthase is a member of thepathogenesis-related 10/Bet v1 protein family	4.2.1.78	(S)-norcoclaurine synthase
+2-Methylcitrate hydro-lyase	4.2.1.79	2-Methylcitrate dehydratase
+Dehydratase, 2-methylcitrate	4.2.1.79	2-Methylcitrate dehydratase
+PrpD	4.2.1.79	2-Methylcitrate dehydratase
+methylcitrate dehydratase	4.2.1.79	2-Methylcitrate dehydratase
+2-methylcitrate dehydratase 1	4.2.1.79	2-Methylcitrate dehydratase
+2-methylcitrate dehydratase	4.2.1.79	2-Methylcitrate dehydratase
+2-MC dehydratase	4.2.1.79	2-Methylcitrate dehydratase
+Dehydratase, mannonate	4.2.1.8	Mannonate dehydratase
+Mannonic hydrolase	4.2.1.8	Mannonate dehydratase
+Mannonate hydrolyase	4.2.1.8	Mannonate dehydratase
+Altronic hydro-lyase	4.2.1.8	Mannonate dehydratase
+Altronate hydrolase	4.2.1.8	Mannonate dehydratase
+D-Mannonate hydrolyase	4.2.1.8	Mannonate dehydratase
+D-mannonate hydrolase	4.2.1.8	Mannonate dehydratase
+ManD	4.2.1.8	Mannonate dehydratase
+D-mannonate dehydratase	4.2.1.8	Mannonate dehydratase
+mannonate dehydratase	4.2.1.8	Mannonate dehydratase
+EcManD	4.2.1.8	Mannonate dehydratase
+2-keto-4-pentenoic acid hydratase	4.2.1.80	2-oxopent-4-enoate hydratase
+OEH 2-keto-4-pentenoate hydratase	4.2.1.80	2-oxopent-4-enoate hydratase
+2-keto-4-pentenoate hydratase	4.2.1.80	2-oxopent-4-enoate hydratase
+2-hydroxypent-2,4-dienoate hydratase	4.2.1.80	2-oxopent-4-enoate hydratase
+2-keto-4-pentenoate(vinylpyruvate)hydratase	4.2.1.80	2-oxopent-4-enoate hydratase
+2-hydroxypentadienoic acid hydratase	4.2.1.80	2-oxopent-4-enoate hydratase
+2-hydroxypenta-2,4-dienoate hydratase	4.2.1.80	2-oxopent-4-enoate hydratase
+BphH	4.2.1.80	2-oxopent-4-enoate hydratase
+HPD hydratase	4.2.1.80	2-oxopent-4-enoate hydratase
+MhpD	4.2.1.80	2-oxopent-4-enoate hydratase
+D-tartrate dehydratase	4.2.1.81	D(-)-tartrate dehydratase
+dehydratase, D-tartrate	4.2.1.81	D(-)-tartrate dehydratase
+TarD	4.2.1.81	D(-)-tartrate dehydratase
+bll6730	4.2.1.81	D(-)-tartrate dehydratase
+dehydratase, D-xylonate	4.2.1.82	xylonate dehydratase
+D-xylo-aldonate dehydratase	4.2.1.82	xylonate dehydratase
+XYLD	4.2.1.82	xylonate dehydratase
+D-xylonate dehydratase	4.2.1.82	xylonate dehydratase
+xylonate dehydratase	4.2.1.82	xylonate dehydratase
+XAD	4.2.1.82	xylonate dehydratase
+oxalmesaconate hydratase	4.2.1.83	4-oxalomesaconate hydratase
+hydratase, oxalmesaconate	4.2.1.83	4-oxalomesaconate hydratase
+4-carboxy-2-oxohexenedioate hydratase	4.2.1.83	4-oxalomesaconate hydratase
+gamma-oxalomesaconate hydratase	4.2.1.83	4-oxalomesaconate hydratase
+4-carboxy-2-oxobutane-1,2,4-tricarboxylate 2,3-hydro-lyase	4.2.1.83	4-oxalomesaconate hydratase
+OMA hydratase	4.2.1.83	4-oxalomesaconate hydratase
+4-oxalmesaconate hydratase	4.2.1.83	4-oxalomesaconate hydratase
+4-oxalomesaconate hydratase	4.2.1.83	4-oxalomesaconate hydratase
+PocOMH	4.2.1.83	4-oxalomesaconate hydratase
+OMA	4.2.1.83	4-oxalomesaconate hydratase
+gene name	4.2.1.83	4-oxalomesaconate hydratase
+L-nitrilase	4.2.1.84	nitrile hydratase
+3-cyanopyridine hydratase	4.2.1.84	nitrile hydratase
+aliphatic nitrile hydratase	4.2.1.84	nitrile hydratase
+hydratase, nitrile	4.2.1.84	nitrile hydratase
+H-nitrilase	4.2.1.84	nitrile hydratase
+acrylonitrile hydratase	4.2.1.84	nitrile hydratase
+NI1 NHase	4.2.1.84	nitrile hydratase
+NHase	4.2.1.84	nitrile hydratase
+NilFe	4.2.1.84	nitrile hydratase
+NilCo	4.2.1.84	nitrile hydratase
+acetonitrile hydratase	4.2.1.84	nitrile hydratase
+Fe-NHase	4.2.1.84	nitrile hydratase
+CoIII-NHase	4.2.1.84	nitrile hydratase
+iron-type nitrile hydratase	4.2.1.84	nitrile hydratase
+ReNHase	4.2.1.84	nitrile hydratase
+nitrilase	4.2.1.84	nitrile hydratase
+PaNit	4.2.1.84	nitrile hydratase
+Co-type NHase	4.2.1.84	nitrile hydratase
+cobalt-containing nitrile hydratase	4.2.1.84	nitrile hydratase
+toyocamycin nitrile hydratase	4.2.1.84	nitrile hydratase
+TNHase	4.2.1.84	nitrile hydratase
+H-NHase	4.2.1.84	nitrile hydratase
+low-molecular mass nitrile hydratase	4.2.1.84	nitrile hydratase
+high-molecular mass nitrile hydratase	4.2.1.84	nitrile hydratase
+nitrile hydratase	4.2.1.84	nitrile hydratase
+L-Nhase	4.2.1.84	nitrile hydratase
+gene name	4.2.1.84	nitrile hydratase
+ppNHase	4.2.1.84	nitrile hydratase
+Co-type nitrile hydratase	4.2.1.84	nitrile hydratase
+hydratase, dimethylmaleate	4.2.1.85	dimethylmaleate hydratase
+octopamine hydrolyase	4.2.1.87	octopamine dehydratase
+dehydratase, octopamine	4.2.1.87	octopamine dehydratase
+OCAH	4.2.1.87	octopamine dehydratase
+synephrine hydro-lyase	4.2.1.88	synephrine dehydratase
+synephrinase	4.2.1.88	synephrine dehydratase
+dehydratase, dihydroxy acid	4.2.1.9	dihydroxy-acid dehydratase
+alpha,beta-dihydroxy acid dehydratase	4.2.1.9	dihydroxy-acid dehydratase
+alpha,beta-dihydroxyisovalerate dehydratase	4.2.1.9	dihydroxy-acid dehydratase
+acetohydroxyacid dehydratase	4.2.1.9	dihydroxy-acid dehydratase
+dihydroxy acid dehydrase	4.2.1.9	dihydroxy-acid dehydratase
+2,3-dihydroxyisovalerate dehydratase	4.2.1.9	dihydroxy-acid dehydratase
+2,3-dihydroxy acid hydrolyase	4.2.1.9	dihydroxy-acid dehydratase
+DAD	4.2.1.9	dihydroxy-acid dehydratase
+VEG110	4.2.1.9	dihydroxy-acid dehydratase
+Vegetative protein 110	4.2.1.9	dihydroxy-acid dehydratase
+AfIlv3A	4.2.1.9	dihydroxy-acid dehydratase
+AFUA_2G2410	4.2.1.9	dihydroxy-acid dehydratase
+ilvC	4.2.1.9	dihydroxy-acid dehydratase
+SsDHAD	4.2.1.9	dihydroxy-acid dehydratase
+dihydroxy acid dehydratase	4.2.1.9	dihydroxy-acid dehydratase
+dihydroxyacid dehydratase	4.2.1.9	dihydroxy-acid dehydratase
+DHAD	4.2.1.9	dihydroxy-acid dehydratase
+gene name	4.2.1.9	dihydroxy-acid dehydratase
+dehydratase, L-rhamnonate	4.2.1.90	L-rhamnonate dehydratase
+gene name	4.2.1.90	L-rhamnonate dehydratase
+Lra3p	4.2.1.90	L-rhamnonate dehydratase
+LRA3	4.2.1.90	L-rhamnonate dehydratase
+YfaW	4.2.1.90	L-rhamnonate dehydratase
+the enyzme belongs to the enolase superfamily ofenzymes	4.2.1.90	L-rhamnonate dehydratase
+RhamD	4.2.1.90	L-rhamnonate dehydratase
+carboxycyclohexadienyl dehydratase	4.2.1.91	arogenate dehydratase
+prephenate dehydratase	4.2.1.91	arogenate dehydratase
+bifunctional enzyme, PDT activitywith prephenate and ADT activity with arogenate	4.2.1.91	arogenate dehydratase
+gene name	4.2.1.91	arogenate dehydratase
+arogenate dehydratase isoform 1	4.2.1.91	arogenate dehydratase
+AtADT3	4.2.1.91	arogenate dehydratase
+ADT3	4.2.1.91	arogenate dehydratase
+arogenate dehydratase isoform 3	4.2.1.91	arogenate dehydratase
+F25C20.4 protein	4.2.1.91	arogenate dehydratase
+gene name	4.2.1.91	arogenate dehydratase
+AtADT1	4.2.1.91	arogenate dehydratase
+ADT1	4.2.1.91	arogenate dehydratase
+arogenate dehydratase isoform 2	4.2.1.91	arogenate dehydratase
+gene name	4.2.1.91	arogenate dehydratase
+AtADT2	4.2.1.91	arogenate dehydratase
+ADT2	4.2.1.91	arogenate dehydratase
+ADT6	4.2.1.91	arogenate dehydratase
+gene name	4.2.1.91	arogenate dehydratase
+arogenate dehydratase isoform 5	4.2.1.91	arogenate dehydratase
+AtADT6	4.2.1.91	arogenate dehydratase
+ADT4	4.2.1.91	arogenate dehydratase
+gene name	4.2.1.91	arogenate dehydratase
+arogenate dehydratase isoform 4	4.2.1.91	arogenate dehydratase
+AtADT4	4.2.1.91	arogenate dehydratase
+ADT5	4.2.1.91	arogenate dehydratase
+gene name	4.2.1.91	arogenate dehydratase
+arogenate dehydratase isoform 6	4.2.1.91	arogenate dehydratase
+AtADT5	4.2.1.91	arogenate dehydratase
+bifunctional enzyme, PDT activitywith prephenate and ADT activity with arogenate	4.2.1.91	arogenate dehydratase
+arogenate dehydratase1	4.2.1.91	arogenate dehydratase
+arogenate dehydratase2	4.2.1.91	arogenate dehydratase
+arogenate dehydratase3	4.2.1.91	arogenate dehydratase
+cyclohexadienyl dehydratase	4.2.1.91	arogenate dehydratase
+CDT	4.2.1.91	arogenate dehydratase
+arogenate dehydratase/prephenate dehydratase	4.2.1.91	arogenate dehydratase
+ADT/PDT	4.2.1.91	arogenate dehydratase
+Mtr1	4.2.1.91	arogenate dehydratase
+AGN dehydratase	4.2.1.91	arogenate dehydratase
+EC 5.3.99.1	4.2.1.92	hydroperoxide dehydratase
+cytochrome P450 74A	4.2.1.92	hydroperoxide dehydratase
+eLOX3	4.2.1.92	hydroperoxide dehydratase
+HPI	4.2.1.92	hydroperoxide dehydratase
+hydroperoxide dehydrase	4.2.1.92	hydroperoxide dehydratase
+hydroperoxidehydrase	4.2.1.92	hydroperoxide dehydratase
+isomerase, hydroperoxide	4.2.1.92	hydroperoxide dehydratase
+linoleate hydroperoxide isomerase	4.2.1.92	hydroperoxide dehydratase
+linoleic acid hydroperoxide isomerase	4.2.1.92	hydroperoxide dehydratase
+RPP	4.2.1.92	hydroperoxide dehydratase
+rubber particle protein	4.2.1.92	hydroperoxide dehydratase
+CYP741	4.2.1.92	hydroperoxide dehydratase
+fatty acid hydroperoxide lyase	4.2.1.92	hydroperoxide dehydratase
+HPO-lyase	4.2.1.92	hydroperoxide dehydratase
+HPL	4.2.1.92	hydroperoxide dehydratase
+OsHPL3	4.2.1.92	hydroperoxide dehydratase
+OsHPL3/CYP74B2	4.2.1.92	hydroperoxide dehydratase
+allene oxide synthase-1	4.2.1.92	hydroperoxide dehydratase
+OsAOS1	4.2.1.92	hydroperoxide dehydratase
+CYP74	4.2.1.92	hydroperoxide dehydratase
+gene name	4.2.1.92	hydroperoxide dehydratase
+8,11-hydroperoxide isomerase	4.2.1.92	hydroperoxide dehydratase
+5,8-hydroperoxide isomerase	4.2.1.92	hydroperoxide dehydratase
+CYP74B	4.2.1.92	hydroperoxide dehydratase
+13-hydroperoxide lyase	4.2.1.92	hydroperoxide dehydratase
+catalase-related allene oxide synthase	4.2.1.92	hydroperoxide dehydratase
+cAOS	4.2.1.92	hydroperoxide dehydratase
+CYP742	4.2.1.92	hydroperoxide dehydratase
+Mn-LO	4.2.1.92	hydroperoxide dehydratase
+AOS1	4.2.1.92	hydroperoxide dehydratase
+AOS2	4.2.1.92	hydroperoxide dehydratase
+10S-hydroperoxide lyase	4.2.1.92	hydroperoxide dehydratase
+gene name	4.2.1.92	hydroperoxide dehydratase
+FOXB_01332	4.2.1.92	hydroperoxide dehydratase
+9S-DOX-AOS	4.2.1.92	hydroperoxide dehydratase
+hydroperoxide isomerase	4.2.1.92	hydroperoxide dehydratase
+9R-DOX-AOS	4.2.1.92	hydroperoxide dehydratase
+KC525886	4.2.1.92	hydroperoxide dehydratase
+LOX	4.2.1.92	hydroperoxide dehydratase
+gene name	4.2.1.92	hydroperoxide dehydratase
+fatty acid hydroperoxide-metabolizing enzyme	4.2.1.92	hydroperoxide dehydratase
+gene name	4.2.1.92	hydroperoxide dehydratase
+gene name	4.2.1.92	hydroperoxide dehydratase
+13S-hydroperoxide-dependent peroxidase	4.2.1.92	hydroperoxide dehydratase
+AOS belongs to the CYP74 family	4.2.1.92	hydroperoxide dehydratase
+9-HPL	4.2.1.92	hydroperoxide dehydratase
+hydroperoxide lyase	4.2.1.92	hydroperoxide dehydratase
+13-HPL	4.2.1.92	hydroperoxide dehydratase
+allene oxide synthase	4.2.1.92	hydroperoxide dehydratase
+belongs to theCYP74 family	4.2.1.92	hydroperoxide dehydratase
+CYP74A	4.2.1.92	hydroperoxide dehydratase
+CYP74c	4.2.1.92	hydroperoxide dehydratase
+reduced nicotinamide adenine dinucleotide hydrate dehydratase	4.2.1.93	ATP-dependent NAD(P)H-hydrate dehydratase
+ATP-dependent H4NAD(P)OH dehydratase	4.2.1.93	ATP-dependent NAD(P)H-hydrate dehydratase
+NNRD	4.2.1.93	ATP-dependent NAD(P)H-hydrate dehydratase
+ATP-dependent NNRD	4.2.1.93	ATP-dependent NAD(P)H-hydrate dehydratase
+NAD(P)X dehydratase	4.2.1.93	ATP-dependent NAD(P)H-hydrate dehydratase
+(S)-NAD(P)HX dehydratase	4.2.1.93	ATP-dependent NAD(P)H-hydrate dehydratase
+dehydratase, scytalone	4.2.1.94	scytalone dehydratase
+scytalone dehydratase1	4.2.1.94	scytalone dehydratase
+gene name	4.2.1.94	scytalone dehydratase
+SCD	4.2.1.94	scytalone dehydratase
+SCD1	4.2.1.94	scytalone dehydratase
+hydratase, kievitone	4.2.1.95	kievitone hydratase
+KHase	4.2.1.95	kievitone hydratase
+4 alpha-Hydroxy-tetrahydropterin dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Pterin-4 alpha-carbinolamine dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Pterin-4a-carbinolamine dehydratase (Aquifex aeolicus gene phhB)	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+GenBank AE000671-derived protein GI 2982796	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Dehydratase, 4a-carbinolamine	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+4a-Carbinolamine dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+4a-Hydroxytetrahydrobiopterin dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+4a-Hydroxytetrahydropterin dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Phenylalanine hydroxylase-stimulatingprotein/pterin-4alpha-carbinolamine dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+PHS/PCD	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+PCD/PhhB	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+DCoH/PCD	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Dimerization factor of HNF1/pterin-4alpha-carbinolamine dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Pterin-4a-carbinolamine dehydratase/dimerization cofactor of HNF1	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Pterin-4-alpha-carbinolamine dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+PCDH	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Pterin-4alpha-carbinolamine dehydratase (PCD)/dimerization cofactorfor the transcription factor HBF-1alpha	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+P4aCD	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+4-alpha-hydroxy-tetrahydropterin dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+cDcoH	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+DCoH	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Dimerization cofactor of hepatocyte nuclear factor 1-alpha	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Dimerization cofactor of HNF1	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Phenylalanine hydroxylase-stimulating protein	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+PHS	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Pterin carbinolamine dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+XDCoH	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+DcoH2	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+carbinolamine-4a-dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Pterin-4alpha-carbinolamine dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+PCD	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+DCoHalpha	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+the enzyme has identical amino acid sequence to DCoH, thedimerization cofactor of the transcription regulator, HNF-1alpha	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+PCD/DCoH	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Pterin-4a-carbinolamine dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+PhhB	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+pterin 4a-carbinolamine dehydratase	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+4a-hydroxytetrahydrobiopterin dehydratases	4.2.1.96	4a-hydroxytetrahydrobiopterin dehydratase
+Hydratase, phaseollidin	4.2.1.97	phaseollidin hydratase
+Hydroxyprogesterone dehydroxylase	4.2.1.98	16alpha-hydroxyprogesterone dehydratase
+Dehydroxylase, hydroxy steroid 16alpha	4.2.1.98	16alpha-hydroxyprogesterone dehydratase
+16alpha-Hydroxyprogesterone dehydroxylase	4.2.1.98	16alpha-hydroxyprogesterone dehydratase
+16-dehydroprogesterone reductase	4.2.1.98	16alpha-hydroxyprogesterone dehydratase
+reductase, 16-dehydroprogesterone	4.2.1.98	16alpha-hydroxyprogesterone dehydratase
+16alpha-dehydroxylase	4.2.1.98	16alpha-hydroxyprogesterone dehydratase
+dehydroxylase, hydroxy steroid 16alpha-	4.2.1.98	16alpha-hydroxyprogesterone dehydratase
+(2S,3R)-3-Hydroxybutane-1,2,3-tricarboxylate hydro-lyase	4.2.1.99	2-methylisocitrate dehydratase
+Dehydratase, 2-methylisocitrate	4.2.1.99	2-methylisocitrate dehydratase
+bifunctional enzyme:aconitate hydratase, 2/2-methylisocitrate dehydratase	4.2.1.99	2-methylisocitrate dehydratase
+lyase, hyaluronate	4.2.2.1	hyaluronate lyase
+glucuronoglycosaminoglycan lyase	4.2.2.1	hyaluronate lyase
+lyase, glucuronoglycosaminoglycan	4.2.2.1	hyaluronate lyase
+mucinase	4.2.2.1	hyaluronate lyase
+EC 4.2.99.1	4.2.2.1	hyaluronate lyase
+hylB4755	4.2.2.1	hyaluronate lyase
+GBS HA lyase	4.2.2.1	hyaluronate lyase
+SagHyal	4.2.2.1	hyaluronate lyase
+SagHL	4.2.2.1	hyaluronate lyase
+Q59801 {SwissProt}	4.2.2.1	hyaluronate lyase
+GBS hyase	4.2.2.1	hyaluronate lyase
+hyaluronidase SD	4.2.2.1	hyaluronate lyase
+h-SD	4.2.2.1	hyaluronate lyase
+HYAL3	4.2.2.1	hyaluronate lyase
+hyaluronidase 3	4.2.2.1	hyaluronate lyase
+acidic hyase	4.2.2.1	hyaluronate lyase
+HYase	4.2.2.1	hyaluronate lyase
+hyaluronidase-1	4.2.2.1	hyaluronate lyase
+HYAL1	4.2.2.1	hyaluronate lyase
+Hyal-1	4.2.2.1	hyaluronate lyase
+hyaluronoglucosaminidase-1	4.2.2.1	hyaluronate lyase
+LUCA-1	4.2.2.1	hyaluronate lyase
+hyaluronate lyase	4.2.2.1	hyaluronate lyase
+h-SH	4.2.2.1	hyaluronate lyase
+hyaluronidase SH	4.2.2.1	hyaluronate lyase
+Cumulase	4.2.2.1	hyaluronate lyase
+rHuPH20	4.2.2.1	hyaluronate lyase
+hyaluronidase	4.2.2.1	hyaluronate lyase
+bacterial HAse	4.2.2.1	hyaluronate lyase
+bacterial hyaluronidase	4.2.2.1	hyaluronate lyase
+HA lyase	4.2.2.1	hyaluronate lyase
+HylP	4.2.2.1	hyaluronate lyase
+spnHL	4.2.2.1	hyaluronate lyase
+bacterial spreading factor	4.2.2.1	hyaluronate lyase
+SpnHyal	4.2.2.1	hyaluronate lyase
+HL	4.2.2.1	hyaluronate lyase
+hyaluronan lyase	4.2.2.1	hyaluronate lyase
+from commercial pharmaceutical preparationsNeopermease and Hylase Dessau	4.2.2.1	hyaluronate lyase
+Hyal	4.2.2.1	hyaluronate lyase
+spreading factor	4.2.2.1	hyaluronate lyase
+HylA7	4.2.2.1	hyaluronate lyase
+bacteriophage-associated hyaluronate lyase	4.2.2.1	hyaluronate lyase
+Hylp2	4.2.2.1	hyaluronate lyase
+hyaluronate lyase HylP2	4.2.2.1	hyaluronate lyase
+Hyal2	4.2.2.1	hyaluronate lyase
+hyaluronidase-2	4.2.2.1	hyaluronate lyase
+Hyal-2	4.2.2.1	hyaluronate lyase
+hyaluronoglucosaminidase-2	4.2.2.1	hyaluronate lyase
+LUCA-2	4.2.2.1	hyaluronate lyase
+hyaluronate lyase HylA	4.2.2.1	hyaluronate lyase
+protein SEQ2045	4.2.2.1	hyaluronate lyase
+lyase, pectin	4.2.2.10	pectin lyase
+pectin transeliminase	4.2.2.10	pectin lyase
+pectin methyltranseliminase	4.2.2.10	pectin lyase
+PLB	4.2.2.10	pectin lyase
+PLD	4.2.2.10	pectin lyase
+PLI	4.2.2.10	pectin lyase
+PLII	4.2.2.10	pectin lyase
+poly(methoxygalacturonide) lyase	4.2.2.10	pectin lyase
+Pla	4.2.2.10	pectin lyase
+Ciba-Geigy	4.2.2.10	pectin lyase
+Ciba-Geigy	4.2.2.10	pectin lyase
+Ciba-Geigy	4.2.2.10	pectin lyase
+family 1 pectin lyase A	4.2.2.10	pectin lyase
+PL1A	4.2.2.10	pectin lyase
+pectinlyase	4.2.2.10	pectin lyase
+PL	4.2.2.10	pectin lyase
+PNL	4.2.2.10	pectin lyase
+endoPNL	4.2.2.10	pectin lyase
+pectin lyase A	4.2.2.10	pectin lyase
+Seishin Pharmaceutical	4.2.2.10	pectin lyase
+Pel1	4.2.2.10	pectin lyase
+enda-PL	4.2.2.10	pectin lyase
+pectin lyase 1	4.2.2.10	pectin lyase
+CPE	4.2.2.10	pectin lyase
+commercial pectic enzyme	4.2.2.10	pectin lyase
+PGL	4.2.2.10	pectin lyase
+plg1	4.2.2.10	pectin lyase
+plg2	4.2.2.10	pectin lyase
+PnlH	4.2.2.10	pectin lyase
+pectin lyase	4.2.2.10	pectin lyase
+pectinase	4.2.2.10	pectin lyase
+Pnl2	4.2.2.10	pectin lyase
+endo-pectin lyase	4.2.2.10	pectin lyase
+polymethylgalacturonic transeliminase	4.2.2.10	pectin lyase
+pectinliase	4.2.2.10	pectin lyase
+Macerin G 10X	4.2.2.10	pectin lyase
+Forylase PA	4.2.2.10	pectin lyase
+phytolyase	4.2.2.10	pectin lyase
+Rohapect PTE	4.2.2.10	pectin lyase
+polyguluronate-specific alginate lyase	4.2.2.11	guluronate-specific alginate lyase
+guluronate lyase	4.2.2.11	guluronate-specific alginate lyase
+L-guluronate lyase	4.2.2.11	guluronate-specific alginate lyase
+poly-alpha-L-guluronate lyase	4.2.2.11	guluronate-specific alginate lyase
+alginase II	4.2.2.11	guluronate-specific alginate lyase
+L-guluronan lyase	4.2.2.11	guluronate-specific alginate lyase
+lyase, polyguluronate	4.2.2.11	guluronate-specific alginate lyase
+poly(1,4-alpha-L-guluronide)lyase	4.2.2.11	guluronate-specific alginate lyase
+poly(alpha-L-guluronate) lyase	4.2.2.11	guluronate-specific alginate lyase
+AlyV5	4.2.2.11	guluronate-specific alginate lyase
+A1-II and its homologueA1-II	4.2.2.11	guluronate-specific alginate lyase
+oligoalginate lyase	4.2.2.11	guluronate-specific alginate lyase
+Aly-SJ02	4.2.2.11	guluronate-specific alginate lyase
+gene name	4.2.2.11	guluronate-specific alginate lyase
+endo-type alginate lyase	4.2.2.11	guluronate-specific alginate lyase
+A1m	4.2.2.11	guluronate-specific alginate lyase
+A9mL	4.2.2.11	guluronate-specific alginate lyase
+A9mT	4.2.2.11	guluronate-specific alginate lyase
+A9mC	4.2.2.11	guluronate-specific alginate lyase
+alkaliphilic alginate lyase	4.2.2.11	guluronate-specific alginate lyase
+gene name	4.2.2.11	guluronate-specific alginate lyase
+Aly1	4.2.2.11	guluronate-specific alginate lyase
+Alg2A	4.2.2.11	guluronate-specific alginate lyase
+AlyDW11	4.2.2.11	guluronate-specific alginate lyase
+AlyA1PL7	4.2.2.11	guluronate-specific alginate lyase
+AlyA5	4.2.2.11	guluronate-specific alginate lyase
+polyMG-specific alginate lyase	4.2.2.11	guluronate-specific alginate lyase
+KJ-2 alginate lyase	4.2.2.11	guluronate-specific alginate lyase
+gene name	4.2.2.11	guluronate-specific alginate lyase
+AlgL	4.2.2.11	guluronate-specific alginate lyase
+alginate (poly-alpha-L-guluronate) lyase	4.2.2.11	guluronate-specific alginate lyase
+gene name	4.2.2.11	guluronate-specific alginate lyase
+lyase, xanthan	4.2.2.12	xanthan lyase
+xanthan lyase	4.2.2.12	xanthan lyase
+alpha-(1,4)-Glucan 1,5-anhydro-D-fructose eliminase	4.2.2.13	exo-(1->4)-alpha-D-glucan lyase
+alpha-1,4-Glucan exo-lyase	4.2.2.13	exo-(1->4)-alpha-D-glucan lyase
+Dehydratase, alpha-1,4-glucan	4.2.2.13	exo-(1->4)-alpha-D-glucan lyase
+exo-(1,4)-alpha-D-glucan lyase	4.2.2.13	exo-(1->4)-alpha-D-glucan lyase
+(1,4)-alpha-D-glucan exo-4-lyase (1,5-anhydro-D-fructose-forming)	4.2.2.13	exo-(1->4)-alpha-D-glucan lyase
+Exo-alpha-1,4-glucan lyase	4.2.2.13	exo-(1->4)-alpha-D-glucan lyase
+GLase	4.2.2.13	exo-(1->4)-alpha-D-glucan lyase
+alpha-1,4-Glucan lyase	4.2.2.13	exo-(1->4)-alpha-D-glucan lyase
+(1->4)-beta-D-glucuronan lyase	4.2.2.14	glucuronan lyase
+endopolyglucuronate lyase	4.2.2.14	glucuronan lyase
+(1,4)-beta-D-glucuronan lyase	4.2.2.14	glucuronan lyase
+GL2 glucuronan lyase	4.2.2.14	glucuronan lyase
+glucuronan lyase	4.2.2.14	glucuronan lyase
+TrGL	4.2.2.14	glucuronan lyase
+endo-beta-1,4-glucuronan lyase	4.2.2.14	glucuronan lyase
+endo-beta-(1->4)-glucuronan lyase	4.2.2.14	glucuronan lyase
+anhydroneuraminidase	4.2.2.15	anhydrosialidase
+neuraminidase, anhydro-	4.2.2.15	anhydrosialidase
+sialidase L	4.2.2.15	anhydrosialidase
+sialglycoconjugate N-acylneuraminylhydrolase (2,7-cyclizing)	4.2.2.15	anhydrosialidase
+alpha-(2,3)-specific trans-salidase	4.2.2.15	anhydrosialidase
+EC 3.2.1.138	4.2.2.15	anhydrosialidase
+NanB	4.2.2.15	anhydrosialidase
+neuraminidase B	4.2.2.15	anhydrosialidase
+2,6-etab-D-fructan D-fructosyl-D-fructosyltransferase (formingdi-beta-D-fructofuranose 2,6':2',6-dianhydride)	4.2.2.16	levan fructotransferase (DFA-IV-forming)
+FTF	4.2.2.16	levan fructotransferase (DFA-IV-forming)
+2,6-beta-D-fructan D-fructosyl-D-fructosyltransferase (formingdi-beta-D-fructofuranose 2,6':2',6-dianhydride)	4.2.2.16	levan fructotransferase (DFA-IV-forming)
+fructotransferase, levan	4.2.2.16	levan fructotransferase (DFA-IV-forming)
+LFTase	4.2.2.16	levan fructotransferase (DFA-IV-forming)
+levan fructotransferase	4.2.2.16	levan fructotransferase (DFA-IV-forming)
+LFT	4.2.2.16	levan fructotransferase (DFA-IV-forming)
+LftM	4.2.2.16	levan fructotransferase (DFA-IV-forming)
+inulin fructotransferase (DFA-I-producing)	4.2.2.17	inulin fructotransferase (DFA-I-forming)
+inulin fructotransferase (depolymerizing,difructofuranose-1,2':2',1-dianhydride-forming)	4.2.2.17	inulin fructotransferase (DFA-I-forming)
+inulin D-fructosyl-D-fructosyltransferase(1,2':2',1-dianhydride-forming)	4.2.2.17	inulin fructotransferase (DFA-I-forming)
+EC 2.4.1.200	4.2.2.17	inulin fructotransferase (DFA-I-forming)
+inulin fructotransferase (DFA I-producing)	4.2.2.17	inulin fructotransferase (DFA-I-forming)
+inulase II	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+inulin fructotransferase (depolymerizing)	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+fructotransferase, inulin (depolymerizing)	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+inulin fructotransferase (DFA-III-producing)	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+inulinase II	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+inulin fructotransferase (depolymerizing,difructofuranose-1,2':2,3'-dianhydride-forming)	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+inulin D-fructosyl-D-fructosyltransferase(1,2':2,3'-dianhydride-forming)	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+EC 2.4.1.93	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+BsIFTase	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+di-D-fructofuranose 1,2': 2,3' dianhydride [DFA III]-producingIFTase	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+IFTase (DFA III-producing)	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+inulin fructotransferase (DFAIII-producing)	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+IFTaseIII	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+IFTase	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+inulin fructotransferase (DFA III-producing)	4.2.2.18	inulin fructotransferase (DFA-III-forming)
+chondroitinase B	4.2.2.19	chondroitin B lyase
+lyase, chondroitin B	4.2.2.19	chondroitin B lyase
+ChnB	4.2.2.19	chondroitin B lyase
+ChonB	4.2.2.19	chondroitin B lyase
+chondroitin B lyase	4.2.2.19	chondroitin B lyase
+Pla	4.2.2.2	pectate lyase
+PGA lyase	4.2.2.2	pectate lyase
+EC 4.2.99.3	4.2.2.2	pectate lyase
+PPase-N	4.2.2.2	pectate lyase
+alpha-1,4-D-endopolygalacturonic acid lyase	4.2.2.2	pectate lyase
+endo-alpha-1,4-polygalacturonic acid lyase	4.2.2.2	pectate lyase
+polygalacturonic acid lyase	4.2.2.2	pectate lyase
+pectic acid lyase	4.2.2.2	pectate lyase
+endogalacturonate transeliminase	4.2.2.2	pectate lyase
+endopectin methyltranseliminase	4.2.2.2	pectate lyase
+polygalacturonate lyase	4.2.2.2	pectate lyase
+pectic acid transeliminase	4.2.2.2	pectate lyase
+polygalacturonic transeliminase	4.2.2.2	pectate lyase
+lyase, pectate	4.2.2.2	pectate lyase
+poly(1,4-alpha-D-galacturonide) lyase	4.2.2.2	pectate lyase
+PGL	4.2.2.2	pectate lyase
+alkaline polygalacturonate lyase	4.2.2.2	pectate lyase
+Apel	4.2.2.2	pectate lyase
+pectate lyase C	4.2.2.2	pectate lyase
+isoform	4.2.2.2	pectate lyase
+isoform	4.2.2.2	pectate lyase
+alkaline pectate lyase	4.2.2.2	pectate lyase
+pectate transeliminase	4.2.2.2	pectate lyase
+Pel	4.2.2.2	pectate lyase
+Pel-22	4.2.2.2	pectate lyase
+Pel-BL11	4.2.2.2	pectate lyase
+Pel-66	4.2.2.2	pectate lyase
+Pel-90	4.2.2.2	pectate lyase
+PCPEL2	4.2.2.2	pectate lyase
+the enzyme belongs to the polysaccharide family 1	4.2.2.2	pectate lyase
+DKS1 pectate lyase	4.2.2.2	pectate lyase
+neutral-alkaline pectate lyase	4.2.2.2	pectate lyase
+PLB	4.2.2.2	pectate lyase
+PLC	4.2.2.2	pectate lyase
+PLE	4.2.2.2	pectate lyase
+pectate lyase B	4.2.2.2	pectate lyase
+pectate lyase Pel9A	4.2.2.2	pectate lyase
+Pel9A	4.2.2.2	pectate lyase
+pectate lyase L	4.2.2.2	pectate lyase
+isoform	4.2.2.2	pectate lyase
+pectate lyase E	4.2.2.2	pectate lyase
+PelI	4.2.2.2	pectate lyase
+PATE	4.2.2.2	pectate lyase
+poly-galacturonic acid trans-eliminase	4.2.2.2	pectate lyase
+gene name	4.2.2.2	pectate lyase
+pectate lyase A	4.2.2.2	pectate lyase
+PL D	4.2.2.2	pectate lyase
+pectic lyase	4.2.2.2	pectate lyase
+Pel III	4.2.2.2	pectate lyase
+Pel I	4.2.2.2	pectate lyase
+Pel II	4.2.2.2	pectate lyase
+AtPLL	4.2.2.2	pectate lyase
+MdPL1	4.2.2.2	pectate lyase
+pectate lyase 10A	4.2.2.2	pectate lyase
+Pel10A	4.2.2.2	pectate lyase
+pectate lyase Pel10A	4.2.2.2	pectate lyase
+NPLase	4.2.2.2	pectate lyase
+pectate lyase I	4.2.2.2	pectate lyase
+an endo-acting family 3 pectate lyase	4.2.2.2	pectate lyase
+Pel-15H	4.2.2.2	pectate lyase
+Pel-15E	4.2.2.2	pectate lyase
+BxPEL1	4.2.2.2	pectate lyase
+BxPEL2	4.2.2.2	pectate lyase
+pectate lyase 9A	4.2.2.2	pectate lyase
+Hspel1	4.2.2.2	pectate lyase
+Hspel2	4.2.2.2	pectate lyase
+Gr-PEL2	4.2.2.2	pectate lyase
+gene name	4.2.2.2	pectate lyase
+PelN	4.2.2.2	pectate lyase
+FcPL1	4.2.2.2	pectate lyase
+Hb-PEL-1	4.2.2.2	pectate lyase
+XcPL NP_636037	4.2.2.2	pectate lyase
+XcPL NP_638163	4.2.2.2	pectate lyase
+ScPL NP_626147	4.2.2.2	pectate lyase
+ScPL NP_627050	4.2.2.2	pectate lyase
+PL-3	4.2.2.2	pectate lyase
+Pel1	4.2.2.2	pectate lyase
+Pel SWU	4.2.2.2	pectate lyase
+PL	4.2.2.2	pectate lyase
+pectate lyase PL 47	4.2.2.2	pectate lyase
+endo-polygalacturonate trans-eliminase	4.2.2.2	pectate lyase
+Bsp165PelA	4.2.2.2	pectate lyase
+pectate lyase	4.2.2.2	pectate lyase
+Pel-15	4.2.2.2	pectate lyase
+isoform	4.2.2.2	pectate lyase
+isoform	4.2.2.2	pectate lyase
+Gr-PEL-2	4.2.2.2	pectate lyase
+pel-2	4.2.2.2	pectate lyase
+pectate lyase 2	4.2.2.2	pectate lyase
+chondroitinase ABC	4.2.2.20	chondroitin-sulfate-ABC endolyase
+formerly	4.2.2.20	chondroitin-sulfate-ABC endolyase
+ChS ABC lyase I	4.2.2.20	chondroitin-sulfate-ABC endolyase
+chABC	4.2.2.20	chondroitin-sulfate-ABC endolyase
+Ch'ase ABC	4.2.2.20	chondroitin-sulfate-ABC endolyase
+Ch'ase	4.2.2.20	chondroitin-sulfate-ABC endolyase
+chondroitinase AC	4.2.2.20	chondroitin-sulfate-ABC endolyase
+chondroitinase ABC I	4.2.2.20	chondroitin-sulfate-ABC endolyase
+ChS ABC lyase II	4.2.2.21	chondroitin-sulfate-ABC exolyase
+chondroitinase-ABC	4.2.2.21	chondroitin-sulfate-ABC exolyase
+chABC	4.2.2.21	chondroitin-sulfate-ABC exolyase
+chondroitinase ABC II	4.2.2.21	chondroitin-sulfate-ABC exolyase
+isoform	4.2.2.21	chondroitin-sulfate-ABC exolyase
+chondroitinase ABC	4.2.2.21	chondroitin-sulfate-ABC exolyase
+chondroitinase AC	4.2.2.21	chondroitin-sulfate-ABC exolyase
+chondroitinase ACII	4.2.2.21	chondroitin-sulfate-ABC exolyase
+Chondroitin Sulfate Lyase ABC	4.2.2.21	chondroitin-sulfate-ABC exolyase
+BactnABC	4.2.2.21	chondroitin-sulfate-ABC exolyase
+exopectate lyase	4.2.2.22	pectate trisaccharide-lyase
+pectate transeliminase	4.2.2.22	pectate trisaccharide-lyase
+is a subunit of the extracellularmultienzyme complex, called the cellulosome	4.2.2.22	pectate trisaccharide-lyase
+exopectate-lyase	4.2.2.22	pectate trisaccharide-lyase
+PelA	4.2.2.22	pectate trisaccharide-lyase
+pectate lyase 2A	4.2.2.22	pectate trisaccharide-lyase
+PL2A	4.2.2.22	pectate trisaccharide-lyase
+alpha-1,4-endo-poly-GalA lyase	4.2.2.22	pectate trisaccharide-lyase
+RGL4	4.2.2.23	rhamnogalacturonan endolyase
+RG-lyase	4.2.2.23	rhamnogalacturonan endolyase
+alpha-L-rhamnopyranosyl-(1->4)-alpha-D-galactopyranosyluronidelyase	4.2.2.23	rhamnogalacturonan endolyase
+rhamnogalacturonanalpha-L-rhamnopyranosyl-(1,4)-alpha-D-galactopyranosyluronide lyase	4.2.2.23	rhamnogalacturonan endolyase
+rhamnogalacturonase B	4.2.2.23	rhamnogalacturonan endolyase
+RGase B	4.2.2.23	rhamnogalacturonan endolyase
+Rgl11Y	4.2.2.23	rhamnogalacturonan endolyase
+YesW	4.2.2.23	rhamnogalacturonan endolyase
+RG lyase	4.2.2.23	rhamnogalacturonan endolyase
+RhiE	4.2.2.23	rhamnogalacturonan endolyase
+Rgl11A	4.2.2.23	rhamnogalacturonan endolyase
+gene name	4.2.2.23	rhamnogalacturonan endolyase
+rhamnogalacturonan lyase A	4.2.2.23	rhamnogalacturonan endolyase
+YesX	4.2.2.24	rhamnogalacturonan exolyase
+2,6-beta-D-fructan D-fructosyl-D-fructosyltransferase (formingdi-beta-D-fructofuranose 2,6':2',6-dianhydride)	4.2.2.26	oligo-alginate lyase
+levan fructotransferase; 2,6-beta-D-fructan lyase(di-beta-D-fructofuranose-2,6':2',6-dianhydride-forming)	4.2.2.26	oligo-alginate lyase
+levan fructotransferase (DFA-IV-forming)	4.2.2.26	oligo-alginate lyase
+oligoalginate lyase	4.2.2.26	oligo-alginate lyase
+Alg17C	4.2.2.26	oligo-alginate lyase
+gene name	4.2.2.26	oligo-alginate lyase
+Oal	4.2.2.26	oligo-alginate lyase
+lyase, alginate	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase I	4.2.2.3	mannuronate-specific alginate lyase
+poly(mana)alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+EC 4.2.99.4	4.2.2.3	mannuronate-specific alginate lyase
+poly(beta-D-1,4-mannuronide) lyase	4.2.2.3	mannuronate-specific alginate lyase
+SP2	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase VI	4.2.2.3	mannuronate-specific alginate lyase
+mannuronate alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+Poly(beta-D-mannuronate) lyase	4.2.2.3	mannuronate-specific alginate lyase
+Poly(mana) alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+poly(1,4-beta-D-mannuronide) lyase	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+gene name	4.2.2.3	mannuronate-specific alginate lyase
+AL2	4.2.2.3	mannuronate-specific alginate lyase
+AlyV5	4.2.2.3	mannuronate-specific alginate lyase
+AlyVI	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase Atu3025	4.2.2.3	mannuronate-specific alginate lyase
+member of the polysaccharide lyase family 15	4.2.2.3	mannuronate-specific alginate lyase
+exotype alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+HdAlex	4.2.2.3	mannuronate-specific alginate lyase
+HdAly	4.2.2.3	mannuronate-specific alginate lyase
+poly(M) lyase	4.2.2.3	mannuronate-specific alginate lyase
+ALY	4.2.2.3	mannuronate-specific alginate lyase
+oligoalginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+isoform	4.2.2.3	mannuronate-specific alginate lyase
+isoform	4.2.2.3	mannuronate-specific alginate lyase
+isoform	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase A	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase B	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase C	4.2.2.3	mannuronate-specific alginate lyase
+alginase I	4.2.2.3	mannuronate-specific alginate lyase
+protein PA1167	4.2.2.3	mannuronate-specific alginate lyase
+PM lyase	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase1-III	4.2.2.3	mannuronate-specific alginate lyase
+ALYIII	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase A1-II	4.2.2.3	mannuronate-specific alginate lyase
+A1 alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+A1-II	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase A1-II'	4.2.2.3	mannuronate-specific alginate lyase
+A1-III	4.2.2.3	mannuronate-specific alginate lyase
+AAlyase	4.2.2.3	mannuronate-specific alginate lyase
+AlyPI	4.2.2.3	mannuronate-specific alginate lyase
+Aly-SJ02	4.2.2.3	mannuronate-specific alginate lyase
+polymannuronate lyase	4.2.2.3	mannuronate-specific alginate lyase
+poly(M)lyase	4.2.2.3	mannuronate-specific alginate lyase
+Lysis protein	4.2.2.3	mannuronate-specific alginate lyase
+CL2	4.2.2.3	mannuronate-specific alginate lyase
+(poly alpha-l-guluronate) lyase	4.2.2.3	mannuronate-specific alginate lyase
+ALY-1	4.2.2.3	mannuronate-specific alginate lyase
+Alg-A	4.2.2.3	mannuronate-specific alginate lyase
+AlyA	4.2.2.3	mannuronate-specific alginate lyase
+lyase AlyA	4.2.2.3	mannuronate-specific alginate lyase
+gene name	4.2.2.3	mannuronate-specific alginate lyase
+endo-type alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase A1-III	4.2.2.3	mannuronate-specific alginate lyase
+PL-5 alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+A1-IV'	4.2.2.3	mannuronate-specific alginate lyase
+alginate lyase AlyPEEC	4.2.2.3	mannuronate-specific alginate lyase
+alyPEEC	4.2.2.3	mannuronate-specific alginate lyase
+ALG-5	4.2.2.3	mannuronate-specific alginate lyase
+isoform	4.2.2.3	mannuronate-specific alginate lyase
+isoform	4.2.2.3	mannuronate-specific alginate lyase
+isoform	4.2.2.3	mannuronate-specific alginate lyase
+isoform	4.2.2.3	mannuronate-specific alginate lyase
+AlgE7	4.2.2.3	mannuronate-specific alginate lyase
+enzyme belongs to the family of secretedCa2+-dependent epimerases	4.2.2.3	mannuronate-specific alginate lyase
+isoform	4.2.2.3	mannuronate-specific alginate lyase
+gene name	4.2.2.3	mannuronate-specific alginate lyase
+isoform	4.2.2.3	mannuronate-specific alginate lyase
+isoform	4.2.2.3	mannuronate-specific alginate lyase
+A1m	4.2.2.3	mannuronate-specific alginate lyase
+Aly33	4.2.2.3	mannuronate-specific alginate lyase
+endolytic polymannuronate lyase	4.2.2.3	mannuronate-specific alginate lyase
+endolytic poly(M) lyase	4.2.2.3	mannuronate-specific alginate lyase
+MJ-3 alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+AkAly30	4.2.2.3	mannuronate-specific alginate lyase
+AlyA5	4.2.2.3	mannuronate-specific alginate lyase
+polyMG-specific alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+KJ-2 alginate lyase	4.2.2.3	mannuronate-specific alginate lyase
+gene name	4.2.2.3	mannuronate-specific alginate lyase
+LbAly28	4.2.2.3	mannuronate-specific alginate lyase
+AlyDW11	4.2.2.3	mannuronate-specific alginate lyase
+M block-specific polymannuronate lyase	4.2.2.3	mannuronate-specific alginate lyase
+hdalex-1	4.2.2.3	mannuronate-specific alginate lyase
+chondroitinase	4.2.2.5	chondroitin AC lyase
+lyase, chondroitin AC	4.2.2.5	chondroitin AC lyase
+chondroitin AC eliminase	4.2.2.5	chondroitin AC lyase
+chondroitin sulfate lyase	4.2.2.5	chondroitin AC lyase
+A-Chase	4.2.2.5	chondroitin AC lyase
+F-Chase	4.2.2.5	chondroitin AC lyase
+ChSase-AC	4.2.2.5	chondroitin AC lyase
+EC 4.2.99.6	4.2.2.5	chondroitin AC lyase
+chondroitin AC I lyase	4.2.2.5	chondroitin AC lyase
+chondroitinase ACI	4.2.2.5	chondroitin AC lyase
+c-ACI	4.2.2.5	chondroitin AC lyase
+chon-AC-lyase	4.2.2.5	chondroitin AC lyase
+AC I lyase	4.2.2.5	chondroitin AC lyase
+Chondroitin AC lyase	4.2.2.5	chondroitin AC lyase
+chondroitinase AC	4.2.2.5	chondroitin AC lyase
+chondroitin lyase AC	4.2.2.5	chondroitin AC lyase
+chondroitinase ACII	4.2.2.5	chondroitin AC lyase
+c-ACII	4.2.2.5	chondroitin AC lyase
+chondroitin ACII lyase	4.2.2.5	chondroitin AC lyase
+ChonAC	4.2.2.5	chondroitin AC lyase
+ChnAC	4.2.2.5	chondroitin AC lyase
+lyase, oligogalacturonide	4.2.2.6	oligogalacturonide lyase
+unsaturated oligogalacturonate transeliminase	4.2.2.6	oligogalacturonide lyase
+OGTE	4.2.2.6	oligogalacturonide lyase
+oligogalacturonide trans-eliminase	4.2.2.6	oligogalacturonide lyase
+oligogalacturonide transeliminase	4.2.2.6	oligogalacturonide lyase
+oligogalacturonan lyase	4.2.2.6	oligogalacturonide lyase
+Ogl	4.2.2.6	oligogalacturonide lyase
+oligogalacturonate lyase	4.2.2.6	oligogalacturonide lyase
+YeOGL	4.2.2.6	oligogalacturonide lyase
+Lyase, heparin	4.2.2.7	heparin lyase
+Heparin eliminase	4.2.2.7	heparin lyase
+heparin lyase I	4.2.2.7	heparin lyase
+heparitinase II	4.2.2.7	heparin lyase
+HepII	4.2.2.7	heparin lyase
+heparitinase III	4.2.2.7	heparin lyase
+heparin lyase	4.2.2.7	heparin lyase
+Hep III	4.2.2.7	heparin lyase
+HepI	4.2.2.7	heparin lyase
+heparin lyase 1	4.2.2.7	heparin lyase
+HepA	4.2.2.7	heparin lyase
+heparinase I	4.2.2.7	heparin lyase
+heparinase II	4.2.2.7	heparin lyase
+heparin lyase II	4.2.2.7	heparin lyase
+heparin degrading enzyme	4.2.2.7	heparin lyase
+Heparinase	4.2.2.7	heparin lyase
+heparitin sulfate lyase	4.2.2.8	heparin-sulfate lyase
+heparin-sulfate eliminase	4.2.2.8	heparin-sulfate lyase
+heparin sulfate eliminase	4.2.2.8	heparin-sulfate lyase
+lyase, heparin sulfate	4.2.2.8	heparin-sulfate lyase
+heparan sulfate lyase	4.2.2.8	heparin-sulfate lyase
+heparin lyase III	4.2.2.8	heparin-sulfate lyase
+heparitinase II	4.2.2.8	heparin-sulfate lyase
+heparitin-sulfate lyase	4.2.2.8	heparin-sulfate lyase
+heparitinase I	4.2.2.8	heparin-sulfate lyase
+heparinase I	4.2.2.8	heparin-sulfate lyase
+heparin lyase	4.2.2.8	heparin-sulfate lyase
+HepI	4.2.2.8	heparin-sulfate lyase
+Hep I	4.2.2.8	heparin-sulfate lyase
+heparitinase	4.2.2.8	heparin-sulfate lyase
+heparinase III	4.2.2.8	heparin-sulfate lyase
+Hep III	4.2.2.8	heparin-sulfate lyase
+HepIII	4.2.2.8	heparin-sulfate lyase
+exopectic acid transeliminase	4.2.2.9	pectate disaccharide-lyase
+lyase, exopolygalacturonate	4.2.2.9	pectate disaccharide-lyase
+PelL	4.2.2.9	pectate disaccharide-lyase
+exo-PATE	4.2.2.9	pectate disaccharide-lyase
+exo-PGL	4.2.2.9	pectate disaccharide-lyase
+ExoPL	4.2.2.9	pectate disaccharide-lyase
+Exopolygalacturonate lyase	4.2.2.9	pectate disaccharide-lyase
+poly(1,4-alpha-D-galacturonide) exo-lyase	4.2.2.9	pectate disaccharide-lyase
+exopolygalacturonate lyase X	4.2.2.9	pectate disaccharide-lyase
+exopectate lyase W	4.2.2.9	pectate disaccharide-lyase
+PelX	4.2.2.9	pectate disaccharide-lyase
+PelW	4.2.2.9	pectate disaccharide-lyase
+exocleaving pectate lyase	4.2.2.9	pectate disaccharide-lyase
+exopectate pectate lyase	4.2.2.9	pectate disaccharide-lyase
+poly (1,4-alpha-D-galacturonide) exolyase	4.2.2.9	pectate disaccharide-lyase
+exopectate lyase	4.2.2.9	pectate disaccharide-lyase
+exopolygalacturonase	4.2.2.9	pectate disaccharide-lyase
+extracellular pectinase	4.2.2.9	pectate disaccharide-lyase
+exopolymethylgalacturonate lyase	4.2.2.9	pectate disaccharide-lyase
+exo-pectate lyase	4.2.2.9	pectate disaccharide-lyase
+synthase, threonine	4.2.3.1	threonine synthase
+threonine synthetase	4.2.3.1	threonine synthase
+EC 4.2.99.2	4.2.3.1	threonine synthase
+THR4	4.2.3.1	threonine synthase
+threonine synthase (gene MA1610)	4.2.3.1	threonine synthase
+MtTS	4.2.3.1	threonine synthase
+ThrS	4.2.3.1	threonine synthase
+threonine synthase	4.2.3.1	threonine synthase
+TS	4.2.3.1	threonine synthase
+cyclase, (-)-endo-fenchol	4.2.3.10	(-)-endo-fenchol synthase
+(-)-endo-fenchol cyclase	4.2.3.10	(-)-endo-fenchol synthase
+geranyl pyrophosphate:(-)-endo-fenchol cyclase	4.2.3.10	(-)-endo-fenchol synthase
+EC 4.6.1.8	4.2.3.10	(-)-endo-fenchol synthase
+FENS	4.2.3.10	(-)-endo-fenchol synthase
+TPS4	4.2.3.100	bicyclogermacrene synthase
+TPS4	4.2.3.101	7-epi-sesquithujene synthase
+TPS4-B73	4.2.3.101	7-epi-sesquithujene synthase
+TPS5	4.2.3.102	sesquithujene synthase
+TPS5-Del1	4.2.3.102	sesquithujene synthase
+isoform	4.2.3.103	ent-isokaurene synthase
+gene name	4.2.3.103	ent-isokaurene synthase
+isoform	4.2.3.103	ent-isokaurene synthase
+KSL5i	4.2.3.103	ent-isokaurene synthase
+sesquiterpene synthase1	4.2.3.104	alpha-humulene synthase
+Sst1	4.2.3.104	alpha-humulene synthase
+(E)-beta-caryophyllene/alpha-humulene synthase	4.2.3.104	alpha-humulene synthase
+TPS1	4.2.3.104	alpha-humulene synthase
+alpha-humulene synthase	4.2.3.104	alpha-humulene synthase
+gene name	4.2.3.104	alpha-humulene synthase
+CAHS	4.2.3.104	alpha-humulene synthase
+beta-caryophyllene/alpha-humulene synthase	4.2.3.104	alpha-humulene synthase
+TPS12	4.2.3.104	alpha-humulene synthase
+TPS2	4.2.3.104	alpha-humulene synthase
+TPS3	4.2.3.105	tricyclene synthase
+beta-ocimene synthase	4.2.3.106	(E)-beta-ocimene synthase
+AtTPS03	4.2.3.106	(E)-beta-ocimene synthase
+LjEbetaOS	4.2.3.106	(E)-beta-ocimene synthase
+MtEBOS	4.2.3.106	(E)-beta-ocimene synthase
+myrcene/(E)-beta-ocimene synthase	4.2.3.106	(E)-beta-ocimene synthase
+TPS10	4.2.3.106	(E)-beta-ocimene synthase
+TPS03	4.2.3.106	(E)-beta-ocimene synthase
+ama0a23	4.2.3.106	(E)-beta-ocimene synthase
+EbetaOS	4.2.3.106	(E)-beta-ocimene synthase
+EBOS	4.2.3.106	(E)-beta-ocimene synthase
+TPS4	4.2.3.106	(E)-beta-ocimene synthase
+MTSL4	4.2.3.106	(E)-beta-ocimene synthase
+TPS3	4.2.3.106	(E)-beta-ocimene synthase
+3-carene cyclase	4.2.3.107	(+)-car-3-ene synthase
+3-carene synthase	4.2.3.107	(+)-car-3-ene synthase
+3CAR	4.2.3.107	(+)-car-3-ene synthase
+(+)-3-carene synthase	4.2.3.107	(+)-car-3-ene synthase
+JF67	4.2.3.107	(+)-car-3-ene synthase
+TPS-3car2	4.2.3.107	(+)-car-3-ene synthase
+TPS-3car3	4.2.3.107	(+)-car-3-ene synthase
+TPS-3car1	4.2.3.107	(+)-car-3-ene synthase
+1,8-cineole cyclase; geranyl pyrophoshate:1,8-cineole cyclase	4.2.3.108	1,8-cineole synthase
+1,8-cineole synthetase	4.2.3.108	1,8-cineole synthase
+leucoplast 1,8-cineole synthase	4.2.3.108	1,8-cineole synthase
+gene name	4.2.3.108	1,8-cineole synthase
+gene name	4.2.3.108	1,8-cineole synthase
+CIN	4.2.3.108	1,8-cineole synthase
+SSS	4.2.3.108	1,8-cineole synthase
+plastid terpineol synthase	4.2.3.108	1,8-cineole synthase
+CinS	4.2.3.108	1,8-cineole synthase
+SabS1	4.2.3.108	1,8-cineole synthase
+TPS-sab	4.2.3.109	(-)-sabinene synthase
+EC 4.6.1.9	4.2.3.11	sabinene-hydrate synthase
+cyclase, sabinene hydrate	4.2.3.11	sabinene-hydrate synthase
+sabinene hydrate cyclase	4.2.3.11	sabinene-hydrate synthase
+sabinene-hydrate synthase	4.2.3.11	sabinene-hydrate synthase
+TPS6	4.2.3.11	sabinene-hydrate synthase
+Tps7	4.2.3.11	sabinene-hydrate synthase
+TPS3	4.2.3.110	(+)-sabinene synthase
+alpha-thujene synthase/sabinene synthase	4.2.3.110	(+)-sabinene synthase
+monoTPS1	4.2.3.112	(+)-alpha-terpineol synthase
+PmeTPS2	4.2.3.113	terpinolene synthase
+LaLIMS_RR	4.2.3.113	terpinolene synthase
+(+)-pinene cyclase	4.2.3.113	terpinolene synthase
+(-)-pinene cyclase	4.2.3.113	terpinolene synthase
+TPS-3car1	4.2.3.113	terpinolene synthase
+TPS-sab	4.2.3.113	terpinolene synthase
+limonene synthase	4.2.3.113	terpinolene synthase
+LIMS	4.2.3.113	terpinolene synthase
+JF67	4.2.3.113	terpinolene synthase
+ag9	4.2.3.113	terpinolene synthase
+TPS2	4.2.3.113	terpinolene synthase
+TPS-3car2	4.2.3.113	terpinolene synthase
+(+)-3-carene synthase	4.2.3.113	terpinolene synthase
+TPS-3car3	4.2.3.113	terpinolene synthase
+OvTPS2	4.2.3.114	gamma-terpinene synthase
+ClcTS	4.2.3.114	gamma-terpinene synthase
+RPS2	4.2.3.114	gamma-terpinene synthase
+TPS4	4.2.3.114	gamma-terpinene synthase
+cyclase I	4.2.3.116	(+)-camphene synthase
+cyclase II	4.2.3.117	(-)-camphene synthase
+(-)-pinene synthase	4.2.3.117	(-)-camphene synthase
+camphene synthase	4.2.3.117	(-)-camphene synthase
+ag6	4.2.3.117	(-)-camphene synthase
+TPS1	4.2.3.117	(-)-camphene synthase
+(-)-alpha-pinene/(-)-camphene synthase	4.2.3.117	(-)-camphene synthase
+sco7700	4.2.3.118	2-methylisoborneol synthase
+2-MIB cyclase	4.2.3.118	2-methylisoborneol synthase
+MIB synthase	4.2.3.118	2-methylisoborneol synthase
+MIBS	4.2.3.118	2-methylisoborneol synthase
+2-MIB synthase	4.2.3.118	2-methylisoborneol synthase
+monoterpene cyclase	4.2.3.118	2-methylisoborneol synthase
+(-)-alpha-pinene cyclase	4.2.3.119	(-)-alpha-pinene synthase
+(-)-pinene synthase	4.2.3.119	(-)-alpha-pinene synthase
+QH6	4.2.3.119	(-)-alpha-pinene synthase
+TPS3	4.2.3.119	(-)-alpha-pinene synthase
+TPS-(-)apin1	4.2.3.119	(-)-alpha-pinene synthase
+TPS-(-)bpin2	4.2.3.119	(-)-alpha-pinene synthase
+(-)-pinene cyclase	4.2.3.119	(-)-alpha-pinene synthase
+cyclase II	4.2.3.119	(-)-alpha-pinene synthase
+mono-tps	4.2.3.119	(-)-alpha-pinene synthase
+TPS2	4.2.3.119	(-)-alpha-pinene synthase
+ag9	4.2.3.119	(-)-alpha-pinene synthase
+camphene synthase	4.2.3.119	(-)-alpha-pinene synthase
+ag6	4.2.3.119	(-)-alpha-pinene synthase
+TPS1	4.2.3.119	(-)-alpha-pinene synthase
+(-)-alpha-pinene/(-)-camphene synthase	4.2.3.119	(-)-alpha-pinene synthase
+PT1	4.2.3.119	(-)-alpha-pinene synthase
+(-)-limonene/(-)-alpha-pinene synthase	4.2.3.119	(-)-alpha-pinene synthase
+LPS	4.2.3.119	(-)-alpha-pinene synthase
+synthase, 6-pyruvoyltetrahydropterin [de-57-valine] (human clonelambdaHSY2 gene PCBD subunit)	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+6-pyruvoyltetrahydropterin synthase [de-57-valine] (human clonelambdaHSY2 gene PCBD subunit)	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+EC 4.6.1.10	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+protein purple	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+synthase, 6-pyruvoyltetrahydropterin	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+PTP synthase	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+2-amino-4-oxo-6-(erythro-1',2',3'-trihydroxypropyl)-78-dihydroxypterdine triphosphate lyase	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+synthase, 6-pyruvoyltetrahydropterin [16-cysteine] (human clone lamdaHSY2 gene PCBD subunit)	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+6-pyruvoyltetrahydropterin synthase [16-cysteine] (human clone lamdaHSY2 gene PCBD subunit)	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+synthase, 6-pyruvoyltetrahydropterin [25-glutamine] (human clonelamdaHSY2 gene PCBD subunit)	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+6-pyruvoyltetrahydropterin synthase [25-glutamine] (human clonelambdaHSY2 gene PCBD subunit)	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+synthase, 6-pyruvoyltetrahydropterin [87-leucine] (human clonelamdaHSY2 gene PCBD subunit)	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+6-(1,2-dioxopropyl)tetrahydropterin synthase	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+pyruvoyltetrahydropterin synthase	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+PPH4 synthase	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+PPH4S	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+PTPS-III	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+6-pyruvoyltetrahydropterin synthase paralog	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+6-pyruvoyltetrahydropterin synthase-like protein	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+6-pyruvoyl tetrahydrobiopterin synthase	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+PH0634	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+6-pyruvoyl-tetrahydropterin synthase	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+ePTPS	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+6-pyruvoyl-5,6,7,8-tetrahydropterin synthase homologue, gene QueD	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+6-pyruvoyltetrahydropterin synthase	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+PTS	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+PTPS	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+PTPS homologue	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+SCO 6650	4.2.3.12	6-pyruvoyltetrahydropterin synthase
+beta-geraniolene synthase	4.2.3.120	(-)-beta-pinene synthase
+(-)-(1S,5S)-pinene synthase	4.2.3.120	(-)-beta-pinene synthase
+TPS3	4.2.3.120	(-)-beta-pinene synthase
+TPS-(-)apin1	4.2.3.120	(-)-beta-pinene synthase
+TPS-(-)bpin2	4.2.3.120	(-)-beta-pinene synthase
+TPS-(-)bpin1	4.2.3.120	(-)-beta-pinene synthase
+cyclase II	4.2.3.120	(-)-beta-pinene synthase
+mono-tps	4.2.3.120	(-)-beta-pinene synthase
+TPS2	4.2.3.120	(-)-beta-pinene synthase
+ag9	4.2.3.120	(-)-beta-pinene synthase
+(-)-pinene synthase	4.2.3.120	(-)-beta-pinene synthase
+QH6	4.2.3.120	(-)-beta-pinene synthase
+(+)-alpha-pinene cyclase	4.2.3.121	(+)-alpha-pinene synthase
+cyclase I	4.2.3.121	(+)-alpha-pinene synthase
+(+)-pinene cyclase	4.2.3.121	(+)-alpha-pinene synthase
+cyclase III	4.2.3.121	(+)-alpha-pinene synthase
+limonene synthase	4.2.3.121	(+)-alpha-pinene synthase
+LIMS	4.2.3.121	(+)-alpha-pinene synthase
+TPS-(+)apin1	4.2.3.121	(+)-alpha-pinene synthase
+PINS	4.2.3.121	(+)-alpha-pinene synthase
+(+)-pinene cyclase	4.2.3.122	(+)-beta-pinene synthase
+cyclase III	4.2.3.122	(+)-beta-pinene synthase
+gene name	4.2.3.123	beta-sesquiphellandrene synthase
+TPS1	4.2.3.123	beta-sesquiphellandrene synthase
+STS	4.2.3.123	beta-sesquiphellandrene synthase
+neoC	4.2.3.124	2-deoxy-scyllo-inosose synthase
+kanC	4.2.3.124	2-deoxy-scyllo-inosose synthase
+DOI synthase	4.2.3.124	2-deoxy-scyllo-inosose synthase
+gene name	4.2.3.124	2-deoxy-scyllo-inosose synthase
+gene name	4.2.3.124	2-deoxy-scyllo-inosose synthase
+DOIS	4.2.3.124	2-deoxy-scyllo-inosose synthase
+gene name	4.2.3.124	2-deoxy-scyllo-inosose synthase
+gene name	4.2.3.124	2-deoxy-scyllo-inosose synthase
+Cop3	4.2.3.125	alpha-muurolene synthase
+Cop3	4.2.3.126	gamma-muurolene synthase
+sesquiterpene synthase	4.2.3.126	gamma-muurolene synthase
+SasesquiTPS1	4.2.3.126	gamma-muurolene synthase
+sesquiterpene synthase	4.2.3.127	beta-copaene synthase
+Cop4	4.2.3.127	beta-copaene synthase
+sesquiterpene synthase	4.2.3.128	beta-cubebene synthase
+Cop4	4.2.3.128	beta-cubebene synthase
+gene name	4.2.3.128	beta-cubebene synthase
+gene name	4.2.3.129	(+)-sativene synthase
+sesquiterpene synthase	4.2.3.129	(+)-sativene synthase
+farnesyl diphosphate-delta-cadinene cyclase	4.2.3.13	(+)-delta-cadinene synthase
+2-trans,6-trans-farnesyl-diphosphate diphosphate-lyase (cyclizing,(+)-alpha-cadinene-forming)	4.2.3.13	(+)-delta-cadinene synthase
+EC 4.6.1.11	4.2.3.13	(+)-delta-cadinene synthase
+cyclase, delta-cadinene	4.2.3.13	(+)-delta-cadinene synthase
+delta-cadinene cyclase	4.2.3.13	(+)-delta-cadinene synthase
+delta-cadinene synthase	4.2.3.13	(+)-delta-cadinene synthase
+Cop4	4.2.3.13	(+)-delta-cadinene synthase
+bifunctional sesquiterpene synthase 1	4.2.3.13	(+)-delta-cadinene synthase
+(+)-delta-cadinene synthase	4.2.3.13	(+)-delta-cadinene synthase
+(+)-delta-cadinene synthase isoenzyme XC1	4.2.3.13	(+)-delta-cadinene synthase
+sesquiterpene synthase	4.2.3.13	(+)-delta-cadinene synthase
+isoform	4.2.3.13	(+)-delta-cadinene synthase
+cadinene synthase	4.2.3.13	(+)-delta-cadinene synthase
+TPS1	4.2.3.13	(+)-delta-cadinene synthase
+gene name	4.2.3.130	tetraprenyl-beta-curcumene synthase
+SmMDS	4.2.3.131	miltiradiene synthase
+SmiKSL	4.2.3.131	miltiradiene synthase
+kaurene synthase-like	4.2.3.131	miltiradiene synthase
+KSL	4.2.3.131	miltiradiene synthase
+KSL1	4.2.3.131	miltiradiene synthase
+kaurene synthase-like 1	4.2.3.131	miltiradiene synthase
+KSL2	4.2.3.131	miltiradiene synthase
+kaurene synthase-like 2	4.2.3.131	miltiradiene synthase
+AGAS	4.2.3.132	neoabietadiene synthase
+PtTPS-LAS	4.2.3.132	neoabietadiene synthase
+abietadiene/levopimaradiene synthase	4.2.3.132	neoabietadiene synthase
+TPS-LAS	4.2.3.132	neoabietadiene synthase
+NAS	4.2.3.132	neoabietadiene synthase
+cf. EC 4.2.3.18	4.2.3.132	neoabietadiene synthase
+alpha-copaene synthase	4.2.3.133	alpha-copaene synthase
+SES1	4.2.3.133	alpha-copaene synthase
+sesquiterpene synthase	4.2.3.133	alpha-copaene synthase
+isoform	4.2.3.133	alpha-copaene synthase
+sesquiterpene synthase 1	4.2.3.133	alpha-copaene synthase
+SeTPS1	4.2.3.133	alpha-copaene synthase
+TPS1	4.2.3.133	alpha-copaene synthase
+bifunctional sesquiterpene synthase 1	4.2.3.133	alpha-copaene synthase
+5-phosphohydroxy-L-lysine ammoniophospholyase	4.2.3.134	5-phosphonooxy-L-lysine phospho-lyase
+AGXT2L	4.2.3.134	5-phosphonooxy-L-lysine phospho-lyase
+phospho lyase	4.2.3.134	5-phosphonooxy-L-lysine phospho-lyase
+AGXT2L2	4.2.3.134	5-phosphonooxy-L-lysine phospho-lyase
+PHYKPL	4.2.3.134	5-phosphonooxy-L-lysine phospho-lyase
+6-protoilludene synthase	4.2.3.135	DELTA6-protoilludene synthase
+Omp6	4.2.3.135	DELTA6-protoilludene synthase
+protoilludene synthase	4.2.3.135	DELTA6-protoilludene synthase
+MrTPS2	4.2.3.136	alpha-isocomene synthase
+TPS2	4.2.3.136	alpha-isocomene synthase
+2-epi-(E)-beta-caryophyllene synthase	4.2.3.137	(E)-2-epi-beta-caryophyllene synthase
+SmMTPSL26	4.2.3.137	(E)-2-epi-beta-caryophyllene synthase
+(+)-epi-alpha-bisabolol synthase	4.2.3.138	(+)-epi-alpha-bisabolol synthase
+LdTPS8	4.2.3.138	(+)-epi-alpha-bisabolol synthase
+TPS8	4.2.3.138	(+)-epi-alpha-bisabolol synthase
+VoTPS2	4.2.3.139	 valerena-4,7(11)-diene synthase
+TPS1	4.2.3.139	 valerena-4,7(11)-diene synthase
+sesquiterpene synthase 1	4.2.3.139	 valerena-4,7(11)-diene synthase
+Z-abienol synthase	4.2.3.140	cis-abienol synthase
+NtABS	4.2.3.140	cis-abienol synthase
+CAS	4.2.3.140	cis-abienol synthase
+cis-abienol synthase	4.2.3.140	cis-abienol synthase
+AbCAS	4.2.3.140	cis-abienol synthase
+AbdiTPS4	4.2.3.140	cis-abienol synthase
+sclareol synthase	4.2.3.141	sclareol synthase
+gene name	4.2.3.142	7-epizingiberene synthase [(2Z,6Z)-farnesyl diphosphate cyclizing]
+Zis	4.2.3.142	7-epizingiberene synthase [(2Z,6Z)-farnesyl diphosphate cyclizing]
+terpene synthase 45	4.2.3.142	7-epizingiberene synthase [(2Z,6Z)-farnesyl diphosphate cyclizing]
+gene name	4.2.3.142	7-epizingiberene synthase [(2Z,6Z)-farnesyl diphosphate cyclizing]
+TgTPS2	4.2.3.143	kunzeaol synthase
+gene name	4.2.3.143	kunzeaol synthase
+TPS04/GES	4.2.3.144	geranyllinalool synthase
+gene name	4.2.3.144	geranyllinalool synthase
+terpene synthase TPS4	4.2.3.144	geranyllinalool synthase
+gene name, UniProt	4.2.3.144	geranyllinalool synthase
+GLS	4.2.3.144	geranyllinalool synthase
+TPS2	4.2.3.144	geranyllinalool synthase
+cf. EC 4.2.3.48	4.2.3.144	geranyllinalool synthase
+gene name	4.2.3.144	geranyllinalool synthase
+SlGLS	4.2.3.144	geranyllinalool synthase
+gene name, UniProt	4.2.3.144	geranyllinalool synthase
+geranyllinalool synthase	4.2.3.144	geranyllinalool synthase
+gene name	4.2.3.144	geranyllinalool synthase
+gene name	4.2.3.144	geranyllinalool synthase
+NaGLS	4.2.3.144	geranyllinalool synthase
+gene name	4.2.3.145	ophiobolin F synthase
+cetB2	4.2.3.146	cyclooctat-9-en-7-ol synthase
+diterpene cyclooctatin synthase	4.2.3.146	cyclooctat-9-en-7-ol synthase
+CYC	4.2.3.146	cyclooctat-9-en-7-ol synthase
+CotB2	4.2.3.146	cyclooctat-9-en-7-ol synthase
+PcmPIM1	4.2.3.147	pimaradiene synthase
+monofunctional pimaradiene synthase 1	4.2.3.147	pimaradiene synthase
+PbmPIM1	4.2.3.147	pimaradiene synthase
+gene name	4.2.3.148	cembrene C synthase
+gene name. Two isozymes with this activity are isolatedfrom the bacterium Streptomyces sp. SANK 60404. The enzyme encoded bythe DtcycA gene also produces cembrene C (see EC 4.2.3.148, cembrene Csynthase), while the enzyme encoded by the DtcycB gene also produces(R)-cembrene A and(1S,4E,8E,12E)-2,2,5,9,13-pentamethylcyclopentadeca-4,8,12-trien-1-ol(see EC 4.2.3.150, cembrene A synthase, and EC 4.2.3.151(pentamethylcyclopentadecatrienol synthase))	4.2.3.149	nephthenol synthase
+gene name. The trifunctional enzyme also produces(R)-cembrene A and(1S,4E,8E,12E)-2,2,5,9,13-pentamethylcyclopentadeca-4,8,12-trien-1-ol(see EC 4.2.3.150, cembrene A synthase, and EC 4.2.3.151(pentamethylcyclopentadecatrienol synthase))	4.2.3.149	nephthenol synthase
+myrcene synthase	4.2.3.15	myrcene synthase
+AcTPS2	4.2.3.15	myrcene synthase
+AtTPS10	4.2.3.15	myrcene synthase
+myrcene/(E)-beta-ocimene synthase	4.2.3.15	myrcene synthase
+TPS10	4.2.3.15	myrcene synthase
+gene name. The trifunctional enzyme also produces(R)-nephthenol and(1S,4E,8E,12E)-2,2,5,9,13-pentamethylcyclopentadeca-4,8,12-trien-1-ol.See EC 4.2.3.149, nephthenol synthase and EC 4.2.3.151,pentamethylcyclopentadecatrienol synthase	4.2.3.150	cembrene A synthase
+gene name. The trifunctional enzyme also produces(R)-nephthenol and (R)-cembrene A. See EC 4.2.3.150, cembrene Asynthase and EC 4.2.3.149, nephthenol synthase	4.2.3.151	pentamethylcyclopentadecatrienol synthase
+AcbC	4.2.3.152	2-epi-5-epi-valiolone synthase
+EVS	4.2.3.152	2-epi-5-epi-valiolone synthase
+CetA	4.2.3.152	2-epi-5-epi-valiolone synthase
+AbcC	4.2.3.152	2-epi-5-epi-valiolone synthase
+C7-cyclitol synthase	4.2.3.152	2-epi-5-epi-valiolone synthase
+SalQ	4.2.3.152	2-epi-5-epi-valiolone synthase
+ValA	4.2.3.152	2-epi-5-epi-valiolone synthase
+sedoheptulose 7-phosphate cyclase	4.2.3.152	2-epi-5-epi-valiolone synthase
+SH7PC	4.2.3.152	2-epi-5-epi-valiolone synthase
+gene name	4.2.3.153	(5-formylfuran-3-yl)methyl phosphate synthase
+locus name	4.2.3.153	(5-formylfuran-3-yl)methyl phosphate synthase
+4-HFC-P synthase	4.2.3.153	(5-formylfuran-3-yl)methyl phosphate synthase
+2-furaldehyde phosphate synthase	4.2.3.153	(5-formylfuran-3-yl)methyl phosphate synthase
+4-(hydroxymethyl)-2-furancarboxaldehyde-phosphate synthase	4.2.3.153	(5-formylfuran-3-yl)methyl phosphate synthase
+gene name	4.2.3.154	demethyl-4-deoxygadusol synthase
+desmethyl-4-deoxygadusol synthase	4.2.3.154	demethyl-4-deoxygadusol synthase
+DDGS	4.2.3.154	demethyl-4-deoxygadusol synthase
+gene name	4.2.3.154	demethyl-4-deoxygadusol synthase
+gene name	4.2.3.155	2-epi-valiolone synthase
+EVS	4.2.3.155	2-epi-valiolone synthase
+gene name	4.2.3.156	hydroxysqualene synthase
+hpnC	4.2.3.156	hydroxysqualene synthase
+gene name	4.2.3.156	hydroxysqualene synthase
+gene name	4.2.3.156	hydroxysqualene synthase
+SvS	4.2.3.158	(-)-spiroviolene synthase
+gene name	4.2.3.159	tsukubadiene synthase
+TdS	4.2.3.159	tsukubadiene synthase
+PsTPS-Lim	4.2.3.16	(4S)-limonene synthase
+ag9	4.2.3.16	(4S)-limonene synthase
+CsTPS1	4.2.3.16	(4S)-limonene synthase
+(-)-limonene synthase	4.2.3.16	(4S)-limonene synthase
+limonene synthase	4.2.3.16	(4S)-limonene synthase
+LS	4.2.3.16	(4S)-limonene synthase
+(4S)-LS	4.2.3.16	(4S)-limonene synthase
+MsLS	4.2.3.16	(4S)-limonene synthase
+gene name	4.2.3.160	(2S,3R,6S,9S)-(-)-protoillud-7-ene synthase
+gene name	4.2.3.161	(3S)-(+)-asterisca-2(9),6-diene synthase
+gene name	4.2.3.163	(+)-corvol ether B synthase
+gene name	4.2.3.164	(+)-eremophilene synthase
+gene name	4.2.3.164	(+)-eremophilene synthase
+gene name	4.2.3.165	(1R,4R,5S)-(-)-guaia-6,10(14)-diene synthase
+TPS20	4.2.3.167	dolabella-3,7-dien-18-ol synthase
+gene name	4.2.3.167	dolabella-3,7-dien-18-ol synthase
+TPS20	4.2.3.168	dolathalia-3,7,11-triene synthase
+gene name	4.2.3.168	dolathalia-3,7,11-triene synthase
+geranylgeranyl pyrophosphate cyclase	4.2.3.17	taxadiene synthase
+taxadiene synthase	4.2.3.17	taxadiene synthase
+taxadiene synthase 5	4.2.3.17	taxadiene synthase
+TXS	4.2.3.17	taxadiene synthase
+taxa-4(5),11(12)-diene synthase	4.2.3.17	taxadiene synthase
+gene name	4.2.3.171	(+)-corvol ether A synthase
+TPS1	4.2.3.172	10-epi-juneol synthase
+TPS1	4.2.3.173	tau-cadinol synthase
+cadinol synthase	4.2.3.173	tau-cadinol synthase
+CADS	4.2.3.173	tau-cadinol synthase
+Tps7	4.2.3.173	tau-cadinol synthase
+TPS1	4.2.3.174	(2E,6E)-hedycaryol synthase
+gene name	4.2.3.175	10-epi-cubebol synthase
+NfSS	4.2.3.176	sesterfisherol synthase
+NFIA_55500 gene name	4.2.3.176	sesterfisherol synthase
+TS2	4.2.3.176	sesterfisherol synthase
+CoTPS1	4.2.3.177	beta-thujene synthase
+TPS1	4.2.3.177	beta-thujene synthase
+sesterterpene synthase	4.2.3.178	stellata-2,6,19-triene synthase
+XsTPS2	4.2.3.179	guaia-4,6-diene synthase
+TPS2	4.2.3.179	guaia-4,6-diene synthase
+cyclase, abietadiene	4.2.3.18	abieta-7,13-diene synthase
+(-)-abietadiene synthase	4.2.3.18	abieta-7,13-diene synthase
+abietadiene cyclase	4.2.3.18	abieta-7,13-diene synthase
+abietadiene/levopimaradiene synthase	4.2.3.18	abieta-7,13-diene synthase
+PtTPS-LAS	4.2.3.18	abieta-7,13-diene synthase
+PdABS	4.2.3.18	abieta-7,13-diene synthase
+PaLAS	4.2.3.18	abieta-7,13-diene synthase
+AGAS	4.2.3.18	abieta-7,13-diene synthase
+abietadiene synthase	4.2.3.18	abieta-7,13-diene synthase
+TPS-LAS	4.2.3.18	abieta-7,13-diene synthase
+PxaTPS8	4.2.3.180	pseudolaratriene synthase
+TPS8	4.2.3.180	pseudolaratriene synthase
+pseudolarene synthase	4.2.3.180	pseudolaratriene synthase
+gene name	4.2.3.181	selina-4(15),7(11)-diene synthase
+terpene synthase metal-binding domain-containing protein	4.2.3.181	selina-4(15),7(11)-diene synthase
+pentalenene synthase	4.2.3.182	pristinol synthase
+TPS2	4.2.3.183	nezukol synthase
+MpMTPSL4	4.2.3.184	5-hydroxy-alpha-gurjunene synthase
+MTPSL4	4.2.3.184	5-hydroxy-alpha-gurjunene synthase
+IrKSL4	4.2.3.185	ent-atiserene synthase
+kaurene synthase 4	4.2.3.185	ent-atiserene synthase
+KSL4	4.2.3.185	ent-atiserene synthase
+PtmT1	4.2.3.185	ent-atiserene synthase
+SmKSL2	4.2.3.186	ent-13-epi-manoyl oxide synthase
+ent-LDPP synthase	4.2.3.186	ent-13-epi-manoyl oxide synthase
+KSL2	4.2.3.186	ent-13-epi-manoyl oxide synthase
+HCS	4.2.3.187	(2Z,6E)-hedycaryol synthase
+gene name	4.2.3.187	(2Z,6E)-hedycaryol synthase
+Bcl-TS	4.2.3.188	beta-geranylfarnesene synthase
+gene name	4.2.3.188	beta-geranylfarnesene synthase
+MvELS	4.2.3.189	9,13-epoxylabda-14-ene synthase
+ELS	4.2.3.189	9,13-epoxylabda-14-ene synthase
+ent-kaurene synthase B	4.2.3.19	ent-kaurene synthase
+ent-kaurene synthetase B	4.2.3.19	ent-kaurene synthase
+part ofbifunctional enzyme catalyzing the two step reaction fromtrans-geranylgeranyl-diphosphate to ent-kaurene, first step iscatalyzed by EC 5.5.1.13 (ent-kaurene synthase A)	4.2.3.19	ent-kaurene synthase
+ent-copalyldiphosphate synthase/ent-kaurene synthase	4.2.3.19	ent-kaurene synthase
+class I diTPS ent-kaurene synthase	4.2.3.19	ent-kaurene synthase
+PpKS	4.2.3.19	ent-kaurene synthase
+bifunctional cyclase with copalyl disphosphataseand kaurene synthase activity	4.2.3.19	ent-kaurene synthase
+ent-kaurene synthase	4.2.3.19	ent-kaurene synthase
+ent-copalyl/ent-kaurene synthase	4.2.3.19	ent-kaurene synthase
+ent-KS	4.2.3.19	ent-kaurene synthase
+blr2150	4.2.3.19	ent-kaurene synthase
+gene name	4.2.3.19	ent-kaurene synthase
+gene name	4.2.3.19	ent-kaurene synthase
+KSL6	4.2.3.19	ent-kaurene synthase
+KSL1	4.2.3.19	ent-kaurene synthase
+KS	4.2.3.19	ent-kaurene synthase
+KS1	4.2.3.19	ent-kaurene synthase
+bifunctionalenzyme	4.2.3.19	ent-kaurene synthase
+bifunctional enzyme	4.2.3.19	ent-kaurene synthase
+MvELS	4.2.3.190	manoyl oxide synthase
+GrTPS6	4.2.3.190	manoyl oxide synthase
+CfTPS3	4.2.3.190	manoyl oxide synthase
+CfTPS4	4.2.3.190	manoyl oxide synthase
+KSL1	4.2.3.190	manoyl oxide synthase
+kaurene synthase-like 1	4.2.3.190	manoyl oxide synthase
+KSL2	4.2.3.190	manoyl oxide synthase
+kaurene synthase-like 2	4.2.3.190	manoyl oxide synthase
+ELS	4.2.3.190	manoyl oxide synthase
+TPS3	4.2.3.190	manoyl oxide synthase
+TPS4	4.2.3.190	manoyl oxide synthase
+TPS6	4.2.3.190	manoyl oxide synthase
+SdnA	4.2.3.191	cycloaraneosene synthase
+SCLAV_p0491	4.2.3.192	labda-7,13(16),14-triene synthase
+CldD	4.2.3.193	(12E)-labda-8(17),12,14-triene synthase
+labdatriene synthase	4.2.3.193	(12E)-labda-8(17),12,14-triene synthase
+drimenol synthase	4.2.3.194	(-)-drimenol synthase
+farnesyl pyrophosphate:drimenol cyclase	4.2.3.194	(-)-drimenol synthase
+2E,6E-farnesyl pyrophosphate:drimenol cyclase	4.2.3.194	(-)-drimenol synthase
+FPP:drimenol cyclase	4.2.3.194	(-)-drimenol synthase
+TPS3	4.2.3.194	(-)-drimenol synthase
+sesquiterpene synthase 3	4.2.3.194	(-)-drimenol synthase
+gene name	4.2.3.195	rhizathalene A synthase
+phospho-lyase, ethanolamine phosphate	4.2.3.2	ethanolamine-phosphate phospho-lyase
+O-phosphoethanolamine-phospholyase	4.2.3.2	ethanolamine-phosphate phospho-lyase
+amino alcohol O-phosphate phospholyase	4.2.3.2	ethanolamine-phosphate phospho-lyase
+O-phosphorylethanol-amine phospho-lyase	4.2.3.2	ethanolamine-phosphate phospho-lyase
+EC 4.2.99.7	4.2.3.2	ethanolamine-phosphate phospho-lyase
+(+)-limonene synthase	4.2.3.20	(R)-limonene synthase
+Cl(+)LIMS2	4.2.3.20	(R)-limonene synthase
+dLMS	4.2.3.20	(R)-limonene synthase
+CitMTSE1	4.2.3.20	(R)-limonene synthase
+d-limonene synthase	4.2.3.20	(R)-limonene synthase
+D-limonene synthase 2	4.2.3.20	(R)-limonene synthase
+CitMTSE2	4.2.3.20	(R)-limonene synthase
+Cl(+)LIMS1	4.2.3.20	(R)-limonene synthase
+limonene synthase	4.2.3.20	(R)-limonene synthase
+(R)-limonene synthase	4.2.3.20	(R)-limonene synthase
+LaLIMS	4.2.3.20	(R)-limonene synthase
+LIMS	4.2.3.20	(R)-limonene synthase
+synthase, vetispiradiene	4.2.3.21	vetispiradiene synthase
+vetispiradiene-forming farnesyl pyrophosphate cyclase	4.2.3.21	vetispiradiene synthase
+pemnaspirodiene synthase	4.2.3.21	vetispiradiene synthase
+HVS	4.2.3.21	vetispiradiene synthase
+vetispiradiene cyclase	4.2.3.21	vetispiradiene synthase
+terpene cyclase	4.2.3.22	germacradienol synthase
+sesquiterpene synthase	4.2.3.22	germacradienol synthase
+germacradienol/geosmin synthase	4.2.3.22	germacradienol synthase
+germacradienol/germacrene D synthase	4.2.3.22	germacradienol synthase
+germacradienol synthase	4.2.3.22	germacradienol synthase
+germacrene D synthase	4.2.3.22	germacradienol synthase
+gene name	4.2.3.22	germacradienol synthase
+GS	4.2.3.22	germacradienol synthase
+spterp13	4.2.3.22	germacradienol synthase
+germacrene A synthase	4.2.3.23	germacrene-A synthase
+germacrene A synthase 1	4.2.3.23	germacrene-A synthase
+germacrene A synthase 2	4.2.3.23	germacrene-A synthase
+FENS	4.2.3.23	germacrene-A synthase
+sesquiterpene synthase	4.2.3.23	germacrene-A synthase
+sesquiterpene cyclase	4.2.3.23	germacrene-A synthase
+(+)-germacrene A synthase	4.2.3.23	germacrene-A synthase
+GASlo	4.2.3.23	germacrene-A synthase
+GASsh	4.2.3.23	germacrene-A synthase
+GAS	4.2.3.23	germacrene-A synthase
+guaiadiene synthase	4.2.3.23	germacrene-A synthase
+sesquiterpene synthase	4.2.3.23	germacrene-A synthase
+(+)-(10R)-germacrene A synthase	4.2.3.23	germacrene-A synthase
+Sc1	4.2.3.23	germacrene-A synthase
+ADS1	4.2.3.24	amorpha-4,11-diene synthase
+amorphadiene synthase	4.2.3.24	amorpha-4,11-diene synthase
+ADS	4.2.3.24	amorpha-4,11-diene synthase
+amorpha-4,11-diene synthase	4.2.3.24	amorpha-4,11-diene synthase
+ADS3963	4.2.3.24	amorpha-4,11-diene synthase
+linalool/nerolidol synthase	4.2.3.25	S-linalool synthase
+FaNES	4.2.3.25	S-linalool synthase
+S-linalool synthase	4.2.3.25	S-linalool synthase
+(-)-linalool synthase	4.2.3.25	S-linalool synthase
+Tps-5073L4	4.2.3.25	S-linalool synthase
+(S)-linalool synthase	4.2.3.25	S-linalool synthase
+LIS	4.2.3.25	S-linalool synthase
+linalool synthase	4.2.3.25	S-linalool synthase
+S-LIS	4.2.3.25	S-linalool synthase
+LIS2	4.2.3.25	S-linalool synthase
+LIS1	4.2.3.25	S-linalool synthase
+the enzyme belongs to the family of isoprenoidsynthases	4.2.3.25	S-linalool synthase
+QH1	4.2.3.26	R-linalool synthase
+QH5	4.2.3.26	R-linalool synthase
+R-linalool synthase	4.2.3.26	R-linalool synthase
+LeMTS1	4.2.3.26	R-linalool synthase
+PnISPS	4.2.3.27	isoprene synthase
+gene name	4.2.3.27	isoprene synthase
+isoprene synthase	4.2.3.27	isoprene synthase
+ISPS	4.2.3.27	isoprene synthase
+PcISPS	4.2.3.27	isoprene synthase
+OsKSL7	4.2.3.28	ent-cassa-12,15-diene synthase
+OsDTC1	4.2.3.28	ent-cassa-12,15-diene synthase
+ent-(sandaraco)pimar-8(14),15-diene synthase	4.2.3.29	ent-sandaracopimaradiene synthase
+OsKSL10	4.2.3.29	ent-sandaracopimaradiene synthase
+OsKS10	4.2.3.29	ent-sandaracopimaradiene synthase
+synthase, methylglyoxal	4.2.3.3	methylglyoxal synthase
+methylglyoxal synthetase	4.2.3.3	methylglyoxal synthase
+EC 4.2.99.11	4.2.3.3	methylglyoxal synthase
+MGS	4.2.3.3	methylglyoxal synthase
+gene msgA	4.2.3.3	methylglyoxal synthase
+OsKS5	4.2.3.30	ent-pimara-8(14),15-diene synthase
+PaLAS	4.2.3.32	levopimaradiene synthase
+levopimaradiene/abietadiene synthase	4.2.3.32	levopimaradiene synthase
+TPS-LAS	4.2.3.32	levopimaradiene synthase
+stemar-13-ene synthase	4.2.3.33	stemar-13-ene synthase
+OsDTC2	4.2.3.33	stemar-13-ene synthase
+OsKSL11	4.2.3.34	stemod-13(17)-ene synthase
+9beta-pimara-7,15-diene synthase	4.2.3.35	syn-pimara-7,15-diene synthase
+OsDTS2	4.2.3.35	syn-pimara-7,15-diene synthase
+OsKS4	4.2.3.35	syn-pimara-7,15-diene synthase
+Cyc2	4.2.3.36	terpentetriene synthase
+diterpene cyclase-2	4.2.3.36	terpentetriene synthase
+SCO5222 protein	4.2.3.37	epi-isozizaene synthase
+epi-isozizaene synthase	4.2.3.37	epi-isozizaene synthase
+TPS2	4.2.3.37	epi-isozizaene synthase
+SAV_3032	4.2.3.37	epi-isozizaene synthase
+EIZS	4.2.3.37	epi-isozizaene synthase
+bisabolene synthase	4.2.3.38	alpha-bisabolene synthase
+TPS3	4.2.3.38	alpha-bisabolene synthase
+(E)-alpha-bisabolene synthase	4.2.3.38	alpha-bisabolene synthase
+E-alpha-bisabolene synthase	4.2.3.38	alpha-bisabolene synthase
+the enzyme belongs to the sesquiterpene synthase familyof enzymes, TPS-d subfamily	4.2.3.38	alpha-bisabolene synthase
+BIS	4.2.3.38	alpha-bisabolene synthase
+apha-bisabolene synthase	4.2.3.38	alpha-bisabolene synthase
+epicedrol synthase	4.2.3.39	epi-cedrol synthase
+sesquiterpene cyclase	4.2.3.39	epi-cedrol synthase
+8-epicedrol synthase	4.2.3.39	epi-cedrol synthase
+synthase, 5-dehydroquinate	4.2.3.4	3-dehydroquinate synthase
+5-dehydroquinate synthase	4.2.3.4	3-dehydroquinate synthase
+5-dehydroquinic acid synthetase	4.2.3.4	3-dehydroquinate synthase
+3-dehydroquinic acid synthetase	4.2.3.4	3-dehydroquinate synthase
+dehydroquinate synthetase	4.2.3.4	3-dehydroquinate synthase
+3-dehydroquinate synthetase	4.2.3.4	3-dehydroquinate synthase
+EC 4.6.1.3	4.2.3.4	3-dehydroquinate synthase
+hpDHQS	4.2.3.4	3-dehydroquinate synthase
+Xoo1243	4.2.3.4	3-dehydroquinate synthase
+3-dehydroquinate synthase	4.2.3.4	3-dehydroquinate synthase
+DHQ synthase	4.2.3.4	3-dehydroquinate synthase
+dehydroquinate synthase	4.2.3.4	3-dehydroquinate synthase
+DHQS	4.2.3.4	3-dehydroquinate synthase
+TPS13	4.2.3.40	(Z)-gamma-bisabolene synthase
+TPS12	4.2.3.40	(Z)-gamma-bisabolene synthase
+gene name	4.2.3.40	(Z)-gamma-bisabolene synthase
+elisabethatriene cyclase	4.2.3.41	elisabethatriene synthase
+ACS	4.2.3.42	aphidicolan-16beta-ol synthase
+bifunctional enzyme which also has EC 5.5.1.14syn-copalyl diphosphate synthase activity	4.2.3.42	aphidicolan-16beta-ol synthase
+usicoccadiene synthase	4.2.3.43	fusicocca-2,10(14)-diene synthase
+PaDC4	4.2.3.43	fusicocca-2,10(14)-diene synthase
+fusicoccadiene synthase	4.2.3.43	fusicocca-2,10(14)-diene synthase
+PaFS	4.2.3.43	fusicocca-2,10(14)-diene synthase
+PaTPS-Iso	4.2.3.44	isopimara-7,15-diene synthase
+DC1	4.2.3.45	phyllocladan-16alpha-ol synthase
+TPS2	4.2.3.46	alpha-farnesene synthase
+sesquiterpene synthase	4.2.3.46	alpha-farnesene synthase
+AFS1	4.2.3.46	alpha-farnesene synthase
+alpha-farnesene synthase	4.2.3.46	alpha-farnesene synthase
+alpha-farnesene synthase-1	4.2.3.46	alpha-farnesene synthase
+AFS-1	4.2.3.46	alpha-farnesene synthase
+E,E-alpha-farnesene synthase	4.2.3.46	alpha-farnesene synthase
+MdAFS1	4.2.3.46	alpha-farnesene synthase
+(E,E)-alpha-farnesene synthase	4.2.3.46	alpha-farnesene synthase
+alpha farnesene synthase 1	4.2.3.46	alpha-farnesene synthase
+AdAFS1	4.2.3.46	alpha-farnesene synthase
+TPS02	4.2.3.46	alpha-farnesene synthase
+TPS03	4.2.3.46	alpha-farnesene synthase
+Tps7	4.2.3.46	alpha-farnesene synthase
+sesquiterpene synthase	4.2.3.47	beta-farnesene synthase
+terpene synthase	4.2.3.47	beta-farnesene synthase
+farnesene synthase	4.2.3.47	beta-farnesene synthase
+gene name	4.2.3.47	beta-farnesene synthase
+TPS5	4.2.3.47	beta-farnesene synthase
+betaFS1	4.2.3.47	beta-farnesene synthase
+betaFS2	4.2.3.47	beta-farnesene synthase
+(E)-beta-farnesene synthase	4.2.3.47	beta-farnesene synthase
+acyclic sesquiterpene synthase	4.2.3.47	beta-farnesene synthase
+CJFS	4.2.3.47	beta-farnesene synthase
+terpene synthase 10-B73	4.2.3.47	beta-farnesene synthase
+terpene synthase TPS10	4.2.3.47	beta-farnesene synthase
+terpene synthase T0	4.2.3.47	beta-farnesene synthase
+terpene synthase 10	4.2.3.47	beta-farnesene synthase
+TPS10	4.2.3.47	beta-farnesene synthase
+TPS10-dip	4.2.3.47	beta-farnesene synthase
+terpene synthase 10-per	4.2.3.47	beta-farnesene synthase
+gene name	4.2.3.48	(3S,6E)-nerolidol synthase
+TPS4	4.2.3.48	(3S,6E)-nerolidol synthase
+gene name	4.2.3.48	(3S,6E)-nerolidol synthase
+(3S)-(E)-nerolidol synthase	4.2.3.48	(3S,6E)-nerolidol synthase
+linalool/nerolidol synthase	4.2.3.48	(3S,6E)-nerolidol synthase
+FaNES	4.2.3.48	(3S,6E)-nerolidol synthase
+gene name	4.2.3.48	(3S,6E)-nerolidol synthase
+TPS1	4.2.3.48	(3S,6E)-nerolidol synthase
+gene name	4.2.3.48	(3S,6E)-nerolidol synthase
+nerolidol/geranyl linalool synthase	4.2.3.48	(3S,6E)-nerolidol synthase
+TPS3	4.2.3.48	(3S,6E)-nerolidol synthase
+NES1	4.2.3.48	(3S,6E)-nerolidol synthase
+TPS4	4.2.3.49	(3R,6E)-nerolidol synthase
+gene name	4.2.3.49	(3R,6E)-nerolidol synthase
+terpene synthase 1	4.2.3.49	(3R,6E)-nerolidol synthase
+5-enolpyruvylshikimate-3-phosphate phospholyase	4.2.3.5	chorismate synthase
+chorismate synthetase	4.2.3.5	chorismate synthase
+EC 4.6.1.4	4.2.3.5	chorismate synthase
+VEG216	4.2.3.5	chorismate synthase
+Vegetative protein 216	4.2.3.5	chorismate synthase
+CS1	4.2.3.5	chorismate synthase
+CS2	4.2.3.5	chorismate synthase
+gene Vlaro2	4.2.3.5	chorismate synthase
+gene name	4.2.3.5	chorismate synthase
+CS	4.2.3.5	chorismate synthase
+5-O-(1-carboxyvinyl)-3-phosphoshikimate phosphate lyase	4.2.3.5	chorismate synthase
+MtCS	4.2.3.5	chorismate synthase
+gene	4.2.3.5	chorismate synthase
+SBS	4.2.3.50	(+)-alpha-santalene synthase [(2Z,6Z)-farnesyl diphosphate cyclizing]
+phellandrene synthase 1	4.2.3.51	beta-phellandrene synthase (neryl-diphosphate-cyclizing)
+PHS1	4.2.3.51	beta-phellandrene synthase (neryl-diphosphate-cyclizing)
+monoterpene synthase PHS1	4.2.3.51	beta-phellandrene synthase (neryl-diphosphate-cyclizing)
+phellandrene synthase	4.2.3.52	(4S)-beta-phellandrene synthase (geranyl-diphosphate-cyclizing)
+(-)-beta-phellandrene synthase	4.2.3.52	(4S)-beta-phellandrene synthase (geranyl-diphosphate-cyclizing)
+(-)-(4S)-beta-phellandrene synthase	4.2.3.52	(4S)-beta-phellandrene synthase (geranyl-diphosphate-cyclizing)
+OPHLS	4.2.3.52	(4S)-beta-phellandrene synthase (geranyl-diphosphate-cyclizing)
+beta-phellandrene synthase	4.2.3.52	(4S)-beta-phellandrene synthase (geranyl-diphosphate-cyclizing)
+SBS	4.2.3.53	(+)-endo-beta-bergamotene synthase [(2Z,6Z)-farnesyl diphosphate
+SBS	4.2.3.54	(-)-endo-alpha-bergamotene synthase [(2Z,6Z)-farnesyl diphosphate
+TPS6	4.2.3.55	(S)-beta-bisabolene synthase
+TPS11	4.2.3.55	(S)-beta-bisabolene synthase
+gene name	4.2.3.55	(S)-beta-bisabolene synthase
+gamma-humulene synthase	4.2.3.56	gamma-humulene synthase
+gammaHS	4.2.3.56	gamma-humulene synthase
+(E)-beta-caryophyllene synthase	4.2.3.57	(-)-beta-caryophyllene synthase
+CarS	4.2.3.57	(-)-beta-caryophyllene synthase
+TPS1	4.2.3.57	(-)-beta-caryophyllene synthase
+TPS21	4.2.3.57	(-)-beta-caryophyllene synthase
+At5g23960	4.2.3.57	(-)-beta-caryophyllene synthase
+PmeTPS3	4.2.3.59	(E)-gamma-bisabolene synthase
+sesquiterpene cyclase	4.2.3.6	trichodiene synthase
+trans,trans-farnesyl-diphosphate sesquiterpenoid-lyase	4.2.3.6	trichodiene synthase
+trichodiene synthetase	4.2.3.6	trichodiene synthase
+EC 4.1.99.6	4.2.3.6	trichodiene synthase
+synthase, trichodiene	4.2.3.6	trichodiene synthase
+gene name	4.2.3.6	trichodiene synthase
+gene tri5	4.2.3.6	trichodiene synthase
+Tps7	4.2.3.60	germacrene C synthase
+sesquiterpene synthase 7	4.2.3.60	germacrene C synthase
+EAS	4.2.3.61	5-epiaristolochene synthase
+TEAS	4.2.3.61	5-epiaristolochene synthase
+gene name	4.2.3.61	5-epiaristolochene synthase
+gene name	4.2.3.61	5-epiaristolochene synthase
+5EAT	4.2.3.61	5-epiaristolochene synthase
+g110	4.2.3.61	5-epiaristolochene synthase
+gene name	4.2.3.61	5-epiaristolochene synthase
+gene name	4.2.3.61	5-epiaristolochene synthase
+gene name	4.2.3.61	5-epiaristolochene synthase
+TPS	4.2.3.62	(-)-gamma-cadinene synthase [(2Z,6E)-farnesyl diphosphate cyclizing]
+TpsNY	4.2.3.62	(-)-gamma-cadinene synthase [(2Z,6E)-farnesyl diphosphate cyclizing]
+gene name	4.2.3.64	(+)-epicubenol synthase
+gecA	4.2.3.64	(+)-epicubenol synthase
+gene name	4.2.3.65	zingiberene synthase
+gene name	4.2.3.65	zingiberene synthase
+TPS1	4.2.3.65	zingiberene synthase
+MxpSS1	4.2.3.67	cis-muuroladiene synthase
+ZSS2	4.2.3.68	beta-eudesmol synthase
+gene name	4.2.3.69	(+)-alpha-barbatene synthase
+pentalenene synthetase	4.2.3.7	pentalenene synthase
+synthetase, pentalenene	4.2.3.7	pentalenene synthase
+EC 4.6.1.5	4.2.3.7	pentalenene synthase
+pentalenene synthase	4.2.3.7	pentalenene synthase
+PenA	4.2.3.7	pentalenene synthase
+TPS	4.2.3.70	patchoulol synthase
+PTS	4.2.3.70	patchoulol synthase
+TPS177	4.2.3.70	patchoulol synthase
+GDS	4.2.3.71	(E,E)-germacrene B synthase
+SSTLH1	4.2.3.71	(E,E)-germacrene B synthase
+VvVal	4.2.3.73	valencene synthase
+CsTPS1	4.2.3.73	valencene synthase
+terpene synthase 1	4.2.3.73	valencene synthase
+ValCS	4.2.3.73	valencene synthase
+Val	4.2.3.73	valencene synthase
+gene name	4.2.3.73	valencene synthase
+BOT2	4.2.3.74	presilphiperfolanol synthase
+PSPS	4.2.3.74	presilphiperfolanol synthase
+VitiM1610	4.2.3.75	(-)-germacrene D synthase
+Cop4	4.2.3.75	(-)-germacrene D synthase
+gene name	4.2.3.75	(-)-germacrene D synthase
+TPS	4.2.3.75	(-)-germacrene D synthase
+(-)-germacrene D synthase	4.2.3.75	(-)-germacrene D synthase
+terpenoid cyclase	4.2.3.75	(-)-germacrene D synthase
+GerD	4.2.3.75	(-)-germacrene D synthase
+TPS1	4.2.3.75	(-)-germacrene D synthase
+gene name	4.2.3.77	(+)-germacrene D synthase
+GDS	4.2.3.77	(+)-germacrene D synthase
+GDS1	4.2.3.77	(+)-germacrene D synthase
+ordered locus name	4.2.3.78	beta-chamigrene synthase
+ordered locus name	4.2.3.79	thujopsene synthase
+casbene synthetase	4.2.3.8	casbene synthase
+EC 4.6.1.7	4.2.3.8	casbene synthase
+TPS2	4.2.3.8	casbene synthase
+CSH	4.2.3.8	casbene synthase
+trans-alpha-bergamotene synthase	4.2.3.80	alpha-longipinene synthase
+LaBERS	4.2.3.80	alpha-longipinene synthase
+PaTPS-Lon	4.2.3.80	alpha-longipinene synthase
+PsTPS 3	4.2.3.80	alpha-longipinene synthase
+gene name	4.2.3.81	exo-alpha-bergamotene synthase
+SaSSy	4.2.3.81	exo-alpha-bergamotene synthase
+SSy	4.2.3.81	exo-alpha-bergamotene synthase
+SuSSy	4.2.3.81	exo-alpha-bergamotene synthase
+SspiSy	4.2.3.81	exo-alpha-bergamotene synthase
+LaBERS	4.2.3.81	exo-alpha-bergamotene synthase
+SaSSy	4.2.3.82	alpha-santalene synthase
+SSy	4.2.3.82	alpha-santalene synthase
+SuSSy	4.2.3.82	alpha-santalene synthase
+SspiSy	4.2.3.82	alpha-santalene synthase
+Tps2-1	4.2.3.82	alpha-santalene synthase
+SaSSy	4.2.3.83	beta-santalene synthase
+SSy	4.2.3.83	beta-santalene synthase
+SuSSy	4.2.3.83	beta-santalene synthase
+SspiSy	4.2.3.83	beta-santalene synthase
+ZSS2	4.2.3.84	10-epi-gamma-eudesmol synthase
+ZSS2	4.2.3.85	alpha-eudesmol synthase
+VvVal	4.2.3.86	7-epi-alpha-selinene synthase
+VvValCS	4.2.3.86	7-epi-alpha-selinene synthase
+PTS	4.2.3.87	alpha-guaiene synthase
+recombinant enzyme	4.2.3.87	alpha-guaiene synthase
+patchoulol synthase	4.2.3.87	alpha-guaiene synthase
+TPS	4.2.3.87	alpha-guaiene synthase
+TPS31	4.2.3.88	viridiflorene synthase
+GcoA	4.2.3.89	(+)-beta-caryophyllene synthase
+EC 4.1.99.7	4.2.3.9	aristolochene synthase
+EC 2.5.1.40	4.2.3.9	aristolochene synthase
+sesquiterpene cyclase	4.2.3.9	aristolochene synthase
+cyclase, farnesyl pyrophosphate	4.2.3.9	aristolochene synthase
+farnesylpyrophosphate cyclase	4.2.3.9	aristolochene synthase
+FPP-carbocyclase	4.2.3.9	aristolochene synthase
+synthase, aristolochene	4.2.3.9	aristolochene synthase
+sesquiterpene cyclase	4.2.3.9	aristolochene synthase
+TEAS	4.2.3.9	aristolochene synthase
+5-epi-aristolochene synthase	4.2.3.9	aristolochene synthase
+AS	4.2.3.9	aristolochene synthase
+Ari1	4.2.3.9	aristolochene synthase
+NS1	4.2.3.90	5-epi-alpha-selinene synthase
+terpene synthase	4.2.3.90	5-epi-alpha-selinene synthase
+NP1	4.2.3.90	5-epi-alpha-selinene synthase
+Cop4	4.2.3.91	cubebol synthase
+CDS	4.2.3.92	(+)-gamma-cadinene synthase
+TPS	4.2.3.92	(+)-gamma-cadinene synthase
+TPS	4.2.3.93	delta-guaiene synthase
+PatTpsA	4.2.3.94	gamma-curcumene synthase
+Cop6	4.2.3.95	(-)-alpha-cuprenene synthase
+(-)-alpha-cuprenene synthase	4.2.3.95	(-)-alpha-cuprenene synthase
+SAV 76	4.2.3.96	avermitilol synthase
+sscg_02150	4.2.3.97	(-)-delta-cadinene synthase
+SCreLAV_p0328	4.2.3.97	(-)-delta-cadinene synthase
+gene name	4.2.3.98	(+)-T-muurolol synthase
+SSCG_03688	4.2.3.98	(+)-T-muurolol synthase
+gene name	4.2.3.99	labdatriene synthase
+Homocysteine synthase	4.2.99.10	O-acetylhomoserine (thiol)-lyase
+O-acetylhomoserine sulfhydrylase	4.2.99.10	O-acetylhomoserine (thiol)-lyase
+OAH sulfhydrylase	4.2.99.10	O-acetylhomoserine (thiol)-lyase
+O-acetylhomoserine (thiol)-lyase	4.2.99.10	O-acetylhomoserine (thiol)-lyase
+carbon-oxygen lyase	4.2.99.12	carboxymethyloxysuccinate lyase
+lyase, carboxymethyloxysuccinate	4.2.99.12	carboxymethyloxysuccinate lyase
+Endodeoxyribonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+UV endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+EC 3.1.25.2	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APEN	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP Dnase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apyrimidinic endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+E. coli endonuclease III	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+phage-T4 UV endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Micrococcus luteus UV endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP endonuclease Class I	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic DNA endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic-apyrimidinic DNA endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic-apyrimidinic endodeoxyribonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinic specific endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+nuclease, apurinic endodeoxyribo-	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+REF-1 protein	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+nuclease, apurinic-apyrimidinic endodeoxyribo-	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+HAP1h	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP 1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APEX nuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic endodeoxyribonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+class II apurinic/apyrimidinic(AP)-endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+deoxyribonuclease (apurinic or apyrimidinic)	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+endodeoxyribonuclease III	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Escherichia coli endonuclease III	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+UV endonuclease V	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+UV endo V	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+nuclease, endodeoxyribo-, III	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+endonuclease VI	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+MMH	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+NTH1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ntg1p	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ntg2p	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+N-glycosylase apurinic/apyrimidinic lyase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+N-glycosylase AP lyase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ntg1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ntg2	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+BAP1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ape1L	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Neisserial AP endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+EXO-3	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APN-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic-apyrimidinic endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+African swine fever virus, ASFV, protein pE296R,predicted to be a class II apurinic/apyrimidinic endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APLM	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+homolog of human Ape1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+catalytic subunit of the HSV-1DNA polymerase (Pol) (UL30) (EC 2.7.7.7) exhibits apurinic/apyrimidinicand 5-deoxyribose phosphate lyase activities	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+DNA lyase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+UL30	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+zApe	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+ZAP1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinic AP endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+TvoExo	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP-lyase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+kinase-associated endopeptidase 1 exibits a class Iapurinic endonuclease activity, no activity in vitro	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+PaKae1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Smx nuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APN1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+mtAPE is derived from APE1 after deletion of33N-terminal residues	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+LplExo	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinicendonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+exonuclease III(ExoIII)	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+DNA-(apurinic or apyrimidinic site) lyase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+ExoA type AP endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+endonuclease VIII	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Nei	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+the PF0258 protein exhibited AP endonuclease activity	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+EndoIV	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APN	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ogg2	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+oxoG DNA glycosylase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+mjOgg	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+locus name	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+bifunctional enzyme that catalyzesthe excision of 8-oxoguanine by cleaving the N-glycosylic bond betweenthe base and the deoxyribose moiety (glycosylase activity) andsubsequently cleave the DNA backbone (lyase activity)	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+bifunctional enzyme that catalyzes the excision of8-oxoguanine by cleaving the N-glycosylic bond between the base and thedeoxyribose moiety (glycosylase activity) and subsequently cleave theDNA backbone (lyase activity, EC 4.2.99.18)	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+locus name	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+archaeal GO glycosylase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+8-oxoG DNA glycosylase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+bifunctional enzyme with both DNA glycosylaseand apurinic/apyrimidinic lyase activities	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+gene name	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ap1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ap2	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP-endonuclease 2	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Nfo	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+DNA polymerase X	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+ExoA	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+abasic endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ape2	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+multifunctional DNA base excision repair and redox regulation enzyme	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+human apurinic/apyrimidinic endonuclease 1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APEX1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+multi-functional apyrimidinic endonuclease1/redox factor-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APE1 belongs to the class IIapurinic/apyrimidinic endonucleases	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinic endonuclease 1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APE/Ref-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP endonuclease 1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APE1/Ref-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP-endonuclease 1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP site-DNA 5'-phosphomonoester-lyase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+X-ray endonuclease III	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+ExoIII	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Endo III	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+a bifunctional enzyme that has DNA glycosylase andapurinic/apyrimidinic lyase activity	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+an abasic or apurinic-apyrimidinicendonuclease superfamily crucial for DNA base excision repair	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+a 16S rRNA adenine methyltransferase with DNAglycosylase/AP lyase activity	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+nomenclature of AP endonucleases and AP lyases	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+endonuclease III	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP endo	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ref1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+nuclease SmnA	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP endonuclease Ape1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+also known as Ref-1 or HAP1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinic endonuclease APE1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP endonuclease I	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+hOgg1 protein	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+hNTH	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+hAPE	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+hAPE1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+PNK and APTX-like FHA protein	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/Apyrimidinic (AP) endonuclease 1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+redox factor-1:Ref-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+hNTH1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinic endonuclease 1/redox factor-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Apurinic/apyrimidinic endonuclease1/redox factor 1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AdAPE1/Ref-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinic endonuclease1/redox factor-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+member of the divalentcation-dependent phosphoesterase superfamily of proteins	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic-apyrimidinic endonuclease 1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+redox factor-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinic site lyase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+human apurinic/apyrimidinic endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinic endonuclease/redox effector factor-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ref-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinic DNA endonuclease 1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP DNA endonuclease 1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic-apyrimidinic endonuclease I	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+Ape	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP lyase	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+AP-endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+HAP1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+apurinic/apyrimidinic endonuclease-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+APE-1	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+abasic (AP)-endonuclease	4.2.99.18	DNA-(apurinic or apyrimidinic site) lyase
+(1R,6R)-2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylatesynthase	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+YfbB	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+SHCHC	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+SHCHC synthase	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+MenH	4.2.99.20	2-succinyl-6-hydroxy-2,4-cyclohexadiene-1-carboxylate synthase
+salicylate biosynthesis protein pchB	4.2.99.21	isochorismate lyase
+pyochelin biosynthetic protein PchB	4.2.99.21	isochorismate lyase
+IPL	4.2.99.21	isochorismate lyase
+PchA	4.2.99.21	isochorismate lyase
+isochorismate pyruvate lyase	4.2.99.21	isochorismate lyase
+gene name	4.2.99.21	isochorismate lyase
+isochorismate-pyruvate lyase	4.2.99.21	isochorismate lyase
+MbtI	4.2.99.21	isochorismate lyase
+salicylate synthase	4.2.99.21	isochorismate lyase
+Irp9	4.2.99.21	isochorismate lyase
+tuliposide-converting enzyme	4.2.99.22	tuliposide A-converting enzyme
+6-O-(4'-hydroxy-2'-methylenebutyryl)-D-glucose acyltransferase(lactone-forming)	4.2.99.22	tuliposide A-converting enzyme
+gene name	4.2.99.22	tuliposide A-converting enzyme
+tuliposide B-converting enzyme	4.2.99.23	tuliposide B-converting enzyme
+PosB-converting enzyme	4.2.99.23	tuliposide B-converting enzyme
+TCEB	4.2.99.23	tuliposide B-converting enzyme
+gene name	4.2.99.23	tuliposide B-converting enzyme
+CGS	4.2.99.9	O-succinylhomoserine (thiol)-lyase
+O-succinylhomoserine (Thiol)-lyase	4.2.99.9	O-succinylhomoserine (thiol)-lyase

@@ -1,7 +1,0 @@
-EC	subclass
-6.1	Forming carbon—oxygen bonds
-6.2	Forming carbon—sulfur bonds
-6.3	Forming carbon—nitrogen bonds
-6.4	Forming carbon—carbon bonds
-6.5	Forming phosphoric ester bonds
-6.6	Forming nitrogen—metal bonds

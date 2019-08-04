@@ -1,0 +1,7 @@
+EC	subclass
+7.1	Catalysing the translocation of hydrons
+7.2	Catalysing the translocation of inorganic cations
+7.3	Catalysing the translocation of inorganic anions and their chelates
+7.4	Catalysing the translocation of amino acids and peptides
+7.5	Catalysing the translocation of carbohydrates and their derivatives
+7.6	Catalysing the translocation of other compounds

@@ -1,9 +1,0 @@
-EC	subclass
-4.1	Carbon-carbon lyases
-4.2	Carbon-oxygen lyases
-4.3	Carbon-nitrogen lyases
-4.4	Carbon-sulfur lyases
-4.5	Carbon-halide lyases
-4.6	Phosphorus-oxygen lyases
-4.7	Carbon-phosphorus lyases
-4.99	Other lyases

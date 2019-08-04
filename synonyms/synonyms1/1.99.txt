@@ -1,0 +1,49 @@
+synonyms	ec_number	recommended_name
+Calcarisporiella thermophila	1.99.1.99	thermophilic fungi
+Canariomyces thermophila	1.99.1.99	thermophilic fungi
+Chaetomidium pingtungium	1.99.1.99	thermophilic fungi
+Chaetomium britannicum	1.99.1.99	thermophilic fungi
+Chaetomium mesopotamicum	1.99.1.99	thermophilic fungi
+Chaetomium senegalensis	1.99.1.99	thermophilic fungi
+Chaetomium thermophile	1.99.1.99	thermophilic fungi
+Chaetomium thermophile var. coprophile	1.99.1.99	thermophilic fungi
+Chaetomium thermophile var. dissitum	1.99.1.99	thermophilic fungi
+Chrysosporium tropicum	1.99.1.99	thermophilic fungi
+Coonemeria aegyptiaca	1.99.1.99	thermophilic fungi
+Coonemeria crustacea	1.99.1.99	thermophilic fungi
+Coonemeria verrucosa	1.99.1.99	thermophilic fungi
+Corynascus thermophilus	1.99.1.99	thermophilic fungi
+Dactylomyces thermophilus	1.99.1.99	thermophilic fungi
+Malbranchea cinnamomea	1.99.1.99	thermophilic fungi
+Melanocarpus albomyces	1.99.1.99	thermophilic fungi
+Melanocarpus thermophilus	1.99.1.99	thermophilic fungi
+Myceliophthora fergusi	1.99.1.99	thermophilic fungi
+Myceliophthora hinnulea	1.99.1.99	thermophilic fungi
+Myceliophthora olimpiensis	1.99.1.99	thermophilic fungi
+Myceliophthora thermophila	1.99.1.99	thermophilic fungi
+Myceliophthora ubaranaensis	1.99.1.99	thermophilic fungi
+Myriococcum thermophilum	1.99.1.99	thermophilic fungi
+Paecilomyces byssochlamydoides	1.99.1.99	thermophilic fungi
+Paecilomyces varioti	1.99.1.99	thermophilic fungi
+Papulospora thermophila	1.99.1.99	thermophilic fungi
+Phanerochaete chrysosporium	1.99.1.99	thermophilic fungi
+Rhizomucor miehei	1.99.1.99	thermophilic fungi
+Rhizomucor nainitalensis	1.99.1.99	thermophilic fungi
+Rhizomucor pusillus	1.99.1.99	thermophilic fungi
+Rhizopus microsporus van Tieghem	1.99.1.99	thermophilic fungi
+Rhizopus rhizopodiformis (Cohn.) Zopf	1.99.1.99	thermophilic fungi
+Scytalidium indonesicum	1.99.1.99	thermophilic fungi
+Scytalidium thermophilum	1.99.1.99	thermophilic fungi
+Stilbella thermophila	1.99.1.99	thermophilic fungi
+Talaromyces byssochlamydioides	1.99.1.99	thermophilic fungi
+Talaromyces emersonii	1.99.1.99	thermophilic fungi
+Talaromyces thermophilus	1.99.1.99	thermophilic fungi
+Thermoascus aurantiacus	1.99.1.99	thermophilic fungi
+Thermoascus crustaceus	1.99.1.99	thermophilic fungi
+Thermomyces ibadanensis	1.99.1.99	thermophilic fungi
+Thermomyces lanuginosus	1.99.1.99	thermophilic fungi
+Thermomyces stellatus	1.99.1.99	thermophilic fungi
+Thielavia australiensis	1.99.1.99	thermophilic fungi
+Thielavia pingtungia	1.99.1.99	thermophilic fungi
+Thielavia terrestris	1.99.1.99	thermophilic fungi
+Thielavia terricola	1.99.1.99	thermophilic fungi

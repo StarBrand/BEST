@@ -1,0 +1,427 @@
+synonyms	ec_number	recommended_name
+L-aspartase	4.3.1.1	aspartate ammonia-lyase
+fumaric aminase	4.3.1.1	aspartate ammonia-lyase
+ammonia-lyase, aspartate	4.3.1.1	aspartate ammonia-lyase
+Val in in position 363	4.3.1.1	aspartate ammonia-lyase
+aspartate ammonia-lyase	4.3.1.1	aspartate ammonia-lyase
+ASPA	4.3.1.1	aspartate ammonia-lyase
+L-aspartate ammonia-lyase	4.3.1.1	aspartate ammonia-lyase
+aspB	4.3.1.1	aspartate ammonia-lyase
+reverse reaction	4.3.1.1	aspartate ammonia-lyase
+Cj0087	4.3.1.1	aspartate ammonia-lyase
+aspartate ammonia lyase	4.3.1.1	aspartate ammonia-lyase
+insertion of a 15-peptide random peptide into thethree domains of L-aspartase to enhance their mobility. After directedscreening, the three isoforms of monomeric, dimeric and tetramericenzyme (named maspase 1, maspase 2 and maspase 3) with the activity ofL-aspartase are obtained	4.3.1.1	aspartate ammonia-lyase
+insertion of a 15-peptide random peptide into thethree domains of L-aspartase to enhance their mobility. After directedscreening, the three isoforms of monomeric, dimeric and tetramericenzyme (named maspase 1, maspase 2 and maspase 3) with the activity ofL-aspartase are obtained	4.3.1.1	aspartate ammonia-lyase
+insertion of a 15-peptide random peptide into thethree domains of L-aspartase to enhance their mobility. After directedscreening, the three isoforms of monomeric, dimeric and tetramericenzyme (named maspase 1, maspase 2 and maspase 3) with the activity ofL-aspartase are obtained	4.3.1.1	aspartate ammonia-lyase
+ammonia-lyase, serine sulfate	4.3.1.10	serine-sulfate ammonia-lyase
+(L-SOS) lyase	4.3.1.10	serine-sulfate ammonia-lyase
+deaminase, ornithine cyclo-	4.3.1.12	ornithine cyclodeaminase
+cyclase, ornithine (deaminating)	4.3.1.12	ornithine cyclodeaminase
+ornithine cyclase	4.3.1.12	ornithine cyclodeaminase
+ornithine cyclase (deaminating)	4.3.1.12	ornithine cyclodeaminase
+ornithine cyclo-deaminase	4.3.1.12	ornithine cyclodeaminase
+SsOCD1	4.3.1.12	ornithine cyclodeaminase
+OCD	4.3.1.12	ornithine cyclodeaminase
+AtOCD	4.3.1.12	ornithine cyclodeaminase
+ornithine cyclodeamidase	4.3.1.12	ornithine cyclodeaminase
+ornithine cyclodeaminase/mucrystaline family protein	4.3.1.12	ornithine cyclodeaminase
+ornithine cyclodeaminase	4.3.1.12	ornithine cyclodeaminase
+O-carbamoyl-L-serine deaminase	4.3.1.13	carbamoyl-serine ammonia-lyase
+O-carbamoyl-L-serine deaminase (OCS)	4.3.1.13	carbamoyl-serine ammonia-lyase
+ammonia-lyase, carbamoylserine	4.3.1.13	carbamoyl-serine ammonia-lyase
+carbamoylserine deaminase	4.3.1.13	carbamoyl-serine ammonia-lyase
+L-3-Aminobutyryl-CoA deaminase	4.3.1.14	3-Aminobutyryl-CoA ammonia-lyase
+Ammonia lyase, L-3-aminobutyryl coenzyme A	4.3.1.14	3-Aminobutyryl-CoA ammonia-lyase
+L-3-Aminobutyryl coenzyme A deaminase	4.3.1.14	3-Aminobutyryl-CoA ammonia-lyase
+3-aminobutyryl-CoA ammonia lyase	4.3.1.14	3-Aminobutyryl-CoA ammonia-lyase
+Kal	4.3.1.14	3-Aminobutyryl-CoA ammonia-lyase
+Diaminopropionatase	4.3.1.15	Diaminopropionate ammonia-lyase
+alpha,beta-Diaminopropionate ammonia-lyase	4.3.1.15	Diaminopropionate ammonia-lyase
+L-Diaminopropionate ammonia-lyase	4.3.1.15	Diaminopropionate ammonia-lyase
+ammonia-lyase, diaminopropionate	4.3.1.15	Diaminopropionate ammonia-lyase
+DAP ammonia-lyase	4.3.1.15	Diaminopropionate ammonia-lyase
+2,3-Diaminopropionate:ammonia-lyase	4.3.1.15	Diaminopropionate ammonia-lyase
+diaminopropionate ammonia-lyase	4.3.1.15	Diaminopropionate ammonia-lyase
+DAPAL	4.3.1.15	Diaminopropionate ammonia-lyase
+sDAPAL	4.3.1.15	Diaminopropionate ammonia-lyase
+diaminopropionate ammonia lyase	4.3.1.15	Diaminopropionate ammonia-lyase
+gene name	4.3.1.15	Diaminopropionate ammonia-lyase
+EcDAPAL	4.3.1.15	Diaminopropionate ammonia-lyase
+gene name	4.3.1.15	Diaminopropionate ammonia-lyase
+threo-3-hydroxyaspartate ammonia-lyase	4.3.1.16	threo-3-hydroxy-L-aspartate ammonia-lyase
+threo-3-hydroxyaspartate dehydratase	4.3.1.16	threo-3-hydroxy-L-aspartate ammonia-lyase
+pyridoxal5-phosphate-dependent	4.3.1.16	threo-3-hydroxy-L-aspartate ammonia-lyase
+L-THA DH	4.3.1.16	threo-3-hydroxy-L-aspartate ammonia-lyase
+D-threo-3-hydroxyaspartate dehydratase	4.3.1.16	threo-3-hydroxy-L-aspartate ammonia-lyase
+D-THA DH	4.3.1.16	threo-3-hydroxy-L-aspartate ammonia-lyase
+Dehydratase, L-serine	4.3.1.17	L-serine ammonia-lyase
+L-Hydroxy amino acid dehydratase	4.3.1.17	L-serine ammonia-lyase
+SD	4.3.1.17	L-serine ammonia-lyase
+EC 4.2.1.13	4.3.1.17	L-serine ammonia-lyase
+L-SD1	4.3.1.17	L-serine ammonia-lyase
+L-SD2	4.3.1.17	L-serine ammonia-lyase
+lpLSD	4.3.1.17	L-serine ammonia-lyase
+bsLSD type 1	4.3.1.17	L-serine ammonia-lyase
+L-serine dehydratase	4.3.1.17	L-serine ammonia-lyase
+L-SD	4.3.1.17	L-serine ammonia-lyase
+tdcB	4.3.1.17	L-serine ammonia-lyase
+GSU0486	4.3.1.17	L-serine ammonia-lyase
+hepatic SDH	4.3.1.17	L-serine ammonia-lyase
+cancerous SDH	4.3.1.17	L-serine ammonia-lyase
+serine dehydratase like-1	4.3.1.17	L-serine ammonia-lyase
+SDH-like-1	4.3.1.17	L-serine ammonia-lyase
+gene name	4.3.1.17	L-serine ammonia-lyase
+SDH1	4.3.1.17	L-serine ammonia-lyase
+L-serine dehydratase 1	4.3.1.17	L-serine ammonia-lyase
+SDH2	4.3.1.17	L-serine ammonia-lyase
+gene name	4.3.1.17	L-serine ammonia-lyase
+L-serine dehydratase 2	4.3.1.17	L-serine ammonia-lyase
+L-serine deaminase 2	4.3.1.17	L-serine ammonia-lyase
+lpLSD type 2	4.3.1.17	L-serine ammonia-lyase
+SdhA	4.3.1.17	L-serine ammonia-lyase
+MSMEG_3532	4.3.1.17	L-serine ammonia-lyase
+Serine deaminase	4.3.1.17	L-serine ammonia-lyase
+gene name	4.3.1.17	L-serine ammonia-lyase
+gene name	4.3.1.17	L-serine ammonia-lyase
+L-serine dehydratase and cystathionine beta-synthase arethe same enzyme	4.3.1.17	L-serine ammonia-lyase
+SDH	4.3.1.17	L-serine ammonia-lyase
+SerDH	4.3.1.17	L-serine ammonia-lyase
+Serine dehydratase	4.3.1.17	L-serine ammonia-lyase
+L-serine ammonia-lyase	4.3.1.17	L-serine ammonia-lyase
+L-Serine deaminase	4.3.1.17	L-serine ammonia-lyase
+L-threonine deaminase	4.3.1.17	L-serine ammonia-lyase
+L-threonine dehydratase	4.3.1.17	L-serine ammonia-lyase
+Dehydratase, D-serine	4.3.1.18	D-Serine ammonia-lyase
+D-Serine dehydrase	4.3.1.18	D-Serine ammonia-lyase
+D-Hydroxy amino acid dehydratase	4.3.1.18	D-Serine ammonia-lyase
+D-Serine hydrolase (deaminating)	4.3.1.18	D-Serine ammonia-lyase
+Dsdase	4.3.1.18	D-Serine ammonia-lyase
+DSD	4.3.1.18	D-Serine ammonia-lyase
+chDSD	4.3.1.18	D-Serine ammonia-lyase
+gene name	4.3.1.18	D-Serine ammonia-lyase
+D-serine dehydratase	4.3.1.18	D-Serine ammonia-lyase
+D-serine ammonia-lyase	4.3.1.18	D-Serine ammonia-lyase
+Serine deaminase	4.3.1.18	D-Serine ammonia-lyase
+DsdA	4.3.1.18	D-Serine ammonia-lyase
+D-Serine deaminase	4.3.1.18	D-Serine ammonia-lyase
+DsdSC	4.3.1.18	D-Serine ammonia-lyase
+formerly	4.3.1.18	D-Serine ammonia-lyase
+D-serine ammonia lyase	4.3.1.18	D-Serine ammonia-lyase
+Dsd1p	4.3.1.18	D-Serine ammonia-lyase
+L-threonine dehydratase	4.3.1.19	threonine ammonia-lyase
+threonine dehydrase	4.3.1.19	threonine ammonia-lyase
+L-threonine deaminase	4.3.1.19	threonine ammonia-lyase
+TDH	4.3.1.19	threonine ammonia-lyase
+Threonine deaminase	4.3.1.19	threonine ammonia-lyase
+tdcB	4.3.1.19	threonine ammonia-lyase
+threonine ammonia-lyase	4.3.1.19	threonine ammonia-lyase
+threonine dehydratase/deaminase	4.3.1.19	threonine ammonia-lyase
+OMR1	4.3.1.19	threonine ammonia-lyase
+threonine deaminase/dehydratase	4.3.1.19	threonine ammonia-lyase
+TD1	4.3.1.19	threonine ammonia-lyase
+PpBTD2	4.3.1.19	threonine ammonia-lyase
+SaCTD	4.3.1.19	threonine ammonia-lyase
+SaBTD1	4.3.1.19	threonine ammonia-lyase
+threonine dehydratase	4.3.1.19	threonine ammonia-lyase
+sp0454	4.3.1.19	threonine ammonia-lyase
+CgBTD1	4.3.1.19	threonine ammonia-lyase
+CgCTD	4.3.1.19	threonine ammonia-lyase
+isoform, involved in isoleucine biosynthesis in plants	4.3.1.19	threonine ammonia-lyase
+TD2	4.3.1.19	threonine ammonia-lyase
+isoform, for plant defense the protein is involved inthreonine degradation in leaf eating insects	4.3.1.19	threonine ammonia-lyase
+processed form of TD2, the C-terminal regulatory domainis removed	4.3.1.19	threonine ammonia-lyase
+SgBTD1	4.3.1.19	threonine ammonia-lyase
+BsBTD1	4.3.1.19	threonine ammonia-lyase
+ilvA	4.3.1.19	threonine ammonia-lyase
+EcCTD	4.3.1.19	threonine ammonia-lyase
+EcBTD2	4.3.1.19	threonine ammonia-lyase
+TD	4.3.1.19	threonine ammonia-lyase
+GSU0486	4.3.1.19	threonine ammonia-lyase
+Thr ammonia-lyase	4.3.1.19	threonine ammonia-lyase
+L-TDH	4.3.1.19	threonine ammonia-lyase
+formerly	4.3.1.19	threonine ammonia-lyase
+TH	4.3.1.19	threonine ammonia-lyase
+beta-methylaspartase	4.3.1.2	methylaspartate ammonia-lyase
+3-methylaspartase	4.3.1.2	methylaspartate ammonia-lyase
+ammonia-lyase, methylaspartate	4.3.1.2	methylaspartate ammonia-lyase
+3-methyl-L-aspartic acid ammonia-lyase	4.3.1.2	methylaspartate ammonia-lyase
+threo-3-methyl-L-aspartate ammonia-lyase	4.3.1.2	methylaspartate ammonia-lyase
+threo-3-methylaspartase ammonia-lyase	4.3.1.2	methylaspartate ammonia-lyase
+methylaspartate ammonia-lyase	4.3.1.2	methylaspartate ammonia-lyase
+methylaspartate ammonia lyase	4.3.1.2	methylaspartate ammonia-lyase
+Ch-MAL	4.3.1.2	methylaspartate ammonia-lyase
+3-methylaspartate ammonia-lyase	4.3.1.2	methylaspartate ammonia-lyase
+3-methylaspartate ammonia lyase	4.3.1.2	methylaspartate ammonia-lyase
+MAL	4.3.1.2	methylaspartate ammonia-lyase
+Dehydratase, 3-hydroxyaspartate	4.3.1.20	erythro-3-hydroxy-L-aspartate ammonia-lyase
+3-Hydroxyaspartate dehydratase	4.3.1.20	erythro-3-hydroxy-L-aspartate ammonia-lyase
+Erythro-beta-hydroxyaspartate dehydratase	4.3.1.20	erythro-3-hydroxy-L-aspartate ammonia-lyase
+Erythro-3-hydroxyaspartate hydro-lyase (deaminating)	4.3.1.20	erythro-3-hydroxy-L-aspartate ammonia-lyase
+Hydroxyaspartate dehydratase	4.3.1.20	erythro-3-hydroxy-L-aspartate ammonia-lyase
+EC 4.2.1.38	4.3.1.20	erythro-3-hydroxy-L-aspartate ammonia-lyase
+reductive deaminase	4.3.1.22	3,4-dihydroxyphenylalanine reductive deaminase
+DOPA-reductive deaminase	4.3.1.22	3,4-dihydroxyphenylalanine reductive deaminase
+DOPARDA	4.3.1.22	3,4-dihydroxyphenylalanine reductive deaminase
+rsTAL	4.3.1.23	tyrosine ammonia-lyase
+tyrosine ammonia-lyase	4.3.1.23	tyrosine ammonia-lyase
+tyrosine ammonia lyase	4.3.1.23	tyrosine ammonia-lyase
+TAL	4.3.1.23	tyrosine ammonia-lyase
+phenylalanine ammonia-lyase 1	4.3.1.24	phenylalanine ammonia-lyase
+AtPAL 1	4.3.1.24	phenylalanine ammonia-lyase
+phenylalanine ammonia-lyase 2	4.3.1.24	phenylalanine ammonia-lyase
+AtPAL 2	4.3.1.24	phenylalanine ammonia-lyase
+phenylalanine ammonia-lyase 3	4.3.1.24	phenylalanine ammonia-lyase
+AtPAL 3	4.3.1.24	phenylalanine ammonia-lyase
+PAL3	4.3.1.24	phenylalanine ammonia-lyase
+phenylalanine ammonia-lyase 4	4.3.1.24	phenylalanine ammonia-lyase
+AtPAL 4	4.3.1.24	phenylalanine ammonia-lyase
+gene name	4.3.1.24	phenylalanine ammonia-lyase
+gene name	4.3.1.24	phenylalanine ammonia-lyase
+RxPAL	4.3.1.24	phenylalanine ammonia-lyase
+isoform	4.3.1.24	phenylalanine ammonia-lyase
+PAL3a	4.3.1.24	phenylalanine ammonia-lyase
+PALrs1	4.3.1.24	phenylalanine ammonia-lyase
+Ephedra sinica and and Pinus sp. PAL form agymnosperm-type PAL subfamily	4.3.1.24	phenylalanine ammonia-lyase
+L-phenylalanine-ammonia lyase	4.3.1.24	phenylalanine ammonia-lyase
+phenylalanine ammonia-lyase	4.3.1.24	phenylalanine ammonia-lyase
+PAL6	4.3.1.24	phenylalanine ammonia-lyase
+AvPAL	4.3.1.24	phenylalanine ammonia-lyase
+DcPAL1	4.3.1.24	phenylalanine ammonia-lyase
+cross-linked enzyme aggregates of phenylalanineammonia lyase	4.3.1.24	phenylalanine ammonia-lyase
+RgPAL	4.3.1.24	phenylalanine ammonia-lyase
+wound-inducible phenylalanine ammonia-lyase	4.3.1.24	phenylalanine ammonia-lyase
+PAL	4.3.1.24	phenylalanine ammonia-lyase
+TcPAL	4.3.1.24	phenylalanine ammonia-lyase
+formerly	4.3.1.24	phenylalanine ammonia-lyase
+phenylalanine ammonia lyase	4.3.1.24	phenylalanine ammonia-lyase
+PAL3b	4.3.1.24	phenylalanine ammonia-lyase
+PAL4	4.3.1.24	phenylalanine ammonia-lyase
+L-phenylalanine ammonia-lyase	4.3.1.24	phenylalanine ammonia-lyase
+EncP	4.3.1.24	phenylalanine ammonia-lyase
+PAL4	4.3.1.25	phenylalanine/tyrosine ammonia-lyase
+PAL	4.3.1.25	phenylalanine/tyrosine ammonia-lyase
+phenylalanine-trosine ammonia lyase	4.3.1.25	phenylalanine/tyrosine ammonia-lyase
+PAL/TAL	4.3.1.25	phenylalanine/tyrosine ammonia-lyase
+D-threo-3-hydroxyaspartate ammonia-lyase	4.3.1.27	threo-3-hydroxy-D-aspartate ammonia-lyase
+D-threo-3-hydroxyaspartate dehydratase	4.3.1.27	threo-3-hydroxy-D-aspartate ammonia-lyase
+D-THA DH	4.3.1.27	threo-3-hydroxy-D-aspartate ammonia-lyase
+tubZ	4.3.1.28	L-lysine cyclodeaminase
+gene name	4.3.1.28	L-lysine cyclodeaminase
+lysine cyclodeaminase	4.3.1.28	L-lysine cyclodeaminase
+gene name	4.3.1.28	L-lysine cyclodeaminase
+fkbL	4.3.1.28	L-lysine cyclodeaminase
+LCD	4.3.1.28	L-lysine cyclodeaminase
+D-glucosaminate-6-phosphate ammonia lyase	4.3.1.29	D-glucosaminate-6-phosphate ammonia-lyase
+gene name	4.3.1.29	D-glucosaminate-6-phosphate ammonia-lyase
+D-glucosaminic acid 6-phosphate dehydratase	4.3.1.29	D-glucosaminate-6-phosphate ammonia-lyase
+histidinase	4.3.1.3	histidine ammonia-lyase
+histidine alpha-deaminase	4.3.1.3	histidine ammonia-lyase
+ammonia-lyase, histidine	4.3.1.3	histidine ammonia-lyase
+L-histidase	4.3.1.3	histidine ammonia-lyase
+histidine deaminase	4.3.1.3	histidine ammonia-lyase
+L-HAL	4.3.1.3	histidine ammonia-lyase
+L-histidine NH3-lyase	4.3.1.3	histidine ammonia-lyase
+histidase, Hut	4.3.1.3	histidine ammonia-lyase
+HAL1	4.3.1.3	histidine ammonia-lyase
+Hal2	4.3.1.3	histidine ammonia-lyase
+histidase	4.3.1.3	histidine ammonia-lyase
+histidine ammonia lyase	4.3.1.3	histidine ammonia-lyase
+histidine ammonia-lyase	4.3.1.3	histidine ammonia-lyase
+HAL	4.3.1.3	histidine ammonia-lyase
+DesII	4.3.1.30	dTDP-4-amino-4,6-dideoxy-D-glucose ammonia-lyase
+WAL	4.3.1.31	L-tryptophan ammonia lyase
+FO synthase	4.3.1.32	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+fbiC	4.3.1.32	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+cofG	4.3.1.32	7,8-didemethyl-8-hydroxy-5-deazariboflavin synthase
+deaminase, formiminotetrahydrofolate cyclo-	4.3.1.4	formimidoyltetrahydrofolate cyclodeaminase
+formimino-THF cyclodeaminase	4.3.1.4	formimidoyltetrahydrofolate cyclodeaminase
+Formiminotetrahydrofolate cyclodeaminase	4.3.1.4	formimidoyltetrahydrofolate cyclodeaminase
+formimidoyltetrahydrofolate cyclodeaminase	4.3.1.4	formimidoyltetrahydrofolate cyclodeaminase
+formiminotransferase cyclodeaminase	4.3.1.4	formimidoyltetrahydrofolate cyclodeaminase
+FTCD	4.3.1.4	formimidoyltetrahydrofolate cyclodeaminase
+58K Golgi protein	4.3.1.4	formimidoyltetrahydrofolate cyclodeaminase
+ammonia-lyase, phenylalanine	4.3.1.5	phenylalanine ammonia-lyase
+tyrase	4.3.1.5	phenylalanine ammonia-lyase
+phenylalanine deaminase	4.3.1.5	phenylalanine ammonia-lyase
+tyrosine ammonia-lyase	4.3.1.5	phenylalanine ammonia-lyase
+L-tyrosine ammonia-lyase	4.3.1.5	phenylalanine ammonia-lyase
+phenylalanine ammonium-lyase	4.3.1.5	phenylalanine ammonia-lyase
+PAL	4.3.1.5	phenylalanine ammonia-lyase
+RiPAL1	4.3.1.5	phenylalanine ammonia-lyase
+ammonia-lyase, beta-alanyl coenzyme A	4.3.1.6	beta-alanyl-CoA ammonia-lyase
+beta-alanyl coenzyme A ammonia-lyase	4.3.1.6	beta-alanyl-CoA ammonia-lyase
+ACL	4.3.1.6	beta-alanyl-CoA ammonia-lyase
+beta-alanyl-CoA:ammonia lyase 2	4.3.1.6	beta-alanyl-CoA ammonia-lyase
+ammonia-lyase, ethanolamine	4.3.1.7	ethanolamine ammonia-lyase
+ethanolamine-ammonia lyase	4.3.1.7	ethanolamine ammonia-lyase
+eutBC	4.3.1.7	ethanolamine ammonia-lyase
+ethanolamine deaminase	4.3.1.7	ethanolamine ammonia-lyase
+contains the active site of the coenzyme B12 dependentenzyme ethanolamine ammonia-lyase	4.3.1.7	ethanolamine ammonia-lyase
+AEL	4.3.1.7	ethanolamine ammonia-lyase
+ethanolamine ammonia lyase	4.3.1.7	ethanolamine ammonia-lyase
+EAL	4.3.1.7	ethanolamine ammonia-lyase
+ethanolamine ammonia-lyase	4.3.1.7	ethanolamine ammonia-lyase
+eut-L	4.3.1.7	ethanolamine ammonia-lyase
+ethanolamine ammonia-lyase BMC	4.3.1.7	ethanolamine ammonia-lyase
+ammonia-lyase, glucosaminate	4.3.1.9	glucosaminate ammonia-lyase
+D-glucosaminic acid dehydrase	4.3.1.9	glucosaminate ammonia-lyase
+EC 4.3.1.21	4.3.1.9	glucosaminate ammonia-lyase
+GADH	4.3.1.9	glucosaminate ammonia-lyase
+D-glucosaminate dehydrogenase	4.3.1.9	glucosaminate ammonia-lyase
+formerly	4.3.1.9	glucosaminate ammonia-lyase
+formerly	4.3.1.9	glucosaminate ammonia-lyase
+argininosuccinic acid lyase	4.3.2.1	argininosuccinate lyase
+arginine-succinate lyase	4.3.2.1	argininosuccinate lyase
+lyase, argininosuccinate	4.3.2.1	argininosuccinate lyase
+ASAL	4.3.2.1	argininosuccinate lyase
+delta2-crystallin	4.3.2.1	argininosuccinate lyase
+Arginosuccinase	4.3.2.1	argininosuccinate lyase
+L-argininosuccinate arginine-lyase	4.3.2.1	argininosuccinate lyase
+delta2 crystallin	4.3.2.1	argininosuccinate lyase
+ArgH	4.3.2.1	argininosuccinate lyase
+gene name	4.3.2.1	argininosuccinate lyase
+delta2-crystallin	4.3.2.1	argininosuccinate lyase
+gene name	4.3.2.1	argininosuccinate lyase
+argininosuccinase	4.3.2.1	argininosuccinate lyase
+Argininosuccinate lyase	4.3.2.1	argininosuccinate lyase
+AL	4.3.2.1	argininosuccinate lyase
+gene name	4.3.2.1	argininosuccinate lyase
+IGP synthase	4.3.2.10	imidazole glycerol-phosphate synthase
+HIS7	4.3.2.10	imidazole glycerol-phosphate synthase
+hisFH	4.3.2.10	imidazole glycerol-phosphate synthase
+adenylosuccinase	4.3.2.2	adenylosuccinate lyase
+succino AMP-lyase	4.3.2.2	adenylosuccinate lyase
+lyase, adenylosuccinate	4.3.2.2	adenylosuccinate lyase
+succino-AMP lyase	4.3.2.2	adenylosuccinate lyase
+AMPS lyase	4.3.2.2	adenylosuccinate lyase
+ASASE	4.3.2.2	adenylosuccinate lyase
+Glutamyl-tRNA synthetase regulatory factor	4.3.2.2	adenylosuccinate lyase
+ADL	4.3.2.2	adenylosuccinate lyase
+adenylosuccinate lyase	4.3.2.2	adenylosuccinate lyase
+ADSL	4.3.2.2	adenylosuccinate lyase
+ASL	4.3.2.2	adenylosuccinate lyase
+PurB	4.3.2.2	adenylosuccinate lyase
+lyase, ureidoglycolate	4.3.2.3	ureidoglycolate lyase
+ureidoglycolatase	4.3.2.3	ureidoglycolate lyase
+ureidoglycolase	4.3.2.3	ureidoglycolate lyase
+(-)-ureidoglycolate urea-lyase	4.3.2.3	ureidoglycolate lyase
+ureidoglycolate urea-lyase	4.3.2.3	ureidoglycolate lyase
+ureidoglycolate lyase, releasing urea	4.3.2.3	ureidoglycolate lyase
+DAL3	4.3.2.3	ureidoglycolate lyase
+UniProt	4.3.2.3	ureidoglycolate lyase
+YbbT	4.3.2.3	ureidoglycolate lyase
+ureidoglycolate hydrolase	4.3.2.3	ureidoglycolate lyase
+allA	4.3.2.3	ureidoglycolate lyase
+PAL	4.3.2.3	ureidoglycolate lyase
+peptidylglycine alpha-amidating monooxygenase	4.3.2.3	ureidoglycolate lyase
+PAM	4.3.2.3	ureidoglycolate lyase
+peptidyl-alpha-hydroxyglycine alpha-amidating lyase	4.3.2.3	ureidoglycolate lyase
+ureidoglycolate lyase	4.3.2.3	ureidoglycolate lyase
+UGL	4.3.2.3	ureidoglycolate lyase
+cyclase, purine imidazole ring	4.3.2.4	purine imidazole-ring cyclase
+PurIR cyclase	4.3.2.4	purine imidazole-ring cyclase
+lyase, peptidyl-alpha hydroxyglycine	4.3.2.5	peptidylamidoglycolate lyase
+alpha-hydroxyglycine amidating dealkylase	4.3.2.5	peptidylamidoglycolate lyase
+PAL	4.3.2.5	peptidylamidoglycolate lyase
+peptidyl-alpha-hydroxyglycine alpha-amidating lyase	4.3.2.5	peptidylamidoglycolate lyase
+PGL	4.3.2.5	peptidylamidoglycolate lyase
+HGAD	4.3.2.5	peptidylamidoglycolate lyase
+peptidylamidoglycolate lyase	4.3.2.5	peptidylamidoglycolate lyase
+dPAL1 gene product	4.3.2.5	peptidylamidoglycolate lyase
+PAL2	4.3.2.5	peptidylamidoglycolate lyase
+dPAL2 gene product	4.3.2.5	peptidylamidoglycolate lyase
+rPAL gene product	4.3.2.5	peptidylamidoglycolate lyase
+gamma-glutamyl cyclotransferase	4.3.2.6	gamma-L-glutamyl-butirosin B gamma-glutamyl cyclotransferase
+btrG	4.3.2.6	gamma-L-glutamyl-butirosin B gamma-glutamyl cyclotransferase
+GGC	4.3.2.6	gamma-L-glutamyl-butirosin B gamma-glutamyl cyclotransferase
+gamma-GCG	4.3.2.7	glutathione-specific gamma-glutamylcyclotransferase
+CHAC	4.3.2.7	glutathione-specific gamma-glutamylcyclotransferase
+YER63c	4.3.2.7	glutathione-specific gamma-glutamylcyclotransferase
+RipAY	4.3.2.7	glutathione-specific gamma-glutamylcyclotransferase
+RSp1022	4.3.2.7	glutathione-specific gamma-glutamylcyclotransferase
+CHAC1	4.3.2.7	glutathione-specific gamma-glutamylcyclotransferase
+CHAC2	4.3.2.7	glutathione-specific gamma-glutamylcyclotransferase
+GCG1	4.3.2.7	glutathione-specific gamma-glutamylcyclotransferase
+GGACT	4.3.2.8	gamma-glutamylamine cyclotransferase
+cyclotransferase, gamma-glutamyl	4.3.2.9	gamma-glutamylcyclotransferase
+gamma-glutamyl-amino acid cyclotransferase	4.3.2.9	gamma-glutamylcyclotransferase
+gamma-L-glutamylcyclotransferase	4.3.2.9	gamma-glutamylcyclotransferase
+L-glutamic cyclase	4.3.2.9	gamma-glutamylcyclotransferase
+gamma-glutamyl cyclotransferases	4.3.2.9	gamma-glutamylcyclotransferase
+isoform	4.3.2.9	gamma-glutamylcyclotransferase
+isoform	4.3.2.9	gamma-glutamylcyclotransferase
+isoform	4.3.2.9	gamma-glutamylcyclotransferase
+RipAY	4.3.2.9	gamma-glutamylcyclotransferase
+RSp1022	4.3.2.9	gamma-glutamylcyclotransferase
+{gamma}-glutamylamine cyclotransferase	4.3.2.9	gamma-glutamylcyclotransferase
+A2LD1	4.3.2.9	gamma-glutamylcyclotransferase
+gamma-glutamyltranspeptidase	4.3.2.9	gamma-glutamylcyclotransferase
+C7orf24 protein	4.3.2.9	gamma-glutamylcyclotransferase
+C7orf24	4.3.2.9	gamma-glutamylcyclotransferase
+protein C7orf24	4.3.2.9	gamma-glutamylcyclotransferase
+gamma-glutamyl cyclotransferase	4.3.2.9	gamma-glutamylcyclotransferase
+GGCT	4.3.2.9	gamma-glutamylcyclotransferase
+gamma-glutamylamine cyclotransferase	4.3.2.9	gamma-glutamylcyclotransferase
+GGACT	4.3.2.9	gamma-glutamylcyclotransferase
+lyase, 3-ketovalidoxylamine A C-N-	4.3.3.1	3-ketovalidoxylamine C-N-lyase
+p-nitrophenyl-3-ketovalidamine p-nitroaniline lyase	4.3.3.1	3-ketovalidoxylamine C-N-lyase
+3-ketovalidoxylamine A C-N lyase	4.3.3.1	3-ketovalidoxylamine C-N-lyase
+3-ketovalidoxylamine C-N-lyase	4.3.3.1	3-ketovalidoxylamine C-N-lyase
+3-ketovalidoxylamine A C-N-lyase	4.3.3.1	3-ketovalidoxylamine C-N-lyase
+STR1	4.3.3.2	strictosidine synthase
+SSL	4.3.3.2	strictosidine synthase
+strictosidine synthase-like protein	4.3.3.2	strictosidine synthase
+stricotsidine synthase	4.3.3.2	strictosidine synthase
+OjSTR	4.3.3.2	strictosidine synthase
+STS	4.3.3.2	strictosidine synthase
+str	4.3.3.2	strictosidine synthase
+strictosidine synthase	4.3.3.2	strictosidine synthase
+gene name	4.3.3.5	4'-demethylrebeccamycin synthase
+gene name	4.3.3.5	4'-demethylrebeccamycin synthase
+glutaminase subunit	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+pyridoxal 5'-phosphate synthase	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+pyridoxal 5-phosphate synthase subunit	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+PLP synthase	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+gene name	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+PLP-synthase complex	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+PdxS catalyses the condensation of ribulose5-phosphate, glyceraldehyde 3-phosphate and ammonia, while glutamineamidotransferase (PdxT) catalyses the production of ammonia fromglutamine. PdxS and PdxT form a complex	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+gene name	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+pyridoxal biosynthesis lyase PdxS	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+pyridoxal biosynthesis lyase	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+pyridoxal 5-phosphate synthase Snz1	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+Snz1	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+complex of Pdx1 and Pdx2	4.3.3.6	pyridoxal 5'-phosphate synthase (glutamine hydrolysing)
+dihydropicolinate synthetase	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+dihydrodipicolinic acid synthase	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+synthase, dihydrodipicolinate	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+pyruvate-aspartic semialdehyde condensing enzyme	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+VEG81	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+Vegetative protein 81	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+BA3935 gene product	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+DHDPS	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+dihydrodipicolinate synthase	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+Rv2753c	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+MosA	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+the enzyme belongs to the TIM-barrel family of enzymes	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+dihydro-dipicolinic acid synthase	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+DHDPA synthase	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+MRSA-DHDPS	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+formerly	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+cDHDPS	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+MosA protein	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+DapA2	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+dihydrodipocolinate synthase	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+gene name	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+gene name	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+UniProt	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+AT2G45440	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+DHDPS2	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+Aq_1143	4.3.3.7	4-hydroxy-tetrahydrodipicolinate synthase
+7-carboxy-7-carbaguanine synthase	4.3.99.3	7-carboxy-7-deazaguanine synthase
+ToyC	4.3.99.3	7-carboxy-7-deazaguanine synthase
+queE	4.3.99.3	7-carboxy-7-deazaguanine synthase
+CDG synthase	4.3.99.3	7-carboxy-7-deazaguanine synthase
+gene name	4.3.99.4	choline trimethylamine-lyase
+glycyl radical enzyme	4.3.99.4	choline trimethylamine-lyase
+choline TMA-lyase	4.3.99.4	choline trimethylamine-lyase
+locus name	4.3.99.4	choline trimethylamine-lyase

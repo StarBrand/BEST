@@ -1,3 +1,0 @@
-synonyms	ec_number	recommended_name
-gene name	2.10.1.1	molybdopterin molybdotransferase
-N-terminal E-domain, gene name	2.10.1.1	molybdopterin molybdotransferase

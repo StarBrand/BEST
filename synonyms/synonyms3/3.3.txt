@@ -1,0 +1,171 @@
+synonyms	ec_number	recommended_name
+S-adenosylhomocysteinase	3.3.1.1	adenosylhomocysteinase
+S-adenosylhomocysteine synthase	3.3.1.1	adenosylhomocysteinase
+adenosylhomocysteine hydrolase	3.3.1.1	adenosylhomocysteinase
+CUBP	3.3.1.1	adenosylhomocysteinase
+Cytokinin binding protein CBP57	3.3.1.1	adenosylhomocysteinase
+Liver copper binding protein	3.3.1.1	adenosylhomocysteinase
+SAHase	3.3.1.1	adenosylhomocysteinase
+AtSAHH1	3.3.1.1	adenosylhomocysteinase
+AtSAHH2	3.3.1.1	adenosylhomocysteinase
+PfAdoHcyHD	3.3.1.1	adenosylhomocysteinase
+PfSAHH	3.3.1.1	adenosylhomocysteinase
+AdoHcyHD	3.3.1.1	adenosylhomocysteinase
+amphiSAHH	3.3.1.1	adenosylhomocysteinase
+LlSAHase	3.3.1.1	adenosylhomocysteinase
+SAHase-like protein 1	3.3.1.1	adenosylhomocysteinase
+SAH-L	3.3.1.1	adenosylhomocysteinase
+S-adenosyl homocysteine hydrolase	3.3.1.1	adenosylhomocysteinase
+AdoHyc hydrolase	3.3.1.1	adenosylhomocysteinase
+SAHH	3.3.1.1	adenosylhomocysteinase
+S-adenosylhomocysteinehydrolase	3.3.1.1	adenosylhomocysteinase
+SAH hydrolase	3.3.1.1	adenosylhomocysteinase
+S-adenosyl-L-homocysteine hydrolase	3.3.1.1	adenosylhomocysteinase
+PF0343	3.3.1.1	adenosylhomocysteinase
+isoform	3.3.1.1	adenosylhomocysteinase
+isoform	3.3.1.1	adenosylhomocysteinase
+S-AdoHcyase	3.3.1.1	adenosylhomocysteinase
+HsSAHH	3.3.1.1	adenosylhomocysteinase
+AHCY	3.3.1.1	adenosylhomocysteinase
+AdoHcy hydrolase	3.3.1.1	adenosylhomocysteinase
+AdoHcyase	3.3.1.1	adenosylhomocysteinase
+Sah1p	3.3.1.1	adenosylhomocysteinase
+Sah1	3.3.1.1	adenosylhomocysteinase
+methylmethionine-sulfonium-salt hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+hydrolase, adenosylmethionine	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+hydrolase, methylmethionine sulfonium salt	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+methyl-L-methionine sulfonium salt hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+methylmethionine sulfonium salt hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+S-adenosylmethionine hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+AdoMet hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+AdoMetase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+S-adenosylmethionine cleaving enzyme	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+adenosylmethionine lyase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+methylmethionine-sulfonim-salt hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+MMSHase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+methylmethionine sulfonim hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+SAMase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+Adenosylmethionine hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+S-adenosyl-L-methionine hydrolase	3.3.1.2	S-adenosyl-L-methionine hydrolase (L-homoserine-forming)
+2,3-dihydro-2,3-dihydroxybenzoate synthase	3.3.2.1	isochorismatase
+2,3-dihydroxy-2,3-dihydrobenzoate synthase	3.3.2.1	isochorismatase
+2,3-dihydroxy-2,3-dihydrobenzoic synthase	3.3.2.1	isochorismatase
+2,3 dihydro-2,3 dihydroxybenzoate synthase	3.3.2.1	isochorismatase
+SOI1	3.3.2.1	isochorismatase
+isochorismatase	3.3.2.1	isochorismatase
+isochorismatase domain containing 2	3.3.2.1	isochorismatase
+ISOC2	3.3.2.1	isochorismatase
+AngB	3.3.2.1	isochorismatase
+ISC	3.3.2.1	isochorismatase
+isochorismatase hydrolase	3.3.2.1	isochorismatase
+IHL	3.3.2.1	isochorismatase
+Mhpg	3.3.2.1	isochorismatase
+contains an N-terminal isochorismate lyase domain	3.3.2.1	isochorismatase
+PchB	3.3.2.1	isochorismatase
+IPL	3.3.2.1	isochorismatase
+bifunctional enzyme, shows also phosphataseactivity	3.3.2.10	soluble epoxide hydrolase
+PsEH	3.3.2.10	soluble epoxide hydrolase
+epoxide hydrolase 1	3.3.2.10	soluble epoxide hydrolase
+BNSEH1	3.3.2.10	soluble epoxide hydrolase
+Cytosolic epoxide hydrolase	3.3.2.10	soluble epoxide hydrolase
+AnEH	3.3.2.10	soluble epoxide hydrolase
+EH	3.3.2.10	soluble epoxide hydrolase
+soluble-type epoxide hydrolase	3.3.2.10	soluble epoxide hydrolase
+EPXH2B	3.3.2.10	soluble epoxide hydrolase
+s-EH	3.3.2.10	soluble epoxide hydrolase
+TSO hydrolase	3.3.2.10	soluble epoxide hydrolase
+CEH	3.3.2.10	soluble epoxide hydrolase
+hepoxilin hydrolase	3.3.2.10	soluble epoxide hydrolase
+see also EC 3.1.3.76	3.3.2.10	soluble epoxide hydrolase
+EPHX2	3.3.2.10	soluble epoxide hydrolase
+epoxide hydrolase	3.3.2.10	soluble epoxide hydrolase
+EC 3.1.3.76	3.3.2.10	soluble epoxide hydrolase
+epoxide hydrolase	3.3.2.10	soluble epoxide hydrolase
+EC 3.3.2.3	3.3.2.10	soluble epoxide hydrolase
+EPXH2	3.3.2.10	soluble epoxide hydrolase
+EPXH1	3.3.2.10	soluble epoxide hydrolase
+Cterm-EH	3.3.2.10	soluble epoxide hydrolase
+TESO hydrolase	3.3.2.10	soluble epoxide hydrolase
+PNSO hydrolase	3.3.2.10	soluble epoxide hydrolase
+soluble epoxide hydrolase	3.3.2.10	soluble epoxide hydrolase
+epoxide hydrolase 2	3.3.2.10	soluble epoxide hydrolase
+EET-metabolizing enzyme	3.3.2.10	soluble epoxide hydrolase
+epoxyeicosatrienonic acid-metabolizing enzyme	3.3.2.10	soluble epoxide hydrolase
+mEH	3.3.2.10	soluble epoxide hydrolase
+CEHase	3.3.2.11	cholesterol-5,6-oxide hydrolase
+cholesterol epoxide hydrolase	3.3.2.11	cholesterol-5,6-oxide hydrolase
+cholesterol epoxide hydrolase is aheterooligomeric complex called the anti-estrogen binding sitecomprising 3beta-hydroxysterol-DELTA8-DELTA7-isomerase and3beta-hydroxysterol-DELTA7-reductase	3.3.2.11	cholesterol-5,6-oxide hydrolase
+cholesterol-5,6-epoxide hydrolase	3.3.2.11	cholesterol-5,6-oxide hydrolase
+ChEH	3.3.2.11	cholesterol-5,6-oxide hydrolase
+cholesterol oxide hydrolase	3.3.2.11	cholesterol-5,6-oxide hydrolase
+cholesterol-epoxide hydrolase	3.3.2.11	cholesterol-5,6-oxide hydrolase
+cholEH	3.3.2.11	cholesterol-5,6-oxide hydrolase
+cholesterol 5alpha,6alpha-oxide hydrolase	3.3.2.11	cholesterol-5,6-oxide hydrolase
+EH_CH	3.3.2.11	cholesterol-5,6-oxide hydrolase
+MaoC	3.3.2.12	oxepin-CoA hydrolase
+bifunctional fusion proteom	3.3.2.12	oxepin-CoA hydrolase
+domain showing oxepin-CoA hydrolase activity	3.3.2.12	oxepin-CoA hydrolase
+ECH-Aa	3.3.2.12	oxepin-CoA hydrolase
+gene name	3.3.2.12	oxepin-CoA hydrolase
+chorismate/3,4-dihydroxycyclohexa-1,5-dienoate synthase	3.3.2.13	chorismatase
+rapK	3.3.2.13	chorismatase
+fkbO	3.3.2.13	chorismatase
+2,4-dinitroanisole ether hydrolase	3.3.2.14	2,4-dinitroanisole O-demethylase
+gene name	3.3.2.14	2,4-dinitroanisole O-demethylase
+gene name	3.3.2.14	2,4-dinitroanisole O-demethylase
+DNAN demethylase	3.3.2.14	2,4-dinitroanisole O-demethylase
+ambiguous	3.3.2.15	trans-2,3-dihydro-3-hydroxyanthranilic acid synthase
+gene name	3.3.2.15	trans-2,3-dihydro-3-hydroxyanthranilic acid synthase
+hydrolase, alkenylglycerophosphocholine	3.3.2.2	lysoplasmalogenase
+hydrolase, alkenylglycerophosphoethanolamine	3.3.2.2	lysoplasmalogenase
+alkenylglycerophosphocholine hydrolase	3.3.2.2	lysoplasmalogenase
+1-(1-alkenyl)-sn-glycero-3-phosphocholine aldehydohydrolase	3.3.2.2	lysoplasmalogenase
+Tmem86b	3.3.2.2	lysoplasmalogenase
+lysoplasmalogenase	3.3.2.2	lysoplasmalogenase
+YhhN	3.3.2.2	lysoplasmalogenase
+trans-epoxysuccinate hydratase	3.3.2.4	trans-epoxysuccinate hydrolase
+hydratase, trans-epoxysuccinate	3.3.2.4	trans-epoxysuccinate hydrolase
+tartrate epoxydase	3.3.2.4	trans-epoxysuccinate hydrolase
+EC 4.2.1.37	3.3.2.4	trans-epoxysuccinate hydrolase
+LTA-4 hydrolase	3.3.2.6	leukotriene-A4 hydrolase
+hydrolase, leukotriene A4	3.3.2.6	leukotriene-A4 hydrolase
+leukotriene A(4) hydrolase	3.3.2.6	leukotriene-A4 hydrolase
+leukotriene A4 hydrolase/aminopeptidase	3.3.2.6	leukotriene-A4 hydrolase
+LTA4 hydrolase	3.3.2.6	leukotriene-A4 hydrolase
+LTA4H	3.3.2.6	leukotriene-A4 hydrolase
+contains bothhydrolase and aminopeptidase activity	3.3.2.6	leukotriene-A4 hydrolase
+leukotriene-A4 hydrolase	3.3.2.6	leukotriene-A4 hydrolase
+LTA4-h	3.3.2.6	leukotriene-A4 hydrolase
+leukotriene hydrolase A4	3.3.2.6	leukotriene-A4 hydrolase
+LT A4 hydrolase	3.3.2.6	leukotriene-A4 hydrolase
+leukotriene-A4-hydrolase	3.3.2.6	leukotriene-A4 hydrolase
+hydrolase, hepoxilin epoxide	3.3.2.7	hepoxilin-epoxide hydrolase
+hepoxilin epoxide hydrolase	3.3.2.7	hepoxilin-epoxide hydrolase
+HEH	3.3.2.7	hepoxilin-epoxide hydrolase
+limonene oxide hydrolase	3.3.2.8	limonene-1,2-epoxide hydrolase
+limonene-1,2-epoxide hydrolase	3.3.2.8	limonene-1,2-epoxide hydrolase
+LEH	3.3.2.8	limonene-1,2-epoxide hydrolase
+limonene 1,2-epoxide hydrolase	3.3.2.8	limonene-1,2-epoxide hydrolase
+EC 3.3.2.3	3.3.2.9	microsomal epoxide hydrolase
+XEHase	3.3.2.9	microsomal epoxide hydrolase
+EPHX1 detoxifies genotoxic compounds andparticipates in the removal of reactive oxygen species	3.3.2.9	microsomal epoxide hydrolase
+mEH is mainly involved in thedetoxification of wide variety of endogenous or exogenous carcinogens	3.3.2.9	microsomal epoxide hydrolase
+xenobiotic epoxide hydrolase	3.3.2.9	microsomal epoxide hydrolase
+juvenile hormone epoxide hydrolase	3.3.2.9	microsomal epoxide hydrolase
+JHEH	3.3.2.9	microsomal epoxide hydrolase
+JH epoxide hydrolase	3.3.2.9	microsomal epoxide hydrolase
+microsomal epoxide hydrolase-like protein	3.3.2.9	microsomal epoxide hydrolase
+mEH-like protein	3.3.2.9	microsomal epoxide hydrolase
+PNSO hydrolase	3.3.2.9	microsomal epoxide hydrolase
+mEPHX	3.3.2.9	microsomal epoxide hydrolase
+transcript	3.3.2.9	microsomal epoxide hydrolase
+see also 3.1.3.76	3.3.2.9	microsomal epoxide hydrolase
+gene name	3.3.2.9	microsomal epoxide hydrolase
+gene name	3.3.2.9	microsomal epoxide hydrolase
+mEH1	3.3.2.9	microsomal epoxide hydrolase
+Eha	3.3.2.9	microsomal epoxide hydrolase
+microsomal xenobiotic epoxide hydrolase	3.3.2.9	microsomal epoxide hydrolase
+styrene-epoxide hydrolase	3.3.2.9	microsomal epoxide hydrolase
+EPHX 1	3.3.2.9	microsomal epoxide hydrolase
+SEH	3.3.2.9	microsomal epoxide hydrolase
+EHb	3.3.2.9	microsomal epoxide hydrolase

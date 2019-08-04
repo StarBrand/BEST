@@ -1,0 +1,42 @@
+synonyms	ec_number	recommended_name
+synthase, uridine diphosphosulfoquinovose	3.13.1.1	UDP-sulfoquinovose synthase
+gene name	3.13.1.1	UDP-sulfoquinovose synthase
+gene name	3.13.1.1	UDP-sulfoquinovose synthase
+gene name	3.13.1.1	UDP-sulfoquinovose synthase
+UDP-sulfoquinovose synthase	3.13.1.1	UDP-sulfoquinovose synthase
+sulfite:UDP-glucose sulfotransferase	3.13.1.1	UDP-sulfoquinovose synthase
+UDPsulfoquinovose synthase	3.13.1.1	UDP-sulfoquinovose synthase
+uridine 5'-diphosphate-sulfoquinovose synthase	3.13.1.1	UDP-sulfoquinovose synthase
+SoSQD1	3.13.1.1	UDP-sulfoquinovose synthase
+Desulfinase	3.13.1.1	UDP-sulfoquinovose synthase
+DszB	3.13.1.1	UDP-sulfoquinovose synthase
+Agl3	3.13.1.1	UDP-sulfoquinovose synthase
+gene dszB-encoded hydrolase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+hydrolase, 2,(2'-hydroxyphenyl)benzene sulfinate	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+2-(2'-hydroxyphenyl)benzene sulfinate hydrolase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+2-(2-hydroxyphenyl)benzenesulfinate:H2O hydrolase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+DszB	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+Desulfinase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+2'-hydroxybiphenyl-2-sulfinate desulfinase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+2-(2'-hydroxyphenyl)benzenesulfinate desulfinase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+2'-hydroxybiphenyl-2-sulfinic acid desulfinase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+2-(2'-hydroxyphenyl)benzene sulfinate desulfinase	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+TdsB	3.13.1.3	2'-hydroxybiphenyl-2-sulfinate desulfinase
+3-sulfinopropionyl-CoA desulfinase	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
+AcdN-1	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
+3-sulfinopropionyl coenzyme A desulfinase	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
+3-sulfinopropionyl CoA desulfinase	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
+3SP-CoA desulfinase	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
+AcdTBEA6	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
+AcdLB400	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
+Desulfinase	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
+AcdDPN7	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
+3-sulfinopropionyl-coenzyme A desulfinase	3.13.1.4	3-sulfinopropanoyl-CoA desulfinase
+mec	3.13.1.6	[CysO sulfur-carrier protein]-S-L-cysteine hydrolase
+gene name	3.13.1.6	[CysO sulfur-carrier protein]-S-L-cysteine hydrolase
+CysO-cysteine peptidase	3.13.1.6	[CysO sulfur-carrier protein]-S-L-cysteine hydrolase
+COS	3.13.1.7	carbonyl sulfide hydrolase
+COSase	3.13.1.7	carbonyl sulfide hydrolase
+CS2 hydrolase	3.13.1.7	carbonyl sulfide hydrolase
+COS hydrolase	3.13.1.7	carbonyl sulfide hydrolase
+SAM hydroxide adenosyltransferase	3.13.1.8	S-adenosyl-L-methionine hydrolase (adenosine-forming)

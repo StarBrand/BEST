@@ -1,7 +1,0 @@
-EC	subclass
-5.1	Racemases and epimerases
-5.2	cis-trans-Isomerases
-5.3	Intramolecular isomerases
-5.4	Intramolecular transferases (mutases)
-5.5	Intramolecular lyases
-5.99	Other isomerases

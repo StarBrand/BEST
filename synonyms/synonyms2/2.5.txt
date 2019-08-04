@@ -1,0 +1,1904 @@
+synonyms	ec_number	recommended_name
+PcIDS1	2.5.1.1	dimethylallyltranstransferase
+farnesyl diphosphate synthase	2.5.1.1	dimethylallyltranstransferase
+FPPS	2.5.1.1	dimethylallyltranstransferase
+geranyl diphosphate synthase	2.5.1.1	dimethylallyltranstransferase
+bifunctional enzyme	2.5.1.1	dimethylallyltranstransferase
+isoform	2.5.1.1	dimethylallyltranstransferase
+isoform	2.5.1.1	dimethylallyltranstransferase
+GPP synthase	2.5.1.1	dimethylallyltranstransferase
+isoprenyl diphosphate synthase	2.5.1.1	dimethylallyltranstransferase
+IDS	2.5.1.1	dimethylallyltranstransferase
+GPPS	2.5.1.1	dimethylallyltranstransferase
+geranylgeranyl pyrophosphate synthase	2.5.1.1	dimethylallyltranstransferase
+IdsA	2.5.1.1	dimethylallyltranstransferase
+GPP (C5) synthase	2.5.1.1	dimethylallyltranstransferase
+gene name	2.5.1.1	dimethylallyltranstransferase
+(E)-geranyl diphosphate synthase	2.5.1.1	dimethylallyltranstransferase
+AnaPT	2.5.1.1	dimethylallyltranstransferase
+dimethylallyl transferase	2.5.1.1	dimethylallyltranstransferase
+FgaPT2	2.5.1.1	dimethylallyltranstransferase
+geranyl pyrophosphate synthase	2.5.1.1	dimethylallyltranstransferase
+prenyltransferase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+geranyl transferase I	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+farnesyl pyrophosphate synthetase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+farnesylpyrophosphate synthetase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+geranyltranstransferase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+omega,E,E-farnesyl diphosphate synthase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+omega,E,E-FPP	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+FDPSase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+type I farnesyl diphosphate synthase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+PcIDS1	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+E-farnesyl diphosphate synthase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+E-FPP synthase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+gene name	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+Toxoplasmagondii possesses a bifunctional farnesyl diphosphate/geranylgeranyldiphosphate synthase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+gene name	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+isoform	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+farnesyl diphosphate synthase 1	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+farnesyl diphosphate synthase 2	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+farnesyl-diphosphate synthase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+FPS	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+FPP synthase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+isoform	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+isoform	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+FPP-synthase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+farnesyl pyrophosphate synthase	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+FPPS	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+PA4043	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+FDS	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+isoform	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+isoform	2.5.1.10	(2E,6E)-farnesyl diphosphate synthase
+gene name	2.5.1.100	fumigaclavine A dimethylallyltransferase
+fumigaclavine C synthase	2.5.1.100	fumigaclavine A dimethylallyltransferase
+gene name	2.5.1.101	N,N'-diacetyllegionaminate synthase
+N,N'-diacetyllegionaminic acid synthase	2.5.1.101	N,N'-diacetyllegionaminate synthase
+NeuB homologue	2.5.1.101	N,N'-diacetyllegionaminate synthase
+nonulosonic acid synthase	2.5.1.101	N,N'-diacetyllegionaminate synthase
+gene name	2.5.1.101	N,N'-diacetyllegionaminate synthase
+GOT	2.5.1.102	geranyl-pyrophosphate-olivetolic acid geranyltransferase
+geranylpyrophosphate:olivetolate geranyltransferase	2.5.1.102	geranyl-pyrophosphate-olivetolic acid geranyltransferase
+SSL	2.5.1.103	presqualene diphosphate synthase
+SSL-1	2.5.1.103	presqualene diphosphate synthase
+squalene synthase-like	2.5.1.103	presqualene diphosphate synthase
+agmatine/cadaverine aminopropyl transferase	2.5.1.104	N1-aminopropylagmatine synthase
+ACAPT	2.5.1.104	N1-aminopropylagmatine synthase
+gene name	2.5.1.104	N1-aminopropylagmatine synthase
+TK0147 protein	2.5.1.104	N1-aminopropylagmatine synthase
+gene name	2.5.1.104	N1-aminopropylagmatine synthase
+agmatine aminopropyltransferase	2.5.1.104	N1-aminopropylagmatine synthase
+triamine/agmatine aminopropyltransferase	2.5.1.104	N1-aminopropylagmatine synthase
+TAAPT	2.5.1.104	N1-aminopropylagmatine synthase
+ambiguous	2.5.1.105	7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene
+gene name	2.5.1.105	7,8-dihydropterin-6-yl-methyl-4-(beta-D-ribofuranosyl)aminobenzene
+brevianamide F prenyltransferase	2.5.1.106	tryprostatin B synthase
+indole prenyltransferase	2.5.1.106	tryprostatin B synthase
+tryprostatin B synthase	2.5.1.106	tryprostatin B synthase
+FtmPT1	2.5.1.106	tryprostatin B synthase
+ftmH	2.5.1.107	verruculogen prenyltransferase
+FtmPT3	2.5.1.107	verruculogen prenyltransferase
+fumitremorgin prenyltransferase 3	2.5.1.107	verruculogen prenyltransferase
+DPH4	2.5.1.108	2-(3-amino-3-carboxypropyl)histidine synthase
+gene name	2.5.1.108	2-(3-amino-3-carboxypropyl)histidine synthase
+diphthine synthase	2.5.1.108	2-(3-amino-3-carboxypropyl)histidine synthase
+PhDph2	2.5.1.108	2-(3-amino-3-carboxypropyl)histidine synthase
+S-adenosyl-L-methionine:L-histidine3-amino-3-carboxypropyltransferase	2.5.1.108	2-(3-amino-3-carboxypropyl)histidine synthase
+cyclic dipeptide C7-prenyltransferase	2.5.1.109	brevianamide F prenyltransferase (deoxybrevianamide E-forming)
+CdpC7PT	2.5.1.109	brevianamide F prenyltransferase (deoxybrevianamide E-forming)
+NotF	2.5.1.109	brevianamide F prenyltransferase (deoxybrevianamide E-forming)
+deoxybrevianamide E synthase	2.5.1.109	brevianamide F prenyltransferase (deoxybrevianamide E-forming)
+brevianamide F reverse prenyltransferase	2.5.1.109	brevianamide F prenyltransferase (deoxybrevianamide E-forming)
+BrePT	2.5.1.109	brevianamide F prenyltransferase (deoxybrevianamide E-forming)
+gene name	2.5.1.110	12alpha,13alpha-dihydroxyfumitremorgin C prenyltransferase
+gene name	2.5.1.110	12alpha,13alpha-dihydroxyfumitremorgin C prenyltransferase
+FtmPT2	2.5.1.110	12alpha,13alpha-dihydroxyfumitremorgin C prenyltransferase
+CloQ	2.5.1.111	4-hydroxyphenylpyruvate 3-dimethylallyltransferase
+4HPP dimethylallyltransferase	2.5.1.111	4-hydroxyphenylpyruvate 3-dimethylallyltransferase
+NovQ	2.5.1.111	4-hydroxyphenylpyruvate 3-dimethylallyltransferase
+cytokinin synthase	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+isopentenyltransferase	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+2-isopentenyl-diphosphate:ADP/ATP DELTA2-isopentenyltransferase;	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+IPT2	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+isopentenyl transferase 2	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+isoform	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+isoform	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+dimethylallyl diphosphate:ATP/ADP isopentenyltransferase	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+isoform	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+adenylate isopentenyltransferase	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+IPT	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+isoform	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+AIPT	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+isoform	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+ATP/ADP isopentenyltransferase	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+ATP/ADP IPT	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+isoform	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+isoform	2.5.1.112	adenylate dimethylallyltransferase (ADP/ATP-dependent)
+Cysteine synthase	2.5.1.113	 [CysO sulfur-carrier protein]-thiocarboxylate-dependent cysteine
+CysM	2.5.1.113	 [CysO sulfur-carrier protein]-thiocarboxylate-dependent cysteine
+O-phosphoserine-specific cysteine synthase	2.5.1.113	 [CysO sulfur-carrier protein]-thiocarboxylate-dependent cysteine
+O-phosphoserine sulfhydrylase	2.5.1.113	 [CysO sulfur-carrier protein]-thiocarboxylate-dependent cysteine
+gene name	2.5.1.114	tRNAPhe (4-demethylwyosine37-C7) aminocarboxypropyltransferase
+TYW2	2.5.1.114	tRNAPhe (4-demethylwyosine37-C7) aminocarboxypropyltransferase
+gene name	2.5.1.114	tRNAPhe (4-demethylwyosine37-C7) aminocarboxypropyltransferase
+YML005w	2.5.1.114	tRNAPhe (4-demethylwyosine37-C7) aminocarboxypropyltransferase
+TRM12	2.5.1.114	tRNAPhe (4-demethylwyosine37-C7) aminocarboxypropyltransferase
+gene name	2.5.1.115	homogentisate phytyltransferase
+HPT1	2.5.1.115	homogentisate phytyltransferase
+gene name	2.5.1.115	homogentisate phytyltransferase
+VTE2-1	2.5.1.115	homogentisate phytyltransferase
+HPT	2.5.1.115	homogentisate phytyltransferase
+SynHPT	2.5.1.115	homogentisate phytyltransferase
+locus name	2.5.1.115	homogentisate phytyltransferase
+VTE2-2	2.5.1.115	homogentisate phytyltransferase
+VTE2.1	2.5.1.115	homogentisate phytyltransferase
+gene name	2.5.1.116	homogentisate geranylgeranyltransferase
+HGGT	2.5.1.116	homogentisate geranylgeranyltransferase
+homogentisic acid geranylgeranyl transferase	2.5.1.116	homogentisate geranylgeranyltransferase
+Hppt	2.5.1.116	homogentisate geranylgeranyltransferase
+VTE2	2.5.1.117	homogentisate solanesyltransferase
+CrHST	2.5.1.117	homogentisate solanesyltransferase
+gene name	2.5.1.117	homogentisate solanesyltransferase
+HST	2.5.1.117	homogentisate solanesyltransferase
+AtHST	2.5.1.117	homogentisate solanesyltransferase
+gene name	2.5.1.117	homogentisate solanesyltransferase
+gene name	2.5.1.117	homogentisate solanesyltransferase
+Hpt2	2.5.1.117	homogentisate solanesyltransferase
+homogentisate prenyltransferase	2.5.1.117	homogentisate solanesyltransferase
+MqnE	2.5.1.120	aminodeoxyfutalosine synthase
+AFL synthase	2.5.1.120	aminodeoxyfutalosine synthase
+aminofutalosine synthase	2.5.1.120	aminodeoxyfutalosine synthase
+locus name	2.5.1.120	aminodeoxyfutalosine synthase
+Ppzp	2.5.1.121	5,10-dihydrophenazine-1-carboxylate 9-dimethylallyltransferase
+dihydrophenazine-1-carboxylate dimethylallyltransferase	2.5.1.121	5,10-dihydrophenazine-1-carboxylate 9-dimethylallyltransferase
+5,10-dihydrophenazine 1-carboxylate dimethylallyltransferase	2.5.1.121	5,10-dihydrophenazine-1-carboxylate 9-dimethylallyltransferase
+tyrosine O-prenyltransferase	2.5.1.122	4-O-dimethylallyl-L-tyrosine synthase
+TyrPT	2.5.1.122	4-O-dimethylallyl-L-tyrosine synthase
+SirD	2.5.1.122	4-O-dimethylallyl-L-tyrosine synthase
+CAK41583	2.5.1.122	4-O-dimethylallyl-L-tyrosine synthase
+gene name	2.5.1.122	4-O-dimethylallyl-L-tyrosine synthase
+gene name	2.5.1.123	flaviolin linalyltransferase
+Fur7	2.5.1.124	6-linalyl-2-O,3-dimethylflaviolin synthase
+Fur7	2.5.1.125	7-geranyloxy-5-hydroxy-2-methoxy-3-methylnaphthalene-1,4-dione synthase
+PaSpeE	2.5.1.126	norspermine synthase
+ambiguous	2.5.1.126	norspermine synthase
+ambiguous	2.5.1.127	caldopentamine synthase
+HbSpe II	2.5.1.127	caldopentamine synthase
+BpsA	2.5.1.128	N4-bis(aminopropyl)spermidine synthase
+locus name	2.5.1.128	N4-bis(aminopropyl)spermidine synthase
+PAD1	2.5.1.129	flavin prenyltransferase
+ubiX	2.5.1.129	flavin prenyltransferase
+flavin prenyltransferase	2.5.1.129	flavin prenyltransferase
+MenA	2.5.1.130	2-carboxy-1,4-naphthoquinone phytyltransferase
+1,4-dioxo-2-naphthoate phytyltransferase; 1,4-diketo-2-naphthoatephytyltransferase	2.5.1.130	2-carboxy-1,4-naphthoquinone phytyltransferase
+ABC4	2.5.1.130	2-carboxy-1,4-naphthoquinone phytyltransferase
+1,4-dihydroxy-2-naphthoate polyprenyltransferase	2.5.1.130	2-carboxy-1,4-naphthoquinone phytyltransferase
+MfnF	2.5.1.131	(4-{4-[2-(gamma-L-glutamylamino)ethyl]phenoxymethyl}furan-2
+gene name	2.5.1.131	(4-{4-[2-(gamma-L-glutamylamino)ethyl]phenoxymethyl}furan-2
+3-deoxy-D-glycero-D-galacto-nononate 9-phosphate synthase	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+KDN 9-phosphate synthase	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+KDN-9-P synthase	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+also exhibits2-keto-3-deoxy-D-glycero-D-galacto-nonulosonic acid 9-phosphatesynthase activity	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+shows also-keto-3-deoxy-D-glycero-D-galacto-nonulosonic acid-9-phosphate synthaseactivity	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+NeuNAc-9-P synthase	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+shows also-keto-3-deoxy-D-glycero-D-galacto-nonulosonic acid-9-phosphate synthaseactivity	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+2-keto-3-deoxy-D-glycero-D-galacto-nonulosonic acid 9-phosphatesynthase	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+KDN-9-phosphate synthetase	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+2-keto-3-deoxy-D-glycero-D-galacto-9-phosphonononic acid synthase	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+gene name	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+KDN-9P synthase	2.5.1.132	3-deoxy-D-glycero-D-galacto-nonulopyranosonate 9-phosphate synthase
+bchG	2.5.1.133	bacteriochlorophyll a synthase
+gene name	2.5.1.133	bacteriochlorophyll a synthase
+O-acetylserine dependent cystathionine beta-synthas	2.5.1.134	cystathionine beta-synthase (O-acetyl-L-serine)
+cystathionine gamma-lyase	2.5.1.134	cystathionine beta-synthase (O-acetyl-L-serine)
+MCCB	2.5.1.134	cystathionine beta-synthase (O-acetyl-L-serine)
+YrhB	2.5.1.134	cystathionine beta-synthase (O-acetyl-L-serine)
+valL	2.5.1.135	validamine 7-phosphate valienyltransferase
+validoxylamine A 7-phosphate synthase	2.5.1.135	validamine 7-phosphate valienyltransferase
+V7P synthase	2.5.1.135	validamine 7-phosphate valienyltransferase
+vldE	2.5.1.135	validamine 7-phosphate valienyltransferase
+validamine-7-phosphate valienyltransferase	2.5.1.135	validamine 7-phosphate valienyltransferase
+pseudoglycosyltransferase	2.5.1.135	validamine 7-phosphate valienyltransferase
+PT1	2.5.1.136	2-acylphloroglucinol 4-prenyltransferase
+PT-1	2.5.1.136	2-acylphloroglucinol 4-prenyltransferase
+aromatic prenyltransferase	2.5.1.136	2-acylphloroglucinol 4-prenyltransferase
+PT1L	2.5.1.136	2-acylphloroglucinol 4-prenyltransferase
+PT2	2.5.1.137	2-acyl-4-prenylphloroglucinol 6-prenyltransferase
+aromatic prenyltransferase	2.5.1.137	2-acyl-4-prenylphloroglucinol 6-prenyltransferase
+ClPT1	2.5.1.138	coumarin 8-geranyltransferase
+PT1a	2.5.1.138	coumarin 8-geranyltransferase
+umbelliferone 8-geranyltransferase	2.5.1.138	coumarin 8-geranyltransferase
+PcPT	2.5.1.139	umbelliferone 6-dimethylallyltransferase
+ACEGA synthase	2.5.1.140	N-(2-amino-2-carboxyethyl)-L-glutamate synthase
+SbnA	2.5.1.140	N-(2-amino-2-carboxyethyl)-L-glutamate synthase
+protoheme IX farnesyltransferase	2.5.1.141	heme o synthase
+gene name	2.5.1.141	heme o synthase
+heme o synthase	2.5.1.141	heme o synthase
+CtaB	2.5.1.141	heme o synthase
+gene name	2.5.1.141	heme o synthase
+Cox10	2.5.1.141	heme o synthase
+heme B farnesyltransferase	2.5.1.141	heme o synthase
+locus name	2.5.1.141	heme o synthase
+CyoE protein	2.5.1.141	heme o synthase
+HOS	2.5.1.141	heme o synthase
+heme A:farnesyltransferase	2.5.1.141	heme o synthase
+gene name	2.5.1.141	heme o synthase
+CPT2	2.5.1.142	nerylneryl diphosphate synthase
+P2CMN synthase	2.5.1.143	pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+nicotinic acid adenine dinucleotide carboxylase/hydrolase	2.5.1.143	pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+NaAD carboxylase/hydrolase	2.5.1.143	pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+LarB	2.5.1.143	pyridinium-3,5-biscarboxylic acid mononucleotide synthase
+CS26	2.5.1.144	S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent)
+CysM	2.5.1.144	S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent)
+cysteine synthase B	2.5.1.144	S-sulfo-L-cysteine synthase (O-acetyl-L-serine-dependent)
+GT	2.5.1.145	phosphatidylglycerol-prolipoprotein diacylglyceryl transferase
+famD2	2.5.1.146	3-geranyl-3-[(Z)-2-isocyanoethenyl]indole synthase
+CbiF	2.5.1.147	5-amino-6-(D-ribitylamino)uracil-L-tyrosine 4-hydroxyphenyl transferase
+cofH	2.5.1.147	5-amino-6-(D-ribitylamino)uracil-L-tyrosine 4-hydroxyphenyl transferase
+dihydropteroate diphosphorylase	2.5.1.15	dihydropteroate synthase
+synthase, dihydropteroate	2.5.1.15	dihydropteroate synthase
+7,8-dihydropteroate synthetase	2.5.1.15	dihydropteroate synthase
+7,8-dihydropteroic acid synthetase	2.5.1.15	dihydropteroate synthase
+dihydropteroic synthetase	2.5.1.15	dihydropteroate synthase
+6-hydroxymethyl-7,8-dihydropteroate synthase	2.5.1.15	dihydropteroate synthase
+folP1gene	2.5.1.15	dihydropteroate synthase
+MtDHPS	2.5.1.15	dihydropteroate synthase
+genename	2.5.1.15	dihydropteroate synthase
+gene name	2.5.1.15	dihydropteroate synthase
+folP1	2.5.1.15	dihydropteroate synthase
+7,8-dihydropteroate synthase	2.5.1.15	dihydropteroate synthase
+dihydropteroate synthetase	2.5.1.15	dihydropteroate synthase
+DHPS/DHPR	2.5.1.15	dihydropteroate synthase
+pvdhps	2.5.1.15	dihydropteroate synthase
+bifunctional enzyme withhydroxymethyldihydropterin pyrophosphokinase and dihydropteroatesynthase activities	2.5.1.15	dihydropteroate synthase
+putative dihydropteroate synthase ortholog	2.5.1.15	dihydropteroate synthase
+folP2 gene	2.5.1.15	dihydropteroate synthase
+BCG3672c gene	2.5.1.15	dihydropteroate synthase
+trifunctional enzyme	2.5.1.15	dihydropteroate synthase
+encoded by folPgene	2.5.1.15	dihydropteroate synthase
+bifunctional enzyme	2.5.1.15	dihydropteroate synthase
+recombinant hydroxymethyldihydropterinpyrophosphokinase-dihydropteroate synthase	2.5.1.15	dihydropteroate synthase
+PfDHPS	2.5.1.15	dihydropteroate synthase
+DHP synthase	2.5.1.15	dihydropteroate synthase
+aminopropyltransferase spermidine synthase	2.5.1.16	spermidine synthase
+aminopropyltransferase	2.5.1.16	spermidine synthase
+synthase, spermidine	2.5.1.16	spermidine synthase
+spermidine synthetase	2.5.1.16	spermidine synthase
+SPDS2	2.5.1.16	spermidine synthase
+putrescine aminopropyltransferase	2.5.1.16	spermidine synthase
+PAPT	2.5.1.16	spermidine synthase
+SPDS	2.5.1.16	spermidine synthase
+enzyme is encoded by a chimeric bifunctional gene(Spe-Sdh) that also encodes saccharopine dehydrogenase (Sdh)	2.5.1.16	spermidine synthase
+MdSPDS1	2.5.1.16	spermidine synthase
+SpeE	2.5.1.16	spermidine synthase
+spermidine synthase	2.5.1.16	spermidine synthase
+Spm synthase	2.5.1.16	spermidine synthase
+SpSyn	2.5.1.16	spermidine synthase
+PgSPD	2.5.1.16	spermidine synthase
+gene name	2.5.1.16	spermidine synthase
+spermidine synthase 1	2.5.1.16	spermidine synthase
+Spd synthase	2.5.1.16	spermidine synthase
+spe3	2.5.1.16	spermidine synthase
+aquacob(I)alamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+adenosyltransferase, vitamin B12s	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+aquocob(I)alamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+vitamin B12s adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+ATP:cob(I)alamin transferase (ATR)	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+cob(I)alamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+ATP:cob(I)alamin Cobeta-adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+cobO mutantSVQ336	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+cobO mutant SVQ336	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+cobO mutant SVQ524	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO-type ATP:Co(I)rrinoid adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+human-type ATP: cob(I)alamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO-type ACA	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO from Lactobacillus reuteri	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+human-type ACA	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO-type adenosine 5'-triphosphate:corrinoid adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO-type ATP:corrinoid adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+CobA-type ATP:Co(I)rrinoid adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+CobAMm	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+homologeous to PduO-type ATP: cob(I)alamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+ST2180	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+locus name	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+TA1434	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+MMAB protein	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+methylmalonic aciduria type B	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+ATR	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO-type corrinoid adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+ATP:cobalamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+MMAB	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+hATR	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+ATP:cob(I)alamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO-typeenzyme, MMAB gene	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+human adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO-type ATP: cobalamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+ATP: cobalamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO-type ATP:cob(I)alamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+encoded by pduO gene	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+gene name	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+PduO adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+ATP:corrinoid adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+EutT	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+cobalamin adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+gene name	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+ATP:co(I)rrinoid adenosyltransferase	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+ACAT	2.5.1.17	cob(I)yrinic acid a,c-diamide adenosyltransferase
+glutathione S-alkyl transferase	2.5.1.18	glutathione transferase
+glutathione S-aryltransferase	2.5.1.18	glutathione transferase
+S-(hydroxyalkyl)glutathione lyase	2.5.1.18	glutathione transferase
+glutathione S-aralkyltransferase	2.5.1.18	glutathione transferase
+GSH S-transferase	2.5.1.18	glutathione transferase
+GSHTase-P	2.5.1.18	glutathione transferase
+glutathione S-transferase X	2.5.1.18	glutathione transferase
+epsilon class GST	2.5.1.18	glutathione transferase
+agGSTe2	2.5.1.18	glutathione transferase
+GSH-S transferase rho	2.5.1.18	glutathione transferase
+isozymes alpha	2.5.1.18	glutathione transferase
+overview of nomenclature of ratglutathione transferase isoenzymes	2.5.1.18	glutathione transferase
+GSTalpha1	2.5.1.18	glutathione transferase
+Ure2p mutant A122C	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+GSTO2-2	2.5.1.18	glutathione transferase
+SIGST	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+Alpha class GST	2.5.1.18	glutathione transferase
+bmGSTD	2.5.1.18	glutathione transferase
+GSTD4	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+Delta-class glutathione transferase	2.5.1.18	glutathione transferase
+theta class glutathione S-transferase	2.5.1.18	glutathione transferase
+GST-T	2.5.1.18	glutathione transferase
+26.5 kDa isozyme	2.5.1.18	glutathione transferase
+GSTD4-4	2.5.1.18	glutathione transferase
+delta class glutathione transferase	2.5.1.18	glutathione transferase
+membrane-bound enzymewith both glutathione transferase and hydroperoxidase activities	2.5.1.18	glutathione transferase
+fusion protein	2.5.1.18	glutathione transferase
+non-enzymatic GST	2.5.1.18	glutathione transferase
+sigma glutathione S-transferase	2.5.1.18	glutathione transferase
+phi class isozyme	2.5.1.18	glutathione transferase
+GSTP 1-1	2.5.1.18	glutathione transferase
+Pi class GST	2.5.1.18	glutathione transferase
+GSTT1-1	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+Epsilon glutathione S-transferase	2.5.1.18	glutathione transferase
+GST3	2.5.1.18	glutathione transferase
+GST4	2.5.1.18	glutathione transferase
+GST5	2.5.1.18	glutathione transferase
+class mu glutathione S-transferase	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+glutathione-transferase	2.5.1.18	glutathione transferase
+Mu class GST	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+GSTM2-2	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+GSTM4-4	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+GSTM5-5	2.5.1.18	glutathione transferase
+GSTO1-1	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+sigma class isozyme	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+mu class glutathione S-transferase	2.5.1.18	glutathione transferase
+Mu-class GST	2.5.1.18	glutathione transferase
+Mu-GST	2.5.1.18	glutathione transferase
+GSTU19	2.5.1.18	glutathione transferase
+rho-GST	2.5.1.18	glutathione transferase
+omega-class glutathione S-transferase	2.5.1.18	glutathione transferase
+GSTO	2.5.1.18	glutathione transferase
+sigma-class GST	2.5.1.18	glutathione transferase
+sigma-class glutathione S-transferase	2.5.1.18	glutathione transferase
+GSTS	2.5.1.18	glutathione transferase
+GSTD	2.5.1.18	glutathione transferase
+omega glutathione S-transferase	2.5.1.18	glutathione transferase
+GSTT	2.5.1.18	glutathione transferase
+GSTU17	2.5.1.18	glutathione transferase
+tau class GST	2.5.1.18	glutathione transferase
+CgGSTM1	2.5.1.18	glutathione transferase
+glutathione S-transferase I	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+CgGSTM2	2.5.1.18	glutathione transferase
+PvGSTF1-1	2.5.1.18	glutathione transferase
+PvGSTU2-2	2.5.1.18	glutathione transferase
+PvGSTU3-3	2.5.1.18	glutathione transferase
+GST	2.5.1.18	glutathione transferase
+GSTU21	2.5.1.18	glutathione transferase
+isoenzyme	2.5.1.18	glutathione transferase
+tau class glutathione transferase	2.5.1.18	glutathione transferase
+GSTS1-1	2.5.1.18	glutathione transferase
+Sigma class GST	2.5.1.18	glutathione transferase
+GSTU26	2.5.1.18	glutathione transferase
+GSTF9	2.5.1.18	glutathione transferase
+zeta class glutathione S-transferase	2.5.1.18	glutathione transferase
+GSTZ	2.5.1.18	glutathione transferase
+phi class glutathione transferase	2.5.1.18	glutathione transferase
+AtGSTF2	2.5.1.18	glutathione transferase
+alpha-class glutathione transferase	2.5.1.18	glutathione transferase
+pGSTA1	2.5.1.18	glutathione transferase
+epsilon-class glutathione transferase	2.5.1.18	glutathione transferase
+GST5118	2.5.1.18	glutathione transferase
+tau class GSTU4-4	2.5.1.18	glutathione transferase
+GmGSTU4-4	2.5.1.18	glutathione transferase
+GSTA5-5	2.5.1.18	glutathione transferase
+GSTM3-3	2.5.1.18	glutathione transferase
+GSTT2-2	2.5.1.18	glutathione transferase
+GSTT2B-2B	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+omega-class glutathione S-transferase 2	2.5.1.18	glutathione transferase
+glutathione S-transferase omega 2	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+2-hydroxychromene-2-carboxylic acid isomerase	2.5.1.18	glutathione transferase
+HCCA isomerase	2.5.1.18	glutathione transferase
+kappa class GSH transferase	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+GSH transferase	2.5.1.18	glutathione transferase
+PmGST	2.5.1.18	glutathione transferase
+Epsilon glutathione transferase	2.5.1.18	glutathione transferase
+Epsilon GST	2.5.1.18	glutathione transferase
+GSTE1	2.5.1.18	glutathione transferase
+GSTE3	2.5.1.18	glutathione transferase
+GSTE4	2.5.1.18	glutathione transferase
+GSTE5	2.5.1.18	glutathione transferase
+GSTE8	2.5.1.18	glutathione transferase
+GSTE2	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+sjGST	2.5.1.18	glutathione transferase
+Sj26GST	2.5.1.18	glutathione transferase
+GSTM1	2.5.1.18	glutathione transferase
+glutathione transferase	2.5.1.18	glutathione transferase
+RX: glutathione R-transferase	2.5.1.18	glutathione transferase
+formerly	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+GSTD1	2.5.1.18	glutathione transferase
+phi class isozyme	2.5.1.18	glutathione transferase
+tau class isozyme	2.5.1.18	glutathione transferase
+tau class isozyme	2.5.1.18	glutathione transferase
+tau class isozyme	2.5.1.18	glutathione transferase
+AtuGSTH1-1	2.5.1.18	glutathione transferase
+GST2	2.5.1.18	glutathione transferase
+rho class glutathione S-transferase	2.5.1.18	glutathione transferase
+sll1545	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+omega glutathione transferase	2.5.1.18	glutathione transferase
+TDR1	2.5.1.18	glutathione transferase
+thiol-dependent reductase I	2.5.1.18	glutathione transferase
+glutathione-S-transferas	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+GST alpha	2.5.1.18	glutathione transferase
+GST mu	2.5.1.18	glutathione transferase
+formerly	2.5.1.18	glutathione transferase
+GST pi	2.5.1.18	glutathione transferase
+theta-class glutathione transferase	2.5.1.18	glutathione transferase
+theta class glutathione transferase T1-1	2.5.1.18	glutathione transferase
+theta class GST	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+cGST	2.5.1.18	glutathione transferase
+glutathione transferase-like protein	2.5.1.18	glutathione transferase
+lambda glutathione transferase	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+EGST	2.5.1.18	glutathione transferase
+gene name	2.5.1.18	glutathione transferase
+nu-class glutathione transferase	2.5.1.18	glutathione transferase
+GSH transferase homologue	2.5.1.18	glutathione transferase
+allergen Der p 8	2.5.1.18	glutathione transferase
+allergen Der p 2	2.5.1.18	glutathione transferase
+adGSTD4-4	2.5.1.18	glutathione transferase
+glutathione S-transferase AdFSTD3-3	2.5.1.18	glutathione transferase
+GST adgstD4-4	2.5.1.18	glutathione transferase
+GSTZ1-1	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+glutathione transferase zeta1-1	2.5.1.18	glutathione transferase
+Zeta class GST	2.5.1.18	glutathione transferase
+BphK	2.5.1.18	glutathione transferase
+Chi GST	2.5.1.18	glutathione transferase
+Chi class GST	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+glutathione S-transferase A3-3	2.5.1.18	glutathione transferase
+hGSTA-3	2.5.1.18	glutathione transferase
+glutathione transferase zeta	2.5.1.18	glutathione transferase
+hGSTZ1-1	2.5.1.18	glutathione transferase
+variants glutathionetransferase Zeta 1a-1a, glutathione transferase Zeta 1b-1b, glutathionetransferase Zeta 1c-1c, glutathione transferase Zeta 1d-1d	2.5.1.18	glutathione transferase
+glutathione transferase M1-1	2.5.1.18	glutathione transferase
+phi class GST	2.5.1.18	glutathione transferase
+glutathione S-transferase pi	2.5.1.18	glutathione transferase
+glutathione transferase Pi	2.5.1.18	glutathione transferase
+glutathione-S-transferase pi	2.5.1.18	glutathione transferase
+glutathione transferase T1-1	2.5.1.18	glutathione transferase
+glutathione transferase A4-4	2.5.1.18	glutathione transferase
+GSTk	2.5.1.18	glutathione transferase
+Kappa class GST	2.5.1.18	glutathione transferase
+glutathione transferase M2-2	2.5.1.18	glutathione transferase
+hGSTA1-1	2.5.1.18	glutathione transferase
+selenium-containing glutathione transferase zeta1-1	2.5.1.18	glutathione transferase
+seleno-hGSTZ1-1	2.5.1.18	glutathione transferase
+glutathione S-transferase 2	2.5.1.18	glutathione transferase
+MGST2	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+glutathione S-transferase P1-1	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+GSTP1-1	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+GSTM1-1	2.5.1.18	glutathione transferase
+GSTA4-4	2.5.1.18	glutathione transferase
+Ya-GST	2.5.1.18	glutathione transferase
+isozyme	2.5.1.18	glutathione transferase
+glutathione transferase A1-1	2.5.1.18	glutathione transferase
+glutathione transferase P1-1	2.5.1.18	glutathione transferase
+kappa class glutathione transferase	2.5.1.18	glutathione transferase
+isoform	2.5.1.18	glutathione transferase
+glutathione S-transferases	2.5.1.18	glutathione transferase
+alpha GST	2.5.1.18	glutathione transferase
+PtGSTU1	2.5.1.18	glutathione transferase
+isoform of 26500 Da	2.5.1.18	glutathione transferase
+asGST5.5	2.5.1.18	glutathione transferase
+ssGST3	2.5.1.18	glutathione transferase
+ssGST5	2.5.1.18	glutathione transferase
+delta-class glutathione S-transferase	2.5.1.18	glutathione transferase
+glutathione S-transferase A1-1	2.5.1.18	glutathione transferase
+mu glutathione transferase	2.5.1.18	glutathione transferase
+microsomal glutathione transferase 1	2.5.1.18	glutathione transferase
+mtMGST1	2.5.1.18	glutathione transferase
+Mu GST	2.5.1.18	glutathione transferase
+Omega class GST	2.5.1.18	glutathione transferase
+alpha class glutathione transferase	2.5.1.18	glutathione transferase
+MGST1	2.5.1.18	glutathione transferase
+pm-GSTR1	2.5.1.18	glutathione transferase
+GST-26	2.5.1.18	glutathione transferase
+synthase, 5-enolpyruvoylshikimate 3-phosphate	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+3-enolpyruvylshikimate 5-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+3-enolpyruvylshikimic acid-5-phosphate synthetase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5'-enolpyruvylshikimate-3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enolpyruvyl-3-phosphoshikimate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enolpyruvylshikimate-3-phosphate synthetase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enolpyruvylshikimate-3-phosphoric acid synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enolpyruvylshikimic acid-3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+CaEPSPS	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+3-phosphoshikimate 1-carboxyvinyl-transferase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+StaroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+EPSPS	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enolpyruvylshikimate-3-phosphatesynthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+3-phosphoshikimate 1-carboxyvinyltransferase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enol-pyruvylshikimate 3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+gene name	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enoylpyruvylshikimate 3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+class II EPSPS	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+AroA(A1501)	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+enolpyruvylshikimate phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+glyphosate-tolerant gene product from strainATX1398 that lacks protein sequence hallmarks of class II EPSPsynthases	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+EPSPsynthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+classI, glyphosate-sensitive	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enolpyruvylshikimate-3phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enol-pyruvyl-shikimate-3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+class II 5-enolpyruvylshikimate-3-phosphate synthasesare less sensitive to glyphosate in contrary to class I5-enolpyruvylshikimate-3-phosphate synthases which are highly sensitiveto inhibition with glyphosate	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enol-pyruvylshikimate-3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+maize EPSP synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+maize EPSPS	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+3-phosphoshikimate-1-carboxyvinyl-transferase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enopyruvylshikimate-3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+DsaroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+Dunaliella salina 5-enolpyruvylshikimate-3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+Dunaliella salina EPSP synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+EcaroA	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+enolpyruvylshikimate-3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+enolpyruvylshikimate 3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+gene name	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+E. coli EPSPS	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+glyphosateresistant	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+G2 EPSPS	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+Mycobacterium tuberculosis 5-enolpyruvylshikimate-3-phosphatesynthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+Mt EPSPS	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+EPSP synhthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+5-enol pyruvylshikimate 3-phosphate synthase	2.5.1.19	3-phosphoshikimate 1-carboxyvinyltransferase
+pyrimidine transferase	2.5.1.2	thiamine pyridinylase
+thiamin hydrolase	2.5.1.2	thiamine pyridinylase
+thiamin pyridinolase	2.5.1.2	thiamine pyridinylase
+thiaminase	2.5.1.2	thiamine pyridinylase
+thiamine pyridinolase	2.5.1.2	thiamine pyridinylase
+thiamin pyridinylase	2.5.1.2	thiamine pyridinylase
+thiamine pyridinylase	2.5.1.2	thiamine pyridinylase
+thiaminase I	2.5.1.2	thiamine pyridinylase
+isopentenyl pyrophosphate cis-1,4-polyisoprenyl transferase	2.5.1.20	rubber cis-polyprenylcistransferase
+allyltransferase, rubber	2.5.1.20	rubber cis-polyprenylcistransferase
+rubber polymerase	2.5.1.20	rubber cis-polyprenylcistransferase
+rubber prenyltransferase	2.5.1.20	rubber cis-polyprenylcistransferase
+rubber allyltransferase	2.5.1.20	rubber cis-polyprenylcistransferase
+rubber transferase	2.5.1.20	rubber cis-polyprenylcistransferase
+cis-1,4-polyprenylcistransferase	2.5.1.20	rubber cis-polyprenylcistransferase
+TkCPT1	2.5.1.20	rubber cis-polyprenylcistransferase
+TkCPT2	2.5.1.20	rubber cis-polyprenylcistransferase
+TkCPT3	2.5.1.20	rubber cis-polyprenylcistransferase
+laticifer-specific rubber-forming enzyme	2.5.1.20	rubber cis-polyprenylcistransferase
+chain-elongating enzyme cis-prenyltransferase	2.5.1.20	rubber cis-polyprenylcistransferase
+cis-prenyl transferase	2.5.1.20	rubber cis-polyprenylcistransferase
+CPT3	2.5.1.20	rubber cis-polyprenylcistransferase
+cis prenyl transferase	2.5.1.20	rubber cis-polyprenylcistransferase
+enzyme has activities of EC 2.5.1.20 and EC 2.5.1.10	2.5.1.20	rubber cis-polyprenylcistransferase
+HRT2	2.5.1.20	rubber cis-polyprenylcistransferase
+cisprenyltransferase	2.5.1.20	rubber cis-polyprenylcistransferase
+HRT1	2.5.1.20	rubber cis-polyprenylcistransferase
+CPT	2.5.1.20	rubber cis-polyprenylcistransferase
+cis-prenyltransferase	2.5.1.20	rubber cis-polyprenylcistransferase
+farnesyltransferase	2.5.1.21	squalene synthase
+presqualene-diphosphate synthase	2.5.1.21	squalene synthase
+synthase, squalene	2.5.1.21	squalene synthase
+presqualene synthase	2.5.1.21	squalene synthase
+squalene synthetase	2.5.1.21	squalene synthase
+farnesyldiphosphate:farnesyldiphosphate farnesyltransferase	2.5.1.21	squalene synthase
+SS1	2.5.1.21	squalene synthase
+EtSS	2.5.1.21	squalene synthase
+squalene synthase	2.5.1.21	squalene synthase
+farnesyldiphosphate farnesyltransferase 1	2.5.1.21	squalene synthase
+FDFT1	2.5.1.21	squalene synthase
+farnesyl-diphosphate farnesyltransferase	2.5.1.21	squalene synthase
+gene name	2.5.1.21	squalene synthase
+gene name	2.5.1.21	squalene synthase
+BbSS	2.5.1.21	squalene synthase
+farnesyl-diphosphate:farnesyldiphosphate farnesyltransferase	2.5.1.21	squalene synthase
+hSQS	2.5.1.21	squalene synthase
+squalene synthase 1	2.5.1.21	squalene synthase
+SQS1	2.5.1.21	squalene synthase
+SSN	2.5.1.21	squalene synthase
+SSase	2.5.1.21	squalene synthase
+SSL	2.5.1.21	squalene synthase
+squalene synthase-like enzyme	2.5.1.21	squalene synthase
+LOS	2.5.1.21	squalene synthase
+lycopaoctaene synthase	2.5.1.21	squalene synthase
+SQase	2.5.1.21	squalene synthase
+dt-ySQase	2.5.1.21	squalene synthase
+Erg9	2.5.1.21	squalene synthase
+spermidine aminopropyltransferase	2.5.1.22	spermine synthase
+aminopropyltransferase, spermidine	2.5.1.22	spermine synthase
+spermine synthetase	2.5.1.22	spermine synthase
+synthase, spermine	2.5.1.22	spermine synthase
+SpmSyn	2.5.1.22	spermine synthase
+SMS	2.5.1.22	spermine synthase
+highly specificaminopropyltransferase	2.5.1.22	spermine synthase
+SpmS	2.5.1.22	spermine synthase
+ACL5	2.5.1.22	spermine synthase
+Spm synthase	2.5.1.22	spermine synthase
+SPMS1	2.5.1.22	spermine synthase
+spermine synthase 1	2.5.1.22	spermine synthase
+propylaminc transferase	2.5.1.23	sym-norspermidine synthase
+HbSpe 1	2.5.1.23	sym-norspermidine synthase
+synthase, discadenine	2.5.1.24	discadenine synthase
+discadenine synthetase	2.5.1.24	discadenine synthase
+alkyldihydroxyacetonephosphate synthase	2.5.1.26	alkylglycerone-phosphate synthase
+alkyldihydroxyacetonephosphate synthetase	2.5.1.26	alkylglycerone-phosphate synthase
+synthase, alkylglycerone phosphate	2.5.1.26	alkylglycerone-phosphate synthase
+synthetase, alkyldihydroxyacetone phosphate	2.5.1.26	alkylglycerone-phosphate synthase
+alkyl dihydroxyacetone phosphate synthase	2.5.1.26	alkylglycerone-phosphate synthase
+alkyl dihydroxyacetone phosphate synthetase	2.5.1.26	alkylglycerone-phosphate synthase
+alkyldihydroxyacetone phosphate synthase	2.5.1.26	alkylglycerone-phosphate synthase
+alkyl DHAP synthetase	2.5.1.26	alkylglycerone-phosphate synthase
+alkyl-DHAP	2.5.1.26	alkylglycerone-phosphate synthase
+alkyl-dihydroxyacetonephosphate synthase	2.5.1.26	alkylglycerone-phosphate synthase
+ADPS	2.5.1.26	alkylglycerone-phosphate synthase
+ADS	2.5.1.26	alkylglycerone-phosphate synthase
+3-deoxy-D-arabino-heptulosonate 7-phosphate synthase	2.5.1.26	alkylglycerone-phosphate synthase
+DHAP-S	2.5.1.26	alkylglycerone-phosphate synthase
+alkylglyceronephosphate synthase	2.5.1.26	alkylglycerone-phosphate synthase
+alkylglycerone phosphate synthase	2.5.1.26	alkylglycerone-phosphate synthase
+alkyl-dihydroxyacetonephosphate-synthase	2.5.1.26	alkylglycerone-phosphate synthase
+AGPS	2.5.1.26	alkylglycerone-phosphate synthase
+cytokinin synthase	2.5.1.27	adenylate dimethylallyltransferase
+isopentenyltransferase, adenylate	2.5.1.27	adenylate dimethylallyltransferase
+2-isopentenyl-diphosphate:AMP DELTA2-isopentenyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+dimethylallylpyrophosphate:5'-AMP transferase	2.5.1.27	adenylate dimethylallyltransferase
+DMA transferase	2.5.1.27	adenylate dimethylallyltransferase
+dimethylallyl-diphosphate:AMP DELTA2-isopentenyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+IPT1	2.5.1.27	adenylate dimethylallyltransferase
+adenylate isopentenyl transferase	2.5.1.27	adenylate dimethylallyltransferase
+AIPT	2.5.1.27	adenylate dimethylallyltransferase
+adenylate isopentenyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+OSIPT1	2.5.1.27	adenylate dimethylallyltransferase
+adenosine phosphate isopentenyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+OSIPT3	2.5.1.27	adenylate dimethylallyltransferase
+adenylate isopentenyltransferase-ATP complex fromHumulus lupulus	2.5.1.27	adenylate dimethylallyltransferase
+isopentenyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+AIPT1	2.5.1.27	adenylate dimethylallyltransferase
+adenylate dimethylallyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+adenylate-type isopentenyl transferase	2.5.1.27	adenylate dimethylallyltransferase
+adenylate IPT	2.5.1.27	adenylate dimethylallyltransferase
+gene name	2.5.1.27	adenylate dimethylallyltransferase
+AtIPT1	2.5.1.27	adenylate dimethylallyltransferase
+ATP/ADP isopentenyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+AtIPT4	2.5.1.27	adenylate dimethylallyltransferase
+AtIPT3	2.5.1.27	adenylate dimethylallyltransferase
+AtIPT5	2.5.1.27	adenylate dimethylallyltransferase
+AtIPT7	2.5.1.27	adenylate dimethylallyltransferase
+AtITP1	2.5.1.27	adenylate dimethylallyltransferase
+DMAPP:ATP/ADP isppentenyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+AtIPT	2.5.1.27	adenylate dimethylallyltransferase
+adenosine phosphate-isopentenyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+DMAPP:AMP isopentenyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+IPT	2.5.1.27	adenylate dimethylallyltransferase
+Tmr	2.5.1.27	adenylate dimethylallyltransferase
+adenosine phosphate_isopentenyltransferase	2.5.1.27	adenylate dimethylallyltransferase
+Tzs	2.5.1.27	adenylate dimethylallyltransferase
+isopentenyl transferase	2.5.1.27	adenylate dimethylallyltransferase
+SAG12-IPT	2.5.1.27	adenylate dimethylallyltransferase
+neryl-diphosphate synthase	2.5.1.28	dimethylallylcistransferase
+neryl diphosphate synthase	2.5.1.28	dimethylallylcistransferase
+short-chain CPT	2.5.1.28	dimethylallylcistransferase
+short-chain cis-prenyldiphosphate synthase	2.5.1.28	dimethylallylcistransferase
+NDPS1	2.5.1.28	dimethylallylcistransferase
+neryl diphosphate synthase 1	2.5.1.28	dimethylallylcistransferase
+farnesyltransferase	2.5.1.29	geranylgeranyl diphosphate synthase
+geranylgeranyl-PP synthetase	2.5.1.29	geranylgeranyl diphosphate synthase
+synthetase, geranylgeranyl pyrophosphate	2.5.1.29	geranylgeranyl diphosphate synthase
+IdsA	2.5.1.29	geranylgeranyl diphosphate synthase
+gene name	2.5.1.29	geranylgeranyl diphosphate synthase
+type II geranylgeranyl diphosphate synthase	2.5.1.29	geranylgeranyl diphosphate synthase
+geranylgeranyl-pyrophosphate synthase	2.5.1.29	geranylgeranyl diphosphate synthase
+GGPPsynthase	2.5.1.29	geranylgeranyl diphosphate synthase
+geranylgeranyl pyrophosphate synthase	2.5.1.29	geranylgeranyl diphosphate synthase
+genename	2.5.1.29	geranylgeranyl diphosphate synthase
+the enzyme belongs to a group ofshort-chain prenyltransferases	2.5.1.29	geranylgeranyl diphosphate synthase
+GgsA	2.5.1.29	geranylgeranyl diphosphate synthase
+PaxG	2.5.1.29	geranylgeranyl diphosphate synthase
+GgsB	2.5.1.29	geranylgeranyl diphosphate synthase
+geranylgeranyl diphosphate synthase	2.5.1.29	geranylgeranyl diphosphate synthase
+geranylgeranyl diphosphate synthase 11	2.5.1.29	geranylgeranyl diphosphate synthase
+UniProt	2.5.1.29	geranylgeranyl diphosphate synthase
+gene name	2.5.1.29	geranylgeranyl diphosphate synthase
+geranylgeranyl diphosphate synthase 1	2.5.1.29	geranylgeranyl diphosphate synthase
+trans-prenyl diphosphate synthase	2.5.1.29	geranylgeranyl diphosphate synthase
+Tk-IdsA	2.5.1.29	geranylgeranyl diphosphate synthase
+bifunctional enzyme EC2.5.1.29/EC2.5.1.10	2.5.1.29	geranylgeranyl diphosphate synthase
+leaf-specific geranylgeranyl pyrophosphate synthase	2.5.1.29	geranylgeranyl diphosphate synthase
+GGSP1	2.5.1.29	geranylgeranyl diphosphate synthase
+GGDPS	2.5.1.29	geranylgeranyl diphosphate synthase
+GGPS	2.5.1.29	geranylgeranyl diphosphate synthase
+bifunctionalenzyme	2.5.1.29	geranylgeranyl diphosphate synthase
+TgFPPS	2.5.1.29	geranylgeranyl diphosphate synthase
+CcGGDPS1	2.5.1.29	geranylgeranyl diphosphate synthase
+CcGGDPS2	2.5.1.29	geranylgeranyl diphosphate synthase
+GGPPase	2.5.1.29	geranylgeranyl diphosphate synthase
+geranylgeranyl pyrophosphate synthetase	2.5.1.29	geranylgeranyl diphosphate synthase
+GGPP-S	2.5.1.29	geranylgeranyl diphosphate synthase
+isoprenyl diphosphate synthase	2.5.1.29	geranylgeranyl diphosphate synthase
+GGs1	2.5.1.29	geranylgeranyl diphosphate synthase
+gene name	2.5.1.29	geranylgeranyl diphosphate synthase
+locus name	2.5.1.29	geranylgeranyl diphosphate synthase
+type-III GGPPS	2.5.1.29	geranylgeranyl diphosphate synthase
+GGPPS 1	2.5.1.29	geranylgeranyl diphosphate synthase
+GGPPS 727	2.5.1.29	geranylgeranyl diphosphate synthase
+GGPPS 2	2.5.1.29	geranylgeranyl diphosphate synthase
+GGPPS 191	2.5.1.29	geranylgeranyl diphosphate synthase
+type-III geranylgeranyl pyrophosphate synthase	2.5.1.29	geranylgeranyl diphosphate synthase
+short-chain type-III GGPP	2.5.1.29	geranylgeranyl diphosphate synthase
+GGPPS 3	2.5.1.29	geranylgeranyl diphosphate synthase
+GGPPS 595	2.5.1.29	geranylgeranyl diphosphate synthase
+gene name	2.5.1.29	geranylgeranyl diphosphate synthase
+EgcrtE	2.5.1.29	geranylgeranyl diphosphate synthase
+PfFPPS	2.5.1.29	geranylgeranyl diphosphate synthase
+PfGGPPS	2.5.1.29	geranylgeranyl diphosphate synthase
+gene name	2.5.1.29	geranylgeranyl diphosphate synthase
+gene name	2.5.1.29	geranylgeranyl diphosphate synthase
+pyrophosphorylase, thiamin phosphate	2.5.1.3	thiamine phosphate synthase
+thiamin phosphate pyrophosphorylase	2.5.1.3	thiamine phosphate synthase
+thiamine monophosphate pyrophosphorylase	2.5.1.3	thiamine phosphate synthase
+thiamine phosphate pyrophosphorylase	2.5.1.3	thiamine phosphate synthase
+thiaminephosphate pyrophosphorylase	2.5.1.3	thiamine phosphate synthase
+TMP-PPase	2.5.1.3	thiamine phosphate synthase
+thiamin-phosphate pyrophosphorylase	2.5.1.3	thiamine phosphate synthase
+thiamine-phosphate synthase	2.5.1.3	thiamine phosphate synthase
+TMP pyrophosphorylase	2.5.1.3	thiamine phosphate synthase
+thiamine-phosphate pyrophosphorylase	2.5.1.3	thiamine phosphate synthase
+2-methyl-4-amino-5-hydroxymethylpyrimidinepyrophosphate:4-methyl-5-(2'phosphoethyl)-thiazole 2-methyl-4-aminopyrimidine-5-methenyltransferase	2.5.1.3	thiamine phosphate synthase
+thiamine-phosphate diphosphorylase	2.5.1.3	thiamine phosphate synthase
+TMPS	2.5.1.3	thiamine phosphate synthase
+bifunctional enzyme	2.5.1.3	thiamine phosphate synthase
+locus name	2.5.1.3	thiamine phosphate synthase
+YjbQ	2.5.1.3	thiamine phosphate synthase
+locus name	2.5.1.3	thiamine phosphate synthase
+locus name	2.5.1.3	thiamine phosphate synthase
+locus name	2.5.1.3	thiamine phosphate synthase
+ThiN protein	2.5.1.3	thiamine phosphate synthase
+ThiL	2.5.1.3	thiamine phosphate synthase
+gene name	2.5.1.3	thiamine phosphate synthase
+thiamine phosphate synthase	2.5.1.3	thiamine phosphate synthase
+TPS	2.5.1.3	thiamine phosphate synthase
+thiamin phosphate synthase	2.5.1.3	thiamine phosphate synthase
+bifunctional enzyme with hydroxyethylthiazole kinase andthiamine-phosphate pyrophosphorylase activity	2.5.1.3	thiamine phosphate synthase
+gene name	2.5.1.3	thiamine phosphate synthase
+bifunctional TMPdiphosphorylase/HET kinase enzyme	2.5.1.3	thiamine phosphate synthase
+TMPPase	2.5.1.3	thiamine phosphate synthase
+thiamin monophosphate pyrophosphorylase	2.5.1.3	thiamine phosphate synthase
+heptaprenyl pyrophosphate synthetase	2.5.1.30	heptaprenyl diphosphate synthase
+HepPS	2.5.1.30	heptaprenyl diphosphate synthase
+heptaprenylpyrophosphate synthetase	2.5.1.30	heptaprenyl diphosphate synthase
+HepPP synthase	2.5.1.30	heptaprenyl diphosphate synthase
+bactoprenyl-diphosphate synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+C55-OO synthetase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+C55PP synthetase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+cis,polyprenyl diphosphate synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+CPDS	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+DDPPs	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+dehydrodolichyl diphosphate synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+di-trans,poly-cis-undecaprenyl-diphosphate synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+synthetase, undecaprenyl pyrophosphate	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+undecaprenyl-diphosphate synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+undecaprenyl diphosphate synthetase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+Z-prenyl diphosphate synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+undecaprenyl-pyrophosphate synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+UPS	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+cis-prenyl chain elongating enzyme	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+di-trans-poly-cis-decaprenyl cistransferase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+gene name	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+undecaprenyl diphosphate synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+undecaprenyl pyrophosphate synthetase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+undecaprenyl pyrophosphate synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+cis-type undecaprenyl pyrophosphate synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+UPP synthetase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+di-trans,poly-cis-decaprenylcistransferase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+cis-type enzyme	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+UPP synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+UPP, C55 synthase	2.5.1.31	ditrans,polycis-undecaprenyl-diphosphate synthase
+prephytoene-diphosphate synthase	2.5.1.32	15-cis-phytoene synthase
+phytoene-synthetase	2.5.1.32	15-cis-phytoene synthase
+synthetase, phytoene	2.5.1.32	15-cis-phytoene synthase
+phytoene synthetase	2.5.1.32	15-cis-phytoene synthase
+Psase	2.5.1.32	15-cis-phytoene synthase
+geranylgeranyl-diphosphate geranylgeranyltransferase	2.5.1.32	15-cis-phytoene synthase
+CitPsy	2.5.1.32	15-cis-phytoene synthase
+gene name	2.5.1.32	15-cis-phytoene synthase
+gene name	2.5.1.32	15-cis-phytoene synthase
+involved in isoprenoid biosynthetic pathway	2.5.1.32	15-cis-phytoene synthase
+gene name	2.5.1.32	15-cis-phytoene synthase
+expresses three different class I PSY	2.5.1.32	15-cis-phytoene synthase
+expresses three different class I PSY	2.5.1.32	15-cis-phytoene synthase
+expresses three different class I PSY	2.5.1.32	15-cis-phytoene synthase
+PSY1a	2.5.1.32	15-cis-phytoene synthase
+PSY1b	2.5.1.32	15-cis-phytoene synthase
+AtPSY	2.5.1.32	15-cis-phytoene synthase
+EgcrtB	2.5.1.32	15-cis-phytoene synthase
+fruit-specific phytoene synthase	2.5.1.32	15-cis-phytoene synthase
+phytoene synthase 1	2.5.1.32	15-cis-phytoene synthase
+dimethylallyltransferase, tryptophan	2.5.1.34	4-dimethylallyltryptophan synthase
+dimethylallylpyrophosphate:L-tryptophan dimethylallyltransferase	2.5.1.34	4-dimethylallyltryptophan synthase
+dimethylallylpyrophosphate:tryptophan dimethylallyltransferase	2.5.1.34	4-dimethylallyltryptophan synthase
+dimethylallyltryptophan synthetase	2.5.1.34	4-dimethylallyltryptophan synthase
+dimethylallylpyrophosphate:tryptophan dimethylallyl transferase	2.5.1.34	4-dimethylallyltryptophan synthase
+DMAT synthetase	2.5.1.34	4-dimethylallyltryptophan synthase
+4-(gamma,gamma-dimethylallyl)tryptophan synthase	2.5.1.34	4-dimethylallyltryptophan synthase
+DmaW	2.5.1.34	4-dimethylallyltryptophan synthase
+4-DMATS	2.5.1.34	4-dimethylallyltryptophan synthase
+DMAT synthase	2.5.1.34	4-dimethylallyltryptophan synthase
+4-dimethylallyltryptophan synthase	2.5.1.34	4-dimethylallyltryptophan synthase
+DMATS	2.5.1.34	4-dimethylallyltryptophan synthase
+dimethylallyl-tryptophan synthase	2.5.1.34	4-dimethylallyltryptophan synthase
+C4-prenyltransferase	2.5.1.34	4-dimethylallyltryptophan synthase
+dimethylallyltryptophan synthase	2.5.1.34	4-dimethylallyltryptophan synthase
+FgaPT2	2.5.1.34	4-dimethylallyltryptophan synthase
+7-DMATS	2.5.1.34	4-dimethylallyltryptophan synthase
+7-dimethylallyltryptophan synthase	2.5.1.34	4-dimethylallyltryptophan synthase
+tryptophan C4-prenyltransferase	2.5.1.34	4-dimethylallyltryptophan synthase
+tryptophan C4-PT	2.5.1.34	4-dimethylallyltryptophan synthase
+MaPT	2.5.1.34	4-dimethylallyltryptophan synthase
+dimethylallyltransferase, aspulvinone	2.5.1.35	aspulvinone dimethylallyltransferase
+dimethylallyl pyrophosphate:aspulvinone dimethylallyltransferase	2.5.1.35	aspulvinone dimethylallyltransferase
+glyceollin synthase	2.5.1.36	trihydroxypterocarpan dimethylallyltransferase
+dimethylallytransferase, trihydroxypterocarpan	2.5.1.36	trihydroxypterocarpan dimethylallyltransferase
+dimethylallylpyrophosphate:3,6a,9-trihydroxypterocarpandimethylallyltransferase	2.5.1.36	trihydroxypterocarpan dimethylallyltransferase
+dimethylallylpyrophosphate:trihydroxypterocarpan dimethylallyltransferase	2.5.1.36	trihydroxypterocarpan dimethylallyltransferase
+dimethylallyl-diphosphate:(6aS,11aS)-3,6a,9-trihydroxypterocarpandimethylallyltransferase	2.5.1.36	trihydroxypterocarpan dimethylallyltransferase
+G4DT	2.5.1.36	trihydroxypterocarpan dimethylallyltransferase
+pterocarpan 4-dimethylallyltransferase	2.5.1.36	trihydroxypterocarpan dimethylallyltransferase
+(6aS,11aS)-3,9,6a-trihydroxypterocarpan [(2)-glycinol]4-dimethylallyltransferase	2.5.1.36	trihydroxypterocarpan dimethylallyltransferase
+glycinol 4-dimethylallyltransferase	2.5.1.36	trihydroxypterocarpan dimethylallyltransferase
+aminocarboxypropyltransferase, nocardicin	2.5.1.38	isonocardicin synthase
+nocardicin aminocarboxypropyltransferase	2.5.1.38	isonocardicin synthase
+dimethylallyltransferase, p-hydroxybenzoate poly-	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+p-hydroxybenzoate dimethylallyltransferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+p-hydroxybenzoic acid-polyprenyl transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+p-hydroxybenzoic-polyprenyl transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+p-hydroxybenzoate:polyprenyltransferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+PPT	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+p-hydroxybenzoate polyprenyltransferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+OsPPT1a	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+p-hydroxybenzoate:polyprenyl transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+para-hydroxybenzoate-polyprenyl transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+4HPT	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+4-hydroxybenzoate polyprenyl diphosphate transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+4-hydroxybenzoate transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+4-hydroxybenzoate:polyprenyl transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+gene name	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+4-hydroxybenzoic acid oligoprenyltransferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+4-hydroxybenzoate octaprenyltransferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+very similar to the yeast COQ2 gene	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+p-hydroxybenzoate:octaprenyltransferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+gene name	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+polyprenyl 4-hydroxybenzoate transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+Coq2p	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+OH-benzoate polyprenyltransferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+4-parahydroxybenzoate: polyprenyl transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+PHB-polyprenyltransferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+4-para-hydroxybenzoate:polyprenyl transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+NPHB transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+nonaprenyl-4-hydroxybenzoate transferase	2.5.1.39	4-hydroxybenzoate polyprenyltransferase
+cyclotransferase, adenosylmethionine	2.5.1.4	adenosylmethionine cyclotransferase
+adenosylmethioninase	2.5.1.4	adenosylmethionine cyclotransferase
+prenyltransferase	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+geranylgeranyltransferase, geranylgeranyloxyglycerol phosphate	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+geranylgeranyltransferase II	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+glycerol phosphate feranylgeranyltransferase	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+geranylgeranyl-transferase	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+geranylgeranylglycerol-phosphate geranylgeranyltransferase	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+geranylgeranyl diphosphate:sn-3-O-(geranylgeranyl)glycerol 1-phosphategeranylgeranyltransferase	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+(S)-3-O-geranylgeranylglycerylphosphate	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+((S)-GGGP) synthase	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+GGGP synthase	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+geranylgeranylglyceryl phosphate synthase	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+(S)-3-O-geranylgeranylglyceryl phosphate synthase	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+GGGPS	2.5.1.41	phosphoglycerol geranylgeranyltransferase
+geranylgeranyltransferase, geranylgeranyloxyglycerol phosphate	2.5.1.42	geranylgeranylglycerol-phosphate geranylgeranyltransferase
+geranylgeranyltransferase II	2.5.1.42	geranylgeranylglycerol-phosphate geranylgeranyltransferase
+(S)-2,3-di-O-geranylgeranylglyceryl phosphate synthase	2.5.1.42	geranylgeranylglycerol-phosphate geranylgeranyltransferase
+DGGGP synthase	2.5.1.42	geranylgeranylglycerol-phosphate geranylgeranyltransferase
+DGGGPS	2.5.1.42	geranylgeranylglycerol-phosphate geranylgeranyltransferase
+UbiA-2 protein	2.5.1.42	geranylgeranylglycerol-phosphate geranylgeranyltransferase
+synthase, nicotianamine	2.5.1.43	nicotianamine synthase
+chloronerva	2.5.1.43	nicotianamine synthase
+HvNAS7	2.5.1.43	nicotianamine synthase
+S-adenosyl-L-methionine:S-adenosyl-L-methionine:S-adenosyl-methionine3-amino-3-carboxypropyltransferase	2.5.1.43	nicotianamine synthase
+NASHOR2	2.5.1.43	nicotianamine synthase
+HvNAS9	2.5.1.43	nicotianamine synthase
+HvNAS8	2.5.1.43	nicotianamine synthase
+HvNAS2	2.5.1.43	nicotianamine synthase
+HvNAS3	2.5.1.43	nicotianamine synthase
+HvNAS4	2.5.1.43	nicotianamine synthase
+HvNAS6	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+NAS	2.5.1.43	nicotianamine synthase
+LjNAS1	2.5.1.43	nicotianamine synthase
+AtNAS1	2.5.1.43	nicotianamine synthase
+AtNAS	2.5.1.43	nicotianamine synthase
+LjNAS2	2.5.1.43	nicotianamine synthase
+AtNAS2	2.5.1.43	nicotianamine synthase
+AtNAS3	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+nicotianamine synthase 4	2.5.1.43	nicotianamine synthase
+LeNAS	2.5.1.43	nicotianamine synthase
+MtNAS	2.5.1.43	nicotianamine synthase
+nicotianamine synthase	2.5.1.43	nicotianamine synthase
+NA synthase 2	2.5.1.43	nicotianamine synthase
+OsNA S2	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+HvNAS1	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+MxNAS2	2.5.1.43	nicotianamine synthase
+Arabidopsis thaliana contains four NAS genes	2.5.1.43	nicotianamine synthase
+Arabidopsis thaliana contains four NAS genes	2.5.1.43	nicotianamine synthase
+Arabidopsis thaliana contains four NAS genes	2.5.1.43	nicotianamine synthase
+Arabidopsis thaliana contains four NAS genes	2.5.1.43	nicotianamine synthase
+NA synthase	2.5.1.43	nicotianamine synthase
+OsNAS1	2.5.1.43	nicotianamine synthase
+gene name	2.5.1.43	nicotianamine synthase
+OsNAS3	2.5.1.43	nicotianamine synthase
+nicotianamine synthase 2	2.5.1.43	nicotianamine synthase
+synthase, homospermidine	2.5.1.44	homospermidine synthase
+HSPD synthase	2.5.1.44	homospermidine synthase
+BvHSS	2.5.1.44	homospermidine synthase
+homospermidine synthase orthologue	2.5.1.44	homospermidine synthase
+HSS orthologue	2.5.1.44	homospermidine synthase
+HSS	2.5.1.44	homospermidine synthase
+synthase, homospermidine	2.5.1.45	homospermidine synthase (spermidine-specific)
+synthase, homospermidine (Senecio vernalis root gene HSS1)	2.5.1.45	homospermidine synthase (spermidine-specific)
+homospermidine synthase	2.5.1.45	homospermidine synthase (spermidine-specific)
+HSS	2.5.1.45	homospermidine synthase (spermidine-specific)
+synthase, deoxyhypusine	2.5.1.46	deoxyhypusine synthase
+deoxyhypusine synthase (Caulobacter crescentus gene CC0359)	2.5.1.46	deoxyhypusine synthase
+deoxyhypusine synthase (Halobacterium strain NRC-1 gene dhs)	2.5.1.46	deoxyhypusine synthase
+deoxyhypusine synthase (human clone 30649 gene DHPS subunit reduced)	2.5.1.46	deoxyhypusine synthase
+deoxyhypusine synthase (Nicotiana tabacum gene DHS1)	2.5.1.46	deoxyhypusine synthase
+deoxyhypusine synthase (Senecio vernalis gene DHS1)	2.5.1.46	deoxyhypusine synthase
+gene name	2.5.1.46	deoxyhypusine synthase
+DHS20	2.5.1.46	deoxyhypusine synthase
+Crotalaria juncea contains 2 functional DHS: DHS1 andDHS2	2.5.1.46	deoxyhypusine synthase
+Crotalaria juncea contains 2 functional DHS: DHS1 andDHS2	2.5.1.46	deoxyhypusine synthase
+DHS34	2.5.1.46	deoxyhypusine synthase
+gene name	2.5.1.46	deoxyhypusine synthase
+gene name	2.5.1.46	deoxyhypusine synthase
+deoxyhypusine synthase	2.5.1.46	deoxyhypusine synthase
+TbDHSp	2.5.1.46	deoxyhypusine synthase
+CpDHS	2.5.1.46	deoxyhypusine synthase
+deoxyhypusinesynthase	2.5.1.46	deoxyhypusine synthase
+TbDHSc	2.5.1.46	deoxyhypusine synthase
+Dys1p	2.5.1.46	deoxyhypusine synthase
+Dys1	2.5.1.46	deoxyhypusine synthase
+CSase	2.5.1.47	cysteine synthase
+O-acetylserine (Thiol)-lyase	2.5.1.47	cysteine synthase
+O-acetyl-L-serine acetate-lyase (adding hydrogen sulfide)	2.5.1.47	cysteine synthase
+synthase, cysteine	2.5.1.47	cysteine synthase
+cysteine synthetase	2.5.1.47	cysteine synthase
+acetylserine sulfhydrylase	2.5.1.47	cysteine synthase
+O-acetyl-L-serine sulfohydrolase	2.5.1.47	cysteine synthase
+O-acetyl-L-serine(thiol)lyase	2.5.1.47	cysteine synthase
+O-acetylserine-O-acetylhomoserine sulfhydro-lyase	2.5.1.47	cysteine synthase
+S-sulfocysteine synthase	2.5.1.47	cysteine synthase
+OAS Shase	2.5.1.47	cysteine synthase
+O-acetylserine (thiol)lyase	2.5.1.47	cysteine synthase
+EC 4.2.99.8	2.5.1.47	cysteine synthase
+OASS-A	2.5.1.47	cysteine synthase
+OASS	2.5.1.47	cysteine synthase
+cysteine synthase is a multiproteinassembly formed by the pyridoxal 5-phosphate-dependent enzymeO-acetylserine sulfhydrylase and serine acetyltransferase	2.5.1.47	cysteine synthase
+O-acetylserine sulfhydrylase-A	2.5.1.47	cysteine synthase
+produced under unaerobic grwoth conditions incontrast to OASS-A	2.5.1.47	cysteine synthase
+O-acetylserine sulfhydrylase-B	2.5.1.47	cysteine synthase
+O-acetylserine (thiol) lyase	2.5.1.47	cysteine synthase
+OASTL-A	2.5.1.47	cysteine synthase
+CS1	2.5.1.47	cysteine synthase
+EhCS1	2.5.1.47	cysteine synthase
+O-acetylserine thiol lyase	2.5.1.47	cysteine synthase
+Nt-OAS-TL	2.5.1.47	cysteine synthase
+serine acetyltransferase (EC 2.3.1.30)and O-acetylserine thiol lyase reversibly form the heterooligomeric Cyssynthase complex	2.5.1.47	cysteine synthase
+GsOAS-TL1	2.5.1.47	cysteine synthase
+GmOASTL4	2.5.1.47	cysteine synthase
+OAS-TL	2.5.1.47	cysteine synthase
+OASTL	2.5.1.47	cysteine synthase
+O-acetylserine(thiol)lyase	2.5.1.47	cysteine synthase
+O-acetyl-L-serine (thiol) lyase	2.5.1.47	cysteine synthase
+OASA1	2.5.1.47	cysteine synthase
+At-OASS	2.5.1.47	cysteine synthase
+CS26	2.5.1.47	cysteine synthase
+O-acetyl-L-serine sulfhydrylase	2.5.1.47	cysteine synthase
+EhCS	2.5.1.47	cysteine synthase
+TvCS1	2.5.1.47	cysteine synthase
+CysK1	2.5.1.47	cysteine synthase
+Cysteine synthase	2.5.1.47	cysteine synthase
+O-acetylserine sulfhydrylase A	2.5.1.47	cysteine synthase
+gene name	2.5.1.47	cysteine synthase
+CysM	2.5.1.47	cysteine synthase
+HiOASS	2.5.1.47	cysteine synthase
+beta-cyano-L-alanine synthase	2.5.1.47	cysteine synthase
+CS-B	2.5.1.47	cysteine synthase
+StOASTL B	2.5.1.47	cysteine synthase
+CSase B	2.5.1.47	cysteine synthase
+OAS-TL B	2.5.1.47	cysteine synthase
+CS-A	2.5.1.47	cysteine synthase
+StOASTL A	2.5.1.47	cysteine synthase
+CSase A	2.5.1.47	cysteine synthase
+OAS-TL A	2.5.1.47	cysteine synthase
+O-acetylserine (thiol)-lyase A	2.5.1.47	cysteine synthase
+UniProt	2.5.1.47	cysteine synthase
+O-acetylserine sulfhydrylase B	2.5.1.47	cysteine synthase
+O-acetylserine (thiol)-lyase B	2.5.1.47	cysteine synthase
+UniProt	2.5.1.47	cysteine synthase
+O -acetylserine (thiol)-lyase	2.5.1.47	cysteine synthase
+O-acetylserine-(thiol)lyase	2.5.1.47	cysteine synthase
+OAS thiol-lyases	2.5.1.47	cysteine synthase
+GmOAS-TL1	2.5.1.47	cysteine synthase
+GmOAS-TL2	2.5.1.47	cysteine synthase
+GmOAS-TL3	2.5.1.47	cysteine synthase
+GmOAS-TL4	2.5.1.47	cysteine synthase
+GmOAS-TL6	2.5.1.47	cysteine synthase
+GmOAS-TL7	2.5.1.47	cysteine synthase
+ATCC 23270 protein	2.5.1.47	cysteine synthase
+EhOASS	2.5.1.47	cysteine synthase
+HiOASS-A	2.5.1.47	cysteine synthase
+O-acetylserine sulfhydrylase isoenzyme B	2.5.1.47	cysteine synthase
+UniProt	2.5.1.47	cysteine synthase
+OASTL-A1	2.5.1.47	cysteine synthase
+protein ONSET OF LEAF DEATH 3	2.5.1.47	cysteine synthase
+old3-1	2.5.1.47	cysteine synthase
+(OAS-TL)-like protein	2.5.1.47	cysteine synthase
+OPSS	2.5.1.47	cysteine synthase
+DcsD	2.5.1.47	cysteine synthase
+sulfhydrylase/cysteine synthase	2.5.1.47	cysteine synthase
+cysl-2	2.5.1.47	cysteine synthase
+CYSL	2.5.1.47	cysteine synthase
+CysK2	2.5.1.47	cysteine synthase
+GYY4137	2.5.1.47	cysteine synthase
+LbrCS	2.5.1.47	cysteine synthase
+CSC	2.5.1.47	cysteine synthase
+SSC synthase	2.5.1.47	cysteine synthase
+O-acetyl-L-serine sulfhydrylase B	2.5.1.47	cysteine synthase
+UniProt	2.5.1.47	cysteine synthase
+OAS-TL C	2.5.1.47	cysteine synthase
+UniProt	2.5.1.47	cysteine synthase
+O3-acetyl-L-serine:hydrogen-sulfide2-amino-2-carboxyethyltransferase	2.5.1.47	cysteine synthase
+CS3	2.5.1.47	cysteine synthase
+EhCS3	2.5.1.47	cysteine synthase
+O-succinylhomoserine (Thiol)-lyase	2.5.1.48	cystathionine gamma-synthase
+homoserine O-transsuccinylase	2.5.1.48	cystathionine gamma-synthase
+O-succinyl-L-homoserine succinate-lyase (adding cysteine)	2.5.1.48	cystathionine gamma-synthase
+EC 4.2.99.9	2.5.1.48	cystathionine gamma-synthase
+cystathionine-gamma-synthase	2.5.1.48	cystathionine gamma-synthase
+synthase, cystathionine gamma-	2.5.1.48	cystathionine gamma-synthase
+O-succinylhomoserine synthetase	2.5.1.48	cystathionine gamma-synthase
+O-succinylhomoserine synthase	2.5.1.48	cystathionine gamma-synthase
+cystathionine synthase	2.5.1.48	cystathionine gamma-synthase
+cystathionine synthetase	2.5.1.48	cystathionine gamma-synthase
+CS,26	2.5.1.48	cystathionine gamma-synthase
+CGS1	2.5.1.48	cystathionine gamma-synthase
+AtCGS	2.5.1.48	cystathionine gamma-synthase
+gene name	2.5.1.48	cystathionine gamma-synthase
+homoserine transsuccinylase	2.5.1.48	cystathionine gamma-synthase
+HTS	2.5.1.48	cystathionine gamma-synthase
+CGS	2.5.1.48	cystathionine gamma-synthase
+methionine synthase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+O-acetyl-L-homoserine acetate-lyase (adding methanethiol)	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+O-acetyl-L-homoserine sulfhydrolase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+O-acetylhomoserine sulfhydrolase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+O-acetyl-L-homoserine (thiol)-lyase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+OAHS	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+OAH SHase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+oah2 gene product	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+formerly	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+gene name	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+gene name	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+OAS-OAH sulfhydrylase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+OAH-OAS sulfhydrylase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+O-acetylhomoserine sulfhydrylase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+OAH	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+AHS	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+gamma-cyano-alpha-aminobutyric acid synthase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+o-acetyl-L-homoserine sulfhydrylase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+OAH SHLase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+Homocysteine synthase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+OAH sulfhydrylase	2.5.1.49	O-acetylhomoserine aminocarboxypropyltransferase
+porphyran sulfatase	2.5.1.5	galactose-6-sulfurylase
+sulfatase, porphyran	2.5.1.5	galactose-6-sulfurylase
+galactose 6-sulfatase	2.5.1.5	galactose-6-sulfurylase
+galactose 6-sulfurylase	2.5.1.5	galactose-6-sulfurylase
+GALNS	2.5.1.5	galactose-6-sulfurylase
+galactose-6-sulfatase	2.5.1.5	galactose-6-sulfurylase
+D-galactose-6-sulfurylase	2.5.1.5	galactose-6-sulfurylase
+Gal-6-sulfurylase	2.5.1.5	galactose-6-sulfurylase
+beta-(9-cytokinin)-alanine synthase	2.5.1.50	zeatin 9-aminocarboxyethyltransferase
+O-acetyl-L-serine acetate-lyase (adding N6-substituted adenine)	2.5.1.50	zeatin 9-aminocarboxyethyltransferase
+lupinic acid synthase	2.5.1.50	zeatin 9-aminocarboxyethyltransferase
+synthetase, lupinate	2.5.1.50	zeatin 9-aminocarboxyethyltransferase
+lupinic acid synthetase	2.5.1.50	zeatin 9-aminocarboxyethyltransferase
+beta-(9-cytokinin)alanine synthase	2.5.1.50	zeatin 9-aminocarboxyethyltransferase
+4.2.99.13	2.5.1.50	zeatin 9-aminocarboxyethyltransferase
+Pyrazolealanine synthase	2.5.1.51	beta-pyrazolylalanine synthase
+beta-(1-Pyrazolyl)alanine synthase	2.5.1.51	beta-pyrazolylalanine synthase
+beta-pyrazolylalanine synthase (acetylserine)	2.5.1.51	beta-pyrazolylalanine synthase
+synthase, pyrazolealanine	2.5.1.51	beta-pyrazolylalanine synthase
+BPA-synthase	2.5.1.51	beta-pyrazolylalanine synthase
+beta-pyrazolealanine synthase	2.5.1.51	beta-pyrazolylalanine synthase
+pyrazolylalaninase	2.5.1.51	beta-pyrazolylalanine synthase
+EC 4.2.99.14	2.5.1.51	beta-pyrazolylalanine synthase
+synthase, L-mimosine	2.5.1.52	L-mimosine synthase
+O3-acetyl-L-serine acetate-lyase (adding 3,4-dihydroxypyridin-1-yl)	2.5.1.52	L-mimosine synthase
+EC 4.2.99.15	2.5.1.52	L-mimosine synthase
+O3-acetyl-L-serine acetate-lyase	2.5.1.53	uracilylalanine synthase
+willardiine synthase	2.5.1.53	uracilylalanine synthase
+isowillardiine synthase	2.5.1.53	uracilylalanine synthase
+synthase, uracilylalanine	2.5.1.53	uracilylalanine synthase
+Phospho-2-keto-3-deoxyheptonate aldolase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+aldolase, phospho-2-keto-3-deoxyheptanoate	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+2-dehydro-3-deoxy-phosphoheptanoate aldolase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+2-keto-3-deoxy-D-arabino-heptonic acid 7-phosphate synthetase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+3-deoxy-D-arabino-2-heptulosonic acid 7-phosphate synthetase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+3-deoxy-D-arabino-heptolosonate-7-phosphate synthetase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+3-deoxy-D-arabino-heptulosonate 7-phosphate synthetase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+7-phospho-2-keto-3-deoxy-D-arabino-heptonate D-erythrose-4-phosphatelyase (pyruvate-phosphorylating)	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+7-phospho-2-dehydro-3-deoxy-D-arabino-heptonateD-erythrose-4-phosphate-lyase (pyruvate-phosphorylating)	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+2-dehydro-3-deoxy-D-arabino-heptonate-7-phosphateD-erythrose-4-phosphate-lyase (pyruvate-phosphorylating)	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+2-dehydro-3-deoxy-phosphoheptonate aldolase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+D-erythrose-4-phosphate-lyase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+D-erythrose-4-phosphate-lyase (pyruvate-phosphorylating)	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAH7-P synthase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+KDPH synthase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+KDPH synthetase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+deoxy-D-arabino-heptulosonate-7-phosphate synthetase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+phospho-2-keto-3-deoxyheptanoate aldolase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+phospho-2-keto-3-deoxyheptonic aldolase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+phospho-2-oxo-3-deoxyheptonate aldolase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAHP(Phe)	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAHP synthase-tyr	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAHP synthase-trp	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAHP synthase-phe	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+EC 4.1.2.15	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+plastidic enzyme form	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+cytosolic enzyme form	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAH7PS	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+isozyme	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+isozyme	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+2 distinct homology classes: AroAI and AroAII, bothbeing found in bacteria and higher plant chloroplasts, AroAII can bedevided into 4 subgroups, phylogenetic evolution	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAHPS	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+AroA(Q)	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+3-deoxy-D-arabino-heptulosonate7-phosphate synthase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAH7-P synthase (phe)	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+3-deoxy-D-arabino heptulosonate 7-phosphate synthase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+AroFFR	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+3-deoxy-D-arabino-heptulosonic acid 7-phosphate synthase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAH7P	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAH7P synthase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+gene name	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DAHP synthase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+3-deoxy-D-arabinoheptulosonate 7-phosphate synthase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+3-deoxy-7-phosphoheptulonate synthase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+MtDS	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+mtDAH7Ps	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+locus name	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+3-deoxy-D-arabino-heptulosonate-7-phosphate synthase	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DHS1	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+gene name	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+OsDAHPS	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+Nme-DAH7PS	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+UniProt	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+TmaDAH7PS	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+Aro4p	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+DHS	2.5.1.54	3-deoxy-7-phosphoheptulonate synthase
+Phospho-2-dehydro-3-deoxyoctonate aldolase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+2-dehydro-3-deoxy-D-octonate-8-phosphate D-arabinose-5-phosphate-lyase(pyruvate-phosphorylating)	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+8-phospho-2-dehydro-3-deoxy-D-octonate D-arabinose-5-phosphate-lyase(pyruvate-phosporylating)	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+phospho-2-keto-3-deoxyoctonate aldolase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+aldolase, phospho-2-keto-3-deoxyoctonate	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+3-deoxyoctulosonic 8-phosphate synthetase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+2-keto-3-deoxy-8-phosphooctonic synthetase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+3-deoxy-D-mannooctulosonate-8-phosphate synthetase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+2-keto-3-deoxy-8-phosphooctonic acid synthetase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+3-deoxy-D-manno-octulosonate 8-phosphate synthetase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+KDO-8-P synthetase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+KDPO synthetase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+KDO8-P	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+3-deoxy-D-manno-octulosonic acid 8-phosphate synthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+3-deoxy-D-manno-2-octulosonic acid-8-phosphate synthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+NmeKDO8PS	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+AtkdsA2	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+3-deoxy-D-manno-2-octulosonate-8-phosphate synthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+3-deoxy-D-manno-octulosonate-8-phosphate synthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+formerly	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+KDO 8-phosphate synthetase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+Kdo8P synthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+KDO-8-P synthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+gene name	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+Kdo-8-phosphate synthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+3-deoxy-D-manno-2-octulosonate-8-phosphate synthases	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+KDO8P synthases	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+3-deoxy-D-manno-octulosonate 8-phosphate synthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+KDOPS	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+AtkdsA1	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+gene name	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+metal-independent 3-deoxy-D-manno-octulosonate 8-phosphatesynthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+metal-independent KDO8PS	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+gene name	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+3-eoxy-D-manno-octulosonate 8-phosphate synthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+HpKDO8PS	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+2-dehydro-3-deoxyphosphooctonate aldolase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+2-keto-3-deoxy-D-manno-octulosonate-8-phosphate synthase	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+KDO8PS	2.5.1.55	3-deoxy-8-phosphooctulonate synthase
+N-acetylneuraminate pyruvate-lyase (pyruvate-phosphorylating)	2.5.1.56	N-acetylneuraminate synthase
+synthase, N-acetylneuraminate	2.5.1.56	N-acetylneuraminate synthase
+N-acetylneuraminic acid condensing enzyme	2.5.1.56	N-acetylneuraminate synthase
+NANA condensing enzyme	2.5.1.56	N-acetylneuraminate synthase
+(NANA) condensing enzyme	2.5.1.56	N-acetylneuraminate synthase
+NeuAc synthase	2.5.1.56	N-acetylneuraminate synthase
+EC 4.1.3.19	2.5.1.56	N-acetylneuraminate synthase
+UniProt	2.5.1.56	N-acetylneuraminate synthase
+NeuB	2.5.1.56	N-acetylneuraminate synthase
+NeuB1	2.5.1.56	N-acetylneuraminate synthase
+N-acetylneuraminate lyase synthase	2.5.1.56	N-acetylneuraminate synthase
+NeuNAc synthase	2.5.1.56	N-acetylneuraminate synthase
+gene name	2.5.1.56	N-acetylneuraminate synthase
+NANAS	2.5.1.56	N-acetylneuraminate synthase
+NmeNANAS	2.5.1.56	N-acetylneuraminate synthase
+NANA synthase	2.5.1.56	N-acetylneuraminate synthase
+N-acetylneuraminic acid synthase	2.5.1.56	N-acetylneuraminate synthase
+N-acetylneuraminate-9-phosphate lyase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+N-acylneuraminate-9-phosphate pyruvate-lyase (pyruvate-phosphorylating)	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+N-acetylneuraminate-9-phosphate sialic acid 9-phosphate synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+sialic acid 9-phosphate synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+N-acetylneuraminate-9-phosphate synthetase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+EC 4.1.3.20	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+DmSAS	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+N-acetylneuraminate 9-phosphate synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+N-acetylneuraminic acid-9-phosphate synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+N-acetylneuraminic acid 9-phosphate synthetase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+Neu5Ac 9-phosphate synthetase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+NPS	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+N-acetylneuraminic acid 9-phosphate synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+Neu5Ac 9-phosphate synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+NANS	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+N-acetylneuraminic acid phosphate synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+sialic acid synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+SAS	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+NeuNAc-9-P synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+neuac-9-phosphate synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+NeuNAc phosphate synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+neu5ac-9-P synthase	2.5.1.57	N-acylneuraminate-9-phosphate synthase
+CAAX farnesyltransferase	2.5.1.58	protein farnesyltransferase
+farnesyltransferase, farnesyl pyrophosphate-protein	2.5.1.58	protein farnesyltransferase
+farnesyltransferase, protein	2.5.1.58	protein farnesyltransferase
+prenylprotein transferase	2.5.1.58	protein farnesyltransferase
+prenyltransferase	2.5.1.58	protein farnesyltransferase
+protein cysteine farnesyltransferase	2.5.1.58	protein farnesyltransferase
+FPT	2.5.1.58	protein farnesyltransferase
+RAS farnesyltransferase	2.5.1.58	protein farnesyltransferase
+farnesyltransferase	2.5.1.58	protein farnesyltransferase
+PFTase	2.5.1.58	protein farnesyltransferase
+TbFTase	2.5.1.58	protein farnesyltransferase
+Pf-PFT	2.5.1.58	protein farnesyltransferase
+PfPFT	2.5.1.58	protein farnesyltransferase
+AfFTase	2.5.1.58	protein farnesyltransferase
+FTase	2.5.1.58	protein farnesyltransferase
+EhFT	2.5.1.58	protein farnesyltransferase
+R-PFT	2.5.1.58	protein farnesyltransferase
+Ras protein farnesyltransferase	2.5.1.58	protein farnesyltransferase
+farnesyltransferase ternary complex part II	2.5.1.58	protein farnesyltransferase
+hFTase	2.5.1.58	protein farnesyltransferase
+farnesyl protein transferase	2.5.1.58	protein farnesyltransferase
+fptase	2.5.1.58	protein farnesyltransferase
+protein farnesyltransferase	2.5.1.58	protein farnesyltransferase
+rPFTase	2.5.1.58	protein farnesyltransferase
+protein prenyltransferase	2.5.1.58	protein farnesyltransferase
+prenyl transferase	2.5.1.58	protein farnesyltransferase
+rFTase	2.5.1.58	protein farnesyltransferase
+protein farnesyl transferase	2.5.1.58	protein farnesyltransferase
+PFT	2.5.1.58	protein farnesyltransferase
+yPFTase	2.5.1.58	protein farnesyltransferase
+protein-farnesyltransferase	2.5.1.58	protein farnesyltransferase
+rFPTase	2.5.1.58	protein farnesyltransferase
+protein geranylgeranyltransferase I	2.5.1.59	protein geranylgeranyltransferase type I
+protein geranylgeranyltransferase	2.5.1.59	protein geranylgeranyltransferase type I
+PGGT	2.5.1.59	protein geranylgeranyltransferase type I
+PGGTaseI	2.5.1.59	protein geranylgeranyltransferase type I
+geranylgeranyl protein transferase type I	2.5.1.59	protein geranylgeranyltransferase type I
+geranylgeranyltransferaseI	2.5.1.59	protein geranylgeranyltransferase type I
+CAAX geranylgeranyltransferase	2.5.1.59	protein geranylgeranyltransferase type I
+geranylgeranyltransferase-1	2.5.1.59	protein geranylgeranyltransferase type I
+mammalian GGTase-I	2.5.1.59	protein geranylgeranyltransferase type I
+protein geranylgeranyltransferase type I	2.5.1.59	protein geranylgeranyltransferase type I
+PGGT beta	2.5.1.59	protein geranylgeranyltransferase type I
+Ppggb	2.5.1.59	protein geranylgeranyltransferase type I
+type I protein geranylgeranyltransferase	2.5.1.59	protein geranylgeranyltransferase type I
+PGGT-I	2.5.1.59	protein geranylgeranyltransferase type I
+CaGGTase-I	2.5.1.59	protein geranylgeranyltransferase type I
+geranylgeranyltransferase-I	2.5.1.59	protein geranylgeranyltransferase type I
+GGTalpha	2.5.1.59	protein geranylgeranyltransferase type I
+geranylgeranyltransferase type-I	2.5.1.59	protein geranylgeranyltransferase type I
+GGTI	2.5.1.59	protein geranylgeranyltransferase type I
+GGT	2.5.1.59	protein geranylgeranyltransferase type I
+GGTbeta	2.5.1.59	protein geranylgeranyltransferase type I
+geranylgeranyltransferase type I	2.5.1.59	protein geranylgeranyltransferase type I
+GGTase-I	2.5.1.59	protein geranylgeranyltransferase type I
+CaaX prenyltransferase	2.5.1.59	protein geranylgeranyltransferase type I
+Ggtase-1	2.5.1.59	protein geranylgeranyltransferase type I
+gene name	2.5.1.59	protein geranylgeranyltransferase type I
+GGTaseI	2.5.1.59	protein geranylgeranyltransferase type I
+GGT I	2.5.1.59	protein geranylgeranyltransferase type I
+protein geranylgeranyltransferase-I	2.5.1.59	protein geranylgeranyltransferase type I
+PGGTase-I	2.5.1.59	protein geranylgeranyltransferase type I
+protein geranylgeranyltransferase type-I	2.5.1.59	protein geranylgeranyltransferase type I
+geranylgeranyltransferase I	2.5.1.59	protein geranylgeranyltransferase type I
+GGTase I	2.5.1.59	protein geranylgeranyltransferase type I
+type I enzyme	2.5.1.59	protein geranylgeranyltransferase type I
+PGGT I	2.5.1.59	protein geranylgeranyltransferase type I
+EC 2.4.2.13	2.5.1.6	methionine adenosyltransferase
+adenosylmethionine synthetase	2.5.1.6	methionine adenosyltransferase
+ATP-methionine adenosyltransferase	2.5.1.6	methionine adenosyltransferase
+methionine S-adenosyltransferase	2.5.1.6	methionine adenosyltransferase
+methionine-activating enzyme	2.5.1.6	methionine adenosyltransferase
+MAT	2.5.1.6	methionine adenosyltransferase
+methionine adenosyltransferase	2.5.1.6	methionine adenosyltransferase
+MetK	2.5.1.6	methionine adenosyltransferase
+AdoMet synthetase	2.5.1.6	methionine adenosyltransferase
+SAM synthase	2.5.1.6	methionine adenosyltransferase
+SAMS	2.5.1.6	methionine adenosyltransferase
+S-adenosylmethionine synthase	2.5.1.6	methionine adenosyltransferase
+SAM synthetase	2.5.1.6	methionine adenosyltransferase
+S-adenosylmethioninesynthetase	2.5.1.6	methionine adenosyltransferase
+S-adenosylmethionine synthetase A	2.5.1.6	methionine adenosyltransferase
+S-adenosylmethionine synthetase B	2.5.1.6	methionine adenosyltransferase
+MAT2	2.5.1.6	methionine adenosyltransferase
+S-adenosyl-Lmethionine synthetase	2.5.1.6	methionine adenosyltransferase
+catalytic subunit	2.5.1.6	methionine adenosyltransferase
+AdoMetS	2.5.1.6	methionine adenosyltransferase
+AdoMet synthease	2.5.1.6	methionine adenosyltransferase
+S-adenosyl-L-methionine synthetase	2.5.1.6	methionine adenosyltransferase
+pDS16	2.5.1.6	methionine adenosyltransferase
+SAM-s	2.5.1.6	methionine adenosyltransferase
+isozyme	2.5.1.6	methionine adenosyltransferase
+methionine adenosyltransferase II	2.5.1.6	methionine adenosyltransferase
+AdoMet synthase	2.5.1.6	methionine adenosyltransferase
+SMAT	2.5.1.6	methionine adenosyltransferase
+methionine adenosyl transferase 2A	2.5.1.6	methionine adenosyltransferase
+methionine adenosyltransferase 2beta	2.5.1.6	methionine adenosyltransferase
+regulatory subunit	2.5.1.6	methionine adenosyltransferase
+methionine adenosyltransferase 2A	2.5.1.6	methionine adenosyltransferase
+isoform	2.5.1.6	methionine adenosyltransferase
+S-adenosylmethionine-L-synthetase	2.5.1.6	methionine adenosyltransferase
+S-adenosylmethionine synthetase 2	2.5.1.6	methionine adenosyltransferase
+isozyme	2.5.1.6	methionine adenosyltransferase
+isozyme	2.5.1.6	methionine adenosyltransferase
+SAMS2	2.5.1.6	methionine adenosyltransferase
+locus name	2.5.1.6	methionine adenosyltransferase
+Mj-MAT	2.5.1.6	methionine adenosyltransferase
+locus name	2.5.1.6	methionine adenosyltransferase
+PfMAT	2.5.1.6	methionine adenosyltransferase
+gene name	2.5.1.6	methionine adenosyltransferase
+S-adenosylmethionine synthetase 1	2.5.1.6	methionine adenosyltransferase
+SAMS1	2.5.1.6	methionine adenosyltransferase
+isoform	2.5.1.6	methionine adenosyltransferase
+ATP: L-methionine S-adenosyltransferase	2.5.1.6	methionine adenosyltransferase
+geranylgeranyltransferase type II	2.5.1.60	protein geranylgeranyltransferase type II
+GGTaseII	2.5.1.60	protein geranylgeranyltransferase type II
+Rab GG transferase	2.5.1.60	protein geranylgeranyltransferase type II
+REP/GGTase	2.5.1.60	protein geranylgeranyltransferase type II
+protein geranylgeranyltransferase type-II	2.5.1.60	protein geranylgeranyltransferase type II
+PGGT-II	2.5.1.60	protein geranylgeranyltransferase type II
+beta subunit of Rab geranylgeranyl transferase	2.5.1.60	protein geranylgeranyltransferase type II
+Rab geranylgeranyl transferase	2.5.1.60	protein geranylgeranyltransferase type II
+Rab GGTase	2.5.1.60	protein geranylgeranyltransferase type II
+gene name	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+gene name	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+gene name	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+RGT alphabeta	2.5.1.60	protein geranylgeranyltransferase type II
+gene name	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+UniProt	2.5.1.60	protein geranylgeranyltransferase type II
+geranylgeranyltransferase II	2.5.1.60	protein geranylgeranyltransferase type II
+GGT2	2.5.1.60	protein geranylgeranyltransferase type II
+Rab geranylgeranyl-transferase	2.5.1.60	protein geranylgeranyltransferase type II
+GGTase-II	2.5.1.60	protein geranylgeranyltransferase type II
+RGGT	2.5.1.60	protein geranylgeranyltransferase type II
+Rab geranylgeranyltransferase	2.5.1.60	protein geranylgeranyltransferase type II
+RabGGTase	2.5.1.60	protein geranylgeranyltransferase type II
+Rab geranylgeranyltransferase type II	2.5.1.60	protein geranylgeranyltransferase type II
+RabGGT	2.5.1.60	protein geranylgeranyltransferase type II
+RAB-GGT	2.5.1.60	protein geranylgeranyltransferase type II
+synthase, uroporphyrinogen I	2.5.1.61	hydroxymethylbilane synthase
+uroporphyrinogen synthase	2.5.1.61	hydroxymethylbilane synthase
+pre-uroporphyrinogen synthase	2.5.1.61	hydroxymethylbilane synthase
+porphobilinogen ammonia-lyase (polymerizing)	2.5.1.61	hydroxymethylbilane synthase
+PBG-deaminase	2.5.1.61	hydroxymethylbilane synthase
+uroporphyrinogen synthetase	2.5.1.61	hydroxymethylbilane synthase
+preuroporphyrinogen synthetase	2.5.1.61	hydroxymethylbilane synthase
+HemC	2.5.1.61	hydroxymethylbilane synthase
+porphobilinogen deaminase	2.5.1.61	hydroxymethylbilane synthase
+PBG-D	2.5.1.61	hydroxymethylbilane synthase
+human porphobilinogen deaminase	2.5.1.61	hydroxymethylbilane synthase
+preuroporphyrinogen synthase	2.5.1.61	hydroxymethylbilane synthase
+human PBGD	2.5.1.61	hydroxymethylbilane synthase
+ubiquitous PBGD, espressed in all cells	2.5.1.61	hydroxymethylbilane synthase
+human non-erythropoietic PBGD isoform	2.5.1.61	hydroxymethylbilane synthase
+hydroxymethylbilane synthase	2.5.1.61	hydroxymethylbilane synthase
+hepatic porphobilinogen deaminase	2.5.1.61	hydroxymethylbilane synthase
+HMB synthase	2.5.1.61	hydroxymethylbilane synthase
+housekeeping, GenBank GQ850461, isolatedfrom liver	2.5.1.61	hydroxymethylbilane synthase
+housekeeping, truncated form, GenBankGQ850462, isolated from liver	2.5.1.61	hydroxymethylbilane synthase
+erythroid-specific, GenBank GQ850463,isolated from spleen	2.5.1.61	hydroxymethylbilane synthase
+erythroid-specific, GenBank GQ850464,isolated from spleen	2.5.1.61	hydroxymethylbilane synthase
+PGB-D	2.5.1.61	hydroxymethylbilane synthase
+gene name	2.5.1.61	hydroxymethylbilane synthase
+uroporphyrinogen I synthetase	2.5.1.61	hydroxymethylbilane synthase
+HMBS	2.5.1.61	hydroxymethylbilane synthase
+HMB-S	2.5.1.61	hydroxymethylbilane synthase
+formerly EC 4.3.1.8	2.5.1.61	hydroxymethylbilane synthase
+(HMB)-synthase	2.5.1.61	hydroxymethylbilane synthase
+PBGD	2.5.1.61	hydroxymethylbilane synthase
+PBG deaminase	2.5.1.61	hydroxymethylbilane synthase
+formerly	2.5.1.61	hydroxymethylbilane synthase
+uroporphyrinogen I synthase	2.5.1.61	hydroxymethylbilane synthase
+UPGI-S	2.5.1.61	hydroxymethylbilane synthase
+URO-S	2.5.1.61	hydroxymethylbilane synthase
+urogenI synthase	2.5.1.61	hydroxymethylbilane synthase
+synthase, chlorophyll	2.5.1.62	chlorophyll synthase
+chlorophyll synthetase	2.5.1.62	chlorophyll synthase
+chlorophyll a synthase	2.5.1.62	chlorophyll synthase
+gene name	2.5.1.62	chlorophyll synthase
+Chl synthase	2.5.1.62	chlorophyll synthase
+NtCHLG	2.5.1.62	chlorophyll synthase
+CHS	2.5.1.62	chlorophyll synthase
+Chl-synthase	2.5.1.62	chlorophyll synthase
+Chl synthetase	2.5.1.62	chlorophyll synthase
+Chl-synthetase	2.5.1.62	chlorophyll synthase
+chlorophyll synthase	2.5.1.62	chlorophyll synthase
+fluorinase, S-adenosyl-L-methionine	2.5.1.63	adenosyl-fluoride synthase
+SAM fluorinase	2.5.1.63	adenosyl-fluoride synthase
+5’-fluorodeoxyadenosine synthase	2.5.1.63	adenosyl-fluoride synthase
+5'-FDA synthase	2.5.1.63	adenosyl-fluoride synthase
+5'-FDAS	2.5.1.63	adenosyl-fluoride synthase
+fluorination enzyme	2.5.1.63	adenosyl-fluoride synthase
+5'-fluoro-5'-deoxyadenosine synthase	2.5.1.63	adenosyl-fluoride synthase
+5'-fluoro-5'-deoxy adenosine synthetase	2.5.1.63	adenosyl-fluoride synthase
+FDAS	2.5.1.63	adenosyl-fluoride synthase
+fluorinase enzyme	2.5.1.63	adenosyl-fluoride synthase
+flA protein	2.5.1.63	adenosyl-fluoride synthase
+adenosyl-fluoride synthase	2.5.1.63	adenosyl-fluoride synthase
+fluorinase	2.5.1.63	adenosyl-fluoride synthase
+5'-deoxy-5'-fluoroadenosine synthase	2.5.1.63	adenosyl-fluoride synthase
+gene name	2.5.1.63	adenosyl-fluoride synthase
+gene name	2.5.1.63	adenosyl-fluoride synthase
+CysM	2.5.1.65	O-phosphoserine sulfhydrylase
+O-phosphoserine specific cysteine synthase	2.5.1.65	O-phosphoserine sulfhydrylase
+gene name	2.5.1.65	O-phosphoserine sulfhydrylase
+O-acetylserine sulfhydrylase	2.5.1.65	O-phosphoserine sulfhydrylase
+O-acetyl-L-serine sulfhydrylase	2.5.1.65	O-phosphoserine sulfhydrylase
+OASS	2.5.1.65	O-phosphoserine sulfhydrylase
+O-phosphoserine(thiol)-lyase	2.5.1.65	O-phosphoserine sulfhydrylase
+Aeropyrum pernix K1, open reading frame	2.5.1.65	O-phosphoserine sulfhydrylase
+OPSS	2.5.1.65	O-phosphoserine sulfhydrylase
+ApOPSS	2.5.1.65	O-phosphoserine sulfhydrylase
+O-phospho-L-serine sulfhydrylase	2.5.1.65	O-phosphoserine sulfhydrylase
+S-sulfocysteine synthase	2.5.1.65	O-phosphoserine sulfhydrylase
+CysK2	2.5.1.65	O-phosphoserine sulfhydrylase
+O-phospho-L-serine-dependent S-sulfocysteine synthase	2.5.1.65	O-phosphoserine sulfhydrylase
+O-phosphoserine S-sulfocysteine synthase	2.5.1.65	O-phosphoserine sulfhydrylase
+N2-(2-carboxyethyl)arginine synthetase	2.5.1.66	N2-(2-carboxyethyl)arginine synthase
+CEA synthetase	2.5.1.66	N2-(2-carboxyethyl)arginine synthase
+N(2)-(2-carboxyethyl)arginine synthase	2.5.1.66	N2-(2-carboxyethyl)arginine synthase
+CEAS	2.5.1.66	N2-(2-carboxyethyl)arginine synthase
+carboxyethylarginine synthase	2.5.1.66	N2-(2-carboxyethyl)arginine synthase
+ceaS2	2.5.1.66	N2-(2-carboxyethyl)arginine synthase
+CeaS1	2.5.1.66	N2-(2-carboxyethyl)arginine synthase
+CPPase	2.5.1.67	chrysanthemyl diphosphate synthase
+FDS-5	2.5.1.67	chrysanthemyl diphosphate synthase
+CPP synthase	2.5.1.67	chrysanthemyl diphosphate synthase
+chrysanthemyl diphosphate synthase	2.5.1.67	chrysanthemyl diphosphate synthase
+CDS	2.5.1.67	chrysanthemyl diphosphate synthase
+CPP	2.5.1.67	chrysanthemyl diphosphate synthase
+CDS_CCI2	2.5.1.67	chrysanthemyl diphosphate synthase
+UniProt	2.5.1.67	chrysanthemyl diphosphate synthase
+cis-farnesyl diphosphate synthase	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+cis-FPS	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+short (C15) chain Z-isoprenyl diphosphate synthase	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+omega,E,Z-FPP	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+gene name	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+Z-FPP synthase	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+Mvan 4662	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+ZPT1	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+Z,E-FPP synthase	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+Z-farnesyl diphosphate synthase	2.5.1.68	(2Z,6E)-farnesyl diphosphate synthase
+CDS	2.5.1.69	lavandulyl diphosphate synthase
+FDS-5	2.5.1.69	lavandulyl diphosphate synthase
+LPPS	2.5.1.69	lavandulyl diphosphate synthase
+MurA transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UDP-N-acetylglucosamine enoylpyruvyltransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+enoylpyruvate transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+enoylpyruvatetransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+phosphoenolpyruvate-UDP-acetylglucosamine-3-enolpyruvyltransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+phosphoenolpyruvate:UDP-2-acetamido-2-deoxy-D-glucose2-enoyl-1-carboxyethyltransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+phosphoenolpyruvate:uridine diphosphate N-acetylglucosamineenolpyruvyltransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+phosphoenolpyruvate:uridine-5'-diphospho-N-acetyl-2-amino-2deoxyglucose-3-enolpyruvyltransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+phosphopyruvate-uridine diphosphoacetylglucosamine pyruvatetransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+pyruvatetransferase, phosphoenolpyruvate-uridinediphosphoacetylglucosamine	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+pyruvate-UDP-acetylglucosamine transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+pyruvate-uridine diphospho-N-acetylglucosamine transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+pyruvate-uridine diphospho-N-acetyl-glucosamine transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+pyruvic-uridine diphospho-N-acetylglucosaminyltransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+MurZ	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+recombinant enzyme	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UDP-N-acetylglucosamineenolpyruvyl transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UDP-GlcNAc enolpyruvyl transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UDP-N-acetylglucosamine-enolpyruvyl transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UDP-N-acetylglucosamine 1-carboxyvinyltransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UDP-NAG enolpyruvyl transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+enolpyruvyl UDP-GlcNAc synthase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UDP-N-acetylglucosamine 1-carboxyvinyl-transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UDP-N-acetylglucosamine enolpyruvyle transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+enol-pyruvyltransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+EPT	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UDP-N-acetylglucosamine enolpyruvyltransferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UNAG enolpyruvyl transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+MurAA	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+UDP-N-acetylglucosamine 1-carboxyvinyl transferase	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+phylogenetic tree	2.5.1.7	UDP-N-acetylglucosamine 1-carboxyvinyltransferase
+flavanone 8-dimethylallyltransferase	2.5.1.70	naringenin 8-dimethylallyltransferase
+N8DT-1	2.5.1.70	naringenin 8-dimethylallyltransferase
+naringenin 8-prenyltransferase	2.5.1.70	naringenin 8-dimethylallyltransferase
+N8DT	2.5.1.70	naringenin 8-dimethylallyltransferase
+gene name	2.5.1.70	naringenin 8-dimethylallyltransferase
+naringenin 8-dimethylallyltransferase/chalcone isomerase	2.5.1.70	naringenin 8-dimethylallyltransferase
+N8DT-3	2.5.1.70	naringenin 8-dimethylallyltransferase
+gene name	2.5.1.70	naringenin 8-dimethylallyltransferase
+leachianone G 2''-dimethylallyltransferase	2.5.1.71	leachianone-G 2''-dimethylallyltransferase
+LG 2''-dimethylallyltransferase	2.5.1.71	leachianone-G 2''-dimethylallyltransferase
+LGDT	2.5.1.71	leachianone-G 2''-dimethylallyltransferase
+Fe4S4 quinolinate synthase	2.5.1.72	quinolinate synthase
+quinolinate synthetase	2.5.1.72	quinolinate synthase
+gene name	2.5.1.72	quinolinate synthase
+bifunctional enzyme, quinolinate synthase activity andstimulation of CpNifS cysteine desulfurase activity	2.5.1.72	quinolinate synthase
+Old5	2.5.1.72	quinolinate synthase
+PfQS	2.5.1.72	quinolinate synthase
+both SepRS and SepCysS bind thereaction intermediate Sep-tRNACys tightly, and these two enzymes form astable binary complex that promotes conversion of the intermediate tothe product and sequesters the intermediate from binding to elongationfactor EF-1alpha or infiltrating into the ribosome	2.5.1.73	O-phospho-L-seryl-tRNA:Cys-tRNA synthase
+gene name	2.5.1.73	O-phospho-L-seryl-tRNA:Cys-tRNA synthase
+SepRS–SepCysS binary complex	2.5.1.73	O-phospho-L-seryl-tRNA:Cys-tRNA synthase
+Sep-tRNA:Cys-tRNA synthase	2.5.1.73	O-phospho-L-seryl-tRNA:Cys-tRNA synthase
+1,4-dihydroxy-2-naphthoate octaprenyltransferase	2.5.1.74	1,4-dihydroxy-2-naphthoate polyprenyltransferase
+gene name	2.5.1.74	1,4-dihydroxy-2-naphthoate polyprenyltransferase
+isopentenyltransferase, transfer ribonucleate	2.5.1.75	tRNA dimethylallyltransferase
+transfer ribonucleate isopentenyltransferase	2.5.1.75	tRNA dimethylallyltransferase
+DELTA2-isopentenyl pyrophosphate:tRNA-DELTA2-isopentenyl transferase	2.5.1.75	tRNA dimethylallyltransferase
+DELTA2-isopentenyl pyrophosphate:transfer ribonucleic acidDELTA2-isopentenyltransferase	2.5.1.75	tRNA dimethylallyltransferase
+tRNA-IPT1	2.5.1.75	tRNA dimethylallyltransferase
+prenyltransferase	2.5.1.75	tRNA dimethylallyltransferase
+dimethylallyl(D2-isopentenyl) diphosphate:tRNA transferase	2.5.1.75	tRNA dimethylallyltransferase
+MiaA	2.5.1.75	tRNA dimethylallyltransferase
+putative isopentenyltransferase from Malus hupehensis	2.5.1.75	tRNA dimethylallyltransferase
+Mod5	2.5.1.75	tRNA dimethylallyltransferase
+A37 isopentenyltransferase	2.5.1.75	tRNA dimethylallyltransferase
+Tit1	2.5.1.75	tRNA dimethylallyltransferase
+tRNA([Ser]Sec)-isopentenyl transferase	2.5.1.75	tRNA dimethylallyltransferase
+dimethylallyl:tRNA[Ser]Sec transferase	2.5.1.75	tRNA dimethylallyltransferase
+DMAPP:tRNA[Ser]Sec transferase	2.5.1.75	tRNA dimethylallyltransferase
+dimethylallyl (DELTA2-isopentenyl)diphosphate-tRNA transferase	2.5.1.75	tRNA dimethylallyltransferase
+DMATase	2.5.1.75	tRNA dimethylallyltransferase
+IPT2	2.5.1.75	tRNA dimethylallyltransferase
+IPT9	2.5.1.75	tRNA dimethylallyltransferase
+tRNA IPT	2.5.1.75	tRNA dimethylallyltransferase
+tRNA isopentenyltransferase	2.5.1.75	tRNA dimethylallyltransferase
+isopentenyl transferase	2.5.1.75	tRNA dimethylallyltransferase
+isopentenyltransferase	2.5.1.75	tRNA dimethylallyltransferase
+gene name	2.5.1.75	tRNA dimethylallyltransferase
+TRIT1	2.5.1.75	tRNA dimethylallyltransferase
+tRNA-IPT	2.5.1.75	tRNA dimethylallyltransferase
+MA3297	2.5.1.76	cysteate synthase
+bifunctionalenzyme complex	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+gene name	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+RibH1 protein	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+type I lumazine synthase	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+BLS	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+RibH2	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+gene name	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+AaLS	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+gene name	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+ribE (gene name)	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+6,7-dimethyl-8-ribityllumazine synthase 2	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+MJ0303	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+luminazine synthase	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+gene name	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+DMRL synthase	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+lumazine synthase	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+UniProt	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+lumazine synthase 1	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+6,7-dimethyl-8-ribityllumazine synthase 1	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+6,7-dimethyl-8-ribityllumazine synthase	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+UniProt	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+UniProt	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+gene name	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+gene name	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+MbtLS	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+6,7-dimethyl-8-(d-ribityl)lumazine synthase	2.5.1.78	6,7-dimethyl-8-ribityllumazine synthase
+TSPMS	2.5.1.79	thermospermine synthase
+gene name	2.5.1.79	thermospermine synthase
+gene name	2.5.1.79	thermospermine synthase
+gene name	2.5.1.79	thermospermine synthase
+T-Spm synthase	2.5.1.79	thermospermine synthase
+gene name	2.5.1.79	thermospermine synthase
+gene name	2.5.1.79	thermospermine synthase
+gene name	2.5.1.79	thermospermine synthase
+dimethylallyltryptophan synthase	2.5.1.80	7-dimethylallyltryptophan synthase
+7-DMATS	2.5.1.80	7-dimethylallyltryptophan synthase
+7-dimethylallyltryptophan synthase	2.5.1.80	7-dimethylallyltryptophan synthase
+tryptophan C7-prenyltransferase	2.5.1.80	7-dimethylallyltryptophan synthase
+7-dimethylallyl tryptophan synthase	2.5.1.80	7-dimethylallyltryptophan synthase
+CAK41583	2.5.1.80	7-dimethylallyltryptophan synthase
+gene name	2.5.1.80	7-dimethylallyltryptophan synthase
+7-DMATSNeo	2.5.1.80	7-dimethylallyltryptophan synthase
+gene name	2.5.1.81	geranylfarnesyl diphosphate synthase
+GFDP-forming enzyme	2.5.1.81	geranylfarnesyl diphosphate synthase
+gene name	2.5.1.81	geranylfarnesyl diphosphate synthase
+GFDP synthase	2.5.1.81	geranylfarnesyl diphosphate synthase
+FGPP synthase	2.5.1.81	geranylfarnesyl diphosphate synthase
+gene name	2.5.1.81	geranylfarnesyl diphosphate synthase
+C25 FGPP synthase	2.5.1.81	geranylfarnesyl diphosphate synthase
+gene name	2.5.1.81	geranylfarnesyl diphosphate synthase
+GFPS	2.5.1.81	geranylfarnesyl diphosphate synthase
+gene name	2.5.1.81	geranylfarnesyl diphosphate synthase
+gene name	2.5.1.81	geranylfarnesyl diphosphate synthase
+gene name	2.5.1.81	geranylfarnesyl diphosphate synthase
+IDS3	2.5.1.81	geranylfarnesyl diphosphate synthase
+GFDPS	2.5.1.81	geranylfarnesyl diphosphate synthase
+gene name	2.5.1.81	geranylfarnesyl diphosphate synthase
+HexPS	2.5.1.82	hexaprenyl diphosphate synthase [geranylgeranyl-diphosphate specific]
+hexaprenyl pyrophosphate synthase	2.5.1.82	hexaprenyl diphosphate synthase [geranylgeranyl-diphosphate specific]
+HexPPs	2.5.1.82	hexaprenyl diphosphate synthase [geranylgeranyl-diphosphate specific]
+(all-E) hexaprenyl diphosphate synthase	2.5.1.82	hexaprenyl diphosphate synthase [geranylgeranyl-diphosphate specific]
+(all-trans) hexaprenyl diphosphate synthase	2.5.1.82	hexaprenyl diphosphate synthase [geranylgeranyl-diphosphate specific]
+hexaprenyl-diphosphate synthase [(2E,6E)-farnesyl-diphosphate specific]	2.5.1.83	hexaprenyl diphosphate synthase [(2E,6E)-farnesyl-diphosphate specific]
+hexaprenyl pyrophosphate synthetase	2.5.1.83	hexaprenyl diphosphate synthase [(2E,6E)-farnesyl-diphosphate specific]
+HexPP synthase	2.5.1.83	hexaprenyl diphosphate synthase [(2E,6E)-farnesyl-diphosphate specific]
+HexPS	2.5.1.83	hexaprenyl diphosphate synthase [(2E,6E)-farnesyl-diphosphate specific]
+HexPPs	2.5.1.83	hexaprenyl diphosphate synthase [(2E,6E)-farnesyl-diphosphate specific]
+all-trans-nonaprenyl-diphosphate synthase [geranyl-diphosphatespecific]	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+ubiquinone:trans-prenyltransferase	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+solanesyl-diphosphate synthase	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+nonaprenyl diphosphate synthase	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+nonaprenylpyrophosphate synthetase	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+SolPP synthase	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+SPP-synthase	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+SPP synthase	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+solanesyl diphosphate synthase	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+gene name	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+Sps2	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+SPS	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+gene name	2.5.1.84	all-trans-nonaprenyl diphosphate synthase [geranyl-diphosphate
+gene name	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+long-chain prenyl diphosphate synthase	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+solanesyl diphosphate synthase	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+HbSDS	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+SPS1	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+At-SPS1	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+solanesyl-diphosphate synthase 1	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+gene name	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+solanesyl-diphosphate synthase	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+Sps2	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+At-SPS2	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+gene name	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+TCSPPS	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+SPPS	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+long-chain solanesyl diphosphate synthase	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+TbSPPS	2.5.1.85	all-trans-nonaprenyl diphosphate synthase [geranylgeranyl-diphosphate
+long-chain prenyl diphosphate synthase	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+gene name	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+decaprenyl diphosphate synthase	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+locus name	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+cis-decaprenyl diphosphate synthase	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+DPPS	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+Z-decaprenyl-diphosphate synthase	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+decaprenyl diphosphate synthase 1	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+DPP synthase	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+polyprenyl diphosphate synthase	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+decaprenyl diphosphate synthase 2	2.5.1.86	trans,polycis-decaprenyl diphosphate synthase
+DedolPP synthase	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+dehydrodolichyl diphosphate synthase	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+gene name	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+dehydrodolichyl diphosphate synthase 1	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+anther-66	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+Nogo-B receptor	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+NgBR	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+cis-PTase	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+SlCPT3	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+Tk-IdsB	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+DHDDS	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+gene name	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+cis-prenyltransferase	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+Dedol-PP synthase	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+gene name	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+Rer2p Z-prenyltransferase	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+gene name	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+gene name	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+Srt2p Z-prenyltransferase	2.5.1.87	ditrans,polycis-polyprenyl diphosphate synthase [(2E,6E)-farnesyl
+tritrans,polycis-undecaprenyl-diphosphate synthase[geranylgeranyl-diphosphate specific]	2.5.1.89	tritrans,polycis-undecaprenyl diphosphate synthase
+undecaprenyl diphosphate synthase	2.5.1.89	tritrans,polycis-undecaprenyl diphosphate synthase
+synthase, riboflavin	2.5.1.9	riboflavin synthase
+light riboflavin synthase	2.5.1.9	riboflavin synthase
+riboflavine synthase	2.5.1.9	riboflavin synthase
+riboflavine synthetase	2.5.1.9	riboflavin synthase
+bifunctional enzyme complex thatcatalyzes formation of riboflavin from5-amino-6-ribityl-amino-2,4-pyrimidinedione and3,4-dihydroxy-2-butanone	2.5.1.9	riboflavin synthase
+lumazine synthase/riboflavin synthase complex	2.5.1.9	riboflavin synthase
+riboflavin synthase	2.5.1.9	riboflavin synthase
+riboflavin synthetase	2.5.1.9	riboflavin synthase
+RibD	2.5.1.9	riboflavin synthase
+octaprenyl diphosphate synthase	2.5.1.90	all-trans-octaprenyl-diphosphate synthase
+OPPs	2.5.1.90	all-trans-octaprenyl-diphosphate synthase
+gene name	2.5.1.90	all-trans-octaprenyl-diphosphate synthase
+gene name	2.5.1.90	all-trans-octaprenyl-diphosphate synthase
+gene name	2.5.1.90	all-trans-octaprenyl-diphosphate synthase
+Opp	2.5.1.90	all-trans-octaprenyl-diphosphate synthase
+long-chain trans-prenyltransferase	2.5.1.90	all-trans-octaprenyl-diphosphate synthase
+C40-OPP	2.5.1.90	all-trans-octaprenyl-diphosphate synthase
+octaprenyl pyrophosphate synthase	2.5.1.90	all-trans-octaprenyl-diphosphate synthase
+DecPP synthase	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+decaprenyl-PP synthase	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+DdsA protein	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+gene name	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+gene name	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+Ddps	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+decaprenyl diphosphate synthase gene	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+decaprenyl diphosphate synthase 1	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+AgDPPS	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+decaprenyl diphosphate synthase 2	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+decraprenyl diphosphate synthase	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+gene name	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+decaprenyl diphosphate synthase	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+DLP1	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+D-less polyprenyl diphosphate synthase	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+DPS1	2.5.1.91	all-trans-decaprenyl-diphosphate synthase
+SlCPT6	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+cf. EC 2.5.1.29 and EC 2.5.1.10	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+CPT1	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+cis-prenyltransferase	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+zFPS	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+Z,Z-farnesyl diphosphate synthase	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+cis,cis-farnesyl diphosphate synthase	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+Z,Z-FPP synthase	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+Z,Z-farnesyl pyrophosphate synthase	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+IDS3	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+trans-isoprenyl diphosphate synthase	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+short-chain cis-prenyldiphosphate synthase	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+short-chain SlCPT	2.5.1.92	(2Z,6Z)-farnesyl diphosphate synthase
+4HB geranyltransferase	2.5.1.93	4-hydroxybenzoate geranyltransferase
+p-hydroxybenzoate geranyltransferase	2.5.1.93	4-hydroxybenzoate geranyltransferase
+PHB geranyltransferase	2.5.1.93	4-hydroxybenzoate geranyltransferase
+gene name	2.5.1.93	4-hydroxybenzoate geranyltransferase
+LePGT-1	2.5.1.93	4-hydroxybenzoate geranyltransferase
+p-hydroxybenzoate: geranyltransferase	2.5.1.93	4-hydroxybenzoate geranyltransferase
+diphosphate:4-hydroxybenzoate geranyltransferase	2.5.1.93	4-hydroxybenzoate geranyltransferase
+gene name	2.5.1.93	4-hydroxybenzoate geranyltransferase
+gene name	2.5.1.93	4-hydroxybenzoate geranyltransferase
+geranyl diphosphate:4-hydroxybenzoate 3-geranyltransferase	2.5.1.93	4-hydroxybenzoate geranyltransferase
+4HB:geranyltransferase	2.5.1.93	4-hydroxybenzoate geranyltransferase
+geranyl diphosphate:4-hydroxybenzoate geranyltransferase	2.5.1.93	4-hydroxybenzoate geranyltransferase
+LePGT-2	2.5.1.93	4-hydroxybenzoate geranyltransferase
+PGT	2.5.1.93	4-hydroxybenzoate geranyltransferase
+p-hydroxybenzoate-m-geranyltransferase	2.5.1.93	4-hydroxybenzoate geranyltransferase
+5'-chloro-5'-deoxyadenosine synthase	2.5.1.94	adenosyl-chloride synthase
+gene name	2.5.1.94	adenosyl-chloride synthase
+chlorinase	2.5.1.94	adenosyl-chloride synthase
+SAM-dependent chlorinase	2.5.1.94	adenosyl-chloride synthase
+S-adenosyl-L-methionine-dependent chlorinase	2.5.1.94	adenosyl-chloride synthase
+SalL	2.5.1.94	adenosyl-chloride synthase
+KPT	2.5.1.95	xanthan ketal pyruvate transferase
+GumL	2.5.1.95	xanthan ketal pyruvate transferase
+DAP synthase	2.5.1.96	4,4'-diapophytoene synthase
+dehydroqualene synthase	2.5.1.96	4,4'-diapophytoene synthase
+DSQ synthase	2.5.1.96	4,4'-diapophytoene synthase
+diapophytoene synthase	2.5.1.96	4,4'-diapophytoene synthase
+gene name	2.5.1.96	4,4'-diapophytoene synthase
+dehydrosqualene synthase	2.5.1.96	4,4'-diapophytoene synthase
+PseI	2.5.1.97	pseudaminic acid synthase
+PseG	2.5.1.97	pseudaminic acid synthase
+NeuB3	2.5.1.97	pseudaminic acid synthase

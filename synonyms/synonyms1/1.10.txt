@@ -1,0 +1,405 @@
+synonyms	ec_number	recommended_name
+dehydrogenase, trans-acenaphthylene-1,2-diol	1.10.1.1	trans-acenaphthene-1,2-diol dehydrogenase
+trans-1,2-acenaphthenediol dehydrogenase	1.10.1.1	trans-acenaphthene-1,2-diol dehydrogenase
+ascorbate-cytochrome b5 reductase	1.10.2.1	L-ascorbate-cytochrome-b5 reductase
+ascorbate:ferricytochrome b5 oxidoreductase	1.10.2.1	L-ascorbate-cytochrome-b5 reductase
+cytochrome b558 ferric/cupric reductase	1.10.2.1	L-ascorbate-cytochrome-b5 reductase
+coenzyme Q-cytochrome c reductase	1.10.2.2	quinol-cytochrome-c reductase
+dihydrocoenzyme Q-cytochrome c reductase	1.10.2.2	quinol-cytochrome-c reductase
+reduced ubiquinone-cytochrome c reductase, complex III (mitochondrialelectron transport)	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinone-cytochrome c reductase	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+reduced coenzyme Q-cytochrome c reductase	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinone-cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+reduced ubiquinone-cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+mitochondrial electron transport complex III	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c-2 oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinone-cytochrome b-c1 oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c2 reductase	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c1 oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+coQH2-cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+ubihydroquinol:cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+coenzyme QH2-cytochrome c reductase	1.10.2.2	quinol-cytochrome-c reductase
+QH2:cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+Cyt bc1 complex	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+bc1	1.10.2.2	quinol-cytochrome-c reductase
+cytochrome bc	1.10.2.2	quinol-cytochrome-c reductase
+cyt bc1	1.10.2.2	quinol-cytochrome-c reductase
+complex III	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol cytochrome c reductase hinge	1.10.2.2	quinol-cytochrome-c reductase
+UQCRH	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c reductase hinge protein	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c reductase binding protein	1.10.2.2	quinol-cytochrome-c reductase
+UQCRB	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome-c reductase	1.10.2.2	quinol-cytochrome-c reductase
+UCCR	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome-c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c reductase core protein 1	1.10.2.2	quinol-cytochrome-c reductase
+UQCRC1	1.10.2.2	quinol-cytochrome-c reductase
+cytochrome c reductase	1.10.2.2	quinol-cytochrome-c reductase
+quinol-cytochrome c oxidoreductase complex	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c reductase complex	1.10.2.2	quinol-cytochrome-c reductase
+QCR	1.10.2.2	quinol-cytochrome-c reductase
+UQH2	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol:cytochrome c reductase	1.10.2.2	quinol-cytochrome-c reductase
+quinol cyt. c oxidoreductase (bc1)	1.10.2.2	quinol-cytochrome-c reductase
+quinol:cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+quinol:cyt c Oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol:ferricytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+cytochrome b-c2 complex	1.10.2.2	quinol-cytochrome-c reductase
+coenzymeQ–cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c2 oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+cytochrome b-c1 complex	1.10.2.2	quinol-cytochrome-c reductase
+b6/f complex	1.10.2.2	quinol-cytochrome-c reductase
+plastoquinol-plastocyanin oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+hydroubiquinone c2 oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+ubihydroquinone:cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+QH2:cyt c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c reductase	1.10.2.2	quinol-cytochrome-c reductase
+cytochrome bc1 complex	1.10.2.2	quinol-cytochrome-c reductase
+f-b6 complex	1.10.2.2	quinol-cytochrome-c reductase
+ubihydroquinone : cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+bc1 complex	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol:cytochrome c oxidoreductase	1.10.2.2	quinol-cytochrome-c reductase
+ubiquinol-cytochrome c reductase complex III	1.10.2.2	quinol-cytochrome-c reductase
+respiratory complex III	1.10.2.2	quinol-cytochrome-c reductase
+phenolase	1.10.3.1	catechol oxidase
+pyrocatechol oxidase	1.10.3.1	catechol oxidase
+dopa oxidase	1.10.3.1	catechol oxidase
+o-diphenol:oxygen oxidoreductase	1.10.3.1	catechol oxidase
+o-diphenol oxidoreductase	1.10.3.1	catechol oxidase
+diphenolase	1.10.3.1	catechol oxidase
+tyrosinase	1.10.3.1	catechol oxidase
+cf. 1.14.18.1	1.10.3.1	catechol oxidase
+polyphenol oxidase	1.10.3.1	catechol oxidase
+from Coker 312, an embryogenic cultivar	1.10.3.1	catechol oxidase
+monophenol, o-diphenol:oxygen oxidoreductase	1.10.3.1	catechol oxidase
+monophenol, o-diphenol: oxygen oxidoreductase	1.10.3.1	catechol oxidase
+mushroom tyrosinaseshows catecholase and creolase activities	1.10.3.1	catechol oxidase
+bifunctional enzyme	1.10.3.1	catechol oxidase
+CATPO	1.10.3.1	catechol oxidase
+catechol oxidase	1.10.3.1	catechol oxidase
+AoCO4	1.10.3.1	catechol oxidase
+Diphenol oxidase	1.10.3.1	catechol oxidase
+sweet potato catechol oxidase	1.10.3.1	catechol oxidase
+1,2-benzene: oxygen oxidoreductase	1.10.3.1	catechol oxidase
+copper-S100B	1.10.3.1	catechol oxidase
+MppO	1.10.3.1	catechol oxidase
+polyphenoloxidase	1.10.3.1	catechol oxidase
+dihydroxy-L-phenylalanine:oxygen oxidoreductase	1.10.3.1	catechol oxidase
+GLP	1.10.3.1	catechol oxidase
+germin-like protein	1.10.3.1	catechol oxidase
+o-diphenoloxidase	1.10.3.1	catechol oxidase
+o-diphenolase	1.10.3.1	catechol oxidase
+oxytyrosinase	1.10.3.1	catechol oxidase
+mettyrosinase	1.10.3.1	catechol oxidase
+cresolase	1.10.3.1	catechol oxidase
+isoform	1.10.3.1	catechol oxidase
+isozyme	1.10.3.1	catechol oxidase
+isozyme	1.10.3.1	catechol oxidase
+phenoloxidase	1.10.3.1	catechol oxidase
+CO	1.10.3.1	catechol oxidase
+o-diphenol: dioxygen oxidoreductase, dehydrogenating	1.10.3.1	catechol oxidase
+catecholoxidase	1.10.3.1	catechol oxidase
+behaves as a catecholoxidase and showsphenoloxidase activity in vitro	1.10.3.1	catechol oxidase
+LsPPO	1.10.3.1	catechol oxidase
+1,2-benzenediol:oxygen oxidoreductase	1.10.3.1	catechol oxidase
+PPO II	1.10.3.1	catechol oxidase
+PPO-6	1.10.3.1	catechol oxidase
+phenol oxidase	1.10.3.1	catechol oxidase
+cytochrome bd-I oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bd-II oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bo oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bo3 ubiquinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+QObo3	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bo terminal oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bo quinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+ubiquinol oxidase:O2 reductase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bo	1.10.3.10	ubiquinol oxidase (H+-transporting)
+bo-type ubiquinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bd	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bd-I quinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bd-II quinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+AppBC	1.10.3.10	ubiquinol oxidase (H+-transporting)
+bd-type quinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome o complex	1.10.3.10	ubiquinol oxidase (H+-transporting)
+Cyt-bo3	1.10.3.10	ubiquinol oxidase (H+-transporting)
+gene name	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bd ubiquinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cyt bo3	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bo3	1.10.3.10	ubiquinol oxidase (H+-transporting)
+subunit	1.10.3.10	ubiquinol oxidase (H+-transporting)
+subunit	1.10.3.10	ubiquinol oxidase (H+-transporting)
+subunit	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bo ubiquinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bd oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bo3 oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+gene name	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bo-type ubiquinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+ubiquinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bd-type quinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bd menaquinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+cytochrome bd-type menaquinol oxidase	1.10.3.10	ubiquinol oxidase (H+-transporting)
+plant alternative oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cytochrome bb3 oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cytochrome bo3 ubiquinol oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+AppBC	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cytochrome bo3	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cytochrome bd-II	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+TAO	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+AOX1	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+AOX2b1	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+subunit II	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cyanide-resistant bd-type ubiquinol oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cyanide-resistant ubiquinol oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cytochrome bd-type quinol oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+subunit I	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cyanide-resistant alternative oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+trypanosomal alternative oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+heme-copper terminal oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cytochrome ba3 oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+Cox2	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+alternative oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+AOX	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+AOX3	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+ubiquinol:oxygen oxidoreductase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cyanide-resistant oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+alternative oxidase 1a	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+mitochondrial alternative oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+AOX1a	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cyanide-insensitive terminal quinol oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cyanide-insensitive oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cyanide-insensitive quinol oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+CioAB	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+CIO	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cyanide-insensitive alternative oxidase	1.10.3.11	ubiquinol oxidase (non-electrogenic)
+cytochrome aa3	1.10.3.12	menaquinol oxidase (H+-transporting)
+cytochrome aa3-600 oxidase	1.10.3.12	menaquinol oxidase (H+-transporting)
+Qox	1.10.3.12	menaquinol oxidase (H+-transporting)
+menaquinol oxidase (aa3-600)	1.10.3.12	menaquinol oxidase (H+-transporting)
+menaquinol oxidase	1.10.3.12	menaquinol oxidase (H+-transporting)
+cytochrome aa3-600	1.10.3.12	menaquinol oxidase (H+-transporting)
+cytochrome aa3-600 menaquinol oxidase	1.10.3.12	menaquinol oxidase (H+-transporting)
+cyt aa3-600	1.10.3.12	menaquinol oxidase (H+-transporting)
+menaquinol:O2 oxidoreductase	1.10.3.12	menaquinol oxidase (H+-transporting)
+QOx.aa3	1.10.3.12	menaquinol oxidase (H+-transporting)
+cytochrome bd oxidase	1.10.3.12	menaquinol oxidase (H+-transporting)
+Cyd oxidase	1.10.3.12	menaquinol oxidase (H+-transporting)
+cytochrome bd-type respiratory oxidase	1.10.3.12	menaquinol oxidase (H+-transporting)
+cytochrome bd terminal oxidase	1.10.3.12	menaquinol oxidase (H+-transporting)
+cytochrome aa3-type menaquinol oxidase	1.10.3.12	menaquinol oxidase (H+-transporting)
+QoxAB	1.10.3.12	menaquinol oxidase (H+-transporting)
+cytochrome aa3-type oxidase	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+SoxABCD quinol oxidase	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+SoxM terminal oxidase supercomplex	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+cytochrome aa3	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+terminal quinol oxidase	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+aa3-type cytochrome oxidase	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+cytochrome oxidase CO-2	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+cytochrome aa3-type quinol oxidase	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+aa3 quinol oxidase	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+aa3-type quinol oxidase	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+terminal quinol:oxygen oxidoreductase	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+caldariella quinol:dioxygen oxidoreductase	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+SoxM is part of a larger protein complex which alsocontains SoxC, but neither SoxA nor SoxB	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+SoxABCD complex	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+SoxM supercomplex	1.10.3.13	caldariellaquinol oxidase (H+-transporting)
+cytochrome bd-I oxidase	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+cytochrome bd-I complex	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+gene name	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+cytochrome bd-I	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+cytochrome bd-I respiratory oxidase	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+gene name	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+gene name	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+cytochrome bd	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+cytochrome bd oxidase	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+gene name	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+cytochrome bd-type quinol oxidase	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+bd-I type oxidase	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+operon name	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+cytochrome bd quinol oxidase	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+appB	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+cytochrome bd-II oxidase subunit II	1.10.3.14	ubiquinol oxidase (electrogenic, non H+-transporting)
+GriF	1.10.3.15	grixazone synthase
+phzG	1.10.3.16	dihydrophenazinedicarboxylate synthase
+gene name	1.10.3.16	dihydrophenazinedicarboxylate synthase
+urishiol oxidase	1.10.3.2	laccase
+urushiol oxidase	1.10.3.2	laccase
+p-diphenol oxidase	1.10.3.2	laccase
+Diphenol oxidase	1.10.3.2	laccase
+Laccase allele OR	1.10.3.2	laccase
+Laccase allele TS	1.10.3.2	laccase
+Ligninolytic phenoloxidase	1.10.3.2	laccase
+Lac I	1.10.3.2	laccase
+Lac II	1.10.3.2	laccase
+laccase	1.10.3.2	laccase
+laccase 1	1.10.3.2	laccase
+lcc1	1.10.3.2	laccase
+Lacc	1.10.3.2	laccase
+POXA3 laccase	1.10.3.2	laccase
+laccase POXA3b	1.10.3.2	laccase
+lccgamma	1.10.3.2	laccase
+lccdelta	1.10.3.2	laccase
+blue laccase	1.10.3.2	laccase
+Lac-3.5	1.10.3.2	laccase
+Lac-4.8	1.10.3.2	laccase
+Lcc	1.10.3.2	laccase
+laccase-2	1.10.3.2	laccase
+benzenediol-oxygen oxidoreductase	1.10.3.2	laccase
+p-diphenol:O2 oxidoreductase	1.10.3.2	laccase
+p-diphenol:oxygen-oxidoreductase	1.10.3.2	laccase
+benzenediol oxygen oxidoreductase	1.10.3.2	laccase
+LAC	1.10.3.2	laccase
+MAL	1.10.3.2	laccase
+phenol oxidase	1.10.3.2	laccase
+SLAC	1.10.3.2	laccase
+p-benzenediol:dioxygen oxidoreductase	1.10.3.2	laccase
+gene name	1.10.3.2	laccase
+PCL	1.10.3.2	laccase
+Ery4	1.10.3.2	laccase
+Ery4 laccase	1.10.3.2	laccase
+Lcc3	1.10.3.2	laccase
+CotA-type laccase	1.10.3.2	laccase
+spore coat protein A	1.10.3.2	laccase
+gene name	1.10.3.2	laccase
+gene name	1.10.3.2	laccase
+multicopper oxidase	1.10.3.2	laccase
+McoP	1.10.3.2	laccase
+EpoA	1.10.3.2	laccase
+laccase 3	1.10.3.2	laccase
+LAC3	1.10.3.2	laccase
+Lac2a	1.10.3.2	laccase
+LacA	1.10.3.2	laccase
+gene name	1.10.3.2	laccase
+DcLac1	1.10.3.2	laccase
+spore coat A protein	1.10.3.2	laccase
+gene name	1.10.3.2	laccase
+Lac4	1.10.3.2	laccase
+DcLac2	1.10.3.2	laccase
+SN4LAC	1.10.3.2	laccase
+gene name	1.10.3.2	laccase
+polyphenol oxidase A	1.10.3.2	laccase
+MmPPOA	1.10.3.2	laccase
+MmPPO laccase	1.10.3.2	laccase
+Lcc2 iscomprised of 5 individual isoforms with pI values ranging from 3.5 to5.8	1.10.3.2	laccase
+p-diphenol:dioxygenoxidoreductase	1.10.3.2	laccase
+benzenediol: oxygen oxidoreductase	1.10.3.2	laccase
+CotA laccase	1.10.3.2	laccase
+CotA	1.10.3.2	laccase
+cf. EC 1.14.18.1	1.10.3.2	laccase
+isoform	1.10.3.2	laccase
+isoform	1.10.3.2	laccase
+yellow laccase	1.10.3.2	laccase
+isoform	1.10.3.2	laccase
+isoform	1.10.3.2	laccase
+isoform	1.10.3.2	laccase
+p-diphenol:oxygen oxidoreductase	1.10.3.2	laccase
+isoform	1.10.3.2	laccase
+Benzenediol:oxygen oxidoreductase	1.10.3.2	laccase
+p-diphenol: dioxygen oxidoreductase	1.10.3.2	laccase
+SRL1	1.10.3.2	laccase
+laccase CueO	1.10.3.2	laccase
+Wlac	1.10.3.2	laccase
+ThL	1.10.3.2	laccase
+laccase2	1.10.3.2	laccase
+benzenediol:O2 oxidoreductase	1.10.3.2	laccase
+Lac2	1.10.3.2	laccase
+blue multicopper oxidase	1.10.3.2	laccase
+p-diphenol dioxygen oxidoreductase	1.10.3.2	laccase
+laccase A	1.10.3.2	laccase
+oxidase, ascorbate	1.10.3.3	L-ascorbate oxidase
+ascorbase	1.10.3.3	L-ascorbate oxidase
+ascorbic oxidase	1.10.3.3	L-ascorbate oxidase
+ascorbate dehydrogenase	1.10.3.3	L-ascorbate oxidase
+L-ascorbic acid oxidase	1.10.3.3	L-ascorbate oxidase
+L-ascorbate:O2 oxidoreductase	1.10.3.3	L-ascorbate oxidase
+AA oxidase	1.10.3.3	L-ascorbate oxidase
+isoform	1.10.3.3	L-ascorbate oxidase
+AA-ox	1.10.3.3	L-ascorbate oxidase
+ASOM	1.10.3.3	L-ascorbate oxidase
+ascorbateoxidase	1.10.3.3	L-ascorbate oxidase
+ascorbic acid oxidase	1.10.3.3	L-ascorbate oxidase
+isoform	1.10.3.3	L-ascorbate oxidase
+isoform	1.10.3.3	L-ascorbate oxidase
+isoform	1.10.3.3	L-ascorbate oxidase
+isoform	1.10.3.3	L-ascorbate oxidase
+AAO	1.10.3.3	L-ascorbate oxidase
+AOase	1.10.3.3	L-ascorbate oxidase
+ASC oxidase	1.10.3.3	L-ascorbate oxidase
+AO1	1.10.3.3	L-ascorbate oxidase
+GriF	1.10.3.4	o-aminophenol oxidase
+PhsA	1.10.3.4	o-aminophenol oxidase
+o-aminophenol:O2 oxidoreductase	1.10.3.4	o-aminophenol oxidase
+oxidase, o-aminophenol	1.10.3.4	o-aminophenol oxidase
+isophenoxazine synthase	1.10.3.4	o-aminophenol oxidase
+2-aminophenol:oxygen oxidoreductase	1.10.3.4	o-aminophenol oxidase
+esophenoxazine synthase	1.10.3.4	o-aminophenol oxidase
+o-aminophenol oxidase	1.10.3.4	o-aminophenol oxidase
+PHS	1.10.3.4	o-aminophenol oxidase
+phenoxazinone synthase	1.10.3.4	o-aminophenol oxidase
+3-hydroxyanthranilic acid oxidase	1.10.3.5	3-hydroxyanthranilate oxidase
+phenoxazine-synthetase	1.10.3.5	3-hydroxyanthranilate oxidase
+o-aminophenol:O2 oxidoreductase	1.10.3.5	3-hydroxyanthranilate oxidase
+3-hydroxyanthranilic acid dioxygenase	1.10.3.5	3-hydroxyanthranilate oxidase
+3HAO	1.10.3.5	3-hydroxyanthranilate oxidase
+rifamycin B oxidase	1.10.3.6	rifamycin-B oxidase
+rifamycin oxidase	1.10.3.6	rifamycin-B oxidase
+oxygen-evolving photosystem II	1.10.3.9	photosystem II
+water:plastoquinone oxidoreductase	1.10.3.9	photosystem II
+photosystem II protein D1 1	1.10.3.9	photosystem II
+PsbA1	1.10.3.9	photosystem II
+photosystem II protein D1 2	1.10.3.9	photosystem II
+PsbA2	1.10.3.9	photosystem II
+photosystem II lipoprotein Psb27	1.10.3.9	photosystem II
+PSII	1.10.3.9	photosystem II
+PS II	1.10.3.9	photosystem II
+water:plastoquinone oxido-reductase	1.10.3.9	photosystem II
+Photosystem II	1.10.3.9	photosystem II
+dihydronicotinamide riboside:quinone reductase 2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+NQO2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+quinone reductase 2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+QR2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+NRH:quinone oxidoreductase 2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+NRH:quinone reductase 2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+NRH:quinone oxireductase 2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+dihydronicotinamide riboside:quinone oxidoreductase 2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+N-ribosyldihydronicotinamide:quinone oxidoreductase 2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+quinone oxidoreductase 2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+MT3/NQO2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+NRH:QR2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+quinone reductase type 2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+melatonin-binding site MT3	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+NRH:quinone oxidoreductase	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+N-ribosyldihydronicotinamide dehydrogenase (quinone)	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+NRH-oxidizing enzyme	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+bQR2	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+dihydronicotinamide riboside:quinone oxidoreductase	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+MT3	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+formerly	1.10.5.1	ribosyldihydronicotinamide dehydrogenase (quinone)
+reductase, plastoquinol-plastocyanin	1.10.9.1	plastoquinol-plastocyanin reductase
+plastoquinol/plastocyanin oxidoreductase	1.10.9.1	plastoquinol-plastocyanin reductase
+cytochrome b6-f complex	1.10.9.1	plastoquinol-plastocyanin reductase
+PetL	1.10.9.1	plastoquinol-plastocyanin reductase
+Rieske Fe-S protein	1.10.9.1	plastoquinol-plastocyanin reductase
+quinol:plastocyanin oxidoreductase	1.10.9.1	plastoquinol-plastocyanin reductase
+cytochrome b6fcomplex	1.10.9.1	plastoquinol-plastocyanin reductase
+Cyt b6 f	1.10.9.1	plastoquinol-plastocyanin reductase
+cytochrome b6 f complex	1.10.9.1	plastoquinol-plastocyanin reductase
+cytochrome b(6)f complex	1.10.9.1	plastoquinol-plastocyanin reductase
+photosynthetic cytochrome b6f complex	1.10.9.1	plastoquinol-plastocyanin reductase
+plastoquinol-plastocyanin oxidoreductase	1.10.9.1	plastoquinol-plastocyanin reductase
+cytochrome b6f /Rieske Fe-S protein	1.10.9.1	plastoquinol-plastocyanin reductase
+RISP	1.10.9.1	plastoquinol-plastocyanin reductase
+cytochrome b6f	1.10.9.1	plastoquinol-plastocyanin reductase
+cytochrome b6 f	1.10.9.1	plastoquinol-plastocyanin reductase
+PetG	1.10.9.1	plastoquinol-plastocyanin reductase
+PetN	1.10.9.1	plastoquinol-plastocyanin reductase
+Rieske iron-sulfur protein	1.10.9.1	plastoquinol-plastocyanin reductase
+Rieske [2Fe-2S] protein	1.10.9.1	plastoquinol-plastocyanin reductase
+Rieske ISP	1.10.9.1	plastoquinol-plastocyanin reductase
+plastoquinol:plastocyanin/cytochrome c6 oxidoreductase	1.10.9.1	plastoquinol-plastocyanin reductase
+Cyt b6f complex	1.10.9.1	plastoquinol-plastocyanin reductase
+IM protein	1.10.9.1	plastoquinol-plastocyanin reductase
+Cyt f complex	1.10.9.1	plastoquinol-plastocyanin reductase
+cytochrome b6/f complex	1.10.9.1	plastoquinol-plastocyanin reductase

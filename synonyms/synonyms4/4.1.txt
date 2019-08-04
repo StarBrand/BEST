@@ -1,0 +1,2166 @@
+synonyms	ec_number	recommended_name
+alpha-Carboxylase	4.1.1.1	pyruvate decarboxylase
+Pyruvic decarboxylase	4.1.1.1	pyruvate decarboxylase
+alpha-Keto acid carboxylase	4.1.1.1	pyruvate decarboxylase
+Decarboxylase, pyruvate	4.1.1.1	pyruvate decarboxylase
+8-10 nm cytoplasmic filament-associated protein	4.1.1.1	pyruvate decarboxylase
+P59NC	4.1.1.1	pyruvate decarboxylase
+isoform	4.1.1.1	pyruvate decarboxylase
+bifunctional enzyme that catalyzes both the oxidativeand nonoxidative decarboxylation of pyruvate	4.1.1.1	pyruvate decarboxylase
+KivD	4.1.1.1	pyruvate decarboxylase
+PDC	4.1.1.1	pyruvate decarboxylase
+pyruvate decarboxylase	4.1.1.1	pyruvate decarboxylase
+ZmPDC	4.1.1.1	pyruvate decarboxylase
+PDCZ.m.	4.1.1.1	pyruvate decarboxylase
+YPDC	4.1.1.1	pyruvate decarboxylase
+PDCS.c.	4.1.1.1	pyruvate decarboxylase
+SCPDC	4.1.1.1	pyruvate decarboxylase
+pyruvamide-activated yeast pyruvate decarboxylase	4.1.1.1	pyruvate decarboxylase
+yeast pyruvate decarboxylase	4.1.1.1	pyruvate decarboxylase
+major isozyme of pyruvate decarboxylase	4.1.1.1	pyruvate decarboxylase
+pyruvate decarboxylase 1	4.1.1.1	pyruvate decarboxylase
+R-selective pyruvate decarboxylase	4.1.1.1	pyruvate decarboxylase
+2-oxo acid carboxylyase	4.1.1.1	pyruvate decarboxylase
+isoform	4.1.1.1	pyruvate decarboxylase
+scpdc1	4.1.1.1	pyruvate decarboxylase
+isoform	4.1.1.1	pyruvate decarboxylase
+KlPDC	4.1.1.1	pyruvate decarboxylase
+GPDC1	4.1.1.1	pyruvate decarboxylase
+NcPDC	4.1.1.1	pyruvate decarboxylase
+ZbPDC	4.1.1.1	pyruvate decarboxylase
+PDC I	4.1.1.1	pyruvate decarboxylase
+PDC II	4.1.1.1	pyruvate decarboxylase
+bifunctional pyruvate decarboxylase/pyruvate ferredoxinoxidoreductase	4.1.1.1	pyruvate decarboxylase
+PDC3	4.1.1.1	pyruvate decarboxylase
+PDC4	4.1.1.1	pyruvate decarboxylase
+isoform	4.1.1.1	pyruvate decarboxylase
+ScPDC5	4.1.1.1	pyruvate decarboxylase
+gene name	4.1.1.1	pyruvate decarboxylase
+gene name	4.1.1.1	pyruvate decarboxylase
+KviD	4.1.1.1	pyruvate decarboxylase
+SalX	4.1.1.100	prephenate decarboxylase
+bacA	4.1.1.100	prephenate decarboxylase
+non-aromatizing prephenate decarboxylase	4.1.1.100	prephenate decarboxylase
+aerD	4.1.1.100	prephenate decarboxylase
+gene name	4.1.1.101	malolactic enzyme
+mleS	4.1.1.101	malolactic enzyme
+ferulic acid decarboxylase	4.1.1.102	phenacrylate decarboxylase
+ubiD	4.1.1.102	phenacrylate decarboxylase
+FDC1	4.1.1.102	phenacrylate decarboxylase
+gene name	4.1.1.102	phenacrylate decarboxylase
+phenolic acid decarboxylase	4.1.1.102	phenacrylate decarboxylase
+Fdc	4.1.1.102	phenacrylate decarboxylase
+FADase	4.1.1.102	phenacrylate decarboxylase
+TsdA	4.1.1.103	gamma-resorcylate decarboxylase
+Rdc	4.1.1.103	gamma-resorcylate decarboxylase
+graF	4.1.1.103	gamma-resorcylate decarboxylase
+otnC	4.1.1.104	3-dehydro-4-phosphotetronate decarboxylase
+3-oxo-tetronate 4-phosphate decarboxylase	4.1.1.104	3-dehydro-4-phosphotetronate decarboxylase
+gene name	4.1.1.105	L-tryptophan decarboxylase
+Tryptophan decarboxylase	4.1.1.105	L-tryptophan decarboxylase
+L-Tryptophan decarboxylase	4.1.1.105	L-tryptophan decarboxylase
+gene name	4.1.1.105	L-tryptophan decarboxylase
+gene name	4.1.1.105	L-tryptophan decarboxylase
+psiD	4.1.1.105	L-tryptophan decarboxylase
+FAP	4.1.1.106	 fatty acid photodecarboxylase
+DHPAA synthase	4.1.1.107	3,4-dihydroxyphenylacetaldehyde synthase
+EAT37246	4.1.1.107	3,4-dihydroxyphenylacetaldehyde synthase
+DHPA synthase	4.1.1.107	3,4-dihydroxyphenylacetaldehyde synthase
+TyrDC-2	4.1.1.108	4-hydroxyphenylacetaldehyde synthase
+4-HPAA synthase	4.1.1.108	4-hydroxyphenylacetaldehyde synthase
+4HPAAS	4.1.1.108	4-hydroxyphenylacetaldehyde synthase
+gene name	4.1.1.109	phenylacetaldehyde synthase
+Aspartic alpha-decarboxylase	4.1.1.11	aspartate 1-decarboxylase
+Dgad2	4.1.1.11	aspartate 1-decarboxylase
+ADC	4.1.1.11	aspartate 1-decarboxylase
+aspartate-alpha-decarboxylase	4.1.1.11	aspartate 1-decarboxylase
+locus name	4.1.1.11	aspartate 1-decarboxylase
+PLP-dependent L-aspartate decarboxylase	4.1.1.11	aspartate 1-decarboxylase
+MfnA	4.1.1.11	aspartate 1-decarboxylase
+gene name	4.1.1.11	aspartate 1-decarboxylase
+AspDC	4.1.1.11	aspartate 1-decarboxylase
+pyruvoyl-dependent l-aspartate alpha-decarboxylase	4.1.1.11	aspartate 1-decarboxylase
+Aspartate alpha-decarboxylase	4.1.1.11	aspartate 1-decarboxylase
+gene name	4.1.1.11	aspartate 1-decarboxylase
+L-Aspartate-alpha-decarboxylase	4.1.1.11	aspartate 1-decarboxylase
+ACD	4.1.1.11	aspartate 1-decarboxylase
+aspartate decarboxylase	4.1.1.11	aspartate 1-decarboxylase
+the enzyme belongs to a small class of self-cleaving andpyruvoyl-dependent amino acid decarboxylases	4.1.1.11	aspartate 1-decarboxylase
+MtbADC	4.1.1.11	aspartate 1-decarboxylase
+L-Aspartate alpha-decarboxylase	4.1.1.11	aspartate 1-decarboxylase
+mevalonate 3,5-bisphosphate decarboxylase	4.1.1.110	bisphosphomevalonate decarboxylase
+nirDLHG	4.1.1.111	siroheme decarboxylase
+ahbABC	4.1.1.111	siroheme decarboxylase
+AhbA/B	4.1.1.111	siroheme decarboxylase
+sirohaem decarboxylase	4.1.1.111	siroheme decarboxylase
+locus names	4.1.1.111	siroheme decarboxylase
+AhbAB	4.1.1.111	siroheme decarboxylase
+Oxalacetate decarboxylase	4.1.1.112	oxaloacetate decarboxylase
+Oxalacetic beta-decarboxylase	4.1.1.112	oxaloacetate decarboxylase
+Oxalacetic acid decarboxylase	4.1.1.112	oxaloacetate decarboxylase
+Oxalate beta-decarboxylase	4.1.1.112	oxaloacetate decarboxylase
+Oxaloacetate carboxylyase	4.1.1.112	oxaloacetate decarboxylase
+Oxalacetic carboxylase	4.1.1.112	oxaloacetate decarboxylase
+PA4872	4.1.1.112	oxaloacetate decarboxylase
+oxaloacetate decarboxylase	4.1.1.112	oxaloacetate decarboxylase
+OAD	4.1.1.112	oxaloacetate decarboxylase
+OXAD	4.1.1.112	oxaloacetate decarboxylase
+ODx	4.1.1.112	oxaloacetate decarboxylase
+Cg1458 protein	4.1.1.112	oxaloacetate decarboxylase
+oxaloacetate decarboxylase Na+ pump OAD-1	4.1.1.112	oxaloacetate decarboxylase
+oxaloacetate decarboxylase Na+ pump OAD-2	4.1.1.112	oxaloacetate decarboxylase
+membrane-boundmultiprotein complex that couples oxaloacetate decarboxylation tosodium ion transport across the membrane	4.1.1.112	oxaloacetate decarboxylase
+OAD-1	4.1.1.112	oxaloacetate decarboxylase
+oxaloacetate decarboxylase OAD-1	4.1.1.112	oxaloacetate decarboxylase
+oxaloacetate decarboxylase Na+ pump	4.1.1.112	oxaloacetate decarboxylase
+OAD-2	4.1.1.112	oxaloacetate decarboxylase
+oxaloacetate decarboxylase OAD-2	4.1.1.112	oxaloacetate decarboxylase
+OADC	4.1.1.112	oxaloacetate decarboxylase
+CitM	4.1.1.112	oxaloacetate decarboxylase
+Desulfinase	4.1.1.12	aspartate 4-decarboxylase
+Decarboxylase, aspartate 4-	4.1.1.12	aspartate 4-decarboxylase
+Aminomalonic decarboxylase	4.1.1.12	aspartate 4-decarboxylase
+Aspartate omega-decarboxylase	4.1.1.12	aspartate 4-decarboxylase
+Aspartic omega-decarboxylase	4.1.1.12	aspartate 4-decarboxylase
+Aspartic beta-decarboxylase	4.1.1.12	aspartate 4-decarboxylase
+L-Cysteine sulfinate acid desulfinase	4.1.1.12	aspartate 4-decarboxylase
+Cysteine sulfinic desulfinase	4.1.1.12	aspartate 4-decarboxylase
+L-Asparate 4-carboxy-lyase	4.1.1.12	aspartate 4-decarboxylase
+EC 4.1.1.10	4.1.1.12	aspartate 4-decarboxylase
+PanD	4.1.1.12	aspartate 4-decarboxylase
+ADC	4.1.1.12	aspartate 4-decarboxylase
+Aspartate beta-decarboxylase	4.1.1.12	aspartate 4-decarboxylase
+ABDC	4.1.1.12	aspartate 4-decarboxylase
+aspartate-beta-decarboxylase	4.1.1.12	aspartate 4-decarboxylase
+aspartate 4-carboxylyase	4.1.1.12	aspartate 4-decarboxylase
+L-Aspartate beta-decarboxylase	4.1.1.12	aspartate 4-decarboxylase
+Asd	4.1.1.12	aspartate 4-decarboxylase
+L-aspartate 4-decarboxylase	4.1.1.12	aspartate 4-decarboxylase
+Leucine decarboxylase	4.1.1.14	valine decarboxylase
+Decarboxylase, valine	4.1.1.14	valine decarboxylase
+Decarboxylase, leucine	4.1.1.14	valine decarboxylase
+L-Valine carboxy-lyase	4.1.1.14	valine decarboxylase
+Aspartic alpha-decarboxylase	4.1.1.15	glutamate decarboxylase
+L-Aspartate-alpha-decarboxylase	4.1.1.15	glutamate decarboxylase
+Decarboxylase, glutamate	4.1.1.15	glutamate decarboxylase
+Glutamic decarboxylase	4.1.1.15	glutamate decarboxylase
+L-Glutamic decarboxylase	4.1.1.15	glutamate decarboxylase
+Cysteic acid decarboxylase	4.1.1.15	glutamate decarboxylase
+L-Glutamate alpha-decarboxylase	4.1.1.15	glutamate decarboxylase
+gamma-Glutamate decarboxylase	4.1.1.15	glutamate decarboxylase
+GDCase	4.1.1.15	glutamate decarboxylase
+GADCase	4.1.1.15	glutamate decarboxylase
+Aspartate 1-decarboxylase	4.1.1.15	glutamate decarboxylase
+65 kDa glutamic acid decarboxylase	4.1.1.15	glutamate decarboxylase
+67 kDa glutamic acid decarboxylase	4.1.1.15	glutamate decarboxylase
+ERT D1	4.1.1.15	glutamate decarboxylase
+GAD-65	4.1.1.15	glutamate decarboxylase
+GAD-67	4.1.1.15	glutamate decarboxylase
+GAD-alpha	4.1.1.15	glutamate decarboxylase
+GAD-beta	4.1.1.15	glutamate decarboxylase
+GAD-gamma	4.1.1.15	glutamate decarboxylase
+exhibits both glutamine synthetase activity and glutamatedecarboxylase activity	4.1.1.15	glutamate decarboxylase
+exhibits both glutaminesynthetase activity and glutamate decarboxylase activity	4.1.1.15	glutamate decarboxylase
+GAD	4.1.1.15	glutamate decarboxylase
+GADB1	4.1.1.15	glutamate decarboxylase
+GAD3	4.1.1.15	glutamate decarboxylase
+glutamate decarboxylase 67	4.1.1.15	glutamate decarboxylase
+Glutamic acid decarboxylase	4.1.1.15	glutamate decarboxylase
+isoform	4.1.1.15	glutamate decarboxylase
+67 kDa form of the glutamic aciddecarboxylase	4.1.1.15	glutamate decarboxylase
+L-Glutamic acid decarboxylase	4.1.1.15	glutamate decarboxylase
+isoform	4.1.1.15	glutamate decarboxylase
+67 kDa form of theglutamic acid decarboxylase	4.1.1.15	glutamate decarboxylase
+L-Glutamate decarboxylase	4.1.1.15	glutamate decarboxylase
+GAD belongs to a subset of pyridoxal5-phosphate-dependent enzymes classified as group 2	4.1.1.15	glutamate decarboxylase
+Glt decarboxylase	4.1.1.15	glutamate decarboxylase
+GDC	4.1.1.15	glutamate decarboxylase
+GadA	4.1.1.15	glutamate decarboxylase
+gene name	4.1.1.15	glutamate decarboxylase
+glutamic acid decarboxylase67	4.1.1.15	glutamate decarboxylase
+glutamate decarboxylase	4.1.1.15	glutamate decarboxylase
+glutamate decarboxylase 65	4.1.1.15	glutamate decarboxylase
+glutamic acid decarboxylase-65	4.1.1.15	glutamate decarboxylase
+glutamate decarboxylase 1	4.1.1.15	glutamate decarboxylase
+GAD1	4.1.1.15	glutamate decarboxylase
+GAD2	4.1.1.15	glutamate decarboxylase
+L-glutamate 1-carboxylyase	4.1.1.15	glutamate decarboxylase
+LbGAD	4.1.1.15	glutamate decarboxylase
+glutamic acid decarboxylase-67	4.1.1.15	glutamate decarboxylase
+Gad56	4.1.1.15	glutamate decarboxylase
+gene name	4.1.1.15	glutamate decarboxylase
+PfGAD	4.1.1.15	glutamate decarboxylase
+membrane-associated form of L-glutamate decarboxylase	4.1.1.15	glutamate decarboxylase
+Decarboxylase, hydroxyglutamate	4.1.1.16	Hydroxyglutamate decarboxylase
+Decarboxylase, ornithine	4.1.1.17	ornithine decarboxylase
+bODC	4.1.1.17	ornithine decarboxylase
+ODC-paralogue	4.1.1.17	ornithine decarboxylase
+XODC1	4.1.1.17	ornithine decarboxylase
+XODC2	4.1.1.17	ornithine decarboxylase
+ODC	4.1.1.17	ornithine decarboxylase
+SpeC	4.1.1.17	ornithine decarboxylase
+lysine/ornithine decarboxylase	4.1.1.17	ornithine decarboxylase
+LDC/ODC	4.1.1.17	ornithine decarboxylase
+PfODC/AdoMetDC	4.1.1.17	ornithine decarboxylase
+PfAdoMetDC-ODC	4.1.1.17	ornithine decarboxylase
+S-adenosylmethionine decarboxylase/ornithine decarboxylase	4.1.1.17	ornithine decarboxylase
+AdoMetDC/ODC	4.1.1.17	ornithine decarboxylase
+ornithine decarboxylase	4.1.1.17	ornithine decarboxylase
+degradative ornithine decarboxylase	4.1.1.17	ornithine decarboxylase
+CadA	4.1.1.18	lysine decarboxylase
+LDC	4.1.1.18	lysine decarboxylase
+L-lysine decarboxylase	4.1.1.18	lysine decarboxylase
+inducible lysine decarboxylase	4.1.1.18	lysine decarboxylase
+LdcI/CadA	4.1.1.18	lysine decarboxylase
+L-Lys-OD	4.1.1.18	lysine decarboxylase
+LdcI	4.1.1.18	lysine decarboxylase
+lysine decarboxylase	4.1.1.18	lysine decarboxylase
+DesA	4.1.1.18	lysine decarboxylase
+ECORLD	4.1.1.18	lysine decarboxylase
+Decarboxylase, arginine	4.1.1.19	arginine decarboxylase
+Synthetic arginine decarboxylase	4.1.1.19	arginine decarboxylase
+bADC	4.1.1.19	arginine decarboxylase
+dADC	4.1.1.19	arginine decarboxylase
+AdiA	4.1.1.19	arginine decarboxylase
+ARGDC	4.1.1.19	arginine decarboxylase
+stress-inducible	4.1.1.19	arginine decarboxylase
+arginine decarboxylase2	4.1.1.19	arginine decarboxylase
+ADC2	4.1.1.19	arginine decarboxylase
+arginine:agmatine exchange system	4.1.1.19	arginine decarboxylase
+AaxB protein	4.1.1.19	arginine decarboxylase
+ADC	4.1.1.19	arginine decarboxylase
+SpeA	4.1.1.19	arginine decarboxylase
+the enzyme belongs to the group IV ofpyridoxal 5-phosphate-dependent decarboxylases belonging to thealpha/beta barrel structural family	4.1.1.19	arginine decarboxylase
+pyruvoyl-dependent arginine decraboxylase	4.1.1.19	arginine decarboxylase
+PvlArgDC	4.1.1.19	arginine decarboxylase
+pyruvoyl-dependent arginine decarboxylase	4.1.1.19	arginine decarboxylase
+arginine decarboxlase 2	4.1.1.19	arginine decarboxylase
+CPn1032 homolog	4.1.1.19	arginine decarboxylase
+PBCV-1 DC	4.1.1.19	arginine decarboxylase
+arginine decarboxylase	4.1.1.19	arginine decarboxylase
+ADC1	4.1.1.19	arginine decarboxylase
+expressed in all stages of development, up-regulatedin response to chilling or salt stress in seedling stage	4.1.1.19	arginine decarboxylase
+expressed mainly in mature plant	4.1.1.19	arginine decarboxylase
+acid-induced biodegradative arginine decarboxylase	4.1.1.19	arginine decarboxylase
+PpADC	4.1.1.19	arginine decarboxylase
+L-Arginine decarboxylase	4.1.1.19	arginine decarboxylase
+Biosynthetic arginine decarboxylase	4.1.1.19	arginine decarboxylase
+protein SSO0536	4.1.1.19	arginine decarboxylase
+TK0149	4.1.1.19	arginine decarboxylase
+Tk-PdaD	4.1.1.19	arginine decarboxylase
+AaxB	4.1.1.19	arginine decarboxylase
+gene name	4.1.1.19	arginine decarboxylase
+PdaD	4.1.1.19	arginine decarboxylase
+Decarboxylase, oxalate	4.1.1.2	oxalate decarboxylase
+OXD	4.1.1.2	oxalate decarboxylase
+gene name	4.1.1.2	oxalate decarboxylase
+formerly YoaN	4.1.1.2	oxalate decarboxylase
+oxazyme (OC4) is an orally administered formulationthat has as an active component a recombinant mutant form of Bacillussubtilis oxalate decarboxylase (OxDC) enzyme C383S	4.1.1.2	oxalate decarboxylase
+belongs to the cupin superfamily, bicupin	4.1.1.2	oxalate decarboxylase
+YvrK	4.1.1.2	oxalate decarboxylase
+ODC	4.1.1.2	oxalate decarboxylase
+oxalate carboxy-lyase	4.1.1.2	oxalate decarboxylase
+formerly YvrK	4.1.1.2	oxalate decarboxylase
+YoaN	4.1.1.2	oxalate decarboxylase
+oxalate-decarboxylase	4.1.1.2	oxalate decarboxylase
+commercial preparation	4.1.1.2	oxalate decarboxylase
+ODC B	4.1.1.2	oxalate decarboxylase
+ODC C	4.1.1.2	oxalate decarboxylase
+ODC E	4.1.1.2	oxalate decarboxylase
+ODC F	4.1.1.2	oxalate decarboxylase
+AnODC	4.1.1.2	oxalate decarboxylase
+putative recombinant enzyme, contains N- and C-cupindomains of OXDC	4.1.1.2	oxalate decarboxylase
+TOXDC	4.1.1.2	oxalate decarboxylase
+Decarboxylase, diaminopimelate	4.1.1.20	diaminopimelate decarboxylase
+Diaminopimelic acid decarboxylase	4.1.1.20	diaminopimelate decarboxylase
+DAP-decarboxylase	4.1.1.20	diaminopimelate decarboxylase
+DAP decarboxylase	4.1.1.20	diaminopimelate decarboxylase
+meso-DAP decarboxylase	4.1.1.20	diaminopimelate decarboxylase
+gene name	4.1.1.20	diaminopimelate decarboxylase
+meso-diaminopimelate decarboxylase	4.1.1.20	diaminopimelate decarboxylase
+DAPDC	4.1.1.20	diaminopimelate decarboxylase
+diaminopimelate decarboxylase 1	4.1.1.20	diaminopimelate decarboxylase
+DAP decarboxylase 1	4.1.1.20	diaminopimelate decarboxylase
+DAPDC 1	4.1.1.20	diaminopimelate decarboxylase
+gene name	4.1.1.20	diaminopimelate decarboxylase
+locus name	4.1.1.20	diaminopimelate decarboxylase
+diaminopimelate decarboxylase 2	4.1.1.20	diaminopimelate decarboxylase
+DAP decarboxylase 2	4.1.1.20	diaminopimelate decarboxylase
+DAPDC 2	4.1.1.20	diaminopimelate decarboxylase
+gene name	4.1.1.20	diaminopimelate decarboxylase
+locus name	4.1.1.20	diaminopimelate decarboxylase
+DDC	4.1.1.20	diaminopimelate decarboxylase
+Carboxylyase, phosphoribosylaminoimidazole	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+5-Phosphoribosyl-5-aminoimidazole carboxylase	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+5-Amino-1-ribosylimidazole 5-phosphate carboxylase	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+AIRC	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+aminoimidazole ribonucleotide carboxylase	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+AIR carboxylase	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+PurE	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+class II PurE	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+PAICS	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+phosphoribosylaminoimidazolecarboxylase/phosphoribosylaminoimidazole succinocarboxamide synthetase	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+AdeD	4.1.1.21	phosphoribosylaminoimidazole carboxylase
+Decarboxylase, histidine	4.1.1.22	histidine decarboxylase
+HisDCase	4.1.1.22	histidine decarboxylase
+TOM92	4.1.1.22	histidine decarboxylase
+histamine-forming enzyme	4.1.1.22	histidine decarboxylase
+HDC	4.1.1.22	histidine decarboxylase
+DCHS	4.1.1.22	histidine decarboxylase
+L-Histidine decarboxylase	4.1.1.22	histidine decarboxylase
+pyruvoyl-dependent histidine decarboxylase	4.1.1.22	histidine decarboxylase
+HdcA	4.1.1.22	histidine decarboxylase
+pyruvoyl-dependent decarboxylase	4.1.1.22	histidine decarboxylase
+Decarboxylase, orotidine 5'-phosphate	4.1.1.23	orotidine-5'-phosphate decarboxylase
+OMP-DC	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotate monophosphate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotic decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotidine phosphate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotidine 5'-phosphate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotidylate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotidylic decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotidylic acid decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotodylate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+OMPdecase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Uridine 5'-monophosphate synthase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+ODCase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotidine-5'-monophosphate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+PfOMPDC	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotidine 5'-monophosphate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+OMPDC	4.1.1.23	orotidine-5'-phosphate decarboxylase
+PfODCase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+PbrURA3	4.1.1.23	orotidine-5'-phosphate decarboxylase
+UMP synthase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+PyrF	4.1.1.23	orotidine-5'-phosphate decarboxylase
+OMP decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+OMPD	4.1.1.23	orotidine-5'-phosphate decarboxylase
+orotidine-5'-phosphate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+OMPDCase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+Orotidine monophosphate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+orotidine 5-phosphate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+orotidine-5-monophosphate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+orotidine 5-monophosphate decarboxylase	4.1.1.23	orotidine-5'-phosphate decarboxylase
+decarboxylase, aminobenzoate	4.1.1.24	aminobenzoate decarboxylase
+Decarboxylase, tyrosine	4.1.1.25	tyrosine decarboxylase
+L-Tyrosine decarboxylase	4.1.1.25	tyrosine decarboxylase
+L-(-)-Tyrosine apodecarboxylase	4.1.1.25	tyrosine decarboxylase
+Tyrosine/Dopa decarboxylase	4.1.1.25	tyrosine decarboxylase
+TYDC/DODC	4.1.1.25	tyrosine decarboxylase
+ELI5	4.1.1.25	tyrosine decarboxylase
+MfnA protein	4.1.1.25	tyrosine decarboxylase
+dTdc1	4.1.1.25	tyrosine decarboxylase
+dTdc2	4.1.1.25	tyrosine decarboxylase
+gene name	4.1.1.25	tyrosine decarboxylase
+tyrosine decarboxylase	4.1.1.25	tyrosine decarboxylase
+TYDC	4.1.1.25	tyrosine decarboxylase
+AADC	4.1.1.25	tyrosine decarboxylase
+L-amino acid decarboxylase	4.1.1.25	tyrosine decarboxylase
+TYR decarboxylase	4.1.1.25	tyrosine decarboxylase
+AtTYDC	4.1.1.25	tyrosine decarboxylase
+PsTYDC1	4.1.1.25	tyrosine decarboxylase
+PsTYDC2	4.1.1.25	tyrosine decarboxylase
+tyrosine/Dopa decarboxylase-1	4.1.1.25	tyrosine decarboxylase
+tyrosine/Dopa decarboxylase-2	4.1.1.25	tyrosine decarboxylase
+PcTYDC2	4.1.1.25	tyrosine decarboxylase
+tyrosine decarboxylase-2	4.1.1.25	tyrosine decarboxylase
+TyrDC	4.1.1.25	tyrosine decarboxylase
+gene name	4.1.1.25	tyrosine decarboxylase
+TyrDC-2	4.1.1.25	tyrosine decarboxylase
+gene name	4.1.1.25	tyrosine decarboxylase
+Tyrosine/Dopa decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+5-Hydroxy-L-tryptophan decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+5-Hydroxytryptophan decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Decarboxylase, aromatic amino acid	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Dihydroxyphenylalanine-5-hydroxytryptophan decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+DOPA-5-hydroxytryptophan decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Hydroxytryptophan decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+L-Aromatic amino acid decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+L-5-Hydroxytryptophan decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+TYDC	4.1.1.28	aromatic-L-amino-acid decarboxylase
+DOPA DC	4.1.1.28	aromatic-L-amino-acid decarboxylase
+human DDC gene undergoes complex processing leading to theformation of multiple mRNA isoforms. Alternative splicing within its5-untranslated region leads to the formation of two mRNA types, neural(N1 exon) and non-neural (L1 exon) type. Neural type DDC transcriptwhich lacks exon 3 and the alternative 37 kD alt-DDC protein isoformwhich lacks exons 10-15 but includes an alternative exon 10 in humanperipheral leukocytes.	4.1.1.28	aromatic-L-amino-acid decarboxylase
+L-DOPA decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Aromatic amino acid decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Trp decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+gene name	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Tenebrio Dopa decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+L-Tryptophan decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+formerly	4.1.1.28	aromatic-L-amino-acid decarboxylase
+aromatic acid acid decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+AADC	4.1.1.28	aromatic-L-amino-acid decarboxylase
+DOPAdecarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+L-amino acid decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+5HTP decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+DOPA/5HTP decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Di-ADC	4.1.1.28	aromatic-L-amino-acid decarboxylase
+CrTDC	4.1.1.28	aromatic-L-amino-acid decarboxylase
+TDC2	4.1.1.28	aromatic-L-amino-acid decarboxylase
+tryptophan decarboxylase-1	4.1.1.28	aromatic-L-amino-acid decarboxylase
+tryptophan decarboxylase-2	4.1.1.28	aromatic-L-amino-acid decarboxylase
+HsDDC	4.1.1.28	aromatic-L-amino-acid decarboxylase
+formerly	4.1.1.28	aromatic-L-amino-acid decarboxylase
+aromatic amino acid decarboxylase 1A	4.1.1.28	aromatic-L-amino-acid decarboxylase
+AADC1A	4.1.1.28	aromatic-L-amino-acid decarboxylase
+aromatic amino acid decarboxylase 1B	4.1.1.28	aromatic-L-amino-acid decarboxylase
+AADC1B	4.1.1.28	aromatic-L-amino-acid decarboxylase
+aromatic-L-amino-acid decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+5-hydroxytryptophan hydroxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Tryptophan decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+AAAD	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Aromatic L-amino acid decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+3,4-Dihydroxyphenylalanine decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+AAAC	4.1.1.28	aromatic-L-amino-acid decarboxylase
+L-3,4-Dihydroxyphenylalanine decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+AACD	4.1.1.28	aromatic-L-amino-acid decarboxylase
+isoform	4.1.1.28	aromatic-L-amino-acid decarboxylase
+isoform	4.1.1.28	aromatic-L-amino-acid decarboxylase
+alternative DDC protein isoform	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Tydc9	4.1.1.28	aromatic-L-amino-acid decarboxylase
+gene name	4.1.1.28	aromatic-L-amino-acid decarboxylase
+3,4-dihydroxyphenylalanine carboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+L-amino-acid decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+isoform	4.1.1.28	aromatic-L-amino-acid decarboxylase
+isoform	4.1.1.28	aromatic-L-amino-acid decarboxylase
+isoform	4.1.1.28	aromatic-L-amino-acid decarboxylase
+L-aromatic aminoacid decarboxylase	4.1.1.28	aromatic-L-amino-acid decarboxylase
+Cysteic acid decarboxylase	4.1.1.29	sulfinoalanine decarboxylase
+Cysteic decarboxylase	4.1.1.29	sulfinoalanine decarboxylase
+Cysteinesulfinate decarboxylase	4.1.1.29	sulfinoalanine decarboxylase
+Decarboxylase, cysteinesulfinate	4.1.1.29	sulfinoalanine decarboxylase
+L-Cysteinesulfinic acid decarboxylase	4.1.1.29	sulfinoalanine decarboxylase
+L-Cysteine sulfinate carboxy-lyase	4.1.1.29	sulfinoalanine decarboxylase
+CADCase	4.1.1.29	sulfinoalanine decarboxylase
+CSADCase	4.1.1.29	sulfinoalanine decarboxylase
+CAD	4.1.1.29	sulfinoalanine decarboxylase
+CSAD/CAD	4.1.1.29	sulfinoalanine decarboxylase
+Sulfinoalanine decarboxylase	4.1.1.29	sulfinoalanine decarboxylase
+Cysteine-sulfinate decarboxylase	4.1.1.29	sulfinoalanine decarboxylase
+Cysteinesulfinic acid decarboxylase	4.1.1.29	sulfinoalanine decarboxylase
+Cysteine sulfinate decarboxylase	4.1.1.29	sulfinoalanine decarboxylase
+CSAD	4.1.1.29	sulfinoalanine decarboxylase
+CSD	4.1.1.29	sulfinoalanine decarboxylase
+Cysteine sulfinic acid decarboxylase	4.1.1.29	sulfinoalanine decarboxylase
+CSADI	4.1.1.29	sulfinoalanine decarboxylase
+CSADII	4.1.1.29	sulfinoalanine decarboxylase
+pantothenylcysteine decarboxylase	4.1.1.30	pantothenoylcysteine decarboxylase
+decarboxylase, pantothenoylcysteine	4.1.1.30	pantothenoylcysteine decarboxylase
+Carboxylase, phosphopyruvate (phosphate)	4.1.1.31	phosphoenolpyruvate carboxylase
+Phosphoenolpyruvic carboxylase	4.1.1.31	phosphoenolpyruvate carboxylase
+CP21	4.1.1.31	phosphoenolpyruvate carboxylase
+CP28	4.1.1.31	phosphoenolpyruvate carboxylase
+CP46	4.1.1.31	phosphoenolpyruvate carboxylase
+PEOC	4.1.1.31	phosphoenolpyruvate carboxylase
+PEPCK	4.1.1.31	phosphoenolpyruvate carboxylase
+Atppc1	4.1.1.31	phosphoenolpyruvate carboxylase
+Atppc2	4.1.1.31	phosphoenolpyruvate carboxylase
+Atppc3	4.1.1.31	phosphoenolpyruvate carboxylase
+Atppc4	4.1.1.31	phosphoenolpyruvate carboxylase
+bacterial-type PEPC	4.1.1.31	phosphoenolpyruvate carboxylase
+archaeal-type phosphoenolpyruvate carboxylase	4.1.1.31	phosphoenolpyruvate carboxylase
+PepcA	4.1.1.31	phosphoenolpyruvate carboxylase
+locus name	4.1.1.31	phosphoenolpyruvate carboxylase
+atPEPC	4.1.1.31	phosphoenolpyruvate carboxylase
+C4 PEPC	4.1.1.31	phosphoenolpyruvate carboxylase
+isoform	4.1.1.31	phosphoenolpyruvate carboxylase
+phosphoenolpyruvate carboxykinase	4.1.1.31	phosphoenolpyruvate carboxylase
+isozyme	4.1.1.31	phosphoenolpyruvate carboxylase
+isozyme	4.1.1.31	phosphoenolpyruvate carboxylase
+isozyme	4.1.1.31	phosphoenolpyruvate carboxylase
+isozyme	4.1.1.31	phosphoenolpyruvate carboxylase
+BPTC	4.1.1.31	phosphoenolpyruvate carboxylase
+PEPC	4.1.1.31	phosphoenolpyruvate carboxylase
+PTPC	4.1.1.31	phosphoenolpyruvate carboxylase
+plant-typephosphoenolpyruvate carboxylase	4.1.1.31	phosphoenolpyruvate carboxylase
+PEPcarboxylase	4.1.1.31	phosphoenolpyruvate carboxylase
+Ljpepc1	4.1.1.31	phosphoenolpyruvate carboxylase
+photosynthetic phosphoenolpyruvate carboxylase	4.1.1.31	phosphoenolpyruvate carboxylase
+C4-PEPC	4.1.1.31	phosphoenolpyruvate carboxylase
+CrPpc1	4.1.1.31	phosphoenolpyruvate carboxylase
+CrPpc2	4.1.1.31	phosphoenolpyruvate carboxylase
+Class-1 PEPC	4.1.1.31	phosphoenolpyruvate carboxylase
+Class-2 PEPC	4.1.1.31	phosphoenolpyruvate carboxylase
+PEPC2	4.1.1.31	phosphoenolpyruvate carboxylase
+PPC	4.1.1.31	phosphoenolpyruvate carboxylase
+PEP-carboxylase	4.1.1.31	phosphoenolpyruvate carboxylase
+isoform	4.1.1.31	phosphoenolpyruvate carboxylase
+isoform	4.1.1.31	phosphoenolpyruvate carboxylase
+PEPCase	4.1.1.31	phosphoenolpyruvate carboxylase
+Phosphoenolpyruvate carboxylase	4.1.1.31	phosphoenolpyruvate carboxylase
+PEPK	4.1.1.31	phosphoenolpyruvate carboxylase
+bacterial-type phosphoenolpyruvate carboxylase	4.1.1.31	phosphoenolpyruvate carboxylase
+BTPC	4.1.1.31	phosphoenolpyruvate carboxylase
+S.minutum PEPC1	4.1.1.31	phosphoenolpyruvate carboxylase
+PEPC(p102)kinase	4.1.1.31	phosphoenolpyruvate carboxylase
+PEPC3	4.1.1.31	phosphoenolpyruvate carboxylase
+PEPCase1	4.1.1.31	phosphoenolpyruvate carboxylase
+Hvpepc4	4.1.1.31	phosphoenolpyruvate carboxylase
+Hvpepc3	4.1.1.31	phosphoenolpyruvate carboxylase
+Hvpepc5	4.1.1.31	phosphoenolpyruvate carboxylase
+SvPEPC	4.1.1.31	phosphoenolpyruvate carboxylase
+PpcA	4.1.1.31	phosphoenolpyruvate carboxylase
+phosphoenol pyruvate carboxylase	4.1.1.31	phosphoenolpyruvate carboxylase
+PEP carboxylase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+Phosphoenolpyruvic carboxylase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+Phosphoenolpyruvate carboxylase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+carboxykinase, phosphopyruvate (guanosine triphosphate)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphoenolpyruvic carboxykinase (GTP)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphopyruvate carboxylase (GTP)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphoenolpyruvic carboxylase (GTP)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphoenolpyruvic carboxykinase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+oxaloacetate kinase (decarboxylating, GDP)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphopyruvate carboxylase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphopyruvate carboxykinase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphoenolpyruvate carboxylase (GTP)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphoenolpyruvic carboxylase (inosine triphosphate)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphoenolpyruvic carboxykinase (inosine triphosphate)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+P-enolpyruvate carboxykinase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+GTP/ITP:oxaloacetatecarboxylase (transphosphorylating)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+GTP-dependent PEPCK-C	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+PEPCK	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+GTP/ITP: oxaloacetate carboxylase (transphosphorylating)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+PCK	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphoenolpyruvate carboxykinase (GTP)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphoenolpyruvate carboxykinase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+cytosolic form	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+PEPCK-M	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+C4 phosphoenolpyruvate carboxykinase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+GDP-linked PEP carboxykinase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+GTP/ITP:oxaloacetate carboxylyase (transphosphorylating)	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+PEP-carboxykinase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+CgPCK	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+GTP-PEPCK	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+phosphoenolpyruvate carboxykinase, GTP-dependent	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+transphosphorylating,interacts also with ATP, EC 4.1.1.49	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+PEP carboxykinase	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+PEPC	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+PDC-E2	4.1.1.32	phosphoenolpyruvate carboxykinase (GTP)
+Decarboxylase, pyrophosphomevalonate	4.1.1.33	diphosphomevalonate decarboxylase
+Pyrophosphomevalonate decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+Pyrophosphomevalonic acid decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+5-Pyrophosphomevalonate decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+Mevalonate (diphospho)decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+phosphomevalonate decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+PMD	4.1.1.33	diphosphomevalonate decarboxylase
+DPM-DC	4.1.1.33	diphosphomevalonate decarboxylase
+diphosphomevalonate decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+scMVD	4.1.1.33	diphosphomevalonate decarboxylase
+ScMDD	4.1.1.33	diphosphomevalonate decarboxylase
+improved mutant I145F	4.1.1.33	diphosphomevalonate decarboxylase
+improved mutant R74H	4.1.1.33	diphosphomevalonate decarboxylase
+Mevalonate pyrophosphate decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+MPD	4.1.1.33	diphosphomevalonate decarboxylase
+gene name	4.1.1.33	diphosphomevalonate decarboxylase
+DMD	4.1.1.33	diphosphomevalonate decarboxylase
+MDP	4.1.1.33	diphosphomevalonate decarboxylase
+mevalonate pyrophosphate decraboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+mevalonate diphospho decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+gene name	4.1.1.33	diphosphomevalonate decarboxylase
+mevalonate 5'-diphosphate decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+Mevalonate-5-pyrophosphate decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+Mevalonate 5-diphosphate decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+MDD	4.1.1.33	diphosphomevalonate decarboxylase
+mevalonate diphosphate decarboxylase	4.1.1.33	diphosphomevalonate decarboxylase
+keto-L-gulonate decarboxylase	4.1.1.34	dehydro-L-gulonate decarboxylase
+Decarboxylase, keto-L-gulonate	4.1.1.34	dehydro-L-gulonate decarboxylase
+3-Keto-L-gulonate decarboxylase	4.1.1.34	dehydro-L-gulonate decarboxylase
+Decarboxylase, uridine diphosphoglucuronate	4.1.1.35	UDP-glucuronate decarboxylase
+Uridine-diphospho glucuronate decarboxylase	4.1.1.35	UDP-glucuronate decarboxylase
+UDP-glucuronate decarboxylase	4.1.1.35	UDP-glucuronate decarboxylase
+Uridine diphosphate glucuronate carboxy-lyase	4.1.1.35	UDP-glucuronate decarboxylase
+UDPglucuronate carboxy-lyase	4.1.1.35	UDP-glucuronate decarboxylase
+isoform	4.1.1.35	UDP-glucuronate decarboxylase
+UXS	4.1.1.35	UDP-glucuronate decarboxylase
+UDP-D-glucuronate carboxy-lyase	4.1.1.35	UDP-glucuronate decarboxylase
+UDP-D-xylose synthase	4.1.1.35	UDP-glucuronate decarboxylase
+OsUXS2	4.1.1.35	UDP-glucuronate decarboxylase
+OsUXS3	4.1.1.35	UDP-glucuronate decarboxylase
+OsUXS1	4.1.1.35	UDP-glucuronate decarboxylase
+UDPGlcADCX1	4.1.1.35	UDP-glucuronate decarboxylase
+isoform	4.1.1.35	UDP-glucuronate decarboxylase
+isoform	4.1.1.35	UDP-glucuronate decarboxylase
+isoform	4.1.1.35	UDP-glucuronate decarboxylase
+isoform	4.1.1.35	UDP-glucuronate decarboxylase
+HvUXS1	4.1.1.35	UDP-glucuronate decarboxylase
+HvUXS2	4.1.1.35	UDP-glucuronate decarboxylase
+HvUXS4	4.1.1.35	UDP-glucuronate decarboxylase
+HvUXS3	4.1.1.35	UDP-glucuronate decarboxylase
+UDP-glucuronate acid decarboxylase	4.1.1.35	UDP-glucuronate decarboxylase
+UDP-glucuronic acid decarboxylase	4.1.1.35	UDP-glucuronate decarboxylase
+isoform	4.1.1.35	UDP-glucuronate decarboxylase
+isoform	4.1.1.35	UDP-glucuronate decarboxylase
+UDP-GlcA decarboxylase	4.1.1.35	UDP-glucuronate decarboxylase
+Decarboxylase, phosphopantothenoylcysteine	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+4'-Phosphopantotheoylcysteine decarboxylase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+4'-Phosphopantothenoyl-L-cysteine decarboxylase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+P-PaCysSH decarboxylase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+PPC-decarboxylase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+4'-Phospho-N-(D-pantothenoyl)-L-cysteine carboxy-lyase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+N-((R)-4-phosphopantothenoyl)-L-cysteine carboxy-lyase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+decarboxylase AtHAL3a	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+AtHAL3a	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+flavoprotein AtHal3a	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+4'-phosphopantothenoyl-cysteine decarboxylase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+HAL3A	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+At3g18030	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+part of the bifunctional Dfp protein	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+4'-phosphopantothenoylcysteine decarboxylase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+PCC	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+4’-phosphopantothenoylcysteine decarboxylase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+Dfp	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+dfp flavoprotein	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+PPC decarboxylase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+CoaBC	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+PPC-DC	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+PPC	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+Phosphopantothenoylcysteine decarboxylase	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+PPCDC	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+NtHAL3	4.1.1.36	phosphopantothenoylcysteine decarboxylase
+Decarboxylase, uroporphyrinogen	4.1.1.37	uroporphyrinogen decarboxylase
+Uroporphyrinogen III decarboxylase	4.1.1.37	uroporphyrinogen decarboxylase
+UPD	4.1.1.37	uroporphyrinogen decarboxylase
+uro-III decarboxylase	4.1.1.37	uroporphyrinogen decarboxylase
+tobacco UROD	4.1.1.37	uroporphyrinogen decarboxylase
+UORO-D	4.1.1.37	uroporphyrinogen decarboxylase
+ch-UroD	4.1.1.37	uroporphyrinogen decarboxylase
+UroD	4.1.1.37	uroporphyrinogen decarboxylase
+Hem12p	4.1.1.37	uroporphyrinogen decarboxylase
+URO-D	4.1.1.37	uroporphyrinogen decarboxylase
+UROD1	4.1.1.37	uroporphyrinogen decarboxylase
+uroporphyrinogen decarboxylase 1	4.1.1.37	uroporphyrinogen decarboxylase
+Uro-decarboxylase	4.1.1.37	uroporphyrinogen decarboxylase
+uroporphyrinogen-decarboxylase	4.1.1.37	uroporphyrinogen decarboxylase
+uroporphyrinogen-III decarboxylase	4.1.1.37	uroporphyrinogen decarboxylase
+uroporphyrinogen decarboxylase	4.1.1.37	uroporphyrinogen decarboxylase
+Porphyrinogen carboxy-lyase	4.1.1.37	uroporphyrinogen decarboxylase
+PCL	4.1.1.37	uroporphyrinogen decarboxylase
+rl-UroD	4.1.1.37	uroporphyrinogen decarboxylase
+UROD protein	4.1.1.37	uroporphyrinogen decarboxylase
+PEP carboxylase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+Phosphoenolpyruvic carboxylase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+Phosphoenolpyruvate carboxylase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphoenolpyruvic carboxykinase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphoenolpyruvate carboxykinase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+PEP carboxykinase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphopyruvate carboxylase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphopyruvate carboxykinase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+carboxykinase, phosphopyruvate (pyrophosphate)	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphoenolpyruvate carboxyphosphotransferase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphoenolpyruvic carboxytransphosphorylase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+PEP carboxyphosphotransferase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphopyruvate carboxylase (pyrophosphate)	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphoenolpyruvate carboxylase (pyrophosphate)	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphoenolpyruvic carboxylase (pyrophosphate)	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphoenolpyruvic carboxykinase (pyrophosphate)	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphoenolpyruvate carboxytransphosphorylase	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+PEPCTrP	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+phosphoenolpyruvate carboxykinase (pyrophosphate)	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+PCK	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+PEPCK	4.1.1.38	phosphoenolpyruvate carboxykinase (diphosphate)
+Ribulose diphosphate carboxylase	4.1.1.39	ribulose-bisphosphate carboxylase
+Carboxydismutase	4.1.1.39	ribulose-bisphosphate carboxylase
+Diphosphoribulose carboxylase	4.1.1.39	ribulose-bisphosphate carboxylase
+Ribulose 1,5-diphosphate carboxylase	4.1.1.39	ribulose-bisphosphate carboxylase
+D-Ribulose-1,5-bisphosphate carboxylase	4.1.1.39	ribulose-bisphosphate carboxylase
+Ribulose bisphosphate carboxylase-oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+Ribulose 1,5-diphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+Ribulose diphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+RuBP carboxylase	4.1.1.39	ribulose-bisphosphate carboxylase
+LESS17	4.1.1.39	ribulose-bisphosphate carboxylase
+PSS15	4.1.1.39	ribulose-bisphosphate carboxylase
+PSSU1	4.1.1.39	ribulose-bisphosphate carboxylase
+Water stress responsive proteins 1, 2 and 14	4.1.1.39	ribulose-bisphosphate carboxylase
+Rubisco-LSU	4.1.1.39	ribulose-bisphosphate carboxylase
+D-ribulose1,5-bisphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose bisphosphate carboxylase	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose-bisphosphate carboxylase	4.1.1.39	ribulose-bisphosphate carboxylase
+gene name	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose-1,5-bisphosphate carboxylase	4.1.1.39	ribulose-bisphosphate carboxylase
+RubiscoL	4.1.1.39	ribulose-bisphosphate carboxylase
+RbcL2	4.1.1.39	ribulose-bisphosphate carboxylase
+form III ribulose-1,5-bisphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose 1, 5-bisphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+RuBisCo homologue, not able to catalysethe carboxylase or the oxygenase reactions that are catalysed byphotosynthetic RuBisCO	4.1.1.39	ribulose-bisphosphate carboxylase
+RLP	4.1.1.39	ribulose-bisphosphate carboxylase
+Pk-Rubisco	4.1.1.39	ribulose-bisphosphate carboxylase
+type III ribulose 1,5-bisphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+Rbc	4.1.1.39	ribulose-bisphosphate carboxylase
+Galdieria Rubisco	4.1.1.39	ribulose-bisphosphate carboxylase
+archaeal Rubisco	4.1.1.39	ribulose-bisphosphate carboxylase
+Tk-Rubisco	4.1.1.39	ribulose-bisphosphate carboxylase
+type III Rubisco	4.1.1.39	ribulose-bisphosphate carboxylase
+gene name	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose 1,5 bisphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+green-like type rubisco	4.1.1.39	ribulose-bisphosphate carboxylase
+MbR	4.1.1.39	ribulose-bisphosphate carboxylase
+Ribulose 1,5-bisphosphate carboxylase-oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+barley rubisco	4.1.1.39	ribulose-bisphosphate carboxylase
+red-type form I RuBisCO	4.1.1.39	ribulose-bisphosphate carboxylase
+small subunit subtype 1	4.1.1.39	ribulose-bisphosphate carboxylase
+large subunit subtype 1	4.1.1.39	ribulose-bisphosphate carboxylase
+RubisCO redlike form I	4.1.1.39	ribulose-bisphosphate carboxylase
+D-ribulose-1,5-bisphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+small subunit subtype 2	4.1.1.39	ribulose-bisphosphate carboxylase
+large subunit subtype 2	4.1.1.39	ribulose-bisphosphate carboxylase
+Ribulose bisphosphate carboxylase large chain	4.1.1.39	ribulose-bisphosphate carboxylase
+Rubisco small subunit	4.1.1.39	ribulose-bisphosphate carboxylase
+gene name	4.1.1.39	ribulose-bisphosphate carboxylase
+gene name	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose-1,5-bisphosphate carboxylase/oxygenase large subunit	4.1.1.39	ribulose-bisphosphate carboxylase
+form I RubisCO	4.1.1.39	ribulose-bisphosphate carboxylase
+dimeric form	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose-1,5-bisphosphate (RuBP) carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+Rubisco	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose-1,5-bisphosphate carboxylase/oxygenase small subunit	4.1.1.39	ribulose-bisphosphate carboxylase
+gene name	4.1.1.39	ribulose-bisphosphate carboxylase
+Ribulose 1,5-bisphosphatecarboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+Ribulose 1,5-bisphosphate carboxylase	4.1.1.39	ribulose-bisphosphate carboxylase
+CbbM	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose-bisphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+D-Ribulose 1,5-diphosphate carboxylase	4.1.1.39	ribulose-bisphosphate carboxylase
+RuBPcase	4.1.1.39	ribulose-bisphosphate carboxylase
+RuBPCO	4.1.1.39	ribulose-bisphosphate carboxylase
+gene name	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose-1, 5-bisphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose bisphosphatecarboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+isozyme	4.1.1.39	ribulose-bisphosphate carboxylase
+isozyme	4.1.1.39	ribulose-bisphosphate carboxylase
+CbbL1 protein	4.1.1.39	ribulose-bisphosphate carboxylase
+CbbL2 protein	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose 1·5-bisphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+RuBPC	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose bisphosphate carboxylase/oxygenaselarge subunit	4.1.1.39	ribulose-bisphosphate carboxylase
+RuBPcarboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+ribulose-1,5-bisphosphate carboxylase/oxygenase	4.1.1.39	ribulose-bisphosphate carboxylase
+Decarboxylase, acetoacetate	4.1.1.4	acetoacetate decarboxylase
+Acetoacetic decarboxylase	4.1.1.4	acetoacetate decarboxylase
+Polymyxin MI	4.1.1.4	acetoacetate decarboxylase
+CP 28/CP 29	4.1.1.4	acetoacetate decarboxylase
+acetoacetic acid decarboxylase	4.1.1.4	acetoacetate decarboxylase
+ADC	4.1.1.4	acetoacetate decarboxylase
+AADC	4.1.1.4	acetoacetate decarboxylase
+AAD	4.1.1.4	acetoacetate decarboxylase
+AADase	4.1.1.4	acetoacetate decarboxylase
+Decarboxylase, hydroxypyruvate	4.1.1.40	hydroxypyruvate decarboxylase
+Decarboxylase, phenylpyruvate	4.1.1.43	phenylpyruvate decarboxylase
+YDR380W	4.1.1.43	phenylpyruvate decarboxylase
+phenyl/indolepyruvate decarboxylase	4.1.1.43	phenylpyruvate decarboxylase
+formerly classified asindole-3-pyruvate decarboxylase (ipdC)	4.1.1.43	phenylpyruvate decarboxylase
+PPDC	4.1.1.43	phenylpyruvate decarboxylase
+gene name	4.1.1.43	phenylpyruvate decarboxylase
+KDC	4.1.1.43	phenylpyruvate decarboxylase
+CMD	4.1.1.44	4-carboxymuconolactone decarboxylase
+PcaC	4.1.1.44	4-carboxymuconolactone decarboxylase
+bifunctional enzyme	4.1.1.44	4-carboxymuconolactone decarboxylase
+PcaL	4.1.1.44	4-carboxymuconolactone decarboxylase
+gamma-CMD	4.1.1.44	4-carboxymuconolactone decarboxylase
+gamma-carboxymuconolactone decarboxylase	4.1.1.44	4-carboxymuconolactone decarboxylase
+Decarboxylase, aminocarboxymuconate semialdehyde	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+Picolinic acid carboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+Picolinic acid decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+alpha-Amino-beta-carboxymuconate-epsilon-semialdehade decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+alpha-Amino-beta-carboxymuconate-epsilon-semialdehydebeta-decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+Amino-carboxymuconate-semialdehyde decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+Picolinic decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+3-(3-oxoprop-2-enyl)-2-aminobut-2-endioate carboxy-lyase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+alpha-amino-beta-carboxymuconate-epsilon-semialdehyde decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+member of the metal-dependentamidohydrolase superfamily of the (beta/alpha)8 TIM barrel fold	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+ACMSDase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+NbaD enzyme	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+hACMSD	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+enzymatically active form	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+ACMS decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+2-amino 3-carboxymuconate 6-semialdehyde decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+alpha-amino beta-carboxymuconate epsilon-semialdehyde decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+2-amino-3-carboxymuconate-6-semialdehyde decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+alpha-amino-beta-carboxymuconic-epsilon-semialdehyde decarboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+picolinic carboxylase	4.1.1.45	aminocarboxymuconate-semialdehyde decarboxylase
+Decarboxylase, o-pyrocatechuate	4.1.1.46	o-pyrocatechuate decarboxylase
+2,3-Dihydroxybenzoic acid decarboxylase	4.1.1.46	o-pyrocatechuate decarboxylase
+DHBA decarboxylase	4.1.1.46	o-pyrocatechuate decarboxylase
+o-Pyrocatechuic acid carboxy-lyase	4.1.1.46	o-pyrocatechuate decarboxylase
+DHBD	4.1.1.46	o-pyrocatechuate decarboxylase
+2,3-DHBA decarboxylase	4.1.1.46	o-pyrocatechuate decarboxylase
+Synthase, tartronate semialdehyde	4.1.1.47	tartronate-semialdehyde synthase
+Tartronate semialdehyde carboxylase	4.1.1.47	tartronate-semialdehyde synthase
+Glyoxylate carbo-ligase	4.1.1.47	tartronate-semialdehyde synthase
+Glyoxylic carbo-ligase	4.1.1.47	tartronate-semialdehyde synthase
+Hydroxymalonic semialdehyde carboxylase	4.1.1.47	tartronate-semialdehyde synthase
+Tartronic semialdehyde synthase	4.1.1.47	tartronate-semialdehyde synthase
+Tartronic semialdehyde carboxylase	4.1.1.47	tartronate-semialdehyde synthase
+Glyoxalate carboligase	4.1.1.47	tartronate-semialdehyde synthase
+Glyoxylate carboxy-lyase	4.1.1.47	tartronate-semialdehyde synthase
+Glyoxylate carboxy-lyase (dimerizing and reducing)	4.1.1.47	tartronate-semialdehyde synthase
+Tartronate-semialdehyde synthase	4.1.1.47	tartronate-semialdehyde synthase
+gene name	4.1.1.47	tartronate-semialdehyde synthase
+Glyoxylate carboligase	4.1.1.47	tartronate-semialdehyde synthase
+tartronate semialdehyde synthase	4.1.1.47	tartronate-semialdehyde synthase
+Indoleglycerol phosphate synthetase	4.1.1.48	indole-3-glycerol-phosphate synthase
+Synthase, indole-3-glycerol phosphate	4.1.1.48	indole-3-glycerol-phosphate synthase
+Indole-3-glycerol-phosphate synthase	4.1.1.48	indole-3-glycerol-phosphate synthase
+Indole-3-glycerol phosphate synthetase	4.1.1.48	indole-3-glycerol-phosphate synthase
+Indole-3-glycerophosphate synthase	4.1.1.48	indole-3-glycerol-phosphate synthase
+Indoleglycerolphosphate synthetase	4.1.1.48	indole-3-glycerol-phosphate synthase
+InGP synthase	4.1.1.48	indole-3-glycerol-phosphate synthase
+PRAI-InGPS	4.1.1.48	indole-3-glycerol-phosphate synthase
+Phosphoribosylanthranilate isomerase-indoleglycerol phosphatesynthetase	4.1.1.48	indole-3-glycerol-phosphate synthase
+InGP synthetase	4.1.1.48	indole-3-glycerol-phosphate synthase
+PRAI	4.1.1.48	indole-3-glycerol-phosphate synthase
+gene name	4.1.1.48	indole-3-glycerol-phosphate synthase
+MtIGPS	4.1.1.48	indole-3-glycerol-phosphate synthase
+Indoleglycerol phosphate synthase	4.1.1.48	indole-3-glycerol-phosphate synthase
+IGP synthase	4.1.1.48	indole-3-glycerol-phosphate synthase
+mIGPS	4.1.1.48	indole-3-glycerol-phosphate synthase
+sIGPS	4.1.1.48	indole-3-glycerol-phosphate synthase
+InGPS	4.1.1.48	indole-3-glycerol-phosphate synthase
+gene name	4.1.1.48	indole-3-glycerol-phosphate synthase
+indole-3-glycerolphosphate synthase	4.1.1.48	indole-3-glycerol-phosphate synthase
+eIGPS	4.1.1.48	indole-3-glycerol-phosphate synthase
+IGPS	4.1.1.48	indole-3-glycerol-phosphate synthase
+indole-3-glycerol phosphate synthase	4.1.1.48	indole-3-glycerol-phosphate synthase
+Phosphoenolpyruvic carboxylase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+phosphoenolpyruvic carboxykinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+phosphopyruvate carboxykinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+Phosphoenolpyruvate carboxylase (ATP)	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+Carboxykinase, phosphopyruvate (adenosine triphosphate)	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+Phosphopyruvate carboxykinase (adenosine triphosphate)	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PEPK	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PEPCK (ATP)	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+Protein p60	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+Glycosomal protein P60	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PEPCK	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+phosphoenolpyruvate carboxykinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PEP carboxylase kinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+ATP:oxaloacetate carboxylyase (transphosphorylating)	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+phosphoenolpyruvate carboxykinase ATP-dependent	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PPCK	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+OsPPCK1	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+OsPPCK3	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PEPC	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+ATP-forming PEP-carboxykinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PPC	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PEPCK-ATP	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+ADP-linked PEP carboxykinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PfPEPCK	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+transphosphorylating,interacts also with GTP, EC 4.1.1.32	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+ATP: oxaloacetate carboxy-lyase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+phosphoenolpyruvate carboxylase kinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PPCK1 and PPCK2 genes	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PEP carboxylase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+Phosphoenolpyruvate carboxylase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+phosphoenolpyruvate carboxykinase [ATP]	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+ATP-oxaloacetate carboxylase (transphosporylating)	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PCK	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+ATP-dependent phosphoenolpyruvate(PEP)carboxykinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+phosphoenolpyruvate(PEP)carboxykinase (GTP/ATP:oxaloacetatecarboxy-lyase (transphosphorylating)EC 4.1.1.32/49)	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+yeast PEP carboxykinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+ATP, oxaloacetate carboxy-lyase (transphosphorylating)	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+ATP-dependent phosphoenolpyruvate carboxykinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+PEP carboxykinase	4.1.1.49	phosphoenolpyruvate carboxykinase (ATP)
+Decarboxylase, acetolactate	4.1.1.5	acetolactate decarboxylase
+BudA1	4.1.1.5	acetolactate decarboxylase
+alpha-Acetolactate decarboxylase	4.1.1.5	acetolactate decarboxylase
+ADC	4.1.1.5	acetolactate decarboxylase
+aldB	4.1.1.5	acetolactate decarboxylase
+gene name	4.1.1.5	acetolactate decarboxylase
+ALDC	4.1.1.5	acetolactate decarboxylase
+ALD	4.1.1.5	acetolactate decarboxylase
+AMDC	4.1.1.50	adenosylmethionine decarboxylase
+SAM decarboxylase	4.1.1.50	adenosylmethionine decarboxylase
+Bud2	4.1.1.50	adenosylmethionine decarboxylase
+AdoMetDC	4.1.1.50	adenosylmethionine decarboxylase
+S-Adenosylmethionine decarboxylase	4.1.1.50	adenosylmethionine decarboxylase
+AdoMet decarboxylase	4.1.1.50	adenosylmethionine decarboxylase
+PfAdoMetDC	4.1.1.50	adenosylmethionine decarboxylase
+bifunctional enzyme	4.1.1.50	adenosylmethionine decarboxylase
+S-adenosyl-methionine-decarboxylase	4.1.1.50	adenosylmethionine decarboxylase
+bifunctional enzyme	4.1.1.50	adenosylmethionine decarboxylase
+OsSAMDC	4.1.1.50	adenosylmethionine decarboxylase
+Ado-MetDC	4.1.1.50	adenosylmethionine decarboxylase
+S-adenosyl methionine decarboxylase	4.1.1.50	adenosylmethionine decarboxylase
+SvPEPC	4.1.1.50	adenosylmethionine decarboxylase
+BjSAMDC1	4.1.1.50	adenosylmethionine decarboxylase
+S-adenosylmethionine decarboxylase 1	4.1.1.50	adenosylmethionine decarboxylase
+BjSAMDC2	4.1.1.50	adenosylmethionine decarboxylase
+S-adenosylmethionine decarboxylase 2	4.1.1.50	adenosylmethionine decarboxylase
+SAM-DC	4.1.1.50	adenosylmethionine decarboxylase
+S-Adenosyl-L-methionine decarboxylase	4.1.1.50	adenosylmethionine decarboxylase
+SAMDC	4.1.1.50	adenosylmethionine decarboxylase
+BjSAMDC3	4.1.1.50	adenosylmethionine decarboxylase
+S-adenosylmethionine decarboxylase 3	4.1.1.50	adenosylmethionine decarboxylase
+BjSAMDC4	4.1.1.50	adenosylmethionine decarboxylase
+S-adenosylmethionine decarboxylase 4	4.1.1.50	adenosylmethionine decarboxylase
+MdSAMDC1	4.1.1.50	adenosylmethionine decarboxylase
+MdSAMDC2	4.1.1.50	adenosylmethionine decarboxylase
+protein SSO0585	4.1.1.50	adenosylmethionine decarboxylase
+BlsE	4.1.1.50	adenosylmethionine decarboxylase
+Decarboxylase, 3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-	4.1.1.51	3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase
+3-hydroxy-2-methylpyridine-4,5-dicarboxylate decarboxylase	4.1.1.51	3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase
+the enzyme is involved in the catabolism of pyridoxal5-phosphate	4.1.1.51	3-hydroxy-2-methylpyridine-4,5-dicarboxylate 4-decarboxylase
+Decarboxylase, 6-methylsalicylate	4.1.1.52	6-methylsalicylate decarboxylase
+6-Methylsalicylic acid (2,6-cresotic acid) decarboxylase	4.1.1.52	6-methylsalicylate decarboxylase
+6-MSA decarboxylase	4.1.1.52	6-methylsalicylate decarboxylase
+6-Methylsalicylic acid decarboxylase	4.1.1.52	6-methylsalicylate decarboxylase
+PatG	4.1.1.52	6-methylsalicylate decarboxylase
+Aromatic L-amino acid decarboxylase	4.1.1.53	phenylalanine decarboxylase
+Decarboxylase, phenylalanine	4.1.1.53	phenylalanine decarboxylase
+L-Phenylalanine decarboxylase	4.1.1.53	phenylalanine decarboxylase
+bifunctionalprotein from Enterococcus faecium expressing L-phenylalanine andL-tyrosine decarboxylase activities	4.1.1.53	phenylalanine decarboxylase
+disA	4.1.1.53	phenylalanine decarboxylase
+Decarboxylase, dihydroxyfumarate	4.1.1.54	dihydroxyfumarate decarboxylase
+DHF decarboxylase	4.1.1.54	dihydroxyfumarate decarboxylase
+Decarboxylase, 4,5-dihydroxyphthalate	4.1.1.55	4,5-dihydroxyphthalate decarboxylase
+DHP decarboxylase	4.1.1.55	4,5-dihydroxyphthalate decarboxylase
+Decarboxylase, 3-oxolaurate	4.1.1.56	3-oxolaurate decarboxylase
+beta-Ketolaurate-decarboxylase	4.1.1.56	3-oxolaurate decarboxylase
+beta-Ketoacyl decarboxylase	4.1.1.56	3-oxolaurate decarboxylase
+3-oxolaurate carboxy-lyase	4.1.1.56	3-oxolaurate decarboxylase
+Decarboxylase, methionine	4.1.1.57	methionine decarboxylase
+L-Methionine decarboxylase	4.1.1.57	methionine decarboxylase
+Decarboxylase, orsellinate	4.1.1.58	orsellinate decarboxylase
+Decarboxylase, gallate	4.1.1.59	gallate decarboxylase
+LpdC	4.1.1.59	gallate decarboxylase
+Gallic acid decarboxylase	4.1.1.59	gallate decarboxylase
+GADC	4.1.1.59	gallate decarboxylase
+GD	4.1.1.59	gallate decarboxylase
+Decarboxylase, aconitate	4.1.1.6	cis-aconitate decarboxylase
+Aconitate decarboxylase	4.1.1.6	cis-aconitate decarboxylase
+gene name	4.1.1.6	cis-aconitate decarboxylase
+CAD	4.1.1.6	cis-aconitate decarboxylase
+cis-Aconitic acid decarboxylase	4.1.1.6	cis-aconitate decarboxylase
+CadA	4.1.1.6	cis-aconitate decarboxylase
+cis-aconitate decarboxylase	4.1.1.6	cis-aconitate decarboxylase
+Decarboxylase, stipitatonate	4.1.1.60	stipitatonate decarboxylase
+Decarboxylase, p-hydroxybenzoate	4.1.1.61	4-hydroxybenzoate decarboxylase
+p-Hydroxybenzoate decarboxylase	4.1.1.61	4-hydroxybenzoate decarboxylase
+Phenol carboxylase	4.1.1.61	4-hydroxybenzoate decarboxylase
+HBDC	4.1.1.61	4-hydroxybenzoate decarboxylase
+4-hydroxybenzoate decarboxylase	4.1.1.61	4-hydroxybenzoate decarboxylase
+4-hydroxybenzoate DC	4.1.1.61	4-hydroxybenzoate decarboxylase
+vanillate/4-hydroxybenzoate decarboxylase	4.1.1.61	4-hydroxybenzoate decarboxylase
+Decarboxylase, gentisate	4.1.1.62	gentisate decarboxylase
+2,5-Dihydroxybenzoate decarboxylase	4.1.1.62	gentisate decarboxylase
+Decarboxylase, protocatechuate	4.1.1.63	protocatechuate decarboxylase
+3,4-Dihydrobenzoate decarboxylase	4.1.1.63	protocatechuate decarboxylase
+3,4-dihydroxybenzoate decarboxylase	4.1.1.63	protocatechuate decarboxylase
+Decarboxylase, dialkyl amino acid (pyruvate)	4.1.1.64	2,2-dialkylglycine decarboxylase (pyruvate)
+alpha-Dialkyl amino acid transaminase	4.1.1.64	2,2-dialkylglycine decarboxylase (pyruvate)
+2,2-Dialkyl-2-amino acid-pyruvate aminotransferase	4.1.1.64	2,2-dialkylglycine decarboxylase (pyruvate)
+alpha-Dialkylamino acid aminotransferase	4.1.1.64	2,2-dialkylglycine decarboxylase (pyruvate)
+Dialkylamino-acid decarboxylase (pyruvate)	4.1.1.64	2,2-dialkylglycine decarboxylase (pyruvate)
+L-Alanine-alpha-ketobutyrate aminotransferase	4.1.1.64	2,2-dialkylglycine decarboxylase (pyruvate)
+alpha-Dialkylamino acid transaminase	4.1.1.64	2,2-dialkylglycine decarboxylase (pyruvate)
+DGD	4.1.1.64	2,2-dialkylglycine decarboxylase (pyruvate)
+dialkylglycine decarboxylase	4.1.1.64	2,2-dialkylglycine decarboxylase (pyruvate)
+Decarboxylase, phosphatidylserine	4.1.1.65	phosphatidylserine decarboxylase
+PSD	4.1.1.65	phosphatidylserine decarboxylase
+type I PtdSer decarboxylase	4.1.1.65	phosphatidylserine decarboxylase
+PSD3	4.1.1.65	phosphatidylserine decarboxylase
+Psd1 enzyme	4.1.1.65	phosphatidylserine decarboxylase
+PS decarboxylase	4.1.1.65	phosphatidylserine decarboxylase
+PISD	4.1.1.65	phosphatidylserine decarboxylase
+PSDC	4.1.1.65	phosphatidylserine decarboxylase
+phosphatidylserine decarboxylase 1	4.1.1.65	phosphatidylserine decarboxylase
+phosphatidylserine decarboxylase 2	4.1.1.65	phosphatidylserine decarboxylase
+phosphatidyl serine decarboxylase	4.1.1.65	phosphatidylserine decarboxylase
+phosphatidylserine decarboxylase2	4.1.1.65	phosphatidylserine decarboxylase
+isoform	4.1.1.65	phosphatidylserine decarboxylase
+isoform	4.1.1.65	phosphatidylserine decarboxylase
+isoform	4.1.1.65	phosphatidylserine decarboxylase
+isoform	4.1.1.65	phosphatidylserine decarboxylase
+Phosphatidylserine decarboxylase	4.1.1.65	phosphatidylserine decarboxylase
+Decarboxylase, uracil-5-carboxylate	4.1.1.66	uracil-5-carboxylate decarboxylase
+uracil-5-carboxylic acid decarboxylase	4.1.1.66	uracil-5-carboxylate decarboxylase
+UDP-galacturonic acid decarboxylase	4.1.1.67	UDP-galacturonate decarboxylase
+UDPGalUA carboxy lyase	4.1.1.67	UDP-galacturonate decarboxylase
+Decarboxylase, 5-oxopenta-3-ene-1,2,5-tricarboxylate	4.1.1.68	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase
+5-Oxopenta-3-ene-1,2,5-tricarboxylate decarboxylase	4.1.1.68	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase
+OPET decarboxylase	4.1.1.68	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase
+HHDD isomerase/OPET decarboxylase	4.1.1.68	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase
+2-Hydroxyhepta-2,4-diene-1,7-dioateisomerase/5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase	4.1.1.68	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase
+HpcE	4.1.1.68	5-oxopent-3-ene-1,2,5-tricarboxylate decarboxylase
+decarboxylase, 3,4-dihydroxyphthalate	4.1.1.69	3,4-dihydroxyphthalate decarboxylase
+3,4-dihydroxyphthalate 2-decarboxylase	4.1.1.69	3,4-dihydroxyphthalate decarboxylase
+Phenylglyoxylate decarboxylase	4.1.1.7	benzoylformate decarboxylase
+Decarboxylase, benzoylformate	4.1.1.7	benzoylformate decarboxylase
+MdlC	4.1.1.7	benzoylformate decarboxylase
+BfdB	4.1.1.7	benzoylformate decarboxylase
+BfdM	4.1.1.7	benzoylformate decarboxylase
+benzoylformate decarboxylase	4.1.1.7	benzoylformate decarboxylase
+BFDC	4.1.1.7	benzoylformate decarboxylase
+catalyzes a carboligase reaction that yields2-hydroxypropiophenone, by using benzoylformate and acetaldehyde assubstrates, and is able to catalyze the carboligation of a broad rangeof aldehydes	4.1.1.7	benzoylformate decarboxylase
+decarboxylase, glutaconyl coenzyme A	4.1.1.70	glutaconyl-CoA decarboxylase
+carboxyltransferase	4.1.1.70	glutaconyl-CoA decarboxylase
+pent-2-enoyl-CoA carboxy-lyase	4.1.1.70	glutaconyl-CoA decarboxylase
+GCD	4.1.1.70	glutaconyl-CoA decarboxylase
+oxoglutarate decarboxylase	4.1.1.71	2-oxoglutarate decarboxylase
+decarboxylase, oxoglutarate	4.1.1.71	2-oxoglutarate decarboxylase
+pre-2-oxoglutarate decarboxylase	4.1.1.71	2-oxoglutarate decarboxylase
+KDC	4.1.1.71	2-oxoglutarate decarboxylase
+alpha-ketoglutaric decarboxylase	4.1.1.71	2-oxoglutarate decarboxylase
+ALKBH4	4.1.1.71	2-oxoglutarate decarboxylase
+Fe(II)/2OG-dependent decarboxylase	4.1.1.71	2-oxoglutarate decarboxylase
+Rv1248c	4.1.1.71	2-oxoglutarate decarboxylase
+alpha-ketoglutarate decarboxylase	4.1.1.71	2-oxoglutarate decarboxylase
+Kgd	4.1.1.71	2-oxoglutarate decarboxylase
+E1o	4.1.1.71	2-oxoglutarate decarboxylase
+branched-chain oxo acid decarboxylase	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+branched-chain alpha-keto acid decarboxylase	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+branched-chain 2-oxoacid decarboxylase	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+decarboxylase, branched-chain oxo acid	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+BCKA	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+AlsS	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+THI3	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+thiamine metabolism regulatory protein	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+gene name	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+BCKDC	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+theprotein complex also contains glutamate dehydrogenase 1,4-nitrophenylphosphatase domain and non-neuronal SNAP25-like proteinhomolog 1, pyruvate carboxylase, and BCKDC kinase	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+branched-chain keto acid decarboxylase	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+BCKAD	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+has decarboxylase and carboligase activities	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+branched-chain 2-keto acid decarboxylase	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+alpha-keto acid decarboxylase	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+MtKDC	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+KDC	4.1.1.72	branched-chain-2-oxoacid decarboxylase
+decarboxylase, tartrate	4.1.1.73	tartrate decarboxylase
+enzyme resembles L-tartrate dehydrogenase/D-malatedehydrogenase from Rhodopseudomonas sphaeroides and tartratedehydrogenase from Pseudomonas putida	4.1.1.73	tartrate decarboxylase
+Decarboxylase, indolepyruvate	4.1.1.74	indolepyruvate decarboxylase
+Indolepyruvic acid decarboxylase	4.1.1.74	indolepyruvate decarboxylase
+Decarboxylase, indolepyruvate (Enterobacter agglomerans clone pMB2gene ipdC reduced)	4.1.1.74	indolepyruvate decarboxylase
+GenBank L80006-derived protein GI 1507711	4.1.1.74	indolepyruvate decarboxylase
+Indolepyruvate decarboxylase (Enterobacter herbocola strain 299R clonepMB2 gene ipdC reduced)	4.1.1.74	indolepyruvate decarboxylase
+Indolepyruvate decarboxylase	4.1.1.74	indolepyruvate decarboxylase
+Ipyr	4.1.1.74	indolepyruvate decarboxylase
+indole-3-pyruvic acid decarboxylase	4.1.1.74	indolepyruvate decarboxylase
+gene name	4.1.1.74	indolepyruvate decarboxylase
+IPyr decarboxylase	4.1.1.74	indolepyruvate decarboxylase
+KivD	4.1.1.74	indolepyruvate decarboxylase
+Indole-3-pyruvate decarboxylase	4.1.1.74	indolepyruvate decarboxylase
+Decarboxylase, 2-oxoarginine	4.1.1.75	5-guanidino-2-oxopentanoate decarboxylase
+alpha-Ketoarginine decarboxylase	4.1.1.75	5-guanidino-2-oxopentanoate decarboxylase
+KAD	4.1.1.75	5-guanidino-2-oxopentanoate decarboxylase
+2-ketoarginine decarboxylase	4.1.1.75	5-guanidino-2-oxopentanoate decarboxylase
+2-KA decarboxylase	4.1.1.75	5-guanidino-2-oxopentanoate decarboxylase
+AruI	4.1.1.75	5-guanidino-2-oxopentanoate decarboxylase
+Decarboxylase, arylmalonate	4.1.1.76	arylmalonate decarboxylase
+Decarboxylase, arylmalonate (Bordetella bronchiseptica strain KU1201reduced)	4.1.1.76	arylmalonate decarboxylase
+Arylmalonate decarboxylase (Alcaligenes bronchisepticus strain KU 1201)	4.1.1.76	arylmalonate decarboxylase
+Decarboxylase, arylmalonate (Bordetella bronchiseptica clone pAMD100reduced)	4.1.1.76	arylmalonate decarboxylase
+besides its primary decarboxylaseactivity, the enzyme has aldolase activity to catalyze the aldol-typecondensation of the malonate derivative containing an aldehyde group	4.1.1.76	arylmalonate decarboxylase
+Arylmalonate decarboxylase	4.1.1.76	arylmalonate decarboxylase
+Decarboxylase, 4-oxalocrotonate	4.1.1.77	2-oxo-3-hexenedioate decarboxylase
+Oxalocrotonate decarboxylase	4.1.1.77	2-oxo-3-hexenedioate decarboxylase
+4-OD	4.1.1.77	2-oxo-3-hexenedioate decarboxylase
+4OD	4.1.1.77	2-oxo-3-hexenedioate decarboxylase
+4-oxalocrotonate decarboxylase	4.1.1.77	2-oxo-3-hexenedioate decarboxylase
+hydratase, acetylenedicarboxylate	4.1.1.78	acetylenedicarboxylate decarboxylase
+EC 4.2.1.72	4.1.1.78	acetylenedicarboxylate decarboxylase
+acetylenedicarboxylate hydrase	4.1.1.78	acetylenedicarboxylate decarboxylase
+decarboxylase, sulfopyruvate	4.1.1.79	sulfopyruvate decarboxylase
+sulfopyruvate decarboxylase	4.1.1.79	sulfopyruvate decarboxylase
+ComDE	4.1.1.79	sulfopyruvate decarboxylase
+SpyrDC	4.1.1.79	sulfopyruvate decarboxylase
+MA3298 protein	4.1.1.79	sulfopyruvate decarboxylase
+3-sulfopyruvate decarboxylase	4.1.1.79	sulfopyruvate decarboxylase
+gene name	4.1.1.79	sulfopyruvate decarboxylase
+Decarboxylase, oxalyl coenzyme A	4.1.1.8	oxalyl-CoA decarboxylase
+Oxalyl coenzyme A decarboxylase	4.1.1.8	oxalyl-CoA decarboxylase
+gene name	4.1.1.8	oxalyl-CoA decarboxylase
+OXC	4.1.1.8	oxalyl-CoA decarboxylase
+ODC	4.1.1.8	oxalyl-CoA decarboxylase
+oxalyl CoA decarboxylase	4.1.1.8	oxalyl-CoA decarboxylase
+oxalyl-coenzyme A decarboxylase	4.1.1.8	oxalyl-CoA decarboxylase
+decarboxylase, 4-hydroxyphenylpyruvate	4.1.1.80	4-hydroxyphenylpyruvate decarboxylase
+p-hydroxyphenylpyruvate decarboxylase	4.1.1.80	4-hydroxyphenylpyruvate decarboxylase
+L-threonine-O-3-phosphate decarboxylase	4.1.1.81	threonine-phosphate decarboxylase
+CobD gene product	4.1.1.81	threonine-phosphate decarboxylase
+CobD	4.1.1.81	threonine-phosphate decarboxylase
+PnPy decarboxylase	4.1.1.82	phosphonopyruvate decarboxylase
+Ppyr decarboxylase	4.1.1.82	phosphonopyruvate decarboxylase
+Ppd	4.1.1.82	phosphonopyruvate decarboxylase
+PPDC	4.1.1.82	phosphonopyruvate decarboxylase
+HPD	4.1.1.83	4-hydroxyphenylacetate decarboxylase
+p-Hpd	4.1.1.83	4-hydroxyphenylacetate decarboxylase
+4-Hpd	4.1.1.83	4-hydroxyphenylacetate decarboxylase
+pHPA decarboxylase	4.1.1.83	4-hydroxyphenylacetate decarboxylase
+p-hydroxyphenylacetate decarboxylase	4.1.1.83	4-hydroxyphenylacetate decarboxylase
+4-hydroxyphenylacetate decarboxylase	4.1.1.83	4-hydroxyphenylacetate decarboxylase
+HPA decarboxylase	4.1.1.83	4-hydroxyphenylacetate decarboxylase
+CSD	4.1.1.83	4-hydroxyphenylacetate decarboxylase
+4Hpad	4.1.1.83	4-hydroxyphenylacetate decarboxylase
+4-HPAD	4.1.1.83	4-hydroxyphenylacetate decarboxylase
+identical with phenylpyruvatetautomerase, EC 5.3.2.1	4.1.1.84	D-dopachrome decarboxylase
+DDT	4.1.1.84	D-dopachrome decarboxylase
+D-dopachrome tautomerase	4.1.1.84	D-dopachrome decarboxylase
+distinct from EC 5.3.3.12, dopachrome isomerase,and from EC 5.3.2.1, phenylpyruvate tautomerase or MIF	4.1.1.84	D-dopachrome decarboxylase
+D-DT	4.1.1.84	D-dopachrome decarboxylase
+3-keto-L-gulonate 6-phosphate decarboxylase	4.1.1.85	3-dehydro-L-gulonate-6-phosphate decarboxylase
+KGPDC	4.1.1.85	3-dehydro-L-gulonate-6-phosphate decarboxylase
+the enzyme belongs to the orotidine5-monophosphate decarboxylase OMPDC suprafamily	4.1.1.85	3-dehydro-L-gulonate-6-phosphate decarboxylase
+UlaD	4.1.1.85	3-dehydro-L-gulonate-6-phosphate decarboxylase
+SgaH	4.1.1.85	3-dehydro-L-gulonate-6-phosphate decarboxylase
+SgbH	4.1.1.85	3-dehydro-L-gulonate-6-phosphate decarboxylase
+L-2,4-diaminobutyrate decarboxylase	4.1.1.86	diaminobutyrate decarboxylase
+DABA DC	4.1.1.86	diaminobutyrate decarboxylase
+L-2,4-diaminobutyrate aminotransferase/decarboxylase	4.1.1.86	diaminobutyrate decarboxylase
+DABA aminotransferase/decarboxylase	4.1.1.86	diaminobutyrate decarboxylase
+DABA AT/DC	4.1.1.86	diaminobutyrate decarboxylase
+the enzyme belongs to the subgroup II of theaminotransferases	4.1.1.86	diaminobutyrate decarboxylase
+L-2,4-diaminobutyrate:2-ketoglutarate 4-aminotransferase	4.1.1.86	diaminobutyrate decarboxylase
+DABA AT	4.1.1.86	diaminobutyrate decarboxylase
+DABA-DC	4.1.1.86	diaminobutyrate decarboxylase
+L-2,4-diaminobutyric acid decarboxylase	4.1.1.86	diaminobutyrate decarboxylase
+DABA decarboxylase	4.1.1.86	diaminobutyrate decarboxylase
+malonyl-S-acyl-carrier protein decarboxylase	4.1.1.87	malonyl-S-ACP decarboxylase
+MdcD,E	4.1.1.87	malonyl-S-ACP decarboxylase
+MdcD/MdcE	4.1.1.87	malonyl-S-ACP decarboxylase
+malonate decarboxylase	4.1.1.88	biotin-independent malonate decarboxylase
+malonate decarboxylase (without biotin)	4.1.1.88	biotin-independent malonate decarboxylase
+malonate decarboxylase	4.1.1.89	biotin-dependent malonate decarboxylase
+Na+-activated malonate decarboxylase	4.1.1.89	biotin-dependent malonate decarboxylase
+Na+ pumping malonate decarboxylase	4.1.1.89	biotin-dependent malonate decarboxylase
+Decarboxylase, malonyl coenzyme A	4.1.1.9	malonyl-CoA decarboxylase
+Malonyl-CoA decarboxylase	4.1.1.9	malonyl-CoA decarboxylase
+Acyl-CoA: malonate CoA transferase/malonyl-CoA decarboxylase	4.1.1.9	malonyl-CoA decarboxylase
+malonyl CoA decarboxylase	4.1.1.9	malonyl-CoA decarboxylase
+bifunctional enzyme	4.1.1.9	malonyl-CoA decarboxylase
+bifunctionalenzyme	4.1.1.9	malonyl-CoA decarboxylase
+hMCD	4.1.1.9	malonyl-CoA decarboxylase
+Malonyl coenzyme A decarboxylase	4.1.1.9	malonyl-CoA decarboxylase
+gene name	4.1.1.9	malonyl-CoA decarboxylase
+malonyl-coenzyme A decarboxylase	4.1.1.9	malonyl-CoA decarboxylase
+gamma-carboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+GGCX	4.1.1.90	peptidyl-glutamate 4-carboxylase
+polytopic membraneprotein	4.1.1.90	peptidyl-glutamate 4-carboxylase
+vitamin K carboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+VKC	4.1.1.90	peptidyl-glutamate 4-carboxylase
+gamma glutamyl carboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+VKD carboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+carboxylase and epoxidase activitiessimilar to those of one-chain carboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+vitamin K-dependent gamma-glutamyl carboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+glutamate carboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+vitamin K-dependent carboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+peptidyl-glutamate 4-carboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+peptidyl-glutamate 4-carboxylase(2-methyl-3-phytyl-1,4-naphthoquinone-epoxidizing)	4.1.1.90	peptidyl-glutamate 4-carboxylase
+vitamin K-dependent gamma-glutamylcarboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+carboxylase	4.1.1.90	peptidyl-glutamate 4-carboxylase
+matrix Gla protein	4.1.1.90	peptidyl-glutamate 4-carboxylase
+matrix gamma-carboxyglutamate protein	4.1.1.90	peptidyl-glutamate 4-carboxylase
+Ci-GGC	4.1.1.90	peptidyl-glutamate 4-carboxylase
+SCD	4.1.1.91	salicylate decarboxylase
+salicylic acid decarboxylase	4.1.1.91	salicylate decarboxylase
+ECHDC1	4.1.1.94	ethylmalonyl-CoA decarboxylase
+ethylmalonyl-CoA decarboxylase	4.1.1.94	ethylmalonyl-CoA decarboxylase
+btrK	4.1.1.95	L-glutamyl-[BtrI acyl-carrier protein] decarboxylase
+gene name	4.1.1.96	carboxynorspermidine decarboxylase
+C-NSPD decarboxylase	4.1.1.96	carboxynorspermidine decarboxylase
+CANS DC	4.1.1.96	carboxynorspermidine decarboxylase
+CANSDC	4.1.1.96	carboxynorspermidine decarboxylase
+carboxyspermidine decarboxylase	4.1.1.96	carboxynorspermidine decarboxylase
+VC1623	4.1.1.96	carboxynorspermidine decarboxylase
+Uro3	4.1.1.97	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+OHCU decarboxylase	4.1.1.97	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+gene name	4.1.1.97	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+gene name	4.1.1.97	2-oxo-4-hydroxy-4-carboxy-5-ureidoimidazoline decarboxylase
+-hydroxy-3-solanesylbenzoate decarboxylase;3-octaprenyl-4-hydroxybenzoate decarboxylase	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+gene name	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+3-octaprenyl-4-hydroxybenzoate carboxy-lyase	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+PA0254	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+ubiD	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+slr1099	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+4-hydroxy-3-solanesylbenzoate decarboxylase	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+3-octaprenyl-4-hydroxybenzoate decarboxylase	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+gene name	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+flavin mononucleotide-dependent aromatic acid decarboxylase	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+PAD1	4.1.1.98	4-hydroxy-3-polyprenylbenzoate decarboxylase
+PMD	4.1.1.99	phosphomevalonate decarboxylase
+gene name	4.1.1.99	phosphomevalonate decarboxylase
+D-Hydroxynitrile lyase	4.1.2.10	(R)-mandelonitrile lyase
+MDL	4.1.2.10	(R)-mandelonitrile lyase
+D-Oxynitrilase	4.1.2.10	(R)-mandelonitrile lyase
+Lyase, mandelonitrile	4.1.2.10	(R)-mandelonitrile lyase
+D-alpha-hydroxynitrile lyase	4.1.2.10	(R)-mandelonitrile lyase
+R-hydroxynitrile lyase	4.1.2.10	(R)-mandelonitrile lyase
+AtHNL	4.1.2.10	(R)-mandelonitrile lyase
+R-HNL	4.1.2.10	(R)-mandelonitrile lyase
+R-selective hydroxynitrile lyase	4.1.2.10	(R)-mandelonitrile lyase
+PaHNL1	4.1.2.10	(R)-mandelonitrile lyase
+FAD-HNL	4.1.2.10	(R)-mandelonitrile lyase
+Mdl1	4.1.2.10	(R)-mandelonitrile lyase
+PaMDL	4.1.2.10	(R)-mandelonitrile lyase
+(R)-(+)-Mandelonitrile lyase	4.1.2.10	(R)-mandelonitrile lyase
+R-selective HNL	4.1.2.10	(R)-mandelonitrile lyase
+isoform	4.1.2.10	(R)-mandelonitrile lyase
+mandelonitrile lyase	4.1.2.10	(R)-mandelonitrile lyase
+almond oxynitrilase	4.1.2.10	(R)-mandelonitrile lyase
+recombinant	4.1.2.10	(R)-mandelonitrile lyase
+(R)-HNL5	4.1.2.10	(R)-mandelonitrile lyase
+(R)-selective HNL	4.1.2.10	(R)-mandelonitrile lyase
+HNL	4.1.2.10	(R)-mandelonitrile lyase
+Oxynitrilase	4.1.2.10	(R)-mandelonitrile lyase
+PaHNL	4.1.2.10	(R)-mandelonitrile lyase
+(R)-Oxynitrilase	4.1.2.10	(R)-mandelonitrile lyase
+Hydroxynitrile lyase	4.1.2.10	(R)-mandelonitrile lyase
+(R)-hydroxynitrile lyase	4.1.2.10	(R)-mandelonitrile lyase
+(R)-HNL	4.1.2.10	(R)-mandelonitrile lyase
+cupin 2 domain-containing protein	4.1.2.10	(R)-mandelonitrile lyase
+cupin 2 conserved barrel domain protein	4.1.2.10	(R)-mandelonitrile lyase
+locus name	4.1.2.10	(R)-mandelonitrile lyase
+hydroynitrile lyase	4.1.2.10	(R)-mandelonitrile lyase
+PhaMDL	4.1.2.10	(R)-mandelonitrile lyase
+(R)-Mandelonitrile lyase	4.1.2.10	(R)-mandelonitrile lyase
+EjHNL	4.1.2.10	(R)-mandelonitrile lyase
+(R)-PeHNL	4.1.2.10	(R)-mandelonitrile lyase
+PmHNL	4.1.2.10	(R)-mandelonitrile lyase
+Lyase, hydroxymandelonitrile	4.1.2.11	hydroxymandelonitrile lyase
+Oxynitrilase	4.1.2.11	hydroxymandelonitrile lyase
+(S)-p-Hydroxy-mandelonitrile lyase	4.1.2.11	hydroxymandelonitrile lyase
+S-Oxynitrilase	4.1.2.11	hydroxymandelonitrile lyase
+Sorghum hydroxynitrile lyase	4.1.2.11	hydroxymandelonitrile lyase
+Hydroxynitrile lyase	4.1.2.11	hydroxymandelonitrile lyase
+HNL	4.1.2.11	hydroxymandelonitrile lyase
+SbHNL	4.1.2.11	hydroxymandelonitrile lyase
+(S)-SbHNL	4.1.2.11	hydroxymandelonitrile lyase
+(S)-Sb-HNL	4.1.2.11	hydroxymandelonitrile lyase
+(S)-HNL	4.1.2.11	hydroxymandelonitrile lyase
+(S)-Hydroxynitrile lyase	4.1.2.11	hydroxymandelonitrile lyase
+ketopantoaldolase	4.1.2.12	2-dehydropantoate aldolase
+Fructose-1,6-bisphosphate triosephosphate-lyase	4.1.2.13	fructose-bisphosphate aldolase
+aldolase, fructose diphosphate	4.1.2.13	fructose-bisphosphate aldolase
+Fructose diphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+Diphosphofructose aldolase	4.1.2.13	fructose-bisphosphate aldolase
+Fructose 1,6-diphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+ketose 1-phosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+Phosphofructoaldolase	4.1.2.13	fructose-bisphosphate aldolase
+zymohexase	4.1.2.13	fructose-bisphosphate aldolase
+Fructoaldolase	4.1.2.13	fructose-bisphosphate aldolase
+Fructose 1-phosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+Fructose 1-monophosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+1,6-Diphosphofructose aldolase	4.1.2.13	fructose-bisphosphate aldolase
+EC 4.1.2.7	4.1.2.13	fructose-bisphosphate aldolase
+Fru-P2A	4.1.2.13	fructose-bisphosphate aldolase
+SMALDO	4.1.2.13	fructose-bisphosphate aldolase
+ALDP	4.1.2.13	fructose-bisphosphate aldolase
+37 kDa major allergen	4.1.2.13	fructose-bisphosphate aldolase
+41 kDa antigen	4.1.2.13	fructose-bisphosphate aldolase
+Brain-type aldolase	4.1.2.13	fructose-bisphosphate aldolase
+CE1	4.1.2.13	fructose-bisphosphate aldolase
+CE2	4.1.2.13	fructose-bisphosphate aldolase
+IgE-binding allergen	4.1.2.13	fructose-bisphosphate aldolase
+Liver-type aldolase	4.1.2.13	fructose-bisphosphate aldolase
+Muscle-type aldolase	4.1.2.13	fructose-bisphosphate aldolase
+Fructose bisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+F1,6P2 aldolase	4.1.2.13	fructose-bisphosphate aldolase
+D-fructose-1,6-bisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+class II FBP aldolase	4.1.2.13	fructose-bisphosphate aldolase
+MtFBA	4.1.2.13	fructose-bisphosphate aldolase
+class IIa fructose 1,6-bisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+class II fructose bisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+aldoA	4.1.2.13	fructose-bisphosphate aldolase
+aldolase A	4.1.2.13	fructose-bisphosphate aldolase
+fructose 1,6 bisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+class I muscle fructose bis-phosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+class I fructose bisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+fructose bis-phosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+class II aldolase	4.1.2.13	fructose-bisphosphate aldolase
+FbaA	4.1.2.13	fructose-bisphosphate aldolase
+FBP-aldolase	4.1.2.13	fructose-bisphosphate aldolase
+Fru-1,6-P2 aldolase	4.1.2.13	fructose-bisphosphate aldolase
+fructose-1,6-bisphosphate aldolase A	4.1.2.13	fructose-bisphosphate aldolase
+ALDC	4.1.2.13	fructose-bisphosphate aldolase
+aldolase B	4.1.2.13	fructose-bisphosphate aldolase
+brain-specific isoform of fructosebisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+zerebrin II	4.1.2.13	fructose-bisphosphate aldolase
+FbaB	4.1.2.13	fructose-bisphosphate aldolase
+locus name. The bifunctional enzyme also showsactivity of EC 3.1.3.11	4.1.2.13	fructose-bisphosphate aldolase
+bifunctional enzyme EC 3.1.3.11/EC 4.1.2.13	4.1.2.13	fructose-bisphosphate aldolase
+bifunctional enzyme EC 3.1.3.11/EC 4.1.2.13	4.1.2.13	fructose-bisphosphate aldolase
+locus name	4.1.2.13	fructose-bisphosphate aldolase
+EC4.1.2.13/EC 3.1.3.11. A bifunctional, thermostable enzyme thatcatalyses two subsequent steps in gluconeogenesis in most archaea andin deeply branching bacterial lineages	4.1.2.13	fructose-bisphosphate aldolase
+locus name	4.1.2.13	fructose-bisphosphate aldolase
+TnFBPAP	4.1.2.13	fructose-bisphosphate aldolase
+FbaC	4.1.2.13	fructose-bisphosphate aldolase
+Fba2	4.1.2.13	fructose-bisphosphate aldolase
+gene name	4.1.2.13	fructose-bisphosphate aldolase
+Fba1	4.1.2.13	fructose-bisphosphate aldolase
+FPA	4.1.2.13	fructose-bisphosphate aldolase
+ClassII FBP-aldolase	4.1.2.13	fructose-bisphosphate aldolase
+fructose-1,6-bisphosphate muscle aldolase	4.1.2.13	fructose-bisphosphate aldolase
+class I Fba	4.1.2.13	fructose-bisphosphate aldolase
+FBP aldolase	4.1.2.13	fructose-bisphosphate aldolase
+class I fructose 1,6-bisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+theMethylococcus capsulatus enzyme belongs to the type B of class IIfructose-1,6-bisphosphate aldolases	4.1.2.13	fructose-bisphosphate aldolase
+fructose bis-phosphate aldolases	4.1.2.13	fructose-bisphosphate aldolase
+HIP44	4.1.2.13	fructose-bisphosphate aldolase
+heat-induced protein 44	4.1.2.13	fructose-bisphosphate aldolase
+fructose-1,6-biphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+FBPA	4.1.2.13	fructose-bisphosphate aldolase
+Fructose 1,6-bisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+aldolase	4.1.2.13	fructose-bisphosphate aldolase
+class II fructose 1,6-bisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+fructose-1,6-bisphosphatealdolase	4.1.2.13	fructose-bisphosphate aldolase
+class II FBA	4.1.2.13	fructose-bisphosphate aldolase
+D-fructose-1,6-bisphosphate D-glyceraldehyde-3-P-lyase	4.1.2.13	fructose-bisphosphate aldolase
+Leishmania aldolase	4.1.2.13	fructose-bisphosphate aldolase
+fuculose aldolase	4.1.2.13	fructose-bisphosphate aldolase
+Fba1p	4.1.2.13	fructose-bisphosphate aldolase
+FDP aldolase	4.1.2.13	fructose-bisphosphate aldolase
+FbaP	4.1.2.13	fructose-bisphosphate aldolase
+class II fructose-1,6-bisphosphate aldolase	4.1.2.13	fructose-bisphosphate aldolase
+bifunctional enzyme, consists of monomericfructose-1,6-bisphosphate aldolase from Staphylococcus carnosus and thehomodimeric dihydroxyacetone kinase from Citrobacter freundii CECT 4626with an intervening linker of five amino acid residues	4.1.2.13	fructose-bisphosphate aldolase
+MJ0400-His6	4.1.2.13	fructose-bisphosphate aldolase
+FBPA I	4.1.2.13	fructose-bisphosphate aldolase
+Tt-FBPA	4.1.2.13	fructose-bisphosphate aldolase
+bifunctional enzyme with both fructose1,6-bisphosphate aldolase and fructose 1,6-bisphosphate phosphataseactivity	4.1.2.13	fructose-bisphosphate aldolase
+bifunctionalenzyme EC 3.1.3.11/EC 4.1.2.13	4.1.2.13	fructose-bisphosphate aldolase
+Ov-fba-1	4.1.2.13	fructose-bisphosphate aldolase
+Phospho-2-keto-3-deoxygluconate aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+aldolase, phospho-2-keto-3-deoxygluconate	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+Phospho-2-keto-3-deoxygluconic aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+2-keto-3-deoxy-6-phosphogluconic aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+6-Phospho-2-keto-3-deoxygluconate aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+2-keto-3-deoxygluconate-6-phosphate aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+2-keto-3-deoxygluconate-6-P-aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+ODPG aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+2-oxo-3-deoxy-6-phosphogluconate aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+KDPG-aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+Phospho-2-dehydro-3-deoxygluconate aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+2-dehydro-3-deoxyphosphogluconate aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+6-phospho-2-dehydro-3-deoxy-D-gluconateD-glyceraldehyde-3-phosphate-lyase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+KDGA	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+KD(P)G aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+2-keto-3-deoxy-(6-phospho)-gluconate aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+2-keto-3-deoxy-6-phosphogluconate aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+KDPG aldolase	4.1.2.14	2-dehydro-3-deoxy-phosphogluconate aldolase
+3-deoxy-D-manno-octulosonic acid 8-phosphate synthetase	4.1.2.16	2-dehydro-3-deoxy-phosphooctonate aldolase
+KDO 8-P synthase	4.1.2.16	2-dehydro-3-deoxy-phosphooctonate aldolase
+KDO-8-phosphate synthetase	4.1.2.16	2-dehydro-3-deoxy-phosphooctonate aldolase
+Phospho-2-dehydro-3-deoxyoctonate aldolase	4.1.2.16	2-dehydro-3-deoxy-phosphooctonate aldolase
+aldolase, L-fuculose phosphate	4.1.2.17	L-fuculose-phosphate aldolase
+L-Fuculose phosphate aldolase	4.1.2.17	L-fuculose-phosphate aldolase
+L-Fuculose 1-phosphate aldolase	4.1.2.17	L-fuculose-phosphate aldolase
+L-Fuculose-1-P aldolase	4.1.2.17	L-fuculose-phosphate aldolase
+Fuc-1PA	4.1.2.17	L-fuculose-phosphate aldolase
+L-fuculose-1-phosphate aldolase	4.1.2.17	L-fuculose-phosphate aldolase
+FucA	4.1.2.17	L-fuculose-phosphate aldolase
+L-Fuc1P aldolase	4.1.2.17	L-fuculose-phosphate aldolase
+F-1PA	4.1.2.17	L-fuculose-phosphate aldolase
+L-fuculose-phosphate aldolase	4.1.2.17	L-fuculose-phosphate aldolase
+fuculose-1-phosphate aldolase	4.1.2.17	L-fuculose-phosphate aldolase
+2-keto-3-deoxy-L-pentonate aldolase	4.1.2.18	2-dehydro-3-deoxy-L-pentonate aldolase
+2-keto-3-deoxy-L-arabonate aldolase	4.1.2.18	2-dehydro-3-deoxy-L-pentonate aldolase
+aldolase, 2-keto-3-deoxy-L-pentonate	4.1.2.18	2-dehydro-3-deoxy-L-pentonate aldolase
+aldolase, 2-keto-3-deoxy-L-arabonate	4.1.2.18	2-dehydro-3-deoxy-L-pentonate aldolase
+2-keto-3-deoxy-D-xylonate aldolase	4.1.2.18	2-dehydro-3-deoxy-L-pentonate aldolase
+3-Deoxy-D-penulosonic acid aldolase	4.1.2.18	2-dehydro-3-deoxy-L-pentonate aldolase
+aldolase, rhamnulose phosphate	4.1.2.19	rhamnulose-1-phosphate aldolase
+Rhamnulose phosphate aldolase	4.1.2.19	rhamnulose-1-phosphate aldolase
+L-Rhamnulose-1-phosphate L-lactaldehyde-lyase	4.1.2.19	rhamnulose-1-phosphate aldolase
+Rhamn-1PA	4.1.2.19	rhamnulose-1-phosphate aldolase
+L-rhamnulose-1-phosphate aldolase (class II)	4.1.2.19	rhamnulose-1-phosphate aldolase
+RhaD	4.1.2.19	rhamnulose-1-phosphate aldolase
+rhamnulose-1-phosphate aldolase	4.1.2.19	rhamnulose-1-phosphate aldolase
+rhamnulose 1-phosphate aldolase	4.1.2.19	rhamnulose-1-phosphate aldolase
+L-Rhamnulose-1-phosphate aldolase	4.1.2.19	rhamnulose-1-phosphate aldolase
+RhuA	4.1.2.19	rhamnulose-1-phosphate aldolase
+Phosphoketotetrose aldolase	4.1.2.2	ketotetrose-phosphate aldolase
+Erythrulose-1-phosphate synthase	4.1.2.2	ketotetrose-phosphate aldolase
+Erythrose-1-phosphate synthase	4.1.2.2	ketotetrose-phosphate aldolase
+aldolase, ketotetrose phosphate	4.1.2.2	ketotetrose-phosphate aldolase
+2-keto-3-deoxy-glucarate aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+aldolase, 2-keto-3-deoxy-D-glucarate	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+5-Keto-4-deoxy-(D)-glucarate aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+KDGLucA	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+5-KDGluc aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+2-keto-3-deoxyglucarate aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+5-keto-4-deoxy-D-glucarate aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+4-hydroxy-2-ketoheptane-1,7-dioate aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+HpcH	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+YfaU	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+2-dehydro-3-deoxygalactarate aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+DDG aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+2-keto-3-deoxygluconate-specific aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+KDG-specific aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+KDGA	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+KDG aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+2-keto-3-deoxy gluconate aldolase	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+YagE	4.1.2.20	2-dehydro-3-deoxyglucarate aldolase
+6-Phospho-2-keto-3-deoxygalactonate aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+aldolase, phospho-2-keto-3-deoxygalactonate	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+2-keto-3-deoxy-6-phosphogalactonic aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+Phospho-2-keto-3-deoxygalactonic aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+2-keto-3-deoxygalactonate-6-phosphate aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+2-oxo-3-deoxy-6-phosphogalactonate aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+2-oxo-3-deoxygalactonate 6-phosphate aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+6-phospho-2-dehydro-3-deoxygalactonate aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+2-dehydro-3-deoxyphosphogalactonate aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+KDPGal aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+2-keto-3-deoxy-6-phosphogalactonate aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+DgoA	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+2-dehydro-3-deoxy-6-phosphogalactonate aldolase	4.1.2.21	2-dehydro-3-deoxy-6-phosphogalactonate aldolase
+Phosphoketolase, fructose 6-phosphate	4.1.2.22	fructose-6-phosphate phosphoketolase
+Fructose-6-phosphate phosphoketolase	4.1.2.22	fructose-6-phosphate phosphoketolase
+Xf2	4.1.2.22	fructose-6-phosphate phosphoketolase
+xylulose 5-phosphate/fructose 6-phosphate phosphoketolase	4.1.2.22	fructose-6-phosphate phosphoketolase
+F6P phosphoketolase	4.1.2.22	fructose-6-phosphate phosphoketolase
+Xfp is a bifunctional D-xylulose5-phosphate/D-fructose 6-phosphate phosphoketolase	4.1.2.22	fructose-6-phosphate phosphoketolase
+bifunctional enzyme	4.1.2.22	fructose-6-phosphate phosphoketolase
+F6PPK	4.1.2.22	fructose-6-phosphate phosphoketolase
+F-6-ppk	4.1.2.22	fructose-6-phosphate phosphoketolase
+X5P/F6P phosphoketolase	4.1.2.22	fructose-6-phosphate phosphoketolase
+XFPK	4.1.2.22	fructose-6-phosphate phosphoketolase
+aldolase, 2-keto-3-deoxyoctonate	4.1.2.23	3-deoxy-D-manno-octulosonate aldolase
+3-deoxyoctulosonic aldolase	4.1.2.23	3-deoxy-D-manno-octulosonate aldolase
+2-keto-3-deoxyoctonic aldolase	4.1.2.23	3-deoxy-D-manno-octulosonate aldolase
+3-deoxy-D-manno-octulosonic aldolase	4.1.2.23	3-deoxy-D-manno-octulosonate aldolase
+KDO aldolase	4.1.2.23	3-deoxy-D-manno-octulosonate aldolase
+RS-aldolase	4.1.2.23	3-deoxy-D-manno-octulosonate aldolase
+formerly	4.1.2.23	3-deoxy-D-manno-octulosonate aldolase
+formerly	4.1.2.23	3-deoxy-D-manno-octulosonate aldolase
+the mutant shows modifiedsubstrate specificity from D-sialic acid to3-deoxy-L-manno-octulosonate	4.1.2.23	3-deoxy-D-manno-octulosonate aldolase
+aldolase, dimethylaniline N-oxide	4.1.2.24	dimethylaniline-N-oxide aldolase
+Microsomal N-oxide dealkylase	4.1.2.24	dimethylaniline-N-oxide aldolase
+Microsomal oxidase II	4.1.2.24	dimethylaniline-N-oxide aldolase
+aldolase, dihydroneopterin	4.1.2.25	dihydroneopterin aldolase
+FASA	4.1.2.25	dihydroneopterin aldolase
+DHNA catalyzes both the cleavage of7,8-dihydroneopterin to form 6-hydroxymethyl-7,8-dihydropterin andglycolaldehyde and the epimerization of 7,8-dihydroneopterin to form7,8-dihydro-l-monapterin	4.1.2.25	dihydroneopterin aldolase
+gene name	4.1.2.25	dihydroneopterin aldolase
+gene name	4.1.2.25	dihydroneopterin aldolase
+gene name	4.1.2.25	dihydroneopterin aldolase
+gene name	4.1.2.25	dihydroneopterin aldolase
+gene name	4.1.2.25	dihydroneopterin aldolase
+dihydroneopterin aldolase	4.1.2.25	dihydroneopterin aldolase
+folA	4.1.2.25	dihydroneopterin aldolase
+DHNA is part of the bifunctional dihydroneopterinaldolase/6 hydroxymethyl-7,8-dihydropterin pyrophosphokinase, alsocalled SulD	4.1.2.25	dihydroneopterin aldolase
+gene name	4.1.2.25	dihydroneopterin aldolase
+aldolase, phenylserine	4.1.2.26	phenylserine aldolase
+5-dehydro-2-deoxy-D-gluconate-6-phosphate malonate-semialdehyde-lyase	4.1.2.26	phenylserine aldolase
+aldolase, dihydrosphingosine 1-phosphate	4.1.2.27	sphinganine-1-phosphate aldolase
+Dihydrosphingosine 1-phosphate aldolase	4.1.2.27	sphinganine-1-phosphate aldolase
+sphinganine-1-phosphate-alkanal-lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+sphinganine 1-phosphate lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+sphingosine-phosphate lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+sphingosine-1-phosphate lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+SPL	4.1.2.27	sphinganine-1-phosphate aldolase
+S-1-P-lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+sphingosine phosphate lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+sphinganine-1-phosphate aldolase	4.1.2.27	sphinganine-1-phosphate aldolase
+sphinganine-1-phosphate lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+Sgpl1	4.1.2.27	sphinganine-1-phosphate aldolase
+S1PL	4.1.2.27	sphinganine-1-phosphate aldolase
+S1P lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+sphingosine 1-phosphate lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+S1P-lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+dihydrosphingosine phosphate lyase	4.1.2.27	sphinganine-1-phosphate aldolase
+gene name	4.1.2.27	sphinganine-1-phosphate aldolase
+Dpl1p	4.1.2.27	sphinganine-1-phosphate aldolase
+2-keto-3-deoxy-D-pentonate aldolase	4.1.2.28	2-dehydro-3-deoxy-D-pentonate aldolase
+aldolase, 2-keto-3-deoxy-D-pentonate	4.1.2.28	2-dehydro-3-deoxy-D-pentonate aldolase
+3-Deoxy-D-pentulosonic acid aldolase	4.1.2.28	2-dehydro-3-deoxy-D-pentonate aldolase
+Phospho-5-keto-2-deoxygluconate-aldolase	4.1.2.29	5-dehydro-2-deoxyphosphogluconate aldolase
+aldolase, phospho-5-keto-2-deoxygluconate	4.1.2.29	5-dehydro-2-deoxyphosphogluconate aldolase
+DKH phosphate aldolase	4.1.2.29	5-dehydro-2-deoxyphosphogluconate aldolase
+phospho-5-dehydro-2-deoxygluconate aldolase	4.1.2.29	5-dehydro-2-deoxyphosphogluconate aldolase
+6-phospho-5-dehydro-2-deoxy-D-gluconate malonate-semialdehyde-lyase	4.1.2.29	5-dehydro-2-deoxyphosphogluconate aldolase
+Trimethylamine N-oxide demethylase	4.1.2.32	trimethylamine-oxide aldolase
+Trimethylamine N-oxide aldolase	4.1.2.32	trimethylamine-oxide aldolase
+Trimethylamine N-oxide formaldehyde-lyase	4.1.2.32	trimethylamine-oxide aldolase
+TMAO demethylase	4.1.2.32	trimethylamine-oxide aldolase
+trimethylamine-N-oxide demethylase	4.1.2.32	trimethylamine-oxide aldolase
+trimethylamine oxide aldolase	4.1.2.32	trimethylamine-oxide aldolase
+TMAOase	4.1.2.32	trimethylamine-oxide aldolase
+lyase, fucosterol epoxide	4.1.2.33	fucosterol-epoxide lyase
+2'-carboxybenzalpyruvate aldolase	4.1.2.34	4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase
+aldolase, 2'-carboxybenzalpyruvate	4.1.2.34	4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase
+trans-2'-carboxybenzalpyruvate hydratase-aldolase	4.1.2.34	4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase
+phdJ	4.1.2.34	4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase
+trans-2'-carboxybenzalpyruvate aldolase	4.1.2.34	4-(2-carboxyphenyl)-2-oxobut-3-enoate aldolase
+4-hydroxy-3-hexanone aldolase	4.1.2.35	propioin synthase
+synthase, propioin	4.1.2.35	propioin synthase
+lactate synthase	4.1.2.36	lactate aldolase
+Oxynitrilase	4.1.2.37	hydroxynitrilase
+Hydroxynitrile lyase	4.1.2.37	hydroxynitrilase
+HNL	4.1.2.37	hydroxynitrilase
+(S)-HNL	4.1.2.37	hydroxynitrilase
+(S)-Hydroxynitrile lyase	4.1.2.37	hydroxynitrilase
+Lyase, acetone-cyanohydrin	4.1.2.37	hydroxynitrilase
+alpha-Hydroxynitrile lyase	4.1.2.37	hydroxynitrilase
+Acetone-cyanohydrin lyase	4.1.2.37	hydroxynitrilase
+Acetone cyanohydrin lyase	4.1.2.37	hydroxynitrilase
+(R)-Oxynitrilase	4.1.2.37	hydroxynitrilase
+LuHNL	4.1.2.37	hydroxynitrilase
+GenBank Z97337-derived protein GI 2244867	4.1.2.37	hydroxynitrilase
+MeHNL	4.1.2.37	hydroxynitrilase
+HbHNL	4.1.2.37	hydroxynitrilase
+(S)-Oxynitrilase	4.1.2.37	hydroxynitrilase
+(S)-hydroxynitrilase	4.1.2.37	hydroxynitrilase
+acetone-cyanhydrin lyase	4.1.2.37	hydroxynitrilase
+acetone-cyanhydrin acetone-lyase	4.1.2.37	hydroxynitrilase
+BZL	4.1.2.38	benzoin aldolase
+lyase, benzaldehyde	4.1.2.38	benzoin aldolase
+the wild type enzyme does not showany decarboxylase activity towards 2-keto acids	4.1.2.38	benzoin aldolase
+BAL	4.1.2.38	benzoin aldolase
+benzoin aldolase	4.1.2.38	benzoin aldolase
+BznB	4.1.2.38	benzoin aldolase
+aldolase, deoxyribo	4.1.2.4	deoxyribose-phosphate aldolase
+Phosphodeoxyriboaldolase	4.1.2.4	deoxyribose-phosphate aldolase
+Deoxyriboaldolase	4.1.2.4	deoxyribose-phosphate aldolase
+Deoxyribose-5-phosphate aldolase	4.1.2.4	deoxyribose-phosphate aldolase
+DR aldolase	4.1.2.4	deoxyribose-phosphate aldolase
+CGI-26	4.1.2.4	deoxyribose-phosphate aldolase
+deoxyribose-phosphate aldolase	4.1.2.4	deoxyribose-phosphate aldolase
+gene name	4.1.2.4	deoxyribose-phosphate aldolase
+2-deoxy-D-ribose-5-phosphate aldolase	4.1.2.4	deoxyribose-phosphate aldolase
+TgDPA	4.1.2.4	deoxyribose-phosphate aldolase
+deoxyribose phosphate aldolase-like protein	4.1.2.4	deoxyribose-phosphate aldolase
+DPA	4.1.2.4	deoxyribose-phosphate aldolase
+TK2104	4.1.2.4	deoxyribose-phosphate aldolase
+2-deoxyribose 5-phosphate aldolase	4.1.2.4	deoxyribose-phosphate aldolase
+Tk-DeoC	4.1.2.4	deoxyribose-phosphate aldolase
+deoxyribose 5-phosphate aldolase	4.1.2.4	deoxyribose-phosphate aldolase
+DERA	4.1.2.4	deoxyribose-phosphate aldolase
+TtDERA	4.1.2.4	deoxyribose-phosphate aldolase
+D-2-deoxyribose-5-phosphate aldolase	4.1.2.4	deoxyribose-phosphate aldolase
+2-deoxy-D-ribose 5-phosphate aldolase	4.1.2.4	deoxyribose-phosphate aldolase
+2-Deoxyribose-5-phosphate aldolase	4.1.2.4	deoxyribose-phosphate aldolase
+aldolase, tagatose 1,6-diphosphate	4.1.2.40	tagatose-bisphosphate aldolase
+D-Tagatose 1,6-diphosphate aldolase	4.1.2.40	tagatose-bisphosphate aldolase
+Tagatose 1,6-bisphosphate aldolase	4.1.2.40	tagatose-bisphosphate aldolase
+Tagatose bisphosphate aldolase	4.1.2.40	tagatose-bisphosphate aldolase
+Tagatose-1,6-diphosphate aldolase	4.1.2.40	tagatose-bisphosphate aldolase
+D-Tagatose-1,6-bisphosphate aldolase (class II)	4.1.2.40	tagatose-bisphosphate aldolase
+D-Tagatose-1,6-bisphosphate aldolase (class I)	4.1.2.40	tagatose-bisphosphate aldolase
+TDP aldolase	4.1.2.40	tagatose-bisphosphate aldolase
+Tagatose-bisphosphate aldolase	4.1.2.40	tagatose-bisphosphate aldolase
+D-tagatose-1,6-bisphosphate aldolase	4.1.2.40	tagatose-bisphosphate aldolase
+TBA	4.1.2.40	tagatose-bisphosphate aldolase
+GatY	4.1.2.40	tagatose-bisphosphate aldolase
+tagatose-1,6-bisphosphate aldolase	4.1.2.40	tagatose-bisphosphate aldolase
+TBP aldolase	4.1.2.40	tagatose-bisphosphate aldolase
+tagatose-1,6-biphosphate aldolase 2	4.1.2.40	tagatose-bisphosphate aldolase
+LacD.1	4.1.2.40	tagatose-bisphosphate aldolase
+a class I tagatose-1,6-bisphosphate aldolase	4.1.2.40	tagatose-bisphosphate aldolase
+D-TA	4.1.2.42	D-threonine aldolase
+D-threonine aldolase	4.1.2.42	D-threonine aldolase
+acts on the D-isomer	4.1.2.42	D-threonine aldolase
+DTA	4.1.2.42	D-threonine aldolase
+low specificity D-threonine aldolase	4.1.2.42	D-threonine aldolase
+D-arabino-3-hexulose 6-phosphate formaldehyde-lyase	4.1.2.43	3-hexulose-6-phosphate synthase
+protein with hexulose-6-phosphate synthase andformaldehyde activating enzyme activities	4.1.2.43	3-hexulose-6-phosphate synthase
+hexulose-6-phosphate synthase	4.1.2.43	3-hexulose-6-phosphate synthase
+3-hexulose-6-phosphate synthase and6-phospho-3-hexuloisomerase activities are expressed constitutively inarchea	4.1.2.43	3-hexulose-6-phosphate synthase
+3-hexulose-6-phosphate synthaseand 6-phospho-3-hexuloisomerase activities are expressed constitutivelyin archea	4.1.2.43	3-hexulose-6-phosphate synthase
+bifunctional enzyme with 3-hexulose-6-phosphatesynthase and 6-phospho-3-hexuloisomerase activities	4.1.2.43	3-hexulose-6-phosphate synthase
+3-hexulose-phosphate synthase	4.1.2.43	3-hexulose-6-phosphate synthase
+HPS-aldolase	4.1.2.43	3-hexulose-6-phosphate synthase
+bifunctional fusion enzyme	4.1.2.43	3-hexulose-6-phosphate synthase
+3-hexulose-6-phosphate formaldehyde lyase	4.1.2.43	3-hexulose-6-phosphate synthase
+3-hexulosephosphate synthase	4.1.2.43	3-hexulose-6-phosphate synthase
+hexose phosphate synthase	4.1.2.43	3-hexulose-6-phosphate synthase
+3-hexulose phosphate synthase	4.1.2.43	3-hexulose-6-phosphate synthase
+D-arabino-3-hexulose 6-phosphate formaldehyde lyase	4.1.2.43	3-hexulose-6-phosphate synthase
+benzoyl-CoA-dihydrodiol lyase	4.1.2.44	2,3-epoxybenzoyl-CoA dihydrolase
+2,3-epoxybenzoyl-CoA dihydrolase	4.1.2.44	2,3-epoxybenzoyl-CoA dihydrolase
+BoxC	4.1.2.44	2,3-epoxybenzoyl-CoA dihydrolase
+dihydrodiol transforming enzyme	4.1.2.44	2,3-epoxybenzoyl-CoA dihydrolase
+benzoyl-CoA oxidation component C	4.1.2.44	2,3-epoxybenzoyl-CoA dihydrolase
+tHBP-HA	4.1.2.45	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase
+2'-hydroxybenzalpyruvate aldolase	4.1.2.45	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase
+fHBP HA A	4.1.2.45	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase
+fHBP HA B	4.1.2.45	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase
+nsaE	4.1.2.45	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase
+trans-o-hydroxybenzylidenepyruvate hydratase-aldolase	4.1.2.45	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase
+tHBPA hydratase-aldolase	4.1.2.45	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase
+o-tHBPA hydratase-aldolase	4.1.2.45	trans-o-hydroxybenzylidenepyruvate hydratase-aldolase
+Hydroxynitrile lyase	4.1.2.46	aliphatic (R)-hydroxynitrile lyase
+Acetone cyanohydrin lyase	4.1.2.46	aliphatic (R)-hydroxynitrile lyase
+(R)-Oxynitrilase	4.1.2.46	aliphatic (R)-hydroxynitrile lyase
+LuHNL	4.1.2.46	aliphatic (R)-hydroxynitrile lyase
+(R)-hydroxynitrile lyase	4.1.2.46	aliphatic (R)-hydroxynitrile lyase
+(R)-HNL	4.1.2.46	aliphatic (R)-hydroxynitrile lyase
+(S)-Hb-HNL	4.1.2.47	(S)-hydroxynitrile lyase
+Hydroxynitrile lyase	4.1.2.47	(S)-hydroxynitrile lyase
+HNL	4.1.2.47	(S)-hydroxynitrile lyase
+(S)-selective HNL	4.1.2.47	(S)-hydroxynitrile lyase
+S-selective HnL	4.1.2.47	(S)-hydroxynitrile lyase
+S-HnL	4.1.2.47	(S)-hydroxynitrile lyase
+Oxynitrilase	4.1.2.47	(S)-hydroxynitrile lyase
+(S)-selective hydroxynitrile lyase	4.1.2.47	(S)-hydroxynitrile lyase
+HbHNL	4.1.2.47	(S)-hydroxynitrile lyase
+Hb-HNL	4.1.2.47	(S)-hydroxynitrile lyase
+(S)-HbHNL	4.1.2.47	(S)-hydroxynitrile lyase
+(S)-Hydroxynitrile lyase	4.1.2.47	(S)-hydroxynitrile lyase
+formerly	4.1.2.47	(S)-hydroxynitrile lyase
+(R)-Oxynitrilase	4.1.2.47	(S)-hydroxynitrile lyase
+LuHNL	4.1.2.47	(S)-hydroxynitrile lyase
+(R)-LuHNL	4.1.2.47	(S)-hydroxynitrile lyase
+(S)-HNL	4.1.2.47	(S)-hydroxynitrile lyase
+alpha-Hydroxynitrile lyase	4.1.2.47	(S)-hydroxynitrile lyase
+(S)-Oxynitrilase	4.1.2.47	(S)-hydroxynitrile lyase
+(S)-MeHNL	4.1.2.47	(S)-hydroxynitrile lyase
+HNL1	4.1.2.47	(S)-hydroxynitrile lyase
+mut-HNL1	4.1.2.47	(S)-hydroxynitrile lyase
+(S)-Me-HNL	4.1.2.47	(S)-hydroxynitrile lyase
+MeHNL	4.1.2.47	(S)-hydroxynitrile lyase
+S-hydroxynitrile lyase	4.1.2.47	(S)-hydroxynitrile lyase
+(S)-cyanohydrin producing hydroxynitrile lyase	4.1.2.47	(S)-hydroxynitrile lyase
+MeHNKL	4.1.2.47	(S)-hydroxynitrile lyase
+LTA	4.1.2.48	low-specificity L-threonine aldolase
+L-threonine aldolase	4.1.2.48	low-specificity L-threonine aldolase
+LtaE	4.1.2.48	low-specificity L-threonine aldolase
+GlyA	4.1.2.48	low-specificity L-threonine aldolase
+L-TA	4.1.2.48	low-specificity L-threonine aldolase
+SHMT	4.1.2.48	low-specificity L-threonine aldolase
+serine hydroxy-methyl transferase	4.1.2.48	low-specificity L-threonine aldolase
+threonine aldolase	4.1.2.48	low-specificity L-threonine aldolase
+low specificity L-TA	4.1.2.48	low-specificity L-threonine aldolase
+gene name	4.1.2.48	low-specificity L-threonine aldolase
+L-allo-threonine acetaldehyde-lyase	4.1.2.49	L-allo-threonine aldolase
+L-allo-TA	4.1.2.49	L-allo-threonine aldolase
+L-threonine aldolase	4.1.2.5	L-threonine aldolase
+L-TA	4.1.2.5	L-threonine aldolase
+L-threonine acetaldehyde-lyase	4.1.2.5	L-threonine aldolase
+CPH4 synthase	4.1.2.50	6-carboxytetrahydropterin synthase
+formerly YkvK	4.1.2.50	6-carboxytetrahydropterin synthase
+6-carboxy-5,6,7,8-tetrahydropterin synthase	4.1.2.50	6-carboxytetrahydropterin synthase
+KDGA	4.1.2.51	2-dehydro-3-deoxy-D-gluconate aldolase
+KDG-specific aldolase	4.1.2.51	2-dehydro-3-deoxy-D-gluconate aldolase
+gene name	4.1.2.51	2-dehydro-3-deoxy-D-gluconate aldolase
+4-hydroxy-2-oxo-heptane-1,7-dioate aldolase	4.1.2.52	4-hydroxy-2-oxoheptanedioate aldolase
+HpaI	4.1.2.52	4-hydroxy-2-oxoheptanedioate aldolase
+HpcH	4.1.2.52	4-hydroxy-2-oxoheptanedioate aldolase
+L-2-keto-3-deoxyrhamnonate aldolase	4.1.2.53	2-keto-3-deoxy-L-rhamnonate aldolase
+L-KDR aldolase	4.1.2.53	2-keto-3-deoxy-L-rhamnonate aldolase
+LRA4	4.1.2.53	2-keto-3-deoxy-L-rhamnonate aldolase
+YfaU	4.1.2.53	2-keto-3-deoxy-L-rhamnonate aldolase
+KDR aldolase	4.1.2.53	2-keto-3-deoxy-L-rhamnonate aldolase
+2-dehydro-3-deoxyrhamnonate aldolase	4.1.2.53	2-keto-3-deoxy-L-rhamnonate aldolase
+2-keto-3-deoxy acid sugar aldolase	4.1.2.53	2-keto-3-deoxy-L-rhamnonate aldolase
+gene name	4.1.2.54	L-threo-3-deoxy-hexylosonate aldolase
+Kdg1	4.1.2.54	L-threo-3-deoxy-hexylosonate aldolase
+GAAC	4.1.2.54	L-threo-3-deoxy-hexylosonate aldolase
+2-keto-3-deoxygluconate aldolase	4.1.2.55	2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6
+KDGA	4.1.2.55	2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6
+KDG-aldolase	4.1.2.55	2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6
+SacKdgA	4.1.2.55	2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6
+KDG aldolase	4.1.2.55	2-dehydro-3-deoxy-phosphogluconate/2-dehydro-3-deoxy-6
+gene name	4.1.2.56	2-amino-4,5-dihydroxy-6-oxo-7-(phosphooxy)heptanoate synthase
+yihT	4.1.2.57	sulfofructosephosphate aldolase
+gene name	4.1.2.57	sulfofructosephosphate aldolase
+SFP aldolase	4.1.2.57	sulfofructosephosphate aldolase
+6-deoxy-6-sulphofructose-1-phosphate aldolase	4.1.2.57	sulfofructosephosphate aldolase
+KDSG aldolase	4.1.2.58	2-dehydro-3,6-dideoxy-6-sulfogluconate aldolase
+H2NMP aldolase	4.1.2.59	dihydroneopterin phosphate aldolase
+PF1278	4.1.2.59	dihydroneopterin phosphate aldolase
+6-pyruvoyltetrahydropterin synthase	4.1.2.60	dihydroneopterin triphosphate aldolase
+PTPS	4.1.2.60	dihydroneopterin triphosphate aldolase
+PTPS-III	4.1.2.60	dihydroneopterin triphosphate aldolase
+DHNA	4.1.2.60	dihydroneopterin triphosphate aldolase
+dihydroneopterin aldolase	4.1.2.60	dihydroneopterin triphosphate aldolase
+TRPS	4.1.2.8	indole-3-glycerol-phosphate lyase
+tryptophan synthase alpha	4.1.2.8	indole-3-glycerol-phosphate lyase
+TSA	4.1.2.8	indole-3-glycerol-phosphate lyase
+indoleglycerolphosphate hydrolase	4.1.2.8	indole-3-glycerol-phosphate lyase
+indole-3-glycerophosphate D-glyceraldehyde-3-phosphate-lyase	4.1.2.8	indole-3-glycerol-phosphate lyase
+indole-3-glycerol phosphate lyase	4.1.2.8	indole-3-glycerol-phosphate lyase
+IGL	4.1.2.8	indole-3-glycerol-phosphate lyase
+indole synthase	4.1.2.8	indole-3-glycerol-phosphate lyase
+a homolog of the alpha-subunit of bifunctionaltrypthophan synthase	4.1.2.8	indole-3-glycerol-phosphate lyase
+tryptophan synthase alpha subunit	4.1.2.8	indole-3-glycerol-phosphate lyase
+ZmTSA	4.1.2.8	indole-3-glycerol-phosphate lyase
+Tsa1	4.1.2.8	indole-3-glycerol-phosphate lyase
+INS	4.1.2.8	indole-3-glycerol-phosphate lyase
+OSJNBa0094F01.14	4.1.2.8	indole-3-glycerol-phosphate lyase
+locus name	4.1.2.8	indole-3-glycerol-phosphate lyase
+Pentulose-5-phosphate phosphoketolase	4.1.2.9	phosphoketolase
+D-Xylulose-5-phosphate D-glyceraldehyde-3-phosphate-lyase	4.1.2.9	phosphoketolase
+D-Xylulose-5-phosphate phosphoketolase	4.1.2.9	phosphoketolase
+Pu5PPK	4.1.2.9	phosphoketolase
+X5PPK	4.1.2.9	phosphoketolase
+phosphoketolase	4.1.2.9	phosphoketolase
+Xfp	4.1.2.9	phosphoketolase
+xylulose-5-phosphate phosphoketolase	4.1.2.9	phosphoketolase
+XPK	4.1.2.9	phosphoketolase
+XpkA	4.1.2.9	phosphoketolase
+xylulose-5-phosphate/fructose-6-phosphate phosphoketolase	4.1.2.9	phosphoketolase
+PKT	4.1.2.9	phosphoketolase
+phosphoketolase-2	4.1.2.9	phosphoketolase
+PhK	4.1.2.9	phosphoketolase
+phosphoketolase-1	4.1.2.9	phosphoketolase
+gene name	4.1.2.9	phosphoketolase
+D-xylulose 5-phosphate phosphoketolase	4.1.2.9	phosphoketolase
+isocitrase	4.1.3.1	isocitrate lyase
+lyase, isocitrate	4.1.3.1	isocitrate lyase
+isocitric lyase	4.1.3.1	isocitrate lyase
+isocitritase	4.1.3.1	isocitrate lyase
+threo-DS-Isocitrate glyoxylate-lyase	4.1.3.1	isocitrate lyase
+isocitratase	4.1.3.1	isocitrate lyase
+key enzymein the glyoxylate cycle	4.1.3.1	isocitrate lyase
+activity of a bifunctionalprotein named glyoxylate cycle enzyme (malate synthase and isocitratelyase activity)	4.1.3.1	isocitrate lyase
+relative electrophoretic mobilityRf 0.28	4.1.3.1	isocitrate lyase
+relative electrophoretic mobility Rf0.44	4.1.3.1	isocitrate lyase
+isoenzyme, has no 2-methylisocitrate lyase activity	4.1.3.1	isocitrate lyase
+MtbIcl	4.1.3.1	isocitrate lyase
+isoenzyme, has both isocitrate lyase and2-methylisocitrate lyase activity	4.1.3.1	isocitrate lyase
+citrate lyase	4.1.3.1	isocitrate lyase
+citrate lyase encoding gene	4.1.3.1	isocitrate lyase
+gene name	4.1.3.1	isocitrate lyase
+bifunctional enzyme: isocitrate lyase and malatesynthase	4.1.3.1	isocitrate lyase
+PDP	4.1.3.1	isocitrate lyase
+petal death protein	4.1.3.1	isocitrate lyase
+FPICL1	4.1.3.1	isocitrate lyase
+gene name	4.1.3.1	isocitrate lyase
+Lyase, oxalomalate	4.1.3.13	Oxalomalate lyase
+erythro-beta-Hydroxyaspartate aldolase	4.1.3.14	L-erythro-3-hydroxyaspartate aldolase
+aldolase, 3-hydroxyaspartate	4.1.3.14	L-erythro-3-hydroxyaspartate aldolase
+erythro-beta-Hydroxyaspartate glycine-lyase	4.1.3.14	L-erythro-3-hydroxyaspartate aldolase
+d-HAA	4.1.3.14	L-erythro-3-hydroxyaspartate aldolase
+aldolase, 4-hydroxy-2-oxoglutarate	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+Hydroxyketoglutaric aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+4-hydroxy-2-ketoglutaric aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+2-oxo-4-hydroxyglutarate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+EC 4.1.2.31	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+2-keto-4-hydroxyglutaric aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+4-hydroxy-2-ketoglutarate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+2-keto-4-hydroxyglutarate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+2-oxo-4-hydroxyglutaric aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+DL-4-Hydroxy-2-ketoglutarate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+2-keto-4-hydroxybutyrate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+hydroxyketoglutarate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+KHG-aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+hOGA	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+DHDPSL	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+dihydrodipicolinate synthase-like enzyme	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+4-hydroxy-2-oxoglutarate aldolase	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+HOGA1	4.1.3.16	4-Hydroxy-2-oxoglutarate aldolase
+aldolase, 4-hydroxy-4-methyl-2-oxoglutarate	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+pyruvate aldolase	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+gamma-methyl-gamma-hydroxy-alpha-ketoglutaric aldolase	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+MHK aldolase	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+MHKG aldolase	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+4-hydroxy-4-methyl-2-ketoglutarate aldolase	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+HMG aldolase	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+KDPG aldolase	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+4-hydroxy-4-methyl-2-oxoglutarate/4-carboxy-4-hydroxy-2-oxoadipatealdolase	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+HMG/CHA aldolase	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+4-hydroxy-4-methyl-2-oxoglutarate aldolase	4.1.3.17	4-hydroxy-4-methyl-2-oxoglutarate aldolase
+MSA	4.1.3.2	malate synthase
+MSG	4.1.3.2	malate synthase
+lyase, citramalate	4.1.3.22	citramalate lyase
+citramalic-condensing enzyme	4.1.3.22	citramalate lyase
+citramalate synthetase	4.1.3.22	citramalate lyase
+citramalic synthase	4.1.3.22	citramalate lyase
+(S)-citramalate lyase	4.1.3.22	citramalate lyase
+(+)-citramalate pyruvate-lyase	4.1.3.22	citramalate lyase
+CMS	4.1.3.22	citramalate lyase
+citramalate synthase	4.1.3.22	citramalate lyase
+represents a novel phylogenetic variant of the enzyme	4.1.3.22	citramalate lyase
+CimA	4.1.3.22	citramalate lyase
+citramalate lyase	4.1.3.22	citramalate lyase
+lyase, malyl coenzyme A	4.1.3.24	malyl-CoA lyase
+malyl coenzyme A lyase	4.1.3.24	malyl-CoA lyase
+protein MclA2	4.1.3.24	malyl-CoA lyase
+the two enzymesare identical and both enzymatic reactions are catalysed by one singlebifunctional enzyme	4.1.3.24	malyl-CoA lyase
+(3S)-malyl-coenzyme A lyase	4.1.3.24	malyl-CoA lyase
+(3S)-malyl-CoA lyase	4.1.3.24	malyl-CoA lyase
+malyl-CoA lyase	4.1.3.24	malyl-CoA lyase
+Mcl1	4.1.3.24	malyl-CoA lyase
+UniProt	4.1.3.24	malyl-CoA lyase
+MCLR	4.1.3.24	malyl-CoA lyase
+MCL	4.1.3.24	malyl-CoA lyase
+UniProt	4.1.3.24	malyl-CoA lyase
+MCLC	4.1.3.24	malyl-CoA lyase
+L-malyl-coenzyme A/beta-methylmalyl-coenzyme A lyase	4.1.3.24	malyl-CoA lyase
+lyase, citramalyl coenzyme A	4.1.3.25	(S)-citramalyl-CoA lyase
+citramalyl-CoA lyase	4.1.3.25	(S)-citramalyl-CoA lyase
+citramalyl coenzyme A lyase	4.1.3.25	(S)-citramalyl-CoA lyase
+citramalyl-thio-acyl carrier protein lyase	4.1.3.25	(S)-citramalyl-CoA lyase
+D-citramalyl-CoA lyase	4.1.3.25	(S)-citramalyl-CoA lyase
+YpCcl	4.1.3.25	(S)-citramalyl-CoA lyase
+CCL	4.1.3.25	(S)-citramalyl-CoA lyase
+CitE-like protein	4.1.3.25	(S)-citramalyl-CoA lyase
+EC 4.1.3.25 is the beta-subunit of EC 4.1.3.22	4.1.3.25	(S)-citramalyl-CoA lyase
+MCL	4.1.3.25	(S)-citramalyl-CoA lyase
+UniProt	4.1.3.25	(S)-citramalyl-CoA lyase
+MCLC	4.1.3.25	(S)-citramalyl-CoA lyase
+UniProt	4.1.3.25	(S)-citramalyl-CoA lyase
+UniProt	4.1.3.25	(S)-citramalyl-CoA lyase
+UniProt	4.1.3.25	(S)-citramalyl-CoA lyase
+Lyase, 3-hydroxy-3-isohexenylglutaryl coenzyme A	4.1.3.26	3-Hydroxy-3-isohexenylglutaryl-CoA lyase
+beta-Hydroxy-beta-isohexenylglutaryl CoA-lyase	4.1.3.26	3-Hydroxy-3-isohexenylglutaryl-CoA lyase
+Hydroxyisohexenylglutaryl-CoA:acetatelyase	4.1.3.26	3-Hydroxy-3-isohexenylglutaryl-CoA lyase
+3-Hydroxy-3-isohexenylglutaryl coenzyme A lyase	4.1.3.26	3-Hydroxy-3-isohexenylglutaryl-CoA lyase
+Hydroxyisohexenylglutaryl CoA:acetate lyase	4.1.3.26	3-Hydroxy-3-isohexenylglutaryl-CoA lyase
+3-hydroxy-3-(4-methylpent-3-en-1-yl)-glutaryl-CoAisopentenyl-acetoacetyl-CoA-lyase	4.1.3.26	3-Hydroxy-3-isohexenylglutaryl-CoA lyase
+3-hydroxy-3-isohexenylglutaryl-CoA lyase	4.1.3.26	3-Hydroxy-3-isohexenylglutaryl-CoA lyase
+HIHG-CoA lyase	4.1.3.26	3-Hydroxy-3-isohexenylglutaryl-CoA lyase
+LiuE	4.1.3.26	3-Hydroxy-3-isohexenylglutaryl-CoA lyase
+synthase, anthranilate	4.1.3.27	anthranilate synthase
+anthranilate synthetase	4.1.3.27	anthranilate synthase
+chorismate lyase	4.1.3.27	anthranilate synthase
+synthetase, anthranilate	4.1.3.27	anthranilate synthase
+Glutamine amido-transferase	4.1.3.27	anthranilate synthase
+Glutamine amidotransferase	4.1.3.27	anthranilate synthase
+anthranilate synthase	4.1.3.27	anthranilate synthase
+anthranilate synthase alpha-subunit	4.1.3.27	anthranilate synthase
+ASA	4.1.3.27	anthranilate synthase
+major isoform of anthranilate synthase	4.1.3.27	anthranilate synthase
+anthranilate synthase a1	4.1.3.27	anthranilate synthase
+PhnAB anthranilate synthase	4.1.3.27	anthranilate synthase
+alpha-subunit of anthranilate synthase	4.1.3.27	anthranilate synthase
+feedback-insensitive alpha-subunit OASA1D (OASA1 withpoint mutation N323D)	4.1.3.27	anthranilate synthase
+anthranilate synthase alpha2	4.1.3.27	anthranilate synthase
+alpha-subunit of anthranilate synthase	4.1.3.27	anthranilate synthase
+OASA	4.1.3.27	anthranilate synthase
+subunit	4.1.3.27	anthranilate synthase
+tryptophanbiosynthetic enzyme complex	4.1.3.27	anthranilate synthase
+TrpDE	4.1.3.27	anthranilate synthase
+subunit	4.1.3.27	anthranilate synthase
+gene name	4.1.3.27	anthranilate synthase
+ANTA synthase	4.1.3.27	anthranilate synthase
+anthranilate synthase alpha 1	4.1.3.27	anthranilate synthase
+anthranilate synthase alpha-subunit	4.1.3.27	anthranilate synthase
+anthranilate synthase alpha 2	4.1.3.27	anthranilate synthase
+anthranilate alpha-subunit	4.1.3.27	anthranilate synthase
+ASalphabeta-1	4.1.3.27	anthranilate synthase
+anthranilate synthase component I	4.1.3.27	anthranilate synthase
+gene name	4.1.3.27	anthranilate synthase
+HvASa2	4.1.3.27	anthranilate synthase
+PhnAB	4.1.3.27	anthranilate synthase
+Lyase, acetylneuraminate	4.1.3.3	N-acetylneuraminate lyase
+Sialic aldolase	4.1.3.3	N-acetylneuraminate lyase
+Sialate lyase	4.1.3.3	N-acetylneuraminate lyase
+N-Acetylneuraminic aldolase	4.1.3.3	N-acetylneuraminate lyase
+Neuraminic aldolase	4.1.3.3	N-acetylneuraminate lyase
+N-Acetylneuraminate aldolase	4.1.3.3	N-acetylneuraminate lyase
+Neuraminic acid aldolase	4.1.3.3	N-acetylneuraminate lyase
+Neuraminate aldolase	4.1.3.3	N-acetylneuraminate lyase
+N-Acetylneuraminic lyase	4.1.3.3	N-acetylneuraminate lyase
+Acetylneuraminate pyruvate-lyase	4.1.3.3	N-acetylneuraminate lyase
+N-Acetylneuraminate pyruvate-lyase	4.1.3.3	N-acetylneuraminate lyase
+NeuAc aldolase	4.1.3.3	N-acetylneuraminate lyase
+NANA lyase	4.1.3.3	N-acetylneuraminate lyase
+NALase	4.1.3.3	N-acetylneuraminate lyase
+N-Acetylneuraminate lyase	4.1.3.3	N-acetylneuraminate lyase
+N-acetyl-d-neuraminic acid aldolase	4.1.3.3	N-acetylneuraminate lyase
+Sialic acid aldolase	4.1.3.3	N-acetylneuraminate lyase
+PmNanA	4.1.3.3	N-acetylneuraminate lyase
+NanA	4.1.3.3	N-acetylneuraminate lyase
+EcNanA	4.1.3.3	N-acetylneuraminate lyase
+NAL	4.1.3.3	N-acetylneuraminate lyase
+N-Acetylneuraminic acid lyase	4.1.3.3	N-acetylneuraminate lyase
+class I NAL	4.1.3.3	N-acetylneuraminate lyase
+NPL	4.1.3.3	N-acetylneuraminate lyase
+N-acetylneuraminate pyruvate lyase	4.1.3.3	N-acetylneuraminate lyase
+N-Acetylneuraminic acid aldolase	4.1.3.3	N-acetylneuraminate lyase
+Neu5Ac aldolase	4.1.3.3	N-acetylneuraminate lyase
+Neu5Ac lyase	4.1.3.3	N-acetylneuraminate lyase
+NeuAc lyase	4.1.3.3	N-acetylneuraminate lyase
+N-acetyl-D-neuraminic acid lyase	4.1.3.3	N-acetylneuraminate lyase
+sialate aldolase	4.1.3.3	N-acetylneuraminate lyase
+sialate-pyruvate lyase	4.1.3.3	N-acetylneuraminate lyase
+Lyase, methylisocitrate	4.1.3.30	Methylisocitrate lyase
+MICL	4.1.3.30	Methylisocitrate lyase
+methylisocitrate lyase	4.1.3.30	Methylisocitrate lyase
+Mcl1	4.1.3.30	Methylisocitrate lyase
+gene name	4.1.3.30	Methylisocitrate lyase
+MCL	4.1.3.30	Methylisocitrate lyase
+2-Methylisocitrate lyase	4.1.3.30	Methylisocitrate lyase
+PrpB	4.1.3.30	Methylisocitrate lyase
+Lyase, 2,3-dimethylmalate	4.1.3.32	2,3-Dimethylmalate lyase
+(2R,3S)-dimethylmalate lyase	4.1.3.32	2,3-Dimethylmalate lyase
+2,3-dimethylmalate lyase	4.1.3.32	2,3-Dimethylmalate lyase
+DMML	4.1.3.32	2,3-Dimethylmalate lyase
+An07g08390	4.1.3.32	2,3-Dimethylmalate lyase
+citryl-S-ACP lyase	4.1.3.34	citryl-CoA lyase
+EC 4.1.3.6 can be dissociated intocomponents, two of which are identical with EC 2.8.3.10 and EC 4.1.3.34	4.1.3.34	citryl-CoA lyase
+gene name	4.1.3.34	citryl-CoA lyase
+citryl-CoA lyase	4.1.3.34	citryl-CoA lyase
+CCL	4.1.3.34	citryl-CoA lyase
+synthase, 1,4-dihydroxy-2-naphthoate	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+Dihydroxynaphthoic acid synthetase	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+naphthoate synthase	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+1,4-dihydroxy-2-naphthoyl-CoA synthase	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+MenB	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+1,4-dihydroxy-2-naphthoyl-coenzyme synthase	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+1,4-dihydroxy-2-naphthoyl coenzyme A synthase	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+DHNA-CoA synthase	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+dihydroxynaphthoate synthase	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+naphthoate synthase (MenB)	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+DHNA synthetase	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+1,4-dihydroxy-2-naphthoate synthetase	4.1.3.36	1,4-dihydroxy-2-naphthoyl-CoA synthase
+DXPS	4.1.3.37	1-deoxy-D-xylulose 5-phosphate synthase
+1-deoxyxylulose-5-phosphate synthase	4.1.3.37	1-deoxy-D-xylulose 5-phosphate synthase
+DXP synthase	4.1.3.37	1-deoxy-D-xylulose 5-phosphate synthase
+enzyme X	4.1.3.38	aminodeoxychorismate lyase
+Abz2	4.1.3.38	aminodeoxychorismate lyase
+ADC lyase	4.1.3.38	aminodeoxychorismate lyase
+PabC-1	4.1.3.38	aminodeoxychorismate lyase
+4-amino-4-deoxychorismate lyase	4.1.3.38	aminodeoxychorismate lyase
+PabC-2	4.1.3.38	aminodeoxychorismate lyase
+TTHA0621 protein	4.1.3.38	aminodeoxychorismate lyase
+PabC	4.1.3.38	aminodeoxychorismate lyase
+ADCL	4.1.3.38	aminodeoxychorismate lyase
+MhpE	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+4-hydroxy-2-ketovalerate aldolase	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+HOA	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+DmpFG	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+class II pyruvate aldolase BphI	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+BphI	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+pyruvate aldolase	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+HsaF	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+4-hydroxy-2-ketovalerate aldolase-aldehyde dehydrogenase(acylation)	4.1.3.39	4-hydroxy-2-oxovalerate aldolase
+Hydroxymethylglutaryl coenzyme A-cleaving enzyme	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+Hydroxymethylglutaryl coenzyme A lyase	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+3-Hydroxy-3-methylglutaryl coenzyme A lyase	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+3-Hydroxy-3-methylglutaryl CoA cleaving enzyme	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+HMG CoA cleavage enzyme	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+3-hydroxy-methylglutaryl coenzyme A lyase	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+HCL1	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+HMGL	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+HL	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+3-hydroxy-3-methylglutaryl-coenzyme A lyase	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+3-hydroxy-3-methylglutaryl-CoA lyase-like protein	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+HMGCLL1	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+HMG CoA lyase	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+3-hydroxy-3-methylglutarate-CoA lyase	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+HMGCL	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+3-Hydroxy-3-methylglutaryl-CoA lyase	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+3-hydroxy-3-methylglutaryl CoA lyase	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+HMG-CoA lyase	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+in addition to show HMG-CoA lyase activity, LiuEalso displays 3-hydroxy-3-isohexenylglutaryl-CoA lyase activity	4.1.3.4	hydroxymethylglutaryl-CoA lyase
+chorismate lyase	4.1.3.40	chorismate lyase
+chorismate pyruvate-lyase	4.1.3.40	chorismate lyase
+Rv2949c enzyme	4.1.3.40	chorismate lyase
+chorismate-pyruvate lyase	4.1.3.40	chorismate lyase
+XanB2	4.1.3.40	chorismate lyase
+gene name	4.1.3.40	chorismate lyase
+d-HAA	4.1.3.41	3-hydroxy-D-aspartate aldolase
+D-3-hydroxyaspartate aldolase	4.1.3.41	3-hydroxy-D-aspartate aldolase
+ambiguous	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+ambiguous	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+ambiguous	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+ambiguous	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+ambiguous	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+ambiguous	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+ambiguous	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+ambiguous	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+ambiguous	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+ambiguous	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+gene name	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+gene name	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+KHG/KDPG aldolase	4.1.3.42	(4S)-4-hydroxy-2-oxoglutarate aldolase
+BphI	4.1.3.43	4-hydroxy-2-oxohexanoate aldolase
+TTHB246	4.1.3.43	4-hydroxy-2-oxohexanoate aldolase
+tRNA wyosine derivatives biosynthesis protein Taw1	4.1.3.44	tRNA 4-demethylwyosine synthase (AdoMet-dependent)
+Taw1	4.1.3.44	tRNA 4-demethylwyosine synthase (AdoMet-dependent)
+TYW1	4.1.3.44	tRNA 4-demethylwyosine synthase (AdoMet-dependent)
+locus name	4.1.3.44	tRNA 4-demethylwyosine synthase (AdoMet-dependent)
+S-citramalyl-CoA lyase	4.1.3.45	3-hydroxybenzoate synthase
+S-citramalyl-coenzyme A lyase	4.1.3.45	3-hydroxybenzoate synthase
+chorismatase/3-hydroxybenzoate synthase	4.1.3.45	3-hydroxybenzoate synthase
+bra8	4.1.3.45	3-hydroxybenzoate synthase
+gene name	4.1.3.45	3-hydroxybenzoate synthase
+3-HBA synthase	4.1.3.45	3-hydroxybenzoate synthase
+gene name	4.1.3.45	3-hydroxybenzoate synthase
+3HBA synthase	4.1.3.45	3-hydroxybenzoate synthase
+3-hydroxybenzoate synthase	4.1.3.45	3-hydroxybenzoate synthase
+XanB2	4.1.3.45	3-hydroxybenzoate synthase
+CCL	4.1.3.46	(R)-citramalyl-CoA lyase
+citrase	4.1.3.6	citrate (pro-3S)-lyase
+citratase	4.1.3.6	citrate (pro-3S)-lyase
+citritase	4.1.3.6	citrate (pro-3S)-lyase
+citridesmolase	4.1.3.6	citrate (pro-3S)-lyase
+citrate aldolase	4.1.3.6	citrate (pro-3S)-lyase
+lyase, citrate	4.1.3.6	citrate (pro-3S)-lyase
+citric aldolase	4.1.3.6	citrate (pro-3S)-lyase
+citrate oxaloacetate-lyase(pro-3S-COO- --> acetate)	4.1.3.6	citrate (pro-3S)-lyase
+can be dissociated into components, two of which areidentical with ec 2.8.3.10 and ec 4.1.3. 34	4.1.3.6	citrate (pro-3S)-lyase
+citrate (pro-3S)-lyase	4.1.3.6	citrate (pro-3S)-lyase
+citrate lyase	4.1.3.6	citrate (pro-3S)-lyase
+L-tryptophanase	4.1.99.1	tryptophanase
+TNase	4.1.99.1	tryptophanase
+L-tryptophan indole-lyase	4.1.99.1	tryptophanase
+TIL	4.1.99.1	tryptophanase
+tryptophan-indole lyase	4.1.99.1	tryptophanase
+tryptophan indole lyase	4.1.99.1	tryptophanase
+Tpase	4.1.99.1	tryptophanase
+tryptophan indole-lyase	4.1.99.1	tryptophanase
+gene name	4.1.99.1	tryptophanase
+tryptophanase	4.1.99.1	tryptophanase
+Trpase	4.1.99.1	tryptophanase
+BSS	4.1.99.11	benzylsuccinate synthase
+(R)-benzylsuccinate synthase	4.1.99.11	benzylsuccinate synthase
+toluene-activating enzyme	4.1.99.11	benzylsuccinate synthase
+benzylsuccinate synthase A	4.1.99.11	benzylsuccinate synthase
+gene name	4.1.99.11	benzylsuccinate synthase
+benzylsuccinate synthase	4.1.99.11	benzylsuccinate synthase
+cf. EC 3.5.4.25	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+RibA	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+3,4-dihydroxy-2-butanone-4-phosphate synthase	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+gene name	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+3,4-dihydroxy 2-butanone-4-phosphate synthase	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+Mtb-DHBPS	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+gene name, bi-bifunctional enzyme with DHBPS andGTPCH-II domains at N- and C-termini, respectively	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+DHBPS/GCHII	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+Mtb-ribA2	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+AtRIBA1	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+AtRIBA2	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+gene name	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+DHBP synthase	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+3,4-dihydroxy-2-butanone 4-phosphate synthase	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+DHBPS	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+Rib3	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+dihydroxybutanone phosphate synthase	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+L-3,4-dihydroxy-2-butanone-4-phosphate synthase	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+L-3,4-dihydroxy-2-butanone 4-phosphate synthase	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+DBPS	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+bifunctional enzyme: guanosine triphosphatecyclohydrolase II/3,4-dihydroxy-2-butanone-4-phosphate synthase	4.1.99.12	3,4-dihydroxy-2-butanone-4-phosphate synthase
+phr (6-4)	4.1.99.13	(6-4)DNA photolyase
+PL-(6-4)	4.1.99.13	(6-4)DNA photolyase
+(6-4) DNA photolyase	4.1.99.13	(6-4)DNA photolyase
+(6-4) photolyase	4.1.99.13	(6-4)DNA photolyase
+(6-4)-Phr	4.1.99.13	(6-4)DNA photolyase
+gene name	4.1.99.13	(6-4)DNA photolyase
+gene name	4.1.99.13	(6-4)DNA photolyase
+NF-10	4.1.99.13	(6-4)DNA photolyase
+human (6-4) photolyase homologous protein	4.1.99.13	(6-4)DNA photolyase
+H64PRH	4.1.99.13	(6-4)DNA photolyase
+6-4PP-photolyase	4.1.99.13	(6-4)DNA photolyase
+At64PHR	4.1.99.13	(6-4)DNA photolyase
+(6-4) PHR	4.1.99.13	(6-4)DNA photolyase
+Ds64PHR	4.1.99.13	(6-4)DNA photolyase
+DNA photolyase	4.1.99.13	(6-4)DNA photolyase
+(6-4)photolyase	4.1.99.13	(6-4)DNA photolyase
+OtCPF1	4.1.99.13	(6-4)DNA photolyase
+SP lyase is a member of the radicalS-adenosyl-L-methionine superfamily of enzymes	4.1.99.14	spore photoproduct lyase
+SPL	4.1.99.14	spore photoproduct lyase
+spore photoproduct lyase	4.1.99.14	spore photoproduct lyase
+SP lyase	4.1.99.14	spore photoproduct lyase
+gene name	4.1.99.14	spore photoproduct lyase
+geoA	4.1.99.16	geosmin synthase
+gene name	4.1.99.16	geosmin synthase
+thiC	4.1.99.17	phosphomethylpyrimidine synthase
+4-amino-5-hydroxymethyl-2-methylpyrimidine phosphate synthase	4.1.99.17	phosphomethylpyrimidine synthase
+HMP-P synthase	4.1.99.17	phosphomethylpyrimidine synthase
+LeThiC	4.1.99.17	phosphomethylpyrimidine synthase
+AtTHIC	4.1.99.17	phosphomethylpyrimidine synthase
+MOCS1A	4.1.99.18	cyclic pyranopterin phosphate synthase
+MoaA	4.1.99.18	cyclic pyranopterin phosphate synthase
+MoaC	4.1.99.18	cyclic pyranopterin phosphate synthase
+molybdenum cofactor biosynthesis protein 1	4.1.99.18	cyclic pyranopterin phosphate synthase
+thiH	4.1.99.19	2-iminoacetate synthase
+beta-tyrosinase	4.1.99.2	tyrosine phenol-lyase
+phenol-lyase, tyrosine	4.1.99.2	tyrosine phenol-lyase
+TPL	4.1.99.2	tyrosine phenol-lyase
+tyrosine-phenol lyase	4.1.99.2	tyrosine phenol-lyase
+tyrosine phenol-lyase	4.1.99.2	tyrosine phenol-lyase
+L-tyrosine phenol-lyase	4.1.99.2	tyrosine phenol-lyase
+tyrosine phenol lyase	4.1.99.2	tyrosine phenol-lyase
+3,4-AHBA synthase	4.1.99.20	3-amino-4-hydroxybenzoate synthase
+gene name	4.1.99.20	3-amino-4-hydroxybenzoate synthase
+cnx2	4.1.99.22	GTP 3',8-cyclase
+molybdenum cofactor biosynthetic enzyme	4.1.99.22	GTP 3',8-cyclase
+MoaC	4.1.99.22	GTP 3',8-cyclase
+MoaA	4.1.99.22	GTP 3',8-cyclase
+MOCS1B	4.1.99.22	GTP 3',8-cyclase
+MOCS1A	4.1.99.22	GTP 3',8-cyclase
+MogA	4.1.99.22	GTP 3',8-cyclase
+molybdenum-cofactor biosynthesis protein	4.1.99.22	GTP 3',8-cyclase
+Moco-biosynthesis protein	4.1.99.22	GTP 3',8-cyclase
+HBI synthase	4.1.99.23	5-hydroxybenzimidazole synthase
+gene name	4.1.99.23	5-hydroxybenzimidazole synthase
+pvcA	4.1.99.24	L-tyrosine isonitrile synthase
+isnA	4.1.99.25	L-tryptophan isonitrile synthase
+ambI1	4.1.99.25	L-tryptophan isonitrile synthase
+well1	4.1.99.25	L-tryptophan isonitrile synthase
+lyase, deoxyribonucleate pyrimidine dimer	4.1.99.3	deoxyribodipyrimidine photo-lyase
+deoxyribonucleate pyrimidine dimer lyase (photosensitive)	4.1.99.3	deoxyribodipyrimidine photo-lyase
+dipyrimidine photolyase (photosensitive)	4.1.99.3	deoxyribodipyrimidine photo-lyase
+DNA-photoreactivating enzyme	4.1.99.3	deoxyribodipyrimidine photo-lyase
+DNA cyclobutane dipyrimidine photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+deoxyribonucleic photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+deoxyribonucleic cyclobutane dipyrimidine photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+deoxyribodipyrimidine photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+PhrB photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+PRE	4.1.99.3	deoxyribodipyrimidine photo-lyase
+phr A photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPD class I photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+primase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+PHR1	4.1.99.3	deoxyribodipyrimidine photo-lyase
+the CryA sequence is located within the group of classI CPD photolyases	4.1.99.3	deoxyribodipyrimidine photo-lyase
+phrA	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPD-specific DNA photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+cyclobutane pyrimidine dimer-specific DNA photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+AtCry3	4.1.99.3	deoxyribodipyrimidine photo-lyase
+AtCry1	4.1.99.3	deoxyribodipyrimidine photo-lyase
+DASH cryptochrome	4.1.99.3	deoxyribodipyrimidine photo-lyase
+cryptochrome-DASH	4.1.99.3	deoxyribodipyrimidine photo-lyase
+class II cyclobutane pyrimidine dimer photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPDII	4.1.99.3	deoxyribodipyrimidine photo-lyase
+class II photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+class II CPD photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+cry3	4.1.99.3	deoxyribodipyrimidine photo-lyase
+XlCry-DASH	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CsPHR	4.1.99.3	deoxyribodipyrimidine photo-lyase
+PL	4.1.99.3	deoxyribodipyrimidine photo-lyase
+absorbs blue/UVA light as anenergy source to monomerize dimers	4.1.99.3	deoxyribodipyrimidine photo-lyase
+DNA photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+cyclobutane pyrimidinedimer photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+gene name	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPD-photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+member of theclass type III photolyases	4.1.99.3	deoxyribodipyrimidine photo-lyase
+class I cyclobutane pyrimidine dimer photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+class I CPD photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+VcCry1	4.1.99.3	deoxyribodipyrimidine photo-lyase
+cryptochrome 1	4.1.99.3	deoxyribodipyrimidine photo-lyase
+DNA repair protein photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+VcPHR	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPDphr	4.1.99.3	deoxyribodipyrimidine photo-lyase
+class II DNA photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+MmCPDII	4.1.99.3	deoxyribodipyrimidine photo-lyase
+PhrB	4.1.99.3	deoxyribodipyrimidine photo-lyase
+BsUvrC	4.1.99.3	deoxyribodipyrimidine photo-lyase
+Cry-DASH	4.1.99.3	deoxyribodipyrimidine photo-lyase
+St-photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+AMV025	4.1.99.3	deoxyribodipyrimidine photo-lyase
+eukaryotic class II cyclobutane pyrimidine dimer photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+eukaryotic Class II CPD PHR	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPD2PHR	4.1.99.3	deoxyribodipyrimidine photo-lyase
+PHR2	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPD specific photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+cyclobutane pyrimidine dimer specific photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPD1	4.1.99.3	deoxyribodipyrimidine photo-lyase
+class II CPD photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPD-Phr	4.1.99.3	deoxyribodipyrimidine photo-lyase
+DASH-type cryptochrome, the enzyme catalyzeslight-driven DNA repair like conventional photolyases but lacks anefficient flipping mechanism for interaction with cyclobutanepyrimidine dimer lesions within duplex DNA	4.1.99.3	deoxyribodipyrimidine photo-lyase
+class II CPD-DNA photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+gene name	4.1.99.3	deoxyribodipyrimidine photo-lyase
+photoreactivating enzyme	4.1.99.3	deoxyribodipyrimidine photo-lyase
+class I photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPDI	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPD photolyase photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+thymine dimer by photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+cyclobutane pyrimidine dimer PHR	4.1.99.3	deoxyribodipyrimidine photo-lyase
+photolyase I	4.1.99.3	deoxyribodipyrimidine photo-lyase
+deoxyribodipyrimidine photolyase type I enzyme	4.1.99.3	deoxyribodipyrimidine photo-lyase
+DNA photolyase type I enzyme	4.1.99.3	deoxyribodipyrimidine photo-lyase
+Cry1	4.1.99.3	deoxyribodipyrimidine photo-lyase
+Cry2	4.1.99.3	deoxyribodipyrimidine photo-lyase
+gene name	4.1.99.3	deoxyribodipyrimidine photo-lyase
+locus name	4.1.99.3	deoxyribodipyrimidine photo-lyase
+photolyase orthologue	4.1.99.3	deoxyribodipyrimidine photo-lyase
+PhrB orthologue	4.1.99.3	deoxyribodipyrimidine photo-lyase
+CPD-class I photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+cyclobutane pyrimidine dimer-class I photolyase	4.1.99.3	deoxyribodipyrimidine photo-lyase
+Ver3Phr	4.1.99.3	deoxyribodipyrimidine photo-lyase
+decarbonylase	4.1.99.5	aldehyde oxygenase (deformylating)
+CAD	4.1.99.5	aldehyde oxygenase (deformylating)
+cyanobacterial aldehyde decarbonylase	4.1.99.5	aldehyde oxygenase (deformylating)
+cADO	4.1.99.5	aldehyde oxygenase (deformylating)
+ADO	4.1.99.5	aldehyde oxygenase (deformylating)
+aldehyde-deformylating oxygenase	4.1.99.5	aldehyde oxygenase (deformylating)
+the cyanobacterial aldehyde decarbonylases belong to thefamily of alpha-helical ferritin-like proteins that harborcarboxylate-bridged dimetal (most often diiron) cofactors	4.1.99.5	aldehyde oxygenase (deformylating)
+aldehyde deformylating oxygenase	4.1.99.5	aldehyde oxygenase (deformylating)
+UniProt	4.1.99.5	aldehyde oxygenase (deformylating)
+aldehyde deformylase	4.1.99.5	aldehyde oxygenase (deformylating)
