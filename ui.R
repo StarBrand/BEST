@@ -7,17 +7,8 @@
 #    http://shiny.rstudio.com/
 #
 
-library(shiny)
-library(shinydashboard)
-library(DT)
-library(shinyjs)
-library(shinyWidgets)
-library(shinyalert)
-library(plotly)
-library(shinyBS)
-library(rclipboard)
-source("helpers.R")
-source("variables.R")
+source("resources/libs.R")
+source("methods/variables.R")
 
 dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
   dashboardHeader(title = img(src = 'Title(1).png',
@@ -169,7 +160,7 @@ dashboardPage(skin = "green", title = "BEST: BRENDA Easy Search Tool",
                   tags$br(),
                   div(style="display: inline-block;vertical-align:top;width: 50px;",
                   selectizeInput("ec_number1", "",
-                                 choices = read.table("ecNumber/select.txt",
+                                 choices = read.table("resources/ecNumber/select.txt",
                                                       sep = "\t", header = TRUE,
                                                       col.names = "dig1")$dig1
                                  )),
