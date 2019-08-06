@@ -1,5 +1,5 @@
 # BEST
-## Brenda Enzyme Searcher Tool (develop branch)
+## Brenda Enzyme Searcher Tool
 
 The enzymes are a complex group of proteins, which are essential for most biological processes in living systems. This characteristic gives them great potential in biotechnological applications.
 
