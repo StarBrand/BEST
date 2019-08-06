@@ -1,7 +1,3 @@
-library(shiny)
-source("methods/variables.R")
-source("methods/utils.R")
-
 order <- c(1, 2, 3, 4, 4, 5, 5, 5, 2, 6, 6, 3)
 ax <- list()
 ax[[1]] <- list(title = paste("Data", units[1]))

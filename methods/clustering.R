@@ -1,7 +1,3 @@
-library(dbscan)
-source("methods/correlation.R")
-source("methods/variables.R")
-
 set.seed(2)
 
 # K means

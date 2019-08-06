@@ -1,6 +1,7 @@
 install.packages(c('shiny',
 	'rmarkdown',
 	'shinydashboard',
+	'usethis',
 	'DT',
 	'shinyjs',
 	'shinyWidgets',

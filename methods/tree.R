@@ -1,10 +1,3 @@
-library(stringr)
-library(rlist)
-library(taxize)
-library(ggtree)
-library(shiny)
-source("methods/utils.R")
-
 # Generate species name
 speciesName <- function(species){
   a <- str_split(species, " ")

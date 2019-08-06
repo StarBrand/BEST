@@ -1,7 +1,3 @@
-library(shinyjs)
-library(shinyalert)
-source("methods/variables.R")
-
 # Assing reactive value
 assign_reactive_val <- function(reactive_val, property, new_value){
   aux <- reactive_val()

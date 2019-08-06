@@ -1,8 +1,3 @@
-library(stringr)
-library(plyr)
-library(shiny)
-library(rlist)
-
 pal <- seba_palette[c(1,15)]
 pal <- setNames(pal, c("Mutant", "Wild Type"))
 
