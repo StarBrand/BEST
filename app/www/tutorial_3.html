@@ -1,0 +1,200 @@
+<div style="height:60vh; overflow-y: scroll">
+	<div id="3" class="seccion level1">
+      <h2>Functional Parameters Query</h2>
+      <p>
+        This is the particular functionality this application has and, naturally, one of the tools that have the most options. If you
+        simply want all the numerical parameters available you can do 
+        <a href="#2_3">this.</a>
+      </p>
+    </div>
+    <div id="3_1" class="seccion level2">
+      <h3>Selecting parameters</h3>
+      <p>Brenda has 12 numerical parameters available for most of the EC number. Each of them is shown in different tables like this: </p>
+      <img src="Tutorial(17).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        The functional parameters query generate a single table with the parameters selected separated by the organism (and the commentary) 
+        in which the enzyme is located. To select these parameters, click the checkbox on the left of the list in the sidebar. If you want to 
+        select them all activating the "Select all functional parameters" switch on the top of the sidebar.
+      </p>
+      <img src="Tutorial(18).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        You can also select the enzymes included in the Parameter table by clicking the rows corresponding to the organism you want. But, if the 
+        "Use all the proteins found" switch above the table is selected, the query is going to include all the enzymes, therefore, if you want to 
+        search just the selected ones, deactivate it.
+      </p>
+      <img src="Tutorial(19).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <span class="help-block">
+        Note: Select the enzymes to the query will re-generate the Protein Table, leaving only those selected. The whole list of enzymes/organism 
+        cannot be recovered, for that, do the 
+        <a href="#1_2">Enzyme query</a>
+         again.
+      </span>
+      <br/>
+      <p>To do the query, click the "Search for parameters" green button at the end of the sidebar. This may take several minutes.</p>
+      <img src="Tutorial(20).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="3_2" class="seccion level2">
+      <h3>Other options of query</h3>
+    </div>
+    <div id="3_2_1" class="seccion level3">
+      <h4>Selecting by phylogeny</h4>
+      <p>
+        This functionality allows you to select the enzymes by one taxonomic rank of the organism which contains it. The taxonomic ranks available 
+        are superkingdom, phylum, class, order, family, genus, and species.
+      </p>
+      <img src="Tutorial(73).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        To do this filter prior to the parameter query, click the "Select by phylogeny" yellow button. After the phylogenetic is found, above the 
+        Protein table, it's going to appear a selector with the different available taxonomic ranks. Select the one you prefer, and this category is 
+        going to appear as a new column on the table below.
+      </p>
+      <img src="Tutorial(74).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        If you want to filter by one of these categories, let the protein table with the rows of the organism you want, and then press "Search" 
+        button.
+      </p>
+      <span class="help-block">Note: If you select by phylogeny, the rows selected are going to have no meaning to the selection.</span>
+    </div>
+    <div id="3_2_2" class="seccion level3">
+      <h4>Add enzymes</h4>
+      <p>
+        You can add more EC numbers to the query doing 
+        <a href="#1_2_1">this.</a>
+      </p>
+    </div>
+    <div id="3_2_3" class="seccion level3">
+      <h4>Filter by UniProt code</h4>
+      <p>
+        If you just want to use the enzymes that have 
+        <a href="https://www.uniprot.org/help/" target="_blank">UniProt code,</a>
+         activate the switch below the list of parameters.
+      </p>
+      <img src="Tutorial(21).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="3_3" class="seccion level2">
+      <h3>The Parameter Table</h3>
+      <p>The generated table has:</p>
+      <div style="margin-left: 40px;">
+        <p>
+          <i class="fa fa-arrow-alt-circle-right"></i>
+          6 columns indicating enzyme data, same as the shown in the 
+          <a href="#1_2">protein table</a>
+          :
+        </p>
+        <div style="margin-left: 60px;">
+          <p>
+            <i class="fa fa-arrow-right"></i>
+            EC number
+          </p>
+          <p>
+            <i class="fa fa-arrow-right"></i>
+            Systematic name
+          </p>
+          <p>
+            <i class="fa fa-arrow-right"></i>
+            Recommended name
+          </p>
+          <p>
+            <i class="fa fa-arrow-right"></i>
+            UniProt
+          </p>
+          <p>
+            <i class="fa fa-arrow-right"></i>
+            (Collapsible) Commentary
+          </p>
+          <p>
+            <i class="fa fa-arrow-right"></i>
+            (Collapsible) Literature: showing the Pubmed ID of the scientific paper
+          </p>
+        </div>
+        <p>
+          <i class="fa fa-arrow-alt-circle-right"></i>
+          3 or 4 columns for each parameter, the amount of columns is determined by the dependency of the molecule, such 
+          as an inhibitor or substrate:
+        </p>
+        <div style="margin-left: 60px;">
+          <p>
+            <i class="fa fa-arrow-right"></i>
+            Value: indicating the value as a single number or as a range (independent if the parameter is defined 
+            as a range or not). The column is named with the name of the parameter, an underscore and the word "value"
+          </p>
+          <p>
+            <i class="fa fa-arrow-right"></i>
+            Substrate/Inhibitor: indicating the name of the substrate or inhibitor. If the parameter does not 
+            depend on a molecule, this columns is missing
+          </p>
+          <p>
+            <i class="fa fa-arrow-right"></i>
+            (Collapsible) Commentary
+          </p>
+          <p>
+            <i class="fa fa-arrow-right"></i>
+            (Collapsible) Literature
+          </p>
+        </div>
+      </div>
+      <p>The parameter table looks like this:</p>
+      <img src="Tutorial(22).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        Above the table are two checkboxes indicating if the commentary and literature column is shown. If it is clicked, any of them, all the 
+        commentary (or literature) columns are shown, that is, of the organism and each parameter found. If both are selected, it will look 
+        like this:
+      </p>
+      <img src="Tutorial(23).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="3_4" class="seccion level2">
+      <h3>Filters</h3>
+      <p>
+        With the parameters table generated, you can also filter the numerical parameters setting the minimum and/or maximum value you 
+        want to preserve. For this, there are slide inputs in the sidebar of the parameters table that also have a checkbox on the left. These 
+        sliders are going to be shown if the respective parameter was selected on the previous step. In case the enzyme does not have 
+        any parameter reported on the Brenda database (which can be due to the lack of data reported in the literature), the slider is 
+        going to report that the parameter wasn't found. In the example below, there is no IC50 reported and the Kcat/Km was not required
+         for the query.
+      </p>
+      <img src="Tutorial(24).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        To use one parameter as a filter, move the slider letting the white circle at the left indicating the minimum value and the one 
+        at the right indicating the maximum value your parameter is going to have. Then, click the checkbox next to the slider. Repeat this 
+        for every parameter you want, and leave the checkbox unchecked if the parameter is indifferent to your filtering. Finally, click the 
+        "Filter" blue button to generate the filtered table. In the example below, the molecular weight was used as a filter, it is shown 
+        that the minimum value before and after the filtering, has changed.
+      </p>
+      <img src="Tutorial(25).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <img src="Tutorial(26).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <span class="help-block">
+        Note: There are a few Pubmed ID that says "Brenda ID: XXX" as a code. This means that searching with Brenda SOAP did not report the Pubmed ID from 
+        the BRENDA literature code used internally on Brenda. On the 
+        <a href="#3_5">downloaded table,</a>
+         the link refers to the paper on Brenda Site
+      </span>
+      <br/>
+      <p>
+        If you want to undo the filtering and recover the generated table as what it was just after the query, unchecked every checkbox on the 
+        sidebar, it doesn't matter any slider input does not have the selectors on the minimum and maximum respectively. Then, click the "
+        Filter" blue button.
+      </p>
+      <img src="Tutorial(27).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="3_5" class="seccion level2">
+      <h3>Download table</h3>
+      <p>The generated and filtered table can be download locally by clicking the "Download table" blue button above the table.</p>
+      <img src="Tutorial(28).jpg" width="400px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        The downloaded table is a .txt file which columns are separated by the tabulator character. It contains the commentary and literature columns 
+        regardless of whether they are shown or not, and it has the parameter as shown, this is, filtered.
+      </p>
+      <img src="Tutorial(29).jpg" width="600px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        You can access this table as you want, for reference 
+        <a href="https://support.office.com/en-us/article/import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba" target="_blank">Microsoft Office Excel</a>
+        can generate a workbook from this file, remember it has a header row, it's separated by TAB character and it doesn't have the row names. With 
+        <a href="https://cran.r-project.org/" target="_blank">R</a>
+        you can open it with the following command: 
+      </p>
+      <code>read.table(&lt;table_name&gt;, sep = "\t", header = TRUE)</code>
+      <br/>
+      <br/>
+      <p>The protein table can be downloaded too with the same format and particularities.</p>
+    </div>	
+</div>
