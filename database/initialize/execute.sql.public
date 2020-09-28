@@ -1,0 +1,7 @@
+CREATE DATABASE <redacted_database_name>;
+\c <redacted_database_name>;
+CREATE USER <redacted_user_name> WITH ENCRYPTED PASSWORD '<redacted_pass>';
+GRANT ALL ON DATABASE <redacted_database_name> TO <redacted_user_name>;
+\c <redacted_database_name> <redacted_user_name>;
+CREATE SCHEMA <redacted_schema>;
+ALTER ROLE <redacted_user_name> SET search_path TO <redacted_schema>;

@@ -43,8 +43,11 @@ BEST.RProj
 docker-compose.yml
 best.build.log
 
-# Database
+# Resources
 app/resources/secrets.R
 app/resources/BrendaSOAP.jar
 config/app/secrets.R
 config/app/BrendaSOAP.jar
+
+# Database
+database/initialize/execute.sql
