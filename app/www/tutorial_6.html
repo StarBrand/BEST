@@ -1,0 +1,81 @@
+<div style="height:60vh; overflow-y: scroll">
+    <div id="6" class="seccion level1">
+      <h2>Cluster</h2>
+      <p>
+        <a href="https://dl.acm.org/citation.cfm?doid=568574.568575" target="_blank">Cluster analysis</a>
+         is a technic of exploratory data mining and statistical data analysis. It consists of grouping a set of object related to each other more than 
+        those on other groups (clusters). To do clustering click the "Analyze" green button above the parameter table.
+      </p>
+      <img src="Tutorial(28).jpg" width="300px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="6_1" class="seccion level2">
+      <h3>K-means</h3>
+      <p>
+        <a href="https://ieeexplore.ieee.org/document/1056489" target="_blank">K-means</a>
+         is a clustering algorithm consisting of generating 
+        random points and calculate a distance among the nearest point, discarding the most distant one and repeating until the k (number of clusters) are 
+        generated. To do the k-means clustering click the "K-means clustering" green button on the Cluster section or change the tab to the K-means clustering.
+      </p>
+      <img src="Tutorial(45).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        On the sidebar select 2 (for a 2-dimensional clustering) or 3 (for a 3-dimensional one) and click the "Clusterize" blue button below the parameters 
+        list.
+      </p>
+      <img src="Tutorial(46).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        The k (the number of clusters) is determined by calculating the within-cluster sum of square (WSS), which a measure of the distance of the point within 
+        each cluster. Then, the biggest decrease is chosen, this is called the "Elbow" method.
+      </p>
+      <img src="Tutorial(47).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <span class="help-block">
+        Note: This graph is done with the 
+        <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library.</a>
+         Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make a 
+        different type of zooms.
+      </span>
+      <br/>
+      <p>
+        You also can download the clustering as a .txt file, the format has described 
+        <a href="#3_5">before,</a>
+         containing the cluster as a column with the number of the cluster. This is more useful in case the data was reduced in order to 
+        allow the visualization.
+      </p>
+    </div>
+    <div id="6_2" class="seccion level2">
+      <h3>DBSCAN</h3>
+      <p>
+        Another clustering algorithm is 
+        <a href="https://towardsdatascience.com/how-dbscan-works-and-why-should-i-use-it-443b4a191c80" target="_blank">DBSCAN,</a>
+         this algorithm 
+        is based on the density of the clusters. Taking an initial epsilon, as the distance between two points, and a minimum of points value, a cluster is defined when a region of points is 
+        enough dense. To do a DBSCAN clustering, click the second green button on the sidepanel of the Clustering section or just select the tab "DBSCAN Clustering".
+      </p>
+      <img src="Tutorial(48).jpg" width="350px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>Once in the "DBSCAN Clustering" section, select the two o three parameters you want to cluster and merge this data by clicking the "Merge data" blue button.</p>
+      <img src="Tutorial(49).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        This going to generate a histogram showing the twenty intervals of the (Euclidean) distance between each parameter and the frequency of it. There are no rules of how to select 
+        the two parameters needed, epsilon and minimum points, but the shown plot could help. Choose an adequate distance, generally the maximum value of the modal range. A too long epsilon 
+        won't generate too many cluster and too small one clustering the whole data. Min Points too small or too long has the same effect. Min Points should be at least greater than the number 
+        of dimension (two or three parameters) plus one. Use the sliders to select these parameters and click the "Cluster" button.
+      </p>
+      <img src="Tutorial(50).jpg" width="200px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <span class="help-block">
+        Note: it is possible that the amount of data are too much to calculate distance. In this case, data is going to be reduced and the eliminated data are not going to be used for 
+        clustering.
+      </span>
+      <p>Clusters are defined as numbers from 1, while 0 means unclustered points, due to low-density regions is generated, also called as outliers.</p>
+      <img src="Tutorial(51).jpg" width="700px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <span class="help-block">
+        Note: This graph is done with the 
+        <a href="https://plot.ly/d3-js-for-r-and-shiny-charts/" target="_blank">Plotly library.</a>
+         Hence, you can hide/show the different parameters by clicking the legend on the right, save as .png, and make a 
+        different type of zooms.
+      </span>
+      <p>
+        Same as "
+        <a href="#6_1">k-means</a>
+        ", if data is lost for visualization, this is available clustering in a downloaded table.
+      </p>
+    </div>
+</div>

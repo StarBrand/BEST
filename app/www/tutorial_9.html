@@ -1,0 +1,178 @@
+<div style="height:60vh; overflow-y: scroll">
+    <div id="9" class="seccion level1">
+      <h2>Errors</h2>
+      <p>
+        This is an application on development, hence, we are still dealing with a few minor issues. Some of them are identified and are presented as 
+        <a href="#9_2">Unavoidable errors</a>
+         and the not identified yet can be reported on the 
+        <a id="sugghelp" href="#" class="action-button">Suggestions section.</a>
+         The ones that are identified, but depends on the user are presented as 
+        <a href="#9_1">Avoidable errors</a>
+        on the section below.
+      </p>
+    </div>
+    <div id="9_1" class="seccion level2">
+      <h3>Avoidable errors</h3>
+      <p>
+        If the user, on purpose or accidentally, enters an invalid input that is identified, an error is going to be announced and the action won't be done. Those kinds of error are 
+        listed here.
+      </p>
+    </div>
+    <div id="9_1_1" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Enter Brenda User
+      </h4>
+      <p>Without a valid Brenda User, we cannot do any query, particularly, the first one: the Enzyme query.</p>
+      <img src="Tutorial(61).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="9_1_2" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Wrong Password
+      </h4>
+      <p>The entered password is invalid, but the mail is a valid Brenda User.</p>
+      <img src="Tutorial(62).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="9_1_3" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Not a Brenda Account
+      </h4>
+    
+      <p>
+        The entered mail hasn't registered on Brenda, to register, please enter on the 
+        <a href="https://www.brenda-enzymes.org/register.php" target="_blank">Brenda Registration site.</a>
+      </p>
+      <img src="Tutorial(63).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="9_1_4" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Make an enzyme query
+      </h4>
+      <p>
+        To be able to get amino acids FASTA sequence, PDB, or functional parameters, an 
+        <a href="#1_1">enzyme query</a>
+         must be done first.
+      </p>
+      <img src="Tutorial(64).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="9_1_5" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Cannot add
+      </h4>
+      <p>Simply, if enzyme hasn't added to the query, there's no need to add more.</p>
+      <img src="Tutorial(65).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="9_1_6" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Make a functional parameters query
+      </h4>
+      <p>
+        The visualization and the clustering analysis need functional parameters, therefore, to apply these tools, first, do a 
+        <a href="#3">functional parameters query).</a>
+      </p>
+      <img src="Tutorial(66).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="9_1_7" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        A wrong number of parameters selected
+      </h4>
+      <p>
+        Some tools require selecting some of the functional parameters found. The number of these parameters are indicated, however, if 
+        the amount of selected parameter differs from those indicated, you're going to be notified and the action won't be done.
+      </p>
+      <img src="Tutorial(67).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="9_2" class="seccion level2">
+      <h3>Unavoidable errors</h3>
+      <p>
+        Some issues are identified, but we haven't found a solution yet. Some of them have a not reported solution, but some not. The objective of this section 
+        is to make those issues clear and make the user be aware of them.
+      </p>
+    </div>
+    <div id="9_2_1" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Slower Algorithm
+      </h4>
+      <p>
+        Some enzyme has a particular problem. Due to storage issues, some search needs a slower algorithm. This is because, in order to save time, the SOAP query is made 
+        just one time per EC number, and then the answer is parsed. When there are too many sequences or organisms this can't be done, so the query must be done different 
+        and slower. You can cancel the operation or go ahead if you have enough time.
+      </p>
+      <img src="Tutorial(68).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="9_2_2" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Unexpected error on search
+      </h4>
+      <p>This error isn't supposed to happen, but if it does you can try again. If this error persists, please, report it on the Suggestion section.</p>
+      <img src="Tutorial(69).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <p>
+        If you click the "Report this Bug" button, you are going to be redirected to the 
+        <a href="#9_2_6">Suggestion section,</a>
+         where you can report it 
+        following the given instruction.
+      </p>
+      <img src="Tutorial(70).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="9_2_3" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        The parameters appear selected, but the query doesn't show anything
+      </h4>
+      <p>
+        We don't know what this happen, but it did happen several times on the tests. However, there is a simple solution. First, deactivate the "Select all" blue switch, 
+        then, select the parameters you need or reactivate the blue switch. Do the query again, in case this is still happening, repeat the process or report it 
+        in the 
+        <a id="sugghelp2" href="#" class="action-button">Suggestions section.</a>
+      </p>
+      <img src="Tutorial(71).jpg" width="450px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+    <div id="9_2_4" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Reduce the obtained rows
+      </h4>
+      <p>
+        Some visualization and analysis require too much storage. In order to be able to do them anyway and avoid the complete failure of the web site, we choose to 
+        reduce data in case the generated rows are too much to storage or to merge. This could happen on the 
+        <a href="#6">clustering</a>
+         or on the 
+        <a href="#5_3_2">paired scatter plot correlation.</a>
+         In the first case, the clustering is done with all the data, but the visualization doesn't. In the 
+        second situation, the visualization is due with reduced data.
+      </p>
+      <img src="Tutorial(72).jpg" width="400px" style="display: block; margin-left: auto; margin-right: auto;"/>
+      <br/>
+      <p>To reduce the data, we eliminate the pair rows and leave the odd ones. In case there's still too much data, the process is repeated.</p>
+    </div>
+    <div id="9_2_5" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Empty table
+      </h4>
+      <p>
+        If this happens it can be for two reasons: 1) enzyme doesn't have data or 2) there was an error on search. You can 
+        <a href="#9_2_6">report this,</a>
+         try again, make a search about the enzyme or contact us.
+      </p>
+    </div>
+    <div id="9_2_6" class="seccion level3">
+      <h4>
+        <i class="fa fa-exclamation-triangle"></i>
+        Suggestions
+      </h4>
+      <p>
+        If any strange or unexpected thing happens, please report it on the 
+        <a id="sugghelp3" href="#" class="action-button">"Suggestions section".</a>
+      </p>
+      <img src="Tutorial(70).jpg" width="500px" style="display: block; margin-left: auto; margin-right: auto;"/>
+    </div>
+</div>

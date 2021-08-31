@@ -1,0 +1,23 @@
+version: '3'
+services:
+  best:
+    image: "best"
+    volumes:
+      - "<redacted>/config/shiny-server:/etc/shiny-server"
+      - "<redacted>/config/app:/srv/shiny-server/resources"
+      - "<redacted>/log:/var/log/shiny-server"
+      - "<redacted>/suggestion_box:/srv/shiny-server/suggestion_box"
+      - "<redacted>/results:/srv/shiny-server/results"
+    network_mode: host
+    ports:
+      - "3838:3838"
+  database:
+    image: "postgres:12"
+    container_name: best_database
+    ports:
+      - "5432:5432"
+    volumes:
+      - "<redacted>/database:/var/lib/postgresql/data"
+      - "<redacted>/initialize:/docker-entrypoint-initdb.d/"
+    environment:
+      POSTGRES_PASSWORD: "<redacted>"
